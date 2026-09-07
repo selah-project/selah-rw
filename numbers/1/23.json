@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibarurwa ryabo, kw'ishami rya Shimoni: ⟨ni⟩ cyenda na mirongo itanu ibihumbi, n'amajana atatu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ibarurwa ryabo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kw'ishami rya"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "cyenda"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana atatu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:35.321055976Z",
+  "model": "glm-5.3"
+}

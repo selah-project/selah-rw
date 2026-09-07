@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Yahwe, umuntu ni iki ko umumenya, umwana w'umuntu ko umutekereza?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ko umumenya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "w'umuntu (wapfuje)"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ko umutekereza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.159231496Z",
+  "model": "glm-5.3"
+}

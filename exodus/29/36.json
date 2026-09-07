@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Kandi ukore inka y'icyaha buri munsi, ku makoprwa; ukize ibyaha ku baganiro mu gukora koprwa ku co, maze ukunanize ⟨את⟩ co ngo gitagatifwe.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "y'icyaha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "buri munsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "makoprwa"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ukize ibyaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ibaganiro"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "mu gukora koprwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku co"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "maze ukunanize"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ibaganiro"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ngo gitagatifwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:07.869016886Z",
+  "model": "glm-5.3"
+}

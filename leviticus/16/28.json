@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Na washye ⟨את⟩ ibyo azakaraba imyambaro ye, maze araba ⟨את⟩ umubiri we mu mazi; nyuma y'ibyo azinjira mu kambi.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "na washye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ibyo",
+      "marks": "izo nyamaswa (inko n'ihene y'icyaha)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "azakaraba"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri we"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umubiri we"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y'ibyo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "azinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:46:28.798849975Z",
+  "model": "glm-5.3"
+}

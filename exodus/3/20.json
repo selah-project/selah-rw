@@ -1,0 +1,76 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "exodus 3:20",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Nzasohora ⟨את⟩ intoki yanjye, maze nzakubita ⟨את⟩ Mitsrayimu n'ibitangaza byanjye byose ambayo nzakora muri bo; nyuma ibyo azabareka ⟨את⟩ mwe.",
+ "tokens": [
+  {
+   "surface": "ושלחתי",
+   "gloss": "Nzasohora"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "intoki yanjye"
+  },
+  {
+   "surface": "ידי",
+   "gloss": "intoki yanjye"
+  },
+  {
+   "surface": "והכיתי",
+   "gloss": "maze nzakubita"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Mitsrayimu"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayimu"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "נפלאתי",
+   "gloss": "n'ibitangaza byanjye"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ambayo"
+  },
+  {
+   "surface": "אעשה",
+   "gloss": "nzakora"
+  },
+  {
+   "surface": "בקרבו",
+   "gloss": "muri bo"
+  },
+  {
+   "surface": "ואחרי",
+   "gloss": "nyuma"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ibyo"
+  },
+  {
+   "surface": "ישלח",
+   "gloss": "azabareka"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "muriwe"
+  }
+ ],
+ "timestamp": "2026-09-07T08:39:02.052855018Z",
+ "model": "glm-5.3"
+}

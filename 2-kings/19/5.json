@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Abasirikari b'umwami Chizkiyahu (Hizikiya) bajyanye kwa Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bajyanye"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abasirikari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "b'umwami"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu (Hizikiya)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:26:52.830710404Z",
+  "model": "glm-5.3"
+}

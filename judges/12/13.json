@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Nyuma yiwe Avdonu mwene Hileli, umunya wa Piratonu, yacitse ⟨את⟩ Yisraeli urubanza.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yacitse urubanza"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdonu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hileli"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "umunya wa Piratonu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:06:57.290862894Z",
+  "model": "glm-5.3"
+}

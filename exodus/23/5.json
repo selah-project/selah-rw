@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyo ubona indogobe y'uwaguhakana iryamye munsi y'ibizemo byayo, maze ugahagara ku kuyirekura — ⟨no gusa⟩ uzayirekura hamwe na we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "indogobe"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "y'uwaguhakana"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "iryamye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "y'ibizemo byayo"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "maze ugahagara"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ku kuyirekura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iryo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "⟨no gusa⟩"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "uzayirekura"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:05.701377061Z",
+  "model": "glm-5.3"
+}

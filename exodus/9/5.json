@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yashyiriweho igihe cyagenwe, ati: ejo Yahwe azakora icyo gikorwa mu gihugu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yashyiriweho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "igihe cyagenwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ejo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:50.469796906Z",
+  "model": "glm-5.3"
+}

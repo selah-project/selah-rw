@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Vugira ku bahungu ba Yisraeli, ubabwire uti: njye ⟨ni⟩ Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vugira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:37.547430343Z",
+  "model": "glm-5.3"
+}

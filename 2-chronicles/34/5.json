@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Kandi amagufwa y'abakohenu ya shave ku bicaniro byabo, maze yasukuye ⟨את⟩ Yehuda na ⟨את⟩ Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "kandi amagufwa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "y'abakohenu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ya shave"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "bicaniro byabo"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "maze yasukuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:05:53.260102253Z",
+  "model": "glm-5.3"
+}

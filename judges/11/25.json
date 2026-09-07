@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 11:25",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "None ubu, wowe ⟨ni⟩ umuntu uriho kurusha Balaki mwene Tsipori, umwami w'i Moavu? None yamaze gutabarana na Yisraeli, cyangwa yamaze kurwana na bo?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨ni⟩ umuntu uriho kurusha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "uriho kurusha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מבלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipori"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavu"
+    },
+    {
+      "surface": "הרוב",
+      "gloss": "yamaze gutabarana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gutabarana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yamaze kurwana"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kurwana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:07:39.520969370Z",
+  "model": "glm-5.3"
+}

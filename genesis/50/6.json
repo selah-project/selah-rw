@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "genesis 50:6",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 50,
+ "translation": "Paro aravuga ati: Zamuka, uzimbike ⟨את⟩ data wawe, uko yaraguhishije isezerano.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga ati"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paro"
+  },
+  {
+   "surface": "עלה",
+   "gloss": "Zamuka"
+  },
+  {
+   "surface": "וקבר",
+   "gloss": "uzimbike"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "data wawe"
+  },
+  {
+   "surface": "אביך",
+   "gloss": "data wawe"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "השביעך",
+   "gloss": "yaraguhishije isezerano"
+  }
+ ],
+ "timestamp": "2026-09-07T08:33:12.602580487Z",
+ "model": "glm-5.3"
+}

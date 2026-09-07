@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kuko ntabwo azi amahoro mu nda ye; mu byo yifuzaga ntabwo abohoye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "mu nda ye"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "mu byo yifuzaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "abohoye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:31:12.327558274Z",
+  "model": "glm-5.3"
+}

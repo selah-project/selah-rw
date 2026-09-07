@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Ariko njye nari navuze mu mahoro yanjye nti: Ntazigera ku iteka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nari navuze"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "mu mahoro yanjye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nzigera"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:06.078707318Z",
+  "model": "glm-5.3"
+}

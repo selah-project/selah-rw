@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Uko byinshi, ibikorwa byawe, Yahwe; byose wakoze mu bwenge, isi yuzuye umutungo wawe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "mu bwenge"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "umutungo wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:39.375152843Z",
+  "model": "glm-5.3"
+}

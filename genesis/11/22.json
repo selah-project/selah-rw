@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Serugi yabayeho imyaka mirongo itatu, maze yabyara ⟨את⟩ Nahori.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:29.318655004Z",
+  "model": "glm-5.3"
+}

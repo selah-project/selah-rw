@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Barahanuye kugenda inyuma, baricumuye nk'abase babo; bahindutse nk'umuyari w'uburacyi.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "barahanuye kugenda inyuma"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "baricumuye"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "nk'abase babo"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "bahindutse"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "nk'umuyari"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "w'uburacyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:46.014249714Z",
+  "model": "glm-5.3"
+}

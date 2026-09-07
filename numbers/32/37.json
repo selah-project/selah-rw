@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Abana ba Reubenu (Rubeni) bakubuye ⟨את⟩ Heshuboni (Hesiboni), na ⟨את⟩ Elale (Elale), na ⟨את⟩ Kiriyathayimu (Kiriyatayimu).",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubenu (Rubeni)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bakubuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshuboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshuboni (Hesiboni)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale (Elale)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiriyathayimu"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriyathayimu (Kiriyatayimu)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:18.144750266Z",
+  "model": "glm-5.3"
+}

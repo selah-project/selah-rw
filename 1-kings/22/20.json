@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Yahwe na yaravuze ati: Ni nde waziguza ⟨את⟩ Ahabu (Ahabu), ajye yigera ajugunywa i Ramoti ya Gileadi? Maze uyu avuga ati uko, na uyu avuga ati uko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "waziguza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu (Ahabu)"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ajye yigera"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ajugunywa"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "i Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gileadi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze ... avuga ati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na uyu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "uko"
+    }
+  ],
+  "timestamp": "2026-09-07T14:03:42.069056619Z",
+  "model": "glm-5.3"
+}

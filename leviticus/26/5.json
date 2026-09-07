@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Isigirwa ryanyu rizagera ⟨את⟩ umwimbu w'imizabibu, kandi umwimbu w'imizabibu uzagera ⟨את⟩ igihe cy'imbuto; muzarya imigati yanyu kugeza mukize, muzatuta neza mu gihugu cyanyu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "rizagera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ryanyu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "isigirwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwimbu w'imizabibu"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "umwimbu w'imizabibu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "kandi umwimbu"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "uzagera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihe cy'imbuto"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "imigati yanyu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kugeza mukize"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "muzatuta"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "neza"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "mu gihugu cyanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:54:30.029488077Z",
+  "model": "glm-5.3"
+}

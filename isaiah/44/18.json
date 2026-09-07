@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ntabazi kandi ntibumva: amaso yabo yarakubishe ibyondo ngo batibone, n'imitima yabo ngo batamenye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bumva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טח",
+      "gloss": "yarakubishe"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ngo batibone"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amaso yabo"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ngo batamenye"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "n'imitima yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:26.956732373Z",
+  "model": "glm-5.3"
+}

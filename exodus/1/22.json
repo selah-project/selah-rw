@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Paro yategetse abantu be bose ati: Buri mwana w'umuhungu uzabyarwa, muri uruzi muramurundura, na buri mwana w'umukobwa mureka abeho.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mwana w'umuhungu"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "uzabyarwa"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "muri uruzi"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "muramurundura"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "mwana w'umukobwa"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mureka abeho"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:05.416220962Z",
+  "model": "glm-5.3"
+}

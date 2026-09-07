@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Njye ⟨ngira inama⟩: umunwa w'umwami urindwe, kandi ⟨ni⟩ ku bw'urarahiro rw'Elohimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "w'umwami"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "urindwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "bw'"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "urarahiro rw'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:53.844878006Z",
+  "model": "glm-5.3"
+}

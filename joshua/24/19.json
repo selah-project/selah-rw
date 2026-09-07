@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 24:19",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze Yehoshuwa (Yosuwa) abwira abantu ati: Ntimushobora gukorera ⟨את⟩ Yahwe, kuko Elohimu ni itagatifu; Eli w'icyisho ni we; ntazayemerera ibyangirizi byanyu n'ibyaha byanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze abwira… ati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "mushobora"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gukorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "itagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "w'icyisho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "azayemerera"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "ibyangirizi byanyu"
+    },
+    {
+      "surface": "ולחטאותיכם",
+      "gloss": "n'ibyaha byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:33.084738614Z",
+  "model": "glm-5.3"
+}

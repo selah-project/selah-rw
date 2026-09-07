@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ntunuze mu bakora ibibi, na mu bantu b'amaraso unkize.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntunuze"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "mu bakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "na mu bantu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "b'amaraso"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "unkize"
+    }
+  ],
+  "timestamp": "2026-09-07T23:23:12.313235079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe arazamutse, kuko atuye hejuru; yuzuje Tsiyoni itegeko n'ubutabera.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "arazamutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "atuye"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yuzuje"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:47.491870831Z",
+  "model": "glm-5.3"
+}

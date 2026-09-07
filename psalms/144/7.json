@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Ohereza ibiganza byawe uva hejuru, unyokore unankize mu mazi menshi, mu biganza by'abana b'abanyamahanga.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ohereza"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ibiganza byawe"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "uva hejuru"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "unyokore"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "unankize"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "b'abanyamahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.267138708Z",
+  "model": "glm-5.3"
+}

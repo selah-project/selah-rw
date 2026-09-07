@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Kuko ababi bazagatsibwa, ariko abategereje Yahwe ni bo bazagira ubutaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "bazagatsibwa"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "abategereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bazagira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:01.776272517Z",
+  "model": "glm-5.3"
+}

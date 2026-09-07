@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Azaba nk'igiti kibanywe hejuru y'ibyuzi by'amazi, uko ibyamwa byacyo bitanga mu gihe cyacyo, n'ibabari byacyo ntibihwema, kandi byose akora biratunganya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "nk'igiti"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "kibanywe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ibyuzi bya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ibyamwa byacyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bitanga"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "mu gihe cyacyo"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "n'ibabari byacyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "bihwema"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(uko)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akora"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "biratunganya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:49.473744597Z",
+  "model": "glm-5.3"
+}

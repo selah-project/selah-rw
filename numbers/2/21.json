@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "n'ingabo ye n'ibibarwa byabo ⟨ni⟩ ibihumbi mirongo ibiri n'ebyiri mu ijana",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "n'ingabo ye"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "n'ibibarwa byabo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "n'ibihumbi mirongo ibiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "n'ibiri mu ijana"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:57.960918182Z",
+  "model": "glm-5.3"
+}

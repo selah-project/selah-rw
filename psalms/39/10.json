@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Nacyeje, ndasigutura ikanwanjye, kuko wowe wakoze ⟨cyo⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nacyeje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndasigutura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ikanwanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:08.577051300Z",
+  "model": "glm-5.3"
+}

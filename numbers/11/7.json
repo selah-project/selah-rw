@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi umana ni nka imbuto za gadu, kandi ishusho yaryo nka ishusho ya bedolahi.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "umana"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "nka imbuto"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gadu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ishusho yaryo"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "nka ishusho"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolahi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:11:05.184867119Z",
+  "model": "glm-5.3"
+}

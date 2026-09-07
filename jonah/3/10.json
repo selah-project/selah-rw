@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Elohimu yabonye ⟨את⟩ ibikorwa byabo — ko bagarutse ku nzira yabo mbi — Elohimu aragira ikigongwe ku byago yari yavugiye ko yakora kuri bo, kandi ntiyabyakoze.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikorwa byabo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ibikorwa byabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bagarutse"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ku nzira yabo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "aragira ikigongwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ibyago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yavugiye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ko yakora"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "abyakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:06.658657536Z",
+  "model": "glm-5.3"
+}

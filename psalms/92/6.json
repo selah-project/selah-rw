@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Uko byagutse byose, ibikorwa byawe, Yahwe; cyane byimbitse imigambi yawe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "byagutse byose"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "byimbitse"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "imigambi yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:21.124256421Z",
+  "model": "glm-5.3"
+}

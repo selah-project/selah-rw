@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze baravuga bati: Ni uko bahashe ⟨את⟩ Beriti ya Yahwe Elohimu wabo, bakubamira imana z'indi, bakanazikorera.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Maze baravuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "bati kubera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bahashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bakubamira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "z'indi"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "bakanazikorera"
+    }
+  ],
+  "timestamp": "2026-09-07T16:01:18.110120414Z",
+  "model": "glm-5.3"
+}

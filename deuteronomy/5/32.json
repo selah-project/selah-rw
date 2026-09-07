@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "deuteronomy 5:32",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Muzirinde kubikora uko Yahwe, Elohimu wanyu, yategetse ⟨את⟩ mwe; ntimukure iburyo n'ibumoso.",
+ "tokens": [
+  {
+   "surface": "ושמרתם",
+   "gloss": "Muzirinde"
+  },
+  {
+   "surface": "לעשות",
+   "gloss": "kubikora"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yategetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimu wanyu"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩",
+   "marks": "mwe"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "תסרו",
+   "gloss": "mukure"
+  },
+  {
+   "surface": "ימין",
+   "gloss": "iburyo"
+  },
+  {
+   "surface": "ושמאל",
+   "gloss": "n'ibumoso"
+  }
+ ],
+ "timestamp": "2026-09-07T10:51:19.342439320Z",
+ "model": "glm-5.3"
+}

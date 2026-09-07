@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ Daaha, na ⟨את⟩ Aya, uko bwoko bye byose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Daaha"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "Daaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "uko bwoko bye byose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:19.785781017Z",
+  "model": "glm-5.3"
+}

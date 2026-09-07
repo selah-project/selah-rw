@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo umugabo ampisha ⟨את⟩ umugaragu we cyangwa ⟨את⟩ umuja we n'umwuma, maze apfa mu ntoki ze, rwose azahanwa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ampisha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu we"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umugaragu we"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuja we"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "umuja we"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "n'umwuma"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "maze apfa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ntoki ze"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "azahanwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:45.776008947Z",
+  "model": "glm-5.3"
+}

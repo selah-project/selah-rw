@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Elohimu, waradutandukanyije, waraduteshuye, wararakaje — usubire kuri twebwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "waradutandukanyije"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "waraduteshuye"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wararakaje"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "usubire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.758694266Z",
+  "model": "glm-5.3"
+}

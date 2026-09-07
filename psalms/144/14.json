@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 144:14",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 144,
+ "translation": "Inkomo zacu za wangiza cyane, nta gutobora, na nta guhava, na nta kurira mu biraro byacu.",
+ "tokens": [
+  {
+   "surface": "אלופינו",
+   "gloss": "inkomo zacu"
+  },
+  {
+   "surface": "מסבלים",
+   "gloss": "za wangiza cyane"
+  },
+  {
+   "surface": "אין",
+   "gloss": "nta"
+  },
+  {
+   "surface": "פרץ",
+   "gloss": "gutobora"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "na nta"
+  },
+  {
+   "surface": "יוצאת",
+   "gloss": "guhava"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "na nta"
+  },
+  {
+   "surface": "צוחה",
+   "gloss": "kurira"
+  },
+  {
+   "surface": "ברחבתינו",
+   "gloss": "mu biraro byacu"
+  }
+ ],
+ "timestamp": "2026-09-07T18:57:37.170064041Z",
+ "model": "glm-5.3"
+}

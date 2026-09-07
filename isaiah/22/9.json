@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi ⟨את⟩ ibice by'umujyi wa Dawidi mwarebye ko byiyongereye, maze mwakusanye ⟨את⟩ amazi y'ibwika ryo hasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibice by'umujyi wa Dawidi"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "ibice"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mwarebye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "byiyongereye"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "maze mwakusanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazi y'ibwika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ibwika"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ryo hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:48.853073468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kandi ⟨את⟩ igihugu bazakorera, njye ndacira urubanza; maze nyuma y'ibyo bazasohoka hamwe n'umutungo mwinshi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bakorera"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "bazakorera"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ndacira urubanza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "maze nyuma y'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bazasohoka"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "hamwe n'umutungo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mwinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:34.468428159Z",
+  "model": "glm-5.3"
+}

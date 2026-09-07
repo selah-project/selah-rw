@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Umunyabwenge atinya, akanava ku bibi; ariko umupfu arakuka, akanizera.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Umunyabwenge"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "atinya"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "akanava"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ku bibi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ariko umupfu"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "arakuka"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "akanizera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:28.340639901Z",
+  "model": "glm-5.3"
+}

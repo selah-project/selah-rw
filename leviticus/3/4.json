@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ impyiso zombi, na ⟨את⟩ ivuta ririho, riri ku mpande zo hasi, na ⟨את⟩ uruhu ruri hejuru y'ibyumba — ku impyiso arayikuraho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiso zombi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zombi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ivuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ivuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ririho"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mpande zo hasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhu"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ibyumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "impyiso"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "arayikuraho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:52.964255118Z",
+  "model": "glm-5.3"
+}

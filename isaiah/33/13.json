@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mumva, abari kure, ibyo nakoze; kandi mumenye, abari hafi, imbaraga zanjye.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumva"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "abari kure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "kandi mumenye"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "abari hafi"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "imbaraga zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:04:06.553896189Z",
+  "model": "glm-5.3"
+}

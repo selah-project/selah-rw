@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Urubabi rwarungitse n'umuyaga ni rwo uratinya, kandi ⟨את⟩ ibishishwa byumye urabirakurikira?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "urubabi"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "rwarungitse n'umuyaga"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ni rwo uratinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibishishwa"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ibishishwa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "byumye"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "urabirakurikira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:40.116120402Z",
+  "model": "glm-5.3"
+}

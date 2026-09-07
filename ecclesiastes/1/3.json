@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ni iki umuntu yungukira mu marwiro ye yose ayo marwiro akoraho munsi y'izuba?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "yungukira"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "marwiro ye"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ayo marwiro akoraho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:40.807612534Z",
+  "model": "glm-5.3"
+}

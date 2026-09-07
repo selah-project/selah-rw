@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Ku mutana izuba ridakubita; n'ukwezi nijoro.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ku mutana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta- (rida-)"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "kubita"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "n'ukwezi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:13.715045254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ku byakozwe n'abantu, mu ijwi ry'amajwi yawe njye nakomeye kwirinda inzira z'inkozi z'ibibi.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Ku byakozwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n'abantu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ry'amajwi yawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nakomeye kwirinda"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "z'inkozi z'ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:40.243688756Z",
+  "model": "glm-5.3"
+}

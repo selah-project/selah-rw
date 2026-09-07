@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Nabaguye nk'urubamba imbere y'umuyaga; nk'ibumba by'imihanda nabasukuye hanze.",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "nabaguye"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "nk'urubamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "nk'ibumba"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "by'imihanda"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "nabasukuye hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:32.642460072Z",
+  "model": "glm-5.3"
+}

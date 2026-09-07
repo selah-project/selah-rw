@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Abahungu ba Yaakovu barabyishuye ⟨את⟩ Shekemu na ⟨את⟩ Hamori se wabo mu bwigo, maze baravuze, kuko yakoze icyaha ku ⟨את⟩ Dinahi murumuna wabo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "barabyishuye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hamori"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se wabo"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "mu bwigo"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "maze baravuze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "yakoze icyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinahi"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinahi"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "murumuna wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:11:08.245807776Z",
+  "model": "glm-5.3"
+}

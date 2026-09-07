@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Kuko waducubitse mu cyanya cy'ibimungo, maze udusigaho igicucu cy'urupfu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "waducubitse"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu cyanya"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "cy'ibimungo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "maze udusigaho"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "(twebwe)"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "igicucu cy'urupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.664177873Z",
+  "model": "glm-5.3"
+}

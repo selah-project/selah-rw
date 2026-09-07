@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Iyo mutambika igitambo c'amahoro kwa Yahwe, kugira ngo mwemewe muzacyitambika.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "mutambika"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igitambo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "c'amahoro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kugira ngo mwemewe"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "muzacyitambika"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:38.026733156Z",
+  "model": "glm-5.3"
+}

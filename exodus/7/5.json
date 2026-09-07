@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abanyamitsrayimu bazamenya ko njye Yahwe, igihe nzashira ⟨את⟩ intoki yanjye ku Mitsrayimu, maze nzakuramo ⟨את⟩ abana ba Yisraeli mu miburiburi yabo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bazamenya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Abanyamitsrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "igihe nzashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki yanjye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "maze nzakuramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "mu miburiburi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:31.043478688Z",
+  "model": "glm-5.3"
+}

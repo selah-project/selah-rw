@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "kugira ngo bafate abami babo mu minyururu, n'abakuru babo mu nziga z'icyuma.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kugira ngo bafate"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "abami babo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "mu minyururu"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "n'abakuru babo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "mu nziga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "z'icyuma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.841999873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Shigayonu ⟨indirimbo y'urwirwaniko⟩ rya Dawidi, iyo yaririmbye kuri Yahwe, ku majambo ya Kushu, umwana w'i Yamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayonu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yaririmbye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "majambo ya"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana w'i"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yamini"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.610140961Z",
+  "model": "glm-5.3"
+}

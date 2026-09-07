@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Umwuka wayo urasohoka, azasubira mu gitaka cye; ku munsi uwo imitunganyirize ye yose zarazimiye.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "urasohoka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umwuka wayo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "azasubira"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "mu gitaka cye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zarazimiye"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "imitunganyirize ye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:40.959951696Z",
+  "model": "glm-5.3"
+}

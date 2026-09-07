@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "exodus 26:32",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 26,
+ "translation": "Maze uyishyire ⟨את⟩ ku nkingi enne z'ibiti bya shiti, zifunzwe zahabu, n'inshinge zazo za zahabu, ku musingi enne y'ifeza.",
+ "tokens": [
+  {
+   "surface": "ונתתה",
+   "gloss": "maze uyishyire"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "iyi (iparoketi)"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "ארבעה",
+   "gloss": "enne"
+  },
+  {
+   "surface": "עמודי",
+   "gloss": "nkingi"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "za shiti (acacia)"
+  },
+  {
+   "surface": "מצפים",
+   "gloss": "zifunzwe"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "zahabu"
+  },
+  {
+   "surface": "וויהם",
+   "gloss": "inshinge zazo"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "zahabu"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "ארבעה",
+   "gloss": "enne"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "musingi"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "ifeza"
+  }
+ ],
+ "timestamp": "2026-09-07T21:16:37.601285192Z",
+ "model": "glm-5.3"
+}

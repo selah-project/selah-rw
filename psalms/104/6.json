@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Ubutumbi bwayumbye ubwamba nk'imyambaro; amazi yahagaze hejuru y'imisozi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ubutumbi"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "nk'imyambaro"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "bwayumbye ubwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:14.461546674Z",
+  "model": "glm-5.3"
+}

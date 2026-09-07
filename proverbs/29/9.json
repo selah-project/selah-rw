@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Umunyabwenge ajya mu rwenzi na ⟨את⟩ umujuri — yaragiye cyangwa aseka, nta mahoro iriho.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ajya mu rwenzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "umujuri"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "yaragiye"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "aseka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:59.110174399Z",
+  "model": "glm-5.3"
+}

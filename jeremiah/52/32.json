@@ -1,0 +1,64 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "jeremiah 52:32",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 52,
+ "translation": "Aravuganye na ⟨את⟩ amagambo meza, maze ashize ⟨את⟩ intebe ye hejuru y'intebe z'abami bari na ⟨את⟩ i Bavulu.",
+ "tokens": [
+  {
+   "surface": "וידבר",
+   "gloss": "Aravuganye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "na ⟨את⟩",
+   "marks": "we (Yehoyakini)"
+  },
+  {
+   "surface": "טבות",
+   "gloss": "amagambo meza"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "ashize"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "intebe ye"
+  },
+  {
+   "surface": "כסאו",
+   "gloss": "intebe ye"
+  },
+  {
+   "surface": "ממעל",
+   "gloss": "hejuru"
+  },
+  {
+   "surface": "לכסא",
+   "gloss": "y'intebe"
+  },
+  {
+   "surface": "מלכים",
+   "gloss": "z'abami"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "bara"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "na ⟨את⟩",
+   "marks": "we"
+  },
+  {
+   "surface": "בבבל",
+   "gloss": "i Bavulu"
+  }
+ ],
+ "timestamp": "2026-09-07T16:40:38.416702460Z",
+ "model": "glm-5.3"
+}

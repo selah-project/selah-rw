@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Kuva mu burasirazuba bwa izuba kugeza iziba ryaryo, izina rya Yahwe rishingizwa.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Kuva mu burasirazuba"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "bwa izuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "iziba ryaryo"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "rishingizwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:37.839356697Z",
+  "model": "glm-5.3"
+}

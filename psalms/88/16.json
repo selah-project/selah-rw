@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Umukenye ndi, kandi ndi ugiye gupfa, kuva mu bujyana; narihariye ubwoba bwawe, ndarembye.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Umukenye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "kandi ndi ugiye gupfa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "kuva mu bujyana"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "narihariye"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ubwoba bwawe"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ndarembye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:50.086219635Z",
+  "model": "glm-5.3"
+}

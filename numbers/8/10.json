@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze uzashyire ⟨את⟩ Abalevi imbere ya Yahwe, maze abana ba Yisraeli bazashyire ⟨את⟩ intoki zabo ku Abalevi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abalevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "bazashyire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:07:45.011682324Z",
+  "model": "glm-5.3"
+}

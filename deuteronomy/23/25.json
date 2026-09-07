@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyo winjira mu murima w'imizabibu w'umugenzi wawe, uzarya imizabibu uko nefeshi yawe ibishaka kugeza uhwera, ariko mu gikoresho cyawe ntiushyemo n'na kimwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "winjira"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "mu murima w'imizabibu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "w'umugenzi wawe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "uzarya"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "imizabibu"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "uko nefeshi yawe ibishaka"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "kugeza uhwera"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ariko mu"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "igikoresho cyawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ushyemo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:23.429100568Z",
+  "model": "glm-5.3"
+}

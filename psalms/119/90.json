@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu kinyejana n'ukinyejana ⟨ni⟩ ubudahemuka bwawe; washyingiye isi, maze ihagara.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Mu kinyejana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ukinyejana"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ubudahemuka bwawe"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "washyingiye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "maze ihagara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:10.388064495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "⟨We⟩ yazize kwa Yahwe, Elohimu wa Yisraeli; kandi nyuma yiwe nta wari ⟨umwami⟩ nka we mu bami bose b'i Yehudahi, na muri abo bari imbanjye yiwe.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yazize"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "kandi nyuma yiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wari"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "nka we"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu bami bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bami ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbanjye yiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:03.721072499Z",
+  "model": "glm-5.3"
+}

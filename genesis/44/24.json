@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ubwo twazamukiye kwa umugaragu wawe se wanjye, tumenyesha iye ⟨את⟩ amagambo ya databuja wanjye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "byabaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ubwo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "twazamukiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "tumenyesha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "databuja wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:29.460228536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-samuel 12:10",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Baratabaza kuri Yahwe, baravuga bati: Twayeze icyaha, kuko twarekanye ⟨את⟩ Yahwe, tugakorera ⟨את⟩ Baalimu na ⟨את⟩ Ashtarotu. None ubu urokore mu nkono y'ibansi bacu, tuzakora wowe.",
+ "tokens": [
+  {
+   "surface": "ויזעקו",
+   "gloss": "baratabaza"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "baravuga bati"
+  },
+  {
+   "surface": "חטאנו",
+   "gloss": "twayeze icyaha"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "עזבנו",
+   "gloss": "twarekanye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwe"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ונעבד",
+   "gloss": "tugakorera"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Baalimu"
+  },
+  {
+   "surface": "הבעלים",
+   "gloss": "Baalimu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "Ashtarotu"
+  },
+  {
+   "surface": "העשתרות",
+   "gloss": "Ashtarotu"
+  },
+  {
+   "surface": "ועתה",
+   "gloss": "none ubu"
+  },
+  {
+   "surface": "הצילנו",
+   "gloss": "urokore"
+  },
+  {
+   "surface": "מיד",
+   "gloss": "mu nkono ya"
+  },
+  {
+   "surface": "איבינו",
+   "gloss": "ibansi bacu"
+  },
+  {
+   "surface": "ונעבדך",
+   "gloss": "tuzakora wowe"
+  }
+ ],
+ "timestamp": "2026-09-07T12:30:35.070288101Z",
+ "model": "glm-5.3"
+}

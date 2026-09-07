@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Yaragabanyije imbaraga zanje mu nzira, yaragize ngufi iminsi yanjye.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "yaragabanyije"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "imbaraga zanje"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "yaragize ngufi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:48.426591468Z",
+  "model": "glm-5.3"
+}

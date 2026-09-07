@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abahungu ba Yehudah: Peretsi, Chetsroni, Karmi, Churi na Shovali.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "na Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "na Churi"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "na Shovali"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:24.091678261Z",
+  "model": "glm-5.3"
+}

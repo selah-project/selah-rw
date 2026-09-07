@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Esavu yaravuze ati: Nkunde, nsigire na wewe abantu bari ⟨את⟩ kumwe nanjye. We aravuze ati: Ni iki cy'ubu? Mbonge ⟨ni⟩ ubuntu mu maso ya Adonayi wanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "nsigire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nkunde"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu bari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kumwe nanjye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "We yaravuze ati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mbonge"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:46.260145228Z",
+  "model": "glm-5.3"
+}

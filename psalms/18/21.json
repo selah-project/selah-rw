@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yahwe yansaburiye ku bw'ubutunganye bwanjye; ku bw'isuku y'amaboko yanje yansubije njye.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "yansaburiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ku bw'ubutunganye bwanjye"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ku bw'isuku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "y'amaboko yanje"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "yansubije"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:46.326451983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "genesis 5:1",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Uyu ni igitabo cy'ibyaranwa bya Adamu: ku munsi Elohimu yaremye Adamu, mu ishusho y'Elohimu yakoze ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "זה",
+   "gloss": "Uyu"
+  },
+  {
+   "surface": "ספר",
+   "gloss": "igitabo"
+  },
+  {
+   "surface": "תולדת",
+   "gloss": "ibyaranwa"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "Adamu"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "ברא",
+   "gloss": "yaremye"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "Adamu"
+  },
+  {
+   "surface": "בדמות",
+   "gloss": "mu ishusho"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "y'Elohimu"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "yakoze"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "Adamu"
+  }
+ ],
+ "timestamp": "2026-09-07T07:35:14.273663272Z",
+ "model": "glm-5.3"
+}

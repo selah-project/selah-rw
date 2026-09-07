@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kandi ibi nabyo ni bibi bikaze: ku byose nko yaje, ni ko azagenda; none ni iki gitenisha kibonekaho, ko yahangara ku muyaga?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kandi ... nabyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bikaze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "nko"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagenda"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "none ni iki"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "gitenisha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kibonekaho"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ko yahangara"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ku muyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:34.961964028Z",
+  "model": "glm-5.3"
+}

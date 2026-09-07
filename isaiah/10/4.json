@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ibyo ni byo gusa bikwiye: kugona mu rwego rw'imfungwa, no mu rwego rw'abiciwe bagwa. Mu byose ibi uburakari bwe ntibwahindutse, kandi ukuboko kwe kuracya kurambaye.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Ibyo ni byo gusa"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu rwego rwa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "imfungwa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "no mu rwego rwa"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "abiciwe"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bagwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti..."
+    },
+    {
+      "surface": "שב",
+      "gloss": "bwahindutse"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uburakari bwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kurambaye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:56.542081684Z",
+  "model": "glm-5.3"
+}

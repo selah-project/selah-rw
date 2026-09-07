@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Nimuze, mumve, maze ndababwira byose abatinyi b'Elohimu ibyo yakoreye nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "nimuze"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mumve"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "maze ndababwira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abatinyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "b'Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:54.362836517Z",
+  "model": "glm-5.3"
+}

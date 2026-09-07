@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Amatwi bafite, ariko ntibumva; kandi nta umwuka mu minwa yabo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "amatwi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bafite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "bumva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mu minwa yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:11.620061164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Urwibutso rw'ibyiza byawe byinshi bazatanga ⟨amagambo⟩, n'ubutungane bwawe bazaririmba.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "urwibutso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "byinzi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ibyiza byawe"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "bazatanga"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "n'ubutungane bwawe"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bazaririmba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:57.714792163Z",
+  "model": "glm-5.3"
+}

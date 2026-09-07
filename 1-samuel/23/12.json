@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi aravuga ati: Ese abagabwe ba Kelila bazatura ⟨את⟩ njye na ⟨את⟩ abagabo banjye mu ntoko za Shauli? Yahwe aravuga ati: Barazitura.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Ese... bazatura"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abagabwe ba"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abagabo banjye"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo banjye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Barazitura"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:39.590677668Z",
+  "model": "glm-5.3"
+}

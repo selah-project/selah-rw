@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umurimo w'umutungatwa ni ku bugingo, umusaruro w'umwangizi ni ku icaha.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "Umurimo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "w'umutungatwa"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ku bugingo"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "umusaruro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "w'umwangizi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ku icaha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:40.052389418Z",
+  "model": "glm-5.3"
+}

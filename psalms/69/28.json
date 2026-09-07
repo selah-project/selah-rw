@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ongerera icyaha ku byaha byabo, kandi ntibanzinjire mu butunganye bwawe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ongerera"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "byaha byabo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "banzinjire"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mu butunganye bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:42.674779245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 29:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uko Yahwe Tsevaoti, Elohimu wa Yisraeli, yaravuze kuri abagatishwa bose abo nagatishije i Yerushalayimu, muri Baveli.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuri bose"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "abagatishwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "nagatishije"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "muri Baveli"
+    }
+  ],
+  "timestamp": "2026-09-07T16:11:13.259050199Z",
+  "model": "glm-5.3"
+}

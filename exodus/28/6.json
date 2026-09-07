@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Maze bakore ⟨את⟩ efodi: zahabu, tekeleti, argamani, tola'ati ya shani, na sheshi wohekwa (mashazari) — akazi k'ubuhanga bwohudoda.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "maze bakore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argamani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'ati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sheshi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wohekwa (mashazari)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "k'ubuhanga bwohudoda"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:32.406053196Z",
+  "model": "glm-5.3"
+}

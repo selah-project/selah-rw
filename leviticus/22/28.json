@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "N'intambo cyangwa ihuha, ⟨את⟩ ryo na ⟨את⟩ umwana wayo ntimubashe kubaga ku munsi umwe.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "N'intambo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ihuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ryo (intambo cyangwa ihuha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwana wayo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "mubashe kubaga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:33.489099795Z",
+  "model": "glm-5.3"
+}

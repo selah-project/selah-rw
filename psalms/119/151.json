@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Wowe uri hafi, Yahwe, kandi amategeko yawe yose ⟨ni⟩ ukuri.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "uri hafi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi … yose"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨ni⟩ ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:56.043328353Z",
+  "model": "glm-5.3"
+}

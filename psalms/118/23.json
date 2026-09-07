@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Bivuye kuri ⟨את⟩ Yahwe iyi yabaye; iri igitangaza mu maso yacu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Bivuye kuri ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "igitangaza"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "mu maso yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:23.548127798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Yahwe yateye ubwama(n)ni — yateye ubwami: isi ihangane imuneze, ibirwa byinshi bishime.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yateye ubwami"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ihangane"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bishime"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ibirwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "byinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:52.546011025Z",
+  "model": "glm-5.3"
+}

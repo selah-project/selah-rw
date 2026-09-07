@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "no mu gucisha amabuye yo gushyira, no mu gucisha ibiti zo gukora mu buhanga bwose.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "no mu gucisha"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "yo gushyira"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "no mu gucisha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zo gukora"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "buhanga bwose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:57.535181500Z",
+  "model": "glm-5.3"
+}

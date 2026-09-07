@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ Gati, na ⟨את⟩ Maresha, na ⟨את⟩ Zifu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zifu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:51:00.777602436Z",
+  "model": "glm-5.3"
+}

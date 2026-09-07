@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ari abategereje Yahwe bazasimbura imbaraga; bazazamuka bafite amababa nk'ingwe; baziruka kandi ntibazanana; bagenda kandi ntibazagwa.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "abategereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "bazasimbura"
+    },
+    {
+      "surface": "כח",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bazazamuka"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "amababa"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "nk'ingwe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "baziruka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "bazanana"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "bazagwa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:14:35.604181988Z",
+  "model": "glm-5.3"
+}

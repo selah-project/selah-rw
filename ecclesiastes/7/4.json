@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umutima w'abhezi uri mu nzu y'agahinda, n'umutima w'abatazi uri mu nzu y'ibyishimo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "w'abhezi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "y'agahinda"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "n'umutima"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "w'abatazi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "y'ibyishimo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:24.050418052Z",
+  "model": "glm-5.3"
+}

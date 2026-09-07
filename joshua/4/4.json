@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yehoshuwa yaguhamagaye abagabo cumi na babiri be yateganyije mu bahungu ba Yisraeli, umugabo umwe, umugabo umwe mu muryango",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yaguhamagaye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "be"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yateganyije"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "mu muryango"
+    }
+  ],
+  "timestamp": "2026-09-07T11:24:37.557519917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Dawidi arangiza gutanga ibikorerwa by'umuriro n'ibitambo by'amahoro, arahera ⟨את⟩ ubwoko umugisha mu izina rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "arangiza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "gutanga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ibikorerwa by'umuriro"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ibitambo by'amahoro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "arahera umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:39:02.948659850Z",
+  "model": "glm-5.3"
+}

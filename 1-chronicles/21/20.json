@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Arnanu yihinduye abona ⟨את⟩ umumalayika; na bana be bane bari iwe bahishe, maze Arnanu ararobya ingano.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yihinduye"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnanu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umumalayika"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "na bana bane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "be"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bari iwe"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "bahishe"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "Arnanu"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ararobya"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ingano"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:48.648388902Z",
+  "model": "glm-5.3"
+}

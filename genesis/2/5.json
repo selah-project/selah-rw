@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi ibiti byo mu murima ntabwo byari bisanzweho mu isi, kandi ubwatsi bwo mu murima ntabwo bwari bwamera; kuko Yahwe Elohimu ntiyari atanze imvura ku isi, kandi nta muntu wari uhari wo guhinga ⟨את⟩ ubutaka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kandi … byose"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "byo mu murima"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "butaribaho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "byari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi … byose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ubwatsi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bwo mu murima"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "butaribaho"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "bwamera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "yatanze imvura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "kandi umuntu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta … uhari"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "wo guhinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:03.493066179Z",
+  "model": "glm-5.3"
+}

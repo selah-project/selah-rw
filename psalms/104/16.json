@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Ibiti bya Yahwe biruzuye — za cedare za Lebano, ibyo ⟨we⟩ yibyazanye.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "biruzuye"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti bya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "za cedare za"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "yibyazanye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:15.710610118Z",
+  "model": "glm-5.3"
+}

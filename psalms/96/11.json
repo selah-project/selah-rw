@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Amajuru azishima, kandi isi ikanezerwe; inyanja ibangambire n'ubwuzu bwayo.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "azishima"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Amajuru"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kandi ikanezerwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ibangambire"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "n'ubwuzu bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:57.810007815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yavuze mu mutima we ati: Nta ho nzogenda nkunganyuka, ku buryo ibisekuruza n'ibisekuruza ayo ntigera mba muri byo bibi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yavuze"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nzogenda nkunganyuka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuri ibisekuruza"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ibisekuruza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "muri byo bibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:14.025425209Z",
+  "model": "glm-5.3"
+}

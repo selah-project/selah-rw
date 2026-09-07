@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ugurisha abantu bawe mu kubura kw'umutungo, kandi ntiwongeyeho umutungo mu igiciro cyabo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Ugurisha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mu kubura kw'"
+    },
+    {
+      "surface": "הון",
+      "gloss": "umutungo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "wongeyeho"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "mu igiciro cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:16.572778444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 36,
+ "ref": "exodus 12:36",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Yahwe yaha ⟨את⟩ ubwiza abantu bafite mu maso ya Mitsrayimu, maze babahemba kandi barashwanyagiza ⟨את⟩ Mitsrayimu.",
+ "tokens": [
+  {
+   "surface": "ויהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "yaha"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ubwiza (chen)"
+  },
+  {
+   "surface": "חן",
+   "gloss": "ubwiza"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu bafite"
+  },
+  {
+   "surface": "בעיני",
+   "gloss": "mu maso"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "ya Mitsrayimu"
+  },
+  {
+   "surface": "וישאלום",
+   "gloss": "babahemba (basaba kuri bo)"
+  },
+  {
+   "surface": "וינצלו",
+   "gloss": "barashwanyagiza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Mitsrayimu"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayimu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:47:46.409903837Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Itsinda rya gisirikari ry'abanya-Pelishtimu ryasohotse ngaha ku nzira y'ambukira ya Mikimashi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ryasohotse"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "itsinda rya gisirikari"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ry'abanya-Pelishtimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ku nzira y'ambukira"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ya Mikimashi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:28:30.721872536Z",
+  "model": "glm-5.3"
+}

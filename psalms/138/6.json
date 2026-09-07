@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Kuko Yahwe ⟨ni⟩ muremure, ariko areba uwo hasi, kandi umwibone amuzi mu kure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רם",
+      "gloss": "muremure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "uwo hasi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "areba"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "umwibone"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "mu kure"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "amuzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:08.300620483Z",
+  "model": "glm-5.3"
+}

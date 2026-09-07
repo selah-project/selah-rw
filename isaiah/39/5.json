@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Yeshayahu yarabwiye Hizikiyahu ati: Umva ijambo rya Yahwe Tsevaoti:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-07T15:12:35.431603195Z",
+  "model": "glm-5.3"
+}

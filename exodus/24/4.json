@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Moshe nawe yanditse ⟨את⟩ amagambo yose ya Yahwe; bukeye mu gitondo yubakiye igicaniro munsi w'umusozi, n'inkingi cumi n'ebyiri ku byiri cumi by'amoko ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yanditse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "bukeye"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yubakiye"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "w'umusozi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "n'ebyiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "inkingi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ku byiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "by'amoko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:26.200578692Z",
+  "model": "glm-5.3"
+}

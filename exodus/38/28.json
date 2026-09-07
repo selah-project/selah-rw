@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ igihumbi n'amajana indwi n'itanu na mirongo irindwi ⟨na shekeli⟩ yakoje insika ku ntingo, maze ashira icyuma ku mitwe yazo, maze azifata ⟨את⟩ zo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "igihumbi… na mirongo irindwi"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "igihumbi"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "n'… indwi"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "amajana indwi"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "n'itanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mirongo irindwi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoje"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "insika"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "ku ntingo"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "maze ashira icyuma"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ku mitwe yazo"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "maze azifata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:17.812735941Z",
+  "model": "glm-5.3"
+}

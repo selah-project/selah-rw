@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ubwenge bwa Shelomo bwararenze ubwenge bw'abana bose b'i Burasirazuba n'ubwenge bwose bwa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "bwararenze"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bwa Shelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ubwenge bw'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "b'i Burasirazuba"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "n'ubwenge bwose"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bwa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:33:19.533141607Z",
+  "model": "glm-5.3"
+}

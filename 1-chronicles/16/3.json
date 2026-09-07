@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Aragabanya ku buri muntu w'i Yisraeli (Isirayeli), kuva ku mugabo kugeza ku mugore: ku muntu umwe umugati, igisebe cy'inyama y'itumba, n'igisebe cy'ibimasa.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "aragabanya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku buri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuva ku mugabo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza ku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ku muntu umwe"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "igisebe (uruymbere)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "igisebe cy'inyama y'itumba"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "igisebe cy'ibimasa"
+    }
+  ],
+  "timestamp": "2026-09-07T20:39:02.948816586Z",
+  "model": "glm-5.3"
+}

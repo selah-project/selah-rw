@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "N'urubyaro rwawe nturuhindure ngo urutambize Moleki, kandi ntuzibangize ⟨את⟩ izina rya Elohimu wawe; ni jye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "n'urubyaro rwawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zimangize"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "go utambize"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Moleki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntu"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "zibangize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "rya Elohimu wawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:11.141557488Z",
+  "model": "glm-5.3"
+}

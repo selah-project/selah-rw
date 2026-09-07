@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Abantu bose bo mu gihugu bishimiye, n'umujyi waruhutse; na ⟨את⟩ Atalyahu barimuhiye inkota mu nzu y'umwami.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "bishimiye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bo mu gihugu"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "n'umujyi"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "waruhutse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "barimuhiye"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "inkota"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "y'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:23:08.022405018Z",
+  "model": "glm-5.3"
+}

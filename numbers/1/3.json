@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ku mbere y'umuhungu w'imyaka makumyabiri n'hejuru, buri wose usohoka mu ngabo mu Yisraeli, muzibare ⟨את⟩ ingabo zabo, wowe na Aharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "umuhungu w'"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "n'hejuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "usohoka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mu ngabo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "muzibare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ingabo zabo"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ingabo zabo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-07T21:20:12.075693835Z",
+  "model": "glm-5.3"
+}

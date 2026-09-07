@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dawidi (Dawidi) yarafashe ibirago bye maze abyibura, na bose abagabo bari kumwe ⟨את⟩ na we.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yarafashe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ibirago bye"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "abyibura"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na we",
+      "marks": "abagabo bose ari kumwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:33:34.631260656Z",
+  "model": "glm-5.3"
+}

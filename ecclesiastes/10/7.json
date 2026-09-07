@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nabonye abaja ku mafarashi, n'abatware bagenda nk'abaja ku isi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amafarashi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "n'abatware"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "nk'abaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:22.128382990Z",
+  "model": "glm-5.3"
+}

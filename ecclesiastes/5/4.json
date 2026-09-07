@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ni byiza ko utarema, kuruta ko urema maze ntubiruzuzisha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uta-"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "urema"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kuruta ko urema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maze ntu-"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "biruzuzisha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:39.976991834Z",
+  "model": "glm-5.3"
+}

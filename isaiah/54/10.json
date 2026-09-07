@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Kuko imisozi izavaho n'imisozi mike izatumbika, ariko hesedi yanjye ⟨את⟩ ivuye ku wowe ntazavaho, n'ubwumvikane bw'amahoro yanjye ntibizongera gutumbika, yavuze Yahwe, we ukungirira wowe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "izavaho"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "n'imisozi mike"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "izatumbika"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "n'hesedi yanjye"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ivuye ku wowe",
+      "marks": "hesedi yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "izavaho"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "n'ubwumvikane"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "bw'amahoro yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntibi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zongera gutumbika"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "ukungirira wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:41:43.902133108Z",
+  "model": "glm-5.3"
+}

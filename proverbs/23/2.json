@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ushyire umwambi ku rubahu rwawe, niba uri umuny'ibyifuzo.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ushyire"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "umwambi"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ku rubahu rwawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "umuny'"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ibyifuzo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:36.601490519Z",
+  "model": "glm-5.3"
+}

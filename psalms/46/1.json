@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Ku mukuru w'indirimbo, kuri bahungu ba Korahi, ku ijwi ry'abakobwa, indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mukuru w'indirimbo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuri bahungu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ba Korahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ijwi ry'abakobwa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:29.574078847Z",
+  "model": "glm-5.3"
+}

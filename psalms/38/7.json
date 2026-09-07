@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Nanyuzwe, namenetse ⟨kugeza⟩ cyane; umunsi wose nagenze nifite agahinda.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Nanyuzwe"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "namenetse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "agahinda"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nagenze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:06.769916048Z",
+  "model": "glm-5.3"
+}

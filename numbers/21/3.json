@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yahwe yatumvise ijwi rya Yisraeli, maze aha ⟨את⟩ Kanahani; barabasenyuye ⟨את⟩ bo na ⟨את⟩ imiji yabo, maze bahise izina ry'icyo kibanza Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yatumvise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanahani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanahani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "barabasenyuye"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imiji yabo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "imiji yabo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maze bahise"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "icyo kibanza"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-07T21:21:38.953550875Z",
+  "model": "glm-5.3"
+}

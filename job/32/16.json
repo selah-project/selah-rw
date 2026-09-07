@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kandi nza kubazarindira ko batavuga, ko bahagaze, ko ntabwo basinze undi.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "kandi nza kubazarindira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "batavuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "bahagaze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "basinze"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "undi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:01:25.546238513Z",
+  "model": "glm-5.3"
+}

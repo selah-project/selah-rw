@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abantu b'i Babulonu bakoreye ⟨את⟩ Sukotu-Benoti, abantu b'i Kuti bakoreye ⟨את⟩ Nergalu, abantu b'i Hamati bakoreye ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu b'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babulonu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukotu-Benoti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benoti"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu b'i"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalu"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergalu"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu b'i"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:46.463867720Z",
+  "model": "glm-5.3"
+}

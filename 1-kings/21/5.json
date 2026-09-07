@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Izebeli umugore we yaje kuri we, maze yaramubwira ati: Ni iki iki? Umwuka wawe waraguye, kandi nturi urya umugati?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "yaramubwira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "umwuka wawe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "waraguye"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "kandi nturi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "urya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:29.717588036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Indirimbo ya Dawidi, mu gihe yahungaga imbere y'Avishalomu (Abishalomu) umwana we.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "mu gihe yahungaga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:56.973594854Z",
+  "model": "glm-5.3"
+}

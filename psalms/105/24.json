@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yongereye ⟨את⟩ ubwoko bwe cyane, maze arabakomeza kurusha abansi be.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "yongereye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko bwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "arabakomeza kurusha"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "abansi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:14.568370462Z",
+  "model": "glm-5.3"
+}

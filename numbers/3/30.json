@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umukuru w'urwibumba rw'ise, ku muryango ya Kehati, ni Elitsafani (Elizafani), umuhungu wa Uzieli.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Umukuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w'urwibumba"
+    },
+    {
+      "surface": "אב",
+      "gloss": "rw'ise"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ya Kehati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ni Elitsafani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "wa Uzieli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:13.369914118Z",
+  "model": "glm-5.3"
+}

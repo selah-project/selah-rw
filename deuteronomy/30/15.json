@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Reba, nashyize imbanzanhingarwe yawe uyu munsi ⟨את⟩ ubuzima n'⟨את⟩ icyiza, ndetse n'⟨את⟩ urupfu n'⟨את⟩ ikibi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbanzanhigarwe yawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "icyiza"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "urupfu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "ikibi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ikibi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:15:46.353065503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "isaiah 45:12",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 45,
+ "translation": "Njye nakoze isi, umuntu wo kuri yo najye naremye; njye n'ibiganza byanjye ninzaguye ijuru, kandi ingabo zacyo zose najye nategetse.",
+ "tokens": [
+  {
+   "surface": "אנכי",
+   "gloss": "Njye"
+  },
+  {
+   "surface": "עשיתי",
+   "gloss": "nakoze"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "ואדם",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "עליה",
+   "gloss": "wo kuri yo"
+  },
+  {
+   "surface": "בראתי",
+   "gloss": "naremye"
+  },
+  {
+   "surface": "אני",
+   "gloss": "njye"
+  },
+  {
+   "surface": "ידי",
+   "gloss": "ibiganza byanjye"
+  },
+  {
+   "surface": "נטו",
+   "gloss": "ninzaguye"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "ijuru"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "zose"
+  },
+  {
+   "surface": "צבאם",
+   "gloss": "ingabo zacyo"
+  },
+  {
+   "surface": "צויתי",
+   "gloss": "nategetse"
+  }
+ ],
+ "timestamp": "2026-09-07T15:20:00.411525966Z",
+ "model": "glm-5.3"
+}

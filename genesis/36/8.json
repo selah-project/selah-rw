@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Esavu yatuye mu musozi wa Seiri; Esavu ni we Edomu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yatuye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu musozi wa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:12:06.128386205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Dewe wa Shauli aravuga ati: Ndebe, mumbwira Shemueli yabwiye iki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "dewe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "mbwira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mumbwira (-m-)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-mw-"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:53.166220501Z",
+  "model": "glm-5.3"
+}

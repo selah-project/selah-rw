@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Beni-Dekere (umwana wa Dekere), mu Makatsi, mu Shaalavimu, mu Bethi-Shemeshu, na Elonu-Bethi-Hananu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Dekere"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "mu Makatsi"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "mu Shaalavimu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mu Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshu"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "na Elonu-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hananu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:42.420661925Z",
+  "model": "glm-5.3"
+}

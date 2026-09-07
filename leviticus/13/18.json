@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kandi iyo umubiri uba ufite igisebe mu ruhu rwacyo, kandi kirakize.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uba ufite"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri wo"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "mu ruhu rwawo"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "igisebe"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "kandi kirakize"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:29.762529674Z",
+  "model": "glm-5.3"
+}

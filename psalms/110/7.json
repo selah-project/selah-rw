@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Anywa amazi ku rusoko mu nzira; bityo niyo mpamvu azamura umutwe.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ku rusoko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "יִשְׁתֶּה",
+      "gloss": "anywa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bityo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niyo mpamvu"
+    },
+    {
+      "surface": "יָרִים",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "umutwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:54.505108480Z",
+  "model": "glm-5.3"
+}

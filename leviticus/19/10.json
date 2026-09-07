@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kandi umurima wawe w'imizabibu ntuwucyaze, kandi urubyari rw'umurima wawe w'imizabibu ntuzirundura; k'umukene no w'umuturutse ni byo uzabireka ⟨את⟩; njye ndi Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "kandi umurima wawe w'imizabibu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "tuwucyaze"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "kandi urubyari"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "rw'umurima wawe w'imizabibu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "uzirundura"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "k'umukene"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "no w'umuturutse"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "uzabireka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (urubyari)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:09.519531419Z",
+  "model": "glm-5.3"
+}

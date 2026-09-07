@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ibikoresho byose bya Mishkani ⟨ihema⟩ mu murimo wacyo wose, n'imishinge yacyo yose, n'imishinge y'urugo yose ⟨ni⟩ umuringa.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani ⟨ihema⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... wose"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "murimo wacyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... yose"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "imishinge yacyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... yose"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "imishinge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "y'urugo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "umuringa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:57.239329542Z",
+  "model": "glm-5.3"
+}

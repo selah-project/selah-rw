@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Umwirondoro: umuziki wa Dawidi. Yahwe, umva isengesho ryanjye, utererane amatwi ku byifuzo byanjye; mu kwizera kwawe munyurure, mu butabera bwawe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "umuziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "utererane amatwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ibyifuzo byanjye"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "mu kwizera kwawe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "munyurure"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mu butabera bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:46.319934165Z",
+  "model": "glm-5.3"
+}

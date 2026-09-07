@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibyo by'imbogamizi ntibishobora kugerekana, n'ibibura ntibishobora kubarwa.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ibyo by'imbogamizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bishobora"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "kugerekana"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "n'ibibura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bishobora"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "kubarwa"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:04.418192453Z",
+  "model": "glm-5.3"
+}

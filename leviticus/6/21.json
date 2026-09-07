@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Igikoresho cy'urubanje ikoreshewe gufungura muri cyo kiravurwa; kandi ikoreshewe mu gikoresho cya tungurusumu, kirarabwa maze gikanogwa mu mazi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "igikoresho cya"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "urubanje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ikoreshewe"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "gufungura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "kiravurwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi ikoreshewe"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "mu gikoresho cya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tungurusumu"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "gufungurwa"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "kirarabwa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "gikanogwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:26:02.646081908Z",
+  "model": "glm-5.3"
+}

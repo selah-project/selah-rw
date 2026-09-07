@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kandi umugaragu wawe yaburirwa muri ibyo; mu kubikingha hari impembo nini.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "yaburirwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "mu kubikingha"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "impembo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nini"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:53.324365292Z",
+  "model": "glm-5.3"
+}

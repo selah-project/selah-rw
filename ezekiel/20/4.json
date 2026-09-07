@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Ese uracira iteka ⟨את⟩ bo, ese uracira iteka, umwana w'umuntu? ⟨את⟩ ibizira by'abakurambere babo umenyeshe.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ese uracira iteka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "uracira iteka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibizira"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ibizira"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "by'abakurambere babo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "umenyeshe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:59:36.399673539Z",
+  "model": "glm-5.3"
+}

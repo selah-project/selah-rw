@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Habaye iyo yarushanije gusenga imbere ya Yahwe, Eli yitayeho ⟨את⟩ kanwa ye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "yarushanije"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "gusenga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yitayeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanwa ye"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanwa ye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:29:42.924928682Z",
+  "model": "glm-5.3"
+}

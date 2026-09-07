@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe yarabwiye kuri njye ⟨ati⟩: Ntutinye ⟨את⟩ we, koko mu ntoki zawe narahaye ⟨את⟩ we, na ⟨את⟩ abantu be bose, na ⟨את⟩ isi ye; uzamukore iwe nuko ubwoko wakoze uri kuri Sihoni, umwami w'Abemori, utuye i Cheshuboni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "utinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (Ogu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "narahaye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (Ogu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu be bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi ye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "isi ye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uzamukore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nuko ubwoko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "uri kuri Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "w'Abemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "i Cheshuboni"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:10.599105729Z",
+  "model": "glm-5.3"
+}

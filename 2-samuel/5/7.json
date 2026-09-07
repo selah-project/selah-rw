@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Dawidi yafashe ⟨את⟩ ikigo cya Tsiyoni — ni ⟨ni⟩ umujyi wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikigo cya Tsiyoni"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ikigo cya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:02:56.709519628Z",
+  "model": "glm-5.3"
+}

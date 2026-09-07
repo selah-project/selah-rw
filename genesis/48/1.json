@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Nyuma y'ibyo bintu, bumwe yabwiye Yosefu ati: Raba, so wawe arwaye. Nuko afata ⟨את⟩ abahungu be babiri hamwe na we, ⟨את⟩ Menasheh na ⟨את⟩ Efrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ibintu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "so wawe"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "arwaye"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be babiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:03.855708039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Ku munsi nzagira ubwoba, jyewe, muri wowe njyiringiye.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nzagira ubwoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "njyiringiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:45.855285581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze ku wo munsi bazavuga bati: Dore, uyu ni Elohimu wacu, we twamwizeye, kandi ni we uradukiza; uyu ni Yahwe, we twamwizeye; tuzishimire, tugume twishima mu bokoboko bye.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "maze bazavuga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dore"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu ⟨ni⟩"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "twamwizeye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "kandi aradukiza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu ⟨ni⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "twamwizeye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "tuzishimire"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "kandi tugume twishima"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "mu bokoboko bye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:33.510484202Z",
+  "model": "glm-5.3"
+}

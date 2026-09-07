@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kuko Elohimu azazana ⟨את⟩ ibikorwa byose mu gitwerano, ku byose bihishe, cyaba ibyiza cyangwa cyaba ibibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikorwa byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "azazana"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu gitwerano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "bihishe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyaba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa cyaba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:45.131143795Z",
+  "model": "glm-5.3"
+}

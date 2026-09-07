@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo umuntu agurisha ⟨את⟩ umukobwa we ngo abe umuja w'umugore, ntiyazunguka uko abagaragu bazunguka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "agurisha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukobwa we"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "umukobwa we"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ngo abe umuja w'umugore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ntiyazunguka"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "uko bazunguka"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "abagaragu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:30.892065194Z",
+  "model": "glm-5.3"
+}

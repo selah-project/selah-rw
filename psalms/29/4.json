@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Ijwi rya Yahwe rifite imbaraga; ijwi rya Yahwe rime ubwiza.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "rifite imbaraga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "rime ubwiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:20.089903526Z",
+  "model": "glm-5.3"
+}

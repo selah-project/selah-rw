@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ihene y'imbogo itware ku yo ⟨את⟩ ubwangizi bwabo bwose, izane kuri ubutaka bwaheranwe; arungike ⟨את⟩ ihene y'imbogo mu butayu.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "itware"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ihene y'imbogo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwangizi bwabo bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "ubwangizi bwabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "bwaheranwe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "arungike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihene y'imbogo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ihene y'imbogo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:50.537591590Z",
+  "model": "glm-5.3"
+}

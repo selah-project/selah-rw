@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yakoze ⟨את⟩ ibyaka binini babiri: ⟨את⟩ icyaka kinini kugira ngo cyatege umunsi, na ⟨את⟩ icyaka gito kugira ngo cyatege ijoro, na ⟨את⟩ inyenyeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyaka binini babiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ibyaka"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "binini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyaka kinini"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "icyaka"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kinini"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kugira ngo cyatege"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icyaka gito"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "icyaka"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "gito"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kugira ngo cyatege"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyenyeli"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "inyenyeli"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:09.282592108Z",
+  "model": "glm-5.3"
+}

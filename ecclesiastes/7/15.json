@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "⟨את⟩ byose nabibonye mu minsi y'ubusa bwanjye: hari umwizeremana yapfuye mu bwiza bwe, no hari umuhemukiya aguma akure mu bubi bwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabibonye"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "y'ubusa bwanjye"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umwizeremana"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "mu bwiza bwe"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "no hari"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umuhemukiya"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "aguma akure"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "mu bubi bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:24.043272128Z",
+  "model": "glm-5.3"
+}

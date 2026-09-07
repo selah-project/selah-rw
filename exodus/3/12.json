@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Aravuga ati: Rwose nzaba kumwe nawe, kandi ibi ni ikimenyetso cyo kwemeza ko njewe ndakohereje: mu kwikururiza ⟨את⟩ abantu mu Mitsrayimu, muzakorera ⟨את⟩ Elohimu ku musozi uwu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuga ati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nzaba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kandi ibi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni (iwawe)"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njewe"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ndakohereje"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "mu kwikururiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "muzakorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:31.195457192Z",
+  "model": "glm-5.3"
+}

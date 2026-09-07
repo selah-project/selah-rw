@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 42,
+ "ref": "numbers 3:42",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Maze Moshe yarabaze, uko Yahwe yamutegetse ⟨את⟩ we, ⟨את⟩ imfura zose mu bana ba Yisraeli.",
+ "tokens": [
+  {
+   "surface": "ויפקד",
+   "gloss": "Maze yarabaze"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yategetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "Moshe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "imfura zose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "zose"
+  },
+  {
+   "surface": "בכר",
+   "gloss": "imfura"
+  },
+  {
+   "surface": "בבני",
+   "gloss": "mu bana ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  }
+ ],
+ "timestamp": "2026-09-07T21:19:39.930150509Z",
+ "model": "glm-5.3"
+}

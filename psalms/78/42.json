@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ntibibutse ⟨את⟩ ikiganza cye, umunsi yabakuyeho mu mwanzi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bibutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikiganza cye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ikiganza cye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amunsi"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "yabakuyeho"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:29.286933352Z",
+  "model": "glm-5.3"
+}

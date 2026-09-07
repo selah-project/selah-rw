@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Tora yo mu kanwa kawe ni nziza kuri njye kurusha ibihumbi bya zahabu n'ifeza.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni nziza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kanwa kawe"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kurusha ibihumbi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ifeza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:25.790499422Z",
+  "model": "glm-5.3"
+}

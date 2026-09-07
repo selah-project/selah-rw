@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe azaraga ⟨את⟩ Yehuda nk'urugabane rwe ku butaka bw'ubutagatifu, kandi azongera guhitamo Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "azaraga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "urugabane rwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bw'ubutagatifu"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "azohitamo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "azongera"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:58:14.307803063Z",
+  "model": "glm-5.3"
+}

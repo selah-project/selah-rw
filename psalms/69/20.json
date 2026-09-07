@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Wowe urazi ihwe ryanjye n'isoni ryanjye n'agahinda kanjye; abanzi banjye bose bari imbe yawe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "urazi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ihwe ryanjye"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "n'isoni ryanjye"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "n'agahinda kanjye"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abanzi banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:16.247486866Z",
+  "model": "glm-5.3"
+}

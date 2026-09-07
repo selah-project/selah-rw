@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Kandi igiciro cyo kuguza nefeshi yabo ni umwungere, maze urwo kuguza kurahagarara iteka.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "kandi ... ni umwungere"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "igiciro cyo kuguza"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshi yabo"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "maze kurahagarara"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:14.357541703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Gusa ahantu ndenge nti byavanyweho: abantu bukomeje gutema ibitambo no guterura icanwa ku hantu ndenge.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ahantu ndenge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "byavanyweho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bukomeje"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "gutema ibitambo"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "no guterura icanwa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ku hantu ndenge"
+    }
+  ],
+  "timestamp": "2026-09-07T14:21:33.342658707Z",
+  "model": "glm-5.3"
+}

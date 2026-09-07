@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Yahwe afungura amaso amafu; Yahwe azamura abaturitse; Yahwe akunda abakuri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "afungura amaso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "abaturitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akunda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abakuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:57.903678124Z",
+  "model": "glm-5.3"
+}

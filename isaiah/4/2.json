@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ku munsi uwo Tsemahi ya Yahwe izaba icyubahiro n'ikuzo, kandi imbuto z'isi izaba icyerekezo n'ubwiza ku bacokitse mu Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tsemahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ku icyubahiro"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "n'ikuzo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "n'imbuto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "z'isi"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ku icyerekezo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "n'ubwiza"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "ku bacokitse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:42:19.544233205Z",
+  "model": "glm-5.3"
+}

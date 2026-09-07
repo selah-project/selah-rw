@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Uhimbaza, Nefeshi yanjye, ⟨את⟩ Yahwe, kandi ntimuzibagirwe ibyo yakuguriye byose.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Uhimbaza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti…"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "muzibagirwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ibyo yakuguriye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:34.268718686Z",
+  "model": "glm-5.3"
+}

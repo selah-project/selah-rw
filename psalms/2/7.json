@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Itegeko rya Yahwe nzabwira: Yahwe yaravuze ⟨njye⟩ ati: Uri umwana wanjye; njye uyu munsi nakubyaye.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "nzabwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חק",
+      "gloss": "Itegeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨njye⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "nakubyaye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.992150368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze bamuzaniye na ⟨את⟩ igicanwa rye mu ntangu zawo, na ⟨את⟩ umutwe we, maze yaracyacaniye ku gicaniro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igicanwa rye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igicanwa rye"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "bamuzaniye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "mu ntangu zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutwe we"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yaracyacaniye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:21.917326781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Muhe Yahwe icyubahiro cy'izina rye; muzane impano, mwinjire mu mbuga rwe.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Muhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "cy'izina rye"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "muzane"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mwinjire"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "mu mbuga rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:19.505110261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ese koko imana z'amahanga zakiza buri imwe ⟨את⟩ igihugu cyayo mu biganza by'umwami w'Ashuru?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "zakiza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri imwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cyayo"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cyayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "by'umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-07T14:27:21.578460339Z",
+  "model": "glm-5.3"
+}

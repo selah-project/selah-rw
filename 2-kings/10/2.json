@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "None raha iyo nyandiko igeze kuri mwe — kandi mufitanye na ⟨את⟩ mwe abahungu ba shebuja wanyu, mufitanye na ⟨את⟩ mwe indege n'amafarashi, umujyi w'ingabe n'ibikoresho by'intambara —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None raha"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "igeze"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "iyo nyandiko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "na ⟨את⟩ mwe",
+      "marks": "abahungu ba shebuja wanyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ba shebuja wanyu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "na ⟨את⟩ mwe",
+      "marks": "indege n'amafarashi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "indege"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "n'amafarashi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "w'ingabe"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "n'ibikoresho by'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:40.861832873Z",
+  "model": "glm-5.3"
+}

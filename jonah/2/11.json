@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe yarabwiye ifi, maze iravomera ⟨את⟩ Yona ku butaka bwumye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ifi"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "maze iravomera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "butaka bwumye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:44:59.521770852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi abona ko Shauli yaje gushakisha ⟨את⟩ ubuzima bwe; Dawidi na we ari mu butayu bwa Zifu, mu gishanga cya Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "gushakisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima bwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ubuzima bwe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawidi na we"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "bwa Zifu"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "mu gishanya cya Horesha"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:08.698395880Z",
+  "model": "glm-5.3"
+}

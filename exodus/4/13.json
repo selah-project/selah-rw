@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze yaravuze ati: Ee, Adonayi we, ohereza, ndasaba, b'ikiganza cy'uw'uko uzahereza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze ati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi we"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "b'ikiganza cy'"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "uzahereza"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:47.011730958Z",
+  "model": "glm-5.3"
+}

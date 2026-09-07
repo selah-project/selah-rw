@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntuzashake shalomu yabo na neza yabo, iminsi yawe yose, iteka ryose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "zashake"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "shalomu yabo"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "na neza yabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "iminsi yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:35.107074960Z",
+  "model": "glm-5.3"
+}

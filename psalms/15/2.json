@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Uwo ni we utambuka adahemuka, ukora ubutunganye, avuga ukuri mu mutima we.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "utambuka"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "adahemuka"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutunganye"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "mu mutima we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:27.978542949Z",
+  "model": "glm-5.3"
+}

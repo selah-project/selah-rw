@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "na Remethi, na En-Ganimu, na En-Hadah, na Beit-Patsetsi.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "na Remethi"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na En-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganimu"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na En-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Hadah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na Beit-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Patsetsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:00.578872272Z",
+  "model": "glm-5.3"
+}

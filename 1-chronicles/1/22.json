@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Eyibalu, na ⟨את⟩ Avimaeli, na ⟨את⟩ Sheba",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Eyibalu"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyibalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:39.476596603Z",
+  "model": "glm-5.3"
+}

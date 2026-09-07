@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Paro yategetse abantu ku bwite, maze bakohereje ⟨את⟩ Avramu na ⟨את⟩ umugore we na ⟨את⟩ byose afite.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku bwite"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "bakohereje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugore we"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose afite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "afi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:58.344738271Z",
+  "model": "glm-5.3"
+}

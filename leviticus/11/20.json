@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Sherezi ryose rw'inyoni rugenda ku maguru ⟨ane⟩ ⟨ni⟩ ibyangomba muri mwebwe",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sherezi"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "rw'inyoni"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "rugenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ibyangomba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:52.458304892Z",
+  "model": "glm-5.3"
+}

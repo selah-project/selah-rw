@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "maze ubashyize ⟨את⟩ abahungu bawe, ubaha mu kuyobora ⟨את⟩ abo baherera.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "maze ubashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu bawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu bawe"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ubaha"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "mu kuyobora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ abo",
+      "marks": "abo baherera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abaherera (ibigirwamana)"
+    }
+  ],
+  "timestamp": "2026-09-07T16:53:36.809727226Z",
+  "model": "glm-5.3"
+}

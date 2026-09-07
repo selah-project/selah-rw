@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Na bavandimwe be, mu miryango yabo, mu kwandikwa amaze y'ibyavuka byabo: umukuru Yeieli na Zekariyahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Na bavandimwe be"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "mu miryango yabo"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "mu kwandikwa amaze"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "y'ibyavuka byabo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeieli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "na Zekariyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:06.443770378Z",
+  "model": "glm-5.3"
+}

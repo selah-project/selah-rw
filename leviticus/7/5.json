@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze kohenu azashyira ⟨את⟩ ku muriro ku gicaniro, nk'igisebo cy'umuriro kwa Yahwe; igisebo ry'icumura ni cyo.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "azashyira ku muriro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibinure (ibyo kohenu azashyira ku muriro)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku gicaniro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nk'igisebo cy'umuriro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "igisebo ry'icumura"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:19.226584575Z",
+  "model": "glm-5.3"
+}

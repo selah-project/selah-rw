@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yabwiye Shemuweli ati: Umva ijwi ry'ubwoko ku byo bose bazakubwira; kuko ntabwo ⟨את⟩ wowe baranze, kuko ⟨את⟩ ine baranze, ngo ntigabe ku bo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi ry'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byo bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bazakubwira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "baranze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "baranze"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ngo ntigabe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku bo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:25:57.900461750Z",
+  "model": "glm-5.3"
+}

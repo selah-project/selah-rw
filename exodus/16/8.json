@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 16:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Moshe aravuga ati: Ibi nibihuye igihe Yahwe azaba yatanzeho mu mwijiro inyama yo kurya, no mu gitondo umugati wo kubatura — igihe Yahwe yumvise ⟨את⟩ amatetsi yanyu muvugaho kuri we; kandi twe ni abake? Amatetsi yanyu nturi kuri twe, ahubwo ni kuri Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze aravuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "igihe azaba yatanzeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu mwijiro"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yo kurya"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "wo kubatura"
+    },
+    {
+      "surface": "בשמע",
+      "gloss": "igihe yumvise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatetsi yanyu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "amatetsi yanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "מלינם",
+      "gloss": "muvugaho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "kandi twe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni abake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "amatetsi yanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:00.343562120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Kuko wakuyeho Nefeshi yanjye mu rupfu, ⟨את⟩ amaso yanjye mu ibara, ⟨את⟩ ibirenge byanjye mu kugwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wakuyeho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mu rupfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yanjye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ibara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibirenge byanjye"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ibirenge byanjye"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "mu kugwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:57.086308818Z",
+  "model": "glm-5.3"
+}

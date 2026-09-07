@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze haba nyuma y'iminsi mirongo ine, maze Noah afungura ⟨את⟩ idirishya ry'ubwato yasize akoze.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "יום",
+      "gloss": "y'iminsi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "afungura"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idirishya ry'ubwato"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "idirishya"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ry'ubwato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasize akoze"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:07.784749377Z",
+  "model": "glm-5.3"
+}

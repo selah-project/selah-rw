@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nabonye ⟨את⟩ isi, none ikaba ubusa n'ubutali; kandi njeye ijuru, kandi nta rumuri rwayo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "none"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "n'ubutali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi njeye"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "rumuri rwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:41:54.330867309Z",
+  "model": "glm-5.3"
+}

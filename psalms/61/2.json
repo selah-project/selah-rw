@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Umva, Elohimu, induru yanjye; tegereza neza isengesho ryanjye.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "induru yanjye"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tegereza neza"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:37.510155534Z",
+  "model": "glm-5.3"
+}

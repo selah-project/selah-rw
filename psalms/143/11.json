@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Kubw'izina ryawe, Yahwe, muzure ubuzima ndi; ku bw'ubudahemuka bwawe ikureho muri ibanga nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "muzure ubuzima ndi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ku bw'ubudahemuka bwawe"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ikureho"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "muri ibanga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:03.257253552Z",
+  "model": "glm-5.3"
+}

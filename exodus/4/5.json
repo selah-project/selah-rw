@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "kugira ngo bemwe ko Yahwe, Elohimu w'abakurambere babo, yagaragariye iwe — Elohimu w'Avrahamu, Elohimu w'Yitsaki, n'Elohimu w'Yaakovu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "bemwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yagaragariye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu w'"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abakurambere babo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu w'"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu w'"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "n'Elohimu w'"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:17.888350092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "N'abahungu b'Elayi bari abahungu b'ubugome; ntibazi ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "n'abahungu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "b'Elayi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "b'ubugome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:18:52.300264174Z",
+  "model": "glm-5.3"
+}

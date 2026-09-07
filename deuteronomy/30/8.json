@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze wowe uzagaruka, umutege ubwiriza bw'ijwi rya Yahwe, maze ukore ⟨את⟩ amategeko yose nategeka uyu munsi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uzagaruka"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "umutege ubwiriza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bw'ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nategeka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:57.189759410Z",
+  "model": "glm-5.3"
+}

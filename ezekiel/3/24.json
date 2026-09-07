@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze umwuka winjira muri njye, maze unyihagaza ku bonsongo bwanjye, maze udatekera ⟨את⟩ njye, maze umbwira kuri njye ati: Injira, ufungane mu nzu yawe.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "maze winjira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muri njye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "unyihagaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "bonsongo bwanjye"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "udatekera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze umbwira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "ufungane"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nzu yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:42:55.438930903Z",
+  "model": "glm-5.3"
+}

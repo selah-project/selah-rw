@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Yirmeyahu yategekanije ⟨את⟩ Baruku ati: Jyewe ndafunganye, ntago nshobora kwinjira mu nzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "yategekanije"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruku"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ndafunganye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nshobora"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwinjira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:18:32.815913786Z",
+  "model": "glm-5.3"
+}

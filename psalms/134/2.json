@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 134,
+  "translation": "Nimuzamure amaboko yanyu mu gitagatifu, muhe ⟨את⟩ Yahwe umugisha.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Nimuzamure"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "amaboko yanyu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mu gitagatifu"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "muhe umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:53.923999097Z",
+  "model": "glm-5.3"
+}

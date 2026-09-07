@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Kandi abana ba Dishani ni ibi: Hemudani, na Eshibani, na Yitrani, na Kerani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kandi ibi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishani"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemudani"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "na Eshibani"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "na Yitrani"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "na Kerani"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:35.921682629Z",
+  "model": "glm-5.3"
+}

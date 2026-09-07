@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "maze goeli w'amaraso abona ⟨את⟩ we hanze y'umupaka w'umugi w'ubuhungiro we, akamwica — goeli w'amaraso ariko ica ⟨את⟩ umwicanyi, nta cyaha cy'amaraso ku we.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "maze abona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "goeli"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goeli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "y'umupaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "w'umugi"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "w'ubuhungiro we"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "maze aca"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goeli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwicanyi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umwicanyi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "דם",
+      "gloss": "cyaha cy'amaraso"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:12.423733255Z",
+  "model": "glm-5.3"
+}

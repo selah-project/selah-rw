@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kelubu, murumuna wa Shuha, yabyaye ⟨את⟩ Mehiru; we ⟨ni⟩ se w'Eshtonu.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Kelubu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "murumuna wa"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehiru"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehiru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se w'"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshtonu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:24.880603301Z",
+  "model": "glm-5.3"
+}

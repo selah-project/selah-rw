@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Mu iteka nzashyiraho umubyare wawe, kandi ku muryango n'uwundi ndubake intebe yawe. Selahi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "nzashyiraho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "umubyare wawe"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "kandi ndubake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "n'uwundi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "intebe yawe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:09.305664126Z",
+  "model": "glm-5.3"
+}

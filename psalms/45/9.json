@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Moru na ahaloti na ketsioti ⟨ni⟩ ibyambaro byawe byose; mu nzu nkuru z'amababo y'inzovu injyambe zinakuneje.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "moru"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "na ahaloti"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ketsioti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ibyambaro byawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "nzu nkuru za"
+    },
+    {
+      "surface": "שן",
+      "gloss": "amababo y'inzovu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "injyambe"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "zinakuneje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:43.935551606Z",
+  "model": "glm-5.3"
+}

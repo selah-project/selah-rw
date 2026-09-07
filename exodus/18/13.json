@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze mu munsi ukurikira Moshe yicara mu kucibura ⟨את⟩ abantu; abantu nanone bahagara kwa Moshe kuva mu gitondo kugera nimugoroba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mu munsi ukurikira"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yicara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mu kucibura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "bahagara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva mu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gitondo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nimugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:48.070038475Z",
+  "model": "glm-5.3"
+}

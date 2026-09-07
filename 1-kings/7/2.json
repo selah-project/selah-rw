@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yubatse ⟨את⟩ inzu y'ishyamba rya haLevanoni (Libani): uburebure bwayo ⟨ni⟩ diriwe ijana, ubugari bwayo diriwe mirongo itanu, ubujyero bwayo diriwe mirongo itatu, ku nbariro ine z'imingiti ya erezu, n'ibiti byatemewe bya erezu ku mingiti.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu y'ishyamba rya haLevanoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יער",
+      "gloss": "y'ishyamba"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "haLevanoni"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diriwe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diriwe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ubugari bwayo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diriwe"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ubujyero bwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ine"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "nbariro"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "z'imingiti"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "za erezu"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "n'ibiti byatemewe"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "bya erezu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "mingiti"
+    }
+  ],
+  "timestamp": "2026-09-07T13:37:06.483518149Z",
+  "model": "glm-5.3"
+}

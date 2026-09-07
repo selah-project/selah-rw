@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Moshe akoze uko Yahwe yategetse ⟨את⟩ we; maze umuryango wuhuriye ku rugi rw'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "maze wuhuriye"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rugi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:30:35.645705300Z",
+  "model": "glm-5.3"
+}

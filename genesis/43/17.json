@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Umuntu yakoze uko Yosefu yari yavuze, maze umuntu yazanye ⟨את⟩ abagabo mu nzu ya Yosefu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yari yavuze"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yazanye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosefu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:43.432550809Z",
+  "model": "glm-5.3"
+}

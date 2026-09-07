@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Balaki umwana wa Tsipori yabonye ⟨את⟩ ibyose Yisraeli yakoreye Abaemori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Abaemori"
+    }
+  ],
+  "timestamp": "2026-09-07T10:26:25.291911102Z",
+  "model": "glm-5.3"
+}

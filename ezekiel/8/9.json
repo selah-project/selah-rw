@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yabwiye kuri njye ati: Injira, urebe ⟨את⟩ iby'urwibazo bibi uko bo bakora hano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yabwiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Injira"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "urebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iby'urwibazo bibi"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "iby'urwibazo"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hano"
+    }
+  ],
+  "timestamp": "2026-09-07T16:44:55.668233104Z",
+  "model": "glm-5.3"
+}

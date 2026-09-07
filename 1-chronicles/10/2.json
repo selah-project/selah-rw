@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abafilisiti bakurikiriye Shauli n'abahungu be, maze Abafilisiti batsindiye ⟨את⟩ Yonatani na ⟨את⟩ Avinadabu na ⟨את⟩ Malkishua, abahungu ba Shauli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "bakurikiriye"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "no inyuma ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "maze batsindiye"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ba Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:42.504582546Z",
+  "model": "glm-5.3"
+}

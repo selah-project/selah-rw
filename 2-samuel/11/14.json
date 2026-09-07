@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Mu gitondo Dawidi yanditse ibaruwa kuri Yowabu, maze ayiyohereje mu ntoko za Uriyah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "yanditse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ibaruwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ayiyohereje"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "za Uriyah"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:13.998174947Z",
+  "model": "glm-5.3"
+}

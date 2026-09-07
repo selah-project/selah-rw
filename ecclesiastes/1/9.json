@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Icyo cyari kibaho ni cyo kizubahazo; n'icyo cyakorwa ni cyo cyakorwazuba.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "cyari kibaho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "n'icyo"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "cyakorwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "cyakorwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "gishya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:06.526069525Z",
+  "model": "glm-5.3"
+}

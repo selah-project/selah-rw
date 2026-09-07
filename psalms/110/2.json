@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Agafilika k'ububasha bawe Yahwe azohereza uva i Tsiyoni: tegeka mu gitugu cy'abanzi bawe.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Agafilika"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "k'ububasha bawe"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uva i Tsiyoni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "tegeka"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu gitugu cy'"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:38.434626572Z",
+  "model": "glm-5.3"
+}

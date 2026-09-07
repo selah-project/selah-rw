@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze ashira ⟨את⟩ igicaniro cya zahabu mu ihema ry'ihuriro, imbere y'urubariro.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cya zahabu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "y'urubariro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:46.004689021Z",
+  "model": "glm-5.3"
+}

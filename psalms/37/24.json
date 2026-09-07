@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yagwa, ntiyononoka: koko, Yahwe afatira intoki ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yagwa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yagwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "yononoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "afatira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:30.574126881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "We utuma ijambo rye ku isi; ijambo rye ririhuta cyane.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "utuma"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "vuba cyane"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ririhuta"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:19.991664100Z",
+  "model": "glm-5.3"
+}

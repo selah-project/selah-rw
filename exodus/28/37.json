@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 37,
+ "ref": "exodus 28:37",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 28,
+ "translation": "Uzashyire ⟨את⟩ we ku ruhogi rwa bururu, rukazaba ku gitambaro cy'umutwe; imbere y'icyo gitambaro cy'umutwe rizaba.",
+ "tokens": [
+  {
+   "surface": "ושמת",
+   "gloss": "uzashyire"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "ikiyaga (ku gitambaro)"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "פתיל",
+   "gloss": "ruhogi"
+  },
+  {
+   "surface": "תכלת",
+   "gloss": "bururu"
+  },
+  {
+   "surface": "והיה",
+   "gloss": "rukazaba"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "המצנפת",
+   "gloss": "igitambaro cy'umutwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "⟨ku⟩"
+  },
+  {
+   "surface": "מול",
+   "gloss": "imbere y'"
+  },
+  {
+   "surface": "פני",
+   "gloss": "icyo gitambaro"
+  },
+  {
+   "surface": "המצנפת",
+   "gloss": "cy'umutwe"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "rizaba"
+  }
+ ],
+ "timestamp": "2026-09-07T09:10:39.931205707Z",
+ "model": "glm-5.3"
+}

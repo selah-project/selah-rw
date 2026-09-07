@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "⟨ni⟩ Eli utanga inkiko zanjye ndetse akanashyira amahanga munsi yanjye —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "inkiko zanjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zanjye"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akanashyira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "munsi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:41.247994423Z",
+  "model": "glm-5.3"
+}

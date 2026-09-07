@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe yarabwiye Satani ati: Uvuye he? Satani yishuye ⟨את⟩ Yahwe maze aravuga ati: Kuva kwo kuzungahaza isi yose, no kugenda mu yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "אי",
+      "gloss": "he"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "uvuye"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uje"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "yishuye"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "משט",
+      "gloss": "kwo kuzungahaza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "no kugenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu yo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:55.519861696Z",
+  "model": "glm-5.3"
+}

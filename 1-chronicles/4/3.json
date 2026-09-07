@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Aba ni abana b'umukuru wa Etamu: Yizreeli, Yishmai na Yidbashi; izina ry'umukobwa wabo ni Hatselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "umukuru wa"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "na Yishmai"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "na Yidbashi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "izina ry'"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "umukobwa wabo"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatselelponi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:24.092129194Z",
+  "model": "glm-5.3"
+}

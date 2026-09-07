@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Yatoranije ⟨את⟩ umurage wacu, ⟨את⟩ icubahiro rya Yaakovu, we yakundaga. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Yatoranije"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tugereranye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage wacu"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "umurage wacu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icubahiro rya Yaakovu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "icubahiro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakundaga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:49.817398091Z",
+  "model": "glm-5.3"
+}

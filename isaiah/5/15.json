@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze umuntu arashushwa, umugabo aracyuywa, namareso y'ibyivanza aracyuywa.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "arashushwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "aracyuywa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "namareso"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "y'ibyivanza"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "aracyuywa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:43:43.098192402Z",
+  "model": "glm-5.3"
+}

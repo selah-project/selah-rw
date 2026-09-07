@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Dawidi yaje abyitabye aho Shauli amwoherereza hose, arakoresha ubwenge; maze Shauli amushyira hejuru y'ingabo za mu rugamba, igikorwa cye kikamera neza mu maso y'abantu bose, ndetse no mu maso y'abagaragu ba Shauli.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaje abyitabye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "aho… hose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "amwoherereza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "arakoresha ubwenge"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "amushyira hejuru ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ingobo za"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "za mu rugamba"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kikamera neza"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse no"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:41:08.825091876Z",
+  "model": "glm-5.3"
+}

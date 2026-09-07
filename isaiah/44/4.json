@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Maze bazamera mu rwatsi, nk'iminyinya ku nkombe z'imigezi y'amazi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Maze bazamera"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "urwatsi"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "nk'iminyinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:03.866876188Z",
+  "model": "glm-5.3"
+}

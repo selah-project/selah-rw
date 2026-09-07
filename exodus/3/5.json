@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yaravuze ati: Ntikereke hano; jya unyura inkweto zawe ku ibirenge byawe, kuko aho wowe uhagaze ho ni ubutaka bwera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ukereke"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hano"
+    },
+    {
+      "surface": "של",
+      "gloss": "unyure"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "inkweto zawe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ibirenge byawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "uhagaze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bwera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:56.723701389Z",
+  "model": "glm-5.3"
+}

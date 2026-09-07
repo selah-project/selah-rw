@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "None ho subira, ugende mu mahoro, kandi ntuzakore ikibi mu maso y'abatware b'Abafilisiti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ho"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "subira"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ugende"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mu mahoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntuzakore"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kora"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "y'abatware"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "b'Abafilisiti"
+    }
+  ],
+  "timestamp": "2026-09-07T12:55:41.517376812Z",
+  "model": "glm-5.3"
+}

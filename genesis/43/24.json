@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Maze umuntu azana ⟨את⟩ abagabo (abashyitsi) mu nzu ya Yosefu (Yozefu), aha amazi bakarogesa amaguru yabo, araha ifuro indogobe zabo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosefu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "bakarogesa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "amaguru yabo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "araha"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ifuro"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "indogobe zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:23:35.329486781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "N'intare cumi na zibiri zihagaze aho, ku ntambwe eseshatu, ku ruhande ruri hano na ku ruhande ruri hino; ibwami nta na kimwe cyakozwe nk'icyo.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "na cumi na babiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "intare"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "zihagaze"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שש",
+      "gloss": "eseshatu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ntambwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ku ruhande ruri hano"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "na ku ruhande ruri hino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "cyakozwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nk'icyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bwami bwose"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ibwami"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:48.743228249Z",
+  "model": "glm-5.3"
+}

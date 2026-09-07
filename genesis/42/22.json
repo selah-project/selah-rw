@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Reubenu yishuye ⟨את⟩ bo ati: Ese sinababwiye ngo ntimugire icyaha ku mwana, ariko ntimwumvise? Ndewo na amaraso ye arasabwa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yishuye"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubenu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ese nt(a)"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nabwiye"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mugire icyaha"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "ku mwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mwumvise"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndewo"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "arasabwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:29.570776007Z",
+  "model": "glm-5.3"
+}

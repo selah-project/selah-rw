@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kandi ku ngabo z'ubwoko bw'abana ba Gad ⟨ni⟩ Eliyasaphu mwene Deuweli.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "z'ubwoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bw'abana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eliyasaphu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuweli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:02.935506191Z",
+  "model": "glm-5.3"
+}

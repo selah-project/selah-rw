@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 150,
+  "translation": "Muririmbire mu manja n'imuhamviro; muririmbire mu ndogobori n'urwirabura.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "mu manja"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "n'imuhamviro"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "mu ndogobori"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "n'urwirabura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:14.593619401Z",
+  "model": "glm-5.3"
+}

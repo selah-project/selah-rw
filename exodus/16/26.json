@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Mu minsi itandatu muzayikorohereza, ariko ku munsi wa karindwi — Shabati — nta na kimwe kizaba muri uwo munsi.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "muzayikorohereza"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri uwo munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:55.049877372Z",
+  "model": "glm-5.3"
+}

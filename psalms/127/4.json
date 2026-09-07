@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 127,
+  "translation": "Nk'imyambi mu ntoki z'uwitwara intambara, ni ko abahungu b'imyaka mike.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Nk'imyambi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "z'uwitwara intambara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "b'imyaka mike"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:10.737176623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yarabwiye Moshe ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:51.656370050Z",
+  "model": "glm-5.3"
+}

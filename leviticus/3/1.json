@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi iyo Korubani rye ari ⟨ni⟩ zevahi rya shelamim, iyo atuye mu ngamiya, iyo azana ingore cyangwa ingabo, idafite ibyaha azayizanira imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zevahi"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "Korubani rye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngamiya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "azana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingore cyangwa ingabo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ingore"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "idafite ibyaha"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "azayizanira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:52.963251557Z",
+  "model": "glm-5.3"
+}

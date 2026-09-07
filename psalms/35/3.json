@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 35:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 35,
+ "translation": "Cyarimo sosanya icumu, ufunge inzira imbere y'abankurikira banjye; ubwire ku nefeshi yanjye uti: Agakiza kawe ni njye.",
+ "tokens": [
+  {
+   "surface": "והרק",
+   "gloss": "Cyarimo sosanya"
+  },
+  {
+   "surface": "חנית",
+   "gloss": "icumure"
+  },
+  {
+   "surface": "וסגר",
+   "gloss": "ufunge inzira"
+  },
+  {
+   "surface": "לקראת",
+   "gloss": "imbere ya"
+  },
+  {
+   "surface": "רדפי",
+   "gloss": "abankurikira banjye"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "ubwire"
+  },
+  {
+   "surface": "לנפשי",
+   "gloss": "ku nefeshi yanjye"
+  },
+  {
+   "surface": "ישעתך",
+   "gloss": "Agakiza kawe"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ni njye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:17:37.008055855Z",
+ "model": "glm-5.3"
+}

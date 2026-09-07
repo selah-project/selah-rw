@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ariko uko ni ⟨ko⟩ muzabakora: ibicanwa byabo muzabikubura hasi, ibyikingi byabo muzabimenya, ibiti bya Ashera byabo muzabicibaho, n'ibishusho byabo muzabibyotse mu muriro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzabakora"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "ibicanwa byabo"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "muzabikubura hasi"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "ibyikingi byabo"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "muzabimenya"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "ibiti bya Ashera byabo"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "muzabicibaho"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "n'ibishusho byabo"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "muzabibyotse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T10:51:48.400051513Z",
+  "model": "glm-5.3"
+}

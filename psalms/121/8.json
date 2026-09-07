@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Yahwe azirinda ugenda no kuza kwawe, uhera ubu kugeza mu ntangiriro z'iteka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "azirinda"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ugenda kwawe"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "no kuza kwawe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "uhera ubu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mu ntangiriro z'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:13.718644676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mu nzira y'ubutunganye nagendagenda, hagati mu nzira z'ubutabera.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "y'ubutunganye"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nagendagenda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati mu"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "z'ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:35.681456400Z",
+  "model": "glm-5.3"
+}

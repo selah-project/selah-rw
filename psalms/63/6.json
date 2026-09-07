@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Nfeshi yanjye izwi izura nk'ibinure n'amavuta, kandi umunwa wanjye uzasingiza mu mibono y'ibyishimo.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "izwi izura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nfeshi yanjye"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "na imibono"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "y'ibyishimo"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "uzasingiza"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:48.164770756Z",
+  "model": "glm-5.3"
+}

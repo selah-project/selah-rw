@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ndetse nkora hesedi ⟨kuri bo⟩ ku bihumbi, ku bakunda njye no ku bafata amategeko yanjye.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ndetse nkora"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ku bihumbi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ku bakunda njye"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "no ku bafata"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "amategeko yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:58.433916638Z",
+  "model": "glm-5.3"
+}

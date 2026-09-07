@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ijambo ryawe ni urumuri ku birenge byanjye, kandi ni umuco ku nzira yanjye.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ku birenge byanjye"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kandi umuco"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ku nzira yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:14.112539535Z",
+  "model": "glm-5.3"
+}

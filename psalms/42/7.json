@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Elohimu wanjye, kuri jye Nefeshi yanjye ibomoka; kubw'ibi nkibuka wowe, mu gihugu cya Yardeni n'ibimbye bya Herimoni, ku musozi wa Mitsari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ibomoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'icyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kubw'ibi"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "nkibuka wowe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "n'ibimbye bya Herimoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ku musozi wa"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:45.786762929Z",
+  "model": "glm-5.3"
+}

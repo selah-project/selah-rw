@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ntambe iwanjye, mufashe, tugabwe ⟨את⟩ Givoni, ko yahunze amahoro ⟨את⟩ Yehoshuwa na ⟨את⟩ abahungu ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Ntambe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "mufashe"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "tugabwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "yahunze amahoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:31:36.643664502Z",
+  "model": "glm-5.3"
+}

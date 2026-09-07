@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe azakubita ⟨את⟩ Mitsrayimu, akubita akanakiza, maze basubira kwa Yahwe, arabakirwa akanabakiza.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "azakubita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "akubita"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "akanakiza"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "maze basubira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "arabakirwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "akanabakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:08.648554456Z",
+  "model": "glm-5.3"
+}

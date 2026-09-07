@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Muri Elohimu ndahimbaza ijambo; muri Yahwe ndahimbaza ijambo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Muri Elohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndahimbaza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndahimbaza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:57.142139144Z",
+  "model": "glm-5.3"
+}

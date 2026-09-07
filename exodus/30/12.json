@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Iyo ukoze ibarura ry'abana ba Yisraeli (Isirayeli) mu kubabara, buri muntu azaha Yahwe igihe cy'ukuri kw'ubuzima bwe mu gihe ubabara; maze nta rwibeko ruzabaho muri bo mu gihe ubabara ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ukoze ibarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "mu kubabara"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bazaha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "igihe cy'ukuri"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ubuzima bwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "mu gihe ubabara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ruzabaho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "rwibeko"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "mu gihe ubabara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:05.398174881Z",
+  "model": "glm-5.3"
+}

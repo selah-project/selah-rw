@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Imidugudu ya Aroeri irekwe; izaba ari iyo matungo aryarimirwamo, nta na kimwe kizatubaza ubwoba.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "irekwe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Imidugudu ya"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ari iyo matungo"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "aryamirimwamo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta na kimwe"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kizatubaza ubwoba"
+    }
+  ],
+  "timestamp": "2026-09-07T14:56:29.708066755Z",
+  "model": "glm-5.3"
+}

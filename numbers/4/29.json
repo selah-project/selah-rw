@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abana ba Merari, ku muryango wabo, ku nzu y'ababyeyi babo, uzabarura ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nzu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "y'ababyeyi babo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uzabarura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Merari"
+    }
+  ],
+  "timestamp": "2026-09-07T10:02:40.476930056Z",
+  "model": "glm-5.3"
+}

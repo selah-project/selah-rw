@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Unazengurutsa ⟨את⟩ abantu ubwite, ubabwire uti: Irindeko mwiyongera ku musozi cyangwa guko ku rubibe rwawo; u wose ukoze ku musozi arapfa rwose.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Unazengurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ubwite"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ubabwire uti"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Irindeko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kwiyongera ku"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "cyangwa guko"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ku rubibe rwawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "u wose"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ukoze ku"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfa rwose"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:59.169403664Z",
+  "model": "glm-5.3"
+}

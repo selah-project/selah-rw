@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "na ⟨את⟩ igihisho cy'imbaruwa z'intabire zamenuwe ibara ritukura, na ⟨את⟩ igihisho cy'imbaruwa za takhashi, na ⟨את⟩ urwuri rw'igihisho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihisho cy'imbaruwa z'intabire"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "igihisho"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "cy'imbaruwa"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "z'intabire"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "zamenuwe ibara ritukura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihisho cy'imbaruwa za takhashi"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "igihisho"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "cy'imbaruwa"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "za takhashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urwuri rw'igihisho"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "urwuri"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "rw'igihisho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:01.948295001Z",
+  "model": "glm-5.3"
+}

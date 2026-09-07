@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Eli ni we wambikira ingufu, akanigisha inzira yanjye kuba itunganye.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "wambikira ingufu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ingufu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akanigisha"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kuba itunganye"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:58.789015226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ Yeutsu na ⟨את⟩ Shekiya na ⟨את⟩ Mirmaha; aya ni abahungu be, ibanga ry'ibyara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Yeutsu"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shekiya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mirmaha"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya ni"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ibanga ry'"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ibyara"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:44.262253657Z",
+  "model": "glm-5.3"
+}

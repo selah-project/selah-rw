@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abakozi b'umwami abari ku rugo rw'umwami barabwira Mordekayi bati: Kuki wowe urenga ⟨את⟩ itegeko ry'umwami?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "barabwira"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abakozi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "b'umwami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku rugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rw'umwami"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "urenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itegeko ry'umwami"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ry'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:09.357922499Z",
+  "model": "glm-5.3"
+}

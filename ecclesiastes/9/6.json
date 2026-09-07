@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na urukundo rwabo, na icanke cyabo, na ishari ryabo byashize kale; kandi ntibagira undi mugabane iteka mu byose bikorwa munsi y'izuba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "urukundo rwabo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "icanke cyabo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "ishari ryabo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "byashize"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "kandi umugabane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "undi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bikorwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:10.097031796Z",
+  "model": "glm-5.3"
+}

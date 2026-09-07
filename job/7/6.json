@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Iminsi yanjye yaroroshe kurusha umusozo w'ubudodo, kandi yarangiye mu kubura cyizere.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "iminsi yanjye"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "yaroroshe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "umusozo w'ubudodo"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "kandi yarangiye"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "mu kubura"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "cyizere"
+    }
+  ],
+  "timestamp": "2026-09-07T19:21:00.711922531Z",
+  "model": "glm-5.3"
+}

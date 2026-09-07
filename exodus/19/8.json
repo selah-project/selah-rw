@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ubwo ubwoko bwose barabyishuye hamwe baravuga bati: Ibyose Yahwe yavuze tuzakora. Maze Moshe agarura ⟨את⟩ amajambo y'ubwoko kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "barabyishuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuga bati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tuzakora"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agarura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo y'ubwoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "y'ubwoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:14.791466761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ese ubwinshi ⟨bw'amagambo⟩ ntibwasubizwe? None se umuntu w'iminwa aryoherwa?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ubwinshi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "bw'amagambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bwasubizwe"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "None se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "w'iminwa"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "aryoherwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:38.165965792Z",
+  "model": "glm-5.3"
+}

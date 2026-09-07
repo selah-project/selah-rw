@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze umwami arerutsa kuri Esteri ⟨את⟩ agacebo ka zahabu; Esteri azamuka, ahagara imbere y'umwami.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "arerutsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kuri Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agacebo ka zahabu"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "agacebo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ka zahabu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ahagara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T20:02:38.787498566Z",
+  "model": "glm-5.3"
+}

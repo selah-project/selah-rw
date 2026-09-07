@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Iyo intama nkeya we atanga ⟨את⟩ Korubani cye, maze atange ⟨את⟩ intama imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "intama nkeya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "atanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Korubani cye"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "Korubani cye"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maze atange"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "intama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:38.524376567Z",
+  "model": "glm-5.3"
+}

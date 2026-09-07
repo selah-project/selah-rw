@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Kuko umunwa w'umwangavu n'umunwa w'uburigi ku njye barawufunguye; baravuze ⟨את⟩ iwanjye ⟨את⟩ ururimi rw'ibinyoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "w'umwangavu"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "n'umunwa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "w'uburigi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "barawufunguye"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iwanjye",
+      "marks": "ururimi rw'ibinyoma"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rw'ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:39.571683026Z",
+  "model": "glm-5.3"
+}

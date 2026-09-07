@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ishavu ryanjye rurazatuka, maze ndazica ⟨את⟩ mwe n'urupanga; abagore banyu bazahinduka abapfakazi, n'abana banyu bakaba impfubyi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "rurazatuka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ishavu ryanjye"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ndazica"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'urupanga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bazahinduka"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "abagore banyu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "abapfakazi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "n'abana banyu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "impfubyi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.002178134Z",
+  "model": "glm-5.3"
+}

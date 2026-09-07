@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Elohimu Tsevaoti, tudusubize inyuma, umenyeshe ubuso bwawe, maze turokobwa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tudusubize inyuma"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "umenyeshe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bwawe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maze turokobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.748559055Z",
+  "model": "glm-5.3"
+}

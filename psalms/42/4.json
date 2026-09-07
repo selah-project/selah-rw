@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ibitotsi byanjye byari iwanjye imfungurwa amanywa n'ijoro, mu kwigira bampinga buri munsi bati: Elohimu wawe ari hehe?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "byari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ibitotsi byanjye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imfungurwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amanywa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "mu kwigira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bampinga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ari hehe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:27.405708811Z",
+  "model": "glm-5.3"
+}

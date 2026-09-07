@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Mu kubabara kwa nefeshi ye azabona, aza kwuzura; mu kumenya kwe umutungane, umugaragu wanjye, aza gutsimbataza abenshi, kandi ibyaha byabo ni we ubwawe uzatwara.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "mu kubabara"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kwa nefeshi ye"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "azabona"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "aza kwuzura"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "mu kumenya kwe"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "aza gutsimbataza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutungane"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "abenshi"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "kandi ibyaha byabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we ubwawe"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "uzatwara"
+    }
+  ],
+  "timestamp": "2026-09-07T15:26:49.670760523Z",
+  "model": "glm-5.3"
+}

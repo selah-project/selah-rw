@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Abagabo bafatiye mu biribwa vyabo, ariko ⟨את⟩ kamwe rya Yahwe ntibabaze.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bafatiye"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "mu biribwa vyabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ariko ⟨את⟩",
+      "marks": "kamwe rya Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "babaze"
+    }
+  ],
+  "timestamp": "2026-09-07T11:27:26.317021924Z",
+  "model": "glm-5.3"
+}

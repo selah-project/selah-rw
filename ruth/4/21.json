@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Shelomo (Salomo) nabyariye ⟨את⟩ Boazu, maze Boazu nabazannywe ⟨את⟩ Ovudi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nabyariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazu"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazu"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Boazu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nabyariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovudi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovudi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:36.663756072Z",
+  "model": "glm-5.3"
+}

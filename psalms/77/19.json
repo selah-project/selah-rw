@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ijwi ry'inkuba zawe ryari mu kuzenguruka; imirasire yasesetse isi; ubutaka bwatetse, bwagenda buhindagurika.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ry'inkuba zawe"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "mu kuzenguruka"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "yasesetse"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "imirasire"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "bwatetse"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "bwagenda buhindagurika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:50.743745376Z",
+  "model": "glm-5.3"
+}

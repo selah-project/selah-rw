@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Mbese ni nde mu bijuru ashobora kugereranywa na Yahwe? Ni nde waba afite icyegera cya Yahwe mu bahungu b'abeli?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mbese"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "mu bijuru"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ashobora kugereranywa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "waba afite icyegera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cya Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mu bahungu"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "b'abeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:09.306427761Z",
+  "model": "glm-5.3"
+}

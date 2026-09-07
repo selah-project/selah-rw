@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Ku mutunganyi, y'abahungu ba Korahi, mizimori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutunganyi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "y'abahungu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ba Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimori"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:30.347075584Z",
+  "model": "glm-5.3"
+}

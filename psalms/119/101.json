@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu nzira zose mbi narafunze ibirenge byanjye, kugira ngo ndinde ijambo ryawe.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "mu ... zose"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "narafunze"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ibirenge byanjye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndinde"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ijambo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:34.733609315Z",
+  "model": "glm-5.3"
+}

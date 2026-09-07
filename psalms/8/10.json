@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe, Adonayi wacu, ni cyo gikomeye ⟨ni⟩ izina ryawe mu isi yose!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayi wacu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "gikomeye"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi yose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:22.089044799Z",
+  "model": "glm-5.3"
+}

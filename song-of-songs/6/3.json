@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ndi iya dodi wanje, kandi dodi wanje arindanjye; we uragira mu shoshanimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "njanjye"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "iya dodi wanje"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "kandi dodi wanje"
+    },
+    {
+      "surface": "לי",
+      "gloss": "arindanjye"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "uragira"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "mu shoshanimu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:42:20.552056781Z",
+  "model": "glm-5.3"
+}

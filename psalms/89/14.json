@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ukuboko kuri wewe ni ukw'ubwangavu; intoki yawe ni ingufu, iburyo ryawe ni hejuru.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ni ukw'"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ubwangavu"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ni ingufu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ni hejuru"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:40.035032902Z",
+  "model": "glm-5.3"
+}

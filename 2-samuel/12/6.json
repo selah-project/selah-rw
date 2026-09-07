@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi umwagasoni ose azayishyura inshuro eshatu n'ishwe, kubera ko yakoze ⟨את⟩ iri jambo, no kubera ko atagize impuhwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwagasoni"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "umwagasoni"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "azayishyura"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "inshuro eshatu n'ishwe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iri jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no kubera ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:08:02.598182030Z",
+  "model": "glm-5.3"
+}

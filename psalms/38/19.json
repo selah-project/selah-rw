@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Kuko ibyaha byanjye nzabyerekana; ndatunganya kubera icyaha cyajye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ibyaha byanjye"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nzabyerekana"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ndatunganya"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "kubera icyaha cyajye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:47.898199291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kurusha abigisha banjye bose nabonye ubumenyi, kuko ibyemezo byawe ni icuza ryanjye.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kurusha... bose"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "abigisha banjye"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "nabonye ubumenyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "icuza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:58.304204969Z",
+  "model": "glm-5.3"
+}

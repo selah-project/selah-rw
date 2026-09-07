@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Mu kubabarira urukundo rwanjye banansiye, ariko njewe ⟨ni⟩ urusengo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Mu kubabarira"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "urukundo rwanjye"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "banansiye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ariko njewe"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "urusengo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:39.571999363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ubwere bwa so wawe n'ubwere bwa nyina wawe ntuzabukurura; ni nyina wawe ⟨we⟩, ntuzakurura ubwere bwayo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubwere"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bwa so wawe"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "n'ubwere"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "bwa nyina wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zabukurura"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nyina wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zakurura"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ubwere bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:59.621568078Z",
+  "model": "glm-5.3"
+}

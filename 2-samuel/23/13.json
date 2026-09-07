@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 23:13",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Batatu mu mirongo itatu baragiye hasi, maze baje mu bihe by'imiterere kwa Dawidi, mu mwaro w'Adulamu; ingabo za Filisiti zari zihagaze ihuriro mu kibaya cya Refayimu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "baragiye hasi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "מהשלשים",
+      "gloss": "mu mirongo itatu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "bihe by'imiterere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "mwaro wa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulamu"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "n'ingabo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "za Filisiti"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "zari zihagaze ihuriro"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "mu kibaya cya"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:25:07.747968107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Urubura rukubise mu gihugu cyose cya Mitsrayimu ⟨את⟩ byose biri mu murima, kuva ku muntu kugeza ku matungo; na ⟨את⟩ ibyatsi byose bya mu murima urubura rwasenje, na ⟨את⟩ ibiti byose bya mu murima byasenyutse.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "rukubise"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "urubura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu gihugu cyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose biri mu murima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuva ku muntu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ku matungo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyatsi byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bya mu murima"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "rwasenje"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "urubura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiti byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "bya mu murima"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "byasenyutse"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:11.092814752Z",
+  "model": "glm-5.3"
+}

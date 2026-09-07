@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Moshe nawe, umuntu w'Elohimu — abahungu be baragaragaramo mu muryango w'umuryango wa Levi.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe nawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "baragaragaramo (baritwa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu (muryango w')"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "wa Levi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:04.226437551Z",
+  "model": "glm-5.3"
+}

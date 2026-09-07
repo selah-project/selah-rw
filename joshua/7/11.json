@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "joshua 7:11",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Yisraeli yakoze icyaha, kandi banjeje ⟨את⟩ beriti yanjye nategetse ⟨את⟩ bo; kandi bafashe mu biziritswe (heremu), kandi babinyereye, kandi bahinyuye, kandi babyibitsemo mu byabo bikoresho.",
+ "tokens": [
+  {
+   "surface": "חטא",
+   "gloss": "yakoze icyaha"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "kandi na"
+  },
+  {
+   "surface": "עברו",
+   "gloss": "banjeje"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "beriti yanjye"
+  },
+  {
+   "surface": "בריתי",
+   "gloss": "beriti yanjye"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "⟨iyo⟩"
+  },
+  {
+   "surface": "צויתי",
+   "gloss": "nategetse"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "Yisraeli"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "kandi na"
+  },
+  {
+   "surface": "לקחו",
+   "gloss": "bafashe"
+  },
+  {
+   "surface": "מן",
+   "gloss": "mu"
+  },
+  {
+   "surface": "החרם",
+   "gloss": "ibiziritswe (heremu)"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "kandi na"
+  },
+  {
+   "surface": "גנבו",
+   "gloss": "babinyereye"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "kandi na"
+  },
+  {
+   "surface": "כחשו",
+   "gloss": "bahinyuye"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "kandi na"
+  },
+  {
+   "surface": "שמו",
+   "gloss": "babyibitsemo"
+  },
+  {
+   "surface": "בכליהם",
+   "gloss": "mu byabo bikoresho"
+  }
+ ],
+ "timestamp": "2026-09-07T11:28:05.478657967Z",
+ "model": "glm-5.3"
+}

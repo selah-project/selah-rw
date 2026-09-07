@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Zindukira unereke njye, unhe impuhwe, kuko ndi umwe wenyine n'umukene.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Zindukira unereke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "unhe impuhwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "umwe wenyine"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:34.520250626Z",
+  "model": "glm-5.3"
+}

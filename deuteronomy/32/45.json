@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze Moshe arangiza kuvuga iby'ijambo ⟨את⟩ byose mu rwoko rw'Amajambo ku bantu bose bo mu Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "arangiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuvuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Amajambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:11.094695474Z",
+  "model": "glm-5.3"
+}

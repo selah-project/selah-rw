@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Aharoni yafashe ⟨את⟩ Elishava, umukobwa wa Aminadavi, mushiki wa Nachshoni, ⟨kuba⟩ umugore we, maze abyara kuri we ⟨את⟩ Nadavi na ⟨את⟩ Avihu, ⟨את⟩ Elazari na ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishava"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elishava"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadavi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mushiki wa"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshoni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨kuba⟩ umugore"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "maze abyara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadavi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadavi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:44.756873600Z",
+  "model": "glm-5.3"
+}

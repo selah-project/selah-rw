@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nyuma yiwe yahezutse Yairi (Yayiri), umunyagiladi (umunyagalede), hanyuma acamanza ⟨את⟩ Yisraeli imyaka makumyabiri n'ibiri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yahezutse"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yiwe"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairi (Yayiri)"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "umunyagiladi (umunyagalede)"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "hanyuma acamanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "n'ibiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T12:00:08.272634357Z",
+  "model": "glm-5.3"
+}

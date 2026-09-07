@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Inshuro imwe navuze, ariko sindaha igisubizo; inshuro ebyiri, ariko ntacyo nkongera.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Inshuro imwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko si(nda)"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "subiza"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "inshuro ebyiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta(cyo)"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nkongera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:38:44.756909818Z",
+  "model": "glm-5.3"
+}

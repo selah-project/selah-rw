@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze bashyizeho ⟨את⟩ Kedeshi mu Galili, mu misozi ya Naftali, na ⟨את⟩ Shekemu mu misozi ya Efuremu, na ⟨את⟩ Kiriyati-Aruba — ni Hoheburoni — mu misozi ya Yuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Maze bashyizeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshi"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "mu Galili"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu misozi ya"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shekemu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu misozi ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuremu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiriyati-Aruba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyati-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Aruba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hoheburoni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu misozi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-07T11:44:32.192578755Z",
+  "model": "glm-5.3"
+}

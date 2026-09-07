@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Bat-Sheva yaravuze ati: Ni byiza; njye ndazavugira ku wawe ku bwa umwami.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ni byiza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndazavugira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:59.631019917Z",
+  "model": "glm-5.3"
+}

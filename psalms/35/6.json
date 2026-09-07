@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Umuhora wabo ube umwijima n'umunyururu, maze umumalayika wa Yahwe abahashya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "abe"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "Umuhora wabo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "n'umunyururu"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "maze umumalayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "abahashya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:58.782775101Z",
+  "model": "glm-5.3"
+}

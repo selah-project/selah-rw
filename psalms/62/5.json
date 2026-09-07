@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Ahubwo mu butware bwe gusa bafata umugambi bamuhise; bishimira ububeshi; mu kanwa kabo barahuha, ariko mu kibaro cyabo baravuma. Selahi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ahubwo gusa"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "mu butware bwe"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "bafata umugambi"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "bamuhise"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bishimira"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ububeshi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mu kanwa kabo"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "barahuha"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ariko mu kibaro cyabo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "baravuma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:14.647310480Z",
+  "model": "glm-5.3"
+}

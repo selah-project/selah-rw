@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ramu yabyaye ⟨את⟩ Amminadabu, kandi Amminadabu yabyaye ⟨את⟩ Nakhshonu, umutware w'abahungu ba Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadabu"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "kandi Amminadabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshonu"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshonu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "בני",
+      "gloss": "w'abahungu ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:41.820672588Z",
+  "model": "glm-5.3"
+}

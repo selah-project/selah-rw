@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Shelahi (Shela) yabayeho imyaka mirongo itatu, hanyuma abyara ⟨את⟩ Everi (Eberi).",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Maze Shelahi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "imirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "hanyuma abyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:25.379968241Z",
+  "model": "glm-5.3"
+}

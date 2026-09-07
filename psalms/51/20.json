@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Kora neza mu bushake bwawe ⟨את⟩ Tsiyoni (Siyoni); ubake urubibi rwa Yerushalayimu (Yerusalemu).",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Kora neza"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "mu bushake bwawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni (Siyoni)"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ubake"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "urubibi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu (Yerusalemu)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:43.402578101Z",
+  "model": "glm-5.3"
+}

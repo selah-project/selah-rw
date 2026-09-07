@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze Avrahamu (Aburahamu) aravuga ati: Njye ndarahye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ndarahye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:07.417783318Z",
+  "model": "glm-5.3"
+}

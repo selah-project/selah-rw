@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "We wagutse isi hejuru y'amazi, ko hesedi ye ihoraho iteka.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "We wagutse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:54.516509545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yokushani yabyaye ⟨את⟩ Sheva na ⟨את⟩ Dedani; abahungu ba Dedani bari ⟨ni⟩ Ashurimu, Letushimu, na Leumimu.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokushani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurimu"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushimu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na Leumimu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:58.032659780Z",
+  "model": "glm-5.3"
+}

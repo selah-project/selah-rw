@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Ibyo iminwa yanjye yafunguuye, n'icyo kanwa yanjye yavuze mu kaga kanjye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "yafunguuye"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iminwa yanjye"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "n'yavuze"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanwa yanjye"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu kaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:54.359682155Z",
+  "model": "glm-5.3"
+}

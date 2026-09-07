@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Iyo umuntu yahaye mugenzi we amafeza cyangwa ibikoresho yo kubikwa, maze bibibwa mu nzu y'uwo muntu — niba uwibye abonetse, azishyura inshuro ebyiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mugenzi we"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "amafeza"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "yo kubikwa"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "maze bibibwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "y'uwo muntu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "abonetse"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "uwibye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "azishyura"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "inshuro ebyiri"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:00.090448153Z",
+  "model": "glm-5.3"
+}

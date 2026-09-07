@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Muri ibyabo by'inyama ntimurya, kandi ku mibiri yabo yapfuye ntimurikora — bafiteme ibyaha muri mwe.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "muri ibyabo by'inyama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "rya"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ku mibiri yabo yapfuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "rikora"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "bafiteme ibyaha"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:40.862126367Z",
+  "model": "glm-5.3"
+}

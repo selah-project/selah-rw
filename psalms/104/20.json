@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Uteza umwijima maze uba ijoro; muri co ibikoko byose by'ishyamba bikorogera.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Uteza"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze uba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri co"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "bikorogera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ibikoko"
+    },
+    {
+      "surface": "יער",
+      "gloss": "by'ishyamba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:02.899373412Z",
+  "model": "glm-5.3"
+}

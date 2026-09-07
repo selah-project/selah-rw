@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze ayashe ⟨את⟩ cyo ku ruhande rw'icaniro, mu majyaruguru, imbere ya Yahwe; maze abahungu ba Aharoni, abakohenu, basuke ⟨את⟩ amaraso ye ku icaniro ku mpande zose.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "maze ayashe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cyo (igitungo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ruhande"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "icaniro"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "mu majyaruguru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "maze basuke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso ye"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "icaniro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:20.819568005Z",
+  "model": "glm-5.3"
+}

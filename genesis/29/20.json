@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yaakovu yarikoze imyaka irindwi ku bwa Raheli, maze mu maso ye yari n'iminsi mike vuba gusa bitewe n'urukundo yagiraga ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "yarikoze"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ku bwa Raheli"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze yari"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "n'iminsi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "mike vuba gusa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "bitewe n'urukundo yagiraga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (Raheli)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:55.430483559Z",
+  "model": "glm-5.3"
+}

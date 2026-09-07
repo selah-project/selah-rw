@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Koko wowe ⟨ni⟩ icizere cyanjye, Adonayi Yahwe, umutekane wanjye kuva mu bukuri bwanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "icizere cyanjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "umutekane wanjye"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuva mu bukuri bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.515548114Z",
+  "model": "glm-5.3"
+}

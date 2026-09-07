@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Yahwe yamenyesheje ukurokora kwe; yagaragarije ubutungane bwe imbere y'amaso y'amahanga.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "yamenyesheje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ukurokora kwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "y'amahanga"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yagaragarije"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ubutungane bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:18.628134477Z",
+  "model": "glm-5.3"
+}

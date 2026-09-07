@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mumve ⟨את⟩ ijambo rya Yahwe yaravuze kuri mwe, urugo rwa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo rwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:43:55.176127261Z",
+  "model": "glm-5.3"
+}

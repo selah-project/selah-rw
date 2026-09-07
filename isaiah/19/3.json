@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Umwuka wa Mitsrayimu uzahwana mu gitigiri cye, inama ye ndazirimbura; bazashakisha ku bigirwamana, ku basesengura, ku baragi no ku bafumu.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "zahwana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mu gitigiri cye"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "inama ye"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ndazirimbura"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "bazashakisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "basesengura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baragi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "bafumu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:56:46.702204788Z",
+  "model": "glm-5.3"
+}

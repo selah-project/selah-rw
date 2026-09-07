@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 87,
+  "translation": "Yahwe akunda imiryango ya Tsiyoni kurusha uturaro twose twa Yaakovu.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "akunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "imiryango ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha ... twose"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "uturaro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:30.431784765Z",
+  "model": "glm-5.3"
+}

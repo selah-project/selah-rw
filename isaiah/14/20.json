@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ntabwo uzungana ⟨את⟩ bo mu rwibutso, kuko wasenye igihugu cyawe, wagize abantu bawe bakorwa; urubyaro rw'abakora ibyaha ntiruzitwa ubu ndaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "uzungana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abami b'isezerano ribanza)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "mu rwibutso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "igihugu cyawe"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wasenye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "wagize abantu bawe bakorwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ruzitwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ubu ndaha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "rw'abakora ibyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:34.104429226Z",
+  "model": "glm-5.3"
+}

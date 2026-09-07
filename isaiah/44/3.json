@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Kuko nzamutsa amazi ku munyanyota, n'imigezi ku isi yumye; nzamutsa umwuka wanjye ku mbuto zawe, n'umugisha wanjye ku rubyaro rwawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nzamutsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "umunyanyota"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "n'imigezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "isi yumye"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nzamutsa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ku mbuto zawe"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "n'umugisha wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "ku rubyaro rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:03.866271940Z",
+  "model": "glm-5.3"
+}

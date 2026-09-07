@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Na we amubwira ati: Nduhure umugisha, koko wanteye ubutaka bwo mu majyepfo, noneho unkanire amasoko y'amazi. Kalebu aramuha ⟨את⟩ amasoko yo hejuru na ⟨את⟩ amasoko yo hasi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "amubwira ati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Nduhure"
+    },
+    {
+      "surface": "לי",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "bwo mu majyepfo"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "wanteye"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "unkanire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amasoko"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "amasoko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'amazi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "aramuha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amasoko yo hejuru"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "amasoko"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yo hejuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amasoko yo hasi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "amasoko"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "yo hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:10.940175307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "⟨את⟩ Yahwe bari ikitinya, na ⟨את⟩ imana zabo barazikoraga, uko amahanga ⟨את⟩ ibo yakuye aho yari imeze.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ikitinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imana zabo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "imana zabo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "barazikoraga"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "uko … yari imeze"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "yakuye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ibo",
+      "marks": "ibo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T14:26:44.928521788Z",
+  "model": "glm-5.3"
+}

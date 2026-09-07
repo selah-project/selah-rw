@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ natwe yaraduhiye aho, kugira ngo yinjize ⟨את⟩ natwe, kugira ngo atange natwe ⟨את⟩ ubutaka yasezeranyije abakurambere bacu;",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "na ⟨את⟩ natwe",
+      "marks": "natwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaraduhiye aho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "yinjize"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ natwe",
+      "marks": "natwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kugira ngo atange"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨a\/ryo⟩"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yasezeranyije"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "abakurambere bacu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:58.914931507Z",
+  "model": "glm-5.3"
+}

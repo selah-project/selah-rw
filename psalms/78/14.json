@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 78:14",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 78,
+ "translation": "Arabayobye mu igicu mu manywa, na ijoro ryose mu cyera cy'umuriro.",
+ "tokens": [
+  {
+   "surface": "וינחם",
+   "gloss": "arabayobye"
+  },
+  {
+   "surface": "בענן",
+   "gloss": "mu igicu"
+  },
+  {
+   "surface": "יומם",
+   "gloss": "mu manywa"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "na ... ryose"
+  },
+  {
+   "surface": "הלילה",
+   "gloss": "ijoro"
+  },
+  {
+   "surface": "באור",
+   "gloss": "mu cyera"
+  },
+  {
+   "surface": "אש",
+   "gloss": "cy'umuriro"
+  }
+ ],
+ "timestamp": "2026-09-07T21:56:52.884446476Z",
+ "model": "glm-5.3"
+}

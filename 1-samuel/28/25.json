@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": " maze ashyira imbere ya Shauli n'imbere y'abasuku be, barya, maze bahaguruka bagenda mu ijoro ryo uyo munsi.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "maze ashyira imbere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "n'imbere y'"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasuku be"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "barya"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "maze bahaguruka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "mu ijoro ryo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uyo munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:50:15.933988870Z",
+  "model": "glm-5.3"
+}

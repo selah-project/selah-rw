@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Ku mwuga w'umunyagitaramo, ku Mahalatu, indyigisho ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mwuga w'umunyagitaramo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalatu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "indyigisho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:20.790617826Z",
+  "model": "glm-5.3"
+}

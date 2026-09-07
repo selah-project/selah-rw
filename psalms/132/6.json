@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Raba, twumvise byo mu Efratah, twabibonye mu murima wa jaari (ibiti by'ishyamba).",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "twumvise byo"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "mu Efratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "twabibonye"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "יער",
+      "gloss": "wa jaari (ishyamba)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:45.668467395Z",
+  "model": "glm-5.3"
+}

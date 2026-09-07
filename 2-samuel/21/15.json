@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Habaye nanone intamuka ya ba Filishti na ⟨את⟩ Yisraeli; Dawidi n'abagaragu be bamanutse, batwarana intamuka na ⟨את⟩ ba Filishti, maze Dawidi aratiguha.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intamuka"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ya ba Filishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bamanutse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "n'abagaragu be"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "batwarana intamuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "ba Filishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ba Filishti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "aratiguha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:19:23.606285388Z",
+  "model": "glm-5.3"
+}

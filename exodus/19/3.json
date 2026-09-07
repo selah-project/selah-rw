@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze Moshe (Mose) azamuka kwa Elohimu, maze Yahwe amuhamagara ava ku rusozi ati: Uzavuge utya mu nzu ya Yaakovu (Yakobo), uzamenyeshe abana ba Yisraeli:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Maze Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "amahamagara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ava"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ku rusozi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "utya"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzavuge"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "uzamenyeshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:15.882035408Z",
+  "model": "glm-5.3"
+}

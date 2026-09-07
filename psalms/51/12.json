@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Elohimu, ureme mu nda yanjye umutima wesukuye, kandi roho ihoraho uyihesheje bushya mu rwagati rwanjye.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "wesukuye"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ureme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mu nda yanjye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kandi roho"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ihoraho"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uyihesheje bushya"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mu rwagati rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:38.903611516Z",
+  "model": "glm-5.3"
+}

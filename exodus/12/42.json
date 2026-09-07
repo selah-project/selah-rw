@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ijoro rya kuburinda, iryo ni irya Yahwe, ryo kuvana abo mu gihugu cya Mitsrayimu; iri ijoro ni irya Yahwe, rya kuburinda, ku bana bose ba Yisraeli muubyakuri wabo.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "rya kuburinda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iryo ni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "irya Yahwe"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "ryo kuvana abo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "iri ijoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "irya Yahwe"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "rya kuburinda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bana bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "muubyakuri wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:29.124065122Z",
+  "model": "glm-5.3"
+}

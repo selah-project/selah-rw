@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ikorwa rya Dawidi ryo guhamya. Nzakuzamuye, Elowa wanjye, umwami; maze nzahiriza izina ryawe mu iteka ridashira.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Ikorwa ryo guhamya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Nzakuzamuye"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elowa wanjye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "maze nzahiriza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ridashira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:27.476175799Z",
+  "model": "glm-5.3"
+}

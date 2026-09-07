@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nuko bashyira ijwi mu Yehuda no mu Yerushalayimu, ku bana bose b'abazanywe mu buhoro, ngo bahurire mu Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "bashyira"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "no mu Yerushalayimu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bana bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "abazanywe mu buhoro"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "ngo bahurire"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "mu Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:18:46.473626923Z",
+  "model": "glm-5.3"
+}

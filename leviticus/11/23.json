@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi umuhari wonse w'inyoni wo mu kirere ufite amaguru ane — icyaha ni cyo muri mwe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kandi ... wonse"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "umuhari"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "w'inyoni wo mu kirere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "amaguru"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:49.240525848Z",
+  "model": "glm-5.3"
+}

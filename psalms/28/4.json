@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ha bo uko bakora, n'ubwangizi bw'ibyo bakoraka; uko ibiganza byabo byakoze, ha bo; subiza igihembo cyabo.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "uko bakora"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "n'ubwangizi bw'"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ibyo bakoraka"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ibiganza byabo byakoze"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "subiza"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "igihembo cyabo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:35.365555288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yemwe abana b'abantu, kugeza ryari icyubahiro cyanjye kizahwa? Mwemera ubusa, mushakashaka ibinyoma. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "icyubahiro cyanjye"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "kizahwa"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "mwemera"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "mushakashaka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:39.362412119Z",
+  "model": "glm-5.3"
+}

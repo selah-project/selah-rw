@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Narekanye ⟨את⟩ inzu yanjye, naretse ⟨את⟩ umurage wanjye, natanze ⟨את⟩ nkundwe ya Nefeshi yanjye mu ntoki z'abansi bayo.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "narekanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu yanjye"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "inzu yanjye"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "naretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage wanjye"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "umurage wanjye"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "natanze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkundwe ya Nefeshi yanjye"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "nkundwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "z'abansi bayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:42:56.342868389Z",
+  "model": "glm-5.3"
+}

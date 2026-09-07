@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abahungu ba Yefeti: Gomeru, na Magogu, na Madayi, na Yavani, na Tuvalu, na Mesheki, na Tirasi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeti"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeru"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "na Magogu"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "na Madayi"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "na Yavani"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "na Tuvalu"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "na Mesheki"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "na Tirasi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:50.803343898Z",
+  "model": "glm-5.3"
+}

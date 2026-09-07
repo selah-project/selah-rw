@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Ibikorwa by'intoki bye ni ukuri n'urubanza; amategeko ye yose ni indahiro.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Ibikorwa by'"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "intoki bye"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'urubanza"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ni indahiro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "amategeko ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:10.847546678Z",
+  "model": "glm-5.3"
+}

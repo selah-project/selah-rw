@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Mu mababi ye azakurakinga, nawe uzashinga umutekano hasi y'amababa ye; ukuri kwe ⟨ni⟩ ingabo nkuru n'ingabo nto.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "mu mababi ye"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "azakurakinga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "n'hasi ya"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "amababa ye"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "uzashinga umutekano"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ingabo nkuru"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "n'ingabo nto"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ukuri kwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:03.076775021Z",
+  "model": "glm-5.3"
+}

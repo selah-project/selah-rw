@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Nimuririmbire mu Yahwe, inyangemibare; kub'abahetu ⟨ni⟩ byiza kuruhimbira.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Nimuririmbire"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "inyangemibare"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mu Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kub'abahetu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "⟨ni⟩ byiza"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kuruhimbira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:08.437765400Z",
+  "model": "glm-5.3"
+}

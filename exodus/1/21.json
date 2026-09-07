@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Byabaye ko abafasha-kubyara batinye Elohimu ⟨את⟩, nuko yabakoreye amazu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Byabaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "batinye"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "abafasha-kubyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nuko yabakoreye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨babo⟩"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "amazu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:05.415908187Z",
+  "model": "glm-5.3"
+}

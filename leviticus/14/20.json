@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu na we azazanisha ku gicaniro ⟨את⟩ icosomwa ry'umurimo na ⟨את⟩ imetero y'ibiribwa; maze kohenu azamubabarira, na we arayezwa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "azazanisha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icosomwa ry'umurimo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "icosomwa ry'umurimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imetero y'ibiribwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "imetero y'ibiribwa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku gicaniro"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "azamubabarira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "arayezwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:41.019653048Z",
+  "model": "glm-5.3"
+}

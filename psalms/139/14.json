@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ndagushima kuko naremwe mu gucika umutima; ibitangaza ni ibyakozwe na wowe, kandi Nefeshi yanjye ibizi neza cyane.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndagushima"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mu gucika umutima"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "naremwe"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibyakozwe na wowe"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "kandi Nefeshi yanjye"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ibizi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "neza cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:51.503924724Z",
+  "model": "glm-5.3"
+}

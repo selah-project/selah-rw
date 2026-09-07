@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Inzira zose z'umuntu zimeze neza mu maso ye; ariko Yahwe arapima imitima.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Inzira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "z'umuntu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "zimeza neza"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ariko arapima"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "imitima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:11:44.649699987Z",
+  "model": "glm-5.3"
+}

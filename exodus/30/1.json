@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Kandi uzakora igicaniro cyo gutereyamo iby'impumuro; mu biki bya shitimu ⟨את⟩ icyo uzakora.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kandi uzakora"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "cyo gutereyamo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "iby'impumuro"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mu biki bya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ icyo",
+      "marks": "icyo (igicaniro)"
+    }
+  ],
+  "timestamp": "2026-09-07T09:09:41.905006183Z",
+  "model": "glm-5.3"
+}

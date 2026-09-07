@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "igihugu iyo Yahwe Elohimu wawe aritahura ⟨את⟩ cyo buri gihe; amaso ya Yahwe Elohimu wawe ari kuri cyo, kuva mu itangiriro ry'umwaka kugeza mu ihere ry'umwaka.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "aritahura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "cyo (igihugu)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ari kuri cyo"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "kuva mu itangiriro"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ry'umwaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mu ihere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ry'umwaka"
+    }
+  ],
+  "timestamp": "2026-09-07T10:53:57.836072446Z",
+  "model": "glm-5.3"
+}

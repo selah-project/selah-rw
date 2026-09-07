@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Mubake amazu mugume ajyamo, mute ingemwe murye ⟨את⟩ imbuto zazo.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "mubake"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mugume ajyamo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mute"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ingemwe"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "murye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbuto zazo"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "imbuto zazo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:11:09.262593166Z",
+  "model": "glm-5.3"
+}

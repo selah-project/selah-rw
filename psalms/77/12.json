@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Nzibuka ibikorwa bya Yah — koko nzibuka ibitangaza byawe byo hambere.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "nzibuka"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ya Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "nzibuka"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "byo hambere"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ibitangaza byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:23.249522007Z",
+  "model": "glm-5.3"
+}

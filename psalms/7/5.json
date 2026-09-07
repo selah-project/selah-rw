@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Iyo nagereye umutekano wanjye nabi cyangwa narekanye uwantwara iyanga kitagira impamvu;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "nagereye"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "umutekano wanjye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "cyangwa narekanye"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "uwantwara iyanga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kitagira impamvu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:17.479074111Z",
+  "model": "glm-5.3"
+}

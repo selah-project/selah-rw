@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Utuneshisha nk'iminsi wo duteye agahinda, n'imyaka twabonye muri yo nabi.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Utuneshisha"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "nk'iminsi"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "wo duteye agahinda"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "n'imyaka"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "twabonye muri yo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nabi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:13.205181366Z",
+  "model": "glm-5.3"
+}

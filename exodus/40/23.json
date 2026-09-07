@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze yategekeye hejuru yaryo urubari rw'imigati imbere ya Yahwe, nka Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "yategekeye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hejuru yaryo"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "urubari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:38.347704197Z",
+  "model": "glm-5.3"
+}

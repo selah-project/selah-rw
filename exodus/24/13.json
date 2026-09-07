@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze Moshe (Mose) na Yehoshuwa (Yosuwa), ukoza we, baravukiye, maze Moshe azamukiye ku rwego rw'Elohimu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "baravukiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "na Yehoshuwa (Yosuwa)"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ukoza we"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "azamukiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urwego rw'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:23.566353855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yagira abagore b'ibwami amajana indwi, n'abarembetsi amajana atatu; abagore be baratembera ⟨את⟩ umutima we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze yagira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "b'ibwami"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "n'abarembetsi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "baratembera"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima we"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:15.425242509Z",
+  "model": "glm-5.3"
+}

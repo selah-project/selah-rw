@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "N'Elohimu wacu ⟨ari⟩ mu ijuru; ibyo ashaka byose yakoze.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "n'Elohimu wacu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ibyo⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ashaka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:41.338113762Z",
+  "model": "glm-5.3"
+}

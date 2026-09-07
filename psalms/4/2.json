@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Iyo ndamuhamagara, unsubiranye, Elohimu w'ubutungane bwanjye; mu kaze waraguriye ahantu; ungirire impuhwe, maze umve isengesho ryanjye.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Iyo ndamuhamagara"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "unsubiranye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu w'"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ubutungane bwanjye"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu kaze"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "waraguriye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ungirire impuhwe"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "maze umve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:39.362202926Z",
+  "model": "glm-5.3"
+}

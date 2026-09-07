@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Iyo Adonayi yasukuye ⟨את⟩ umwanda w'abakobwa ba Tsiyoni, kandi yakuyeho na ⟨את⟩ amaraso ya Yerushalayimu mu hagati yayo, mu mwuka w'itanganwa n'umwuka w'umuriro.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yasukuye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwanda w'abakobwa ba Tsiyoni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "umwanda"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amaraso ya Yerushalayimu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "yakuyeho"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "mu hagati yayo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mu mwuka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "w'itanganwa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "n'umwuka"
+    },
+    {
+      "surface": "בער",
+      "gloss": "w'umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:42:19.544671636Z",
+  "model": "glm-5.3"
+}

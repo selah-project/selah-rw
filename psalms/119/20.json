@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nefeshi yanjye yamenetse mu kwihangayikira ibyemezo byawe buri gihe.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "yamenetse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "mu kwihangayikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:01.406695430Z",
+  "model": "glm-5.3"
+}

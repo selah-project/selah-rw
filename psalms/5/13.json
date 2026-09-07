@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ko wowe, Yahwe we, Uramugirira umugisha umutunganyamibare; nka cingote, urukundo ruramwambikisha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "Uramugirira umugisha"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganyamibare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe we"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "nka cingote"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "urukundo"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "uramwambikisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:03:55.211104523Z",
+  "model": "glm-5.3"
+}

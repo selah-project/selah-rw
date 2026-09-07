@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "⟨Ni⟩ byiza kugira umutima w'ubworozi hamwe n'⟨את⟩ abakene, kuruta gutandukanya iminyago hamwe n'⟨את⟩ ibyibone.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ubworozi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "w'umutima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakene"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "abakene"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "gutandukanya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "iminyago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyibone"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ibyibone"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:19.168143894Z",
+  "model": "glm-5.3"
+}

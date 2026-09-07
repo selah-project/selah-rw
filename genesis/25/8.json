@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Avrahamu arahwema arapfa mu bukebe bwiza, umusaza, wifuye; arabunganirwa mu bantu be.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "arahwema"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "mu bukebe"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bwiza"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "umusaza"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "wifuye"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "rabunganirwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "bantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:01.617240540Z",
+  "model": "glm-5.3"
+}

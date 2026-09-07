@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Baravukira kuri we abahungu ndwi n'abakobwa batatu.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "baravukira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ndwi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "n'atatu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:57.137389376Z",
+  "model": "glm-5.3"
+}

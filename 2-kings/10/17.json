@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yehu yinjira muri Shomeroni maze ahanunda ⟨את⟩ abasigaye bose ba Ahabu muri Shomeroni, kugeza ari mbitswe, uko ijambo rya Yahwe ryari rivuze ko Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "muri Shomeroni"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "maze ahanunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasigaye bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "abasigaye"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ba Ahabu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muri Shomeroni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ari mbitswe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "uko ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ryari rivuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:14:55.137410991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Izamuke, wowe umucamanza w'isi; subiza igihano ku bashyizwe hejuru.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Izamuke"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "w'isi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "subiza"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "bashyizwe hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:36.595268048Z",
+  "model": "glm-5.3"
+}

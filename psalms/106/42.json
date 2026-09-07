@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Abanzi babo barabahanaga, barahirimbwa munsi y'intoki zawo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "barabahanaga"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "Abanzi babo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "barahirimbwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "y'intoki zawo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:33.079682788Z",
+  "model": "glm-5.3"
+}

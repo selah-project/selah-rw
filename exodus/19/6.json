@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Na mwe muzaba iwanjye ubwami bwa kohenu, n'igihugu gitagatifu. Ibi ni amajambo uzavuga ku bana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na mwe"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "muzaba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "n'igihugu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "gitagatifu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uzavuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:14.790995015Z",
+  "model": "glm-5.3"
+}

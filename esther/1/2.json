@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu iminsi iyo, umwami Akhashuveroshi icaye ku ntebe y'ubwami bwe, iri i Shushani mu karere k'ingabo.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "mu iminsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "icaye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashuveroshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "intebe"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "y'ubwami bwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "i Shushani"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "mu karere k'ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:50.988611047Z",
+  "model": "glm-5.3"
+}

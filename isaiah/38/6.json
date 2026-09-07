@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Nzanakurokora mu biganza by'umwami w'Ashuru, na ⟨את⟩ uwo mujyi uwo; maze njye ubwanjye nzarurinda uwo mujyi uwo.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "mu biganza bya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "Nzanakurokora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uwo mujyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "nzarurinda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:07.622392430Z",
+  "model": "glm-5.3"
+}

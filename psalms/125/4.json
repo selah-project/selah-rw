@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 125,
+  "translation": "Yahwe we, igira neza abeza, n'abitunganya mu mitima yabo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "igira neza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "abeza"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "n'abitunganya"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "mu mitima yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.821722076Z",
+  "model": "glm-5.3"
+}

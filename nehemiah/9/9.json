@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Wabonye ⟨את⟩ ububabaro bw'abakurambere bacu mu Mitsrayimu, kandi na ⟨את⟩ induru yabo wumvise ku kiyaga cya Sufu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Wabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububabaro bw'abakurambere bacu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ububabaro"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "induru yabo"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "induru yabo"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wumvise"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ikiyaga"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "cya Sufu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:05:06.872677170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Umuntu w'ibyiguza ukomeza umugongo we: mu ntangu azaturwa, kandi nta kivurwa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "w'ibyiguza"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ukomeza"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "umugongo"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "mu ntangu"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "azaturwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "kivurwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:54.344033920Z",
+  "model": "glm-5.3"
+}

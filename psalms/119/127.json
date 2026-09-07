@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nibyo ni ko ndukunda amabwiriza yawe — kurusha zahabu, kurusha ⟨zahabu yera⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bivuze ko"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndukunda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kurusha zahabu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kurusha zahabu yera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:35.432491279Z",
+  "model": "glm-5.3"
+}

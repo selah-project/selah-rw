@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze yahaye Moshe, iyo yarangiriza kuvuga ⟨את⟩ we ku musozi wa Sinayi, amafishi y'ubuhamya abiri — amafishi y'ibuye — anditse ku rutoki rw'Elohimu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maze yahaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "iyo yarangiriza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuvuga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "amafishi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "y'ubuhamya"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "amafishi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "y'ibuye"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "anditse"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "ku rutoki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:11:55.020063066Z",
+  "model": "glm-5.3"
+}

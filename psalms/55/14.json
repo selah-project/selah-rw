@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Ariko ni wowe, umuntu ⟨nk'ijana ryanjye⟩, inshuti yanjye ihari, n'umuntu mbarizi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko ni wowe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "⟨nk'ijana ryanjye⟩"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "inshuti yanjye ihari"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "n'umuntu mbarizi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:28.053559526Z",
+  "model": "glm-5.3"
+}

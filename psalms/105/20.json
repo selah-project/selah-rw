@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Umwami yahise yohereje amurekura, umutware w'amahanga na we aramukuraho burundu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yahise yohereje"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "amurekura"
+    },
+    {
+      "surface": "משל",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "w'amahanga"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "aramukuraho burundu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:00.328544425Z",
+  "model": "glm-5.3"
+}

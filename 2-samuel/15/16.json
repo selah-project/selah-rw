@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze umwami yasohotse n'urugo rwe rwose ku maguru ye; umwami yarekanye ⟨את⟩ abagore cumi ba konkubini ngo babungabunge inzu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yasohotse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'urugo rwe"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ku maguru ye"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "yarekanye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore cumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "ba konkubini"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngo babungabunge"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:12:45.453399120Z",
+  "model": "glm-5.3"
+}

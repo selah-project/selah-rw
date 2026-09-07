@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Azazamura ijwi kuri uwo munsi, ati: Ntabwo ndi udohoreri; mu nzu yanjwe nta bubudohore nta myambaro — ntimunshyire kuba umutware w'abantu.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "azazamura ijwi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuri uwo munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sinjye"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "udohoreri"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "mu nzu yanjye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "munshyire"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "עם",
+      "gloss": "w'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:06.151310545Z",
+  "model": "glm-5.3"
+}

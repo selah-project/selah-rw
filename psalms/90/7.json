@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Dore ko mu mujinya wawe turaze, ko mu burakari bwawe twaratinywe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore ko"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "turaze"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mu mujinya wawe"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mu burakari bwawe"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "twatatinywe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:25.317959371Z",
+  "model": "glm-5.3"
+}

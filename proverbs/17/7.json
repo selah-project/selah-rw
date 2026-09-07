@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ijambo ry'umusozi ntirikwiriye k'umusazi; ni ko cyane ururimi rw'ibinyoma rwose k'umutware.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntiri"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kwiriye"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "k'umusazi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ry'umusozi (cyangwa ry'agaciro kinini)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ni ko cyane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "k'umutware"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rw'ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:30.151362893Z",
+  "model": "glm-5.3"
+}

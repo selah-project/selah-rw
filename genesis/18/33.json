@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yahwe yagiye igihe yarangiriye kuvuga na Avrahamu, maze Avrahamu asubira ku mwanya we.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yarangiriye"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuvuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "maze Avrahamu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "asubira"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ku mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:55.890159591Z",
+  "model": "glm-5.3"
+}

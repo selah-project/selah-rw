@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yaravuze ati: Icisabwa gito kimwe njye mbisaba ⟨את⟩ ku wawe; ntuza uhindure ⟨את⟩ uruhanga rwanjye. Umwami aramubwira ati: Saba, mama wanjye, ko ntazahindura ⟨את⟩ uruhanga rwawe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yaravuze ati"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "Icisabwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "gito"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "mbisaba"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ku wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntuza"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uhindure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhanga rwanjye"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uruhanga rwanjye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(mu-)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama wanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntaza"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nzahindura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhanga rwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:59.631324939Z",
+  "model": "glm-5.3"
+}

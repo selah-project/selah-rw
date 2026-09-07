@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Enoshi na we, nyuma yo kwibarutsa ⟨את⟩ Keinani, yatumye imyaka ijana na mirongo ine n'ishanu na atanu iriho, maze yibarutsse abahungu n'ibykobwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yatumye imyaka iriho"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma yo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kwibarutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keinani"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinani"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "gatanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mirongo ine n'ishanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yibarutsse"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'ibykobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:30:56.719033237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Hizikiyah yatanze ⟨את⟩ ifeza ryose ryabonetse mu nzu ya Yahwe no mu bishenge by'inzu y'umwami.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza ryose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ryabonetse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "no mu bishenge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "by'inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:15.043662752Z",
+  "model": "glm-5.3"
+}

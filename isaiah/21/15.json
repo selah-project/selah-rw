@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko bahungiye imbere y'intwaro, imbere y'umupanga uvanuye, n'imbere y'umura wagowegetse, n'imbere y'uburemere bw'intambara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "intwaro"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "bahungiye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "uvanuye"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "n'imbere y'"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umura"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "wagowegetse"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "n'imbere y'"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "uburemere"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bw'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:53:18.256543126Z",
+  "model": "glm-5.3"
+}

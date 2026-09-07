@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Rolera kwa Yahwe inzira yawe, uniringiyeho, kandi we azayikora.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Rolera"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "uniringiyeho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi we"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "azayikora"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:47.103920187Z",
+  "model": "glm-5.3"
+}

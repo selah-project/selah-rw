@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Ku murezi w'umuziki, ku bwa Yedutunu; zimuriya ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku murezi w'umuziki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutunu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zimuriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:39.190681656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mu bwami bwa Ahashiveroshi, mu ntangiriro y'ubwami bwe, baranditse icyaha ku baturage ba Yehuda na Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "mu bwami bwa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashiveroshi"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "mu ntangiriro ya"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ubwami bwe"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "baranditse"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abaturage ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:16:27.105255919Z",
+  "model": "glm-5.3"
+}

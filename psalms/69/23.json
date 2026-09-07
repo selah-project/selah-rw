@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Imbehe yabo ibe uruhago mu rwego rwabo, ibyiza byabo bibe urwibitso.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "imbehe yabo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mu rwego rwabo"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "uruhago"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ibyiza byabo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "urwibitso"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:06.602054515Z",
+  "model": "glm-5.3"
+}

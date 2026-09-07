@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kugira ngo uwishe Nefeshi mu buyobe, atamenya, ajye ahunga aho; maze iyo mujyi izaba kuri mwe ⟨ni⟩ ubuhungiro ku ruhande rw'umukiza w'amaraso.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "ajye ahunga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aho"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "uwishe"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ukubita"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "mu buyobe"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "mu kubura"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "maze izaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "ubuhungiro"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "ku ruhande rw'umukiza"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "w'amaraso"
+    }
+  ],
+  "timestamp": "2026-09-07T21:26:20.287700958Z",
+  "model": "glm-5.3"
+}

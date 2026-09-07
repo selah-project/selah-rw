@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Uzashyire ⟨את⟩ iri munsi y'umurongo w'igicaniro, mu byo hasi; kandi uruhunge ruzagera kugeza ku gati cy'igicaniro.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iri (uruhunge)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "umurongo (w'igicaniro hejuru)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "w'igicaniro"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "mu byo hasi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kandi ruzagera"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "uruhunge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ku gati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cy'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:03:58.350572726Z",
+  "model": "glm-5.3"
+}

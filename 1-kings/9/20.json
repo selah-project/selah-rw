@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Abantu bose basigaye — ab'Emori, abaHeti, abaPerizi, abaHivi n'abaYevusi — babaye ari ntabwo ari abahungu ba Yisraeli (Abanyaisirayeli) bo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "basigaye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ab'Emori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "abaHeti"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "abaPerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "abaHivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "n'abaYevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<ashera>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Abanyaisirayeli)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:26.853609287Z",
+  "model": "glm-5.3"
+}

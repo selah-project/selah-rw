@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi mwareberere gukora ⟨את⟩ ibyategeko byose na ⟨את⟩ imibereho y'urubanza izi jye nshyira imbere yanyu uyu munsi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mwareberere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyategeko byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ibyategeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imibereho y'urubanza"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imibereho y'urubanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nshyira"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:41.103434094Z",
+  "model": "glm-5.3"
+}

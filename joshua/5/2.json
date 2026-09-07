@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 5:2",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mu gihe icyo Yahwe yavuze kuri Yehoshuwa ati: Kora wowe ibyuma byo gutema byo mu rwutare, ugaruke usuz' ⟨את⟩ abana ba Yisraeli ubwa kabiri.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ibyuma byo gutema"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "byo mu rwutare"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ugaruke"
+    },
+    {
+      "surface": "מל",
+      "gloss": "usuz'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ubwa kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T11:26:21.713124176Z",
+  "model": "glm-5.3"
+}

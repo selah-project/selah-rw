@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Jyewe, Kohelethi, nari umwami ku Yisraeli mu Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelethi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mu Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:06.526644855Z",
+  "model": "glm-5.3"
+}

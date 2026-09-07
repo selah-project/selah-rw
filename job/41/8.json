@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ikimwe cyegeera ku kindi, kandi umuyaga ntiwinjira mu hagati yabyo.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Ikimwe"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ku kindi"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "cyegeera"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kandi umuyaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "winjira"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mu hagati yabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:40:30.837758139Z",
+  "model": "glm-5.3"
+}

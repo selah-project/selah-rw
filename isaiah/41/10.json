@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ntutinye, kuko njye ndi kumwe nawe; ntuzenguruke amaso, kuko njye ndi Elohimu wawe; nakomeje, arako nafashije, arako nashyigikije n'iburyo bwanjye ry'ubutabera.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye ndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "zenguruke amaso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "nakomeje"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arako"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "nafashije"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arako"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "nashyigikije"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "n'iburyo"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ubutabera bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:10.311085681Z",
+  "model": "glm-5.3"
+}

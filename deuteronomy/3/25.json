@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nsinze, nzambuke maze mbone ⟨את⟩ isi nziza iri ibyasize Yardeni, umusozi mwiza uyu, na Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "nzambuke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nsinze"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "maze mbone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi nziza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ibyasize"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "na Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:44.674548054Z",
+  "model": "glm-5.3"
+}

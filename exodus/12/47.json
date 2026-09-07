@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Itorero ryose rwa Yisraeli rirakore ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "itorero"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "rikore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pasika (ibikorwa byose bimwe)"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:20.726197501Z",
+  "model": "glm-5.3"
+}

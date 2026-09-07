@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze Miryamu, umuhanuzi w'umugore, mushiki wa Aharoni, yafashe ⟨את⟩ ingoma mu kuboko kwe; abagore bose basohoka nyuma ye, bafite ingoma n'imbyino.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryamu"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "umuhanuzi w'umugore"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mushiki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingoma"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "mu kuboko kwe"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nyuma ye"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "n'imbyino"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:50.273707954Z",
+  "model": "glm-5.3"
+}

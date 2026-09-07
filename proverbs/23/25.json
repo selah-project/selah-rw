@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Pawe akaryame, n'nyoko akaryame, kandi uwakubyaye ajye akundisha.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "akaryame"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Pawe"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "n'nyoko akaryame"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ajye akundisha"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "uwakubyaye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:52.534699173Z",
+  "model": "glm-5.3"
+}

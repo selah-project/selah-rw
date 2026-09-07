@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ese ibi ntabwo wakoze kuri wewe ubwawe, mu guhasigira ⟨את⟩ Yahwe Elohimu wawe, mu gihe yakuyoboraga mu nzira?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ese ntabwo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe ubwawe"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "mu guhasigira kwawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "yakuyoboraga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:38:48.097863354Z",
+  "model": "glm-5.3"
+}

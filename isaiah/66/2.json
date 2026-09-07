@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Na ⟨את⟩ ibi byose ibiganza byanjye byakoze, maze ibi byose biba, agira ati Yahwe; aha ni ho ndeba: umukene, w'umutima wonyeganyega, uderwa ku jambo ryanjye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibi byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ibiganza byanjye"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "byakoze"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze biba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "ndeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "wonyeganyega"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "w'umutima"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "uderwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jambo ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:40:34.379032081Z",
+  "model": "glm-5.3"
+}

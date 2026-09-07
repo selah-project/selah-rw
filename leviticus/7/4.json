@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ impyiko zibiri na ⟨את⟩ ibinure biri hejuru yazo, aho biherereye ku mbavu, na ⟨את⟩ igitigiri kiri hejuru y'ijigo, hamwe n'impyiko azazitura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko zibiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure biri hejuru yazo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "biri hejuru yazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitigiri kiri hejuru y'ijigo"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "igitigiri kiri hejuru y'ijigo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ijigo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "azazitura"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:49.927774308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Abasore na noneho inkumu, abasaza hamwe n'abangavu.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "abasore"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na noneho"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "inkumu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "abasaza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "abangavu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:41.754926462Z",
+  "model": "glm-5.3"
+}

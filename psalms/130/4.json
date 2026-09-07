@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Kuko imbabazi ziri kuri wewe, kugira ngo wugirwe ubutinyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ziri kuri wewe"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "imbabazi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "wugirwe ubutinyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:40.761755922Z",
+  "model": "glm-5.3"
+}

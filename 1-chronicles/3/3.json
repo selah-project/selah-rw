@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uwa gatanu ⟨ni⟩ Shefatyahu, kwa Avitali; uwa gatandatu ⟨ni⟩ Yitreamu, kwa Egila, umugore we.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "uwa gatanu"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatyahu"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "kwa Avitali"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "uwa gatandatu"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitreamu"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "kwa Egila"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:55.960979386Z",
+  "model": "glm-5.3"
+}

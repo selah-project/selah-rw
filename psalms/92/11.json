@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Unazamuye impembe yanjye nk'iya tembo y'iburasi; naravutswa n'amavuta mashya.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Unazamuye"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "tembo y'iburasi"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "impembe yanjye"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "naravutswa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "mashya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:56.294957706Z",
+  "model": "glm-5.3"
+}

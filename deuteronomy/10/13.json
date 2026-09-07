@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "kugira ngo mubike ⟨את⟩ amategeko ya Yahwe na ⟨את⟩ amabwiriza ye, ibyo jyewe mbategetse uyu munsi, kugira ngo byibe byiza kuri mwe.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "kugira ngo mubike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "amabwiriza ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mbategetse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kugira ngo byibe byiza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:54.182570165Z",
+  "model": "glm-5.3"
+}

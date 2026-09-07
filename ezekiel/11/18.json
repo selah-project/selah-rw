@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze bazaza aho, bakuramo ⟨את⟩ ibintu byose by'urwibazo byayo na ⟨את⟩ ibintu byose by'umwanda muri yo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Maze bazaza"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aho"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "bakuramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibintu byose by'urwibazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "by'urwibazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibintu byose by'umwanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "by'umwanda"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:50:19.311355249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abasuku be barabyutse, barafatanye umugambi, maze barakubise ⟨את⟩ Yoashi mu nzu ya Milo, iyo ijya hasi i Sila.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "barabyutse"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasuku be"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "barafatanye"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "umugambi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "barakubise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoashi"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ijya hasi"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sila"
+    }
+  ],
+  "timestamp": "2026-09-07T14:18:36.390906450Z",
+  "model": "glm-5.3"
+}

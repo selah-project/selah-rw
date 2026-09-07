@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Reba ku beriti, kuko ahantu y'ijoro y'isi yuzuye uturaro tw'ubugome.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ku beriti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "ahantu y'ijoro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "uturaro"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubugome"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:06.710710187Z",
+  "model": "glm-5.3"
+}

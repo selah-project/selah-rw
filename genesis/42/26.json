@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Barimo gutwara ⟨את⟩ ingano yabo ku ngogobe zabo, maze bagenda hose.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "barimo gutwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingano yabo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ingano yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ngogobe zabo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "maze bagenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:24:06.139619009Z",
+  "model": "glm-5.3"
+}

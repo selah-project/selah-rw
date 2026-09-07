@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Umwami yaje uva i Dumamesheki, umwami yarebye ⟨את⟩ igicaniro; umwami yegereye ku gicaniro, maze yazamukiye cyarwo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "uva i Dumamesheki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yegereye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gicaniro"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yazamukiye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "cyarwo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:49.640817671Z",
+  "model": "glm-5.3"
+}

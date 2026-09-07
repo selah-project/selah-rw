@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Muzirinde ⟨את⟩ amategeko yanjye yose na ⟨את⟩ imiburano yanjye yose, maze mukore ⟨את⟩ ibyo; ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "muzirinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yanjye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imiburano yanjye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imiburano yanjye"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ibyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:46:33.494191645Z",
+  "model": "glm-5.3"
+}

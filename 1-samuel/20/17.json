@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yehonatani yongeye guhira ⟨את⟩ Dawidi kubera urukundo rwe, ⟨את⟩ we yaramukundaga, kuko n'urukundo rwa nefeshi ye yaramukundaga.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "yongeye guhira"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "guhira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "kubera urukundo rwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Dawidi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "urukundo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshi ye"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "yaramukundaga"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:58.190242311Z",
+  "model": "glm-5.3"
+}

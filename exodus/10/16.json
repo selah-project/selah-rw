@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Paro yihutise guhamagara Moshe n'Aharoni, aravuga ati: Nakoze icyaha kuri Yahwe, Elohimu wanyu, no mwebwe.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "yihutise"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "guhamagara"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "n'Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakoze icyaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "no mwebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:41.787842685Z",
+  "model": "glm-5.3"
+}

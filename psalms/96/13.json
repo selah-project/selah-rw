@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Imbere ya Yahwe, ko yaje, ko yaje kugira urubanza isi; izacira urubanza ibihugu vy'isi mu bugenge, n'amahanga mu kwizera kwe.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kugira urubanza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "izacira urubanza"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ibihugu vy'isi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mu bugenge"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "n'amahanga"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "mu kwizera kwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:41.278163975Z",
+  "model": "glm-5.3"
+}

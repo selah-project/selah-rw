@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Ntimwizere mu banyabwizi, mu mwana w'umuntu, ⟨ambaye nta⟩ ubokwa afite.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "mwizere"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "mu banyabwizi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ku mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa muntu"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ambaye nta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "afite"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ubokwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:40.958329843Z",
+  "model": "glm-5.3"
+}

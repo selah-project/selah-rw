@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 114,
+  "translation": "Yehuda yahindutse ubutagatifu bwe, Yisraeli ubwami bwe",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ubutagatifu bwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ubwami bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:36.072995777Z",
+  "model": "glm-5.3"
+}

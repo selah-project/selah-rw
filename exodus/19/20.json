@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe yamanutse ku musozi wa Sinayi, ku mutwe w'umusozi; Yahwe yahamagariye Moshe ku mutwe w'umusozi, maze Moshe yazamutse.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "w'umusozi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagariye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "w'umusozi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yazamutse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:04.404392010Z",
+  "model": "glm-5.3"
+}

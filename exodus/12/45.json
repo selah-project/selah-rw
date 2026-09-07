@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umukeneni n'umukozi w'agiciro ntibazarya muri yo.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "umukeneni"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "n'umukozi w'agiciro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiba-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zarya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:01.411012234Z",
+  "model": "glm-5.3"
+}

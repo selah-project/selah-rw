@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Umuyoboro ku muntu ni ukuvuga icyegejwe ko ari igitagatifu, hanyuma y'imysemo gushakisha icyo ukora.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "umuyoboro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "ukuvuga icyegejwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "hanyuma"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "imysemo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "gushakisha icyo ukora"
+    }
+  ],
+  "timestamp": "2026-09-07T19:11:08.949283383Z",
+  "model": "glm-5.3"
+}

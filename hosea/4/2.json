@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kurahira, na kwihisha, na kwica, na kwiba, na kuberana — byadukanye, na amaraso ku maraso yakoranye.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kurahira"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "na kwihisha"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "na kwica"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "na kwiba"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "na kuberana"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "byadukanye"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "na amaraso"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ku maraso"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "yakoranye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:33.146297983Z",
+  "model": "glm-5.3"
+}

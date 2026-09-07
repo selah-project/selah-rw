@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nanaguruye njye ⟨na⟩ amafeza cumi n'atanu, na homeri y'ibigori, na leteki y'ibigori.",
+  "tokens": [
+    {
+      "surface": "וָאֶכְרֶהָ",
+      "gloss": "nanaguruye"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בַּחֲמִשָּׁה",
+      "gloss": "⟨na⟩ tanu"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "amafeza"
+    },
+    {
+      "surface": "וְחֹמֶר",
+      "gloss": "na homeri"
+    },
+    {
+      "surface": "שְׂעֹרִים",
+      "gloss": "y'ibigori"
+    },
+    {
+      "surface": "וְלֵתֶךְ",
+      "gloss": "na leteki"
+    },
+    {
+      "surface": "שְׂעֹרִים",
+      "gloss": "y'ibigori"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:15.590054022Z",
+  "model": "glm-5.3"
+}

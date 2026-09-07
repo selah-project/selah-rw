@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yehoshuwa yagize kare mu gitondo, arabara ⟨את⟩ ubwoko, ajya hejuru we n'abakuru ba Yisraeli imbere y'ubwoko, kuri Haayi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yagize kare"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "arabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ajya hejuru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "n'abakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "העי",
+      "gloss": "kuri Haayi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:28:15.221086728Z",
+  "model": "glm-5.3"
+}

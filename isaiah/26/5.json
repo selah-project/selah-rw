@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kuko yagize hasi abatuye mu butumbure, umujyi wo hejuru; arawugira hasi, arawugira hasi kugeza isi, arawukorera ho kugeza ivu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "השח",
+      "gloss": "yagize hasi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mu butumbure"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "wo hejuru"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "arawugira hasi"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "arawugira hasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "arawukorera ho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:58:24.970619936Z",
+  "model": "glm-5.3"
+}

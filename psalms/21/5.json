@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ubuzima yasabye kuri wowe, maze wamuha; uburebure bw'iminsi, iteka n'iteka.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wamuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uburebure"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bw'iminsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "n'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:13.389713294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Uwanzi yarangiye; yahindutse ubutayu bugororose; imijyi wakuyeho, kwibukwa kwabo kwarazimiye hamwe na bo ubwabo.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "uwanzi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "yarangiye"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "yahindutse ubutayu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "bugororose"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "wakuyeho"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kwarazimiye"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kwibukwa kwabo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hamwe na bo ubwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:55.499188163Z",
+  "model": "glm-5.3"
+}

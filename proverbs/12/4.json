@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umugore w'ubwenge ni ikamba ry'umugabo we; ariko ikingiza ihumye ni nka buriburi mu magufwa yiwe.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Umugore"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ikamba"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ry'umugabo we"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "nka buriburi"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mu magufwa yiwe"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "icinga isoni ihumya"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:31.841207656Z",
+  "model": "glm-5.3"
+}

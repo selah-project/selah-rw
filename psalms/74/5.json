@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Barazwi nkuwo uzamura hejuru imyundo mu giseke cy'ibiti.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Barazwi"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "nkuwo uzamura"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "mu giseke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cy'ibiti"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "imyundo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:39.336206700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Iki ni umugati wacu: wari urushyuhe twiteje ⟨את⟩ umugati wacu mu nzu zacu, ku munsi tukimuka ko tujya kuri mwe; none rero murabe, yakaye, kandi uhindutse urwagashye.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "umugati wacu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "urushyuhe"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "twiteje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umugati wacu"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "mu nzu zacu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "tukimuka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ko tujya"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none rero"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "murabe"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yakaye"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uhindutse"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "urwagashye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:28:01.095317704Z",
+  "model": "glm-5.3"
+}

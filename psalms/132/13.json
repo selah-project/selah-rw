@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Kuko Yahwe yatoranye Tsiyoni, ayishakiye ⟨kuba⟩ ahantu yo guturamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "yatoranye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ayishakiye"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "ahantu yo guturamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuba⟩ we"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:58.313031831Z",
+  "model": "glm-5.3"
+}

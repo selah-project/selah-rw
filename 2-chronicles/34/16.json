@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Shafani yazanye ⟨את⟩ igitabo kwa umwami, maze yongeye kugaragaza ⟨את⟩ umwami ijambo ati: Ibyose wahaye mu ntoki z'abagaragu bawe, ni byo barakora.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yazanye"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitabo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yongeye kugaragaza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wahaye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "z'abagaragu bawe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "barakora"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:21.829310251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Dawidi ntiyashatse kwimura kuri we ⟨את⟩ isanduku ya Yahwe ngo igere mu mujyi wa Dawidi, ahita Dawidi ayihindura mu nzu ya Ovedi-Edomu Umugiti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yashatse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "kwimura"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo igere mu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ayihindura"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Ovedi-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Umugiti"
+    }
+  ],
+  "timestamp": "2026-09-07T23:02:00.030411668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Moshe yabwiye kuri Aharoni ⟨את⟩ amagambo yose ya Yahwe yo yamwohereje, na ⟨את⟩ ibimenyetso byose byo yamutegetse.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kuri Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yamwohereje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimenyetso byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ibimenyetso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamutegetse"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:15.525414761Z",
+  "model": "glm-5.3"
+}

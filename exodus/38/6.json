@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "exodus 38:6",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 38,
+ "translation": "Yakoreye ⟨את⟩ ibari mu biti bya shitimu (ibiti byaakasiya), maze abishyizeho umuringa.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "yakoreye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibari"
+  },
+  {
+   "surface": "הבדים",
+   "gloss": "ibari"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "mu biti"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "bya shitimu"
+  },
+  {
+   "surface": "ויצף",
+   "gloss": "maze abishyizeho"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "umuringa"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "umuringa"
+  }
+ ],
+ "timestamp": "2026-09-07T09:17:37.489100890Z",
+ "model": "glm-5.3"
+}

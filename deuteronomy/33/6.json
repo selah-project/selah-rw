@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Reubeni abeho, kandi ntapfe, maze abantu be baba ⟨umubare muke⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "abeho"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "apfa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze baba"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:42.573773311Z",
+  "model": "glm-5.3"
+}

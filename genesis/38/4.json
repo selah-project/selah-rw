@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Arongera abyara inda, abyara umuhungu, amahamagara ⟨את⟩ izina rye Onani.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "arabyara inda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "arongera"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "amahamagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onani"
+    }
+  ],
+  "timestamp": "2026-09-07T08:16:25.969100725Z",
+  "model": "glm-5.3"
+}

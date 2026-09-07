@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "maze amuha ⟨את⟩ ibiribwa biyumvikana na ⟨את⟩ umugati yakoze, mu ntoko za Yaakovu, umuhungu we.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "amuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiribwa biyumvikana"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "ibiribwa biyumvikana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugati"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umuhungu we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:01:28.855977631Z",
+  "model": "glm-5.3"
+}

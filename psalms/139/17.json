@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ko kuri njye, ingana cyane agaciro ko ibitekerezo byawe, Eli! Ingana cyane umubare wabyo!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ko kuri njye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ingana cyane"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "agaciro"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ibitekerezo byawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ingana cyane"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "umubare wabyo"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "umubare wabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:30.453338473Z",
+  "model": "glm-5.3"
+}

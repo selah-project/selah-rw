@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko icyo gihe nzahindura ku mahanga umunwa werandanda, ngo bose bamagare mu izina rya Yahwe, ngo bamutware agatugu kamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אז",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "nzahindura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mahanga"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "umunwa"
+    },
+    {
+      "surface": "ברורה",
+      "gloss": "werandanda"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ngo bamagare"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "ngo bamutware"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "agatugu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:54:14.608184859Z",
+  "model": "glm-5.3"
+}

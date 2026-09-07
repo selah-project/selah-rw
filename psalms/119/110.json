@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ababi bashyiriyeho uruhumyi njye, ariko ku mabwiriza yawe ntiwayobotse.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "bashyiriyeho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "uruhumyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ariko ku mabwiriza yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nwayobotse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:00.504543078Z",
+  "model": "glm-5.3"
+}

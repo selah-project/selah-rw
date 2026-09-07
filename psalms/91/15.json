@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Aranshamagara ndamwitura; ndi kumwe na we mu bihe bikomeye; ndaramutsa, kandi ndamwubaha.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "aranshamagara"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ndamwitura"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye (ndi)"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ndaramutsa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ndamwubaha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.115717990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kuko uko Yahwe yavuze kuri njye ati: Nziruhuka, kandi nzitegereza mu cyicaro cyanjye, nk'ubushyuhe bucyu hejuru y'urumuri, nk'urubaju rw'itokondo mu bushyuhe bw'umusaruro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "Nziruhuka"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "kandi nzitegereza"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "mu cyicaro cyanjye"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "nk'ubushyuhe"
+    },
+    {
+      "surface": "צח",
+      "gloss": "bucyu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "nk'urubaju"
+    },
+    {
+      "surface": "טל",
+      "gloss": "itokondo"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "mu bushyuhe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "bw'umusaruro"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:07.777379313Z",
+  "model": "glm-5.3"
+}

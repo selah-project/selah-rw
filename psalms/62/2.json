@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Gusa kuri Elohimu Nefeshi yanjye ihumeka mu mahoro; kuri we gusa ni ho ubukiza bwanjye buva.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ihumeka mu mahoro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuri we gusa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ubukiza bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:39.192071123Z",
+  "model": "glm-5.3"
+}

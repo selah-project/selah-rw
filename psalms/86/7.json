@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Mu munsi w'ibyago byanjye nzaguhamagara, kuko urazansubiza.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mu munsi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "w'ibyago byanjye"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "nzaguhamagara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "urazansubiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:44.003625329Z",
+  "model": "glm-5.3"
+}

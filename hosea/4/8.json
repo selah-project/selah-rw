@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Icyaha cy'abantu banjye bararya, kandi nefeshi yabo baterura ku bibi byabo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bararya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ku bibi byabo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "baterura"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:48.112969101Z",
+  "model": "glm-5.3"
+}

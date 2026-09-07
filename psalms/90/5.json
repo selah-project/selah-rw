@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Waraziheje, baba nk'irari; mu gitondo nk'urwatsi barahindutse.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Waraziheje"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "irari"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nk'urwatsi"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "barahindutse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:25.314406963Z",
+  "model": "glm-5.3"
+}

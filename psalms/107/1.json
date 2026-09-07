@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Yemera kwa Yahwe, ko ⟨ni⟩ mwiza, ko hesedi y'iteka ni iy'iteka.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Yemera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ni⟩ mwiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iy'iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:32.640160679Z",
+  "model": "glm-5.3"
+}

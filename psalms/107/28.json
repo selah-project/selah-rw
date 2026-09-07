@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Baraterura ijwi kuri Yahwe mu bibazo byabo, maze mu mibyago yabo abakuramo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Baraterura ijwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bibazo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "byabo"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "mu mibyago yabo"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "abakuramo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:21.533580313Z",
+  "model": "glm-5.3"
+}

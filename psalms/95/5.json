@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Inyanja ni iye, kandi we ni we wayaremye, n'ubutaka bwumye intoki ze zacyubatse.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ni iyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi we"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ni we wayaremye"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "n'ubutaka bwumye"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "intoki ze"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "zacyubatse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:02.716441134Z",
+  "model": "glm-5.3"
+}

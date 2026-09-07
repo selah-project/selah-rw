@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Har'ibibi nabonye hansi y'izuba, nk'ikosa cyavuye imbere y'umutware.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "har'"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hansi y'"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "nk'ikosa"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "cyavuye"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "umutware"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:22.128015246Z",
+  "model": "glm-5.3"
+}

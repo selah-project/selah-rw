@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yinjiye abwira shebuja we ati: Uko na uko ni ko yaravuze uwo muwari wo mu gihugu cya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "shebuja we"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "uko"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "na uko"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "uwo muwari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:11:46.894232549Z",
+  "model": "glm-5.3"
+}

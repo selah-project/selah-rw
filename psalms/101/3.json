@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Nta kintu kibuye agaciro nzashyira imbere y'amaso yanjye; ibikorwa by'abayobye inzira ndakaze; ntibikomekera iwanjye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "y'amaso yanjye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kintu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "kibuye agaciro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "by'abayobye inzira"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndakaze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "komekera"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:48.292869750Z",
+  "model": "glm-5.3"
+}

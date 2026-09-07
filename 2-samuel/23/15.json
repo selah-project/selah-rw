@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi yararushije kwishakisha, aravuga ati: Ni nde wanzuhisha amazi yo mu rwobo rwa Beti Lehemu ruri ku irembo?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "yararushije kwishakisha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "wanzuhisha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "yo mu rwobo rwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku irembo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:25:07.748362882Z",
+  "model": "glm-5.3"
+}

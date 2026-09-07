@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Maze umuntu azavuga ati: Mu by'ukuri, ubwishingizi buri k'uwugira ubutaha; mu by'ukuri, Elohimu ni umucamanza mu isi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze azavuga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ubwishingizi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "k'uwugira ubutaha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "יש",
+      "gloss": "buriho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:43.864651255Z",
+  "model": "glm-5.3"
+}

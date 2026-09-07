@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nimuririmbire, nimukorere ibyiniro, nimuganire ku bitangaza bye byose.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nimuririmbire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nimukorere ibyiniro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "nimuganire"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ibitangaza bye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:17.680178974Z",
+  "model": "glm-5.3"
+}

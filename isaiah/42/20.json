@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Werebye ibintu byinshi, ariko ntabwo witaho; amatifunguye, ariko ntabwo yumva.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "werebye"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntabwo"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "witaho"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "gufungura"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "amatwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntabwo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yumva"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:11.537460478Z",
+  "model": "glm-5.3"
+}

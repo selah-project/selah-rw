@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Nyuma yiwe Ibitsani uturutse mu Beti Lechemu yacirutse ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yacirutse"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibitsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uturutse mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beti Lechemu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:09:42.272610587Z",
+  "model": "glm-5.3"
+}

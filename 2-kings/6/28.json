@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umwami arabaza iwe ati: Ni iki kiragukeye? Umugore uyu arasubira ati: Uyu mugore yambwiye ati: Ntera ⟨את⟩ umwana wawe turye uyu munsi, na ⟨את⟩ umwana wanjye turye ejo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabaza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kiragukeye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "arasubira"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "yambwiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Ntera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana wawe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "turye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwana wanjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "turye"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ejo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:53.126696753Z",
+  "model": "glm-5.3"
+}

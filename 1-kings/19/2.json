@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Izaveli yohereje umutumwa kwa Eliyahu iti: Niko zikore imana, na nik'ongere zikore — kuko ku isaha y'uyu munsi ejo, nzashyira ⟨את⟩ Nefeshi yawe nka Nefeshi y'umwe muri bo.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izaveli"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Niko"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "zikore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "na nik'ongere"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "zikore (ongere)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ku isaha y'uyu munsi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ejo"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi yawe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshi yawe"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "nka Nefeshi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "y'umwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:19.361327472Z",
+  "model": "glm-5.3"
+}

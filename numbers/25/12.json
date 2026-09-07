@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Nicyo rero uvuge uti: Ubu njye ndaha iwe ⟨את⟩ beriti yanjye, Shalomu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nicyo rero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uvuge"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ubu njye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndaha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti yanjye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:27:23.264503562Z",
+  "model": "glm-5.3"
+}

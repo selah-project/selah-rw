@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Amahanga azaza ku muriko wawe, n'abami ku murerure w'itangira ryawe.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ku muriko wawe"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "n'abami"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ku murerure"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "w'itangira ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:16.295631101Z",
+  "model": "glm-5.3"
+}

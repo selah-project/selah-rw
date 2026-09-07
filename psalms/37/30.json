@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ikanwa ry'umutunganya idondora ubwenge, n'ururimi rwe ruvuga ubutabera.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ikanwa ry'"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganya"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "idondora"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "n'ururimi rwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ruvuga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:17.476589211Z",
+  "model": "glm-5.3"
+}

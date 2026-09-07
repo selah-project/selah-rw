@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ariko njye nizeye mu hesedi yawe; umutima wanjye uzashimira mu kurokoka kwawe; nzahimbira kwa Yahwe, kuko yagiriye neza ku njye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "mu hesedi yawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeye"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "uzashimira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mu kurokoka kwawe"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nzahimbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yagiriye neza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:23.891314005Z",
+  "model": "glm-5.3"
+}

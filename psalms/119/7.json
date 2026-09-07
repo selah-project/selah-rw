@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ndaguhamye mu gutungana k'umutima, mu kwiga ibyemezo by'ubutabera bwawe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndaguhamye"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "mu gutungana"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "k'umutima"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "mu kwiga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ibyemezo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "by'ubutabera bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:59.533551645Z",
+  "model": "glm-5.3"
+}

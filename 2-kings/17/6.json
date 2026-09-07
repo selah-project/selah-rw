@@ -1,0 +1,96 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "2-kings 17:6",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 17,
+ "translation": "Mu mwaka wa cyenda wa Hoshea, umwami w'Ashuru yafashe ⟨את⟩ Shomeroni, maze ahungabaza ⟨את⟩ Yisraeli ajya i Ashuru, abashyira ⟨את⟩ bo muri Halahu no ku Habhoru, uruzi rwa Gozani, no mu imijyi ya Madi.",
+ "tokens": [
+  {
+   "surface": "בשנת",
+   "gloss": "Mu mwaka"
+  },
+  {
+   "surface": "התשיעית",
+   "gloss": "wa cyenda"
+  },
+  {
+   "surface": "להושע",
+   "gloss": "wa Hoshea"
+  },
+  {
+   "surface": "לכד",
+   "gloss": "yafashe"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "אשור",
+   "gloss": "w'Ashuru"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Shomeroni"
+  },
+  {
+   "surface": "שמרון",
+   "gloss": "Shomeroni"
+  },
+  {
+   "surface": "ויגל",
+   "gloss": "ahungabaza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yisraeli"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "אשורה",
+   "gloss": "ajya i Ashuru"
+  },
+  {
+   "surface": "וישב",
+   "gloss": "abashyira"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "muri Halahu no ku Habhoru, uruzi rwa Gozani, no mu imijyi ya Madi"
+  },
+  {
+   "surface": "בחלח",
+   "gloss": "muri Halahu"
+  },
+  {
+   "surface": "ובחבור",
+   "gloss": "no ku Habhoru"
+  },
+  {
+   "surface": "נהר",
+   "gloss": "uruzi"
+  },
+  {
+   "surface": "גוזן",
+   "gloss": "rwa Gozani"
+  },
+  {
+   "surface": "וערי",
+   "gloss": "no mu imijyi"
+  },
+  {
+   "surface": "מדי",
+   "gloss": "ya Madi"
+  }
+ ],
+ "timestamp": "2026-09-07T14:24:30.047445100Z",
+ "model": "glm-5.3"
+}

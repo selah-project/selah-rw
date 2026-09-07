@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Kuko ⟨we⟩ azakiza umukene uwusaba, n'umutindi, kandi nta mutabazi iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "azakiza"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "uwusaba"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "n'umutindi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mutabazi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:22.168594539Z",
+  "model": "glm-5.3"
+}

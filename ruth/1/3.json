@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elimeliki, umugabo wa Naomi, yapfuye; maze yasigara we n'abahungu be babiri.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeliki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo wa"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "yasigaye"
+    },
+    {
+      "surface": "היא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "n'abahungu be"
+    }
+  ],
+  "timestamp": "2026-09-07T19:46:41.127943172Z",
+  "model": "glm-5.3"
+}

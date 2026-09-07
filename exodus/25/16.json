@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze ushyire mu aroni ⟨את⟩ ubuhamya nzakuguha.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "maze ushyire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhamya"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nza-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzakuguha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:06.462635167Z",
+  "model": "glm-5.3"
+}

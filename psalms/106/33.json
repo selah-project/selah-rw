@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Se baratumye umweko ⟨את⟩ umwuka we, maze yavuze koze mu minwa ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "baratumye umweko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwuka we"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umwuka we"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "maze yavuze koze"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "mu minwa ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:56.165808843Z",
+  "model": "glm-5.3"
+}

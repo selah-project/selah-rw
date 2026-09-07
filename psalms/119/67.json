@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mbere y'uko ndahorwa njye nayeriye; none ubu ijambo ryawe ⟨ni⟩ byo narakuriye.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ndahorwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "nayeriye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none ubu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "narakuriye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:05.408291147Z",
+  "model": "glm-5.3"
+}

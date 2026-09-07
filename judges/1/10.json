@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yehuda nagiye kuri ukenaani utuye mu Heburoni — izina rya Heburoni mbere yaho ryari Kiriyata-Aruba — maze baratsinze ⟨את⟩ Sheshayi na ⟨את⟩ Ahimani na ⟨את⟩ Talmayi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagiye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ukenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "mu Heburoni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maze izina"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "rya Heburoni"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "mbere yaho"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyata"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Aruba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "baratsinze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshayi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ahimani"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Talmayi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmayi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:00.204606484Z",
+  "model": "glm-5.3"
+}

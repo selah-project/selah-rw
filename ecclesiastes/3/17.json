@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Navuze njye mu mutima wanjye ko Elohimu azacira urubanza ⟨את⟩ umuhetu na ⟨את⟩ umukuri, ko hari igihe ku buri cyifuzo no ku bikorwa byose.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuhetu"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "umuhetu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukuri"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "umukuri"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "azacira urubanza"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku buri"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "cyifuzo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:56.937058706Z",
+  "model": "glm-5.3"
+}

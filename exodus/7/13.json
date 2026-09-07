@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umutima wa Paro wariyinze, ntiyumvise abo, nk'uko Yahwe yari yaravuze.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wariyinze"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-yumvise"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:00.499324511Z",
+  "model": "glm-5.3"
+}

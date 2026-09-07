@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Adonayi ku iburyo bwawe: yasenye abami ku munsi w'uburakari bwe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo bwawe"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "yasenye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "w'uburakari bwe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:54.504629190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Yahwe, Elohimu wa Tsevaoti, ni ndi ungana na wowe, wowe Nyankyingezi, Yah? Noneza yawe iri ku mpande zawose za hafi yawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni ndi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ungana na wowe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "Nyankyingezi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "Noneza yawe"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "iri ku mpande zawose za hafi yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:29.218178070Z",
+  "model": "glm-5.3"
+}

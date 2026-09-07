@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "N'umuntu yaba yayobye inkumi itarashakwa, maze aryamye na yo, azishyura inkwano ze maze ayigirira umugore we.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "N'umuntu yaba"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "yayobye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ita-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ita-"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "(ta)rashakwa"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "maze aryamye"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "azishyura"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "inkwano ze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ayigirira"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "umugore we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:30.186122144Z",
+  "model": "glm-5.3"
+}

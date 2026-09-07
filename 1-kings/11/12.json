@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ariko mu minsi yawe ntabwo nzabikora, kubera Dawidi se wawe; mu biganza by'umwana wawe ni ho nzabuvanamo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "mu minsi yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "nzabikora"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "se wawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza bya"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "nzabuvanamo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:07.691762943Z",
+  "model": "glm-5.3"
+}

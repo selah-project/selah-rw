@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ariko wowe n'abagaragu bawe, ndazi ko mutaramutinya imbere ya Yahwe Elohimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "n'abagaragu bawe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mutaramutinya (ntiracyari)"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "mutinya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:09.348230534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "kwibwira ibitekerezo byo gukora mu zahabu, mu ifeza no mu muringa,",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "kwibwira"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ibitekerezo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "mu zahabu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "no mu ifeza"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "no mu muringa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:09:21.020736921Z",
+  "model": "glm-5.3"
+}

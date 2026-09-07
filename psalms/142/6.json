@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 142,
+  "translation": "Nariye ndaguza kuri wowe, Yahwe; nabwiye nti wowe ⟨ni⟩ ubuhungiro bwanjye, urugero rwanjye mu gihugu cy'abaho.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Nariye ndaguza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nabwiye nti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ubuhungiro bwanjye"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "urugero rwanjye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "cy'abaho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:03.671680881Z",
+  "model": "glm-5.3"
+}

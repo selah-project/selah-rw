@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Keinani (Kayinani) yatumye imyaka mirongo irindwi iriho, maze yibarutse ⟨את⟩ Mahalaleli (Malaleli).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yatumye imyaka iriho"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinani"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yibarutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalaleli"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleli"
+    }
+  ],
+  "timestamp": "2026-09-07T07:30:56.722186125Z",
+  "model": "glm-5.3"
+}

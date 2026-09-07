@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "leviticus 26:3",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 26,
+ "translation": "Iyo mugenda mu mategeko yanjye, na ⟨את⟩ amabwiriza yanjye murayafata, mukayanakora ⟨את⟩;",
+ "tokens": [
+  {
+   "surface": "אם",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "בחקתי",
+   "gloss": "mu mategeko yanjye"
+  },
+  {
+   "surface": "תלכו",
+   "gloss": "mugenda"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "amabwiriza yanjye"
+  },
+  {
+   "surface": "מצותי",
+   "gloss": "amabwiriza yanjye"
+  },
+  {
+   "surface": "תשמרו",
+   "gloss": "murayafata"
+  },
+  {
+   "surface": "ועשיתם",
+   "gloss": "mukora"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "amabwiriza yanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T09:55:11.865517205Z",
+ "model": "glm-5.3"
+}

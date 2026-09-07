@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Uko yarahiye Yahwe, yanze isezerano kuri Umunyingufu wa Yaakovu:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yarahiye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "yanze isezerano"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kuri Umunyingufu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:41.300530628Z",
+  "model": "glm-5.3"
+}

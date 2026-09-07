@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Kora bo nka Midiyani, nka Siserayi no nka Yavini, mu mugezi wa Kishoni.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "nka Midiyani"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "nka Siserayi"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "no nka Yavini"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mu mugezi wa"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:15.394016064Z",
+  "model": "glm-5.3"
+}

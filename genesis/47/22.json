@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Gusa ubutaka bwa kohenu (abaherezi) ntiwaguye, kuko kohenu bafite umugabane kuva kwa ⟨את⟩ Paro, maze bariye ⟨את⟩ umugabane wabo uwo Paro yabahaye; ni cyo gituma ntagurishije ⟨את⟩ ubutaka bwabo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bwa kohenu (abaherezi)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "waguye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חק",
+      "gloss": "umugabane"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuva kwa ⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "maze bariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugabane wabo"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "umugabane wabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "bagurishije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwabo"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ubutaka bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:07.844183796Z",
+  "model": "glm-5.3"
+}

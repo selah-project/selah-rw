@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Iyo Yahwe Elohimu wawe azirimitse ⟨את⟩ ibihugu Yahwe Elohimu wawe aguha ⟨את⟩ ubutaka bwabyo, maze ubishobora, utuye mu mijyi yabyo no mu nzu zabyo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "azirimitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibihugu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ibihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwabyo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ubutaka bwabyo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "maze ubishobora"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "mu mijyi yabyo"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "no mu nzu zabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:05:34.473662969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ni nde waguha ngo ube nk'umusaza wanjye, wonswe amabere y'ndina? Namusanga hanze, namuhoza — na ntibansavire.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "waguha"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "nk'umusaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanje"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "wonswe"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "amabere"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "y'ndina"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "namusanga"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "namuhoza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "bansavire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-n-"
+    }
+  ],
+  "timestamp": "2026-09-07T19:44:24.620240313Z",
+  "model": "glm-5.3"
+}

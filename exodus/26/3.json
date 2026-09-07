@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Amateka atanu azaba bihuza iyi ku iryandi, n'amateka atanu bihuza iyi ku iryandi.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "amateka"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "bihuza"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "iryandi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "n'amateka atanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "amateka atanu"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "bihuza"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "iryandi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:17.920676870Z",
+  "model": "glm-5.3"
+}

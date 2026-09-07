@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Ubu nzamuka, Yahwe we aravuze; ubu ndakuzwa, ubu ndikuzwa ndiyemerera.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nzamuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ndakuzwa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ndikuzwa ndiyemerera"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:07.943407950Z",
+  "model": "glm-5.3"
+}

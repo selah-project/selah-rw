@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze muri Yeshurunu haba umwami, mu kwiyunza abatware b'abantu hamwe n'imiryango y'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maze haba"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "muri Yeshurunu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "mu kwiyunza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:42.573553153Z",
+  "model": "glm-5.3"
+}

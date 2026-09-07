@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'ubwo yari yakindi imyaka igihumbi inshuro ebyiri, ibyiza ntiyabonaho; se byose ntibijya mu kintu kimwe?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "n'ubwo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yakindi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igihumbi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "inshuro ebyiri"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "kandi ibyiza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yabonaho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kintu\/ahantu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe\/hamwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bijya"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:12.324300772Z",
+  "model": "glm-5.3"
+}

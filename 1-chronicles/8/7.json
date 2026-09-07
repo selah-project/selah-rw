@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Naamani, Achiya, na Gerahi — ni we nabafungishije — maze yabyaye ⟨את⟩ Uzahi na ⟨את⟩ Achiyhudi.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "Naamani"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "Gerahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "nabafungishije"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzahi"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Achiyhudi"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achiyhudi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:26.737188550Z",
+  "model": "glm-5.3"
+}

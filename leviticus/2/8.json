@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi uzazana ⟨את⟩ minchah iyakorwa muri ibi kwa Yahwe, maze uyizane kuri kohenu, maze ayishyire ku nteraro.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "uzazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "iyakorwa"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "muri ibi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "maze uyizane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "maze ayishyire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nteraro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:12.234579959Z",
+  "model": "glm-5.3"
+}

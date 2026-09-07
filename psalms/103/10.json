@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Ntabwo nk'ibyaha byacu yakoze turihire, kandi ntabwo nk'ibicumuro cyacu yahembuye turihire.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "nk'ibyaha byacu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "turihire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntabwo"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "nk'ibicumuro cyacu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yahembuye"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "turihire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:46.047516879Z",
+  "model": "glm-5.3"
+}

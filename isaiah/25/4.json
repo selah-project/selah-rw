@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kuko wari umutekano w'umukene, umutekano w'uwipfu mu bihe bye bibi, ubuhungiro mu nkubiri, igicucu mu bushyuhe; kuko umwuka w'abihomeye nka nkubibi ku rukubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wari"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "umutekano"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "w'umukene"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "umutekano"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "w'uwipfu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe bibi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bye"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ubuhungiro"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "mu nkubiri"
+    },
+    {
+      "surface": "צל",
+      "gloss": "igicucu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mu bushyuhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "w'abihomeye"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "nka nkubibi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ku rukubi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:10.721822810Z",
+  "model": "glm-5.3"
+}

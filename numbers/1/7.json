@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kwa Yehudah (Yuda), Nakhshoni mutwa wa Aminadabi.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "kwa Yehudah (Yuda)"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mutwa wa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:32.474684717Z",
+  "model": "glm-5.3"
+}

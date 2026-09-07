@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Ku mugenzuzi w'indirimbo, ku ntu ya Shoshanimu; icyemezo cya Asafu; indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mugenzuzi w'indirimbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku ntu ya"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanimu"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "icyemezo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cya Asafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.398816487Z",
+  "model": "glm-5.3"
+}

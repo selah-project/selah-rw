@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze baracyo inyishu bati: Ibiganza byacu ntibyasize ⟨את⟩ aya maraso, n'amaso yacu ntiyaboneye.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "baracyo inyishu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ibiganza byacu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "byasize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya maraso"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "n'amaso yacu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yaboneye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:24:27.922938022Z",
+  "model": "glm-5.3"
+}

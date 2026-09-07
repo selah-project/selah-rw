@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ari ⟨we⟩ ntiyarebye ku ya Kajini no ku icate cye; maze Kajini yarakiye cyane, maze uburanga bwe bwamanutse.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ari ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "icate cye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "maze yarakiye"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "maze yamanutse"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uburanga bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:15.209073802Z",
+  "model": "glm-5.3"
+}

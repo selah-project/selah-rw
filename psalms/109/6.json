@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Shyiraho ku we umunyabyaha, ngo Satani ahagare ku iburyo bye.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Shyiraho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umunyabyaha"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "n'Satani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ahagare"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iburyo bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:43.410151937Z",
+  "model": "glm-5.3"
+}

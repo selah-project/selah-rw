@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Avrahamu nashyira ⟨את⟩ intama ndindi z'intaza ku mwezi wazo ubwonyine.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "nashyira ku mwezi wazo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama ndindi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ndindi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "intama nto"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intaza"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ubwonyine"
+    }
+  ],
+  "timestamp": "2026-09-07T07:49:55.111982617Z",
+  "model": "glm-5.3"
+}

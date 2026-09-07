@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Aho nta nka ziri, ibarari risigara rirahari; ariko umusaruro mwinshi uva mu ngufu z'inka.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "aho nta… ziri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ibarari"
+    },
+    {
+      "surface": "בר",
+      "gloss": "risigara rirahari"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ariko… mwinshi"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "umusaruro"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "mu ngufu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "z'inka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:47.213038264Z",
+  "model": "glm-5.3"
+}

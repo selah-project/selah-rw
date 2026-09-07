@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Kubera iki waravanyeho urububi rwayo, maze abanyamuhanda bose bayibashe?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "waravanyeho"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "urububi rwayo"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "maze bayibashe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "abanyamuhanda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "(mu) muhanda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:43.201727234Z",
+  "model": "glm-5.3"
+}

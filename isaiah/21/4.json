@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umutima wanjye yazimiye, ubwoba bwaranshutse; ⟨את⟩ nimugoroba cy'icyifuzo cyanjye cyahindutse kuri njeye ubwoba bwo gutitabara.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "yazimiye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Umutima wanjye"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "bwaranshutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimugoroba"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "cy'icyifuzo cyanjye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "cyahindutse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ubwoba bwo gutitabara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:59.551394702Z",
+  "model": "glm-5.3"
+}

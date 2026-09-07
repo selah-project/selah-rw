@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ugira uti: Rehavamu, umwana wa Shelomu (Salomo), umwami w'Yehuda, na bose mu Yisraeli baba mu Yehuda no mu Beniyamin — uti:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ugira uti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "w'Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "no mu Beniyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:26.570504177Z",
+  "model": "glm-5.3"
+}

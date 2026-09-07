@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ukore ubwenge bawe, kandi ntumanure ubusaza bwe mu mahoro, mu Sheoli.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ukore"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "ubwenge bawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "umanure"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ubusaza bwe"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "mu mahoro"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mu Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:30:44.395420446Z",
+  "model": "glm-5.3"
+}

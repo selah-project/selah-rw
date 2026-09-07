@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ikimwe gisa na kimwe nsasemye kwa ⟨את⟩ Yahwe — ⟨את⟩ icyo ndashakisha: guterera mu nzu ya Yahwe iminsi yose y'ubuzima bwanjye, kureba ubwiza bwa Yahwe, no gucikamu mu rusengero rwe.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ikimwe gisa na kimwe"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nsasemye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ icyo"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndashakisha"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "guterera"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "y'ubuzima bwanjye"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "ubwiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "no gucikamu"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "mu rusengero rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:09.529200658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Natekereje iminsi yo ha kera, imyaka y'imyaka myinshi yashize.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Natekereje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "yo ha kera"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "y'imyaka myinshi yashize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:21.744048329Z",
+  "model": "glm-5.3"
+}

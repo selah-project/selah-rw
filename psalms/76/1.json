@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Ku mutereezi w'ibyiringizi. Zaburi cya Asafi. Indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutereezi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "w'ibyiringizi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cya Asafi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:01.240094075Z",
+  "model": "glm-5.3"
+}

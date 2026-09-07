@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "⟨את⟩ Mwe gusa najzi mu mimiryango yose y'isi; ni cyo mpamvu nzibaziriza ku mwe ⟨את⟩ ibyaha byanyu byose.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Mwe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najzi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mimiryango"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mpamvu"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "nzibaziriza"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyaha byanyu byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ibyaha byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:31.585600349Z",
+  "model": "glm-5.3"
+}

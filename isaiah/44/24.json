@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Uko avuze Yahwe, umurokora wawe n'uwakuhiimbye mu nda: njye, Yahwe, ndi ukora byose; utambagiza ijuru njenyine; uhatera isi — nde ⟨את⟩ iwanjye?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "umurokora wawe"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "n'uwakuhiimbye"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "utambagiza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "njenyine"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "uhatera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iwanjye (hamwe nanjye)"
+    }
+  ],
+  "timestamp": "2026-09-07T15:20:46.965179840Z",
+  "model": "glm-5.3"
+}

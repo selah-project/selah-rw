@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Ahubwo raba, abami bahuriye, maze banyuze hamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ahubwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "raba"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bahuriye"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "banyuze"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:26.367820926Z",
+  "model": "glm-5.3"
+}

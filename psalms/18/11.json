@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yagendeye ku kerubu, yaguruka; yongeye kuguruka ku mbabara z'umuyaga.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Yagendeye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "yaguruka"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "yongeye kuguruka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ku mbabara"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "z'umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:50.322225333Z",
+  "model": "glm-5.3"
+}

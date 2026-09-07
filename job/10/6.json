@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "ko urondera ikibi cyanjye, kandi urondora icyaha cyanjye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תבקשׁ",
+      "gloss": "urondera"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ikibi cyanjye"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "kandi … icyaha cyanjye"
+    },
+    {
+      "surface": "תדרושׁ",
+      "gloss": "urondora"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:04.470422450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Maze ashyira hamwe ⟨את⟩ ibyererezo bitanu, kimwe ku kindi; n'ibyererezo bitanu nabyo yashyize hamwe, kimwe ku kindi.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ashyira hamwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyererezo bitanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "bitanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ibyererezo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kindi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "n'ibyererezo bitanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ibyererezo"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "yashyize hamwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kindi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:23.583416658Z",
+  "model": "glm-5.3"
+}

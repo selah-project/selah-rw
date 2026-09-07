@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi iyi ni Tora y'igitambo shelamim, igihe umuntu azanira Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kandi iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "y'igitambo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "azanira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:02.170937306Z",
+  "model": "glm-5.3"
+}

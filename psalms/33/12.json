@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Umunezero ku gihugu Elohimu wiwe ⟨ni⟩ Yahwe, ubwoko yatoranije nk'umurage wiwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Umunezero"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ku gihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu wiwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "yatoranije"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "nk'umurage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:03.367065205Z",
+  "model": "glm-5.3"
+}

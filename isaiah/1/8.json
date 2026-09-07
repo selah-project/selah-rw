@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umukobwa wa Tsiyoni wasigaye nk'igicucu mu murima w'inzabibu, nk'agakumbi mu murima w'ibihaza, nk'umujyi urengewe.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "wasigaye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Umukobwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "nk'igicucu"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "mu murima w'inzabibu"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "nk'agakumbi"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "mu murima w'ibihaza"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "nk'umujyi"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "urengewe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:41.701529431Z",
+  "model": "glm-5.3"
+}

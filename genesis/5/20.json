@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iminsi yose ya Yeredi yabaye imyaka amajana cyenda na mirongo itandatu n'ibiri, arapfa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "n'ibiri"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mirongo itandatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na cyenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:31.873759821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": " maze akazigeraho imbere ya Yahwe, akayikorera ubusembuzi, maze ahindukira ukwihishura ku mubyimbe w'amaraso ye. Iyi ni Tora y'ubyara, k'umhunga cyangwa k'umukobwa.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "akazigeraho imbere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "akayikorera ubusembuzi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "ahindukira ukwihishura"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "ku mubyimbe"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "w'amaraso ye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ni Tora"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "y'ubyara"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "k'umhunga"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "k'umukobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:00.494573965Z",
+  "model": "glm-5.3"
+}

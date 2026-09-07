@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Muteshye teruwaha ⟨amacakubiri y'amatwikiro⟩, maze ibitent biherereye iburasirazuba bitungane.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "muteshye"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruwaha ⟨amacakubiri y'amatwikiro⟩"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "bitungane"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ibitent"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "biherereye"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "iburasirazuba"
+    }
+  ],
+  "timestamp": "2026-09-07T10:09:07.926364826Z",
+  "model": "glm-5.3"
+}

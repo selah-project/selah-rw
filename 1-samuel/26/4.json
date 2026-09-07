@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Dawidi nawe yarungikiye abarondozi, maze abizi neza ko Shauli rwose aza i Nakoni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarungikiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abarondozi"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "maze abizi neza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nakoni"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:18.720932322Z",
+  "model": "glm-5.3"
+}

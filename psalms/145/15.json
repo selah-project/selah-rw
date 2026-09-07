@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Amaso yose yareba iyo mwe, kandi mwe uha bo ⟨את⟩ ibiryo byabo mu gihe cyabyo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amaso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iyo mwe"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "yareba"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kandi mwe"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiryo byabo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ibiryo byabo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "mu gihe cyabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:15.063221283Z",
+  "model": "glm-5.3"
+}

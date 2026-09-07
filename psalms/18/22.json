@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Dore ko narinze inzira za Yahwe, kandi ntagize ubuhemu ku Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore ko"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "narinze"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ku Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:46.327772791Z",
+  "model": "glm-5.3"
+}

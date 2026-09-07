@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Amagambo ye yari kumwe na Yoavu (Yowabu), umwana wa Tseruyah (Seruya), no kumwe na Evyataru (Abyatara) kohenu ⟨uhankuku⟩; maze bafasha inyuma ya Adoniyahu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Amagambo ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kumwe na"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu (Yowabu)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyah (Seruya)"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "no kumwe na"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyataru (Abyatara)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu ⟨uhankuku⟩"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "maze bafasha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:53.054224729Z",
+  "model": "glm-5.3"
+}

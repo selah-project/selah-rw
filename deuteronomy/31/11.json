@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Iyo Yisraeli yose iza kureba ⟨את⟩ uburyo bwa Yahwe Elohimu wawe, mu mwamba uzahitamwo, uzasome ⟨את⟩ iyi Tora imbere y'Yisraeli yose, mu matwi yabo.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "iyo... iza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburyo bwa Yahwe Elohimu wawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburyo bwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu mwamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uzahitamwo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "uzahitamo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "uzasome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "mu matwi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:58.617839905Z",
+  "model": "glm-5.3"
+}

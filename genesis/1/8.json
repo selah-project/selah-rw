@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yise rakiya ijuru. Maze haba nimugoroba, haba mu gitondo — umunsi wa kabiri.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:40.770583882Z",
+  "model": "glm-5.3"
+}

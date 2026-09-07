@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nagabanyijwe umurage w'ibihamya byawe ku iteka, koko ni yo umunezero w'umutima wanjye.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "Nagabanyijwe umurage"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "w'ibihamya byawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "umunezero"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "w'umutima wanjye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni yo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:00.506354419Z",
+  "model": "glm-5.3"
+}

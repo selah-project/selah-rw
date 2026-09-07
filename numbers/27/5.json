@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Maze Moshe yashyize ⟨את⟩ urubanza rwabo imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Maze yashyize"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubanza rwabo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "urubanza rwabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:33:52.979257607Z",
+  "model": "glm-5.3"
+}

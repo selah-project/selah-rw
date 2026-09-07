@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Koheliti yashakaga kubona amagambo y'umuneza, kandi ibyanditswe ari ibitunganye: amagambo y'ukuri.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "yashakaga"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheliti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "y'umuneza"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "kandi ibyanditswe"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "a ibitunganye"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "y'ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:10.828404275Z",
+  "model": "glm-5.3"
+}

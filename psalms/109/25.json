@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Njye nagiye kuba urwenya iwabo: iyo banimbonye, bagaterera umutwe wabo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagiye kuba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "urwenya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwabo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "banimbonye"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "bagaterera"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "umutwe wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:30.400206928Z",
+  "model": "glm-5.3"
+}

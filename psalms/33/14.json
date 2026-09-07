@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mu mwanya w'ibwamo bwe yarebe abatuye isi bose.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Mu mwanya"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "w'ibwamo bwe"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "yarebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:46.795600253Z",
+  "model": "glm-5.3"
+}

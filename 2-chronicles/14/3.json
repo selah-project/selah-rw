@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yabwiriye Yehuda ngo basabe ⟨את⟩ Yahwe, Elohimu wa ba sekuruza babo, maze bakore Tora n'itegeko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiriye"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ngo basabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wa ba sekuruza babo"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "maze bakore"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "n'itegeko"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:24.310549712Z",
+  "model": "glm-5.3"
+}

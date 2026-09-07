@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Abakubona bagira amaso bakurebera, bakwibwira bati: Ese uwo ni uwo muntu wateye isi umuneke, wazungishije ibwami?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "abakubona"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "bagira amaso"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bakurebera"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "bakwibwira"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "wateye umuneke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "wazungishije"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ibwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:03.981580265Z",
+  "model": "glm-5.3"
+}

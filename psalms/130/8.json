@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Kandi we azakivura ⟨את⟩ Yisraeli mu byaha bye byose.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Kandi we"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "azakivura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "byaha bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:53.492719109Z",
+  "model": "glm-5.3"
+}

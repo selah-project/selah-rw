@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ashuru yavuye muri icyo gihugu, maze yubaka ⟨את⟩ Ninveh na ⟨את⟩ Rehovoti-Iri na ⟨את⟩ Kelah",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "muri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yavuye"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "maze yubaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rehovoti-Iri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovoti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kelah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelah"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:49.225570950Z",
+  "model": "glm-5.3"
+}

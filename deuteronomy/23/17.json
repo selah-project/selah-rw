@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 23:17",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Azatura kumwe nawe, mu gitavyo cyawe, mu mwanya azahitamwo mu muryango umwe w'imiryango yawe, aho byamubereye neza; ntimumuharasye.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "azatura"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mu gitavyo cyawe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu mwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "azahitamwo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mu muryango umwe"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "w'imiryango yawe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "aho byamubereye neza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תוננו",
+      "gloss": "mumuharasye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:45.264248118Z",
+  "model": "glm-5.3"
+}

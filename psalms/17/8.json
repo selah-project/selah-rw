@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nringa nka rutoki rw'ijisho ryo mu maso; mu gicucu cy'amababa yawe unshisha.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "nringa"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "nka (uruhame rw'ijisho)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ituma"
+    },
+    {
+      "surface": "עין",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mu gicucu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cy'amababa yawe"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "unshisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:40.320866557Z",
+  "model": "glm-5.3"
+}

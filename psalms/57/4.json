@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Azohereza mu ijuru maze ankize, azoseza ⟨uyo⟩ umpfuza. Selah. Elohimu azohereza hesedi yiwe (urukundo n'impuhwe) n'ukuri yiwe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "maze ankize"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "azoseza"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "umpfuza"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yiwe"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "n'ukuri yiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:36.864854389Z",
+  "model": "glm-5.3"
+}

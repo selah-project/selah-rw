@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nta umuntu azahagara imbere yawe iminsi yose y'ubuzima bawe; nk'uko nari kuri Moshe, ni ko nzaba kuri wowe: ntinzakureka, na ntinzaguhitana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "azahagara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "y'ubuzima bawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nzaba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "nzakureka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nti-"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "nzaguhitana"
+    }
+  ],
+  "timestamp": "2026-09-07T11:26:26.381472613Z",
+  "model": "glm-5.3"
+}

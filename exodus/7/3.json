@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi njye nzakomeza ⟨את⟩ umutima wa Paro, kandi nzongereza ⟨את⟩ ibimenyetso byanjye na ⟨את⟩ ibitangaza byanjye mu gihugu cya Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kandi njye"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "nzakomeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "kandi nzongereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibimenyetso byanjye"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ibimenyetso byanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibitangaza byanjye"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ibitangaza byanjye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:16.677799282Z",
+  "model": "glm-5.3"
+}

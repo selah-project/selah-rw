@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzashyira byose ku maboko ya Aharoni no ku maboko y'abahungu be, maze uzazungusha ⟨את⟩ byose — izungushwa — imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Uzashyira"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "y'abahungu be"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "maze uzazungusha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ byose",
+      "marks": "byose"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "izungushwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:28.147431206Z",
+  "model": "glm-5.3"
+}

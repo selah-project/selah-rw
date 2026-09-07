@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "iya gatatu kuri Harimu, iya kane kuri Seorimu.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "kuri Harimu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "iya gatatu"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "kuri Seorimu"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "iya kane"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:51.380191615Z",
+  "model": "glm-5.3"
+}

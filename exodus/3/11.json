@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze Moshe aravuga kuri Elohimu ati: Ni nde njye, ko ngenda kwa Paro, maze ko nkurura ⟨את⟩ abana ba Yisraeli mu Mitsrayimu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga … ati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "maze ko"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "nkurura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:31.195248070Z",
+  "model": "glm-5.3"
+}

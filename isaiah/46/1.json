@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Beli yarazingiye, Nebo yarahunze; ibigirwamana byabo byahindutse ibirembe ku nyamaswa no ku matungo — ibirembe byanyu byuzuye, umutsindiro kuri inyamaswa yananiwe.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "yarazingiye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Beli"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "yarahunze"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byahindutse"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ku nyamaswa"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "no ku matungo"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "ibirembe byanyu"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "משא",
+      "gloss": "umutsindiro"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "kuri inyamaswa yananiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:21:32.123012116Z",
+  "model": "glm-5.3"
+}

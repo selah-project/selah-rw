@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "No mu bwoko bwa Gadi ⟨את⟩ Raamoti muri Giliadi, na ⟨את⟩ imirima yayo, na ⟨את⟩ Mahanayimu, na ⟨את⟩ imirima yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "No mu bwoko bwa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamoti"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamoti"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "muri Giliadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirima yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imirima yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mahanayimu"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirima yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imirima yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:06:33.678142887Z",
+  "model": "glm-5.3"
+}

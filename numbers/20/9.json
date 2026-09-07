@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze Moshe yafashe ⟨את⟩ inkoni imbere ya Yahwe, uko yamutegetse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkoni"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "inkoni"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamutegetse"
+    }
+  ],
+  "timestamp": "2026-09-07T21:20:34.620536003Z",
+  "model": "glm-5.3"
+}

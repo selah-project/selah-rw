@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kuko nzahamagara izina rya Yahwe; nimuheze ubukuru Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nzahamagara"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nimuheze"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ubukuru"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:12.554126309Z",
+  "model": "glm-5.3"
+}

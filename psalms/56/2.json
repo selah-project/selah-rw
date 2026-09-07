@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Unjishaho impuhwe, Elohimu, kuko enoshi yampfundikiye ⟨(yandatse)⟩; ku munsi wose ararwana aranyegeranya.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Unjishaho impuhwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "yampfundikiye ⟨(yandatse)⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshi ⟨(umuntu wapfa)⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ararwana"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "aranyegeranya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:45.851595633Z",
+  "model": "glm-5.3"
+}

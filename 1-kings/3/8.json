@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi umugaragu wawe ari hagati muri abantu bawe abo wahishe, abantu benshi abo ntabarwa bazaharurwa kubera ubwinshi.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Kandi umugaragu wawe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati muri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "wahishe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bazaharurwa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kuharurwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kubera ubwinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:31.014447016Z",
+  "model": "glm-5.3"
+}

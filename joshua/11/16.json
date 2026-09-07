@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Yehoshuwa afata ⟨את⟩ ubutaka bwose uyu — imisozi, na ⟨את⟩ Negevu yose, na ⟨את⟩ ubutaka bwose bwa Goshenu, na ⟨את⟩ utumbazi, na ⟨את⟩ Araba, na ⟨את⟩ imisozi ya Yisraeli n'utumbazi wayo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Maze afata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negevu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "bwa Goshenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "utumbazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "n'utumbazi wayo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:35:38.116477438Z",
+  "model": "glm-5.3"
+}

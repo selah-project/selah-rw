@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Ariko wowe, Yahwe Adonayi, kora ⟨את⟩ nanjye ku bw'izina ryawe, kuko hesedi yawe ni nziza: unkirimo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kora"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (nanjye)",
+      "marks": "nanjye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "unkirimo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:38.623502202Z",
+  "model": "glm-5.3"
+}

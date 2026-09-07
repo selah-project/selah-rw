@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ abahungu be uzabategeke, bakomeze ⟨את⟩ kohenu yabo; uwatari we mu bakorera, we weregereye, azicwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uzabategeke"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "bakomeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenu yabo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "kohenu yabo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "kandi uwatari we mu bakorera"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "weregereye"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azicwa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:14.896105990Z",
+  "model": "glm-5.3"
+}

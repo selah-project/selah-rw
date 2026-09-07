@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "N'izahabu y'ubutaka ubu ⟨ni⟩ nziza; mu hose habonekamo ubedolahi n'ibare rya shohamu.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "n'izahabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'ubutaka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mu hose"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ubedolahi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "n'ibare"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "rya shohamu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:45.428264964Z",
+  "model": "glm-5.3"
+}

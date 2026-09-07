@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze hazukiye umwami mushya ku Mitsrayimu, utazi ⟨את⟩ Yosefu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "hazukiye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mushya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:46.856079522Z",
+  "model": "glm-5.3"
+}

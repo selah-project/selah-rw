@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ inkuta za Yerushalayimu izengurutswe, ingabo zose za Kashudi, izo zi Kumukuru w'abicanyi, zazitse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "inkuta za Yerushalayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "inkuta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayimu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "izengurutswe"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "zazitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "za Kashudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zi Kumukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "w'abicanyi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:35:42.031096675Z",
+  "model": "glm-5.3"
+}

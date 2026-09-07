@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Bityo Yahwe yarasubizaga ku bw'ubutungane bwanjye, ku bw'isuku yanjye imbere y'amaso ye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yarasubizaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku bw'ubutungane bwanjye"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ubutungane bwanjye"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "isuku yanjye"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:24:18.792003711Z",
+  "model": "glm-5.3"
+}

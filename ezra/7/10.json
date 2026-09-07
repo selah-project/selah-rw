@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko Ezira yategereje umutima we kwibaza ⟨את⟩ Tora ya Yahwe, no kuyikorera, no kwigisha mu Yisraeli amabwiriza n'imyanzuro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yategereje"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kwibaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "no kuyikorera"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "no kwigisha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "חק",
+      "gloss": "amabwiriza"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'imyanzuro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:16:38.771222615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze kohenu arareba, maze uko abona: ikirago cyikwirije mu ruhu; kohenu aramweretse ko atarasukuye — tsaraati ni yo ari.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "arareba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze uko abona"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "cyikwirije"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "ikirago"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mu ruhu"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "aramweretse ko atarasukuye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni yo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:29.653665744Z",
+  "model": "glm-5.3"
+}

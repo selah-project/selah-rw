@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze bahamagara kuri Loti, bamubwira bati: Abagabo ari hehe bo baje kuri wowe ijuro? Bazanire kuri twe, dutumenye ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "maze bahamagara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bamubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ari hehe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baje"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ijuro"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "bazanire"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "dutumenye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (abagabo)"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:48.562768557Z",
+  "model": "glm-5.3"
+}

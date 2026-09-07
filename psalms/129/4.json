@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Yahwe ⟨ni⟩ umukuri: yazitse imigozi y'abanyambibi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umukuri"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "yazitse"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "imigozi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abanyambibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:14.801511750Z",
+  "model": "glm-5.3"
+}

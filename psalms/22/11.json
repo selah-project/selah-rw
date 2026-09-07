@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kuri wowe nashyizwe kuva mu nda; Eli wanjye ni wowe kuva mu nda ya nyina.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kuri wowe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "nashyizwe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuva mu nda"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya nyina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:45.406195549Z",
+  "model": "glm-5.3"
+}

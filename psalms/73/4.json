@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Kuko nta mubyimba mu gupfa kwabo, kandi imibiri yabo ⟨ni⟩ myiza kandi ni ingufu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "mubyimba"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "mu gupfa kwabo"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "kandi imibiri yabo"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "myiza kandi ni ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.352986330Z",
+  "model": "glm-5.3"
+}

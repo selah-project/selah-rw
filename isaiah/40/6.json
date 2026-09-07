@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ijwi rivuga riti: Hamagara. Maze aravuga ati: Ndamagara iki? Inyama yose ⟨ni⟩ ibyatsi, n'hesedi yacyo yose nk'indabo ry'umurima.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rivuga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Hamagara"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndamagara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yacyo"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "nk'indabo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ry'umurima"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:27.531663845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Umuvandimwe nta n'umwe ashobora kucungura; umuntu ntabwo ahashira Elohimu igiciro cye cyo kwibohwa.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Umuvandimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta n'umwe"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kucungura"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ashobora kucungura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ahashira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "igiciro cye cyo kwibohwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:56.160051798Z",
+  "model": "glm-5.3"
+}

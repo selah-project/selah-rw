@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Harimo ikintu cyivugwa ati: Reba, iki ni gishya? Kibaye kera byo, mu bihe byari mbere yacu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "harimo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ikintu"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "cyivugwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "gishya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kibaye kera"
+    },
+    {
+      "surface": "היה",
+      "gloss": "cyari"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "mu bihe byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "cyari"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "mbere yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:06.526366165Z",
+  "model": "glm-5.3"
+}

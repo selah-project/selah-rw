@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "ariko niba nta kuko, umuriro ukure kuri Avimeleku ukarye ⟨את⟩ ba Shekemu batware na ⟨את⟩ inzu ya Milo; nanone umuriro ukure kuri ba Shekemu batware no kuri inzu ya Milo, ukarye ⟨את⟩ Avimeleku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ariko niba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta kuko"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ukure"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "kuri Avimeleku"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ukarye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba Shekemu batware"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ba Shekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ukure"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kuri ba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "no kuri inzu"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ukarye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleku"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleku"
+    }
+  ],
+  "timestamp": "2026-09-07T12:00:36.944695684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Kubw'ibi ndahakana ⟨ibyanjye⟩ kandi ndahorera, mu ivu no mu umukara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kubw'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ndahakana ⟨ibyanjye⟩"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "kandi ndahorera"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "no mu umukara"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:27.183462111Z",
+  "model": "glm-5.3"
+}

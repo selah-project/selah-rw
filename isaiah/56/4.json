@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Kuko uko Yahwe yavuze ku bagabo bagabanyijwe: barinda ⟨את⟩ Shabati zanjye, bahitamo icyo ndifuza, bafatanya na Beriti yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "ku bagabo bagabanyijwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "barinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabati zanjye"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabati zanjye"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "bahitamo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndifuza"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "bafatanya"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "na Beriti yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:07.940530801Z",
+  "model": "glm-5.3"
+}

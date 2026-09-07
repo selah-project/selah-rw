@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 46:28",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Wowe, umugaragu wanjye Yaakovu, ntiturage, agira ati Yahwe, kuko ⟨את⟩ nawe njye ndi; kuko nzarangiza byose mu mahanga yose nakwoherereje hose; ariko na ⟨את⟩ wowe sinzarangiza byose; ariko nzaguhanisha umwanzuro, kandi sinzakurekera umwanzi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "turage"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye ndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzarangiza"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu mahanga yose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "(mahanga yose)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nakwoherereje"
+    },
+    {
+      "surface": "הדחתיך",
+      "gloss": "-koherereje"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hose"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "na ⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzarangiza"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "byose"
+    },
+    {
+      "surface": "ויסרתיך",
+      "gloss": "nzaguhanisha"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "umwanzuro"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "nzakurekera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si(nza)-"
+    },
+    {
+      "surface": "אנקך",
+      "gloss": "kurekera umwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:28:09.860367890Z",
+  "model": "glm-5.3"
+}

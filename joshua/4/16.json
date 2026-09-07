@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "joshua 4:16",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Tegeka ⟨את⟩ abakohenu batwara isanduku ry'ubuhamya, maze bazamuke biva mu Yardeni.",
+ "tokens": [
+  {
+   "surface": "צוה",
+   "gloss": "Tegeka"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abahere"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abakohenu"
+  },
+  {
+   "surface": "נשאי",
+   "gloss": "batwara"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "isanduku"
+  },
+  {
+   "surface": "העדות",
+   "gloss": "ry'ubuhamya"
+  },
+  {
+   "surface": "ויעלו",
+   "gloss": "maze bazamuke"
+  },
+  {
+   "surface": "מן",
+   "gloss": "biva mu"
+  },
+  {
+   "surface": "הירדן",
+   "gloss": "Yardeni"
+  }
+ ],
+ "timestamp": "2026-09-07T11:21:58.068164007Z",
+ "model": "glm-5.3"
+}

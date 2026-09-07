@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yeshua yarabyaye ⟨את⟩ Yoyakimu, maze Yoyakimu yarabyaye ⟨את⟩ Eliyashibu, na Eliyashibu ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yarabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "maze Yoyakimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yarabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyashibu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliyashibu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "na Eliyashibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-07T20:26:50.519541938Z",
+  "model": "glm-5.3"
+}

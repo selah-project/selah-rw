@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Ntutinye, kuko ndi ⟨את⟩ na wowe: mu burasirazuba nzazana urubyaro rwawe, no mu burengerazuba nzakusanya wowe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "utinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na wowe",
+      "marks": "na wowe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mu burasirazuba"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nzazana"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubyaro rwawe"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "no mu burengerazuba"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "nzakusanya wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:56.909527289Z",
+  "model": "glm-5.3"
+}

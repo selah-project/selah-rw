@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ese ubwenge ntarahamagara, kandi ubuhanga ntabuha ijwi ryabwo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ntarahamagara"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "kandi ubuhanga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ntabuha"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ijwi ryabwo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:32.773534728Z",
+  "model": "glm-5.3"
+}

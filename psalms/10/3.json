@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mu by'ukuri umwangizi yiyamamaza ku byifuzo bya nefeshi ye, n'undi nyir'ubwiba yisaba umugisha, ariko Yahwe amwegerereza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "yiyamamaza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "byifuzo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bya nefeshi ye"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "n'undi nyir'ubwiba"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yisaba umugisha"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "amwegerereza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:00.288074601Z",
+  "model": "glm-5.3"
+}

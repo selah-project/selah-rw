@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Dawidi ayumvise, aratumaho ⟨את⟩ Yowabu na ⟨את⟩ ingabo zose z'abahinya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayumvise"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "aratumaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingabo zose z'abahinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "z'abahinya"
+    }
+  ],
+  "timestamp": "2026-09-07T20:41:16.798502346Z",
+  "model": "glm-5.3"
+}

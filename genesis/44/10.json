@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 44:10",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 44,
+ "translation": "Aravuze ati: Na ubu nk'ijambo ryanyu ni ko bimeze; uwo yibwemo ⟨את⟩ we azaba umuja wanjye, mwe muzaba abatagira icaha.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuze ati"
+  },
+  {
+   "surface": "גם",
+   "gloss": "na"
+  },
+  {
+   "surface": "עתה",
+   "gloss": "ubu"
+  },
+  {
+   "surface": "כדבריכם",
+   "gloss": "nk'ijambo ryanyu"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ni ko"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "bimeze"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "uwo"
+  },
+  {
+   "surface": "ימצא",
+   "gloss": "yibwemo"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "uwo (w'ibwemo)"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "azaba"
+  },
+  {
+   "surface": "לי",
+   "gloss": "wanjye"
+  },
+  {
+   "surface": "עבד",
+   "gloss": "umuja"
+  },
+  {
+   "surface": "ואתם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "תהיו",
+   "gloss": "muzaba"
+  },
+  {
+   "surface": "נקים",
+   "gloss": "abatagira icaha"
+  }
+ ],
+ "timestamp": "2026-09-07T08:21:15.291799332Z",
+ "model": "glm-5.3"
+}

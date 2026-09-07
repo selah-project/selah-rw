@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kuko umugaragu wawe nasezeranije isezerano aho nari mu Geshuru, mu Aramu, ngira ngo: Niba Yahwe azansubiza rwose i Yerushalayimu, nzakorera ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isezerano"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nasezeranije"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "aho nari"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "mu Geshuru"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "mu Aramu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngira ngo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "azansubiza"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "nzakorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:12:07.338794138Z",
+  "model": "glm-5.3"
+}

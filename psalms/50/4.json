@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Azahamagara ijuru hejuru, n'isi, mu kwahirika abantu be.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Azahamagara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mu kwahirika"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:57.632864805Z",
+  "model": "glm-5.3"
+}

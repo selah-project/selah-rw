@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Mu kurira kwawe, ibihumbi byawe bizakurokora; umuyaga na ⟨את⟩ byose uzatwara, ubusa buzazifata; ariko ushingira muri Yahwe azasigazwa isi, kandi azaza umusozi wera wanjwe.",
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "mu kurira kwawe"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "bizakurokora"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "ibihumbi byawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose (ibihumbi byawe)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "byose"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uzatwara"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "buzazifata"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "ariko ushingira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "azasigazwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "kandi azaza"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "wera wanjwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:53.172358981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe aramubwira ati: Shalomu ⟨ni⟩ iwawe; ntutinye; ntuzapfa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu (we)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "-tinye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "-zapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:52:59.498048835Z",
+  "model": "glm-5.3"
+}

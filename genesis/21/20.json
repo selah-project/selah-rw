@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Elohimu yari ⟨את⟩ umuhungu, maze yakura, atura mu butayu, maze agahinduka umuhigi utera imyambi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuhungu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "yakura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "atura"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agahinduka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yigira"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umuhigi utera imyambi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:52:06.282368480Z",
+  "model": "glm-5.3"
+}

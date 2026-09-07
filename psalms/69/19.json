@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "psalms 69:19",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 69,
+ "translation": "Yegera kuri Nefeshi yanjye, uyikuye; kubera abanzi banjye, unkorere.",
+ "tokens": [
+  {
+   "surface": "קרבה",
+   "gloss": "Yegera"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshi yanjye"
+  },
+  {
+   "surface": "גאלה",
+   "gloss": "uyikuye"
+  },
+  {
+   "surface": "למען",
+   "gloss": "kubera"
+  },
+  {
+   "surface": "איבי",
+   "gloss": "abanzi banjye"
+  },
+  {
+   "surface": "פדני",
+   "gloss": "unkorere"
+  }
+ ],
+ "timestamp": "2026-09-07T18:29:16.247156699Z",
+ "model": "glm-5.3"
+}

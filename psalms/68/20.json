@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "psalms 68:20",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 68,
+ "translation": "Adonayi agirwe icyubahiro, umunsi ku munsi adutwarira umuzigo; Eli ⟨ni⟩ we Murokoki wacu. Selah.",
+ "tokens": [
+  {
+   "surface": "ברוך",
+   "gloss": "agirwe icyubahiro"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "Adonayi"
+  },
+  {
+   "surface": "יום",
+   "gloss": "umunsi"
+  },
+  {
+   "surface": "יום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "יעמס",
+   "gloss": "adutwarira umuzigo"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "האל",
+   "gloss": "Eli"
+  },
+  {
+   "surface": "ישועתנו",
+   "gloss": "Murokoki wacu"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-07T22:41:59.854369851Z",
+ "model": "glm-5.3"
+}

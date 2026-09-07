@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Njye nabwiye, nakije, namenyesheje, kandi nta mana itari iyacu yari muri mwe; mwe muri abahamya banjye, uko Yahwe abivuga, kandi njye ni Eli.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nabwiye"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "nakije"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "namenyesheje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta ... yari"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mana itari iyacu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abahamya banjye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uko ... abivuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kandi njye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:38.970928948Z",
+  "model": "glm-5.3"
+}

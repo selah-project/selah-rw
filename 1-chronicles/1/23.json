@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Ofiri, na ⟨את⟩ Havilah, na ⟨את⟩ Yovavu; abana bose aba ⟨ni⟩ ba Yoktani",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ofiri"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Havilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:39.476750336Z",
+  "model": "glm-5.3"
+}

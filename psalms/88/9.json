@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Warashireye abazi njye, nturi kuri njye; wanshyize mu by'urwibazo iyo; naguriwe, kandi nta uko nzasohoka.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "warashireye"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "abazi njye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nturi kuri njye"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "wanshyize"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iby'urwibazo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "naguriwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "uko nzasohoka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:51.914237897Z",
+  "model": "glm-5.3"
+}

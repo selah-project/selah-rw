@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ibice by'ibhati bibiri byafatanyije bibugire, ku mpera zayo ebyiri, maze bifatanywe.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ibice by'ibhati"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "byafatanyije"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bibugire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "mpera zayo"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "maze bifatanywe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:32.406190166Z",
+  "model": "glm-5.3"
+}

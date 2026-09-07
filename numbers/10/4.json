@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ariko iyo baruvugisha rumwe gusa, abatware, ibanga ry'ibihumbi bya Yisraeli, bazahurira iwawe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "rumwe gusa"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "baruvugisha"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "bazahurira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ibanga ry'"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:33.372676594Z",
+  "model": "glm-5.3"
+}

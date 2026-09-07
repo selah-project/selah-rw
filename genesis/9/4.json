@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ariko umubiri ufite n'ubuzima bwawo — ari wo maraso yawo — ntimuzawurya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ufite n'ubuzima bwawo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "maraso yawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zawurya"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:47.253987844Z",
+  "model": "glm-5.3"
+}

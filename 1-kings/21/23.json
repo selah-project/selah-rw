@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi nanone ku ya Izeveli Yahwe yaravuze ati: imbwa zizarya ⟨את⟩ Izeveli ku urukingo rwa Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kandi nanone"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ku ya Izeveli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizarya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izeveli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izeveli"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ku urukingo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "rwa Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:57:32.312495160Z",
+  "model": "glm-5.3"
+}

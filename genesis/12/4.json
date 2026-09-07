@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze Avramu yagiye uko Yahwe yari yamubwiye; na Loti yagiye hamwe na ⟨את⟩ we. Avramu yari imyaka itanu n'irindwi mu gusohoka ye mu Harani.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hamwe na ⟨את⟩",
+      "marks": "we (Loti yagiye hamwe n'Avramu)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yari imyaka"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "n'irindwi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "mu gusohoka"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "mu Harani"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:02.001749958Z",
+  "model": "glm-5.3"
+}

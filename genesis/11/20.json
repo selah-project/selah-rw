@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Reu yabaho imyaka ibiri na mirongo itatu, hanyuma yabyara ⟨את⟩ Serugu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabaho"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serugu"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:13.398683145Z",
+  "model": "glm-5.3"
+}

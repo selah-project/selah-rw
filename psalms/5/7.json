@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Urazimbura abavuga ibinyoma; umuntu w'amaraso n'uburiganya, Yahwe arabyanka.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "urazimbura"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "abavuga"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "n'uburiganya"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "arabyanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:13.211781278Z",
+  "model": "glm-5.3"
+}

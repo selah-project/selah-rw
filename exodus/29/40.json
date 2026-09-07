@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 29:40",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Kandi igice cya cumi cy'ifarine nziza cyavanzwe n'amavuta yatsiriwe, igice cya kane cy'ihini, n'ikinyobwa — inzoga — igice cya kane cy'ihini, ku ntama imwe.",
+  "tokens": [
+    {
+      "surface": "ועשרן",
+      "gloss": "igice cya cumi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "cy'ifarine nziza"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "cyavanzwe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "yatsiriwe"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "igice cya kane"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "cy'ihini"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "n'ikinyobwa"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "igice cya kane"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "cy'ihini"
+    },
+    {
+      "surface": "יין",
+      "gloss": "inzoga"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ku ntama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:31.471939059Z",
+  "model": "glm-5.3"
+}

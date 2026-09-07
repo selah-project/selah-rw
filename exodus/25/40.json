@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ure, kandi ukore, mu gwigisha kw'ibyuma uko wowe ubona ku gasozi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ure"
+    },
+    {
+      "surface": "ועשׂה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "mu gwigisha kw'ibyuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku gasozi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:20.926830234Z",
+  "model": "glm-5.3"
+}

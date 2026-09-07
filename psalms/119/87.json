@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Hafi baranyiriye ku isi; ariko njye ntaretse ibyagezweho yawe.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Hafi"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "baranyiriye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ariko njye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "-retse"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ibyagezweho yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:01.464681028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "benshi bazahiburika muri ibyo, banagwa, banamenagurika, banagwa mu mwezi, banafatwa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "bazahiburika"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "banagwa"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "banamenagurika"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "banagwa mu mwezi"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "banafatwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:53.426140599Z",
+  "model": "glm-5.3"
+}

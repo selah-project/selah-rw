@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Kandi iki ni ikimenyetso ki uri kuri ⟨את⟩ Yahwe — ko Yahwe azakora ⟨את⟩ iri jambo ryo yavuze.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kandi iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ki uri"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuri ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:07.622599876Z",
+  "model": "glm-5.3"
+}

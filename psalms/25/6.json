@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ibuke imbabazi zawe, Yahwe, n'hesedi zawe; kuko kuva kera ni zo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ibuke"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "imbabazi zawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "n'hesedi zawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuva kera"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni zo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:24.672106174Z",
+  "model": "glm-5.3"
+}

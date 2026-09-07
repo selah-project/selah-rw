@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Akitubu na we yabyaye ⟨את⟩ Tsadoku, maze Tsadoku yabyaye ⟨את⟩ Akimaatsu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Akitubu na we"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoku"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoku"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "maze Tsadoku"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akimaatsu"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akimaatsu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:39.693616065Z",
+  "model": "glm-5.3"
+}

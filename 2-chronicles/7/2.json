@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abaherezi ntibashoboraga kwinjira mu nzu ya Yahwe, koko icyubahiro cya Yahwe cyari cyuzuye ⟨את⟩ inzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboraga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cyari cyuzuye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:37.638172157Z",
+  "model": "glm-5.3"
+}

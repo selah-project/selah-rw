@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umuvandimwe yaravuze ati: «Njyewe ntinkomeza kubigura, ngo ndangize ⟨את⟩ uburage bwanjye; igura wowe ⟨את⟩ uburenganzira bwanjye bwo kugura, kuko ntinkomeza kubigura.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "umuvandimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nkomeza"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "kubigura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ndangize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburage bwanjye"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "uburage bwanjye"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "igura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburenganzira bwanjye bwo kugura"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "uburenganzira bwanjye bwo kugura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nkomeza"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "kubigura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:34.123762375Z",
+  "model": "glm-5.3"
+}

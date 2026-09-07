@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "None ubu, Yisraeli, umva amategeko n'imibanire nguhishurira mu gukora, kugira ngo mubeho, mwinjire mukazunguke igihugu Yahwe, Elohimu w'abakurambere banyu, ariko yabahaye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imibanire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nguhishurira"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "nguhishurira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mu gukora"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "mubeho"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mwinjire"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mukazunguke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "abahaye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:58.269770388Z",
+  "model": "glm-5.3"
+}

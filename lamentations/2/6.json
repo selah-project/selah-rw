@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 2:6",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yarasenyeho agasihe ke nk'ubusitani, yarasenye aho batumirirwaga; Yahwe yashyize mu kwibagirwa mu Tsiyoni isabukuru na Shabati ⟨(umunsi w'ikiruhuko)⟩, maze mu bwibone bwe cy'uburakari yarekanye umwami na kohenu ⟨(umupadiri)⟩.",
+  "tokens": [
+    {
+      "surface": "ויחמס",
+      "gloss": "maze yarasenyeho"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "nk'ubusitani"
+    },
+    {
+      "surface": "שכו",
+      "gloss": "agasihe ke"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "yarasenye"
+    },
+    {
+      "surface": "מועדו",
+      "gloss": "aho batumirirwaga"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "yashyize mu kwibagirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "mu Tsiyoni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "isabukuru"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "na Shabati"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "maze yarekanye"
+    },
+    {
+      "surface": "בזעם",
+      "gloss": "mu bwibone"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bwe cy'uburakari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "na kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:49:45.497075006Z",
+  "model": "glm-5.3"
+}

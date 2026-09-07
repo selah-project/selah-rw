@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze iminsi irindwi yose yuzuye nyuma y'uko Yahwe yakubise ⟨את⟩ uruzi.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'uko"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "yakubise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruzi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "uruzi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:12.087132471Z",
+  "model": "glm-5.3"
+}

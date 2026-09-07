@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 41,
+ "ref": "psalms 78:41",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 78,
+ "translation": "Barongeye bagaruka bananize Eli, kandi Utagatifu wa Yisraeli bamugabanyije.",
+ "tokens": [
+  {
+   "surface": "וישובו",
+   "gloss": "barongeye bagaruka"
+  },
+  {
+   "surface": "וינסו",
+   "gloss": "bananize"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Eli"
+  },
+  {
+   "surface": "וקדוש",
+   "gloss": "kandi Utagatifu"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "wa Yisraeli"
+  },
+  {
+   "surface": "התוו",
+   "gloss": "bamugabanyije"
+  }
+ ],
+ "timestamp": "2026-09-07T18:33:29.285741762Z",
+ "model": "glm-5.3"
+}

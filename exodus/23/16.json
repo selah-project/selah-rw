@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "exodus 23:16",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 23,
+ "translation": "N'umunsi mukuru wo gusarura, ibyavutswe bya mbere by'imirimo yawe ugo urahinga mu murima; n'umunsi mukuru wo kukusanya, mu gusohoka kw'umwaka, iyo ukoreje ⟨את⟩ imirimo yawe kuva mu murima.",
+ "tokens": [
+  {
+   "surface": "וחג",
+   "gloss": "n'umunsi mukuru"
+  },
+  {
+   "surface": "הקציר",
+   "gloss": "wo gusarura"
+  },
+  {
+   "surface": "בכורי",
+   "gloss": "ibyavutswe bya mbere"
+  },
+  {
+   "surface": "מעשיך",
+   "gloss": "by'imirimo yawe"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ugo"
+  },
+  {
+   "surface": "תזרע",
+   "gloss": "urahinga"
+  },
+  {
+   "surface": "בשדה",
+   "gloss": "mu murima"
+  },
+  {
+   "surface": "וחג",
+   "gloss": "n'umunsi mukuru"
+  },
+  {
+   "surface": "האסף",
+   "gloss": "wo kukusanya"
+  },
+  {
+   "surface": "בצאת",
+   "gloss": "mu gusohoka"
+  },
+  {
+   "surface": "השנה",
+   "gloss": "kw'umwaka"
+  },
+  {
+   "surface": "באספך",
+   "gloss": "iyo ukoreje"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "imirimo yawe"
+  },
+  {
+   "surface": "מעשיך",
+   "gloss": "imirimo yawe"
+  },
+  {
+   "surface": "מן",
+   "gloss": "kuva"
+  },
+  {
+   "surface": "השדה",
+   "gloss": "mu murima"
+  }
+ ],
+ "timestamp": "2026-09-07T21:14:40.077141082Z",
+ "model": "glm-5.3"
+}

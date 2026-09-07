@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Maze mu butayu barashakiye ibyifuzo byinshi, baragerageza Eli mu butayu bwera.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "barashakiye"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ibyifuzo byinshi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "baragerageza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mu butayu bwera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:38.676545341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Noachi afite imyaka amajana atanu, maze Noachi abyara ⟨את⟩ Shemu (Semu), ⟨את⟩ Hamu (Hamu) na ⟨את⟩ Yefeti (Yafeti).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "afite"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amajana atanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeti"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:09.052457265Z",
+  "model": "glm-5.3"
+}

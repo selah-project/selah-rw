@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umwami Dawidi yarakuye, yageze mu minsi myinshi; baramwishingikirishije impuzu, ariko nta bushyuhe yagiraga.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yarakuye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yageze"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu minsi myinshi"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "baramwishingikirishije"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "impuzu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "bushyuhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yagiraga kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:28.421655849Z",
+  "model": "glm-5.3"
+}

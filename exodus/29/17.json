@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ intama y'uruhembe uzayigabanya mu byiciro byayo, maze uzasukura iby'imbere byayo n'ibirenge byayo, maze uzashyira ku byiciro byayo no ku mutwe wacyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "intama y'uruhembe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "intama y'uruhembe"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "uzayigabanya"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "mu byiciro byayo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "maze uzasukura"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iby'imbere byayo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "n'ibirenge byayo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "maze uzashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "byiciro byayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwe wacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:09:38.872750240Z",
+  "model": "glm-5.3"
+}

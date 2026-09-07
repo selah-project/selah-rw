@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Dore, ko uko niko umugabo utinya Yahwe arahabirwa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko niko"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "arahabirwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "utinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.016454502Z",
+  "model": "glm-5.3"
+}

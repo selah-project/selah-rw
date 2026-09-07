@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Kandi ntibazongera gutambira ⟨את⟩ ibitambo byabo iby'ingore z'umwuma, izo bakurikira bagakeragiza; itegeko ridahera rino rizabaho kuri bo mu muryango wabo wose.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi ntibazongera"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "gutambira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zongera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitambo byabo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "ibitambo byabo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "iby'ingore z'umwuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "bakurikira bagakeragiza"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kuri zo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ridahera"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "rizabaho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "rino"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mu muryango wabo wose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:31.276160507Z",
+  "model": "glm-5.3"
+}

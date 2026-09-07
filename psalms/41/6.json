@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 41:6",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 41,
+ "translation": "Abanzi banjye bavuga ibyaha ⟨ku⟩ njye, bati: Ryari azapfa, maze izina rye ribe",
+ "tokens": [
+  {
+   "surface": "אויבי",
+   "gloss": "Abanzi banjye"
+  },
+  {
+   "surface": "יאמרו",
+   "gloss": "bavuga"
+  },
+  {
+   "surface": "רע",
+   "gloss": "ibyaha"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ku njye"
+  },
+  {
+   "surface": "מתי",
+   "gloss": "ryari"
+  },
+  {
+   "surface": "ימות",
+   "gloss": "azapfa"
+  },
+  {
+   "surface": "ואבד",
+   "gloss": "maze ... rirabe"
+  },
+  {
+   "surface": "שמו",
+   "gloss": "izina rye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:19:41.597618916Z",
+ "model": "glm-5.3"
+}

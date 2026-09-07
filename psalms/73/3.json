@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Kuko nari nkwiye indari mu b'ubwenge bwananizwe, iyo nabonaga amahoro y'abakoretse ihwange.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "nari nkwiye indari"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "mu b'ubwenge bwananizwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakoretse ihwange"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "iyo nabonaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.351868708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Mwe rero muzi ko nakoze ⟨את⟩ umurimo wa so wanyu ku ngufu zanjye zose.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mwe rero"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "muzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku ... zose"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ngufu zanjye"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "nakoze umurimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so wanyu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "so wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:28.514068101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Uko amagambo yawe yoroshye mu rwenge rwanjye — kurusha ubuki mu kanwa yanjye!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Uko ... !"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "yoroshye"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mu rwenge rwanjye"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "amagambo yawe"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ubuki"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mu kanwa yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:34.737877033Z",
+  "model": "glm-5.3"
+}

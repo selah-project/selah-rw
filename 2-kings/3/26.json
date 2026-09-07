@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umwami w'i Mowabu yarabonye ko intambara yamushwanye bikomeye, maze yafashe ⟨את⟩ hamwe na we abagabo amajana arindwi bakurura inkundi, ngo bahenze k'umwami w'i Edomu, ariko ntibashoboye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yamushwanye bikomeye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hamwe na we",
+      "marks": "abagabo amajana arindwi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "bakurura"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkundi"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "ngo bahenze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:31:42.384675883Z",
+  "model": "glm-5.3"
+}

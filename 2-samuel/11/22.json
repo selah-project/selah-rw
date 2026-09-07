@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nuko umutumwa agenda, aza, abwira Dawidi ⟨את⟩ ibyo byose Yoavu yamutumye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agenda"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yamutumye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:22.943128552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ijuru n'isi byarangiye, hamwe n'ingabo zabyo byose.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "byarangiye"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamwe na byose"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ingabo zabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:33.380991156Z",
+  "model": "glm-5.3"
+}

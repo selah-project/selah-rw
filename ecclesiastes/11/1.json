@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Shyira umugati wawe ku buso bw'amazi, kuko mu minsi myinshi uzabushaka.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Shyira"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "umugati wawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "buso"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu bwinshi bw'"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "uzabushaka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:55.722824625Z",
+  "model": "glm-5.3"
+}

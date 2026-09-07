@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ku manyuzura, ku Shoshanimu ⟨ibishishwa⟩, indirimbo ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku manyuzura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanimu ⟨ibishishwa⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "indirimbo ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:23.882959693Z",
+  "model": "glm-5.3"
+}

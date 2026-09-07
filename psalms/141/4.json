@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Ntugire umutima wanjye ugana ku kintu cyabi, ngo nkore ibikorwa mu bubi hamwe na ⟨את⟩ abantu bakora ubuhemu; kandi ntindiye mu binyamuneza byabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תט",
+      "gloss": "-gire ... ugana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku kintu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cyabi"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ngo nkore"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "mu bubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ndidiye"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "mu binyamuneza byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:27.703442855Z",
+  "model": "glm-5.3"
+}

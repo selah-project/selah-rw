@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Arakoherereza ⟨את⟩ benewabo barakurikira; arababwira ati: Ntimugongane mu nzira.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "arakoherereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benewabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "benewabo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "barakurikira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "gongane"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:03.560834106Z",
+  "model": "glm-5.3"
+}

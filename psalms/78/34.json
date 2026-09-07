@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Iyo yabishe, bamushakaga, maze bagaruka bakishaka Eli.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "yabishe"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "bamushakaga"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "bagaruka"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "bakishaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:26.129396313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 125,
+  "translation": "Yerushalayimu: imisozi izenguruka ingingo zayo, na Yahwe azenguruka abantu be, kuva ubu kugeza mu iteka.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "izenguruka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ingingo zayo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "azenguruka"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuva ubu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mu iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.817732908Z",
+  "model": "glm-5.3"
+}

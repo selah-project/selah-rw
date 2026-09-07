@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Dore iminsi izaza, ni ukuvuga kwa Yahwe: nza guhagurutsa ⟨את⟩ ijambo ryiza nari navuze mu rubyaro rwa Yisraeli no ku rugo rwa Yehuda.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "izaza"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ni ukuvuga kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "nza guhagurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo ryiza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ryiza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nari navuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo rwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo rwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T16:14:16.851255180Z",
+  "model": "glm-5.3"
+}

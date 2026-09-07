@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ibiti bya olivi bizaba ibyawe mu mipaka yawe yose, ariko amavuta ya olivi ntiwazisiga, kuko olivi zawe azayihunza.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "ibiti bya olivi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ibyawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "imipaka yawe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "amavuta ya olivi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "wazisiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "azayihunza"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "olivi zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:13:50.542565693Z",
+  "model": "glm-5.3"
+}

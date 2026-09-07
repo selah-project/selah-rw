@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Igihe Mishikani igenda, Abalevi bayishyira hasi ⟨את⟩; mu gutura kwa Mishikani, Abalevi bayizamura ⟨את⟩; kandi uwatari mu bo, iyo ageze yegera, arazicwa.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "Igihe...igenda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "bayishyira hasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mu gutura"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "bayizamura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "uwatari mu bo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iyo ageze yegera"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "arazicwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:53.825507635Z",
+  "model": "glm-5.3"
+}

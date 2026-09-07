@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Moshe arababwira ati: Umuntu nta cyo yasigaza muri byo ⟨kugeza⟩ mu gitondo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "yasigaza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:55.622839078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mu gice cy'umuryango wa Binyamini ⟨את⟩ Geba n'ibyaro byayo, na ⟨את⟩ Alemeti n'ibyaro byayo, na ⟨את⟩ Anatiyoti n'ibyaro byayo; imijyi yabo yose — cumi n'itatatu — mu mishinga yabo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Mu gice cy'umuryango wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro bya Geba"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Alemeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro bya Alemeti"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Anatiyoti"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatiyoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro bya Anatiyoti"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "imijyi yabo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "n'itatatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "mu mishinga yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:12.044536111Z",
+  "model": "glm-5.3"
+}

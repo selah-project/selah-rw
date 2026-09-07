@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 93,
+  "translation": "Kurusha uburyo bwinshi bw'amazi manini, amashuhi y'inyanja — Yahwe ari hejuru ni ukomeye.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "kurusha uburyo bwinshi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "manini"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "manini (y'inyanja)"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "amashuhi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ukomeye"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:43.969288815Z",
+  "model": "glm-5.3"
+}

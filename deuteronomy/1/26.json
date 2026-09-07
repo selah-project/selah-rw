@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ariko ntimwashishoje kuza, mwagomeye ⟨את⟩ iwanwa rya Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ariko nta"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "mwashishoje"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "kuza"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "mwagomeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwanwa rya Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iwanwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:47:08.781940381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Ikibi ky'abashe be bikurwe ibyibutswe kwa Yahwe, kandi icyaha cya nyina ntigasibwa.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "bikurwe ibyibutswe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ky'abashe be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kandi icyaha cya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "gasibwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:50.979754920Z",
+  "model": "glm-5.3"
+}

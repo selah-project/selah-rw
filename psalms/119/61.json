@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Imigozi y'abanyabyaha irazingiye; Tora yawe sinyibagiwe.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "imigozi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "y'abanyabyaha"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "irazingiye"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sin-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "-yibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:56.515541732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Isura yabo yirabuje kurusha umukara; mu mihanda ntibamenyekanye; uruhu rwabo rwagattiye ku gufwa ryabo; ryumye, ryabaye nka igiti.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "yirabuje"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "kurusha umukara"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "isura yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "bamenyekanye"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "mu mihanda"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "rwagattiye"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "uruhu rwabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "gufwa ryabo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ryumye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ryabaye"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "nka igiti"
+    }
+  ],
+  "timestamp": "2026-09-07T19:49:38.525825300Z",
+  "model": "glm-5.3"
+}

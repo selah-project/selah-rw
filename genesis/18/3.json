@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Aravuga ati: Adonayi, iyo nsanze ineza mu maso yawe, ntujye unareka umukozi wawe, ndakusaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ndasaba⟩"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nsanze"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ineza"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakusaba"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ujye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ureka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umukozi wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:47:38.698136361Z",
+  "model": "glm-5.3"
+}

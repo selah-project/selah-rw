@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "genesis 27:22",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 27,
+ "translation": "Yaakovu (Yakobo) yegereje kwa Yitsaki se wawe, maze amukoraho intoki, aravuze ati: Ijwi ⟨ni⟩ irya rya Yaakovu, ariko intoki ⟨ni⟩ izo za Esavu.",
+ "tokens": [
+  {
+   "surface": "ויגש",
+   "gloss": "yegereje"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovu (Yakobo)"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kwa"
+  },
+  {
+   "surface": "יצחק",
+   "gloss": "Yitsaki"
+  },
+  {
+   "surface": "אביו",
+   "gloss": "se wawe"
+  },
+  {
+   "surface": "וימשהו",
+   "gloss": "amukoraho intoki"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuze ati"
+  },
+  {
+   "surface": "הקל",
+   "gloss": "ijwi"
+  },
+  {
+   "surface": "קול",
+   "gloss": "irya rya"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovu"
+  },
+  {
+   "surface": "והידים",
+   "gloss": "ariko intoki"
+  },
+  {
+   "surface": "ידי",
+   "gloss": "izo za"
+  },
+  {
+   "surface": "עשו",
+   "gloss": "Esavu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:00:00.915389552Z",
+ "model": "glm-5.3"
+}

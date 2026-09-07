@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yabwiye iwanjuye ati: U mwana w'umuntu, hagagara ku maguru yawe, maze ndavuga ⟨את⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yabwiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjuye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "hagagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maguru yawe"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "maze ndavuga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe (אֵת 'na', atari ikimenyetso)"
+    }
+  ],
+  "timestamp": "2026-09-07T16:41:10.589404536Z",
+  "model": "glm-5.3"
+}

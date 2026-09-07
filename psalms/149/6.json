@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Ibyisingizo byo hejuru bya Eli mu mihogo yabo, n'umupanga ufite impunu ebyiri mu ntoki zabo;",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ibyisingizo byo hejuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "mu mihogo yabo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "n'umupanga"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ufite impunu ebyiri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mu ntoki zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.841562631Z",
+  "model": "glm-5.3"
+}

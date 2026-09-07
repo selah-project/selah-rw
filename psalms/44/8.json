@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Kuko waradurokoye abakandamiza bacu, maze warabashyije mu isoni abatankunda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "waradurokoye"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "abakandamiza bacu"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "abatankunda"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "warabashyije mu isoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.393663188Z",
+  "model": "glm-5.3"
+}

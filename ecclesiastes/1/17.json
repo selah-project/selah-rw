@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nagize umutima wanjye ngo umenye ubwenge, no kumenya ubujurire n'ubupfupfu; namenye ko n'ibi ari ⟨ni⟩ kurondera umuyaga.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nagize"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngo umenye"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "no kumenya"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ubujurire"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "n'ubupfupfu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "namenye"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ko nabi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "kurondera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T22:02:40.415374964Z",
+  "model": "glm-5.3"
+}

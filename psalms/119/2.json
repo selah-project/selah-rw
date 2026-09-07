@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ihireme ababunga ibyemezo bye, mu mutima wose bamushakashakira.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ihireme"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ababunga"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ibyemezo bye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... wose"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mutima"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "bamushakashakira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:09.678312691Z",
+  "model": "glm-5.3"
+}

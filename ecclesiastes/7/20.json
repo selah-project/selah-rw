@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko nta munyabutabera ari ku isi uwo yakora ibyiza kandi atakoza icyaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "munyabutabera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "gukoza icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:16.043342965Z",
+  "model": "glm-5.3"
+}

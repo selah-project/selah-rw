@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kubera iki amahanga yararwanitse, abantu bicishije mu mvugo ubusa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "yararwanitse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "bicishije mu mvugo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:38.841227850Z",
+  "model": "glm-5.3"
+}

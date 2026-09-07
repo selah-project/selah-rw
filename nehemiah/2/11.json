@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nanjije i Yerushalayimu, maze nari aho iminsi itatu.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Nanjije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:06:02.036235031Z",
+  "model": "glm-5.3"
+}

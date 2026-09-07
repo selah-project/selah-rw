@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze Moshe yabwiye ku bana ba Yisraeli ⟨את⟩ ibihe byagenwe bya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Maze...yabwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibihe byagenwe bya Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ibihe byagenwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:41.134851579Z",
+  "model": "glm-5.3"
+}

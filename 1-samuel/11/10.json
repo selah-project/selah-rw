@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-samuel 11:10",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 11,
+ "translation": "Maze abagabo ba Yaveshu baravuga bati: Ejo tuzasohoka tujye iwanyu, kandi muzadukore ibyiza cyose mu maso yanyu.",
+ "tokens": [
+  {
+   "surface": "ויאמרו",
+   "gloss": "baravuga"
+  },
+  {
+   "surface": "אנשי",
+   "gloss": "abagabo"
+  },
+  {
+   "surface": "יביש",
+   "gloss": "Yaveshu"
+  },
+  {
+   "surface": "מחר",
+   "gloss": "ejo"
+  },
+  {
+   "surface": "נצא",
+   "gloss": "tuzasohoka"
+  },
+  {
+   "surface": "אליכם",
+   "gloss": "tujye iwanyu"
+  },
+  {
+   "surface": "ועשיתם",
+   "gloss": "muzadukore"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "cyose"
+  },
+  {
+   "surface": "הטוב",
+   "gloss": "ibyiza"
+  },
+  {
+   "surface": "בעיניכם",
+   "gloss": "mu maso yanyu"
+  }
+ ],
+ "timestamp": "2026-09-07T12:28:55.534947077Z",
+ "model": "glm-5.3"
+}

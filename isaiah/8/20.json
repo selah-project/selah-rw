@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "⟨Bakore⟩ ku Tora no ku ibhamya! Niba batavuze nk'iri jambo, ryo dafite tondo.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "ku Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "no ku ibhamya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "batavuze"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nk'ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ridafite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tondo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:44:33.061004178Z",
+  "model": "glm-5.3"
+}

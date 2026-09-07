@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yehoshuwa yakoze iminsi myinshi intambara ⟨את⟩ abami aba bose.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "myinshi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abami aba bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T11:34:54.295300626Z",
+  "model": "glm-5.3"
+}

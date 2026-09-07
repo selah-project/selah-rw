@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Niba twibagiwe izina rya Elohimu wacu, tukanagurira amaboko yacu eli z'ubwanza,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "twibagiwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "tukanagurira"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "amaboko yacu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "זר",
+      "gloss": "z'ubwanza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:24.856693010Z",
+  "model": "glm-5.3"
+}

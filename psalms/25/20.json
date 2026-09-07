@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ikingire nefeshi yanjye unrokore, ntagire ngo ncecemberwe, kuko narahungiye muri wowe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ikingire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "unrokore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntagire ngo"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ncecemberwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "narahungiye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:54.696422485Z",
+  "model": "glm-5.3"
+}

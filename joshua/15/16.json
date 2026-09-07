@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kalebu aravuze ati: We wakubita ⟨את⟩ Kiryat-Seferi akanayifata, nzamuha ⟨את⟩ Aksaha umukobwa wanjye ngo abe umugore.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "wakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Seferi"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferi"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "akanayifata"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nzamuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksaha"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksaha"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "umukobwa wanjye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngo abe umugore"
+    }
+  ],
+  "timestamp": "2026-09-07T11:38:24.396234658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Habaye ku mpera y'imyaka makumyabiri aho Shelomo yubatse ⟨את⟩ inzu ya Yahwe na ⟨את⟩ inzu ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:27.300377964Z",
+  "model": "glm-5.3"
+}

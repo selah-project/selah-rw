@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Elohimu wacu azaza, kandi ntacyo azihisha; umurirouzariya imbere ye, kandi inzira y'umuyaga ikaze cyane ku mpande ze.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "cyo azihisha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzariya"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ku mpande ze"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ikaze"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:57.631661201Z",
+  "model": "glm-5.3"
+}

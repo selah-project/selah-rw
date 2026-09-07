@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Hashyizwe ubujiji ku ndunduro nyinshi, kandi abakire bacicara mu byansi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "hashyizwe"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ubujiji"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ku ndunduro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyinshi"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "kandi abakire"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "mu byansi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bacicara"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:22.128242109Z",
+  "model": "glm-5.3"
+}

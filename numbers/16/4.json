@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Moshe aryumvise, aragwa ivumu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "aryumvise"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "aragwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ivumu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:20:16.080234375Z",
+  "model": "glm-5.3"
+}

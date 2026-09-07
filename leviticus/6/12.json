@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yarabwiye Moshe ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:10.572736646Z",
+  "model": "glm-5.3"
+}

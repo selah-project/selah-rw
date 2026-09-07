@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kotsi yabyaye ⟨את⟩ Anubu na ⟨את⟩ Tsovevaha, ndetse n'imiryango ya Aharaheri (Aharaheli), umuhungu wa Harumu.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kotsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubu"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsovevaha"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsovevaha"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "n'imiryango ya"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharaheri (Aharaheli)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu wa"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:15.864141579Z",
+  "model": "glm-5.3"
+}

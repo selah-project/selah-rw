@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ehudi nawe yatonze igihe barindagira, maze arenga ⟨את⟩ ibishusho, aratonza agera i Seirata.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "Ehudi nawe"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "yatonze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "barindagira"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maze"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "arenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibishusho"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "ibishusho"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "aratonza"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "i Seirata"
+    }
+  ],
+  "timestamp": "2026-09-07T11:51:05.222585153Z",
+  "model": "glm-5.3"
+}

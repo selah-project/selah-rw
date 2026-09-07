@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Babonye ⟨את⟩ we kure, mbere y'uko yigera iyo bari, bateye umugambi ⟨את⟩ we bwo kumwica.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yigera"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iyo bari"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "bateye umugambi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kumwica"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:58.595726293Z",
+  "model": "glm-5.3"
+}

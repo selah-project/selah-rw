@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 28:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Indabo ipfuze y'icubahiro ubwiza bwe iri ku mutwe w'ikibaya cy'amavuta izaba nk'ifene rya mbere mbere y'isarura: iyo umuntu abona areba ⟨את⟩ iyo, ikiri mu ntoki aze ayite.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "indabo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ipfuze"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "y'icubahiro"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "ubwiza bwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "w'ikibaya"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "cy'amavuta"
+    },
+    {
+      "surface": "כבכורה",
+      "gloss": "nk'ifene rya mbere"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere y'"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "isarura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "umuntu abona"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "areba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (indabo ipfuze)"
+    },
+    {
+      "surface": "בעודה",
+      "gloss": "ikiri"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "יבלענה",
+      "gloss": "aze ayite"
+    }
+  ],
+  "timestamp": "2026-09-07T15:02:55.836063886Z",
+  "model": "glm-5.3"
+}

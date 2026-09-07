@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Mu gihe icyo, Yehudha yamanutse ⟨את⟩ abandi ⟨abavandimwe be⟩, maze agera k'umuntu w'umu-Adulami, izina rye ni Hira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mu gihe icyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ abandi",
+      "marks": "abavandimwe be"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "agera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k'u-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "w'umu-Adulami"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:16:25.966883081Z",
+  "model": "glm-5.3"
+}

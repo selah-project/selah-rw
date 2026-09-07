@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "mwene Amarayah, mwene Azaryah, mwene Merayotu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayotu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:18.102937166Z",
+  "model": "glm-5.3"
+}

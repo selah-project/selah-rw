@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kandi umuntu, ⟨את⟩ ibyera bye ni ibye; ibi umuntu aha kohenu, ni ibye.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kandi umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyera bye"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ibyera bye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ni ibye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni ibye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:03:28.401843961Z",
+  "model": "glm-5.3"
+}

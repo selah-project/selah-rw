@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yakuyemo ⟨את⟩ ibitheguro by'amahanga n'ahantu hasenga, yanaguyese ⟨את⟩ ibibumbye, maze atema ⟨את⟩ ibiti bya Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yakuyemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitheguro by'amahanga"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ibitheguro"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "by'amahanga"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "n'ahantu hasenga"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "yanaguyese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibumbye"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ibibumbye"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "atema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiti bya Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ibiti bya Ashera"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:24.310411554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Abo bavuze bati: Durebe ku bwacu ⟨את⟩ injishi z'Elohimu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bavuze"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "durebe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ku bwacu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "injishi z'Elohimu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "injishi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:33.498581460Z",
+  "model": "glm-5.3"
+}

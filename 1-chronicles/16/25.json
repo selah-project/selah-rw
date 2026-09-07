@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ko Yahwe ⟨ni⟩ umukuru, kandi acyubahwa cyane, kandi ni we utera ubwoba ku mana zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kandi acyubahwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kandi atera ubwoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:02.089796577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "N'abahungu ba Levi basigaye: bahungu b'Amuramu — Shevueli; bahungu ba Shevueli — Yehdiyahu.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "N'abahungu ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "basigaye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bahungu b'"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amuramu"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shevueli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bahungu ba"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shevueli"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Yehdiyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:16.880199191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mahalaleli na yaravutse imyaka itanu n'iringaniri mirongo itandatu, maze yabyara ⟨את⟩ Yeredi (Yaredi).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "na yaravutse"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleli"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "n'iringaniri mirongo itandatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeredi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:35.990520104Z",
+  "model": "glm-5.3"
+}

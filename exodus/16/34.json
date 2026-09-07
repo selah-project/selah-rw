@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 34,
+ "ref": "exodus 16:34",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 16,
+ "translation": "Nka ko Yahwe yategetse Moshe, ni ko Aharoni yashyize imbere y'Icyemezo, kugira ngo ibikwe.",
+ "tokens": [
+  {
+   "surface": "כאשר",
+   "gloss": "nka ko"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yategetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ויניחהו",
+   "gloss": "ni ko yashyize"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharoni"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere"
+  },
+  {
+   "surface": "העדת",
+   "gloss": "y'Icyemezo"
+  },
+  {
+   "surface": "למשמרת",
+   "gloss": "kugira ngo ibikwe"
+  }
+ ],
+ "timestamp": "2026-09-07T21:13:46.335523910Z",
+ "model": "glm-5.3"
+}

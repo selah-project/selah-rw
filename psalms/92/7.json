@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Umuntu w'inyamanswa ntabizi, n'umujura ntabyumva ⟨את⟩ ibi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "w'inyamanswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bizi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "n'umujura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "byumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:21.124478743Z",
+  "model": "glm-5.3"
+}

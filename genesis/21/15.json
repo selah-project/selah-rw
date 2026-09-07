@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Amazi meze mu rwundo arashira, nuko asiga ⟨את⟩ umwana munsi y'igiti kimwe mu bito.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "arashira"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "meze mu"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "urwundo"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "asiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "mu bito"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:00.998733664Z",
+  "model": "glm-5.3"
+}

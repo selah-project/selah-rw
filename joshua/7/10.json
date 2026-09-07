@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe yarabwiye Yehoshuwa ati: Haguruka; ni iki cyatumye waguma ugwa hasi ku muhuza wawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye… ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Haguruka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ewe⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ni iki cyatumye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨uyu murimo⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ugwa hasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mwoya wawe (idozi rya Kinyarwanda: ku muhuza wawe)"
+    }
+  ],
+  "timestamp": "2026-09-07T11:28:05.478451499Z",
+  "model": "glm-5.3"
+}

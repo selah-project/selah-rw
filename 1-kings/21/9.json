@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Nuko yanditse mu mabaruwa ati: Batangirize inzara, maze bashyire ⟨את⟩ Naboti ku mutwe w'abaturage.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Nuko yanditse"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "mu mabaruwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "batangirize"
+    },
+    {
+      "surface": "צום",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "maze bashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naboti"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ku mutwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "w'abaturage"
+    }
+  ],
+  "timestamp": "2026-09-07T13:57:24.234331971Z",
+  "model": "glm-5.3"
+}

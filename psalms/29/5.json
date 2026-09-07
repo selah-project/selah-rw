@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Ijwi rya Yahwe rusegura imivumu; maze Yahwe aseigura ⟨את⟩ imivumu ya Lebanonu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "rusegura"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "imivumu"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "maze aseigura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imivumu ya Lebanonu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "imivumu"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya Lebanonu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:35.088832791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Zamuka, kuko urubanza ruri ku wowe, natwe turi kumwe nawe; wigomeke ukore.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "zamuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "turi kumwe nawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wigomeke"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ukore"
+    }
+  ],
+  "timestamp": "2026-09-07T20:19:17.996696197Z",
+  "model": "glm-5.3"
+}

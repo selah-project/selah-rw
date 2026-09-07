@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Uwohereza umwuka wawe, bakaremwa; ugavugurura ubunyurwa bw'isi.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "uwohereza"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "umwuka wawe"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "bakaremwa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ugavugurura"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubunyurwa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "bw'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:56.650394607Z",
+  "model": "glm-5.3"
+}

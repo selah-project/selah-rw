@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yowabu yohereje intumwa kwa Dawidi, aramubwira ati: Narwananye na Rabahu, kandi nakuyemo ⟨את⟩ umujyi w'amazi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "narwananye"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "na Rabahu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "nakuyemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi w'amazi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "w'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:40:41.535582809Z",
+  "model": "glm-5.3"
+}

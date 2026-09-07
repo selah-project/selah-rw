@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 20:6",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Tuzaruramba mu kurokoka kwawe, kandi ku izina rya Elohimu wacu tuzamesha ⟨ibendera⟩; Yahwe azuzuze ibyifuzo byawe byose.",
+ "tokens": [
+  {
+   "surface": "נרננה",
+   "gloss": "tuzaruramba"
+  },
+  {
+   "surface": "בישועתך",
+   "gloss": "mu kurokoka kwawe"
+  },
+  {
+   "surface": "ובשם",
+   "gloss": "ku izina"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimu wacu"
+  },
+  {
+   "surface": "נדגל",
+   "gloss": "tuzamesha ibendera"
+  },
+  {
+   "surface": "ימלא",
+   "gloss": "azuzuze"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "כל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "משאלותיך",
+   "gloss": "ibyifuzo byawe"
+  }
+ ],
+ "timestamp": "2026-09-07T18:11:41.376022709Z",
+ "model": "glm-5.3"
+}

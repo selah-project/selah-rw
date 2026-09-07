@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "cyangwa umuntu ufite ikirenge cyamenetse, cyangwa ukuboko kwamenetse.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu mubiri we"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "cyamenetse"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ikirenge"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kwamenetse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ukuboko"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:09.830726688Z",
+  "model": "glm-5.3"
+}

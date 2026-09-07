@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "None uko muzarye ⟨את⟩ ko: imitsoro yanyu mwifungiye, inkweto zanyu ku birenge byanyu, n'inkoni yanyu mu nkiganza yanyu; muzarye ⟨את⟩ ko mu bwihuto: Pesah ⟨ni⟩ rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "none uko"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzarye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ko (Pesah)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "imitsoro yanyu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "mwifungiye"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "inkweto zanyu"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ku birenge byanyu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "n'inkoni yanyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mu nkiganza yanyu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "muzarye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ko (Pesah)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "mu bwihuto"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:11.186618220Z",
+  "model": "glm-5.3"
+}

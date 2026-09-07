@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yahwe yahumbye ⟨את⟩ umutima wa Paro, umwami wa Mitsrayimu, maze arakurikira inyuma y'abahungu ba Yisraeli; n'abahungu ba Yisraeli basohoka k'intoki ijyejuru.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yahumbye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "arakurikira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "n'abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "k'intoki"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ijyejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:29.690029856Z",
+  "model": "glm-5.3"
+}

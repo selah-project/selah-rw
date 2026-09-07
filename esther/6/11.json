@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Hamanu nafata ⟨את⟩ icyamba na ⟨את⟩ ifarashi, maze ambara ⟨את⟩ Mordekay, amushyira ku farashi mu muhanda w'umujyi, maze anogira imbere yewe ati: Nuko ni ko bikorwa umuntu umwami yishimiye kumwubaha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nafata"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyamba"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "icyamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ifarashi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ifarashi"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ambara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "amushyira ku farashi"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "mu muhanda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "w'umujyi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "anogira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere yewe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Nuko ni ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bikorwa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yishimiye"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kumwubaha"
+    }
+  ],
+  "timestamp": "2026-09-07T20:01:36.732595170Z",
+  "model": "glm-5.3"
+}

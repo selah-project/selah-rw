@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Mu isi muhimbe ⟨את⟩ Yahwe, inyamanswa nini z'ibiyaga n'ibyugari byose.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "muhimbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "inyamanswa nini z'ibiyaga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ibyugari byose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:51.697175585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "deuteronomy 5:2",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Yahwe, Elohimu wacu, yagiranye na tese amasezerano beriti muri Horebu.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimu wacu"
+  },
+  {
+   "surface": "כרת",
+   "gloss": "yagiranye"
+  },
+  {
+   "surface": "עמנו",
+   "gloss": "na tese"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "amasezerano"
+  },
+  {
+   "surface": "בחרב",
+   "gloss": "muri Horebu"
+  }
+ ],
+ "timestamp": "2026-09-07T10:50:08.282650769Z",
+ "model": "glm-5.3"
+}

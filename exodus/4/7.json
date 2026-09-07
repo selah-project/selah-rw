@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yaravuze ati: Subiza ukuboko kwawe mu gitu cyawe. Nuko yasubije ukuboko kwe mu gitu cye, maze akitura aka mu gitu cye, none ukuboko kwe kwasubutse nk'urubare rwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "השב",
+      "gloss": "subiza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "igitu cyawe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yasubije"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "igitu cye"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "akitura"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "aka mu gitu cye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "none"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "kwasubutse"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "nk'urubare rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:58.518442671Z",
+  "model": "glm-5.3"
+}

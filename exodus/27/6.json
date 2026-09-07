@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Uzakore ibimbaro by'igicaniro, ibimbaro by'ibiti bya shitimu ⟨ibiti bifite inyishu⟩, maze uzise ⟨את⟩ ibyo n'umuringa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakore"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ibimbaro"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "by'igicaniro"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ibimbaro"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "by'ibiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bya shitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "maze uzise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (ibimbaro)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n'umuringa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:03:58.350876142Z",
+  "model": "glm-5.3"
+}

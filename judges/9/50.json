@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Avimeleke yaragenda ajya i Tevetse, arashinga mu kaya i Tevetse, maze arayifata.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yaragenda"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya i"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetse"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "arashinga mu kaya"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "i Tevetse"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "arayifata"
+    }
+  ],
+  "timestamp": "2026-09-07T11:59:30.788736109Z",
+  "model": "glm-5.3"
+}

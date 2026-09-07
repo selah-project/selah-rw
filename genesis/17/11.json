@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Mwahemurwe ⟨את⟩ uruhemure rw'umubiri wanyu, maze ruhaba ikimenyetso cya Beriti hagati yanjye na mwe.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Mwahemurwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhemure rw'umubiri wanyu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "uruhemure rwanyu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ruhaba"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "cya Beriti"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "na mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:46:08.165498898Z",
+  "model": "glm-5.3"
+}

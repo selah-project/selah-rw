@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "judges 7:10",
+ "book": "judges",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Kandi iyo utinya kumanuka, manuka wowe na Purahi, umusore wawe, mu mbuga.",
+ "tokens": [
+  {
+   "surface": "ואם",
+   "gloss": "Kandi iyo"
+  },
+  {
+   "surface": "ירא",
+   "gloss": "utinya"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "לרדת",
+   "gloss": "kumanuka"
+  },
+  {
+   "surface": "רד",
+   "gloss": "manuka"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "ופרה",
+   "gloss": "na Purahi"
+  },
+  {
+   "surface": "נערך",
+   "gloss": "umusore wawe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "המחנה",
+   "gloss": "mbuga"
+  }
+ ],
+ "timestamp": "2026-09-07T11:54:34.398310448Z",
+ "model": "glm-5.3"
+}

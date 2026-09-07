@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Uko niba urumva numva ijwi rye, ukora amoko y'ibyo nzavuga, nza⟨ni⟩ umwanzi ⟨את⟩ abanzi banyu, nzabarwanira ⟨את⟩ abarwananyi banyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "urumva"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "numva"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amoko y'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nzavuga"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "nza⟨ni⟩ umwanzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanzi banyu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi banyu"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "nzabarwanira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abarwananyi banyu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "abarwananyi banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:03.170736124Z",
+  "model": "glm-5.3"
+}

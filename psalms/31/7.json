@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ndanenga abakurikira ubusa bw'ububeshi, ariko njye nizeye kuri Yahwe.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndanenga"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "abakurikira"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bw'ububeshi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ko njye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:27.807954991Z",
+  "model": "glm-5.3"
+}

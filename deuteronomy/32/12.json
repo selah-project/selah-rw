@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Yahwe wenyine ni we wamuyoboye, kandi nta Eli y'inyamahanga wari kumwe na we.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ni we wamuyoboye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wari kumwe na we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "y'inyamahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:08.072707137Z",
+  "model": "glm-5.3"
+}

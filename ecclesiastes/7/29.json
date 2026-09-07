@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Reba, ibi gusa nabonye: ko Elohimu yakoze ⟨את⟩ umuntu idahwitse, ariko bo barashakishe ingamba nyinshi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "idahwitse"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barashakishe"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "ingamba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:33.105611107Z",
+  "model": "glm-5.3"
+}

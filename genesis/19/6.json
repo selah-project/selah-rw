@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Loti arasohoka, ajya kuri bo ku rugi, maze umuryango afunga inyuma ye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "arasohoka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ku rugi"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "maze umuryango"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "afunga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "inyuma ye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:48.565292568Z",
+  "model": "glm-5.3"
+}

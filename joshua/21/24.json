@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayaloni n'ibyaro byayo, ⟨את⟩ Gati-Rimonu n'ibyaro byayo — imijyi ine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati-Rimonu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:01.395790948Z",
+  "model": "glm-5.3"
+}

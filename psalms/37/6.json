@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "maze azakurura ubutungane bawe nk'urumuri, n'urubanja rwawe nko hagati mu manywa.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "maze azakurura"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "nk'urumuri"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ubutungane bawe"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "n'urubanja rwawe"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "nko hagati mu manywa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:47.104519545Z",
+  "model": "glm-5.3"
+}

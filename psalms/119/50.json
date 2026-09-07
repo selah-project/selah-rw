@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ibi ni ibyiruhuko byanjye mu bihombo byanjye, kuko ijambo ryawe ryanzeuye.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ibyiruhuko byanjye"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "mu bihombo byanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ryanzeuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:39.723481917Z",
+  "model": "glm-5.3"
+}

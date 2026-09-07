@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Iminsi itandatu uzakora, kandi uzakora umurimo wawe wose.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kandi uzakore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "umurimo wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:07.011964665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ugenda, maze uzasanya ⟨את⟩ abakuru b'Yisraeli, maze ubabwire uti: Yahwe, Elohimu y'ababyeyi banyu — Elohimu w'Avrahamu, wa Yitsaki na wa Yaakovu — yagaragaye njye aravuga ati: Rwose nabasuye ⟨את⟩ mwe, na ⟨את⟩ ibyakozwe banyu muri Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ugenda"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "maze uzasanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakuru b'Yisraeli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "maze ubabwire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "y'ababyeyi banyu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "w'Avrahamu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakovu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "nabasuye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyakozwe banyu"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ibyakozwe banyu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muri Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:55.324873792Z",
+  "model": "glm-5.3"
+}

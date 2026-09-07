@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Abanzi be ndabambisha isoni, ariko ikamba rye rizera hejuru ye.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Abanzi be"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ndabambisha"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "hejuru ye"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "rizera"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ikamba rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:20.218397725Z",
+  "model": "glm-5.3"
+}

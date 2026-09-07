@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Nefeshi ye yagumanye kuri Dina, umukobwa wa Yaakovu; yararukundaga ⟨את⟩ uwo mukobwa, akanavugira ku mutima w'uwo mukobwa.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "yagumanye"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshi ye"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "kuri Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "yararukundaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mukobwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "uwo mukobwa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akanavugira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mutima w'"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "uwo mukobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:24.077469036Z",
+  "model": "glm-5.3"
+}

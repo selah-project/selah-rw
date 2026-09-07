@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Uko gito n'uko gito nzabakuraho imbere yawe, kugeza uko umurikira, maze ugahabwa ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Uko gito"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "n'uko gito"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "nzabakuraho"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "umurikira"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "maze ugahabwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:13.036933101Z",
+  "model": "glm-5.3"
+}

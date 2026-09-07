@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Muzashaka ⟨את⟩ ⟨njye⟩ kandi muzasanga, ko muzanshakisha ⟨njye⟩ mu mutima wanyu wose",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "muzashaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "⟨njye⟩ (indorerwamo: Yahwe uvugwa n'ijambo rya 1) → ijambo rikurikira: muzasanga"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "muzasanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "muzanshakisha ⟨njye⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... wose"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "umutima wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:02.023642329Z",
+  "model": "glm-5.3"
+}

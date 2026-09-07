@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Mushimire Yahwe, muhamage izina rye, menyeshe mu mahanga ibikorwa bye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mushimire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "muhamage"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "menyeshe"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ibikorwa bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:53.628368603Z",
+  "model": "glm-5.3"
+}

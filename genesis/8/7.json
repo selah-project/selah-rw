@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze arungikana ⟨את⟩ igikona, igasohoka, igenda cyo kugenda no kugaruka, kugeza amazi yumye ku isi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "arungikana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igikona"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "igikona"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "igasohoka"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "kugenda"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "no kugaruka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "yumye"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:07.785588937Z",
+  "model": "glm-5.3"
+}

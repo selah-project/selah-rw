@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ukwezi kwa mbere, ku munsi wa cumi na kane, mu ijoro, murye imigati idasukuye, kugeza ku munsi wa makumyabiri na kamwe ⟨uwambere na mirongo ibiri⟩, ukwezi, mu ijoro.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "Ukwezi kwa mbere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi wa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "murye"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "imigati idasukuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi wa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "uwambere"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makumyabiri"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu ijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:33.381377396Z",
+  "model": "glm-5.3"
+}

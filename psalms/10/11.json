@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yavuze mu mutima we ⟨ati⟩: Eli yibagiwe, wahishe ubuso bwe; nta na rimwe areba iteka.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yavuze"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "yibagiwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "wahishe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta na rimwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "areba"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:52.842025933Z",
+  "model": "glm-5.3"
+}

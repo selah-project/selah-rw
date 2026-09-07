@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Batoranyaga ⟨את⟩ buri gitondo mu gitondo, buri muntu uko yakurya kwe; maze iyo izuba ryatumye, iratose.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "batoranyaga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (imana)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "buri gitondo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yakurya kwe"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "maze iyo... ryatumye"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "iratose"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:36.047149788Z",
+  "model": "glm-5.3"
+}

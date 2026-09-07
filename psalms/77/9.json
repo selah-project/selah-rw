@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ese hesedi yiwe yarahagaze iteka? Ijambo rye ryarangiye kuri generation na generation?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "yarahagaze"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yiwe"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yarangiye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuri generation"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na generation"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:23.248772199Z",
+  "model": "glm-5.3"
+}

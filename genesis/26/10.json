@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abimeleku na we yaravuze ati: Ni iki iki wakoze kuri twe? Byagera gusa, umwe mu bantu yari gucumbagira ⟨את⟩ umugore wawe, maze uzazana hetwe ikibaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "byagera gusa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yari gucumbagira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore wawe"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umugore wawe"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "maze uzazana"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hetwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ikibaha"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:54.220337308Z",
+  "model": "glm-5.3"
+}

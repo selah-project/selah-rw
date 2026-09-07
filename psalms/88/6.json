@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Uhetse mu bapfuye, nk'abatsindwe barariye mu birimbo, abo utibagiwe iteka, abo babujijweho ku ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "mu bapfuye"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "Uhetse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nk'"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "abatsindwe"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "barariye"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mu birimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uta-"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "utibagiwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "abo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ku ntoki zawe"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "babujijweho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:29.043490805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Iyo uzanyuramo amazi, ⟨את⟩ njye ndi kumwe nawe, n'imigezi ntizizikutumba; iyo ugenda mu muriro ntuzatwikwa, n'urumuri ntirurazakwitwaza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "uzanyuramo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "kumwe nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "n'imigezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "zizikutumba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "uzatwikwa"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "n'urumuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "rurazakwitwaza"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:42.260773809Z",
+  "model": "glm-5.3"
+}

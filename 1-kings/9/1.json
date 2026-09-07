@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Hanyuma igihe Shelomu (Shelomo) yamaze kwubaka ⟨את⟩ inzu ya Yahwe na ⟨את⟩ inzu y'umwami, na ⟨את⟩ icyifuzo cya Shelomu cyose icyo yashakaga gukora.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Hanyuma"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "igihe...yamaze"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kwubaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu y'umwami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icyifuzo cya Shelomu cyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "icyifuzo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yashakaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    }
+  ],
+  "timestamp": "2026-09-07T13:42:38.886102547Z",
+  "model": "glm-5.3"
+}

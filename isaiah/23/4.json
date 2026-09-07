@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Isoni bifate Tsidoni, kuko inyanja yavuze — urwitirizo rw'inyanja — iti: Ntabarwa kandi ntabyara, kandi nttera abahungu, sinazamura bakobwa b'abapfakazi.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Isoni bifate"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "ים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "urwitirizo rw'"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "byara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "tera"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "sinazamura"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:36.795757003Z",
+  "model": "glm-5.3"
+}

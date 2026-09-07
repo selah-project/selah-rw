@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "numbers 30:16",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 30,
+ "translation": "Ariko iyo yabureho cyane nyuma yo kumva, we uzatwara ⟨את⟩ icyaha cye.",
+ "tokens": [
+  {
+   "surface": "ואם",
+   "gloss": "Ariko iyo"
+  },
+  {
+   "surface": "הפר",
+   "gloss": "yabureho"
+  },
+  {
+   "surface": "יפר",
+   "gloss": "cyane"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibyemezo n'imiburano"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "nyuma yo"
+  },
+  {
+   "surface": "שמעו",
+   "gloss": "kumva"
+  },
+  {
+   "surface": "ונשא",
+   "gloss": "uzatwara"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "icyaha cye"
+  },
+  {
+   "surface": "עונה",
+   "gloss": "icyaha cye"
+  }
+ ],
+ "timestamp": "2026-09-07T10:37:58.430134386Z",
+ "model": "glm-5.3"
+}

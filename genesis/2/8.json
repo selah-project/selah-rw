@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze Yahwe Elohimu yatemeye urusoki rwa Edeni mu burasirazuba, maze ahari yashyize ⟨את⟩ umuntu we yaremye.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "yatemeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "גן",
+      "gloss": "urusoki"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "rwa Edeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "mu burasirazuba"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "maze yashyize"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ahari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yaremye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:03.499358965Z",
+  "model": "glm-5.3"
+}

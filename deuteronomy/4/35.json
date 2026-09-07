@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Wowe byarerekanywe ngo umenye ko Yahwe we ⟨ni⟩ Elohimu; nta undi usibye we.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "byarerekanywe"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngo umenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "undi"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "usibye we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:24:02.840910810Z",
+  "model": "glm-5.3"
+}

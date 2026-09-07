@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Barayibagiwe ⟨את⟩ Yahwe Elohimu wabo, maze aba⟨gurishisha⟩ mu nkono ya Sisera, umutware w'ingabo za Hatsu, no mu nkono za Peleshtimu, no mu nkono y'umwami w'i Mowabu, bakaba barwana na ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "barayibagiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": " maze yabagurishije"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu nkono ya"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "w'ingabo"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "za Hatsu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no mu nkono za"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtimu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no mu nkono ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "w'i Mowabu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "bakaba barwana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:35.069864549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "psalms 116:17",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 116,
+ "translation": "Iyo nzahira umudohoro w'impuruza, kandi mu izina rya Yahwe nzahamagara.",
+ "tokens": [
+  {
+   "surface": "לך",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "אזבח",
+   "gloss": "nzahira"
+  },
+  {
+   "surface": "זבח",
+   "gloss": "umudohoro"
+  },
+  {
+   "surface": "תודה",
+   "gloss": "w'impuruza"
+  },
+  {
+   "surface": "ובשם",
+   "gloss": "kandi mu izina"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אקרא",
+   "gloss": "nzahamagara"
+  }
+ ],
+ "timestamp": "2026-09-07T18:48:10.056475324Z",
+ "model": "glm-5.3"
+}

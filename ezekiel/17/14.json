@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Kugira ngo ubwami bubeho buhwe, ngo butazikazwa, ahubwo bubunge ⟨את⟩ beriti ye ngo buhagereke.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "buhwe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ngo buta-"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "zikazwa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bubunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti ye"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beriti ye"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "buhagereke"
+    }
+  ],
+  "timestamp": "2026-09-07T16:55:30.381910833Z",
+  "model": "glm-5.3"
+}

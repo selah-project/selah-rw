@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yasatuye urwenge, arabanyurishije, amazi na(yashyiriseho) nk'urwabyo.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "yasatuye"
+    },
+    {
+      "surface": "ים",
+      "gloss": "urwenge"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "arabanyurishije"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "na(yashyiriseho)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nk'"
+    },
+    {
+      "surface": "נד",
+      "gloss": "urwabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:52.882360567Z",
+  "model": "glm-5.3"
+}

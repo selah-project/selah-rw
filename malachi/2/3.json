@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Raba, ndahana ⟨את⟩ urubare rwanyu, nzosakaza imyanda ku maso yanyu — imanda y'ibicumbyo byanyu — izanyayo ⟨את⟩ na mwe kuri iyo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Raba, ndi"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ndahana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubare rwanyu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "urubare rwanyu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "nzosakaza"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "imyanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "maso yanyu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "imanda"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "y'ibicumbyo byanyu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "izanyayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na mwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri iyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:03:31.270999244Z",
+  "model": "glm-5.3"
+}

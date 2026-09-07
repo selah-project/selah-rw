@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Niba ugira ubwenge, ubwenge ni ubwawe; niba ugaca, wowe ubwawe wenyine uzibwira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ugira ubwenge"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge ni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "niba ugaca"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uzibwira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:28.779414971Z",
+  "model": "glm-5.3"
+}

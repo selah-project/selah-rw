@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Kuko we ni Elohimu wacu, kandi turi abantu b'urwunge rwe, n'intama z'intoki ze. Uyu munsi, iyo muvuga ijwi rye —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kandi turi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "b'urwunge rwe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "n'intama"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "z'intoki ze"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Uyu munsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "muvuga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:02.716869086Z",
+  "model": "glm-5.3"
+}

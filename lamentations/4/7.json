@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abazeri be basukuye kurusha urubura, barakazuye kurusha amata, igufwa ryabo ryumutuku kurusha amabuye y'agaciro, imiterere yabo ⟨ni⟩ nka safire.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "basukuye"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "abazeri be"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "kurusha urubura"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "barakazuye"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kurusha amata"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "ryumutuku"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "igufwa ryabo"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "kurusha amabuye y'agaciro"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safire"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "imiterere yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:49:38.525674081Z",
+  "model": "glm-5.3"
+}

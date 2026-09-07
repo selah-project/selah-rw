@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Maze abavandimwe be bagiye kuragira ⟨את⟩ intama ya se wabo i Shekemu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bagiye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kuragira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ya se wabo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "i Shekemu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:16.440582025Z",
+  "model": "glm-5.3"
+}

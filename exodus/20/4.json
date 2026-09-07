@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Utagikora igishushanyo ubwawe, cyangwa ishusho iyo ari yo yose iri mu ijuru hejuru, cyangwa iri mu isi hasi, cyangwa iri mu mazi yo hasi y'isi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Uta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gikora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ishusho iyo ari yo yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "cyangwa iri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "cyangwa iri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "yo hasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:53:31.833194501Z",
+  "model": "glm-5.3"
+}

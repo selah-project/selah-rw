@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ubwo nzibuka ⟨את⟩ Beriti ryanjya rya Yaakovu, ndetse na ⟨את⟩ Beriti ryanjya rya Yitsaki, ndetse na ⟨את⟩ Beriti ryanjya rya Avrahamu nzibuka, n'ubutaka (Avrahamu) nzibuka.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "nzibuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti ryanjya rya Yaakovu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti ryanjya"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti ryanjya rya Yitsaki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti ryanjya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti ryanjya rya Avrahamu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti ryanjya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nzibuka"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "n'ubutaka"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nzibuka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:29.425952947Z",
+  "model": "glm-5.3"
+}

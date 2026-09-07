@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Iyo bageze, yarabonye ⟨את⟩ Eliyabu, maze aravuga ati: Rwose, imbere ya Yahwe ⟨ni⟩ Mashiyah we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bageze"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyabu"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiyah we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:35:00.933656401Z",
+  "model": "glm-5.3"
+}

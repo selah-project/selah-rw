@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze ajya inyuma y'umugabo w'i Yisraeli kugera mu rwungo rwiwe, arashushanya ⟨את⟩ bombi — ⟨את⟩ umugabo w'i Yisraeli no ⟨את⟩ umugore mu nda ye — maze icyorezo cihagaye ku bana b'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "azinjira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'i Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kugera mu"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "rwungo rwiwe"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "arashushanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bombi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bombi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugabo w'i Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'i Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "nda ye"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "cihagaye"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "icyorezo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:29:50.495498956Z",
+  "model": "glm-5.3"
+}

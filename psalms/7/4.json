@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe, Elohimu wanjye, iyo nakora ibi, iyo haba ⟨hari⟩ icyaha mu ntoki zanjye —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakora"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "haba ⟨hari⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mu ntoki zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.610841947Z",
+  "model": "glm-5.3"
+}

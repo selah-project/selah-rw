@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe aravuze kuri njye ati: Reba, narabanje guha imbere yawe ⟨את⟩ Sihoni na ⟨את⟩ igihugu cye; utangire kwatura, mu kwatura ⟨את⟩ igihugu cye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "narabanje"
+    },
+    {
+      "surface": "תת",
+      "gloss": "guha"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihugu cye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "utangire"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kwatura"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mu kwatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:06.727875845Z",
+  "model": "glm-5.3"
+}

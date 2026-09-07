@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ibyiza bikiyongera, ababibya babyariyongera; ni inyungu ki k'uwabifite, uretse ko amaso ye abireba?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "igihe ... bikiyongera"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bariyongera"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ababibya"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ni ... ki"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "k'uwabifite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uretse"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "abireba"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:28.468268149Z",
+  "model": "glm-5.3"
+}

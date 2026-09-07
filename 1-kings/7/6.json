@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yakoze na ⟨את⟩ iporike y'inkingi: uburebure bwayo ni ama makumi atanu, n'ugutwarara kwayo ni ama makumi atatu; kandi iporike iri imbere yazo, n'inkingi n'umunyururu bari imbere yazo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iporike"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "iporike"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "y'inkingi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yakoze"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi atanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ugutwarara kwayo"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "kandi iporike"
+    },
+    {
+      "surface": "על",
+      "gloss": "iri"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "imbere yazo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "n'inkingi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "n'umunyururu"
+    },
+    {
+      "surface": "על",
+      "gloss": "iri"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "imbere yazo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:36:50.998460568Z",
+  "model": "glm-5.3"
+}

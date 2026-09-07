@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Elohimu, mena amenyo yabo mu kanwa yabo; amenyo nkumi z'imbwebwe zimenagure, Yahwe we!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "mena"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "amenyo yabo"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "mu kanwa yabo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "amenyo nkumi"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "z'imbwebwe"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "zimenagure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:22.620717397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Maze arabashyira ⟨את⟩ abo mu nzu y'igifungo mu minsi itatu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "arabashyira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "nzu y'igifungo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mu minsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:19.343647469Z",
+  "model": "glm-5.3"
+}

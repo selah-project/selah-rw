@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze anyungere aho hanze y'ubunini, ⟨את⟩ arakiza; kuko yari yishimiye njye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "maze anyungere"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ku kibanza gihambaye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye (uwakijwe)"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "arakiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yari yishimiye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:23:14.125903412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uzashyire ⟨את⟩ igicaniro cy'ibitambo byo gutwikwa imbere y'umuryango wa Mishkani, Ihema ry'ihuriro.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro cy'ibitambo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'ibitambo byo gutwikwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "wa Mishkani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:58.761019193Z",
+  "model": "glm-5.3"
+}

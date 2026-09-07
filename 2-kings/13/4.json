@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Yehoahazi arasaba ubabare bwa Yahwe ⟨את⟩, maze Yahwe aramwumva, kuko yari yaboneye ⟨את⟩ igikomere cya Yisraeli, kuko umwami w'Aramu yari yaragomeje ⟨את⟩ bbo.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "arasaba ubabare"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubabare bwa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubabare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "aramwumva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ibye (kuri we)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yaboneye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igikomere cya Yisraeli"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "igikomere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "yagomeje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bbo",
+      "marks": "bbo (Yisraeli)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:57.555460600Z",
+  "model": "glm-5.3"
+}

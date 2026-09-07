@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kuko haba hari amagambo menshi yongera ubuhinyuzi: ni iki cyongerwa ku muntu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "haba hari"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "yongera"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubuhinyuzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "cyongerwa"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ku muntu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:38.664939095Z",
+  "model": "glm-5.3"
+}

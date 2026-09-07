@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibikoresho byose bya zahabu no bya feza byari ⟨ibihumbi bitanu n'amana ane⟩; ibyo byose yaziweye Sheshbatsari (Sheshibatsari) ajya n'abahungiye bava Babuloni (Babulonu) bajya Yerushalayimu (Yerusalemu).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "Ibikoresho"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "bya zahabu"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "no bya feza"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "bitanu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'amana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ane"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ibyo byose"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yaziweye"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Sheshbatsari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ajya n'"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "abahungiye"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "bava"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:14:58.104972579Z",
+  "model": "glm-5.3"
+}

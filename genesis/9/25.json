@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze aravuga ati: Kurumuzwe Kenaani; umuja w'abaja azaba kubavandimwe be.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze aravuga ati"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Kurumuzwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umuja"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "w'abaja"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kubavandimwe be"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:37.521395435Z",
+  "model": "glm-5.3"
+}

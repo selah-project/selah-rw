@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Nagenze nk'ikimenyetso kibabaza abenshi; ariko wowe ⟨ni⟩ umutekane wanjye w'ingufu.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "nk'ikimenyetso"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagenze"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "abenshi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ariko wowe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "umutekane wanjye"
+    },
+    {
+      "surface": "עז",
+      "gloss": "w'ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.517513260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Iyi ⟨ni⟩ umugisha Moshe, umuntu w'Elohimu, yaguhiye ⟨את⟩ abana ba Yisraeli mbere y'urupfu rwe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yaguhiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere y'"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "urupfu rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:12.310003398Z",
+  "model": "glm-5.3"
+}

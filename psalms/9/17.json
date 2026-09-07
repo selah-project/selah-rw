@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yamenyekanye, yakoze icyemezo; mu byakozwe n'ibiganza bye umunyabyaha yarafashwe. Higayoni. Selahi.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "yamenyekanye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "icyemezo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "mu byakozwe"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "n'ibiganza bye"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "yarafashwe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umunyabyaha"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:09.664819417Z",
+  "model": "glm-5.3"
+}

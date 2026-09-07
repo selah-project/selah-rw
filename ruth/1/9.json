@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe abaha kandi muzibure muhoro, umwe wese mu nzu y'umugabo we. Maze arabasuna bo, maze ziraramba ijwi ryazo, maze zirira.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "abaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "kandi muzibure"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "muhoro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umwe wese"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "y'umugabo we"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "maze arabasuna"
+    },
+    {
+      "surface": "להן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "maze ziraramba"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "ijwi ryazo"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "maze zirira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:06.758850596Z",
+  "model": "glm-5.3"
+}

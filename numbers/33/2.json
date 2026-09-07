@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze Moshe yandika ⟨את⟩ aho bavuye, ku ntambwe zabo, ku bw'ijwi rya Yahwe; aya ni ntambwe zabo ku buryo b'aho bavuye.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aho bavuye"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "aho bavuye"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ku ntambwe zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ntambwe zabo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ku buryo b'aho bavuye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:40:51.158273245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Yanamubajije kuri Yahwe, yamuhanze ibiribwa, kandi na ⟨את⟩ umupanga wa Goliyati (Goliyati) w'i Peliseti yaramuha.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yanamubajije"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "ibiribwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yamuhanze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umupanga wa Goliyati"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "wa Goliyati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "w'i Peliseti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yaramuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:47.887146886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uzasanga ukundwa n'ubwenge biza mu maso ya Elohimu n'abantu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Uzasanga"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ukundwa"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "n'ubwenge"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "biza"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohimu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "n'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:02.338708572Z",
+  "model": "glm-5.3"
+}

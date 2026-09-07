@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 67,
+  "translation": "Amako yakuzwe, wowe Elohimu; amako yose, Elohimu, yakuzwe.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "yakuzwe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "yakuzwe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amako"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "yose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:43.920811683Z",
+  "model": "glm-5.3"
+}

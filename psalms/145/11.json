@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Bazavuga icyubahiro cy'ubwami bwawe, kandi imbaraga zawe bazazivugaho.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "cy'ubwami bwawe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bazavuga"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "kandi imbaraga zawe"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bazazivugaho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:51.314210418Z",
+  "model": "glm-5.3"
+}

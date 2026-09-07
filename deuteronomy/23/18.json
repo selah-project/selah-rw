@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Nta mupfasoni w'umugore uzaba mu bakobwa ba Yisraeli, kandi nta mupfasoni w'umugabo azaba mu bahungu ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "mupfasoni w'umugore"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mu bakobwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mupfasoni w'umugabo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:45.264514165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "kuko Eli nkuru ni Yahwe, kandi umwami nkuru hejuru y'imana zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kandi umwami"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:25.352714850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Urukundo rw'ifeza ntiruhwihwiza ifeza, kandi uwo ukunda ubukungu ntamusaruro abona; na ibi ni heveli ⟨ubusa⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "urukundo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rw'ifeza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiru-"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "hwihwiza"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kandi uwo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ukunda"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ubukungu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "musaruro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli ⟨ubusa⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:28.468003848Z",
+  "model": "glm-5.3"
+}

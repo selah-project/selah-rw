@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Maze Yosefu arababwira ati: Muzane amatungo yanyu, maze ndabaha mu kwigurisha amatungo yanyu, mu gihe ifeza ryarangiye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira ati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Muzane"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "amatungo yanyu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndabaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "mu kwigurisha amatungo yanyu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ryarangiye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    }
+  ],
+  "timestamp": "2026-09-07T08:28:59.460459293Z",
+  "model": "glm-5.3"
+}

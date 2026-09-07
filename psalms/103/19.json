@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Yahwe mu ijuru yashyize intebe ye, n'ubwami bwe butware ibyose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "intebe ye"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "n'ubwami bwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "butware"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:02.037105206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Nkuyemo abanzi banjye, Elohimu wanjye; unyegereze hejuru abampinga.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Nkuyemo"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "abampinga"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "unyegereze hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:32.525199141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Uko ni ko Yahwe avuga: ku bw'ibyaha bitatu bya Damasheki, no ku bw'ine, ntacyo nzagarukira, kuko baratakitse ⟨את⟩ Giladi mu bitwikwabyo by'icyuma.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ni ko avuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bitatu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "bya Damasheki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku bw'"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "nzagarukira"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "baratakitse"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "mu bitwikwabyo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "by'icyuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:39:42.868630484Z",
+  "model": "glm-5.3"
+}

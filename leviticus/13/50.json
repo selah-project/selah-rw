@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze kohenu areba ⟨את⟩ uburwayi, maze asiba ⟨את⟩ uburwayi mu minsi indwi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Maze ... areba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburwayi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "uburwayi"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "maze asiba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburwayi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "uburwayi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mu minsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:43.658066082Z",
+  "model": "glm-5.3"
+}

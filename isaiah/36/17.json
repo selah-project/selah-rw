@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "kugeza ndaza ndakimura ⟨את⟩ mu gihugu ngaha nka gihugu cyanyu — igihugu cy'ibyumbati n'divayi nshya, igihugu cy'umugati n'imizabibu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ndaza"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ndakimura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe (אתכם: ikimenyetso cyerekeza ku bantu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "ngaha nka gihugu cyanyu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "cy'ibyumbati"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "n'divayi nshya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cy'umugati"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "n'imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:09:52.761875822Z",
+  "model": "glm-5.3"
+}

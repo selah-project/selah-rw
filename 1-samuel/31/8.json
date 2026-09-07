@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "⟨Byabaye⟩ ku manywa bakurikiyeho, Abafilisiti baza gucambura ⟨את⟩ abapfuye, maze basanga ⟨את⟩ Shauli na ⟨את⟩ abahungu be batatu baguye ku musozi wa Giliboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨byabaye⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ku manywa bakurikiyeho"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "gucambura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapfuye"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abapfuye"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "basanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be batatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "baguye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "wa Giliboa"
+    }
+  ],
+  "timestamp": "2026-09-07T12:58:29.968110295Z",
+  "model": "glm-5.3"
+}

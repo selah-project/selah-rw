@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ese Elohimu ntiyabibaza? kuko we azi ibyanga by'umutima.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ntiyabibaza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ibyanga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "by'umutima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:24.859181589Z",
+  "model": "glm-5.3"
+}

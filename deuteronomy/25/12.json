@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Uzakata ⟨את⟩ ikiganza cye; amaso yawe ntibagire impuhwe kuri we.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "Uzakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikiganza cye"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ikiganza cye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "bagire impuhwe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amaso yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:18.597590822Z",
+  "model": "glm-5.3"
+}

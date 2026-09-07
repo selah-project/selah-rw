@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Umuzigo wa Moabi: ko mu ijoro Ar ya Moabi yarimbuwe, yarahishe; ko mu ijoro Kiri ya Moabi yarimbuwe, yarahishe.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umuzigo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yarimbuwe"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yarahishe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yarimbuwe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kiri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yarahishe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:06.446807640Z",
+  "model": "glm-5.3"
+}

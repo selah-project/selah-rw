@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Nk'umuriro utwika ishyamba, no nk'urumuri rwaka imisozi.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "nk'umuriro"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "utwika"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ishyamba"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "no nk'urumuri"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "rwaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:33.499160768Z",
+  "model": "glm-5.3"
+}

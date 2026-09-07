@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ese ufite amaso y'ibyuna? Cyangwa nk'uko areba umuntu w'agahazo, ni ko ureba wowe?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "y'ibyuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Cyangwa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "nk'uko areba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu w'agahazo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ureba wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:53.450169870Z",
+  "model": "glm-5.3"
+}

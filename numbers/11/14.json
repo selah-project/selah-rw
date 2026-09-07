@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Njye sinshobora wontyine gutwara ⟨את⟩ abantu bose aba, kuko niremereye kuruta njye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sinshobora"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njeye"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "wontyine"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gutwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose aba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "niremereye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuruta njye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:16:04.291427817Z",
+  "model": "glm-5.3"
+}

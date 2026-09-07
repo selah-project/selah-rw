@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu databahe zawe nzishima, ntabwo nzibagirwa ijambo ryawe.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Mu databahe zawe"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "nzishima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nzibagirwa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ijambo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:58.728460043Z",
+  "model": "glm-5.3"
+}

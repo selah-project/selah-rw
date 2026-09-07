@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "kandi ntimuzashyireho kwihagararaho iwe, kugeza abyibushije, na kugeza ashize ⟨את⟩ Yerushalayimu isingurwa ku isi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntimuzashyireho"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "(muzashyireho)"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kwihagararaho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "abyibushije"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kugeza"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "isingurwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:35:26.027483535Z",
+  "model": "glm-5.3"
+}

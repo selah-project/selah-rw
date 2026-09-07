@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 2:4",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ku munsi uwo bazazamura ku muri inshamutima, banenura inenesa rya bugufi, bati: Twarasenyutse ubwonone; igice cy'abantu banjye yaracyahinduye; ese yarakuyeho ate kuri njye! Imurima yacu arazigabana k'ibitererano.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bazazamura"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku muri"
+    },
+    {
+      "surface": "משל",
+      "gloss": "inshamutima"
+    },
+    {
+      "surface": "ונהה",
+      "gloss": "banenura"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "inenesa"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "rya bugufi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "ubwonone"
+    },
+    {
+      "surface": "נשדנו",
+      "gloss": "twarasenyutse"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "igice"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cy'abantu banjye"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "yaracyahinduye"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ese"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "yarakuyeho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ate kuri njye"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "k'ibitererano"
+    },
+    {
+      "surface": "שדינו",
+      "gloss": "imurima yacu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "arazigabana"
+    }
+  ],
+  "timestamp": "2026-09-07T21:53:37.753181739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Yahwe, Elohimu wa Yisraeli, abywe icyubahiro kuva mu iteka kugera mu iteka; maze abantu bose baravuge ameni: Himbaza, Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "abywe icyubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "maze baravuge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ameni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Himbaza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:21.026349021Z",
+  "model": "glm-5.3"
+}

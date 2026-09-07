@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Abami ba Tarshishi n'abami b'ibizinga bazaha impano; abami ba Sheba na Seva bazazanisha ibihembo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "n'ibizinga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bazaha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Seva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "ibihembo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bazazanisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:22.165696586Z",
+  "model": "glm-5.3"
+}

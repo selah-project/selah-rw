@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Kuko wewe uri umunini, ukora ibyumba, wowe ⟨ni⟩ Elohimu wenyine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "umunini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe uri"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ibyumba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wenyine"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:13.461630322Z",
+  "model": "glm-5.3"
+}

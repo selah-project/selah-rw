@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Bati: Elohimu yamutseho; nimuronde nimunyagwire, kuko nta mukiza ariho.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yamutseho"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "nimuronde"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "nimunyagwire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:53.796317695Z",
+  "model": "glm-5.3"
+}

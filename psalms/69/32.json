@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ibi bizaneza Yahwe kurusha inka, imbyagwa ifite imirago n'ibirenge bicitse.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Ibi bizaneza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kurusha inka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "imbyagwa"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "ifite imirago"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "n'ibirenge bicitse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.311971325Z",
+  "model": "glm-5.3"
+}

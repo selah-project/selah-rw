@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze agurisha ⟨את⟩ ihema ku Mishkani, ashira hejuru yacyo ⟨את⟩ igihisho cy'ihema, uko Yahwe yategetse Moshe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "agurisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihisho cy'ihema"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "igihisho"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cy'ihema"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hejuru yacyo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:52.916943229Z",
+  "model": "glm-5.3"
+}

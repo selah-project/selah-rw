@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Nimubatera ⟨את⟩ Abamidiyani, mukubite ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Nimubatera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abamidiyani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Abamidiyani"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "mukubite"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:26:49.495759676Z",
+  "model": "glm-5.3"
+}

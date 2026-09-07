@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Abakuru bayo — nta bazaba ho ngo bahamagare ubwami; n'abategetsi bayo bose bazaba ntibahari.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "abakuru bayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta bazaba ho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bahamagare"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "abategetsi bayo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazaba"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ntibahari"
+    }
+  ],
+  "timestamp": "2026-09-07T15:10:09.310809460Z",
+  "model": "glm-5.3"
+}

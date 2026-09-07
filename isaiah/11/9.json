@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ntibazakora ibibi kandi ntibazangiza ku musozi wanjye w'ibyiruha wose, kuko isi izuye ubumenyi bwa ⟨את⟩ Yahwe, nk'uko amazi akiza inyanja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bazakora ibibi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "bazangiza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku … wose"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "wanjye w'ibyiruha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "izuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nk'uko amazi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "akiza"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:49.918245384Z",
+  "model": "glm-5.3"
+}

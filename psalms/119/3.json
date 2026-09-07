@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi nta buhemu bakora, mu nzira ze bagenda.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "buhemu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mu nzira ze"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:09.679845621Z",
+  "model": "glm-5.3"
+}

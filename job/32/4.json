@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "job 32:4",
+ "book": "job",
+ "lang": "rw",
+ "chapter": 32,
+ "translation": "Ari Eliyhuwa yategereje ⟨את⟩ Iyovu mu majambo, kuko ari bo abakuru kurusha we mu imyaka.",
+ "tokens": [
+  {
+   "surface": "ואליהו",
+   "gloss": "Ari Eliyhuwa"
+  },
+  {
+   "surface": "חכה",
+   "gloss": "yategereje"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Iyovu"
+  },
+  {
+   "surface": "איוב",
+   "gloss": "Iyovu"
+  },
+  {
+   "surface": "בדברים",
+   "gloss": "mu majambo"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "זקנים",
+   "gloss": "abakuru"
+  },
+  {
+   "surface": "המה",
+   "gloss": "ari bo"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "kurusha we"
+  },
+  {
+   "surface": "לימים",
+   "gloss": "mu imyaka"
+  }
+ ],
+ "timestamp": "2026-09-07T19:36:03.979171449Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Yoavu yaratumye ho, abwira Dawidi ⟨את⟩ amagambo yose y'intambara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yaratumye ho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose y'intambara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "y'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:37.997813735Z",
+  "model": "glm-5.3"
+}

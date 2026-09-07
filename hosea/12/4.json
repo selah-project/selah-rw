@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mu nda yari yafashe ⟨את⟩ murumuna we ku igitsure, mu kugira imbaraga yaratsinze ⟨את⟩ Elohimu.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Mu nda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "yafashe ku igitsure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murumuna we"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "murumuna we"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "mu kugira imbaraga"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "yaratsinze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:27.497650293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Kandi igicebe cy'umutima we cyiyongereye mu nzira za Yahwe, kandi nanubu yasuye ⟨את⟩ ibisengani byo ku misozi na ⟨את⟩ ibiti bya Asherahi mu gihugu cya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "cyiyongereye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "igicebe cy'umutima we"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mu nzira za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kandi nanubu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yasuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibisengani byo ku misozi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ibisengani byo ku misozi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiti bya Asherahi"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ibiti bya Asherahi"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "mu gihugu cya Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:26.300183712Z",
+  "model": "glm-5.3"
+}

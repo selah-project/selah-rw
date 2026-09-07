@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "exodus 19:22",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 19,
+ "translation": "Nanuhe abakohenu bakorera kuri Yahwe bayeharize, kandi Yahwe atazibagurukira.",
+ "tokens": [
+  {
+   "surface": "וגם",
+   "gloss": "na"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abakohenu"
+  },
+  {
+   "surface": "הנגשים",
+   "gloss": "bakorera kuri"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "יתקדשו",
+   "gloss": "bayeharize"
+  },
+  {
+   "surface": "פן",
+   "gloss": "kandi atazi"
+  },
+  {
+   "surface": "יפרץ",
+   "gloss": "agurukira"
+  },
+  {
+   "surface": "בהם",
+   "gloss": "bo"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T08:52:15.031751881Z",
+ "model": "glm-5.3"
+}

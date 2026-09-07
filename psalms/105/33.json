@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yagize intoki ku mizabibu yabo no ku ibiyembe byabo, maze yamenagiza ibiti byo mu ntara yabo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yagize intoki ku"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mizabibu yabo"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "no ku ibiyembe byabo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "maze yamenagiza"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "byo mu ntara yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:50.656296687Z",
+  "model": "glm-5.3"
+}

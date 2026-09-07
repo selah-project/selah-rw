@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Urubingo nta watanzwe ku bagaragu bawe, kandi ku amabuye baravuga atwi bati: Mukore; maze none abagaragu bawe bakubiswe, kandi icyaha ni ku bantu bawe.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "urubingo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "watanzwe"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ku bagaragu bawe"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "kandi ku amabuye"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "atwi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bati: Mukore"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze none"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "bakubiswe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kandi icyaha ni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ku bantu bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:16.912461472Z",
+  "model": "glm-5.3"
+}

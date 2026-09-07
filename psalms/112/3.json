@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Umutungo n'impano z'agaciro ziri mu nzu ye, kandi ubutungane bwe buhagara ku iteka ryose.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Umutungo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "n'impano z'agaciro"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ubutungane bwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "buhagara"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ku iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:47.459101663Z",
+  "model": "glm-5.3"
+}

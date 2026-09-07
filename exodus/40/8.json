@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uzashyire ⟨את⟩ urugo uruzengurutshe, maze uzashyire ⟨את⟩ uruhisho rw'umuryango w'urugo.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "urugo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "uruzengurutshe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "maze uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhisho rw'umuryango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "uruhisho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rw'umuryango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "w'urugo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:58.761309267Z",
+  "model": "glm-5.3"
+}

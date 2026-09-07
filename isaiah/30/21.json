@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "N'amatwi yawe azumva ijambo rivuga mu nyuma yawe rivuga ati: Uyu ni inzira, mugendeho; iyo mweremere iburyo, cyangwa iyo mweremere ibumoso.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "n'amatwi yawe"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "mu nyuma yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rivuga ati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mugendeho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mweremere iburyo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "cyangwa iyo"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "mweremere ibumoso"
+    }
+  ],
+  "timestamp": "2026-09-07T15:07:26.267434128Z",
+  "model": "glm-5.3"
+}

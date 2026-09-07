@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "1-samuel 9:17",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Shemuelu amaze kureba ⟨את⟩ Shauli, Yahwe yamushubije ati: Raba, uyu ni umuntu nari kuguhebako ko; ni we uzayobora abantu banjye.",
+ "tokens": [
+  {
+   "surface": "ושמואל",
+   "gloss": "Shemuelu amaze"
+  },
+  {
+   "surface": "ראה",
+   "gloss": "kureba"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Shauli"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shauli"
+  },
+  {
+   "surface": "ויהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ענהו",
+   "gloss": "yamushubije"
+  },
+  {
+   "surface": "הנה",
+   "gloss": "Raba"
+  },
+  {
+   "surface": "האיש",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "אמרתי",
+   "gloss": "nari kubwira"
+  },
+  {
+   "surface": "אליך",
+   "gloss": "kuri wowe"
+  },
+  {
+   "surface": "זה",
+   "gloss": "ni we"
+  },
+  {
+   "surface": "יעצר",
+   "gloss": "uzayobora"
+  },
+  {
+   "surface": "בעמי",
+   "gloss": "abantu banjye"
+  }
+ ],
+ "timestamp": "2026-09-07T12:30:02.402485935Z",
+ "model": "glm-5.3"
+}

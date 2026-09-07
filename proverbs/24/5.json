@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Umuntu w'ubwenge ni umunyacyera, kandi umuntu w'ubumenyi yongera imbaraga.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ni umunyacyera"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kandi umuntu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "w'ubumenyi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "yongera"
+    },
+    {
+      "surface": "כח",
+      "gloss": "imbaraga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:57.594555834Z",
+  "model": "glm-5.3"
+}

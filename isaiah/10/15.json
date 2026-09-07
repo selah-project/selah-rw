@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ese izimuri rizikomeza hejuru y'uwuritema? Cyangwa isekeo rizikomeza hejuru y'uwurinyereza? Nko iyi nka gito igikubita ⟨את⟩ uwukimoza, kandi nk'umuryo wiyaza uwutari igiti!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "rizikomeza"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "izimuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "uwuritema"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(uriko)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Cyangwa"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "rizikomeza"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "isekeo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "uwurinyereza"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "nko igikubita"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "igitigiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uwukimoza (abawukurikirana)"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "uwukimoza"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "wiyaza"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umuryo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "utari"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igiti"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:24.884374129Z",
+  "model": "glm-5.3"
+}

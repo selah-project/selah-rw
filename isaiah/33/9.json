@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Isi yaraririwe, yarahungabanye; Levanonu yaruhijwe, yarumye; Sharonu yahindutse nk'ubutayu; Bashani na Karmeli biraturutseho.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "yaraririwe"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "yarahungabanye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "yaruhijwe"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanonu"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "yarumye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharonu"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "nk'ubutayu"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "biraturutseho"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:07.943051241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Urubanza n'ubutabera nakoze; ntuntoreke ku bampambe.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "n'ubutabera"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ntuntoreke"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ku bampambe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:57.444865726Z",
+  "model": "glm-5.3"
+}

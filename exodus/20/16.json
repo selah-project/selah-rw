@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Ntuzanire ku mugenzi wawe umuhamya w'ubuhemu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "zanire"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ku mugenzi wawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umuhamya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "w'ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:21.422344836Z",
+  "model": "glm-5.3"
+}

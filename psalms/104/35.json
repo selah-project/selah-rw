@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Abanyabyaha bikurwe mu isi, n'inkozi z'ibibi zibe ntihari. Nefeshi yanjye, shimira ⟨את⟩ Yahwe. Nimusingize Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "bikurwe ntihari"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "abanyabyaha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "n'inkozi z'ibibi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ntihari"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "shimira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:43.805762105Z",
+  "model": "glm-5.3"
+}

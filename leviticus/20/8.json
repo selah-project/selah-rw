@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "leviticus 20:8",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Mukurireho ⟨את⟩ amategeko yanjye mukayakoresha ⟨את⟩ bo: jye ndi Yahwe, ndabatagatifura.",
+ "tokens": [
+  {
+   "surface": "ושמרתם",
+   "gloss": "mukurireho"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amategeko yanjye"
+  },
+  {
+   "surface": "חקתי",
+   "gloss": "amategeko yanjye"
+  },
+  {
+   "surface": "ועשיתם",
+   "gloss": "mukayakoresha"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "amategeko yanjye"
+  },
+  {
+   "surface": "אני",
+   "gloss": "jye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "מקדשכם",
+   "gloss": "ndabatagatifura"
+  }
+ ],
+ "timestamp": "2026-09-07T09:47:30.668049106Z",
+ "model": "glm-5.3"
+}

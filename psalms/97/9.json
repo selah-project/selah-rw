@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Kuko wowe, Yahwe, Elyoni (Uri hejuru y'isi yose), warenezwe cyane hejuru y'imana zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "warenezwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana zose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:37.248920462Z",
+  "model": "glm-5.3"
+}

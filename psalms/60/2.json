@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Mu kwirwana kwawe na ⟨את⟩ Aramu Naharayimu na ⟨את⟩ Aramu Tsovahu, Yowabu yaragarutse maze akubisa ⟨את⟩ Edomu mu kibaya cy'umunyu — ibihumbi cumi na kabiri.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Mu kwirwana kwawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu Naharayimu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aramu Tsovahu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovahu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yaragarutse"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "maze akubisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mu kibaya"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "cy'umunyu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na kabiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.758204149Z",
+  "model": "glm-5.3"
+}

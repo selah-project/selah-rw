@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Nuko yareka ⟨את⟩ inka, maze yarukira inyuma ya Eliyahu, aramubwira ati: Ndasaba ko mbesha se wanjye na nyina wanjye, hanyuma njye ndaza inyuma yawe. Nuko aramubwira ati: Genda, subira, kuko nakoze iki kuri wewe?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "yareka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "yarukira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "ko mbesha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "na nyina wanjye"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "hanyuma nzaza"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "inyuma yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לך",
+      "gloss": "genda"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "subira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:34.090683978Z",
+  "model": "glm-5.3"
+}

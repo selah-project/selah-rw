@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Uko avuze Yahwe, waremye ⟨את⟩ rwayo, Yahwe, wabumbiye ngo ayitegure, Yahwe ⟨ni⟩ izina rye.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waremye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "wabumbiye"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "rwayo (kuyitegura)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "ngo ayitegure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:15:59.437225102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Subiza mu gakiza kayo! Mu gihe wawaremywe, mu gihugu cy'amavuko yawe, nibyo nzacira urubanza ⟨את⟩ wowe.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Subiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "gakiza kayo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aha"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "wawaremywe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "cy'amavuko yawe"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nzacira urubanza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe (urubaju)"
+    }
+  ],
+  "timestamp": "2026-09-07T16:58:25.577517433Z",
+  "model": "glm-5.3"
+}

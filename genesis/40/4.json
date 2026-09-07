@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Umutware w'abatabazi yategeye ⟨את⟩ Yosefu kuri ⟨את⟩ bo, maze Yosefu yabakoreraga ⟨את⟩ bo; baba iminsi mu nzigo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yategeye"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Umutware"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "w'abatabazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "yabakoreraga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mu nzigo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:20:00.106065051Z",
+  "model": "glm-5.3"
+}

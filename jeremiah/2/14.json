@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mbese Yisraeli ni umuja, cyangwa ni uvukiye mu nzu ngombwa? Ni kuki yaba icyo babandura?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Mbese ni umuja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "uvukiye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ni kuki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "icyo babandura"
+    }
+  ],
+  "timestamp": "2026-09-07T15:37:13.991032839Z",
+  "model": "glm-5.3"
+}

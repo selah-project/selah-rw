@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Muririmbire, muremere; muvuge ku mahame bye yose.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Muririmbire"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muremere"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "muvuge"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku … yose"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mahame bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:53.628722656Z",
+  "model": "glm-5.3"
+}

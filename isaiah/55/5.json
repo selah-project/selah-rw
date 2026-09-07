@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "isaiah 55:5",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 55,
+ "translation": "Raba, igihugu utazi we uzacyahamagara, n'igihugu kitazi we kizaziruka kuri wowe, kubw'ibya Yahwe Elohimu wawe no kwa Utagatifu wa Yisraeli, kuko we yaguhesheje ubwiza.",
+ "tokens": [
+  {
+   "surface": "הן",
+   "gloss": "Raba"
+  },
+  {
+   "surface": "גוי",
+   "gloss": "igihugu"
+  },
+  {
+   "surface": "לא",
+   "gloss": "utazi"
+  },
+  {
+   "surface": "תדע",
+   "gloss": "(u)tazi"
+  },
+  {
+   "surface": "תקרא",
+   "gloss": "uzacyahamagara"
+  },
+  {
+   "surface": "וגוי",
+   "gloss": "n'igihugu"
+  },
+  {
+   "surface": "לא",
+   "gloss": "kitazi"
+  },
+  {
+   "surface": "ידעוך",
+   "gloss": "kitazi we"
+  },
+  {
+   "surface": "אליך",
+   "gloss": "kuri wowe"
+  },
+  {
+   "surface": "ירוצו",
+   "gloss": "kizaziruka"
+  },
+  {
+   "surface": "למען",
+   "gloss": "kubw'iby'"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimu wawe"
+  },
+  {
+   "surface": "ולקדוש",
+   "gloss": "no kwa Utagatifu"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "wa Yisraeli"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "פארך",
+   "gloss": "yaguhesheje ubwiza"
+  }
+ ],
+ "timestamp": "2026-09-07T15:25:46.864039241Z",
+ "model": "glm-5.3"
+}

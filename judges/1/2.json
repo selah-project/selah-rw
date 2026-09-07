@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yaravuze ati: Yehuda arazamuka; murabe, nahaye ⟨את⟩ isi mu ntoki ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "arazamuka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "murabe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:48:55.990156364Z",
+  "model": "glm-5.3"
+}

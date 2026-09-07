@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 6:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Nanse ndavuze nti: Yambi riri iwanjye, kuko narahombye, kuko nanjye ndi umuntu w'indimi z'idasukuye, kandi mutuye mu gice cy'abantu b'indimi z'idasukuye, kuko amaso yanjye yarebye ⟨את⟩ ⟨umwami⟩ Yahwe Tsevaoti.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nanse ndavuze nti"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Yambi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נדמיתי",
+      "gloss": "narahombye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "idasukuye"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "indimi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nanjye ndi"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "mutuye mu gice cy'"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "idasukuye"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "indimi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mutuye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:57.239557968Z",
+  "model": "glm-5.3"
+}

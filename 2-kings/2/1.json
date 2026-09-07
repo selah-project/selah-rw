@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Habaye igihe Yahwe yari kuzamura ⟨את⟩ Eliyahu mu muryampo y'ijuru, Eliyahu yagiye n'Elisha bava muri Giligali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "kuzamura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "mu muryampo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'ijuru"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "n'Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bava muri"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligali"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:07.126349591Z",
+  "model": "glm-5.3"
+}

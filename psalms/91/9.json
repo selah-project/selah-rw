@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Kuko wowe, Yahwe, ni wewe ubuhungiro bwanjye, Elyoni (Uwikure hejuru) washyize ⟨aha utuye⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ubuhungiro bwanjye"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni (Uwikure hejuru)"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "⟨aha utuye⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:12.550187062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Icyo ndiyumvira kibe ikirundo cyiza kuri We; njye ubwanjye ndishime muri Yahwe.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "kibe ikirundo cyiza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri We"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "icyo ndiyumvira"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye ubwanjye"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "ndishime"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:43.805091715Z",
+  "model": "glm-5.3"
+}

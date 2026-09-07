@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Abamitsrayimu bariko barazika ⟨את⟩ abo Yahwe yagizeho igihano muri bo, abavukanyi ba mbere bose; no ku mana zabo Yahwe yakoze ibyangano.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Abamitsrayimu"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "bariko barazika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yagizeho igihano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "abavukanyi ba mbere"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "no ku mana zabo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ibyangano"
+    }
+  ],
+  "timestamp": "2026-09-07T10:40:51.158968220Z",
+  "model": "glm-5.3"
+}

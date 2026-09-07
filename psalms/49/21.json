@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Adamu mu cyubahiro, ariko ntiyumva, yameze nk'inyamanswa — zarapfuye.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mu cyubahiro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "-yumva"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "yameze nk'"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "inyamanswa"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zarapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:47.546597827Z",
+  "model": "glm-5.3"
+}

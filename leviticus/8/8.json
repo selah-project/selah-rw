@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze yashyiriye ku we ⟨את⟩ uruhushi rw'ibere, ashira mu ruhushi ⟨את⟩ Urimu na ⟨את⟩ Tumimu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yashyiriye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhushi rw'ibere"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "uruhushi rw'ibere"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ruhushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimu"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tumimu"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumimu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:36:07.573245636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ya Dawidi. Unshinze imanzi, Yahwe, ko nagenze mu kuri kwanjye, kandi muri Yahwe niringiye, sinzigagira.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawidi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "unshinze imanzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "mu kuri kwanjye"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nagenze"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "kandi muri Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "niringiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "nzigagira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:43.091085074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Dore, mu buhemuko navutswe, no mu cyaha mama wanjewe yanshyize inda.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "mu buhemuko"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "navutswe"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "no mu cyaha"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "yanshyize inda"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama wanjewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:27.597644035Z",
+  "model": "glm-5.3"
+}

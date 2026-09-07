@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ariko ahantu hasengwa nti havanywe; abantu baracyabazaga bakanaka ibicanwa mu mahuntu hasengwa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ahantu hasengwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "havanywe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baracya-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "babazaga"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "bakanaka ibicanwa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "mu mahuntu hasengwa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:21:34.597476122Z",
+  "model": "glm-5.3"
+}

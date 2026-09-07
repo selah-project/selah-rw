@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Isi yose izaguhorse, ikazirimbira; bazarimbira izina ryawe. Selahi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "izaguhorse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ikazirimbira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bazarimbira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:21.352571432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Nefeshi yanjye ihagurukira inyuma yawe; iburyo ryawe rirantera jye.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ihagurukira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "inyuma yawe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "rirantera"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:45.626520170Z",
+  "model": "glm-5.3"
+}

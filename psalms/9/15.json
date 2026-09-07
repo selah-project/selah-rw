@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kugira ngo mbanze ndabe indimbo zawe zose mu miryango y'umukobwa wa Tsiyoni, nkomeze gushimira mu kurokoka kwawe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndabe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "indimbo zawe"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "mu miryango ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "nkomeze gushimira"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mu kurokoka kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:27.058595848Z",
+  "model": "glm-5.3"
+}

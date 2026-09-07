@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Nk'uko Yahwe yategetse ⟨את⟩ Moshe, ni uko abana ba Yisraeli bakoze, maze bagabanya ⟨את⟩ ubutaka.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nk'uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni uko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "bagabanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T11:35:38.888211266Z",
+  "model": "glm-5.3"
+}

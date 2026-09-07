@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umwami w'Aramu yari yategetse ⟨את⟩ abatware b'ingare ziwe, ati: Ntimulwane ⟨את⟩ umuto cyangwa ⟨את⟩ umukuru, ⟨ko⟩ ahubwo ⟨את⟩ umwami w'Yisraeli gusa.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "w'Aramu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abatware b'ingare"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "b'ingare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ziwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "mulwane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuto"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "umuto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukuru"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami w'Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "gusa"
+    }
+  ],
+  "timestamp": "2026-09-07T20:56:48.412862421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umwami yasabye ⟨את⟩ ifeza na ⟨את⟩ zahabu (zahabu) i Yerushalayimu (Yerusalemu) kugeza ari nka amabuye, na ⟨את⟩ imivumu ayishyize nka za mikolesi (mikolesi) ziri mu bishanga, kubera ubwinshi bwazo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu (Yerusalemu)"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "nk'amabuye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imivumu"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "imivumu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ayishyize"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "nka za mikolesi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ziri"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "mu bishanga"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kubera ubwinshi bwazo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:45:29.074289118Z",
+  "model": "glm-5.3"
+}

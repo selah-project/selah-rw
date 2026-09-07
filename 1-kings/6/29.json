@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze yatembeshaho na ⟨את⟩ inyuma zose z'inzu mu ntunguru ibishushanyo byatemetswe — kerubimu, imisave, n'indabyo zifunguye — mu ndemu no hanze.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyuma zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "mu ntunguru"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "yatembeshaho"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ibishushanyo"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "byatemetswe"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "n'imisave"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "n'indabyo"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "zifunguye"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "mu ndemu"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "no hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T13:36:41.222443747Z",
+  "model": "glm-5.3"
+}

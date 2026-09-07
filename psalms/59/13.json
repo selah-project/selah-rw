@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ku cyaha cy'umunwa wabo n'ijambo ry'iminwa yabo, bafatwe mu bwibo bwabo; kandi ku ivumu n'ubuhinyanyi bakivuga.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ku cyaha"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "cy'umunwa wabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n'ijambo"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ry'iminwa yabo"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bafatwe"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "mu bwibo bwabo"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "kandi ku ivumu"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "n'ubuhinyanyi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "bakivuga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:19.431640412Z",
+  "model": "glm-5.3"
+}

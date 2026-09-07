@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ese ndya inyama y'amasho, kandi ndanywa amaraso y'amahogo?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Ese ndya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "y'amasho"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "n'amaraso"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "y'amahogo"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ndanywa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:50.972947109Z",
+  "model": "glm-5.3"
+}

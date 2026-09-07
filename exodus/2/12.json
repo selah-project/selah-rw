@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Areba no no hano, abona ko nta muntu uhari, aramena ⟨את⟩ uwo Munyamitsrayimu (Umumisiri), maze amucisha mu mucanga.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Areba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "no"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "no hano"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu uhari"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "aramena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo Munyamitsrayimu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "uwo Munyamitsrayimu (Umumisiri)"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "amucisha mu mucanga"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "mu mucanga"
+    }
+  ],
+  "timestamp": "2026-09-07T08:32:51.110278223Z",
+  "model": "glm-5.3"
+}

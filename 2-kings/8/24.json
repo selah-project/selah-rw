@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yoramu aracyejwe n'abakurambere be, maze arazikwa n'abakurambere be mu mujyi wa Dawidi; Ahaziyahu umuhungu we agira ubwami mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "aracyejwe"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoramu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abakurambere be"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "arazikwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abakurambere be"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "agira ubwami"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T14:12:34.859629498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Ubwo barangiraga kurya ⟨את⟩ ibiribwa bavuye mu Mitsrayimu (Egiputa), se wabo yarababwiye ati: Nimusubire, muzigurire ibiribwa bike.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "barangiraga"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiribwa"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ibiribwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bavuye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yarababwiye"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "se wabo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nimusubire"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "muzigurire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twitezwe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bike"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ibiribwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:40.212837123Z",
+  "model": "glm-5.3"
+}

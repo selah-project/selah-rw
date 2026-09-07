@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Bwira abana ba Yisraeli, maze ubabwire uti: iyo murenze ⟨את⟩ Yardeni mu gihugu cya Kenaani",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuri⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "maze ubabwire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "murenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T10:42:02.479365729Z",
+  "model": "glm-5.3"
+}

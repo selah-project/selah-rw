@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "N'umugore iyo aremereye isezerano kwa Yahwe, akanafata umufungo mu nzu ya se, mu bwana bwe,",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "N'umugore iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תדר",
+      "gloss": "aremereye"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isezerano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "akanafata"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "umufungo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "mu bwana bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:10.910767495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kayini (Kayini arasohoka imbere ya Yahwe, aratura mu gihugu cya Nodi (Nodi), mu burasirazuba bwa Edeni (Edeni).",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "arasohoka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini (Kayini)"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aratura"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nodi (Nodi)"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "mu burasirazuba bwa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni (Edeni)"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:40.918828230Z",
+  "model": "glm-5.3"
+}

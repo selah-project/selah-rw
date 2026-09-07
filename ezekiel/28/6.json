@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Kubw'ibyo, uko ari ko Adonayi Yahwe yavuze: kuko washyize ⟨את⟩ umutima wawe nka umutima w'Elohimu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kubw'ibyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko ari ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wawe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "nka umutima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "w'Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:05:54.845208289Z",
+  "model": "glm-5.3"
+}

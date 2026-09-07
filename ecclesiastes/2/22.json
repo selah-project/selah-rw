@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kuko iki cyaturutse ku muntu mu murimo we yose no mu kwibwiriza kw'umutima we, uko yashishoje munsi y'izuba?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "cyaturutse"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "murimo we"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "no mu kwibwiriza"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kw'umutima we"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "yashishoje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:15.476912059Z",
+  "model": "glm-5.3"
+}

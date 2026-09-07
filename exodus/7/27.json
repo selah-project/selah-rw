@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze niba wanka kubohora, urabe, njye nzagira intumba ⟨את⟩ imbibe zawe zose mu bikeri.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maze niba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wanka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kubohora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "urabe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "nzagira intumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbibe zawe zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "imbibe zawe"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "mu bikeri"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:12.087600726Z",
+  "model": "glm-5.3"
+}

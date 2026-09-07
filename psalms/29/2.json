@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Muhe Yahwe icubahiro cy'izina rye; mukubamire Yahwe mu bwiza bw'ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Muhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icubahiro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "cy'izina rye"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "mukubamire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "mu bwiza"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bw'ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:20.089621833Z",
+  "model": "glm-5.3"
+}

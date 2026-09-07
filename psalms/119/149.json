@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Umva ijwi ryanjȇ mu hesedi yawe, Yahwe, mu guhana kwawe unkoreho ubugingo.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjȇ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "umva"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "mu hesedi yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "mu guhana kwawe"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "unkoreho ubugingo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:56.039702180Z",
+  "model": "glm-5.3"
+}

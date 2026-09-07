@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Unkore ibiribwa by'ineza nk'uko nakunze, unzanire njye kandi ndye, kugira ngo nefeshi yanjye iguhe umugisha mbere y'uko ndapfa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Unkore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ibiribwa by'ineza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nakunze"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "unzanire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kandi ndye"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "iguhe umugisha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:59:12.148200919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Muri Elohimu nzaha ibyisingizo ijwi rye; muri Elohimu nizeye; ntinzatinya icyo umubiri ukora njyewe.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "muri Elohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nzaha ibyisingizo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "muri Elohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nzatinya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njyewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:04.601718670Z",
+  "model": "glm-5.3"
+}

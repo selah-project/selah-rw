@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Indirimbo, umubaji, rw'abana ba Korahi, k'umuhanzi, ku Mahalati lwo kwishura; icyigisho rya Heyimani wa Ezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umubaji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "rw'abana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "k'umuhanzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalati"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "lwo kwishura"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "icyigisho"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "rya Heyimani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "wa Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:52.770617883Z",
+  "model": "glm-5.3"
+}

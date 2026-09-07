@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Intangiriro y'ubwami bwe ⟨ni⟩ Babuloni, Ereki, Akadi, na Kalinehi, mu gihugu cya Shinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Intangiriro"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "y'ubwami bwe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ereki"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "na Kalinehi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "cya Shinari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:28.069807071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Ariko njye nari mweri kandi ntinzi; nari inyamaswa hamwe na wewe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nari mweri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe na wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:03.124810017Z",
+  "model": "glm-5.3"
+}

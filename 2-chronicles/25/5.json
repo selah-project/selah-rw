@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 25:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Amatsiyahu yateranye ⟨את⟩ Yehuda, maze abashyize mu bigo by'imiryango y'ababyeyi — mu ngabora z'ibihumbi no mu ngabora z'amajana — ku bantu ba Yehuda na Beniyamu bose; arabarabara kuva ku mwana w'imyaka makumyabiri n'hejuru, arababonera abasore intore ibihumbi magana atatu (300.000), ashobora gusohoka mu rugamba, ufunze icumu n'ingabo.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "yateranye"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "abashyize mu murongo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku muryango w'"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "mu ngabora z'"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "no mu ngabora z'"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku … bose"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Beniyamu"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "arabarabara"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "kuva ku mwana w'"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "וימצאם",
+      "gloss": "arababonera"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amagana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "abasore intore"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ashobora gusohoka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mu rugamba"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ufunze"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "icumwi"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "n'ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:00:27.042900838Z",
+  "model": "glm-5.3"
+}

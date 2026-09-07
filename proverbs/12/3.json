@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ntabwo umuntu yemerwa n'ubugome; urwu rw'ibeza nta ruca rwamenetse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "yemerwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "n'ubugome"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "urwu rw'ibeza"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "rw'ibeza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta ruca"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "rwamenetse"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:31.841064051Z",
+  "model": "glm-5.3"
+}

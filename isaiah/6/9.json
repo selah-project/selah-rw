@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "isaiah 6:9",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Yahwe aravuga ati: Ungana, ubwire uyu muryango uti: Mumve, mwumve, ariko ntimusobanukirwe; murebe, murebe, ariko ntimumenye.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga ati"
+  },
+  {
+   "surface": "לך",
+   "gloss": "Ungana"
+  },
+  {
+   "surface": "ואמרת",
+   "gloss": "ubwire"
+  },
+  {
+   "surface": "לעם",
+   "gloss": "uri kuri uyu muryango"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "uyu muryango uwu"
+  },
+  {
+   "surface": "שמעו",
+   "gloss": "Mumve"
+  },
+  {
+   "surface": "שמוע",
+   "gloss": "mwumve"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "ariko ntimusobanukirwe ntibyemewe"
+  },
+  {
+   "surface": "תבינו",
+   "gloss": "(nti)musobanukirwe"
+  },
+  {
+   "surface": "וראו",
+   "gloss": "Murebe"
+  },
+  {
+   "surface": "ראו",
+   "gloss": "murebe"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "ariko ntimumenye ntibyemewe"
+  },
+  {
+   "surface": "תדעו",
+   "gloss": "(nti)mumenye"
+  }
+ ],
+ "timestamp": "2026-09-07T14:42:48.877005796Z",
+ "model": "glm-5.3"
+}

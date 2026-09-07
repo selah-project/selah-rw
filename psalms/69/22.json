@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Bananshize urubazo mu biribwa byanjye, kandi mu muneke wanjye bampaye kunywa umuvinyo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bananshize"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "mu biribwa byanjye"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "urubazo"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "mu muneke wanjye"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "bampaye kunywa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "umuvinyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:06.601670915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Unabiwe ubu bubwira ubu bwoko: Uko avuze Yahwe: Ngoya njye ubwanjye ndashyira imbere yanyu ⟨את⟩ inzira y'ubuzima na ⟨את⟩ inzira y'urupfu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Unabiwe ubu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bubwira"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ngoya njye ubwanjye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndashyira"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira y'ubuzima"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "y'ubuzima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzira y'urupfu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "המות",
+      "gloss": "y'urupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:02:31.397286134Z",
+  "model": "glm-5.3"
+}

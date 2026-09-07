@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "⟨Urugendo⟩ rw'iminsi cumi na rimwe riva mu Horebi, mu nzira y'umusozi wa Seiri, kugera i Kadeshi-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mu Horebi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "הר",
+      "gloss": "y'umusozi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-07T10:46:54.451438810Z",
+  "model": "glm-5.3"
+}

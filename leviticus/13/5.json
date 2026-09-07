@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 13:5",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 13,
+ "translation": "Kohenu aramurebe ku wa karindwi, maze uko abona: urwanja rwarahagaze mu maso ye, nti rwarakwirije mu ruhu; kohenu aramufunga iminsi irindwi ⟨indwi zindi⟩ ubwa kabiri.",
+ "tokens": [
+  {
+   "surface": "וראהו",
+   "gloss": "aramurebe"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "השביעי",
+   "gloss": "wa karindwi"
+  },
+  {
+   "surface": "והנה",
+   "gloss": "maze uko abona"
+  },
+  {
+   "surface": "הנגע",
+   "gloss": "urwanja"
+  },
+  {
+   "surface": "עמד",
+   "gloss": "rwarahagaze"
+  },
+  {
+   "surface": "בעיניו",
+   "gloss": "mu maso ye"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "פשה",
+   "gloss": "rwarakwirije"
+  },
+  {
+   "surface": "הנגע",
+   "gloss": "urwanja"
+  },
+  {
+   "surface": "בעור",
+   "gloss": "mu ruhu"
+  },
+  {
+   "surface": "והסגירו",
+   "gloss": "aramufunga"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "שבעת",
+   "gloss": "irindwi"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "iminsi"
+  },
+  {
+   "surface": "שנית",
+   "gloss": "ubwa kabiri"
+  }
+ ],
+ "timestamp": "2026-09-07T09:38:29.653028320Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi ntazavandiza urubyaro rwe mu bantu be; kuko njye Yahwe ⟨ni⟩ we umutagatisha we.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi nta-"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "azavandiza"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "urubyaro rwe"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "mu bantu be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "umutagatisha we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:24.434529857Z",
+  "model": "glm-5.3"
+}

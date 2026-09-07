@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Chetsroni yabyaye ⟨את⟩ Rami, maze Rami yabyaye ⟨את⟩ Aminadabu.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Chetsroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rami"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rami"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "maze Rami"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:50.114752661Z",
+  "model": "glm-5.3"
+}

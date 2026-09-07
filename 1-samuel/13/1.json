@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umwana w'⟨imyaka ibiri⟩ Shauli mu bubwami bwe; n'imyaka ibiri yateye ubwami ku Yisraeli.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "w'imyaka ibiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "mu bubwami bwe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "n'imyaka ibiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka ibiri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yateye ubwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:32:55.145797501Z",
+  "model": "glm-5.3"
+}

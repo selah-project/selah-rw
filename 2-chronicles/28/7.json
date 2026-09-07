@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Zikri, umunyabukombe w'Efrayimu, yishe ⟨את⟩ Maaseyahu mu w'umwami, na ⟨את⟩ Azrikamu wegenza inzu, na ⟨את⟩ Elkanahi w'ibindi bivanze n'umwami.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "yishe"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "umunyabukombe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "w'Efrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Azrikamu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikamu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "wegenza"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elkanahi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanahi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "w'ibindi bivanze n'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T21:00:47.691294470Z",
+  "model": "glm-5.3"
+}

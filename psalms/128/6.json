@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Unanirwe kubona abana b'abana bawe. Shalomu ku Yisraeli!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Unanirwe kubona"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "b'abana bawe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:15.759598484Z",
+  "model": "glm-5.3"
+}

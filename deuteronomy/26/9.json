@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yatwinjije m'ahantu hano, maze yatuguhe ⟨את⟩ iyi si — si ihwanya amata n'ubuki.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "Yatwinjije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yatuguhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi si"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "si"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "si"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ihwanya"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "amata"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "n'ubuki"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:02.917746669Z",
+  "model": "glm-5.3"
+}

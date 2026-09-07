@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi njye nabazamuye ⟨את⟩ muri igihugu cya Mitsrayimu, maze nabayobora ⟨את⟩ mwe mu butayu imyaka mirongo ine, mu kwatura ⟨את⟩ igihugu cya abaEmori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kandi njye"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nabazamuye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe (abaYisraeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muri igihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "nabayobora"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe (abaYisraeli)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mu kwatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "cya abaEmori"
+    }
+  ],
+  "timestamp": "2026-09-07T17:37:21.120976952Z",
+  "model": "glm-5.3"
+}

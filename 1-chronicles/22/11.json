@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 22:11",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ubu rero, mwana wanjye, Yahwe abe kumwe nawe, maze ugere ku ntsinzi, maze uzubake inzu ya Yahwe Elohimu wawe, uko yavuze ibyawe.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ubu rero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanjye"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "abe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "והצלחת",
+      "gloss": "ugere ku ntsinzi"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "uzubake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ibyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:43:35.719843632Z",
+  "model": "glm-5.3"
+}

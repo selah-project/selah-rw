@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "⟨את⟩ ibi muri byo muzarya: ⟨את⟩ aravehu bw'ubwoko bwayo, na ⟨את⟩ saleamu bw'ubwoko bwayo, na ⟨את⟩ hargolu bw'ubwoko bwayo, na ⟨את⟩ hagabu bw'ubwoko bwayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aravehu"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "aravehu"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "bw'ubwoko bwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "saleamu"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "saleamu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bw'ubwoko bwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hargolu"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargolu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bw'ubwoko bwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hagabu"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagabu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "bw'ubwoko bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:49.240345713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uwa kabiri yari Kileabi, wa Avigayili, umugore wa Navali w'i Karmeli; uwa gatatu yari Avishalomu, umwana wa Maakaha, umukobwa wa Talmayi, umwami w'i Geshuru.",
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "Uwa kabiri"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "Kileabi"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "wa Avigayili"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navali"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "w'i Karmeli"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "uwa gatatu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "w'i Geshuru"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:52.516881661Z",
+  "model": "glm-5.3"
+}

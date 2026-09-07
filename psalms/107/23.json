@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Abamanura ibiyaga mu mato, abakora imirimo mu mazi manini.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Abamanura"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ibiyaga"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "mu mato"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "imirimo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "manini"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:06.282650266Z",
+  "model": "glm-5.3"
+}

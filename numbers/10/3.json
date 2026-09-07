@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze iyo bavugishije muri byo, ihuriro ryose rizahurira iwawe ku muryango w'ihema ry'ihuriro.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "iyo bavugishije"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "rizahurira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "-ryose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ihuriro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "w'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:33.372458601Z",
+  "model": "glm-5.3"
+}

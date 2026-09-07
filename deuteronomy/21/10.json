@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo usohoka ku rugamba ku barwanya bawe, maze Yahwe Elohimu wawe abahe mu ntoki zawe, maze ubafata abapfumbatirijwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "usohoka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku rugamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "barwanya bawe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "maze abahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "maze ubafata"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "abapfumbatirijwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:03:58.651526936Z",
+  "model": "glm-5.3"
+}

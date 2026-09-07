@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Reba abanzi banjye, kuko bari benshi, banvanye ubwangizi bwo mu bugome.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bari benshi"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "banvanye"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubwangizi bwo mu bugome"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "banvanye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:54.696295154Z",
+  "model": "glm-5.3"
+}

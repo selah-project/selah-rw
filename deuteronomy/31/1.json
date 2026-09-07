@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Moshe (Mose) aragenda, maze avuga ⟨את⟩ aya magambo kuri Yisraeli (Isirayeli) wose.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "maze avuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya magambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:44.961951162Z",
+  "model": "glm-5.3"
+}

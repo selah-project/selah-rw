@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Navanze jyewe ⟨את⟩ umurimo wanjye wose uwo mhangara munsi y'izuba, kuko nzawusiga ku muntu uzaba nyuma yanjye.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "navanze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurimo wanjye wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "umurimo wanjye"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mhangara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izuba"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "nzawusiga"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:11.501581577Z",
+  "model": "glm-5.3"
+}

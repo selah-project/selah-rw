@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ku buryo bwo kuragisha bagasyukuye, barasyukuye maze imitima yabo izamuka — ni cyo mpamvu banibagiwe.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Ku buryo bwo kuragisha"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "bagasyukuye"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "barasyukuye"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "izamuka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "imitima yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cyo mpamvu"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "banibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:52.776844057Z",
+  "model": "glm-5.3"
+}

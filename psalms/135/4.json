@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Ko Yah yatoranije Yaakovu ubwite, Yisraeli nk'igicanke cye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "yatoranije"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ubwite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "nk'igicanke cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:17.045335947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ Reseni, iri hagati ya Ninveh na Kelah; iyo ni ⟨ni⟩ umujyi munini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Reseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "munini"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:49.225821840Z",
+  "model": "glm-5.3"
+}

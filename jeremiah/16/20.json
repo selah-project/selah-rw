@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "jeremiah 16:20",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 16,
+ "translation": "Ese umuntu yarema imana iwe, kandi izo ntabwo ari imana?",
+ "tokens": [
+  {
+   "surface": "היעשה",
+   "gloss": "Ese yarema"
+  },
+  {
+   "surface": "לו",
+   "gloss": "iwe"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "imana"
+  },
+  {
+   "surface": "והמה",
+   "gloss": "kandi izo"
+  },
+  {
+   "surface": "לא",
+   "gloss": "ntabwo ari"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "imana"
+  }
+ ],
+ "timestamp": "2026-09-07T21:43:46.205071714Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "2-kings 25:21",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 25,
+ "translation": "Maze umwami wa Baveli yarabise ⟨את⟩ bo maze arabica i Rivlahi, mu gihugu cya Hamati; maze Yehudah yimuriwe ku butaka bwe.",
+ "tokens": [
+  {
+   "surface": "ויך",
+   "gloss": "yarabise"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "bo (abasirikari bafashwe)"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "wa Baveli"
+  },
+  {
+   "surface": "וימיתם",
+   "gloss": "maze arabica"
+  },
+  {
+   "surface": "ברבלה",
+   "gloss": "i Rivlahi"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "mu gihugu"
+  },
+  {
+   "surface": "חמת",
+   "gloss": "cya Hamati"
+  },
+  {
+   "surface": "ויגל",
+   "gloss": "maze yimuriwe"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehudah"
+  },
+  {
+   "surface": "מעל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "אדמתו",
+   "gloss": "butaka bwe"
+  }
+ ],
+ "timestamp": "2026-09-07T14:37:24.740111885Z",
+ "model": "glm-5.3"
+}

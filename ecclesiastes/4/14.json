@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Se mu nzu y'ibifunganyo yavuye kugira umwami, kuko kandi mu bwami bwe yavutse ari umukene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "y'ibifunganyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yavuye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kugira umwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "mu bwami bwe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "yavutse"
+    },
+    {
+      "surface": "רש",
+      "gloss": "umukene"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:49.352558408Z",
+  "model": "glm-5.3"
+}

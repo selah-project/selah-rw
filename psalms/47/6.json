@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Elohimu yazamutse mu mpuruza ⟨ya teru'ah⟩, Yahwe mu ijwi rya shofari.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "yazamutse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mu mpuruza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "rya shofari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:49.817663579Z",
+  "model": "glm-5.3"
+}

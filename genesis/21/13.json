@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi na ⟨את⟩ umwana w'umuja nzamushyira ⟨mu⟩ igihugu, kuko urubare rwawe ni we.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "w'umuja"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "k'igihugu"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nzamushyira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubare rwawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:00.993306239Z",
+  "model": "glm-5.3"
+}

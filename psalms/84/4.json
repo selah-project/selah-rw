@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Nanome inyoni yabonye inzu, n'urunyoni urubibo bwiwe, aho ashyira ibyara byawe — ⟨את⟩ amatable yawe, Yahwe Tsevaoti, umwami wanjye n'Elohimu wanjye!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nanome"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "n'urunyoni"
+    },
+    {
+      "surface": "קן",
+      "gloss": "urubibo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bwiwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ashyira"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ibyara byayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatable yawe"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "amatable yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "n'Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:26.986791126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Ubyishimo ni ubw'abantu ari ko bimeze kuri bo; ubyishimo ni ubw'abantu Yahwe Elohimu wabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubyishimo ni ubw'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ari ko bimeze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ubyishimo ni ubw'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:37.170351741Z",
+  "model": "glm-5.3"
+}

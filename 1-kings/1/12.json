@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "None ubu eza, ⟨nda⟩ nguhabwe inama, maze ukanuro ⟨את⟩ nefeshi yawe na ⟨את⟩ nefeshi y'umwana wawe Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "eza"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "nguhabwe inama"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nda⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "inama"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "maze ukanuro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshi yawe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshi yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nefeshi y'umwana wawe Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "y'umwana wawe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:35:25.084461329Z",
+  "model": "glm-5.3"
+}

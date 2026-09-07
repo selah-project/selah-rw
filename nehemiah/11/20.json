@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "N'ibisigaye by'Abisirayeli n'Abahere n'Abalevi bari mu mijyi yose ya Yuda, buri muntu mu cyirari cye.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "N'ibisigaye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "by'Abisirayeli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "n'Abahere"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "n'Abalevi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mijyi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "mu cyirari cye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:27:39.470786156Z",
+  "model": "glm-5.3"
+}

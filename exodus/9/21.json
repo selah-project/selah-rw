@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "N'uwabitize ntiwashyize umutima we ku ijambo rya Yahwe, maze areka ⟨את⟩ abagaragu be na ⟨את⟩ amatungo ye mu murima.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "n'uwabitize"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ashyize"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "maze areka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagaragu be"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatungo ye"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "amatungo ye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:39.087418962Z",
+  "model": "glm-5.3"
+}

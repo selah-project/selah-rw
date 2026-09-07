@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Dore, kwa Yahwe, Elohimu wawe, hari ijuru n'amajuru y'amajuru, isi na byose ibiri muri yo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "n'amajuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'amajuru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:54.182969410Z",
+  "model": "glm-5.3"
+}

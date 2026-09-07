@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Abakungu bazaza bava mu Mitsrayimu (Egiputa); Kushi (Etiyopiya) irihutisha intoki zawe kuri Elohimu.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "bazaza"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "Abakungu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "bava"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "irihutisha"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "intoki zawe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuri Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:50.004880247Z",
+  "model": "glm-5.3"
+}

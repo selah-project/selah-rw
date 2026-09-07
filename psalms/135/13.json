@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Yahwe, izina ryawe ⟨ni⟩ ry'iteka; Yahwe, urwibutso rwawe ⟨ni⟩ ku muryango n'umuryango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ry'iteka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "urwibutso rwawe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'umuryango"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:24.945138755Z",
+  "model": "glm-5.3"
+}

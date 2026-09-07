@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 131,
+  "translation": "Indirimbo y'izamuka, ya Dawidi. Yahwe, umutima wanjye ntiwazamye, ntiyagize ubwibone n'amaso yanjye, kandi ntagenda mu bikomeye no mu bitangaje kurusha jye.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'izamuka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "kwivumbura"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nti-"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "kuzamuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nagenda"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "mu bikomeye"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "no mu bitangaje"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kurusha jye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:29.954171804Z",
+  "model": "glm-5.3"
+}

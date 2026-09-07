@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Bo basharitse ururimi rwabo nka umupanga, barerekeje umwambi wabo — ijwi ribabuye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "basharitse"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "nka umupanga"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ururimi rwabo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "barerekeje"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "umwambi wabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ribabuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.616431249Z",
+  "model": "glm-5.3"
+}

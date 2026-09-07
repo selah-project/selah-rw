@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Baragerageje, barenganya ⟨את⟩ Elohimu El Elyoni, amabwiriza ye ntibarakurikiranye.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "baragerageje"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "barenganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu El Elyoni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyoni"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "amabwiriza ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "barakurikiranye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:21.677108060Z",
+  "model": "glm-5.3"
+}

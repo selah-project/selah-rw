@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Shebuja wa Yosefu yafashe ⟨את⟩ we, amushyira mu nzu y'ibyongo, ahantu aho abafungwa b'umwami barafungirwa; maze yari aho mu nzu y'ibyongo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosefu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "amushyira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "y'ibyongo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "abafungwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "b'umwami"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "barafungirwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze yari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "y'ibyongo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:10.021802034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Uzakwenyereza, umuyaga ubikwemura, umuyaga mwinshi ⟨את⟩ ubirasa ibi; ariko wowe uzishimira muri Yahwe, mu Mutagatifu wa Yisraeli uziririmbira.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Uzakwenyereza"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "ubikwemura"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "umuyaga mwinshi"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "ubirasa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ibi (ibishishwa — imisozi yasekwanye)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wowe na we"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "uzishimira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "mu Mutagatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "uziririmbira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:16:32.437233145Z",
+  "model": "glm-5.3"
+}

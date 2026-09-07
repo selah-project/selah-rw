@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Icyubahiro k'umuntu ⟨ni⟩ kwihagara mu mpaka; ariko na buri musazi arapfa impaka.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "k'umuntu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kwihagara"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "mu mpaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "musazi"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "arapfa impaka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:24.166842471Z",
+  "model": "glm-5.3"
+}

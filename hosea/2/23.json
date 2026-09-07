@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze bizaba ku munsi ubwo — nzasubiza, ibwirwa rya Yahwe — nzasubiza ⟨את⟩ ijuru, na ko kazisubiza ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nzasubiza"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ibwirwa rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nzasubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na ko"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "kazisubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:27.421275627Z",
+  "model": "glm-5.3"
+}

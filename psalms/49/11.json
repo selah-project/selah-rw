@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ko abona abanyabwenge bapfa, umupfu n'uw'ubujijuke umwe barimbuka, barasiga imitungo yabo abandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "abona"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "abanyabwenge"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bapfa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "umupfu"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "n'uw'ubujijuke"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "barimbuka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "barasiga"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "abandi"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "imitungo yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:14.358196100Z",
+  "model": "glm-5.3"
+}

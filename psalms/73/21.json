@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "kandi umutima wanjye wari waravubuye, n'impyiko zanjye zavunitse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "waravubuye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "n'impyiko zanjye"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "zavunitse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:03.123452680Z",
+  "model": "glm-5.3"
+}

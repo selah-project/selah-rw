@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 76:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 76,
+ "translation": "Ihema rye riri muri Shalemu, aho atuye na ho ari muri Tsiyoni.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": ""
+  },
+  {
+   "surface": "בשלם",
+   "gloss": "muri Shalemu"
+  },
+  {
+   "surface": "סכו",
+   "gloss": "ihema rye"
+  },
+  {
+   "surface": "ומעונתו",
+   "gloss": "aho atuye"
+  },
+  {
+   "surface": "בציון",
+   "gloss": "muri Tsiyoni"
+  }
+ ],
+ "timestamp": "2026-09-07T18:31:01.243809098Z",
+ "model": "glm-5.3"
+}

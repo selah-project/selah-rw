@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "maze uzumve mu ijuru ⟨את⟩ ibisenge byabo na ⟨את⟩ ibyifuzo byabo, maze ukore ikirengo cyabo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maze uzumve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibisenge byabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ibisenge byabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyifuzo byabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ibyifuzo byabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ikirengo cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:48:38.156177870Z",
+  "model": "glm-5.3"
+}

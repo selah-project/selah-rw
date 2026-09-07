@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "ecclesiastes 1:11",
+ "book": "ecclesiastes",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Nta kwibukirwa kw'ibyabanjye; na noneho ibyaza nyuma nta kizaba babifite kwibukirwa, hamwe n'abazaba nyuma yabo.",
+ "tokens": [
+  {
+   "surface": "אין",
+   "gloss": "nta"
+  },
+  {
+   "surface": "זכרון",
+   "gloss": "kwibukirwa"
+  },
+  {
+   "surface": "לראשנים",
+   "gloss": "kw'ibyabanjye"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "na noneho"
+  },
+  {
+   "surface": "לאחרנים",
+   "gloss": "ibyaza nyuma"
+  },
+  {
+   "surface": "שיהיו",
+   "gloss": "bizaba"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "kizaba"
+  },
+  {
+   "surface": "להם",
+   "gloss": "babifite"
+  },
+  {
+   "surface": "זכרון",
+   "gloss": "kwibukirwa"
+  },
+  {
+   "surface": "עם",
+   "gloss": "hamwe na"
+  },
+  {
+   "surface": "שיהיו",
+   "gloss": "bazaba"
+  },
+  {
+   "surface": "לאחרנה",
+   "gloss": "nyuma yabo"
+  }
+ ],
+ "timestamp": "2026-09-07T19:52:06.526515568Z",
+ "model": "glm-5.3"
+}

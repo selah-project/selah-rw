@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Ikobwa ry'inzira z'izamuka. Kuri Yahwe mu kaga nari ndimo, nahamagaye, maze arampishura.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ikobwa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ry'inzira z'izamuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "mu kaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nari ndimo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahamagaye"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "maze arampishura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:12.902421231Z",
+  "model": "glm-5.3"
+}

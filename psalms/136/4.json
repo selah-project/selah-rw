@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Ku We wenyine ukora ibitangaza binini, ko ku iteka ⟨ni⟩ hesedi ye.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ku We ukora"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "binini"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:26.437508947Z",
+  "model": "glm-5.3"
+}

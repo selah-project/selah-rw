@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Umukohenu yahaye abayoboke b'amajana ⟨את⟩ icumu na ⟨את⟩ ingabo z'umwami Dawidi, zari mu nzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umukohenu"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "abayoboke b'"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icumu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "icumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingabo"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zari"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:08.514667566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Nimuhange Yahwe, isi yose; nimuvuge ijwi rihanitse, mukangurwe imbyino, muririre.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Nimuhange"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "Nimuvuge ijwi rihanitse"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "mukangurwe imbyino"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "muririre"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:18.628621659Z",
+  "model": "glm-5.3"
+}

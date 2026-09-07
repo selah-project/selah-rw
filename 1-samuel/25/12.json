@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 25:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Abahungu ba Dawidi basubukiye inzira yabo, banasubira bazaza, baramubwira amagambo yose aya.",
+  "tokens": [
+    {
+      "surface": "ויהפכו",
+      "gloss": "basubukiye"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ba Dawidi"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "inzira yabo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "banasubira"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bazaza"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "baramubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m u- (baramubwira)"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "amagambo yose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:10.507053568Z",
+  "model": "glm-5.3"
+}

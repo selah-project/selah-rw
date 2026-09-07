@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Yosefu yapfuye, n'abavandimwe be bose, n'icyo gisekuruza cyose.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'... bose"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'... cyose"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "icyo gisekuruza"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:46.855430084Z",
+  "model": "glm-5.3"
+}

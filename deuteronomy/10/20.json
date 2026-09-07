@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahwe, Elohimu wawe, mutinye; ⟨את⟩ we mumukore; na we mwifatanye; kandi mu izina rye murahe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "mutinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe (we)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "mumukore"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "mwifatanye"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "mu izina rye"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "murahe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:53:57.791521903Z",
+  "model": "glm-5.3"
+}

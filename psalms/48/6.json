@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Ubwo babonye, bati baragize amaso, baratuwe n'ubwoba, bihutirwa.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ubwo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "baragize amaso"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "baratuwe n'ubwoba"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "bihutirwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:26.368085297Z",
+  "model": "glm-5.3"
+}

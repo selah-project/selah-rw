@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yisraeli (Isirayeli) ni ibitangiriro by'umusaruro we iby'urwibutso kwa Yahwe; bose babiriye bazaba inabi; ibibi bazageraho, ni ukweko kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "iby'urwibutso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ibitangiriro"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "by'umusaruro we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "babiriye"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bazaba inabi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "bazageraho"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": ""
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ni ukweko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:37:19.938934433Z",
+  "model": "glm-5.3"
+}

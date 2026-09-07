@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ku w'umunyerezi — zaburi rya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku w'umunyerezi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:01.023301264Z",
+  "model": "glm-5.3"
+}

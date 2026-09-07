@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "1-chronicles 15:3",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 15,
+ "translation": "Dawidi ntiyahamagaye ⟨את⟩ Yisraeli yose i Yerushalayimu ngo tuzane ⟨את⟩ agakobo ka Yahwe kuri ahantu hawe, aho yari yateguye ko.",
+ "tokens": [
+  {
+   "surface": "ויקהל",
+   "gloss": "yahamagaye"
+  },
+  {
+   "surface": "דויד",
+   "gloss": "Dawidi"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yisraeli yose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "yose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "אל",
+   "gloss": "i"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayimu"
+  },
+  {
+   "surface": "להעלות",
+   "gloss": "ngo tuzane"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "agakobo k'Yahwe"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "agakobo"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "ka Yahwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "מקומו",
+   "gloss": "ahantu hawe"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "aho"
+  },
+  {
+   "surface": "הכין",
+   "gloss": "yari yateguye"
+  },
+  {
+   "surface": "לו",
+   "gloss": "ko"
+  }
+ ],
+ "timestamp": "2026-09-07T20:38:38.259406203Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Iyi ni yo mazi manini kandi yagutse impande; aho hari ibinyamagana bitagira umubare, ibinyabuzima bito hamwe n'ibinini.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Iyi ni yo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "manini"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "kandi yagutse"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "impande"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ibinyamagana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bitagira"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ibinyabuzima"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "bito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ibinini"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:18.341047518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Barakoze ⟨את⟩ Pesahi mu kwezi kwa mbere, ku munsi wa cumi na kane w'ukwezi, hagati y'impari z'ejo, mu butayu bwa Sinayi; uko byose Yahwe yategetse ⟨את⟩ Moshe (Mose), ni ko abana ba Yisraeli (Isirayeli) bakoze.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesahi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesahi"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "mu kwezi kwa mbere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "w'ukwezi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "y'impari z'ejo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "bwa Sinayi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:10:18.113460493Z",
+  "model": "glm-5.3"
+}

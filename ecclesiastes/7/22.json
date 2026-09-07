@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko incuro nyinshi umutima wawe urazi ko na wowe waguze abandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "incuro"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nyinshi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "urazi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "waguze"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abandi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:18.972034161Z",
+  "model": "glm-5.3"
+}

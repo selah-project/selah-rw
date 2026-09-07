@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Azacire abakene b'abantu, azakize abana b'abakene cyane, maze agandagure umugome.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Azacire"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "abakene"
+    },
+    {
+      "surface": "עם",
+      "gloss": "b'abantu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "azakize"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "b'abakene cyane"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "maze agandagure"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "umugome"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:32.706349554Z",
+  "model": "glm-5.3"
+}

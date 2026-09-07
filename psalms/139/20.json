@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Abo bavuga izina ryawe mu nzererezo; abansi bawe bakoresha izina ryawe ububeshi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "bavuga izina ryawe"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "mu nzererezo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bakoresha izina ryawe"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ububeshi"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "abansi bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:30.459421933Z",
+  "model": "glm-5.3"
+}

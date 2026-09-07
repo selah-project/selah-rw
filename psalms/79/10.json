@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 79:10",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 79,
+ "translation": "Kuki ibihugu byo bivuga ati: Elohimu wabo iri he? Imenyekane mu ibihugu, imbere y'amaso yacu, igihano cy'amaraso y'abagaragu bawe yashyundutse.",
+ "tokens": [
+  {
+   "surface": "למה",
+   "gloss": "Kuki"
+  },
+  {
+   "surface": "יאמרו",
+   "gloss": "byo bivuga"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "ibihugu"
+  },
+  {
+   "surface": "איה",
+   "gloss": "iri he"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimu wabo"
+  },
+  {
+   "surface": "יודע",
+   "gloss": "Imenyekane"
+  },
+  {
+   "surface": "בגיים",
+   "gloss": "mu ibihugu"
+  },
+  {
+   "surface": "לעינינו",
+   "gloss": "imbere y'amaso yacu"
+  },
+  {
+   "surface": "נקמת",
+   "gloss": "igihano"
+  },
+  {
+   "surface": "דם",
+   "gloss": "cy'amaraso"
+  },
+  {
+   "surface": "עבדיך",
+   "gloss": "y'abagaragu bawe"
+  },
+  {
+   "surface": "השפוך",
+   "gloss": "yashyundutse"
+  }
+ ],
+ "timestamp": "2026-09-07T18:34:23.726377219Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yaravuye kuri njye ati: Ese ntabwo uzi ibi ari ibi? Nanjye navuze ndi: Oya, databuja wanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ese"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Oya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "databuja wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:57:22.886640629Z",
+  "model": "glm-5.3"
+}

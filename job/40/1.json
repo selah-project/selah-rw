@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Yahwe yasubije ⟨את⟩ Iyobu hanyuma aravuga:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yasubije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    }
+  ],
+  "timestamp": "2026-09-07T22:01:53.056635665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Bazamutse mu Mitsrayimu, baza mu gihugu cya Kenaana, kwa Yaakovu se wabo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "bazamutse"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "se wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:39.277032051Z",
+  "model": "glm-5.3"
+}

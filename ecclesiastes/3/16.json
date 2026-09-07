@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi nanjye nabonye munsi y'izumba: aho urubanza ari ho ikibi, n'aho ubutungane ari ho ikibi.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nanjye nabonye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izumba"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "aho"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ari ho"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "n'aho"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ari ho"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ikibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:31.260326408Z",
+  "model": "glm-5.3"
+}

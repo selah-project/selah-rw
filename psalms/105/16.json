@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yahamagaje inzara ku isi, yaracitse umugozi wose w'ibiribwa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaje"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "-ose"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umugozi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "w'ibiribwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yaracitse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:02.059901393Z",
+  "model": "glm-5.3"
+}

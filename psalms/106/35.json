@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Banashakanye n'amahanga, maze bakiga ibikorwa byabyo.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "Banashakanye"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'amahanga"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "maze bakiga"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ibikorwa byabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:56.167727746Z",
+  "model": "glm-5.3"
+}

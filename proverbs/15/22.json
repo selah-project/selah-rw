@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Imigambi irimbuka aho ubujyanama butabaho; ariko mu bujyanama bwinshi ihagama.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "irimbuka"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "imigambi"
+    },
+    {
+      "surface": "באין",
+      "gloss": "aho...butabaho"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ubujyanama (inama y'ibanga)"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mu...bwinshi"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "ababujyanama"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ihagama"
+    }
+  ],
+  "timestamp": "2026-09-07T19:08:42.704927240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Iyo ndazimangira inhembe ya Dawidi, nateganye urumuri rya Mashiyah wanjye.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ndazimangira"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "inhembe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "nateganye"
+    },
+    {
+      "surface": "נר",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "rya Mashiyah wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:20.216154032Z",
+  "model": "glm-5.3"
+}

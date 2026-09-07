@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Njye ⟨ni⟩ Yahwe, Elohimu wawe, nakuvanyemo mu gihugu cya Mitsrayimu (Egiputa), mu nzu y'ubucakara.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "nakuvanyemo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu y'"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ubucakara"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:21.668185884Z",
+  "model": "glm-5.3"
+}

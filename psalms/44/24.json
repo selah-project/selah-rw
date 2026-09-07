@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Zura! Kubera iki urasekana? Adonayi! Vuka, ntudatandukanye n'iteka.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Zura!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "urasekana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "datandukanye"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "n'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:24.862584048Z",
+  "model": "glm-5.3"
+}

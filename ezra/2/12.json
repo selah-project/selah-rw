@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana b'Azigadi, igihumbi n'amajana abiri, mirongo ibiri na babiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azigadi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igihumbi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amajana abiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo ibiri"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na babiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:13:57.196056976Z",
+  "model": "glm-5.3"
+}

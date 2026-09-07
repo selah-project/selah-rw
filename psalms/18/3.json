@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yahwe ⟨ni⟩ urutare rwanjye, n'urwibatsi rwanjye, n'ukurokoka kwanjye; Eli wanjye, ibuye ryanjye, niyingize muri we; ingabo yanjye, n'umunwa w'ukurokoka kwanjye, ahantu hanjye h'umutekano.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "n'urwibatsi rwanjye"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "n'ukurokoka kwanjye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ibuye ryanjye"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "niyingize"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ingabo yanjye"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "n'umunwa w'"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ukurokoka kwanjye"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ahantu hanjye h'umutekano"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:01.089149697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze ubyeho, igihe yicaye ku ntebe y'ubwami bwe, azirandikira iwe ⟨את⟩ uruhinde rwa Tora iyi ku gitabo, mu gihe atorewe ibyo imbere y'abakohenu abaLevi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maze ubyeho"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "igihe yicaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ntebe"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ubwami bwe"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "azirandikira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhinde rwa Tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "uruhinde"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:22:43.934613731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Eli wari ufite imyaka mirongo cyenda n'umunani, maze amaso ye yari yahagaze, ntiyashobora kubona.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ufite imyaka"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "mirongo cyenda"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "n'umunani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "yari yahagaze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntiya-"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "shobora"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:46.210735336Z",
+  "model": "glm-5.3"
+}

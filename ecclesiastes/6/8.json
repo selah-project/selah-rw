@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ahubu umunyabwenge afite iki kurusha umujiji? Umukene uzi kugenda mu maso y'abahizi afite iki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahubu\/ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "umujiji"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kugenda"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "abahizi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:12.324595876Z",
+  "model": "glm-5.3"
+}

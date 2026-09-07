@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ku ruhande rw'urubibi impeta zizaba, nk'imyanya y'ibenda yo gutwara ⟨את⟩ imeza.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "urubibi"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "zizaba"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "impeta"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "nk'imyanya"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "y'ibenda"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "yo gutwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:49.296693803Z",
+  "model": "glm-5.3"
+}

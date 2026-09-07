@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 67,
+  "translation": "Elohimu atugirire impuhwe, maze aturemeshe umugisha; atyumurikishire uruhare rwe ⟨את⟩ kuri twe. Selahi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "atugirire impuhwe"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "aturemeshe umugisha"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "atyumurikishire"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uruhare rwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kuri twe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:01.691825448Z",
+  "model": "glm-5.3"
+}

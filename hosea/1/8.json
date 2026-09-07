@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Amaze kumejesha ⟨את⟩ Lo-Ruhamaha, arongera afite inda maze avyara umwana w'umuhungu.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "amaze kumejesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamaha"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "afite inda"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "avyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana w'umuhungu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:40.664165063Z",
+  "model": "glm-5.3"
+}

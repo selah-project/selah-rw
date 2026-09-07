@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Yisraeli yagabanyutse cyane imbere ya Midiyani, maze abana ba Yisraeli bararira kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "yagabanyutse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "maze bararira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:53:47.457650705Z",
+  "model": "glm-5.3"
+}

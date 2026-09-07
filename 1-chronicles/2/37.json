@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Zavadi yabyaye ⟨את⟩ Efurali, kandi Efurali yabyaye ⟨את⟩ Ovedi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zavadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efurali"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efurali"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "kandi Efurali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:43.865365775Z",
+  "model": "glm-5.3"
+}

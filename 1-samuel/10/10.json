@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Baraje iyo ku Givata, maze ubona itsinda ry'abahanuzi rya muhuye; umwuka wa Elohimu yaramukubise kuri we, maze ahanuza muri bo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Baraje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "ku Givata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze ubona"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "itsinda"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ry'abahanuzi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "rya muhuye"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "yaramukubise"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohimu"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "maze ahanuza"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "muri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:24.500337566Z",
+  "model": "glm-5.3"
+}

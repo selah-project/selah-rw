@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Munsi wose kwibaza kwanjye kiri imbere yanjye, kandi isoni y'uburanga bwanjye yanshekeje.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Munsi"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "kwibaza kwanjye"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburanga bwanjye"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "yanshekeje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:16.573671298Z",
+  "model": "glm-5.3"
+}

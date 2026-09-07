@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Terahi na we yabayeho imyaka mirongo irindwi, maze abyara ⟨את⟩ Avramu, ⟨את⟩ Nahori na ⟨את⟩ Harani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze abyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:39.546564947Z",
+  "model": "glm-5.3"
+}

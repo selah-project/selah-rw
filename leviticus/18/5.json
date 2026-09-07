@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Muzirikane ⟨את⟩ amategeko yanjye na ⟨את⟩ imiburano yanjye; ibyo umuntu yakora ⟨את⟩ azabaho muri byo; njye ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "muzirikane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yanjye"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imiburano yanjye"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imiburano yanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ayo (ibyo)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "azabaho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:28.114865773Z",
+  "model": "glm-5.3"
+}

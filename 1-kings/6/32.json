@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'amarembo abiri y'ibiti by'ibiheri; maze yatembeshaho ibishushanyo byatemetswe — kerubimu, imisave, n'indabyo zifunguye — maze yabishyizeho zahabu, maze yashyishije ⟨את⟩ zahabu ku kerubimu no ku misave.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "n'abiri"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "amarembo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "y'ibiti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "by'ibiheri"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "maze yatembeshaho"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ibishushanyo"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "byatemetswe"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "imisave"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "n'indabyo"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "zifunguye"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "maze yabishyizeho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "maze yashyishije"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "misave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:36:41.223378159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Kandi ntibaba nk'ababyeyi babo — ibisekuruzi bidakiranuka kandi bihungabana, ibisekuruzi umutima wacyo ntitwatunganyijwe, kandi umuya wacyo ntiwari wemewe kuri ⟨את⟩ Eli.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibaba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "batabe"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "nk'ababyeyi babo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ibisekuruzi"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "bidakiranuka"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "kandi bihungabana"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ibisekuruzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntitwatunganyijwe"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "cyatunganyije"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima wacyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntiwari wemewe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "wemewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umuya wacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:02.330707144Z",
+  "model": "glm-5.3"
+}

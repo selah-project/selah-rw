@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Ese amatongo yawe arakundwa, Yahwe Tsevaoti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "arakundwa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "amatongo yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:26.985709758Z",
+  "model": "glm-5.3"
+}

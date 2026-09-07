@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Muri wowe abakurambere bacu bizeye; bizeye, maze wabarokotse.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bizeye"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bizeye"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "maze wabarokotse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:19.268324141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu iteka ntindibagirwe amabwiriza yawe, kuko ni byo wansubijije ubuzima.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Mu iteka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ndibagirwe"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ni byo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wansubijije ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:17.416652959Z",
+  "model": "glm-5.3"
+}

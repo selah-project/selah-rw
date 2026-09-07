@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "maze wumve mu ijuru ⟨את⟩ indomba yabo na ⟨את⟩ ubusabe bwabo, maze ukore ikirego cyabo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "maze wumve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indomba yabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "indomba yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubusabe bwabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ubusabe bwabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ikirego cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:39:48.880000189Z",
+  "model": "glm-5.3"
+}

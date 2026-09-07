@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 70,
+  "translation": "Bafurije kandi bashime muri wewe, bose abakugushaka; kandi baravuge buri gihe ngo Elohimu yagwiy'agakiza, abakunda urokoke rwawe.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "bafurije"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "kandi bashime"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wewe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "abakugushaka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kandi baravuge"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "yagwiy'agakiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "abakunda"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "urokoke rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:13.417452189Z",
+  "model": "glm-5.3"
+}

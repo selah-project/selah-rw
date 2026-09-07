@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Shelomu yicaye ku ntebe ya Dawidi se, maze ubwami bwe bwemejwa cyane.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "Shelomu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yicaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ntebe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "maze bwemejwa"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "ubwami bwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:11.708900928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Uzasigura ⟨את⟩ Mishikani ukurikije umushinga wawo, uwo wagaragajwe ku gasozi.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "uzasigura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ukurikije umushinga wawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "wagaragajwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku gasozi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:15.836683441Z",
+  "model": "glm-5.3"
+}

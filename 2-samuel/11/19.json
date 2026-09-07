@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze ategeka ⟨את⟩ umutumwa ati: Uko wemeye kubwira umwami ⟨את⟩ amagambo yose y'intambara,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ategeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutumwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "uko wemeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose y'intambara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "y'intambara"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kubwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:37.997995686Z",
+  "model": "glm-5.3"
+}

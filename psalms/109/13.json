@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Iherezo rye rihorane ⟨kwo kazibwamo⟩; izina ryabo rirasibwe mu rubyaro ⟨rw'indi⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rihorane"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "iherezo rye"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "⟨kwo kazibwamo⟩"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mu rubyaro"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨rw'indi⟩"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ricibwe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "izina ryabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:50.977190699Z",
+  "model": "glm-5.3"
+}

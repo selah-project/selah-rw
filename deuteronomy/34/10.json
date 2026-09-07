@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Mu Yisraeli ntihazutse umuhanuzi nk'aho ari Moshe, we Yahwe yamumenyeho ibuso ku buso.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "קם",
+      "gloss": "hazutse"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nk'uyu munsi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "nk'aho ari Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yamumenyeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ibuso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "buso"
+    }
+  ],
+  "timestamp": "2026-09-07T11:23:08.791268095Z",
+  "model": "glm-5.3"
+}

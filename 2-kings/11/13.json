@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Atalyah yarumvise ⟨את⟩ ijwi ry'abiruka n'abantu, maze yinjira ku bantu, mu nzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "yarumvise"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ry'abiruka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "maze yinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:38.261840323Z",
+  "model": "glm-5.3"
+}

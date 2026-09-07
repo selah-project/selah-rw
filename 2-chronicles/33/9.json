@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Menashu (Manase) yaratumye ⟨את⟩ Yehuda n'abatuye Yerushalayimu (Yerusalemu) buyobe, bakora ikibi kurusha amahanga Yahwe yasenzuye imbere y'abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויתע",
+      "gloss": "yaratumye buyobe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashu (Manase)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "n'abatuye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu (Yerusalemu)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "yasenzuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:02:33.765811424Z",
+  "model": "glm-5.3"
+}

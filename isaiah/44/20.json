@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Amafura ni byo arya; umutima wayobewe wamuyobye, ntagira icyo akiza ⟨את⟩ Nefeshi ye, kandi ntiyavuga ngo: Ese si ubuhinyanyi buhari mu kuboko kwanjye kuryo?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "arya"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "amafura"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "wayobewe"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "wamuyobye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "yakiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi ye"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshi ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yavuge"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ese si"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuhinyanyi"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "mu kuboko kwanjye kuryo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:41:02.015681663Z",
+  "model": "glm-5.3"
+}

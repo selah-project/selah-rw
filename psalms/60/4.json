@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Wagize isi igenda yigana, wayibaze — kiriza ibyago byayo, kuko igenda yigumba.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Wagiza igenda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "wayibaze"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "kiriza"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ibyago byayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yigumba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.759181659Z",
+  "model": "glm-5.3"
+}

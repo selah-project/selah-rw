@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Ingari za Elohimu ni ibihumbu makumyabiri, ibihumbu by'inshuro ibihumbu; Adonayi yari muri zo, muri Sinayi, mu gitagatifu.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Ingari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "ibihumbu makumyabiri"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ibihumbu"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "by'inshuro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri zo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu gitagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:05.820677548Z",
+  "model": "glm-5.3"
+}

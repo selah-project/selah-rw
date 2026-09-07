@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "arahagaze, araheza aha ⟨את⟩ itumba ryose rya Yisraeli umugisha, ijwi rihanitse, ati:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "arahagaze"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "araheza aha umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itumba ryose rya Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "itumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rya Yisraeli"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rihanitse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T13:43:58.287789394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze agacece ⟨את⟩ cyo mu bice bye, na ⟨את⟩ umutwe we na ⟨את⟩ ibinure bye; maze kohenu atege ⟨את⟩ ibyo ku nkwi ziri ku muriro uri ku icaniro.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "maze agacece"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cyo (igitungo)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "mu bice bye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutwe we"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure bye"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ibinure bye"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "maze atege"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (ibice, umutwe, ibinure)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nkwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ziri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האש",
+      "gloss": "muriro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "icaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:20.819851793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi ku rutoki rwa kabiri: amatambaro amafunda cumi na gatanu; imingoti yacyo itatu, n'ibishyigikiro byayo bitatu.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "Kandi ku rutoki"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rwa kabiri"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "gatanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na cumi"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "amatambaro"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "imingoti yacyo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "n'ibishyigikiro byayo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bitatu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:03:24.644836663Z",
+  "model": "glm-5.3"
+}

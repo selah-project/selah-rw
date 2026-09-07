@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Reayah mwene Shovali yabyaye ⟨את⟩ Yahati, maze Yahati yabyaye ⟨את⟩ Achumayi na ⟨את⟩ Lahadi; aya ⟨ni⟩ amuryango ya ba Zoreati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shovali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahati"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahati"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "maze Yahati"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumayi"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lahadi"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "amuryango"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ya ba Zoreati"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:24.091988242Z",
+  "model": "glm-5.3"
+}

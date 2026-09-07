@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Ushinje ushinije ngo nagwe, ariko Yahwe yaransizeho.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ushinje"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ushinije"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ngo nagwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ariko Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "yaransizeho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:29.989416959Z",
+  "model": "glm-5.3"
+}

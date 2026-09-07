@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Isi y'umukazana wawe ntuyigaragaze: ni umugore w'umwana wawe we; ntuzagaragaza isi ye.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "umukazana wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "yigaragaze"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "w'umwana wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zagaragaza"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "isi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:05.949345891Z",
+  "model": "glm-5.3"
+}

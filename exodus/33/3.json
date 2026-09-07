@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Ku gihugu gihunda amata n'ubuki; koki ntagiye kuzamuka muri mwe, koki muri wowe, umuryango ufite umugozi w'ijosi ukomeye, ntinde ko mbarimbura ku nzira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "gihunda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "amata"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "n'ubuki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntagiye"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kuzamuka"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ukomeye"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "umugozi w'ijosi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ntinde ko"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mbarimbura"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ku nzira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:08.490527290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Kuko ko Yahwe yavuze ati: Muragurishijwe badahemberwe, kandi nta safi mwe mukizwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "badahemberwe"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "Muragurishijwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "safi"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "mwe mukizwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:27:49.865984504Z",
+  "model": "glm-5.3"
+}

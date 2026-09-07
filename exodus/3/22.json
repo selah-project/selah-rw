@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umugore azasaba umuturanyi we wutuye mu nzu ye n'uwutuye wo mu nzu ye ibikoresho by'ifeza n'ibikoresho by'zahabu n'imyambaro; muzashyira ku bahungu banyu no ku bakobwa banyu, muzasatura ⟨את⟩ Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "azasaba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Umugore"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "umuturanyi we wutuye mu nzu ye"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "n'uwutuye wo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "by'ifeza"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "n'ibikoresho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "by'zahabu"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "n'imyambaro"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "muzashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bahungu banyu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bakobwa banyu"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "muzasatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:18.092162419Z",
+  "model": "glm-5.3"
+}

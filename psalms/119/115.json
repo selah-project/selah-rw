@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nimukureho muri jye, inkozi z'ibibi, kandi nzirikana amategeko ya Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Nimukureho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "muri jye"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "inkozi z'ibibi"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "kandi nzirikana"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:44.489826461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "exodus 39:30",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 39,
+ "translation": "Bakoreye ⟨את⟩ tsitsi ry' nezeri ry'ubutagatifu, za zahabu werere, maze baranditse ho umwandiko mu mpimbano z'agakariso: Ubutagatifu kwa Yahwe.",
+ "tokens": [
+  {
+   "surface": "ויעשו",
+   "gloss": "bakoreye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tsitsi"
+  },
+  {
+   "surface": "ציץ",
+   "gloss": "tsitsi ⟨ururabo rwerera⟩"
+  },
+  {
+   "surface": "נזר",
+   "gloss": "nezeri"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "ubutagatifu"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "zahabu"
+  },
+  {
+   "surface": "טהור",
+   "gloss": "werere"
+  },
+  {
+   "surface": "ויכתבו",
+   "gloss": "baranditse"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "ho"
+  },
+  {
+   "surface": "מכתב",
+   "gloss": "umwandiko"
+  },
+  {
+   "surface": "פתוחי",
+   "gloss": "mu mpimbano"
+  },
+  {
+   "surface": "חותם",
+   "gloss": "z'agakariso"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "Ubutagatifu"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "kwa Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:23:10.323543863Z",
+ "model": "glm-5.3"
+}

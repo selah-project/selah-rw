@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Nta miterere myiza muri umubiri wanjye, ku bwa irenge ryawe; nta mahoro muri amagufwa yanjye, ku bwa icyaha cyanjye.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mitere myiza"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "muri umubiri wanjye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "irenge ryawe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "muri amagufwa yanjye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "icyaha cyanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:18.817441319Z",
+  "model": "glm-5.3"
+}

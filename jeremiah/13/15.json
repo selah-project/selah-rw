@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Mumve, mwumvise neza; mudashyira hejuru, kuko Yahwe yavuze.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "mwumvise neza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muda (nta)"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "shyira hejuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    }
+  ],
+  "timestamp": "2026-09-07T15:54:03.421937935Z",
+  "model": "glm-5.3"
+}

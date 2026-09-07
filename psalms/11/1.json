@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ku mutegetsi; ururwi rwa Dawidi. Muri Yahwe niringiye; uko mute mubwira Nefeshi yanjye, muti: Imuka, nk'inyoni, ku msozi yawe!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutegetsi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ururwi rwa Dawidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Muri Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "niringiye"
+    },
+    {
+      "surface": "איך",
+      "gloss": "uko mute"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mubwira"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Imuka"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ku msozi yawe"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nk'inyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:41.008159419Z",
+  "model": "glm-5.3"
+}

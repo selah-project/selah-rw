@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yahwe arayobora abanyantege-ntare mu butungane, kandi arayigisha abanyantege-ntare inzira ye.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "arayobora"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abanyantege-ntare"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu butungane"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "kandi arayigisha"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abanyantege-ntare"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "inzira ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:01.962261192Z",
+  "model": "glm-5.3"
+}

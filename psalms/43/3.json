@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Ohereza urumuri rwawe n'ukuri kwawe; ivyo biranyobora, biranazana kuri umusozi w'ubutagatifu bwawe no kuri aho utuye.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ohereza"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "urumuri rwawe"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "n'ukuri kwawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivyo"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "biranyobora"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "biranazana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "w'ubutagatifu bwawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "aho utuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:23.465218337Z",
+  "model": "glm-5.3"
+}

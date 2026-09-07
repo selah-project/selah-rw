@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "⟨את⟩ Betseri mu butayu, mu gihugu cy'urwunjye, kuri Reuveni; na ⟨את⟩ Raamoti mu Gileadi, kuri Gadi; na ⟨את⟩ Golani mu Bashani, kuri Manashe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betseri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betseri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "cy'urwunjye"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kuri Reuveni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Raamoti"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamoti"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "mu Gileadi"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "kuri Gadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Golani"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golani"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "mu Bashani"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "kuri Manashe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:56.750915344Z",
+  "model": "glm-5.3"
+}

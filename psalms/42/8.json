@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Amazi manini ahamagara amazi manini ku ijwi ry'amasoko yawe amazi; amasoko yawe yose n'amabaju yawe byanyuye kuri jye.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Amazi manini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "amazi manini"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ahamagara"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ry'amasoko yawe amazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "amasoko yawe"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "n'amabaju yawe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "byanyuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:45.786989304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yahwe yaravugiye n'ijamwa rya Moshe (Mose), ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravugiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ijamwa rya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:16.327569886Z",
+  "model": "glm-5.3"
+}

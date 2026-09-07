@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 19:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Abatware b'abana b'Amoni baravuze bati Hanunu: Ese Dawidi ari uguha agaciro ⟨את⟩ se wawe mu maso yawe, kuko yakoherereje kuri wowe abaruhukizi? Ese si kugira ngo baguruke, bahindure, no kurondera igihugu, nti baje abagaragu be iwawe?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze bati"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "b'Amoni"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "Hanunu"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "ari uguha agaciro"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se wawe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "se wawe"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yakoherereje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "abaruhukizi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ese si"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "baguruke (baronde)"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "bahindure"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "no kuronderea"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nti baje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:34.492158701Z",
+  "model": "glm-5.3"
+}

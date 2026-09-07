@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Ntimukorere icyaha Mashiyah banjye; nabiyanjye banjye ntimubagirire nabi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "-korere icyaha"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashiyah banjye"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "nabiyanjye banjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "-bagirire nabi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:02.059657209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ariko ku byaha bya Yaravamu mwene Nevati, uwo waciye ⟨את⟩ Yisraeli icyaha, yagumyeho; ntiyavuyemo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ku byaha bya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "waciye ... icyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yagumyeho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiya-"
+    },
+    {
+      "surface": "סר",
+      "gloss": "-vuyemo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "-mo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:07:01.641991402Z",
+  "model": "glm-5.3"
+}

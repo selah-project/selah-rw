@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze yinjira kuri Hagari, aramwibyara; Hagari abona ko yabyariye, maze shebuja we arasuzugurwa mu maso ye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "aramwibyara"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "yabyariye"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "arasuzugurwa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "shebuja we"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:47:42.029961131Z",
+  "model": "glm-5.3"
+}

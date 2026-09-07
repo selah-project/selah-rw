@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "None ho, ihutisha ⟨את⟩ amatungo yawe na ⟨את⟩ ibyo ufite byose mu murima; kuko umuntu wese n'inyamaswa zizaboneka mu murima zitazanirwa mu nzu, urubura ruzamanika kurizo, zikapfa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ho"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "העז",
+      "gloss": "ihutisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatungo yawe"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "amatungo yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyo ufite byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "n'inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi-"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "-zaboneka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "zita-"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "-zanirwa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "rizamanika"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "kurizo"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "urubura"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "zikapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:23.490528844Z",
+  "model": "glm-5.3"
+}

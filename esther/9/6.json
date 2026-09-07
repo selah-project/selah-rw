@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Muri Shushani cyangwa ijisho rya qasr, Abayahudi bakoze icitwa n'uburimbanyi ku bantu amajana atanu.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Muri Shushani"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "cyangwa ijisho rya qasr"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "bakoze icitwa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Abayahudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "n'uburimbanyi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:14.965562207Z",
+  "model": "glm-5.3"
+}

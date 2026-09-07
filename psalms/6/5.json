@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Subira, Yahwe we; koheroza Nefeshi yanjye; unkingire kubera hesedi yawe.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Subira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "koheroza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "unkingire"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:58.627330849Z",
+  "model": "glm-5.3"
+}

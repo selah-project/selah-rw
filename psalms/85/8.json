@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Twereka, Yahwe, hesedi yawe ⟨urukundo n'impuhwe⟩, n'ukokozi kwawe utange kuri twebwe.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Twereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "n'ukokozi kwawe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utange"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:30.628462931Z",
+  "model": "glm-5.3"
+}

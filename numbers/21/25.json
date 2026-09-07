@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yisraeli yafashe ⟨את⟩ imijyi yose iyi, maze Yisraeli yaturiye mu mujyi yose y'Abemori, mu Heshibonu no mu byaro byayo byose.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imijyi yose iyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maze yaturiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu yose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "y'Abemori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "mu Heshibonu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu byose"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "byaro byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:24:20.010434194Z",
+  "model": "glm-5.3"
+}

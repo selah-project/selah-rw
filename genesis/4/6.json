@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yabwiye Kajini ati: Ni iki wakijije, kandi ni iki uburanga bwawe bwamanutse?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye… ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wakijije"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kandi ni iki"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bwamanutse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburanga bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:15.219863398Z",
+  "model": "glm-5.3"
+}

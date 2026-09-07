@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Muhe mwe abagabo batatu kuri buri muryango, ndabatumira; bazahaguruka, bagende mu isi, bayandike ⟨את⟩ yi bivuye ku murage wabo, maze bazangira iwanjye.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "muhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "kuri buri muryango"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "ndabatumira"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "bazahaguruka"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "bagende"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "bayandike"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ yi",
+      "marks": "isi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bivuye ku"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "umurage wabo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bazangira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:39:15.438207909Z",
+  "model": "glm-5.3"
+}

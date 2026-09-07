@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi iyo ifaru yagogoduye ⟨את⟩ umuntu cyangwa ⟨את⟩ umugore maze apfa, ifaru icasirwe mu mabuye, kandi ntibarye ⟨את⟩ inyama ze; n'umutunzi w'ifaru ni inzirakarengane.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "yagogoduye"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ifaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "maze apfa"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "icasirwe"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "mu mabuye"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ifaru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "barye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama ze"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama ze"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "n'umutunzi"
+    },
+    {
+      "surface": "השור",
+      "gloss": "w'ifaru"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ni inzirakarengane"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:39.047921880Z",
+  "model": "glm-5.3"
+}

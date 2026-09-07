@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi kubwayo (kubwa uwo mugore) Paro yakoreye Avramu neza; maze afite intama n'inka n'indogobe, abagaragu n'abaja, indogobi n'ingamiya.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "kandi... Avramu"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "yakoreye neza"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "kubwayo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze afite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "n'inka"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "n'indogobe"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "n'abaja"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "indogobi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "n'ingamiya"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:55.441571716Z",
+  "model": "glm-5.3"
+}

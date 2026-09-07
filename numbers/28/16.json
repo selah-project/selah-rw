@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "No mu kwezi kwa mbere, ku wa cumi na kane w'ukwezi, Pesahi kwa Yahwe ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "no mu kwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kwa mbere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ku wa cumi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "w'ukwezi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesahi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:34:05.273677673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi iyo mugurisha igicuruzwa k'umuturanyi wanyu, cyangwa mugura ku bugari bw'umuturanyi wanyu, ntimuhohote umuntu ⟨את⟩ murumuna we.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "mugurisha"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "igicuruzwa"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "k'umuturanyi wanyu"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "mugura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ku bugari"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "bw'umuturanyi wanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "muhohote"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murumuna we"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "murumuna we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:53.180056125Z",
+  "model": "glm-5.3"
+}

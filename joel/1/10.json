@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umurima warokotse, isi irarira; kuko ingano yarokotse, divayi yaryuye, amavuta aryamye.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "warokotse"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "irarira"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yarokotse"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ingano"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "yaryuye"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "divayi"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "aryamye"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "amavuta"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:19.087619199Z",
+  "model": "glm-5.3"
+}

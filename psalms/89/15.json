@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ubutabera n'urubanza ni umusingi w'intebe yawe; hesedi n'ukuri bizihuta imbere y'amaso yawe.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ubutabera"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'urubanza"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ni umusingi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "w'intebe yawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "n'ukuri"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "bizihuta imbere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "y'amaso yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:40.035234549Z",
+  "model": "glm-5.3"
+}

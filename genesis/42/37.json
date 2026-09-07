@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Reubenu yaravuze kuri se ⟨ati⟩: ⟨את⟩ abana be babiri uzica iyo mutamuzanira iwawe; muha ⟨את⟩ we ku ntoki zanjye, kandi njye nzamugarukira iwawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ati⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana be babiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "uzica"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "muta-"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "-muzanira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "muha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Binyamini)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ntoki zanjye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kandi njye"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "nzamugarukira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:07.569035110Z",
+  "model": "glm-5.3"
+}

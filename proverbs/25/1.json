@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ibi nabyo ni imigani ya Shelomo (Salomo) abantu ba Chizkiyahu, umwami wa Yehuda, bakoze kuvugurura.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nabyo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "imigani ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amwe"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "bakoze kuvugurura"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu ba"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T19:14:22.358754915Z",
+  "model": "glm-5.3"
+}

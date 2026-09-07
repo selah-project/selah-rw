@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Iya Dawidi. Rwasa, Yahwe, ⟨את⟩ abarwanzi banjye; urwane ⟨את⟩ abarwanyi banjye.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Rwasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abarwanzi banjye"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "abarwanzi banjye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "urwane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abarwanyi banjye"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "abarwanyi banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:37.004973994Z",
+  "model": "glm-5.3"
+}

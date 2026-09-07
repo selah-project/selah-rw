@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 114,
+  "translation": "Isi, uhindaguruka imbere ya Adoni, imbere ya Elowa wa Yaakovu.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "uhindaguruka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Isi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:33.937182066Z",
+  "model": "glm-5.3"
+}

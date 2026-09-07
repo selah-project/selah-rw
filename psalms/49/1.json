@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ku w'umunyagitaremu, kubana ba Korahi (Korahi), umuziko.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku w'umunyagitaremu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuziko"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:53.812022694Z",
+  "model": "glm-5.3"
+}

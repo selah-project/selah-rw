@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Shelomo (Salomo) na we yarubatse ⟨את⟩ Gazeru na ⟨את⟩ Bethi-Horoni yo hasi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na we yarubatse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazeru"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gazeru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "yo hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:26.852788026Z",
+  "model": "glm-5.3"
+}

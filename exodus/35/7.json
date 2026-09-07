@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "N'amahu y'impene yakerewe icyatsi kibisi kandi yame neza ku mutuku, n'amahu y'ibimuri, n'ibiti by'areshya.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "n'amahu y'impene"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "y'impene"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "yakerewe umutuku"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "n'amahu"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "y'ibimuri"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "n'ibiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "by'aburesya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:11:39.344243267Z",
+  "model": "glm-5.3"
+}

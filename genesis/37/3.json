@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yisraeli (Isirayeli) ntiyakundaga ⟨את⟩ Yosefu kurusha abana be bose, kuko yari umwana w'ubusaza bwe; maze amukoreye icyambaro cya pasimu ⟨cy'agaciro⟩.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakundaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha... bose"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "w'ubusaza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yari we"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "maze... amukoreye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mu-"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "icyambaro"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "cya pasimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:14:02.667080296Z",
+  "model": "glm-5.3"
+}

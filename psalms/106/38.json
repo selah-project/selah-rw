@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Maze basutse amaraso y'abitagira icyaha — amaraso y'abahungu babo n'abakobwa babo — ayo batsembagaga ku ncengezi za Kenaani, maze isi yahiye mu maraso.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "Maze basutse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "y'abitagira icyaha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "y'abahungu babo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "n'abakobwa babo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "batsembagaga"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "ku ncengezi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "za Kenaani"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "maze yahiye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mu maraso"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:23.699242377Z",
+  "model": "glm-5.3"
+}

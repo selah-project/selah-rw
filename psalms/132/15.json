@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Ibyokurya byayo nzaziriraho umugisha ⟨cyane⟩, ibyakene byayo nzabishyikirisha ⟨umugati⟩.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ibyokurya byayo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kuziriraho umugisha"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "⟨nzaziriraho cyane⟩"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ibyakene byayo"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "kwishyikirisha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:33.058746566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Nuko abaha ibyo basabye, ariko yohereje ivuriture mu Nefeshi zabo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "abaha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ibyo basabye"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ibyo basabye"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ivuriture"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "mu Nefeshi zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:38.676792599Z",
+  "model": "glm-5.3"
+}

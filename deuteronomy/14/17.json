@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "na Kuati, na ⟨את⟩ Rahama, na ⟨את⟩ Shalaku.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "na Kuati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rahama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "Rahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shalaku"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "Shalaku"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:25.992795554Z",
+  "model": "glm-5.3"
+}

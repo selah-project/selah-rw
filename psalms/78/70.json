@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Maze yatoranye Dawidi (Davide), umugaragu we, akanamufata mu mbebo z'intama.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "yatoranye"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umugaragu we"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "akanamufata"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "mu mbebo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "z'intama"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:35.159382189Z",
+  "model": "glm-5.3"
+}

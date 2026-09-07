@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 14:20",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kugira ngo ihindurwe ⟨את⟩ imiterere y'iki kintu, ni cyo cyatumye umuja wawe Yowabu akoze ⟨את⟩ iki gikorwa; kandi shebuja wanjye ⟨ni⟩ umunyabwenge, nk'ubwenge b'umutumwa w'Elohimu, mu kumenya ⟨את⟩ byose ari mu isi.",
+  "tokens": [
+    {
+      "surface": "לבעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ihindurwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiterere y'iki kintu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imiterere"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "y'iki kintu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ni cyo cyatumye… akoze"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki gikorwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iki gikorwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "kandi shebuja wanjye"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ni umunyabwenge"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "nk'ubwenge"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "b'umutumwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mu kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose ari mu isi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:16:05.586273167Z",
+  "model": "glm-5.3"
+}

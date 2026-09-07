@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ijisho ryanjye rirakuwe biterwa n'umujinya; ryarenze imyaka kubera abanzi banjye bose.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "rirakuwe"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "biterwa n'umujinya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijisho ryanjye"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ryarenze imyaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "(kubera ... bose)"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abanzi banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:58.629495063Z",
+  "model": "glm-5.3"
+}

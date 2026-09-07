@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Aravuga ati: Nsibira. Aramusingiza aramsibira, Yisraeli araguguza ku mutwe w'igitanda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "Nsibira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨njye⟩"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "aramsibira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨we⟩"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "araguguza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "w'igitanda"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:16.413352910Z",
+  "model": "glm-5.3"
+}

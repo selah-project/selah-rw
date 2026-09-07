@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Amagambo ya Aguru, mwene wa Yakehu — umutwaro: ni ko umuntu yavuze kuri Itieli, kuri Itieli na kuri Ukali.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amagambo"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "ya Aguru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene wa"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Yakehu"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "umutwaro"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "kuri Itieli"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "kuri Itieli"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na kuri Ukali"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:32.689725595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "numbers 9:12",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Ntibazareka na gato muri icyo kugeza mu gitondo, kandi igufwa ntibazavunika muri icyo; bakurikije amategeka yose ya Pesahi bazayikora ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "ישאירו",
+   "gloss": "bazareka"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "na gato muri icyo"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "בקר",
+   "gloss": "mu gitondo"
+  },
+  {
+   "surface": "ועצם",
+   "gloss": "kandi igufwa"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "ישברו",
+   "gloss": "bazavunika"
+  },
+  {
+   "surface": "בו",
+   "gloss": "muri icyo"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "bakurikije byose"
+  },
+  {
+   "surface": "חקת",
+   "gloss": "amategeko"
+  },
+  {
+   "surface": "הפסח",
+   "gloss": "ya Pesahi"
+  },
+  {
+   "surface": "יעשו",
+   "gloss": "bazayikora"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "iyo myanzuro yose (gukora iyo myanzuro ya Pesahi)"
+  }
+ ],
+ "timestamp": "2026-09-07T10:09:47.007045805Z",
+ "model": "glm-5.3"
+}

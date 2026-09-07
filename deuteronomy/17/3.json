@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "maze ajya agakorera izindi mana, agakubamho, no kuri izuba cyangwa ukwezi, cyangwa kuri ingabo z'ijuru zose — izo ntabwo nategetse;",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maze ajya"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "agakorera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "agakubamho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zo"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "no kuri izuba"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuri zose"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nategetse"
+    }
+  ],
+  "timestamp": "2026-09-07T11:07:15.956903644Z",
+  "model": "glm-5.3"
+}

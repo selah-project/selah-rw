@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Indayo rya Dawidi. Unyobore ugutwi kwawe, Yahwe, maze ungireho, kuri njye ndi umworo n'umukene njye.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Indayo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Unyobore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "maze ungireho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umworo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:14.458823722Z",
+  "model": "glm-5.3"
+}

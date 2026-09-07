@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Ariko tuzashima Yah, kuva ubu kugera iteka. Musingize Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ariko tuzashima (turi twe)"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "tuzashima (duhumbye)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuva ubu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:01.334324905Z",
+  "model": "glm-5.3"
+}

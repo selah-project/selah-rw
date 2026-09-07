@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nzagenda namwe mu bwatsi bw'ubwanzi, maze nzahana ⟨את⟩ namwe — nanjye — incuro indwi ku bw'ibyaha byanyu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "namwe"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "mu bwatsi bw'"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ubwanzi"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "nzahana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "namwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "incuro indwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ibyaha byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:03.178014203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Nka ko Yahwe yategetse ⟨את⟩ Moshe (Mose), ni ko abakobwa ba Tselofehadi bakoze.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nka ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Mose)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa ba"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofehadi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:20.616778409Z",
+  "model": "glm-5.3"
+}

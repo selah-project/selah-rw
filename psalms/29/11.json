@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yahwe azaha imbaraga abantu be; Yahwe azabaririsha ⟨את⟩ abantu be mu mahoro.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abanta be"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "azaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "azabaririsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanta be"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abanta be"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mu mahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:53.065165413Z",
+  "model": "glm-5.3"
+}

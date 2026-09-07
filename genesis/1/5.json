@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yise izina ry'umurika 'umunsi', no ku mijimyiro yise 'ijoro'. Haje umugoro, haje umuseke — umunsi umwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ku murika"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "no ku mijimyiro"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yise"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haje"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "umugoro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haje"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umuseke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:44.961040399Z",
+  "model": "glm-5.3"
+}

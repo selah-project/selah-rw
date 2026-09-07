@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Ntimube nka ifarashi, nka indogobe, zidafite ubwenge; mu kiraka n'urugo — imyeri yazo ⟨ni⟩ ⟨kugira ngo⟩ zifatwe — ⟨kuti⟩ zitwegereza i wowe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mube"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "nka ifarashi"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "nka indogobe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mu kiraka"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "n'urugo"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "imyeri yayo"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "kuyifata"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yegere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:02.230346922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Indamutso ry'icyaha ku munyacyaha, mu mutima wanjye: nta bwoba bwa Elohimu imbere y'amaso ye.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Indamutso"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ku munyacyaha"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bwoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "y'amaso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:00.776393947Z",
+  "model": "glm-5.3"
+}

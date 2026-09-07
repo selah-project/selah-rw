@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Mu binure byabo barafungiye, mu kanwa kabo bavuze ubwibone.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mu binure byabo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "barafungiye"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "mu kanwa kabo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bavuze"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ubwibone"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:03.274956021Z",
+  "model": "glm-5.3"
+}

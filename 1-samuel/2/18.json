@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze Shemuweli yagaragaramo ⟨את⟩ imbere ya Yahwe, umwana wambaye efode y'umuseti.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Maze Shemuweli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "yagaragaramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere ya Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "wambaye"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "בד",
+      "gloss": "y'umuseti"
+    }
+  ],
+  "timestamp": "2026-09-07T12:21:54.926371772Z",
+  "model": "glm-5.3"
+}

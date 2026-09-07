@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Oholibamah na we yabyaye ⟨את⟩ Yeishu, na ⟨את⟩ Yaalamu, na ⟨את⟩ Korahi. Aya ni abahungu ba Esavu babyawe mu gihugu cya Kenaani.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Oholibamah na we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeishu"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeishu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaalamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba Esavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "babyawe"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "babyawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T08:12:06.125166256Z",
+  "model": "glm-5.3"
+}

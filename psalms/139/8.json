@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Niba nzamuka ijuru, aho uri wowe; n'iyo nakorera uburiri muri Sheoli, noneho urahari wowe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "nzamuka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri wowe"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "n'iyo nakorera uburiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "muri Sheoli"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "noneho urahari wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:41.842072143Z",
+  "model": "glm-5.3"
+}

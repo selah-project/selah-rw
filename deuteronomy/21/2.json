@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze abakuru bawe n'abacamanza bawe basohoka, bakapima ku migi ibariki uwiciwe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "abakuru bawe"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "n'abacamanza bawe"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "bakapima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ibariki"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "uwiciwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:07:07.217303210Z",
+  "model": "glm-5.3"
+}

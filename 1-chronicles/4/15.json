@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abana ba Kalebu mwene Yefune: Iruwu, Elah na Naamu; abana ba Elah: na Kenazi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iruwu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "na Naamu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "na Kenazi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:09.552901293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "hosea 11:2",
+ "book": "hosea",
+ "lang": "rw",
+ "chapter": 11,
+ "translation": "Barabahamagaraga, ariko buri uko bajyaga bava imbere yabo; bahagira ku Baali, banatukuza ibishushanyo.",
+ "tokens": [
+  {
+   "surface": "קראו",
+   "gloss": "Barabahamagaraga"
+  },
+  {
+   "surface": "להם",
+   "gloss": "bo"
+  },
+  {
+   "surface": "כן",
+   "gloss": "buri uko"
+  },
+  {
+   "surface": "הלכו",
+   "gloss": "bajyaga"
+  },
+  {
+   "surface": "מפניהם",
+   "gloss": "bava imbere yabo"
+  },
+  {
+   "surface": "לבעלים",
+   "gloss": "ku Baali"
+  },
+  {
+   "surface": "יזבחו",
+   "gloss": "bahagira"
+  },
+  {
+   "surface": "ולפסלים",
+   "gloss": "na ku bishushanyo"
+  },
+  {
+   "surface": "יקטרון",
+   "gloss": "batukuza"
+  }
+ ],
+ "timestamp": "2026-09-07T17:34:29.658529185Z",
+ "model": "glm-5.3"
+}

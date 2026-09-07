@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Basubize ⟨את⟩ Yehoshuwa (Yozuwa) bati: byose wadutegetse tuzabikora, kandi mu byose utuzoherejemo tuzajyayo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Basubize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa (Yozuwa)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "wadutegetse"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tuzabikora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "utuzoherejemo"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzajyayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:41.370033011Z",
+  "model": "glm-5.3"
+}

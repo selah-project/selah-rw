@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Maze akuramo amazi atembera m'urutare, aramanikisha amazi nk'imigezi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "maze akuramo"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "amazi atembera"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "m'urutare"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "aramanikisha"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "nk'imigezi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:54.231873023Z",
+  "model": "glm-5.3"
+}

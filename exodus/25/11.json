@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "exodus 25:11",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 25,
+ "translation": "Maze uzayikingira ⟨את⟩ zahabu y'emewe; mu ndani no hanze uzayikingira, maze uzakoreraho uruziga rw'zahabu ruhuze impande zose.",
+ "tokens": [
+  {
+   "surface": "וצפית",
+   "gloss": "maze uzayikingira"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "isanduku (aroni)"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "zahabu"
+  },
+  {
+   "surface": "טהור",
+   "gloss": "y'emewe"
+  },
+  {
+   "surface": "מבית",
+   "gloss": "mu ndani"
+  },
+  {
+   "surface": "ומחוץ",
+   "gloss": "no hanze"
+  },
+  {
+   "surface": "תצפנו",
+   "gloss": "uzayikingira"
+  },
+  {
+   "surface": "ועשית",
+   "gloss": "maze uzakoreraho"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "uriho"
+  },
+  {
+   "surface": "זר",
+   "gloss": "uruziga"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "rw'zahabu"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "ruhuze impande zose"
+  }
+ ],
+ "timestamp": "2026-09-07T21:16:30.969626707Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi ⟨את⟩ inzu za Yerushalayimu mwarabaze, mwanguye inzu zo kugira ngo muzengurutse urukuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu za Yerushalayimu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "mwarabaze"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "mwanguye"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "kugira ngo muzengurutse"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "urukuta"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:48.853494576Z",
+  "model": "glm-5.3"
+}

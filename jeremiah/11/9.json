@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yarabwiye ati: Byabonetse umugwanezi mu bantu ba Yehuda, no mu batuye Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "Byabonetse"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "umugwanezi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "no mu batuye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:49:50.259454449Z",
+  "model": "glm-5.3"
+}

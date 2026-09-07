@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yabonye ibyo, azukura, agenda ajy'uruhara kwa Nefeshi ye, ageza i Beer-Sheba iri mu Yehuda, maze ahagarika ⟨את⟩ umusore weyo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Yabonye ibyo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "azukura"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajy'uruhara kwa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshi ye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ageza"
+    },
+    {
+      "surface": "באר",
+      "gloss": "i Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ahagarika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusore weyo"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "umusore weyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ayo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:19.361551541Z",
+  "model": "glm-5.3"
+}

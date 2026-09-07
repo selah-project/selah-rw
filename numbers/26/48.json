@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 26:48",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abahungu ba Naftali ku muryango wabo: kwa Yahitseli, umuryango w'abaYahitseli; kwa Guni, umuryango w'abaGuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "ליחצאל",
+      "gloss": "kwa Yahitseli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "היחצאלי",
+      "gloss": "w'abaYahitseli"
+    },
+    {
+      "surface": "לגוני",
+      "gloss": "kwa Guni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הגוני",
+      "gloss": "w'abaGuni"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:47.581273558Z",
+  "model": "glm-5.3"
+}

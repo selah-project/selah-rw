@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ndabwira kwa Eli, urutare rwanjye, ati: Kuki wansibye? Kuki ndagenda mbarwa n'agahinda mu guhohoterwa kw'umwanzi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ndabwira"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa Eli"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "wansibye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mbarwa n'agahinda"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndagenda"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "mu guhohoterwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kw'umwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:44.394880832Z",
+  "model": "glm-5.3"
+}

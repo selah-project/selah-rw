@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ariko ntiyashatse kumva ijwi rye; yagize imbaraga kurusha we, ayihonjeje, aryamye ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ariko nti"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yashatse"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yagize imbaraga"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kurusha we"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ayihonjeje"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "aryamye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (Tamaru)"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:11.892998817Z",
+  "model": "glm-5.3"
+}

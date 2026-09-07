@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "N'ingabo ze, n'ababaruriwe, ⟨ni⟩ gatatu na mirongo itanu ibihumbi n'amajana ane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "N'ingabo ze"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "n'ababaruriwe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "gatatu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:02.764500750Z",
+  "model": "glm-5.3"
+}

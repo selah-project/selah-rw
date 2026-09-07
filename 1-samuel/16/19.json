@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Shauli yohereje intumwa kwa Yishayi maze aravuga ati: Unohere iwanjye ⟨את⟩ Dawidi umwana wawe, uri mu matahe y'intama.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "unohere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "mu matahe y'intama"
+    }
+  ],
+  "timestamp": "2026-09-07T12:37:57.639910279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Njye ndi Yahwe, Elohimu wawe, wakuvuye mu gihugu cya Mitsrayimu (Egiputa), mu nzu y'ubucakara.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kuvuye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu y'"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ubucakara"
+    }
+  ],
+  "timestamp": "2026-09-07T08:53:31.832915881Z",
+  "model": "glm-5.3"
+}

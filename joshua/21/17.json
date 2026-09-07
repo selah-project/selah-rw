@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi mu muryango wa Beniyamini ⟨את⟩ Givoni n'ibyanya byayo, ⟨את⟩ Geva n'ibyanya byayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kandi mu muryango wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniyamini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyanya byayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyanya byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:27.714263637Z",
+  "model": "glm-5.3"
+}

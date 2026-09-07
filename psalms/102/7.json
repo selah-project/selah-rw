@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Nameze nka pelikani w'ubutayu, naba nka koya y'ahantu hatse.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "nameze"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "nka pelikani"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "w'ubutayu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "naba"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "nka koya"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "y'ahantu hatse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:52.988641748Z",
+  "model": "glm-5.3"
+}

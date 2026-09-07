@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Maze aminsi yabo yarangiye m'ubusa, n'imyaka yabo mu bwoba bw'itabuka.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "yarangiye"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "m'ubusa"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "aminsi yabo"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "n'imyaka yabo"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "mu bwoba bw'itabuka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:26.126431517Z",
+  "model": "glm-5.3"
+}

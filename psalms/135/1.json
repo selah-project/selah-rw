@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Musingize Yah; musingize ⟨את⟩ izina rya Yahwe; musingize, mwe abagaragu ba Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "musingize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "musingize"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:17.040403775Z",
+  "model": "glm-5.3"
+}

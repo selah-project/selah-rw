@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Ndagushimira mu mahanga, Adonayi; nzaguririsha mu bwoka bwose.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndagushimira"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nzaguririsha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bwoka bwose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:43.265127400Z",
+  "model": "glm-5.3"
+}

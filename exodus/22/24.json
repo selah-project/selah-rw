@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Niba muziguza ifeza ⟨את⟩ abantu banjye ⟨את⟩ umukene uri kumwe nawe, ntuze ube iwe nk'uwuguzuza; ntimushyire kuri we inyungu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "muziguza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukene"
+    },
+    {
+      "surface": "העני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ntuze ube"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "nk'uwuguzuza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "mushyire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inyungu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.002452982Z",
+  "model": "glm-5.3"
+}

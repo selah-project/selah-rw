@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Unkize mu maraso, Elohimu, Elohimu w'agakiza kanjye, maze ururimi rwanjye uririmbe ubutungane bawe.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Unkize"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "w'agakiza kanjye"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "uririmbe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ururimi rwanjye"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutungane bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:46.530837980Z",
+  "model": "glm-5.3"
+}

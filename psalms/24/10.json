@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ndi nde uyu, umwami w'icubahiro? Yahwe Tsevaoti — ni we umwami w'icubahiro. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndi nde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni we⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "w'icubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "w'icubahiro"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:09.873642030Z",
+  "model": "glm-5.3"
+}

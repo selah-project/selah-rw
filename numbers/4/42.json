@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "N'abarwa mu muryango w'abana ba Merari, ku miryango yabo, mu nzu ya se.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "N'abarwa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "w'abana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku miryango yabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya se"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:39.885236952Z",
+  "model": "glm-5.3"
+}

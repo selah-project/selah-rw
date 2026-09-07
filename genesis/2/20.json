@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umuntu yatanze amazina ku matungo yose, no ku nyozi z'ijuru, no ku nyamaswa zose z'umurima; ariko kuri umuntu nta yabonetse umufasha ungana na we.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yatanze amazina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "matungo yose"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "no ku nyozi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamaswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zose z'umurima"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ariko kuri umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "yabonetse"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umufasha"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ungana na we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:56.016102848Z",
+  "model": "glm-5.3"
+}

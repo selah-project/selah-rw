@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Mu mwaka Taratani yaje i Ashidodu, mu gihe Sargoni, umwami w'Ashuru, yamwohereje, maze arwana i Ashidodu, maze yayifata.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mu mwaka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Taratani"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "i Ashidodu"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mu gihe yoherejwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-we",
+      "marks": "Sargoni"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "maze arwana"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "i Ashidodu"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "maze yayifata"
+    }
+  ],
+  "timestamp": "2026-09-07T14:56:21.271729638Z",
+  "model": "glm-5.3"
+}

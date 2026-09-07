@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Aya ni amasekuruza ya Shemu: Shemu yari afite imyaka ijana maze yabyaye ⟨את⟩ Arufakashadi, imyaka ibiri nyuma y'Umwuzure.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "amasekuruza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arufakashadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arufakashadi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "imyaka ibiri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Umwuzure"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:39.049301394Z",
+  "model": "glm-5.3"
+}

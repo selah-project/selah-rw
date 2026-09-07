@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umuyaga muremure kurenza aya ni wo uzanjye iwanjye; ubu nanjye ndavuga amanja ku ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Umuyaga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "muremure"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kurenza aya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uzanjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye ubwanjye"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndavuga"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "amanza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abahano)"
+    }
+  ],
+  "timestamp": "2026-09-07T15:42:04.412336230Z",
+  "model": "glm-5.3"
+}

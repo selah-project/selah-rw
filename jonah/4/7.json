@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Elohimu na we yateganyije urunyeganyega mu kuzamura kw'igitondo ku munsi wakurikiyeho, maze urasaze ⟨את⟩ Kikayonu, maze ukuma.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "yateganyije"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "urunyeganyega"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "mu kuzamura"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "kw'igitondo"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ku munsi wakurikiyeho"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "urasaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kikayonu"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "Kikayonu"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ukuma"
+    }
+  ],
+  "timestamp": "2026-09-07T17:47:32.377860317Z",
+  "model": "glm-5.3"
+}

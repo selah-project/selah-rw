@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Maze azabasubizaho kuri bo ⟨את⟩ ubusa bwabo, no mu bibi byabo azabazimisa; azabazimisa — Yahwe, Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maze azabasubizaho"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubusa bwabo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ubusa bwabo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "no mu bibi byabo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "azabazimisa"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "azabazimisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:00.806541381Z",
+  "model": "glm-5.3"
+}

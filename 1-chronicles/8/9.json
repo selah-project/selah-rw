@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze yabyaye na Kodeshi (Hodeshi), umugore we, ⟨את⟩ Yovavu na ⟨את⟩ Tsivya na ⟨את⟩ Meysha na ⟨את⟩ Malkamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Kodeshi (Hodeshi)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Meysha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meysha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Malkamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:44.261929777Z",
+  "model": "glm-5.3"
+}

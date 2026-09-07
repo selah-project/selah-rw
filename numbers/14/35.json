@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 14:35",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Njye Yahwe nabivuze — niba ntibiba ngombwa ko nkora ibi ku itole yose mbi ihuriye kuri njye: mu butayu uyu bazarangira, maze aho bazapfa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nabivuze"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntibiba ngombwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nkora"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku ... yose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "itole"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yi"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "ihuriye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "bazarangira"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maze aho"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bazapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:15:19.803873815Z",
+  "model": "glm-5.3"
+}

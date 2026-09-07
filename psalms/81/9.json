@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Umva, abantu banjye, maze ndamenyeshe; Yisraeli, iyo umva jewe:",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "maze ndamenyeshe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:12.022594570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ibyo ntibyemewe kuri njye — ko nabemeza ko muri intunganye, kugeza mpepuka; ntinzakuraho ubudahemuka bwanjye iwanjye.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Ibyo ntibyemewe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "nabemeza ko ari intunganye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "mpepuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nzakuraho"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "ubudahemuka bwanjye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:33:30.683567295Z",
+  "model": "glm-5.3"
+}

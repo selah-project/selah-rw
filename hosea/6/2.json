@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Azaduha nyuma y'iminsi ibiri; ku munsi wa gatatu azazura, maze tube imbere ye.",
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "Azaduha"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "nyuma y'iminsi ibiri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "azazura"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "maze tube"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:05.097729906Z",
+  "model": "glm-5.3"
+}

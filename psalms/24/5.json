@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Azahabwa umugisha uva kwa ⟨את⟩ Yahwe, n'ubutabera uva k'Elohimu w'umukiro we.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "azahabwa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "n'ubutabera"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "uva k'Elohimu"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "w'umukiro we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:15.650907832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Habaye nyuma y'iminsi runaka, Hana aratwara inda abyara umuhungu, amaziritza ⟨את⟩ izina rye Shemuweli, kuko kwa Yahwe ni ho namusabye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "nyuma y'iminsi runaka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "aratwara inda"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "amaziritza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "namusabye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:29:36.500189646Z",
+  "model": "glm-5.3"
+}

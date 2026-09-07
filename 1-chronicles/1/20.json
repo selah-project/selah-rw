@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yokutani yabyaye ⟨את⟩ Almodadi, na ⟨את⟩ Shelefi, na ⟨את⟩ Hatsarmaveti, na ⟨את⟩ Yerahi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yokutani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatsarmaveti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerahi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerahi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:27.007348710Z",
+  "model": "glm-5.3"
+}

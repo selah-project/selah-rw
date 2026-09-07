@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Izabukwe rye unzara ararya, kandi mu nyosha rihakurwaho, maze abanyenzira bagasohora imitungo yabo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "izabukwe rye"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "unzara"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ararya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maze mu"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "inyosha"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "rihakurwaho"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "maze bagasohora"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "abanyenzira"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "imitungo yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:22:12.617924562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Nimuze murebe ibyakozwe n'Elohimu: ni iby'igitangaza bikara ku bana b'abantu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Nimuze"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ibyakozwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "bikara"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "iby'igitangaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:25.652202444Z",
+  "model": "glm-5.3"
+}

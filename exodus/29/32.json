@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Aharoni n'abahungu be bazarya ⟨את⟩ inyama y'intama y'ingabo na ⟨את⟩ umugati uri mu giseke, ku rugi rw'ihema y'ihuriro.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "bazarya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama y'intama y'ingabo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "y'intama y'ingabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugati uri mu giseke"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "mu giseke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku rugi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "rw'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "y'ihuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:50.982709241Z",
+  "model": "glm-5.3"
+}

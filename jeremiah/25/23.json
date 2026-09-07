@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ Dedani, na ⟨את⟩ Tema, na ⟨את⟩ Buzi, na ⟨את⟩ bose bacitsemo impande z'umusatsi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bose bacitsemo impande z'umusatsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "bacitsemo"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "impande z'umusatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:03:48.366273593Z",
+  "model": "glm-5.3"
+}

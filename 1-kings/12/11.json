@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "None ubu, data wanjye yabashyiriye urunyeganyega ruremereye; njye nzongereza ku urunyeganyega rwanyu: data wanjye yarihanaga ⟨את⟩ mwe ibibibi, ariko njye nzarihana ⟨את⟩ mwe urunyeganyegi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "none ubu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "data wanjye"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yabashyiriye"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "על",
+      "gloss": "urunyeganyega"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ruremereye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nzongereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "urunyeganyega rwanyu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "data wanjye"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "yarihanaga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "ibibibi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ibibibi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "nzarihana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "urunyeganyegi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "urunyeganyegi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:47:55.865812155Z",
+  "model": "glm-5.3"
+}

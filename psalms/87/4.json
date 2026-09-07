@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 87,
+  "translation": "Nzibutsa Rahabi na Babeli abazi, noneanga: Filisti na Tsori hamwe n'i Kushi: uyu yavutseyo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "nzibutsa"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabi"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "na Babeli"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "noneanga"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filisti"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na Tsori"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe n'"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yavutse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:30.433310916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ubwo Yosefu yageraga kuri abavandimwe be, bamukuramo ⟨את⟩ Yosefu ⟨את⟩ ikoti ye, ⟨את⟩ ikoti y'amabara yari ambaraga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yageraga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "bamukuramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikoti ye"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "ikoti ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikoti y'amabara"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ikoti"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "y'amabara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ambaraga"
+    }
+  ],
+  "timestamp": "2026-09-07T08:19:47.338431191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Kandi nta uhiriwe mu izina ryawe, ukanguka agahwira ku wawe, koko warahunze uburanga bwawe ku twebwe, maze uradusesekanije mu bigo by'icyaha cyacu.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "uhiriwe"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "ukanguka"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "agahwira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "warahunze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburanga bwawe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ku twebwe"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "uradusesekanije"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu bigo by'"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "icyaha cyacu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:18.205935935Z",
+  "model": "glm-5.3"
+}

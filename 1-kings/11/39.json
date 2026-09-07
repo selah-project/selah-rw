@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi nzinaniza ⟨את⟩ urubyaro rwa Dawidi kubera ibi; ariko si mu minsi yose.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Kandi nzinaniza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubyaro rwa Dawidi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "rwa Dawidi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mu minsi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:39.463672001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "2-kings 17:7",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 17,
+ "translation": "Byabaye bityo kuko abana ba Yisraeli bagize icyaha mu maso ya Yahwe, Elohimu wabo, wabazamuye ⟨את⟩ bo mu gihugu cya Mitsrayimu, mu ntoki za Paro (Farawo) umwami wa Mitsrayimu, bakagenda batinya izindi mana.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "Byabaye"
+  },
+  {
+   "surface": "כי",
+   "gloss": "bityo kuko"
+  },
+  {
+   "surface": "חטאו",
+   "gloss": "bagize icyaha"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ba Yisraeli"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "mu maso ya Yahwe"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimu wabo"
+  },
+  {
+   "surface": "המעלה",
+   "gloss": "wabazamuye"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "mu gihugu cya Mitsrayimu"
+  },
+  {
+   "surface": "מארץ",
+   "gloss": "mu gihugu"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "cya Mitsrayimu"
+  },
+  {
+   "surface": "מתחת",
+   "gloss": "mu"
+  },
+  {
+   "surface": "יד",
+   "gloss": "ntoki"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "za Paro"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "wa Mitsrayimu"
+  },
+  {
+   "surface": "וייראו",
+   "gloss": "bakagenda batinya"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "mana"
+  },
+  {
+   "surface": "אחרים",
+   "gloss": "izindi"
+  }
+ ],
+ "timestamp": "2026-09-07T14:24:30.047758993Z",
+ "model": "glm-5.3"
+}

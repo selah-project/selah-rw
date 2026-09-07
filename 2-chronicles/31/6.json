@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 31:6",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Abana ba Yisraeli na ba Yehuda batuye mu migi ya Yehuda, na bo bazanisha ikumi ry'inka n'amasho, n'ikumi ry'ibintu byera byeretswe kwa Yahwe Elohimu wabo, maze bagashyira ibyara ku byara.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na ba Yehuda"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "mu migi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ikumi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ry'inka"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "n'amasho"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "n'ikumi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ry'ibintu byera"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "byeretswe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bazanisha"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "bagashyira"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "ibyara"
+    },
+    {
+      "surface": "ערמות",
+      "gloss": "ku byara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:02:35.801387426Z",
+  "model": "glm-5.3"
+}

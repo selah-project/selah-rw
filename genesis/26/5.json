@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kubera ko Avrahamu yumvise ijwi ryanjye, kandi yarindiriye umurinzi wanjye, amategeko yanjye, amabwiriza yanjye, na Tora yanjye.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Kubera ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "kandi yarindiriye"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "umurinzi wanjye"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "amabwiriza yanjye"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na Tora yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:58:38.080092291Z",
+  "model": "glm-5.3"
+}

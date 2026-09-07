@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Yahwe yakuzirikaho agukize ivuye muri Tsiyoni, maze urebe ineza ya Yerushalayimu, iminsi yose y'ubuzima bwawe.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "agukize ivuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe yakuzirikaho"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "muri Tsiyoni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "maze urebe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ineza ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "y'ubuzima bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:15.757800694Z",
+  "model": "glm-5.3"
+}

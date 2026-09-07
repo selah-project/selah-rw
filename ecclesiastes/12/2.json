@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "mbere y'uko izuba ntirishisha, n'umuriko, n'ukwezi, n'inyenyeshi, kandi ibicu bisubira inyuma y'imvura.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiri-"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "rishisha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "n'umuriko"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "n'ukwezi"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "n'inyenyeshi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kandi ... bisubira"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "inyuma y'"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "imvura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:42.723224971Z",
+  "model": "glm-5.3"
+}

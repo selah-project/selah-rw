@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Shaharayimu yabyaye mu gihugu cya Moabu nyuma yo kurekana ⟨את⟩ Chushimu na ⟨את⟩ Baarahi abagore be.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Shaharayimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nyuma yo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kurekana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Chushimu"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baarahi"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baarahi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:26.737368266Z",
+  "model": "glm-5.3"
+}

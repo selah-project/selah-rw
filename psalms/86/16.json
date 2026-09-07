@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Tegera ku njye, unhangarire; tanga imbaraga zawe ku mugaragu wawe, unrokore umwana w'umuja wawe.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Tegera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "unhangarire"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "tanga"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imbaraga zawe"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ku mugaragu wawe"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "unrokore"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "w'umuja wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:46.721619898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Hadoramu, na ⟨את⟩ Uzalu, na ⟨את⟩ Diklah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Uzalu"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Diklah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklah"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:39.476371835Z",
+  "model": "glm-5.3"
+}

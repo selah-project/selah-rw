@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Intama itunganye, ingabo, imyaka igihe kimwe, izaba yanyu; mu ntama cyangwa mu ihene muzayifata.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "intama"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "itunganye"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "imyaka ⟨iya imwaka⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "igihe kimwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yanyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ntama"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "cyangwa mu"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ihene"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muzayifata"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:04.459661791Z",
+  "model": "glm-5.3"
+}

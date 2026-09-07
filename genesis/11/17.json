@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Everu yabaho nyuma yo kubyara ⟨את⟩ Pelegu imyaka mirongo itatu n'amajana ane, maze yabyara abahungu n'abakobwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabaho"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kubyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegu"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana ane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:13.392365283Z",
+  "model": "glm-5.3"
+}

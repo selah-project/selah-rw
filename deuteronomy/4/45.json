@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ibi ni ibyemezo, n'amategeko, n'imanza Moshe yavuze ab'ana ba Yisraeli iyo basohoka mu Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ibyemezo"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "n'amategeko"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "n'imanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ab'ana ba Yisraeli yavuze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ab'ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "iyo basohoka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:50.782553739Z",
+  "model": "glm-5.3"
+}

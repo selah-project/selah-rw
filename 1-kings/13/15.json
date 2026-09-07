@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Aramubwira ati: Za na ⟨את⟩ njye mu nzu, maze urye imigati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aramubwira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ati: Za"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "na ⟨את⟩ njye",
+      "marks": "njye"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "maze urye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:44.300477044Z",
+  "model": "glm-5.3"
+}

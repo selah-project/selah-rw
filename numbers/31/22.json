@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ariko ⟨את⟩ zahabu na ⟨את⟩ ifeza, ⟨את⟩ umuringa, ⟨את⟩ icyuma, ⟨את⟩ umunyensi na ⟨את⟩ urubugu —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ifeza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuringa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "umuringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyuma"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunyensi"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "umunyensi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urubugu"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "urubugu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:36:46.813339873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Wowe uzavuga ⟨את⟩ byose ibyo ndagutegeka, maze Aharoni, musaza wawe, azavuga kwa Paro, maze atuma ⟨את⟩ abana ba Yisraeli (Isirayeli) mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uzavuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ndagutegeka"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "maze Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "musaza wawe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "maze atuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:16.677597913Z",
+  "model": "glm-5.3"
+}

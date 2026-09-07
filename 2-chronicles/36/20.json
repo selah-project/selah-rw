@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Abasigaye mu mupanga yarimuriye i Babyloni, maze baza kuba abacakara we n'abahungu be, kugeza ubwami bwa Parasi buteka.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "yarimuriye"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "abasigaye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mupanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babyloni"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze baza kuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "abacakara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "buteka"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "bwa Parasi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:06:34.007786957Z",
+  "model": "glm-5.3"
+}

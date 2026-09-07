@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Abana b'Abalevi bafashe ⟨את⟩ agakaritu ka Elohimu, uko Moshe yategetse, ku ijwi rya Yahwe — ku bitugu byabo, mu mbaro, hejuru yabyo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bafashe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "b'Abalevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agakaritu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "agakaritu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka Elohimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "ku bitugu byabo"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "mu mbaro"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hejuru yabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:48.120848647Z",
+  "model": "glm-5.3"
+}

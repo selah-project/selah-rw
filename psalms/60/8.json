@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Elohimu yaravuze mu gitagatifu cye ⟨ni⟩ njye ndishime: ndigabanya Shekemu, ndipima igishanga cya Sukoti.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mu gitagatifu cye"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "njye ndishime"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndigabanya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "igishanga cya"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukoti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndipima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:08.602587888Z",
+  "model": "glm-5.3"
+}

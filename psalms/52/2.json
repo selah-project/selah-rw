@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Mu kwinjira kwa Doegu Umwedomu, maze amenyesha Shauli, amubwira we ati: Dawidi yinjiri mu nzu ya Ahiimeleki.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Mu kwinjira kwa"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doegu"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Umwedomu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "amenyesha"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yinjiri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahiimeleki"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:15.979620385Z",
+  "model": "glm-5.3"
+}

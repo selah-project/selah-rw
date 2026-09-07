@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kuko Yahwe azi inzira y'abagororutsi, ariko inzira y'abakora ibibi izazahara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "y'abagororutsi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "⟨ariko⟩ inzira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "y'abakora ibibi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "izazahara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:11.768999824Z",
+  "model": "glm-5.3"
+}

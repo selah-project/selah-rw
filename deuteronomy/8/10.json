@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze urya ukwizira, usezagira ⟨את⟩ Yahwe, Elohimu wawe, ku gihugu cyiza yaguhiye wowe.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "urya"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ukwizira"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "usezagira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "cyiza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yaguhiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:35.458361706Z",
+  "model": "glm-5.3"
+}

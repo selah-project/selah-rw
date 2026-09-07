@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kubera ihohoterwa ry'abakene no kubura kw'abapfuye ubushahe, ubu ndahaguruka, Yahwe aravuga ati: Nzanashyira mu kiza uwo bahumeka kuri we.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "Kubera ihohoterwa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ry'abakene"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "no kubura kw'"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "abapfuye ubushahe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ndahaguruka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Nzanashyira"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "mu kiza"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "bahumeka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.148745914Z",
+  "model": "glm-5.3"
+}

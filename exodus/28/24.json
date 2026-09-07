@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Maze ushyire ⟨את⟩ amasheni y'izahabu abiri ku biringo abiri, ku mpera z'igikoni.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Maze ushyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amasheni y'izahabu abiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "amasheni"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "y'izahabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "biringo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mpera"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "z'igikoni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:10:35.116567977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe ari mu ngoro ye i tagatifu; isege rya Yahwe riri mu ijuru; amaso ye abona, ibihisho by'amaso bye asuzuma abana b'abantu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mu ngoro"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "i tagatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isege"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ibihisho by'amaso"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "asuzuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:41.009723714Z",
+  "model": "glm-5.3"
+}

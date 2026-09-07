@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Maze Moshe yategetse ⟨את⟩ abantu ku munsi uwo bati",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:28.424043466Z",
+  "model": "glm-5.3"
+}

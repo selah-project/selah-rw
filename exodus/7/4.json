@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi Paro ntazumva kuri mwe, maze nzashyira ⟨את⟩ intoki yanjye ku Mitsrayimu, maze nzasohora ⟨את⟩ ingabo zanjye, ⟨את⟩ abantu banjye, abana ba Yisraeli, mu gihugu cya Mitsrayimu, mu manza nkuru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "maze nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki yanjye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "maze nzasohora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingabo zanjye"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ingabo zanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye, abana ba Yisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "mu manza"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nkuru"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:16.678028241Z",
+  "model": "glm-5.3"
+}

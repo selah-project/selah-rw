@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ubwami bwawe ⟨ni⟩ ubwami bw'amateka yose, n'ubutware bwawe ku muryango uwose n'uwundi.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Ubwami bwawe"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "bw'amateka"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "n'ubutware bwawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דור",
+      "gloss": "muryango uwose"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "n'uwundi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:15.062579180Z",
+  "model": "glm-5.3"
+}

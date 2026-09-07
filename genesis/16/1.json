@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Sarayi (Sara), umugore w'Avrahamu (Aburahamu), ntiyamuvubyariye; kandi afite umujakazi w'i Mitsrayimu (Egiputa), izina rye ni Hagari.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yavubyariye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "kandi afite"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "umujakazi"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "w'i Mitsrayimu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    }
+  ],
+  "timestamp": "2026-09-07T07:47:42.018673753Z",
+  "model": "glm-5.3"
+}

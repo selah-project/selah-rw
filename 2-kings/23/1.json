@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze umwami yohereje, bakanamurungikira abakuru b'i Yehuda bose n'ab'i Yerushalayimu, bakorana iwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "bakanakorana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru b'igihugu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:34:46.542110161Z",
+  "model": "glm-5.3"
+}

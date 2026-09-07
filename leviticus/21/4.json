@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ntiyizire k'uwo yashakanye mu bantu be, ngo yihye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yizire"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "k'uwo yashakanye"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "mu bantu be"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "ngo yihye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:10.407600714Z",
+  "model": "glm-5.3"
+}

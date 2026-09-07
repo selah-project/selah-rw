@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Maze batsemba ⟨את⟩ abahungu babo na ⟨את⟩ abakobwa babo ku mashitani.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Maze batsemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "abahungu babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakobwa babo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "abakobwa babo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ku mashitani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:23.698683113Z",
+  "model": "glm-5.3"
+}

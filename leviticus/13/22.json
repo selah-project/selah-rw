@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ariko iyo igenda yera cyane mu ruhu, kohenu arahita ⟨את⟩ we ko ari ⟨ni⟩ ikiza.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "igenda yera"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yera cyane"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mu ruhu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "arahita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (uwo muntu)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ikiza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ ari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:18.279427716Z",
+  "model": "glm-5.3"
+}

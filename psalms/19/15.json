@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Amagambo y'akanwa kanjye n'itekerezo ry'umutima wanjye bihindre kwemera imbere yawe, Yahwe, urutare rwanjye n'umucunguzi wanjye",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bihindre"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kwemera"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "y'akanwa kanjye"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "n'itekerezo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ry'umutima wanjye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "n'umucunguzi wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:15.684754708Z",
+  "model": "glm-5.3"
+}

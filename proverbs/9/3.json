@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yohereje abaja be bato, baha hamagara ku ndunduru z'hejuru z'umujyi.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "abaja be bato"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "baha hamagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "⟨ku mbibi z'⟩"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ndunduru z'hejuru"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "z'umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:10.538413286Z",
+  "model": "glm-5.3"
+}

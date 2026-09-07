@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Reka ikimenyetso cy'ubwiza ubikorera muri iyi kazi, maze abanzi banibone bacye bashywe n'icyo, kuko wowe, Yahwe, ni wowe wanjye umfashije, kandi wananunsiye.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ubikorera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "muri iyi kazi"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "cy'ubwiza"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "maze banibone"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abanzi"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "bacye bashywe n'icyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "unmfashije"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "wananunsiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:00.971607217Z",
+  "model": "glm-5.3"
+}

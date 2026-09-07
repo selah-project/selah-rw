@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze Elohimu azengurutsa ⟨את⟩ abantu umuhanda w'ubutayu bw'Iyaga rya Sufu; abahungu ba Yisraeli baratera basigiye mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "azengurutsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "umuhanda"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "w'ubutayu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bw'Iyaga"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "rya Sufu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "baratera"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "basigiye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:06.461303439Z",
+  "model": "glm-5.3"
+}

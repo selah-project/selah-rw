@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Na Benayahu na Yahaziyeli, abaherezi, mu mpanda, bishira iteka imbere y'isanduku ry'isezerano ry'Elohimu.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Na Benayahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "na Yahaziyeli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "mu mpanda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bishira iteka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ry'isezerano"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ry'Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:58.457770404Z",
+  "model": "glm-5.3"
+}

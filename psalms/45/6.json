@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Imyambi yawe myinshi ihagaze; amahanga agwa hasi munsi yawe, mu mutima w'abansi b'umwami.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "imyambi yawe"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "myinshi ihagaze (imilema)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "munsi yawe"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "agwa hasi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mutima"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "w'abansi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "b'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:43.031624312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Ibikeri byaruzuye igihugu cyabo, mu byumba by'ibanga by'abami babo.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "byaruzuye"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "igihugu cyabo"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ibikeri"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "mu byumba by'ibanga"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "abami babo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:11.850530730Z",
+  "model": "glm-5.3"
+}

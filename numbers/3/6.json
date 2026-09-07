@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Wegereze ⟨את⟩ ubwoko bwa Levi, maze ubahagararize imbere ya Aharoni kohenu, bakamukorera;",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Wegereze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko bwa Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "maze ubahagararize"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko bwa Levi (ubwahagararizwa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "bakamukorera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni (uwo bakorera)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:39.676554769Z",
+  "model": "glm-5.3"
+}

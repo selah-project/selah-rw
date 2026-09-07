@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Umutima wanjye wemejwe, Elohimu, umutima wanjye wemejwe; ndirimba, kandi ndirimbira.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "wemejwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Umutima wanjye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wemejwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndirimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kandi ndirimbira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:38.041504910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yababarura i Bezeki (Bezeki), abana ba Yisraeli (Isirayeli) baba amajana atatu n'ibihumbi ijana, abagabo ba Yehuda (Yuda) bakaba ibihumbi mirongo itatu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Yababarura"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezeki (Bezeki)"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n'ibihumbi ijana"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "abagabo ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Yuda)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "bakaba ibihumbi mirongo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "itatu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:10.860219553Z",
+  "model": "glm-5.3"
+}

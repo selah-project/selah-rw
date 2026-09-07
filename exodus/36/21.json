@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Icumu n'incani uburebure bw'ibaho, n'incani n'igice cy'incani ubugari bw'ibaho rimwe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Icumu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "n'incani"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uburebure"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bw'ibaho"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "n'incani"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "n'igice"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cy'incani"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bw'ibaho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:18.920932760Z",
+  "model": "glm-5.3"
+}

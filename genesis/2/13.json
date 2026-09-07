@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze izina ry'uruzi rwa kabiri ni Gichoni; ni rwo ruzenguye ⟨את⟩ igihugu cyose cya Kushu.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "maze izina"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ry'uruzi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "rwa kabiri"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ruzenguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cyose cya Kushu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "cya Kushu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.537172905Z",
+  "model": "glm-5.3"
+}

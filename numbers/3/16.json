@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze Moshe yarabaruye ⟨את⟩ bo ku ijwi rya Yahwe, nk'uko yategetswe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Maze yarabaruye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (abahungu ba Levi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetswe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:22.617997233Z",
+  "model": "glm-5.3"
+}

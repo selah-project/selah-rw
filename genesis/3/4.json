@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze inzoka yabwiye umugore iti: Ntabwo murazapfa na gato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze ... yabwiye ... iti"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "na gato"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "murazapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:13.873107431Z",
+  "model": "glm-5.3"
+}

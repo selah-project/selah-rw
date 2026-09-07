@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Inzira y'umukuri ni intungane; wowe utunganye, urazengurutsa inzira y'umukuri.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "y'umukuri"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "intungane"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "wowe utunganye"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "y'umukuri"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "urazengurutsa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:58:24.970991941Z",
+  "model": "glm-5.3"
+}

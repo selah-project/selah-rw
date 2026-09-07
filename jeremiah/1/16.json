@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "jeremiah 1:16",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Kandi nzabibwira mu manza zanjye ⟨את⟩ bo, ku bw'ibibi byabo byose, ko bahungiye bahava kwa Yahwe, bagaturikira izindi mana, bagasenga ibikorwa by'ibiganza byabo.",
+ "tokens": [
+  {
+   "surface": "ודברתי",
+   "gloss": "nzabibwira mu manza"
+  },
+  {
+   "surface": "משפטי",
+   "gloss": "zanjye"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "bo (abaturage ba Yehudah)"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku bw'"
+  },
+  {
+   "surface": "כל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "רעתם",
+   "gloss": "ibibi byabo"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ko"
+  },
+  {
+   "surface": "עזבוני",
+   "gloss": "bahungiye bahava kwa Yahwe"
+  },
+  {
+   "surface": "ויקטרו",
+   "gloss": "bagaturikira"
+  },
+  {
+   "surface": "לאלהים",
+   "gloss": "izindi mana"
+  },
+  {
+   "surface": "אחרים",
+   "gloss": "izindi"
+  },
+  {
+   "surface": "וישתחוו",
+   "gloss": "bagasenga"
+  },
+  {
+   "surface": "למעשי",
+   "gloss": "ibikorwa"
+  },
+  {
+   "surface": "ידיהם",
+   "gloss": "by'ibiganza byabo"
+  }
+ ],
+ "timestamp": "2026-09-07T15:38:28.749964295Z",
+ "model": "glm-5.3"
+}

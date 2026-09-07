@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "1-samuel 4:1",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Ijambo rya Shemueli ryo ryagera kwa Yisraeli bose, maze Yisraeli igendera mu ruhande rw'Abapelishtiyi ngo ibige intambara, baza batera imodoka i uri urutare rwa Ebeni-Ha'ezeri, maze Abapelishtiyi batera imodoka i Apheki.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "biba"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "ijambo"
+  },
+  {
+   "surface": "שמואל",
+   "gloss": "rya Shemueli"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "kwa bose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "ויצא",
+   "gloss": "igendera mu ruhande"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "לקראת",
+   "gloss": "ngo ibige"
+  },
+  {
+   "surface": "פלשתים",
+   "gloss": "Abapelishtiyi"
+  },
+  {
+   "surface": "למלחמה",
+   "gloss": "intambara"
+  },
+  {
+   "surface": "ויחנו",
+   "gloss": "baza batera imodoka"
+  },
+  {
+   "surface": "על",
+   "gloss": "i"
+  },
+  {
+   "surface": "האבן",
+   "gloss": "urutare"
+  },
+  {
+   "surface": "העזר",
+   "gloss": "rwa Ebeni-Ha'ezeri"
+  },
+  {
+   "surface": "ופלשתים",
+   "gloss": "maze Abapelishtiyi"
+  },
+  {
+   "surface": "חנו",
+   "gloss": "batera imodoka"
+  },
+  {
+   "surface": "באפק",
+   "gloss": "i Apheki"
+  }
+ ],
+ "timestamp": "2026-09-07T12:25:52.731813290Z",
+ "model": "glm-5.3"
+}

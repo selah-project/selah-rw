@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Bavuze impungenge mu mahema yabo, ntibumvise ijwi rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "bavuze impungenge"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mu mahema yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-bumvise"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:08.569804899Z",
+  "model": "glm-5.3"
+}

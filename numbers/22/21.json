@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Bilamu naazutse mu gitondo, yambikiye iyambi ⟨את⟩ indogobe ye, maze ajyana n'abatware ba Mowabu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "naazutse"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "yambikiye iyambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indogobe ye"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "indogobe ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maze ajyana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:24:06.520108026Z",
+  "model": "glm-5.3"
+}

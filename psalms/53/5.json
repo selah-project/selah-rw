@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Ese abakora ikibi ntibazi? Ababarya abantu banjye barabarye nka imigati; Elohimu ntibamuhamagaye.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ese"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "barazi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ababarya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "barabarye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bamuhamagaye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:29.491991479Z",
+  "model": "glm-5.3"
+}

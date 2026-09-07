@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yehoshuwa yabikoze uko Yahwe yabwiwe: ⟨את⟩ amafarashi yabo yarazimye, na ⟨את⟩ ibigare byabo yarakanye mu muriro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yabikoze"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafarashi yabo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "amafarashi yabo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "yarazimye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibigare byabo"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ibigare byabo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yarakanye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:42.543416955Z",
+  "model": "glm-5.3"
+}

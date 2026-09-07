@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abafilisiti barafashe ⟨את⟩ isanduku rya Elohimu, barazanira ⟨את⟩ mu nzu ya Dagoni, barashyira ⟨את⟩ imbere ya Dagoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "barafashe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "barazanira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mu nzu ya Dagoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "barashyira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imbere ya Dagoni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-09-07T12:26:03.859471059Z",
+  "model": "glm-5.3"
+}

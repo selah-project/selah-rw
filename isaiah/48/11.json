@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Kubwanjye, kubwanjye, nzabikora; kuko ni gute ibi byasambanywa? Kandi icyubahiro cyanjye nticyo nkahe undi.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "Kubwanjye"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "kubwanjye"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzabikora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ni gute"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ibisambanywa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "kandi icyubahiro cyanjye"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "undi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nkahe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:45.860962985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ese iminsi yanjye ntabwayo ake? Yemera, ureke unkande, kandi nkiranuke uko gito.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese ntabwayo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ake"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi yanjye"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Yemera"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ureke usigaho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "unkande"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "kandi nkiranuke"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "uko gito"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:02.796088049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Tsoraha, na ⟨את⟩ Ayalonu, na ⟨את⟩ Hevronu, ari mu Yehudha na mu Binyamini — imigi y'ibirindiro",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsoraha"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ayalonu"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hevronu"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "na mu Binyamini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "y'ibirindiro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:51:21.128866138Z",
+  "model": "glm-5.3"
+}

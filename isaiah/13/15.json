@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Buri wabonetse azabagwa, na buri wafashwe azagwa ku bw'umuhoro.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wabonetse"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "azabagwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "wafashwe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "azagwa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku bw'umuhoro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:03.471164935Z",
+  "model": "glm-5.3"
+}

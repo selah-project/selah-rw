@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Murahirwe mwe kwa Yahwe, we ukora ijuru n'isi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Murahirwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:32.580401825Z",
+  "model": "glm-5.3"
+}

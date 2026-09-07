@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Inshuro nyinshi barananije kuva mu buto bwanjye — ariko ntibashoboye kunsinda.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "inshuro nyinshi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "barananije"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuva mu buto bwanjye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kunsinda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:14.797712985Z",
+  "model": "glm-5.3"
+}

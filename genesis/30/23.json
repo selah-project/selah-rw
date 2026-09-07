@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "arahingutse abyaye umuhungu, aravuga ati: Elohimu yakuyeho ⟨את⟩ isoni ryanjye.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "arahingutse"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyaye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "yakuyeho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isoni ryanjye"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "isoni ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:01:50.376042733Z",
+  "model": "glm-5.3"
+}

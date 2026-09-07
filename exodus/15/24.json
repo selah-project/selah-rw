@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Abantu bateraniye irari kuri Moshe (Mose), bati: Iki tuzanywe?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "bateraniye irari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "tuzanywe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:33.335425455Z",
+  "model": "glm-5.3"
+}

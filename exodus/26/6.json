@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kandi uzakora ibyuma byo guhuza bya zahabu makumi atanu, maze uhuze ⟨את⟩ ibiruhago, imwe ku yindi, mu byo byuma; Mishikani (urwibutso: umwambaro w'ihema rya Yisraeli) noneho abe ⟨ni⟩ rimwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "kandi uzakora"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi atanu"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ibyuma byo guhuza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bya zahabu"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "maze uhuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiruhago"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ibiruhago"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "iyindi"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "mu byo byuma"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "noneho abe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:38.394483724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Kandi kuri wowe, Adonayi, hesedi ⟨ni⟩, ko wowe urishura ku muntu nk'ibikorwa bye.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Kandi kuri wowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "urishura"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "nk'ibikorwa bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:39.128843652Z",
+  "model": "glm-5.3"
+}

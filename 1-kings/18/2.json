@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Eliyahu nagiye kwerekana na Achabu; inzara n'iyo ikomeye i Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagiye"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kwerekana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabu"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "kandi inzara"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ikomeye"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-07T13:55:34.322734877Z",
+  "model": "glm-5.3"
+}

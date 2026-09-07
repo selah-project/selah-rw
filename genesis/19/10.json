@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Abagabo bararemereje ⟨את⟩ intoki zabo, baranjije ⟨את⟩ Lotu iwabo mu nzu, na ⟨את⟩ urugi barawufunze.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "bararemereje"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "baranjije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iwabo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urugi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "urugi"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "barawufunze"
+    }
+  ],
+  "timestamp": "2026-09-07T07:49:05.184670541Z",
+  "model": "glm-5.3"
+}

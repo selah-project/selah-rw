@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "N'⟨את⟩ inyifari enye n'⟨את⟩ ing'ombe umunani yahaye abana ba Merari, uko umurimo wabo ubimeze, mu ntoki za Itamari, umwana wa Aharoni, kohenu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "N'⟨את⟩",
+      "marks": "inyifari enye"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "enye"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "inyifari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "ing'ombe umunani"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "umunani"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ing'ombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "uko ubimeze"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "umurimo wabo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:03:19.776923902Z",
+  "model": "glm-5.3"
+}

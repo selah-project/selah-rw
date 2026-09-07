@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Igihumbi kizagwa ku ruhande rwawe, n'ibihumbi icumi ku buryo bwawe; nta na kimwe kizagera ku rwawe.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "kizagwa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ku ruhande rwawe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igihumbi"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "n'ibihumbi icumi"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ku buryo bwawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku rwawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "kizagera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:59.672243331Z",
+  "model": "glm-5.3"
+}

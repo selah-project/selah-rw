@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Maze uzumve ijwi rya Yahwe Elohimu wawe, maze ukore ⟨את⟩ amabwiriza ye na ⟨את⟩ amategeko ye, njye ngutegeka uyu munsi.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uzumve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza ye"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "amabwiriza ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amategeko ye"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngutegeka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:28.423905518Z",
+  "model": "glm-5.3"
+}

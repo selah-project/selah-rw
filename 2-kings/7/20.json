@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Byabaye iwe uko: abantu baramutsindiza ⟨את⟩ we ku irembo, arapfa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "byabaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "baramutsindiza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku irembo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:03.871739799Z",
+  "model": "glm-5.3"
+}

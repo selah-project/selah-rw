@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Nambaye ishuka ngo iryangarire imyambaro yanjye, maze ndabera umugani.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nambaye"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "imyambaro yanjye"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ishuka"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "maze ndabera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "umugani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.430581452Z",
+  "model": "glm-5.3"
+}

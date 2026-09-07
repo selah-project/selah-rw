@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Bazarimbura ⟨את⟩ igihugu cya Ashuru n'umuhoro, na ⟨את⟩ igihugu cya Nimurodi ku muryango wayo; azakiza mu Ashuru, mu gihe azaza mu gihugu cyacu, no mu gihe azanyurira ku mupaka wacu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "bazarimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Ashuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'umuhoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihugu cya Nimurodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimurodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "ku muryango wayo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "azakiza"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "mu Ashuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "mu gihugu cyacu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "no mu gihe"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "azanyurira"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ku mupaka wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:48:11.733850828Z",
+  "model": "glm-5.3"
+}

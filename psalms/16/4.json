@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ibigirwamana byabo biziyongerera iyo bahutira uwundi (imana y'indi); ntitangiza ibitangwa byabo by'amaraso, kandi ntiduha ⟨את⟩ amazina yabo ku minwa yanjye.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "biziyongerera"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "uwundi (imana y'indi)"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "iyo bahutira"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ndatangiza"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ibitangwa byabo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "by'amaraso"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nduha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazina yabo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "amazina yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "minwa yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:43.986469127Z",
+  "model": "glm-5.3"
+}

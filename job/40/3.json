@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Iyobu na ⟨את⟩ Yahwe: Iyobu yaciye igite Yahwe maze aravuga ati:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yaciye igite"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    }
+  ],
+  "timestamp": "2026-09-07T22:02:16.555797458Z",
+  "model": "glm-5.3"
+}

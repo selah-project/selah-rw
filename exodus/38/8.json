@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yakoreye ⟨את⟩ urutozi rw'umuringa na ⟨את⟩ ishyigikiro ryaryo ry'umuringa, mu birahuri byo kureba by'abagore bakozi bakozi — abakozi ku muryango w'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urutozi"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "urutozi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rw'umuringa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ishyigikiro ryaryo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ishyigikiro ryaryo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ry'umuringa"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "mu birahuri byo kureba"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "by'abagore bakozi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "bakozi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "w'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:37.489495036Z",
+  "model": "glm-5.3"
+}

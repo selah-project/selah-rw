@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Bazafata umwenda w'ubururu, maze basheke ⟨את⟩ itara ry'urumuri n'⟨את⟩ amatara yaryo n'⟨את⟩ imfunyo zaryo n'⟨את⟩ ibyansi byaryo, n'⟨את⟩ ibikoresho byose by'amavuta bakorera mu byo ngo batunge iryo tari.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Bazafata"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "w'ubururu"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "maze basheke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itara"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "itara"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ry'urumuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatara"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amatara yaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imfunyo"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "imfunyo zaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyansi"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "ibyansi byaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "ibikoresho byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "by'amavuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "bakorera"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iriyari"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu byo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:02:35.051240717Z",
+  "model": "glm-5.3"
+}

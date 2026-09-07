@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umutsindo w'ijwi rya Yahwe kuri Yisraeli (Isirayeli), mu ntoko za Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "umutsindo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "w'ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko za"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:59.909584001Z",
+  "model": "glm-5.3"
+}

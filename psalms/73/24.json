@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Mu bwenge bwawe unyobora, maze nyuma unfata m'icubahiro.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Mu bwenge bwawe"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "unyobora"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "maze nyuma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "m'icubahiro"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "unfata"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:03.127757072Z",
+  "model": "glm-5.3"
+}

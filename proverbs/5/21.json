@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ko inzira z'umuntu ziri mu maso ya Yahwe, kandi inzira ze zose arazipima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira z'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi zose"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "inzira ze"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "arazipima"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:02.451378284Z",
+  "model": "glm-5.3"
+}

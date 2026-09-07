@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Nkuko nkomeye kandi ndiho — ni icyifungo cy'umwami, Yahwe Tsevaoti ni we izina rye — ko nk'u Taboru mu misozi no nk'u Karmeli ku nyanja, azaza.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "nkomeye kandi ndiho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "icyifungo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "nk'u Taboru"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mu misozi"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "no nk'u Karmeli"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ku nyanja"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "azaza"
+    }
+  ],
+  "timestamp": "2026-09-07T16:28:02.724432373Z",
+  "model": "glm-5.3"
+}

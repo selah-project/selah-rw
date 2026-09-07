@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yagendaga umwaka ku mwaka atembera muri Beteli, Giligali na Mitsipa, acuraburagaga ⟨את⟩ Yisraeli mu ⟨את⟩ ahantu yose aya.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "yagendaga"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "umwaka ku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ku mwaka"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "atemberagaga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "muri Beteli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beteli"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Giligali"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "na Mitsipa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "acuraburagaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahantu yose aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:09.822843498Z",
+  "model": "glm-5.3"
+}

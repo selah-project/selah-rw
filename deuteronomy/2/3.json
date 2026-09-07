@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Byaguhagije kumwe — mwazenguruye ⟨את⟩ uru rwego; mwihare mugana mu majyaruguru.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "byaguhagije"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kumwe"
+    },
+    {
+      "surface": "סב",
+      "gloss": "mwazenguruye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uru rwego"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "uru rwego"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "פנו",
+      "gloss": "mwihare"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "mu majyaruguru"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:38.916551309Z",
+  "model": "glm-5.3"
+}

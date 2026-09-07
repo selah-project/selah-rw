@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "kandi ku by'iminsi ayo nategetse abacamanza hejuru y'abantu banjye Yisraeli; kandi nagabanyije ⟨את⟩ abanzi bawe bose, kandi mbwira wowe ko inzu izubakwa kuri wewe, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "kandi ku by'iminsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nategetse"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "abacamanza"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "kandi nagabanyije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanzi bawe bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "abanzi bawe"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "kandi mbwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kandi inzu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "izubakwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:07:20.226407289Z",
+  "model": "glm-5.3"
+}

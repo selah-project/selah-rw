@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Elohimu, ntunkure kure njye; Elohimu wanjye, ihute uje mu bufasha bwanjye.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "unkure kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mu bufasha bwanjye"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ihute uje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:53.797275438Z",
+  "model": "glm-5.3"
+}

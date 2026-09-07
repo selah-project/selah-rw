@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Tegereza ndebe maze unsubize; nkecyesha mu kubangikana n'abantu bwanjye, kandi ndihema.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Tegereza ndebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndebe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "maze unsubize"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nkecyesha"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mu kubangikana n'abantu bwanjye"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "kandi ndihema"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:54.797825896Z",
+  "model": "glm-5.3"
+}

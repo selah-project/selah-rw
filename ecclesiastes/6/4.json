@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kuko mu hebeli yaje, mu mwijima agenda, na izina rye mu mwijima rirakingiwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "mu hebeli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "agenda"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "rirakingiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:13.784572594Z",
+  "model": "glm-5.3"
+}

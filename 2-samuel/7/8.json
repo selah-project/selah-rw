@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 7:8",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "None ubu uti ubwire umukozi wanjye Dawidi: Uko Yahwe Tsevaoti abivuga: Ni njye nakuyobye ku mbuga, inyuma y'intama, kugira ngo ube umuyobozi w'abantu banjye, w'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ubwire"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "umukozi wanjye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "abivuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni njye"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "nakuyobye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנוה",
+      "gloss": "mbuga"
+    },
+    {
+      "surface": "מאחר",
+      "gloss": "inyuma y'"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kugira ngo ube"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umuyobozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "w'"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "w'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:05:14.718728429Z",
+  "model": "glm-5.3"
+}

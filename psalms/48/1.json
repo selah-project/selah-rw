@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Indirimbo, igitabo cya zaburi, y'abahungu ba Korahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "igitabo cya zaburi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "y'abahungu ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:25.357471622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Munigishe ⟨את⟩ aya ⟨את⟩ abana banyu mu kuyavugisha — iyo utuye mu nzu yawe, iwo utembuka inzira, iwo uryama, no iwo uvuka.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "munigishe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana banyu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "abana banyu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mu kuyavugisha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "iyo utuye"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "iwo utembuka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "iwo uryama"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "no iwo uvuka"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:50.133281920Z",
+  "model": "glm-5.3"
+}

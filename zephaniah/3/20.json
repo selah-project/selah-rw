@@ -1,0 +1,101 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "zephaniah 3:20",
+ "book": "zephaniah",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Mu icyo gihe ndazazana ⟨את⟩ mwe, no mu gihe ndakusanya ⟨את⟩ mwe; kuko ndazaha ⟨את⟩ mwe izina n'icyubahiro mu bwoko bw'abantu bo mu isi, igihe ndasubiriza ⟨את⟩ ubucakara bwanyu imbere y'amaso yanyu — Yahwe yavuze.",
+ "tokens": [
+  {
+   "surface": "בעת",
+   "gloss": "mu icyo gihe"
+  },
+  {
+   "surface": "ההיא",
+   "gloss": "icyo"
+  },
+  {
+   "surface": "אביא",
+   "gloss": "ndazazana"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "ובעת",
+   "gloss": "no mu gihe"
+  },
+  {
+   "surface": "קבצי",
+   "gloss": "ndakusanya"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "אתן",
+   "gloss": "ndazaha"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "לשם",
+   "gloss": "izina"
+  },
+  {
+   "surface": "ולתהלה",
+   "gloss": "n'icyubahiro"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "mu bwoko bwose"
+  },
+  {
+   "surface": "עמי",
+   "gloss": "bw'abantu"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "bo mu isi"
+  },
+  {
+   "surface": "בשובי",
+   "gloss": "igihe ndasubiriza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ubucakara bwanyu"
+  },
+  {
+   "surface": "שבותיכם",
+   "gloss": "ubucakara bwanyu"
+  },
+  {
+   "surface": "לעיניכם",
+   "gloss": "imbere y'amaso yanyu"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "yavuze"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T17:55:35.867803041Z",
+ "model": "glm-5.3"
+}

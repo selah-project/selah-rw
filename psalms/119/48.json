@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi nzamemye ibiganza byanjye ku bitegeko byawe, ibyo nakunze, kandi nzibuke amategeko yawe mu mutima wanjye.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nzamemye"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ibiganza byanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ibitegeko byawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nakunze"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "nzibuke mu mutima wanjye"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:49.910867078Z",
+  "model": "glm-5.3"
+}

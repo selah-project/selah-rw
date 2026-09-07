@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Baracyoza bati: Ni umuntu ufite umusatsa iwuruye, na umuvunja w'uruhu wambarwa ku mbavu ze. Nuko avuga ati: Eliyahu Hatishubiyu ni we.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Baracyoza bati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "שער",
+      "gloss": "umusatsa iwuruye"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "na umuvunja"
+    },
+    {
+      "surface": "עור",
+      "gloss": "w'uruhu"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "wambarwa"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ku mbavu ze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Nuko avuga ati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Hatishubiyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:33.379305982Z",
+  "model": "glm-5.3"
+}

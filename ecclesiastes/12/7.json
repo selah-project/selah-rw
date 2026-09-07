@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze umunyaku usubire ku isi uko bwari kandi umwuka usubire kwa Elohimu wawuhaye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "usubire"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "umunyaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "uko bwari"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "usubire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wawuhaye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:45.584944334Z",
+  "model": "glm-5.3"
+}

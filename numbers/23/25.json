@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Balaki yarabwiye Bilamu ati: Na kuvuma ntuyivume, na guhangisha ntuyihangishe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kuvuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "uyivume"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "guhangisha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "uyihangishe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:27:57.028380785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Uzakunda ⟨את⟩ Yahwe Elohimu wawe mu mutima wawe wose, no mu Nefeshi yawe yose, no mu ngufu zawe zose.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Uzakunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … wose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mutima wawe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu … yose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshi yawe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu … zose"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "ngufu zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:07.003553547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "deuteronomy 1:18",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Nabategeje muri icyo gihe ⟨את⟩ mwe ⟨את⟩ ibintu byose mugomba gukora.",
+ "tokens": [
+  {
+   "surface": "ואצוה",
+   "gloss": "nabategeje"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "muri icyo gihe"
+  },
+  {
+   "surface": "בעת",
+   "gloss": "mu gihe"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "icyo"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibintu byose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "ibintu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "gi"
+  },
+  {
+   "surface": "תעשון",
+   "gloss": "mugomba gukora"
+  }
+ ],
+ "timestamp": "2026-09-07T10:45:28.707109857Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "⟨את⟩ Amategeko yawe nzabahiriza; ntureke na cyane!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yawe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Amategeko yawe"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nzabahiriza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "reke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:59.534739182Z",
+  "model": "glm-5.3"
+}

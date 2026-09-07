@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yahwe Tsevaoti, Elohimu wa Yisraeli, utuye ku makerubi: wowe ⟨ni⟩ we Elohimu, wowe wenyine, ku bwami bwose bw'isi; wowe wakoze ⟨את⟩ amajuru na ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ku makerubi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bwami"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bw'isi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:10:31.787017968Z",
+  "model": "glm-5.3"
+}

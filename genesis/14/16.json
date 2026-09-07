@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze azagarura ⟨את⟩ byose mu mitungo, ndetse na ⟨את⟩ Lotu (Loto) umuvandimwe we n'imitungo ye azayigarura, ndetse na ⟨את⟩ abagore no ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azagarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitungo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "mu mitungo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotu (Loto)"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umuvandimwe we"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "n'imitungo ye"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "azayigarura"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:37.003757613Z",
+  "model": "glm-5.3"
+}

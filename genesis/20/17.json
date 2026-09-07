@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze Avrahamu (Aburahamu) asaba Elohimu, Elohimu na ashavura ⟨את⟩ Avimeleki (Abimeleke) na ⟨את⟩ umugore we n'abaja be, maze babyara.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "asaba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ashavura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugore we"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "abaja be"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "babyara"
+    }
+  ],
+  "timestamp": "2026-09-07T07:49:18.700376417Z",
+  "model": "glm-5.3"
+}

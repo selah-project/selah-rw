@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Dawidi yaravuze ati: Ese haba hari na umwe wasigaye mu nzu ya Shauli, maze nkore na we hesedi kubw'i Yehonatanu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "יש",
+      "gloss": "haba hari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na umwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wasigaye"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "wasigaye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shauli"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nkore"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kubw'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:04:40.639553149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Mbese imana z'amahanga zibakuyemo ⟨את⟩ bo — izo abakurambere banjye barimbuye: ⟨את⟩ Gozani na ⟨את⟩ Harani, na Retsefu, n'abana b'Edeni bari i Telasari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "zibakuyemo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "imana z'amahanga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izo"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "barimbuye"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "abakurambere banjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Retsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "n'abana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "b'Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "i Telasari"
+    }
+  ],
+  "timestamp": "2026-09-07T15:09:21.880675824Z",
+  "model": "glm-5.3"
+}

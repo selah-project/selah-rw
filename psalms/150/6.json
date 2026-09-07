@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 150,
+  "translation": "Ibyose bifite umwuka biheshe Yah, musinge Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "bifite umwuka"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "biheshe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "musinge"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:19.287981247Z",
+  "model": "glm-5.3"
+}

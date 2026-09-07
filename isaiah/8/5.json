@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yongeye kuvuga kuri njye nanone, ati:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yongeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuvuga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T14:44:33.560575198Z",
+  "model": "glm-5.3"
+}

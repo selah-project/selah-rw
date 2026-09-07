@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abo mu biganza byabo ⟨hari⟩ iningenzo mbi, n'iburyo byabo byuzuye rushwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Abo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "mu biganza byabo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "iningenzo mbi"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "n'iburyo byabo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rushwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:28.540776282Z",
+  "model": "glm-5.3"
+}

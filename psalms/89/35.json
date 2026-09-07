@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Beriti yanjye ntindimbaza, kandi ibivuye mu milomo yanjye ntindihindura.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "ndimbaza"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "kandi ibivuye"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu milomo yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ndihindura"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:21.016603785Z",
+  "model": "glm-5.3"
+}

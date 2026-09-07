@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Ku mukuru w'abacuranza, kuri bene Korahi, indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mukuru w'abacuranza"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuri bene"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:26.592854701Z",
+  "model": "glm-5.3"
+}

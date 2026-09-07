@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Mumenyeshe mu mahanga icyubahiro cye, ku bihugu byose ibitangaza bye.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Mumenyeshe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "icyubahiro cye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku bihugu byose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bihugu"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ibitangaza bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:11.452705393Z",
+  "model": "glm-5.3"
+}

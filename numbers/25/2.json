@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Barahamaga abantu ku ngoro y'imana zacyo, maze abantu bariye bakanubamira imana zacyo.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "barahamaga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "ku ngoro y'"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "imana zacyo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "bariye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bakanubamira"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "imana zacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:28:32.344023797Z",
+  "model": "glm-5.3"
+}

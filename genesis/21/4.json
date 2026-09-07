@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Mara Avrahamu yagabanije ⟨את⟩ Yitsaki umuhungu we — umuhungu w'iminsi umunani — uko Elohimu byamutegetse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "yagabanije"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "w'iminsi umunani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "byamutegetse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:52.792206394Z",
+  "model": "glm-5.3"
+}

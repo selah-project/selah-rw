@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Mu mbuga z'inzu ya Yahwe, mu gitondo cyawe, Yerushalayimu. Musingize Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "mu mbuga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "z'inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "mu gitondo cyawe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:10.057269972Z",
+  "model": "glm-5.3"
+}

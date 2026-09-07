@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nyuma y'ibyo, umwami w'abana b'Amonu yapfuye, maze Hanunu umwana we yigira umwami mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nyuma y'ibyo bimaze"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yigira umwami"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanunu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:04:34.608172633Z",
+  "model": "glm-5.3"
+}

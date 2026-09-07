@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yaakovu na we avuga ati: Unyemere uyu munsi ⟨את⟩ ubwambere bwawe, njye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Unyemere"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwambere bwawe"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ubwambere bwawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:58:11.914796800Z",
+  "model": "glm-5.3"
+}

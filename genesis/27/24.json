@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Aravuze ati: Wowe ni uwo, umwana wanjye Esavu? Na we aravuga ati: Ni njye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni uwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:00.915904605Z",
+  "model": "glm-5.3"
+}

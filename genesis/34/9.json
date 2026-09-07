@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Mukore imibano ntitwe: ⟨את⟩ abakobwa banyu muha twe, kandi ⟨את⟩ abakobwa bacu mutora muri ubwanyu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "mukore imibano ntitwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "abakobwa banyu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "abakobwa banyu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakobwa bacu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "abakobwa bacu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mutora"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri ubwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:59.207470153Z",
+  "model": "glm-5.3"
+}

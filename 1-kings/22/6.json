@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Umwami w'i Yisraeli yarahuriye ⟨את⟩ abahanuzi, abagabo nk'amajana ane, arababaza ati: Nzamuka ngiye kuri Ramotu Giladi ku rugamba, cyangwa nihagare? Baravuze bati: Zamuka; Adonayi azayiha ⟨?⟩ mu ntoki z'umwami.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "yarahuriye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanuzi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "nk'ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababaza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bati"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Nzamuka ngiye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramotu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku rugamba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "nihagare"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Baravuze"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "azayiha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "z'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:18.450878906Z",
+  "model": "glm-5.3"
+}

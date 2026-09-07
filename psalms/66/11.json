@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Watuzanije muri urwibatsi, washyize umunyurizo ku bitugu byacu.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Watuzanije"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "muri urwibatsi"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "umunyurizo"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "ku bitugu byacu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:21.057923873Z",
+  "model": "glm-5.3"
+}

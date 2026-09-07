@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Elohimu yaravuze mu gitagatifu kye: nzishima, nzatanya Shekemu, ikibaya cya Sukotu nzapima.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mu gitagatifu kye"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "nzishima"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "nzatanya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ikibaya cya"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotu"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "nzapima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:45.167005150Z",
+  "model": "glm-5.3"
+}

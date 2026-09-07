@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Se arababaza ati: Ni iyihe nzira yakojeje? Abahungu be baramwerekanaga ⟨את⟩ inzira umuntu w'Elohimu yakojeje, uwo waje mu Yahuda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "arababaza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyihe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yakojeje"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "baramwerekanaga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yakojeje"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yakojeje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "waje"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "mu Yahuda"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:32.904508481Z",
+  "model": "glm-5.3"
+}

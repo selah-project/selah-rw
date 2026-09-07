@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "No mu mazi menshi, imbuto za Shihori, imyaka y'uruzi — ni yo yari ukuntu kwawe; maze aba isoko ry'amahanga.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "No mu mazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbuto za"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Shihori"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "y'uruzi"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ukuntu kwawe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "maze aba"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "isoko ry'"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:36.795502480Z",
+  "model": "glm-5.3"
+}

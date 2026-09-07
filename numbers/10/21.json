@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abakehati baratembye barimo gutwara igitagatifu, maze ⟨abandi⟩ bagomeka ⟨את⟩ Mishkani kugeza bazagera.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "baratembye"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Abakehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "barimo gutwara"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "bagomeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "באם",
+      "gloss": "bazagera"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:12.281861982Z",
+  "model": "glm-5.3"
+}

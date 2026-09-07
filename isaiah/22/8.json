@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Byakuyeho ⟨את⟩ uruhisho rwa Yehuda, maze ku munsi uwo urebe ku bikoresho by'intambara by'inzu y'ishyamba.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Byakuyeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhisho rwa Yehuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "uruhisho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "rwa Yehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "urebe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku bikoresho by'intambara umwe"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "bikoresho by'intambara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "היער",
+      "gloss": "y'ishyamba"
+    }
+  ],
+  "timestamp": "2026-09-07T14:55:13.919677914Z",
+  "model": "glm-5.3"
+}

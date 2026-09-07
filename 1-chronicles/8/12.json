@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Abahungu b'Elpahali: Everu na Mishiyamu na Shamedu; ni we wubatsye ⟨את⟩ Ono na ⟨את⟩ Lodi hamwe n'ibyara byayo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abahungu b'"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpahali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everu"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "na Mishiyamu"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "na Shamedu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wubatsye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lodi"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lodi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "hamwe n'ibyara byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:44.262571252Z",
+  "model": "glm-5.3"
+}

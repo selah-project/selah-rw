@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Inyigisho iya Dawidi: ni umunezero uwasebyanjwe umuhano, icyaha cye cyakingiwemo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "iya Dawidi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "inyigisho"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ni umunezero"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "uwasebyanjwe"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "umuhano"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "cyakingiwemo"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "icyaha cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:22.670601434Z",
+  "model": "glm-5.3"
+}

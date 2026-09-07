@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Babe nk'urwenyo imbere y'umuyaga, maze umumalayika wa Yahwe abasesekura.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "nk'urwenyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "maze umumalayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "abasesekura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:58.782519810Z",
+  "model": "glm-5.3"
+}

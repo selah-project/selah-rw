@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Imigezi yose ijya mu nyanja, kandi nyanja ntizuzura; mu mwanya imigezi ijya aho, niyo zisubira kongera kujya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ijya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "והים",
+      "gloss": "kandi nyanja"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "zuzura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ijya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "הם",
+      "gloss": "niyo"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "zisubira"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kongera kujya"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:21.198460873Z",
+  "model": "glm-5.3"
+}

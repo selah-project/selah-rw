@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abahungu ba Chetsronu bavukanyi bwe: ⟨את⟩ Yerakhmeeli, na ⟨את⟩ Ramu, na ⟨את⟩ Kelubayi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsronu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bavukanyi bwe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "bavukanyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakhmeeli"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmeeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kelubayi"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubayi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:41.820405563Z",
+  "model": "glm-5.3"
+}

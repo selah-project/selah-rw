@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Twagereranyije hesedi yawe ⟨ubuntu⟩, Elohimu, mu gitovu cya nzu nkuru yawe.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Twagereranyije"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu gitovu cya"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "nzu nkuru yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:21.902381513Z",
+  "model": "glm-5.3"
+}

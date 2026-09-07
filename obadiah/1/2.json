@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dore, nakagushyira mu mahanga ko urenze kuba umuto; wowe urashwe cyane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ko urenze kuba umuto"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nakagushyira"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "urashwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T17:43:52.992281107Z",
+  "model": "glm-5.3"
+}

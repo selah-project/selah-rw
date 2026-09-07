@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze abagaragu ba Shauli bamubwira bati: Rebwa none, roho mbi ya Elohimu irakutera ubwoba.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bamubwira"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ba Shauli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rebwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "none"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbi"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "irakutera ubwoba"
+    }
+  ],
+  "timestamp": "2026-09-07T12:37:00.444153335Z",
+  "model": "glm-5.3"
+}

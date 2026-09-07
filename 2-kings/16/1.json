@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Mu mwaka wa cumi n'indwi wa Pekahi umwana wa Remalyahu, Ahazi umwana wa Yotamu umwami wa Yehuda yatangiye kugira ubwami.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mu mwaka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "n'indwi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "wa Pekahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yatangiye kugira ubwami"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "wa Yotamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T14:27:01.684958212Z",
+  "model": "glm-5.3"
+}

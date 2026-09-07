@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ntubice, kugira ngo ubwoko bwanjye butabibagirwe; ubazengurize n'ingufu zawe, maze unamanise, ingabo yacu, Adonayi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ubice"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kugira ngo… it"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "batibagirwe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ubwoko bwanjye"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ubazengurize"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "n'ingufu zawe"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "maze unamanise"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ingabo yacu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:11.086952926Z",
+  "model": "glm-5.3"
+}

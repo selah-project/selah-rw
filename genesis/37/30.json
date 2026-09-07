@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yagarutse kw'abavandimwe be, aravuga ati: U mwana siho; nanjye, nagahe njye nzaza?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yagarutse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "siho"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nagahe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nzaza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:08.811826348Z",
+  "model": "glm-5.3"
+}

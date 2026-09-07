@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Byabwiwe Dawidi, maze ateranya ⟨את⟩ Yisraeli yose, abambukira ⟨את⟩ Yorudani, aziya Helamu; maze Aramu yatewe imbere imbere ya Dawidi, barwana na we.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "byabwiwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "maze ateranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "abambukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "aziya"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Helamu"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "yatewe imbere"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "barwana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:06:25.722725500Z",
+  "model": "glm-5.3"
+}

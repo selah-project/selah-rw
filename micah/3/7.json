@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "N'ababona iby'ijoro bazatangira isoni, abaragura na bo bazibagirwa; bose bazashingira ku mmishamisho yabo, kuko ita n'icyo Elohimu yishura.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "bazatangira isoni"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ababona iby'ijoro"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "bazibagirwa"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "abaragura"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "bazashingira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "imishamisho yabo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ita"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "icyo... yishura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:47:25.440281541Z",
+  "model": "glm-5.3"
+}

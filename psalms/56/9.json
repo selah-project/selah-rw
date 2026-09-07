@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Uburimbuko bwanjye warabwibaze; wowe, shyira amarira yanjye mu gisabo cyawe; ese ntibari mu gitabo cyawe?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "uburimbuko bwanjye"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "warabwibaze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "shyira"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "amarira yanjye"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "mu gisabo cyawe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ese"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "mu gitabo cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:57.140823505Z",
+  "model": "glm-5.3"
+}

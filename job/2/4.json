@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Satani yishuye ⟨את⟩ Yahwe maze aravuga ati: Uruhu ku ruhu, n'ibyo umuntu yose azatanga ni ku Nefeshi ye.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yishuye"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "עור",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ibyo byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "azatanga"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:55.520447502Z",
+  "model": "glm-5.3"
+}

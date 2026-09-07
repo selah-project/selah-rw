@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yibuke ibyizerano byawe byose, n'ibicanwa byawe abyemere ⟨kunga ibinure⟩. Selahi.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "yibuke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ibyizerano byawe"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "n'ibicanwa byawe"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "abyemere"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:19.829043953Z",
+  "model": "glm-5.3"
+}

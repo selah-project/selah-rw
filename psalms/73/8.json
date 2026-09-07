@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 73:8",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 73,
+ "translation": "Bakererekanya bakavuga ibibi by'ihohoterwa, hejuru bavugira.",
+ "tokens": [
+  {
+   "surface": "ימיקו",
+   "gloss": "Bakererekanya"
+  },
+  {
+   "surface": "וידברו",
+   "gloss": "bakavuga"
+  },
+  {
+   "surface": "ברע",
+   "gloss": "ibibi bya"
+  },
+  {
+   "surface": "עשק",
+   "gloss": "ihohoterwa"
+  },
+  {
+   "surface": "ממרום",
+   "gloss": "hejuru"
+  },
+  {
+   "surface": "ידברו",
+   "gloss": "bavugira"
+  }
+ ],
+ "timestamp": "2026-09-07T18:31:08.595333741Z",
+ "model": "glm-5.3"
+}

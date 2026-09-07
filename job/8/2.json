@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kugeza hehe uzakomeza kuvuga ibi? Amagambo y'akanwa kawe ⟨ni⟩ umuyaga ukomeye.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אן",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "uzakomeza kuvuga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ukomeye"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "y'akanwa kawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:21:35.091245008Z",
+  "model": "glm-5.3"
+}

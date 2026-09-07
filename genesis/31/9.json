@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Elohimu ni we yakuyeho ⟨את⟩ amatungo ya so wanyu, maze aha muri.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ni we yakuyeho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatungo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "amatungo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "so wanyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze yaheye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "muri"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:11.302849349Z",
+  "model": "glm-5.3"
+}

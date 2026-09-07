@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ijambo rya Yeshayahu mwene Amotsi yarebye ku Yehuda no ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rya"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "no ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:55.644862852Z",
+  "model": "glm-5.3"
+}

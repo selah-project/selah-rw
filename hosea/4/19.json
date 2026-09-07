@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umuyaga wazengeye ⟨את⟩ we mu mpyiko ye, maze bazahwe n'ibicano byabo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "wazengeye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Umuyaga"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "mu mpyiko ye"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "maze bazahwe"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "n'ibicano byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:49:57.912146214Z",
+  "model": "glm-5.3"
+}

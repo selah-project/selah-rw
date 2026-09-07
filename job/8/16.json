@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ni ubwatsi bwumye neza imbere y'izuba, kandi ibyatsi bye bisohoka mu murima we.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "ubwatsi bwumye neza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ni we"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kandi mu"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "murima we"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ibyatsi bye"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bisohoka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:20:41.381373990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kandi iyo kohenu yarebye, maze abona ko icyari cyoroheye nyuma y'uko ⟨את⟩ cyaranetswe, azakuraho ⟨את⟩ mu myambaro, cyangwa mu ruhubyangwa, cyangwa mu rushishi, cyangwa mu rudodo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze abona"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "cyoroheye"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "icyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'uko"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "cyaranetswe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "icyari"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "azakuraho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "icyari cyavanwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העור",
+      "gloss": "uruhubyangwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "urushishi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "urudodo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:40:08.571584061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nanone iyo ababiri barara, kandi ubushyuhe babifite; ariko umwe, nte yashya?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "barara"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ababiri"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kandi ubushyuhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "babifite"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ariko umwe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nte"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "yashya"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:09.550505261Z",
+  "model": "glm-5.3"
+}

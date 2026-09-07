@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Yahwe, Elohimu w'ukokolwa kwanjye, mu munsi narondera, n'ijoro imbere yawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "w'ukokolwa kwanjye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "narondera"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "imbere yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:52.771335629Z",
+  "model": "glm-5.3"
+}

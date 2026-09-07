@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "N'abahungu ba Gomeru: Ashikenazi, na Difati, na Togaramahu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "N'abahungu ba"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeru"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashikenazi"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "na Difati"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "na Togaramahu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:50.803611273Z",
+  "model": "glm-5.3"
+}

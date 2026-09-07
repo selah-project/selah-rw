@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umutima wawe ntiture ku nzira zaye; ntuzimire mu nzira ze.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntiture"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "kurekeraho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "inzira zaye"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntuzimire"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "gutembera"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "mu nzira ze"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:18.560597014Z",
+  "model": "glm-5.3"
+}

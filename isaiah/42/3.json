@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Urweko rwavunitse ntarurwaza, kandi urumuri rworoheje ntaruvuga; mu kuri azazana urubanza.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "urweko"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "rwavunitse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "azarurwaza"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "na urumuri"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "rworoheje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "azaruvuga"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "mu kuri"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "azazana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:47.118658029Z",
+  "model": "glm-5.3"
+}

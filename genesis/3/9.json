@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze Yahwe Elohimu rahamagaye umuntu, aramubwira ati: \"Uri hehe?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "rahamagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Uri hehe?"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:42.398482113Z",
+  "model": "glm-5.3"
+}

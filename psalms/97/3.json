@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Umuriro ugenda imbere ye, maze urasenya abanzi be uherereye hose.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "urasenya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "uherereye hose"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "abanzi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:52.546553316Z",
+  "model": "glm-5.3"
+}

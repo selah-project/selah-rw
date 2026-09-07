@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Adonayi, umva ijwi ryanjye; amatwi yawe azabe yitaye ku ijwi ry'ibyangomwa byanjye.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "umva"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "azabe"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "amatwi yawe"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "yitaye"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ibyangomwa byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:40.759466200Z",
+  "model": "glm-5.3"
+}

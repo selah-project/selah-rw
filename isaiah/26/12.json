@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yahwe, wazadushyiriraho amahoro, kuko ibikorwa byacu byose ni wowe wabikoreye twe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "wazadushyiriraho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byacu byose"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ibikorwa byacu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "wabikoreye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:15.804524744Z",
+  "model": "glm-5.3"
+}

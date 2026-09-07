@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mukunde ⟨את⟩ umunyamahanga (umunyamahanga), ko mwari abanyamahanga mu gihugu cya Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "mukunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunyamahanga"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "umunyamahanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abanyamahanga"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:53:57.791335411Z",
+  "model": "glm-5.3"
+}

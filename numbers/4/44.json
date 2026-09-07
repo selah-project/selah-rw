@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Uko nibarwa mu muryango wabo, amajana atatu na mirongo ibiri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Uko nibarwa"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ibarwa ryabo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mu muryango wabo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mirongo ibiri"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:39.885567328Z",
+  "model": "glm-5.3"
+}

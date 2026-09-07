@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ntuzifunge umunwa w'inka y'ingabo mu gutobora ibyori bye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntu"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "zifunge umunwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka y'ingabo"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "mu gutobora ibyori bye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:58.102706859Z",
+  "model": "glm-5.3"
+}

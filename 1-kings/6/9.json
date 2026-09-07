@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yubatshe ⟨את⟩ inzu maze arangiza, arasingira ⟨את⟩ inzu amabari n'imbari z'ibiti bya cedari.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yubatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "arangiza"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "arasingira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "amabari"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "n'imbari"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "z'ibiti bya cedari"
+    }
+  ],
+  "timestamp": "2026-09-07T13:33:20.471647511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "⟨את⟩ i jambo ryo nasezeranije ⟨את⟩ na mwe mu gusohoka kwanyu mu Mitsrayimu, kandi umwuka wanjye uhagaze muri mwe; nta mutinye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "i jambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nasezeranije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na mwe"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mu gusohoka kwanyu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "kandi umwuka wanjye"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "uhagaze"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mutinye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:56:00.521167554Z",
+  "model": "glm-5.3"
+}

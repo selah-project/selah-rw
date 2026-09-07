@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "We ukora amabara manini, ko hesedi ye ihoraho iteka.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "We ukora"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "amabara"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "manini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:54.517790049Z",
+  "model": "glm-5.3"
+}

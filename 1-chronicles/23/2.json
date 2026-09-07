@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze yasaranye ⟨את⟩ abatware bose ba Yisraeli, n'abakohenu n'Abalevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "yasaranye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abatware bose ba Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Abalevi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:37.150131978Z",
+  "model": "glm-5.3"
+}

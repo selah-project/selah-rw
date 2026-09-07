@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yarabashye ku Shelomo, kubera ko umutima we wahindutse uva kuri Yahwe, Elohimu wa Yisraeli, wamugaragariye inshuro ebyiri.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "yarabashye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ku Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "wahindutse"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uva kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "wamugaragariye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "inshuro ebyiri"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:07.690927782Z",
+  "model": "glm-5.3"
+}

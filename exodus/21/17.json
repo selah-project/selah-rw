@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uwuvuma se we na nyina we — urupfu rwose azapfa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Uwuvuma"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na nyina we"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "rwose azapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:45.774609005Z",
+  "model": "glm-5.3"
+}

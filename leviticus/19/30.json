@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "⟨את⟩ Shabati zanjye muzabike, kandi urusengero rwanjye muryubaha; njye ⟨ni⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabati zanjye"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabati zanjye"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muzabike"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "urusengero rwanjye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muryubaha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:19.835177918Z",
+  "model": "glm-5.3"
+}

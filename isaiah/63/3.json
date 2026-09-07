@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Icuma nakandagiye njenyine, kandi mu mahanga nta muntu ⟨את⟩ yari kumpe; nakandagiye bo mu bishyu byanjye, ndabakandagira mu uburakari bwanjye; kandi amazi ya mzabibu bo yasakuwe ku mpuzu zanjye, kandi impuzu zanjye zose znazwe.",
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "Icuma"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "nakandagiye"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "njenyine"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "kandi mu mahanga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yari kumpe",
+      "marks": "muntu"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "nakandagiye bo"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mu bishyu byanjye"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "ndabakandagira"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "mu uburakari bwanjye"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "kandi yasakuwe"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "amazi ya mzabibu bo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mpuzu zanjye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi zose"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "impuzu zanjye"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "znazwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:34:09.004167051Z",
+  "model": "glm-5.3"
+}

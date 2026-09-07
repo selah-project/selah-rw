@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Mfishe inzira, Yahwe, kandi unteho igitigiri; unyanze impyiso zanjye n'umutima wanjye.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "mfishe inzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "kandi unteho igitigiri"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "unyanze"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "impyiso zanjye"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "n'umutima wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:43.091341762Z",
+  "model": "glm-5.3"
+}

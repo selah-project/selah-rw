@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yarabwiye Moshe ati: Ubu uzabona ibi nzakora ku Paro, kuko n'uboko bunini arazohereza, kandi n'uboko bunini arazobakura mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzabona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ku Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'uboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bunini"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "arahereza"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "kandi n'uboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bunini"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "arakura"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:45.549138021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Maze nyuma yayo hazazaruka imyaka irindwi y'ingarura, maze ubwatsi bwose buzibagirwa mu gihugu cya Mitsrayimu, kandi ingarura izasenzura ⟨את⟩ igihugu.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "hazazaruka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "y'ingarura"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "nyuma yayo"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "buzibagirwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ubwatsi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "izasenzura"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ingarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:19:24.195671675Z",
+  "model": "glm-5.3"
+}

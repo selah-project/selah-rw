@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze umwami w'Yisraeli yasohotse, yakubise ⟨את⟩ amafarasi na ⟨את⟩ ibiryango, akanakubita mu Aramu icimu nkuru cyane.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yasohotse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yakubise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafarasi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "amafarasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiryango"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ibiryango"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akanakubita"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "mu Aramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "icimu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nkuru cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T13:58:41.244695676Z",
+  "model": "glm-5.3"
+}

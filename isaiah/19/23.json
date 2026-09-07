@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ku munsi ubwo hazubaho inzira iva muri Mitsrayimu igera muri Ashuru, maze Ashuru izinjira muri Mitsrayimu na Mitsrayimu muri Ashuru, maze Mitsrayimu izatambira hamwe ⟨את⟩ Ashuru.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hazubaho"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iva muri Mitsrayimu"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "igera muri Ashuru"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "maze izinjira"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muri Mitsrayimu"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayimu"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "muri Ashuru"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "izatambira hamwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashuru"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:08.648739062Z",
+  "model": "glm-5.3"
+}

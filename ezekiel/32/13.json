@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 32:13",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kandi ndazimya ⟨את⟩ amatungo yayo yose kuva ku mazi menshi, kandi ikirenge cy'umuntu nticyaza gutwarura amazi yacyo cyarimwe, n'amaguru y'amatungo nta cyo azatwarura.",
+  "tokens": [
+    {
+      "surface": "והאבדתי",
+      "gloss": "kandi ndazimya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatungo yayo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "amatungo yayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuva ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nticyo"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "gutwarura amazi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ikirenge"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cy'umuntu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "cyarimwe"
+    },
+    {
+      "surface": "ופרסות",
+      "gloss": "kandi amaguru"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "y'amatungo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta cyo"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "azatwarura"
+    }
+  ],
+  "timestamp": "2026-09-07T17:12:22.592978078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Maze nzibukira kuri bo Beriti ya mbere, iyo navanye ⟨את⟩ bo mu gihugu cya Mitsrayimu, imbere y'amaso y'amahanga, kugira ngo nbe kuri bo Elohimu — njye Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Maze nzibukira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beriti"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "navanye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kugira ngo nbe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:31.732654543Z",
+  "model": "glm-5.3"
+}

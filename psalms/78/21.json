@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Bityo rero Yahwe yari yumvise maze arakariwe, umuriro wavutse kuri Yaakovu (Yakobo), kandi akari kazamutse kuri Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bityo rero"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yari yumvise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "maze arakariwe"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "wavutse"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuri Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "akari"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kazamutse"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuri Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:03.285342149Z",
+  "model": "glm-5.3"
+}

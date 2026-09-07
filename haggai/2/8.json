@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ni iwanjye ifeza, kandi ni iwanjye zahabu, yagize ati Yahwe Tsevaoti.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ni iwanjye"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kandi ni iwanjye"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "yagize ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-07T17:56:00.522061595Z",
+  "model": "glm-5.3"
+}

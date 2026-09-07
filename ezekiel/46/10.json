@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Na umukuru azaba muri bo: mu kwinjira kwabo azinjira, mu gusohoka kwabo azasohoka.",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "na umukuru"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "mu kwinjira kwabo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "azinjira"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "mu gusohoka kwabo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "azasohoka"
+    }
+  ],
+  "timestamp": "2026-09-07T17:24:30.904265095Z",
+  "model": "glm-5.3"
+}

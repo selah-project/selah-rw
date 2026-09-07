@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Moabu ⟨ni⟩ isahani yanjye yo kwisukura; kuri Edomu nzohereza inkweto yanjye; kuri Pelisheti: sigira urusaku kubera jye!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "isahani"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yanjye yo kwisukura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "inkweto yanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelisheti"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "sigira urusaku kubera jye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.091804770Z",
+  "model": "glm-5.3"
+}

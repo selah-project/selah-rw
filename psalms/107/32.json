@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Banemuze mu ishyirahamwe ry'abantu, mu nama y'abakuru bamusingize.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Banemuze"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu ishyirahamwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ry'abantu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "mu nama"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "y'abakuru"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "bamusingize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:54.895533757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Yahwe azarangiza icyo akuze ku mpamvu zanjye; Yahwe, hesedi yawe iriho iteka; ibikorwa by'iboko byawe ntubyireke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "azarangiza"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ku mpamvu zanjye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iriho iteka"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "by'iboko byawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "byireke"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:08.301108993Z",
+  "model": "glm-5.3"
+}

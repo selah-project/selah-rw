@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Ku rusuma rwanjye abahinzi barahinze, baragorize imirima yabo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "rusuma rwanjye"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "barahinze"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abahinzi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "baragorize"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "imirima yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:14.799773958Z",
+  "model": "glm-5.3"
+}

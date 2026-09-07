@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ninkoranya nariye ku kwezi kw'indwi ku munsi wa cumi n'indwi mu kwezi ku misozi ya Ararati.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "nariye"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "inkoranya"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ku kwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kw'indwi"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi n'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "misozi"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ya Ararati"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:08.216701101Z",
+  "model": "glm-5.3"
+}

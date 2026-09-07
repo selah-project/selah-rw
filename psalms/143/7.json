@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Vuba, ndemera, Yahwe: umwuka wanjye warashize; uramutse uhishe uruhanga rwawe kuri jye, nzaba nkorewe nk'abanjye bagwa mu rwobo.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Vuba"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndemera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "warashize"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uramutse"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "uhishe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "nzaba nkorewe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nk'abanjye"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "bagwa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "mu rwobo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:26.039271804Z",
+  "model": "glm-5.3"
+}

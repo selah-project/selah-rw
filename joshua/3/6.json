@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yehoshuwa yarabwiye abakohenu ati: Nimutware ⟨את⟩ sanduku ya beriti, mujye imbere y'abantu. Baratwara ⟨את⟩ sanduku ya beriti, bagenda imbere y'abantu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "nimutware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya beriti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya beriti"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "mujye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baratwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya beriti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya beriti"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:34:41.674060649Z",
+  "model": "glm-5.3"
+}

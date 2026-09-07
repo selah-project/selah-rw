@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Umutware w'abica yakuyeho ⟨את⟩ Serayah, kohenu mukuru, na ⟨את⟩ Tsephanyah, kohenu w'ubwabiri, na ⟨את⟩ batatu barindiri inyuma y'urugi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yakuyeho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "w'abica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsephanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsephanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "w'ubwabiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "batatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "barindiri"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "inyuma y'urugi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:37:47.815041808Z",
+  "model": "glm-5.3"
+}

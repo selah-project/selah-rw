@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Bose bihindutse, hamwe barumbye; nta muntu ukora neza, nta na umwe.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Bose"
+    },
+    {
+      "surface": "סג",
+      "gloss": "bihindutse"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "barumbye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:20.797846923Z",
+  "model": "glm-5.3"
+}

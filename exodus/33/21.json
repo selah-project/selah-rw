@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe yaravuze ati: Dore ahantu hari ⟨את⟩ iko ryanjye, maze uzahagarama ku rutare;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iko ryanjye",
+      "marks": "ahantu"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "uzahagarama"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "rutare"
+    }
+  ],
+  "timestamp": "2026-09-07T09:11:40.378657186Z",
+  "model": "glm-5.3"
+}

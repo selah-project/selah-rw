@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Aravuga ati: \"⟨ni⟩ nde wakubwiye ko uri ubusa? Ese ku giti naragutegetse ngo utarye ku cyo, wacyorye?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "wakubwiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ese ku"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "naragutegetse"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ngo utarye"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ku cyo"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "wacyorye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:42.407124896Z",
+  "model": "glm-5.3"
+}

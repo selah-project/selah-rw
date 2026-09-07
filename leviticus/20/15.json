@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "N'umuntu uo atanga icyaryamane cye ku itungo, urupfu azapfa burundu; na ⟨את⟩ itungo muzirimbura.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "N'umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atanga"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "icyaryamane cye"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ku itungo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azapfa burundu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "itungo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "itungo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "muzirimbura"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:36.261392663Z",
+  "model": "glm-5.3"
+}

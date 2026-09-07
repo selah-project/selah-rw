@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Merayotu yabyaye ⟨את⟩ Amaryahu, maze Amaryahu yabyaye ⟨את⟩ Akitubu.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayotu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaryahu"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryahu"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "maze Amaryahu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitubu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:39.693409318Z",
+  "model": "glm-5.3"
+}

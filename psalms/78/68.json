@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yahisemo ⟨את⟩ umuryango wa Yehuda, ⟨את⟩ umusozi wa Tsiyoni we yakundaga.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Yahisemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuryango wa Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusozi wa Tsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wa Tsiyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakundaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:57.121118853Z",
+  "model": "glm-5.3"
+}

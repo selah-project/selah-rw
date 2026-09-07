@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yaravuze kuri Moshe no kuri Aharoni, ababwira ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ababwira ati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:37.760939735Z",
+  "model": "glm-5.3"
+}

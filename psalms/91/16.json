@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Ubuzima bwo kwera izamu nzamuhisha, nzamweronkisha ubucakuzi bwanjye.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uburebure (bwo kwera izamu)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi (izamu)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "nzamuhisha"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "nzamweronkisha"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "ubucakuzi bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.116756333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 137,
+  "translation": "Wibuke, Yahwe, ku bana b'Edomu ⟨את⟩ umunsi wa Yerushalayimu, abavugaga bati: Muhorere, muhorere, kugeza ku ntumbero yayo!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wibuke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana b'-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi wa Yerushalayimu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "wa Yerushalayimu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abavugaga bati"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Muhorere"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "muhorere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "ku ntumbero"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:55.203532468Z",
+  "model": "glm-5.3"
+}

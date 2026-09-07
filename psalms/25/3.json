@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Na none abawe bakezeyeho wewe ntibazavirwaho isoni; bazavirwaho isoni abahemu batagira impamvu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "abawe"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "bakezeyeho wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bazavirwaho isoni"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bazavirwaho isoni"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "abahemu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "batagira impamvu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:46.869162482Z",
+  "model": "glm-5.3"
+}

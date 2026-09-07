@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Maze baravuga bati: Yah ntareba, kandi Elohimu wa Yaakovu ntabimenya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "maze baravuga bati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ntareba"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ntabimenya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:51.088055412Z",
+  "model": "glm-5.3"
+}

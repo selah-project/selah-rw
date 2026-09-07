@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Utuzize mu gitondo hesedi yawe, maze turirimbe tuneshime mu minsi yacu yose.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Utuzize"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "maze turirimbe"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "tuneshime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "yacu yose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:13.204857975Z",
+  "model": "glm-5.3"
+}

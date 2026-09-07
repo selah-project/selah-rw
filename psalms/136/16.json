@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Uwayoboye abantu be mu butayu, ko ku iteka hesedi ye rihera.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Uwayoboye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:57.125450401Z",
+  "model": "glm-5.3"
+}

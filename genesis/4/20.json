@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ada amabyara ⟨את⟩ Yabali; we ari se abatuye amahema n'abafite amatungo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "amabyara"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabali"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "amahema"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "n'amatungo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:09.787558679Z",
+  "model": "glm-5.3"
+}

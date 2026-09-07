@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abana ba Yisraeli bagenda, bagakora, uko Yahwe yategetse ⟨את⟩ Moshe na Aharoni — ko none bakoze.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bagakora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko none"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:33.232703971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Musingize Yah, ko Yahwe ⟨ni⟩ mwiza; muririmbirire izina rye, ko ⟨ni⟩ kuneza.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muririmbirire"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kuneza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:17.044164893Z",
+  "model": "glm-5.3"
+}

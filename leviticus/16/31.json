@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Shabati, shabaton — ⟨ni⟩ yo kuri mwe; mugahenze ⟨את⟩ Nefeshi zanyu: chukati y'iteka.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mugahenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi zanyu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "Nefeshi zanyu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chukati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:41.559451037Z",
+  "model": "glm-5.3"
+}

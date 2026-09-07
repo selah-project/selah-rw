@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "iyo yaciriye na ⟨את⟩ Avrahamu, n'urwira rwe iya Yitsaki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yaciriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "n'urwira rwe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "iya Yitsaki"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:31.663559946Z",
+  "model": "glm-5.3"
+}

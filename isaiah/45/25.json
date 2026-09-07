@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Kwa Yahwe urubyaro rwose rwa Yisraeli ruzatorwa indahemuka, rukanazirikana.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "ruzatorwa indahemuka"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "rukanazirikana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rwa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:15.799831154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ubwangizi arawutekereza ku gicebe cye; aryiyemeza ku nzira itari nziza; ibibi ntayareka.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ubwangizi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "arawutekereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "gicebe cye"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "aryiyemeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "itari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "yareka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:55.847728824Z",
+  "model": "glm-5.3"
+}

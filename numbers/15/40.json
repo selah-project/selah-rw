@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kugira ngo muzibuke, mugakora ⟨את⟩ amategeko yanjye yose, mukaba abatagatifu kuri Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kugira ngo"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "muzibuke"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mugakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yanjye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mukaba"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "abatagatifu"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:19:01.900913107Z",
+  "model": "glm-5.3"
+}

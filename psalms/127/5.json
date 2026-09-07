@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 127,
+  "translation": "Umuneza ⟨ni⟩ uw'umugabo uko yazujije ⟨את⟩ urununi rwe muri ibyo — ntibazibazwa n'isoni, ko bazavugana ⟨את⟩ abansi ku rugi.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Umuneza"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "uw'umugabo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "yazujije"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "urununi rwe"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "urununi rwe"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "bazibazwa n'isoni"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "bazavugana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abansi"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "abansi"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "ku rugi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:35.557670814Z",
+  "model": "glm-5.3"
+}

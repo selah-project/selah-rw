@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Iyo umuntu atesha umurima cyangwa umuzabibu kurya, maze atuma ⟨את⟩ amatungo ye arya mu murima w'uwundi, ku byiza by'umurima we no ku byiza by'umuzabibu we ni byo yishyura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "atesha kurya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "umuzabibu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "atuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatungo ye"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "amatungo"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "arya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "w'uwundi"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ku byiza"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "by'umurima we"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "no ku byiza"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "by'umuzabibu we"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yishyura"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:28.252856665Z",
+  "model": "glm-5.3"
+}

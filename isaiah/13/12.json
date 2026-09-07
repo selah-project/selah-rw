@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ndagira ngo umuntu uhabwe agaciro kurenze zahabu y'umweru, umuntu akarenze zahabu y'itsinda rya Ofiri ⟨kandi abe umunyakane⟩.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ndagira ngo uhabwe agaciro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu (wicandarijwe)"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "kurenze zahabu y'umweru"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "akarenze zahabu y'itsinda"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ry'Ofiri"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:04.588356377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ikijambo cya Yahwe cyaza kuri Eliyahu umutishibi, kigira ngo:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "cyaza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ikijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "umutishibi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kigira ngo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:56.147497053Z",
+  "model": "glm-5.3"
+}

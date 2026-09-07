@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Ikanwa yabo rivuga ibinyoma, n'iburyo cyabo ⟨ni⟩ iburyo ry'ubinyoma.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "Ikanwa yabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rivuga"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "n'iburyo cyabo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ry'ubinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.267333162Z",
+  "model": "glm-5.3"
+}

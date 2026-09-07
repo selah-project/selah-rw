@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Uriya yararye ku muryango w'inzu y'umwami ⟨את⟩ abagaragu bose b'a shebuja we, ntiyamanuka mu nzu ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "maze yararye"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagaragu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "b'a shebuja we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:02.936965449Z",
+  "model": "glm-5.3"
+}

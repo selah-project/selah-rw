@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzazana imbere y'ihema ry'itumanaho ⟨את⟩ impari; Aharoni n'abahungu be bazashyiraho ⟨את⟩ intoki zabo ku mutwe w'impari.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uzazana imbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impari"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "impari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "bazashyiraho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "w'impari"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:53.946577114Z",
+  "model": "glm-5.3"
+}

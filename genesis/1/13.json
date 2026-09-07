@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Habehe nimugoroba, habehe mu gitondo — umunsi wa gatatu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "habehe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nimugorobo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "habehe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "wa gatatu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:09.273963014Z",
+  "model": "glm-5.3"
+}

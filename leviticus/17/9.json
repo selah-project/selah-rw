@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "leviticus 17:9",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 17,
+ "translation": "Ntabwo azazana ku muryango w'ihema ryo guhurira ngo akoze ⟨את⟩ we kwa Yahwe; uwo muntu azavanwaho mu bantu be.",
+ "tokens": [
+  {
+   "surface": "ואל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "פתח",
+   "gloss": "muryango"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "ihema"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "ryo guhurira"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "יביאנו",
+   "gloss": "azazana"
+  },
+  {
+   "surface": "לעשות",
+   "gloss": "ngo akoze"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "kwa Yahwe"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "kwa Yahwe"
+  },
+  {
+   "surface": "ונכרת",
+   "gloss": "azavanwaho"
+  },
+  {
+   "surface": "האיש",
+   "gloss": "uwo muntu"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "uwo"
+  },
+  {
+   "surface": "מעמיו",
+   "gloss": "mu bantu be"
+  }
+ ],
+ "timestamp": "2026-09-07T09:44:56.396055255Z",
+ "model": "glm-5.3"
+}

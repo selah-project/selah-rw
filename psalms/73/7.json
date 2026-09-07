@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Amaso yabo yavuye mu mavuta, byarenze ibitekerezo by'umutima.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "yavuye"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mu mavuta"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "amaso yabo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "byarenze"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "ibitekerezo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "by'umutima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:08.593748702Z",
+  "model": "glm-5.3"
+}

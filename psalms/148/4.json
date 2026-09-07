@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Musingize, ijuru ry'amajuru, n'amazi ari hejuru y'amajuru.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ijuru rya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "n'amazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amajuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:33.544496196Z",
+  "model": "glm-5.3"
+}

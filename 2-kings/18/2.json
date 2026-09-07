@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 18:2",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yari afite imyaka makumyabiri n'itanu ubwo yatangiraga ubwami, kandi imyaka makumyabiri n'icyeda yagize ubwami i Yerushalayimu; kandi izina rya nyina ⟨ni⟩ Abi, umukobwa wa Zekariya.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "n'itanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari afite"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ubwo yatangiraga ubwami"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kandi imyaka makumyabiri"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "n'icyeda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kandi izina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "rya nyina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "wa Zekariya"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:29.978738049Z",
+  "model": "glm-5.3"
+}

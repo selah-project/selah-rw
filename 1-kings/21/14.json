@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Nuko barohereza kwa Izeveli bati: Navoti yasibwe amabuye, arapfa.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "barohereza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izeveli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "yasibwe amabuye"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navoti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:03.136575668Z",
+  "model": "glm-5.3"
+}

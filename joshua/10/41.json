@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yehoshuwa yarwanitse abo kuva Kadeshi Barnea kugera i Aza, na ⟨את⟩ ubutaka bwose bwa Gosheni, kugera i Giboni.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "yarwanitse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "i Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubutaka bwose bwa Gosheni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "bwa Gosheni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "i Giboni"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:21.894248755Z",
+  "model": "glm-5.3"
+}

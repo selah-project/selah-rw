@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Elohimu yabonye ⟨את⟩ byose yakoze, maze ngira icyo avuga — byiza cyane. Maze haba ijoro, maze haba igitondo — umunsi wa gatandatu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Maze yabonye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze ngira icyo avuga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "igitondo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa gatandatu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:47.424531962Z",
+  "model": "glm-5.3"
+}

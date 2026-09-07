@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Umunsi wose abanzi banjye barampema, n'abashishikarije banjye ku mpamvu yanjye barahiye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "barampema"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "abashishikarije banjye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku mpamvu yanjye"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "barahiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:34.721743550Z",
+  "model": "glm-5.3"
+}

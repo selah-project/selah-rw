@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "We ugabanira ubwawe hasi kureba mu ijuru no mu isi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ugabanira ubwawe hasi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "no mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:42.044403303Z",
+  "model": "glm-5.3"
+}

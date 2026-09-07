@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Mika yazuzuye ⟨את⟩ ukuboko kwa Levyi, maze uwo muto yabaye iwe kohenu ⟨umupadiri⟩, maze aba mu nzu ya Mika.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "yazuzuye"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "kwa Levyi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze yabaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "uwo muto"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze aba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ya Mika"
+    }
+  ],
+  "timestamp": "2026-09-07T12:13:02.144140334Z",
+  "model": "glm-5.3"
+}

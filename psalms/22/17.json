@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kuko bamaze kuzengurutsa imbwa zanse; itorero ry'abakora ibibi ryanzingiye; nk'intare ⟨ziri⟩ ku nzira z'ibiganza byanjye n'ibirenge byanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bamaze kuzengurutsa"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "itorero"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "yanzingiye"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "nk'intare"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ibiganza byanjye"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "n'ibirenge byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:43.271747884Z",
+  "model": "glm-5.3"
+}

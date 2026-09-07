@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Se w'imfubyi n'umucamanza w'abapfakazi ⟨ni⟩ Elohimu, mu nzu ye ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "w'imfubyi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "n'umucamanza"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "w'abapfakazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ye ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:57.610821802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kuko akanwa kanjye kavuga ukuri, kandi ubuhemu ni umwanda ku minwa yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "kavuga"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "akanwa kanjye"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ni umwanda"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ku minwa yanjye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:45.130115493Z",
+  "model": "glm-5.3"
+}

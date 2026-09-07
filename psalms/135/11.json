@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Sihoni umwami w'Abemori, na Ogu umwami w'Ibashani, n'ibwami byose bya Kenaani;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "w'Abemori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "w'Ibashani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "n'ibwami byose"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ibwami"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:37.718052954Z",
+  "model": "glm-5.3"
+}

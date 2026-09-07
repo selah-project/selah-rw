@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 6:7",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Maze nzabafata ⟨את⟩ mu bwoko bwanjye, nzaba Elohimu wanyu, mumenye ko njye Yahwe, Elohimu wanyu, ukurura ⟨את⟩ mu ntwaro za Mitsrayimu.",
+ "tokens": [
+  {
+   "surface": "ולקחתי",
+   "gloss": "nzabafata"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩",
+   "marks": "-ba- (mwe)"
+  },
+  {
+   "surface": "לי",
+   "gloss": "mu bwoko bwanjye"
+  },
+  {
+   "surface": "לעם",
+   "gloss": "ubwoko"
+  },
+  {
+   "surface": "והייתי",
+   "gloss": "nzaba"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "wanyu"
+  },
+  {
+   "surface": "לאלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "וידעתם",
+   "gloss": "mumenye"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "אני",
+   "gloss": "njye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimu wanyu"
+  },
+  {
+   "surface": "המוציא",
+   "gloss": "ukurura"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩",
+   "marks": "-ba- (mwe)"
+  },
+  {
+   "surface": "מתחת",
+   "gloss": "mu"
+  },
+  {
+   "surface": "סבלות",
+   "gloss": "intwaro"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "za Mitsrayimu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:39:36.822084220Z",
+ "model": "glm-5.3"
+}

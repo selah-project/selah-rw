@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Icyasigaye muri minchah ni iya Aharoni n'iya bahungu be: igitagatifu cy'ibitagatifu, mu bitambo by'umuriro bya Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Icyasigaye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "muri"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ni iya Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'iya bahungu be"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cy'ibitagatifu"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mu bitambo by'umuriro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:23.691426613Z",
+  "model": "glm-5.3"
+}

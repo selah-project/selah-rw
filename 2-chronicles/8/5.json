@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yabakiye ⟨את⟩ Beit-Horoni rwo hejuru na ⟨את⟩ Beit-Horoni rwo hasi — imijyi y'ubutwerane ⟨ifyingo, imiryango n'ibibaho⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yabakiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horoni rwo hejuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "rwo hejuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beit-Horoni rwo hasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "rwo hasi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "y'ubutwerane"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ifyingo"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "n'ibibaho"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:33.419251480Z",
+  "model": "glm-5.3"
+}

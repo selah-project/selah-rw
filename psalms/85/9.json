@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Nzumva icyo Eli Yahwe azavuga; kandi azavuga Shalomu ⟨amahoro⟩ ku bantu be no ku bahesedi be, kandi ntibazongere bagasubira mu kibazo.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Nzumva"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu ⟨amahoro⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bantu be"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahesedi be"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntiba-"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "zongere bagasubira"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "mu kibazo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:28.607109785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yakubise imfura yose i Mitsrayimu, intangiriro y'imbaraga zabo mu hema za Hamu.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yakubise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "imfura"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "intangiriro"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "y'imbaraga"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mu hema"
+    },
+    {
+      "surface": "חם",
+      "gloss": "za Hamu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:04.643072310Z",
+  "model": "glm-5.3"
+}

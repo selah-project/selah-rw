@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 12:16",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ariko ndabasigira muri bo abagabo mu mibare mike, badakomeza ku byaha by'umupanga, inzara n'icyorezo, kugira ngo bamenyeshe ⟨את⟩ ibyaha byabo byose bikaze mu mahanga bakijemo, bamenye ko njye ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "והותרתי",
+      "gloss": "ndabasigira"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mu mibare mike"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "badakomeza ku byaha by'umupanga"
+    },
+    {
+      "surface": "מרעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "n'icyorezo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "bamenyeshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikaze byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תועבותיהם",
+      "gloss": "ibyaha byabo bikaze"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bakijemo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bagiye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "bamenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:49:59.642256590Z",
+  "model": "glm-5.3"
+}

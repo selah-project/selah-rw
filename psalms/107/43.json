@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Ni nde w'uruhunge? Arahere ibi, atekereze hesedi za Yahwe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'uruhunge"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "arahere"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "atekereze"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:38.194135247Z",
+  "model": "glm-5.3"
+}

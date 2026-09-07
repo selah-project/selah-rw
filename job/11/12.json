@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi umuntu urwuhuye azigera umutima — ni ngo urume rw'indogobe y'ishyamba ruzavukana umuntu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kandi umuntu"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "urwuhuye"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "azigera umutima"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ni ngo urume"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "rw'indogobe y'ishyamba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "zavukana"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:09.198102692Z",
+  "model": "glm-5.3"
+}

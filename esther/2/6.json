@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "wahunganyijwe mu bahunganyijwe b'i Yerushalayimu, bahunganyijwe hamwe na Yekonyahu, umwami w'i Yehuda, baheguweho na Nevukadnetsari, umwami wa Baveli.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "wahunganyijwe"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "abahunganyijwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "be"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "bahunganyijwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "be"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "bahunganyijwe na"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:33.538031381Z",
+  "model": "glm-5.3"
+}

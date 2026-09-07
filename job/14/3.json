@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ese ku bw'uyu mu guhita atyo ugurisha amaso yawe, kandi ⟨את⟩ njye unshyira mu rukiko kumwe nawe?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ugurisha"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ njye",
+      "marks": "njye (uwatanzwe mu rukiko)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "unshyira"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu rukiko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:27:12.806736910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Unazubake aho icaniro rya Yahwe Elohimu wawe, icaniro ry'amabuye; ntuzamure icyuma ku mabuye.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "unazubake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "icaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "icaniro"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ry'amabuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "zamure"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku mabuye"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "icyuma"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:44.185782270Z",
+  "model": "glm-5.3"
+}

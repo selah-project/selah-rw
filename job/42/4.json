@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Umva, ndebe, nanjye ndavuze; nzakubaza kandi unwirikishe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndebe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndavuze"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "nzakubaza"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "unwirikishe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:40:49.297638656Z",
+  "model": "glm-5.3"
+}

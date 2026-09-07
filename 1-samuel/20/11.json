@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yehonatanu yaravuze kuri Dawidi ati: Ngwino, tugende tsohoka mu murima. Maze bombi barasohotse bajya mu murima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ngwino"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "tugende tsohoka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "barasohotse"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bombi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mu murima"
+    }
+  ],
+  "timestamp": "2026-09-07T12:39:49.036874958Z",
+  "model": "glm-5.3"
+}

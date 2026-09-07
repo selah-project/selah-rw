@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Hanyuma umuntu amusanganye, aratumye ateyanye mu murima; umuntu na we yaramubajije ati: Uruharekane ibiki?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "amusanganye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "reba, aratumye"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ateyanye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "yaramubajije"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ibiki"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "uruharekane"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:26.761474546Z",
+  "model": "glm-5.3"
+}

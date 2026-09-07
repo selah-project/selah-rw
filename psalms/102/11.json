@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Kubera ukwiwe kwawe n'uburakari bwawe, kuko wanyereye maze unankubye hasi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ukwiwe kwawe"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "n'uburakari bwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "wanyereye"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "maze unankubye hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:34.722181280Z",
+  "model": "glm-5.3"
+}

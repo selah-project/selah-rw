@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Mu minsi yose y'ubutayu iziruhuka ⟨את⟩ ibyo itigeze iziruhukamo mu Sabati zanyu, mu gihe mutuyeho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "y'ubutayu"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "iziruhuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "itigeze"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "iziruhukamo"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "mu Sabati zanyu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mu gihe mutuyeho"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:53.857139372Z",
+  "model": "glm-5.3"
+}

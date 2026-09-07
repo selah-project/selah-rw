@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ikimenyetso ni cyo ku iteka, hagati yanjye no hagati y'abana ba Yisraeli; kuko iminsi itandatu Yahwe yaremye ⟨את⟩ ijuru na ⟨את⟩ isi, no ku munsi wa karindwi arahuhutse maze arahumuka.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ cyo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "no ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "arahuhutse"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "maze arahumuka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:11:55.019574836Z",
+  "model": "glm-5.3"
+}

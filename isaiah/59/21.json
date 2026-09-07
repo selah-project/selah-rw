@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Kandi njye, iyi ⟨ni⟩ Beriti yanjye na ⟨את⟩ bo, Yahwe aravuga ati: umwuka wanjye uri hejuru yawe, n'amagambo yanjye nashyize mu kanwa wawe, ntibazava mu kanwa wawe, no mu kanwa y'urubyaro rwawe, no mu kanwa y'urubyaro rw'urubyaro rwawe, Yahwe aravuga, kuva ubu kugeza iteka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kandi njye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti yanjye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "na bo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hejuru yawe"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "n'amagambo yanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "mu kanwa wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "bazava"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "mu kanwa wawe"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "no mu kanwa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "y'urubyaro rwawe"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "no mu kanwa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "y'urubyaro"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "rw'urubyaro rwawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuva ubu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:12.300728887Z",
+  "model": "glm-5.3"
+}

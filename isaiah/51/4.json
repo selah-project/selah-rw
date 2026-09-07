@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Munyumve i njye, abantu banjye, n'igihugu cyanjye, mutege amatwi i njye: ko Tora ⟨את⟩ ivuye i njye izasohoka, n'urubanza rwanjye ruzaba urumuri rw'amahanga; izvye nzabihutisha.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Munyumve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i njye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "n'igihugu cyanjye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i njye"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "mutege amatwi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ivuye i njye",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "izasohoka"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "n'urubanza rwanjye"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kuba urumuri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rw'amahanga"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "nzabihutisha"
+    }
+  ],
+  "timestamp": "2026-09-07T21:42:12.502740499Z",
+  "model": "glm-5.3"
+}

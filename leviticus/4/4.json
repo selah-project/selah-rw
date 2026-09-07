@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "maze azane ⟨את⟩ iyo nka ku irembo ry'ihema ry'intererano, imbere ya Yahwe; maze ashyire ⟨את⟩ ukuboko kwe ku mutwe w'iyo nka, maze azice ⟨את⟩ iyo nka imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "maze azane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo nka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "iyo nka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "irembo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ry'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'intererano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "maze ashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "w'iyo nka"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "maze azice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo nka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "iyo nka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:51.657330516Z",
+  "model": "glm-5.3"
+}

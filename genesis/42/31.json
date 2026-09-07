@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Twanabwiye tuti: Turi abantu b'ukuri, ntidashoboka ko turi inyeganji.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "twanabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "abantu b'ukuri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "inyeganji"
+    }
+  ],
+  "timestamp": "2026-09-07T08:23:35.173694390Z",
+  "model": "glm-5.3"
+}

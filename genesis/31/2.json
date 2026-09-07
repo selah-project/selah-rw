@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yaakovu yaboneye ⟨את⟩ amasa ya Lavani, maze arko ntari iwe nk'ejo hashize ⟨nk'ihehe byashize⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yaboneye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amasa ya Lavani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amasa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze arko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ntari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "nka ejo"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "hashize"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:49.771291144Z",
+  "model": "glm-5.3"
+}

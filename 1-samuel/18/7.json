@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze abagore b'abanyimbabazi bongera baririmba bakanavuga bati: Shauli yibise ibihumbi, na Dawidi yibise ibihumbi by'ibihumbi.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "bongera baririmba bakanavuga"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "b'abanyimbabazi"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "bati"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yibise"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawidi"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "ibihumbi by'ibihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:41:08.825789857Z",
+  "model": "glm-5.3"
+}

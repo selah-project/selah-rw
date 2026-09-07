@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": " maze amajuru azizingira ibitangaza byawe, Yahwe; na ukuri kwawe mu itondeko ry'abatagatifu.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "maze azizingira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ibitangaza byawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na… na"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukuri kwawe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu itondeko"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ry'abatagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:09.306118340Z",
+  "model": "glm-5.3"
+}

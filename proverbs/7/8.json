@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "atambuka mu isoko hafi y'imfuruka ye, maze ku muhanda ugana inzu ye atera intambwe.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "atambuka"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "mu isoko"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hafi ya"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "imfuruka ye"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ku muhanda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ugana inzu ye"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "atera intambwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:09.989257455Z",
+  "model": "glm-5.3"
+}

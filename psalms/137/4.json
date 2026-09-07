@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 137,
+  "translation": "Ni gute tworirimba ⟨את⟩ indirimbo ya Yahwe ku butaka bwa mahanga?",
+  "tokens": [
+    {
+      "surface": "אֵיךְ",
+      "gloss": "Ni gute"
+    },
+    {
+      "surface": "נָשִׁיר",
+      "gloss": "tworirimba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "indirimbo"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אַדְמַת",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "נֵכָר",
+      "gloss": "bwa mahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:50.564075813Z",
+  "model": "glm-5.3"
+}

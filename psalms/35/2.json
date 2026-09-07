@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Fata umutingito n'urwangingo, uhagaruke uri mu bufasha bwanjye.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Fata"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "umutingito"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "n'urwangingo"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "uhagaruke"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "uri mu bufasha bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:37.006476823Z",
+  "model": "glm-5.3"
+}

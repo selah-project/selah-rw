@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko ihohoterwa ryibwira umunyabwenge, kandi impano irimbura ⟨את⟩ umutima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ihohoterwa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ryibwira"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "kandi irimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "impano"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:05.605744246Z",
+  "model": "glm-5.3"
+}

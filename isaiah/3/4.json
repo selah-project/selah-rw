@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze nzashyira abana bato nk'abatware babo, maze abahemukiye bazateka ku bo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "abana bato"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "abatware babo"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "abahemukiye"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "bazateka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku bo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:23.207796819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kuko namaririmbye, amagufwa yanjye yashaje mu kurira kwanjye umunsi wose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "namaririmbye"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "yashaje"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amagufwa yanjye"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "mu kurira kwanjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:22.671481437Z",
+  "model": "glm-5.3"
+}

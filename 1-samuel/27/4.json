@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Amakuru yageze kuri Shauli ko Dawidi yarahungiye i Gati, maze nta nahone kumushakisha.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "amakuru yageze"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuri Shauli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "yarahungiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "i Gati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maze nta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "nahone"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "kumushakisha"
+    }
+  ],
+  "timestamp": "2026-09-07T12:53:00.724635318Z",
+  "model": "glm-5.3"
+}

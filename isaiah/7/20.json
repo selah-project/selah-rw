@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ku uwo munsi Adonayi azasukura n'isuka itizwe iri iburengerazuba bw'urwo mugezi — n'umwami w'Ashuru: ⟨את⟩ umutwe n'umusatsi w'amaguru, aziyongeraho kandi ⟨את⟩ isatsi rya mu maso azarwanaho.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "azasukura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "n'isuka"
+    },
+    {
+      "surface": "השכירה",
+      "gloss": "itizwe"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "iri iburengerazuba bw'"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "urwo mugezi"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "n'umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "n'umusatsi"
+    },
+    {
+      "surface": "הרגלים",
+      "gloss": "w'amaguru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ziyongeraho kandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isatsi rya mu maso"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "isatsi rya mu maso"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "azarwanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:55.312902254Z",
+  "model": "glm-5.3"
+}

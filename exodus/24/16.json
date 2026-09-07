@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze icyubahiro cya Yahwe cyerahuye ku rwego rwa Sinayi, maze igicu cyarakigize iminsi itandatu; maze ku munsi wa karindwi yahamagaye Moshe mu manda y'igicu.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "cyerahuye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urwego rwa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "cyarakigize"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "igicu"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu manda"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "y'igicu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:23.567259141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "Indirimbo y'izamuka, rya Dawidi. Iyo Yahwe atari yari natwe — Yisraeli naravuge ngo:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'izamuka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi (Davide)"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Iyo atari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "naravuge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.227181587Z",
+  "model": "glm-5.3"
+}

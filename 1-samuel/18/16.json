@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yisraeli yose na Yehuda bakundaga ⟨את⟩ Dawidi, kuko we wajyaga akuramo n'ingara imbere yabo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "bakundaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "akuramo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "n'ingara"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbere yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:22.517695162Z",
+  "model": "glm-5.3"
+}

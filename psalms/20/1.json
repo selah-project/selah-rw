@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kuri umuyobozi w'umuziki ⟨ni⟩ indirimbo ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuri umuyobozi w'umuziki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:14.391168930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ku bw'icyifuzo cyiwe uwitandukanye aracyishaka, kandi mu bwenge bunini bwose arahangayikira.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "ku bw'icyifuzo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "aracyishaka"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "uwitandukanye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … bwose"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ubwenge bunini"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "arahangayikira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:10:08.027410331Z",
+  "model": "glm-5.3"
+}

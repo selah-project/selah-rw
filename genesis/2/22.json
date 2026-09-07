@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe Elohimu yubakiye ⟨את⟩ uruguri rwe yari afungiye kuri muntu, arwubahasiwe umugore, maze azana uwo mugore k'u muntu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yubakiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruguru"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "uruguru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yari afungiye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngo yigire umugore"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "azana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:04.620550359Z",
+  "model": "glm-5.3"
+}

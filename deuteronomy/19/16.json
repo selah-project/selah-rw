@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Iyo umuhamya w'ubugome azamutse ku muntu ngo amenyeshe ibyaho atari ukuri bamusobanuriye ibyaha atakoze ibyaha atari ukuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "azamutse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umuhamya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "w'ubugome"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ngo amenyeshe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bamusobanuriye"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ibyaha atari ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T11:04:17.023005135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Abakohenu be baratsuwe ku rpanga, n'abapfakazi be ntibara-bwa.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "abakohenu be"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku rpanga"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "baratsuwe"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "n'abapfakazi be"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "barara-bwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:33.833087469Z",
+  "model": "glm-5.3"
+}

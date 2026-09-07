@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Hashize, umwami iyo yumvise ⟨את⟩ amagambo y'igitabo cya Tora, acamo ⟨את⟩ imyambaro ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hashize"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "iyo yumvise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "y'igitabo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "cya Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "acamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:31:27.467071368Z",
+  "model": "glm-5.3"
+}

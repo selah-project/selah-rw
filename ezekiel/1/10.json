@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Imiterere y'amafafa yabo ⟨ni⟩: amafafa y'umuntu; na amafafa y'intare ku iburyo — ku bane bose; na amafafa y'inka ku ibumoso — ku bane; na amafafa y'inkazi ⟨(inyoni nini y'ibirere)⟩ — ku bane.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "na imiterere"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "y'amafafa yabo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amafafa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na amafafa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "y'intare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ku bane bose"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na amafafa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "y'inka"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "kuva ku ibumoso"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ku bane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na amafafa"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "y'inkazi"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ku bane"
+    }
+  ],
+  "timestamp": "2026-09-07T16:38:05.593580942Z",
+  "model": "glm-5.3"
+}

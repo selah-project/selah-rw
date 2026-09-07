@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze abagabo bose b'umujyi we bazamunye amabuye, agapfa; uzakure ⟨ikibi⟩ mu muryango wawe, kandi Yisraeli yose izumva, igatinya.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "bazamunye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "umujyi we"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "agapfa"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "uzakure"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "mu muryango wawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi … yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "izumva"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "igatinya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:24:50.363415303Z",
+  "model": "glm-5.3"
+}

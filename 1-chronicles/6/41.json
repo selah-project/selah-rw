@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "⟨את⟩ umurima w'umujyi na ⟨את⟩ imidugudu yawo niko bahaye Kalebu mwene Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umurima"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "w'umujyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imidugudu"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "imidugudu yawo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bahaye"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:06.869572012Z",
+  "model": "glm-5.3"
+}

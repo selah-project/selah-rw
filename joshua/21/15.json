@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Holoni hamwe n'imigara yacyo, na ⟨את⟩ Deviri hamwe n'imigara yacyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Holoni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigara yacyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigara yacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Deviri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Deviri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigara yacyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigara yacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:42:18.726913407Z",
+  "model": "glm-5.3"
+}

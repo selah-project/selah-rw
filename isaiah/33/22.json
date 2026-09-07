@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Kuko Yahwe ⟨ni⟩ umucamanza wacu, Yahwe ⟨ni⟩ utanga amategeko wacu, Yahwe ⟨ni⟩ umwami wacu; ni we uzadukiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "umucamanza wacu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "utanga amategeko wacu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "umwami wacu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "uzadukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:09.292926238Z",
+  "model": "glm-5.3"
+}

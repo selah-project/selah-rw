@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Nano umwijima ntiwuzawuhisha iwawe; n'ijoro nk'amanywa kizatakimura; umwijima nk'urumuri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiwu"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "zawuhisha"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nk'amanywa"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "kizatakimura"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "nk'urumuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:23.582972491Z",
+  "model": "glm-5.3"
+}

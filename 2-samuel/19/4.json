@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Abantu barashucye mu ibanga ku munsi uwo bakinjira mu mujyi, nka abantu bashushwe bahunze mu ntambara.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "barashucye mu ibanga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bakinjira"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "ashuka mu ibanga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "bashushwe"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "bahunze"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu ntambara"
+    }
+  ],
+  "timestamp": "2026-09-07T13:18:25.007366123Z",
+  "model": "glm-5.3"
+}

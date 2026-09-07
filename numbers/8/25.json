@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kandi afite imyaka mirongo itanu, azasubira mu murimo w'ingabo, maze ntiyakore kandi.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "afite imyaka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "azasubira"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "mu murimo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "w'ingabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "yakore"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:00.930398298Z",
+  "model": "glm-5.3"
+}

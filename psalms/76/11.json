@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Mu by'ukuri, uburakari bw'umuntu buzakuramiriza; ibisigaye by'uburakari uzazifata (uzazishinga).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bw'umuntu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "buzakuramiriza"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "by'uburakari"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "uzazifata (uzazishinga)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:46.983330933Z",
+  "model": "glm-5.3"
+}

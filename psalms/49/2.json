@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 49:2",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 49,
+ "translation": "Mumve ibi, amahanga yose; mutore amabwi, abatuye isi yose.",
+ "tokens": [
+  {
+   "surface": "שמעו",
+   "gloss": "mumve"
+  },
+  {
+   "surface": "זאת",
+   "gloss": "ibi"
+  },
+  {
+   "surface": "כל",
+   "gloss": "yose"
+  },
+  {
+   "surface": "העמים",
+   "gloss": "amahanga"
+  },
+  {
+   "surface": "האזינו",
+   "gloss": "mutore amabwi"
+  },
+  {
+   "surface": "כל",
+   "gloss": "abatuye … yose"
+  },
+  {
+   "surface": "ישבי",
+   "gloss": "abatuye"
+  },
+  {
+   "surface": "חלד",
+   "gloss": "isi"
+  }
+ ],
+ "timestamp": "2026-09-07T21:55:53.812480331Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ntibaza kuri Yahwe, nuko Yahwe amwishe, maze ⟨Yahwe⟩ ahinduye ⟨את⟩ ubwami aha Dawidi (Dawidi umwana wa Yishi).",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kubaza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "Yahwe amwishe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "maze ⟨Yahwe⟩ ahinduye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwami"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "aha Dawidi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:34:38.563909841Z",
+  "model": "glm-5.3"
+}

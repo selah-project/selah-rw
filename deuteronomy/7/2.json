@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "deuteronomy 7:2",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Yahwe Elohimu wawe arabahaye imbere yawe, maze ubabanze: ubazimise ubazimise ⟨את⟩ bo; ntuzirikane na bo isezerano, kandi ntubagirire impuhwe.",
+ "tokens": [
+  {
+   "surface": "ונתנם",
+   "gloss": "arabahaye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimu wawe"
+  },
+  {
+   "surface": "לפניך",
+   "gloss": "imbere yawe"
+  },
+  {
+   "surface": "והכיתם",
+   "gloss": "maze ubabanze"
+  },
+  {
+   "surface": "החרם",
+   "gloss": "ubazimise"
+  },
+  {
+   "surface": "תחרים",
+   "gloss": "ubazimise"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "abo bahantu (amahanga)"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "תכרת",
+   "gloss": "uzirikane"
+  },
+  {
+   "surface": "להם",
+   "gloss": "na bo"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "isezerano"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "kandi nta"
+  },
+  {
+   "surface": "תחנם",
+   "gloss": "ubagirire impuhwe"
+  }
+ ],
+ "timestamp": "2026-09-07T10:51:32.502415349Z",
+ "model": "glm-5.3"
+}

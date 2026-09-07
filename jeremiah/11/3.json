@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 11:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze urababwira uti: Uko Yahwe, Elohimu wa Yisraeli, abivuga: Yaravuriswe umuntu utumva ⟨את⟩ amagambo y'iri sezerano.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "maze urababwira"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "abivuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "yaravuriswe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "atumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "y'isezerano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-07T21:44:02.684654269Z",
+  "model": "glm-5.3"
+}

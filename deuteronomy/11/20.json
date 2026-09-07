@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Uzabyandike ku ntengo z'inzu yawe no ku mirango yawe.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "uzabyandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ntengo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "inzu yawe"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "no ku mirango yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:50.133391580Z",
+  "model": "glm-5.3"
+}

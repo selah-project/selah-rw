@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "genesis 14:17",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "umwami wa Sedomu yasohokeje kumusanga, nyuma yo kugaruka kwe mu kwica ⟨את⟩ Kedarlaomeru na ⟨את⟩ abami bari kumwe ⟨את⟩ na we, mu kibaya cya Shavehu — ni cyo kibaya cy'umwami.",
+ "tokens": [
+  {
+   "surface": "ויצא",
+   "gloss": "umwami wa Sedomu yasohokeje"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "סדם",
+   "gloss": "Sedomu"
+  },
+  {
+   "surface": "לקראתו",
+   "gloss": "kumusanga"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "nyuma"
+  },
+  {
+   "surface": "שובו",
+   "gloss": "yo kugaruka kwe"
+  },
+  {
+   "surface": "מהכות",
+   "gloss": "mu kwica"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Kedarlaomeru"
+  },
+  {
+   "surface": "כדרלעמר",
+   "gloss": "Kedarlaomeru"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "abami"
+  },
+  {
+   "surface": "המלכים",
+   "gloss": "abami"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ba"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ kumwe na we"
+  },
+  {
+   "surface": "אל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "עמק",
+   "gloss": "kibaya"
+  },
+  {
+   "surface": "שוה",
+   "gloss": "Shavehu"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ni cyo"
+  },
+  {
+   "surface": "עמק",
+   "gloss": "kibaya"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "cy'umwami"
+  }
+ ],
+ "timestamp": "2026-09-07T07:44:01.974433428Z",
+ "model": "glm-5.3"
+}

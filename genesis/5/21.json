@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Chanoki yabaho imyaka itanu na mirongo itandatu, maze yabyaye ⟨את⟩ Metushelah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabaho"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoki"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mirongo itandatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:11.718317484Z",
+  "model": "glm-5.3"
+}

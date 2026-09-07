@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Urwishime rw'imitima yacu rwarahagaye; imbyino yacu yahindutse irari.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "rwarahagaye"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "urwishime"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "rw'imitima yacu"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "irari"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "imbyino yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:51:40.442244143Z",
+  "model": "glm-5.3"
+}

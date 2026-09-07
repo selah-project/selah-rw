@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kikiri mu ntumba zaryo, kitarabazwa, kirakanywa mbere y'urwatsi rwose.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "kikiri"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "mu ntumba zaryo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "kibazwa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "(rwo)se"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "urwatsi"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "kirakanywa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:20:35.471419081Z",
+  "model": "glm-5.3"
+}

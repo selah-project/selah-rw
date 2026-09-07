@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe yarabwiye kwa Moshe ati: Gyagenda ku bantu, unayeho ubutagatifu uyu munsi n'ejo, barabe imyambaro yabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gyagenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "unayeho ubutagatifu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "n'ejo"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "barabe"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "imyambaro yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:59.168944839Z",
+  "model": "glm-5.3"
+}

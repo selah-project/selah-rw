@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Inda yawe, Shomroni, yazanwe; uburakari bwanjye burazwitije kuri bo — kugeza ryari ntibashobora ubudahemuka?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "yazanwe"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "inda yawe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "burazwitije"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "uburakari bwanjye"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bashobora"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "ubudahemuka"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:30.296853470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Uyu ni umuryango w'abamushakashaka, abashakisha ubuso bwawe — Yaakovu. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "w'abamushakashaka"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abashakisha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bwawe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:15.651130435Z",
+  "model": "glm-5.3"
+}

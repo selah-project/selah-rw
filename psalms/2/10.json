@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "None rero, abami, mugire ubwenge; mwigishwe, abacamanza b'isi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "none rero"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "mugire ubwenge"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "mwigishwe"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "abacamanza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:01.118568948Z",
+  "model": "glm-5.3"
+}

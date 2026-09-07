@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yehoshuwa arahaguruka mu gitondo, maze azana ⟨את⟩ Yisraeli mu bwoko bwawo, maze ubwoko bwa Yehuda bwafashwa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "arahaguruka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "maze azana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "mu bwoko bwawo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "maze bwafashwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bwa Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T11:29:50.256743099Z",
+  "model": "glm-5.3"
+}

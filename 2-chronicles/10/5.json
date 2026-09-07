@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yababwiye ati: «Amatsiko atatu ⟨yongera⟩, hanyuma mugarukire iwanjye.» Maze abantu baragenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yababwiye"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ati ⟨iyo⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yongera"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amatsiko"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "mugarukire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "baragenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:27.004166104Z",
+  "model": "glm-5.3"
+}

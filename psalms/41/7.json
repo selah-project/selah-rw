@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Kandi ni uko aza kureba, avuga ubuhemu; umutima we uraterura ibibi ku ubwawe; ava agiye hanze avuganira abandi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kandi ni uko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "uraterura"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku ubwawe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ava hanze"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "agiye hanze"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "avuganira abandi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:41.597825663Z",
+  "model": "glm-5.3"
+}

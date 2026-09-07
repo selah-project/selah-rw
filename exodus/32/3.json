@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze abantu bose barayiraguze ⟨את⟩ imiringa y'izahabu yari mu matwi yabo, maze bayizanye kwa Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "barayiraguze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiringa y'izahabu"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "imiringa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "y'izahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yari"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "mu matwi yabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bayizanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:14:09.991881148Z",
+  "model": "glm-5.3"
+}

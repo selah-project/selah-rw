@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ndi mutoyi kandi n'umunyantege nke; ariko amabwiriza yawe sinayibagiwe.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "mutoyi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "kandi n'umunyantege nke"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "sinayibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:41.866955083Z",
+  "model": "glm-5.3"
+}

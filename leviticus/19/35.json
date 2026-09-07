@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ntimukore ubuhemu mu rubanza: mu ngero, mu bipimo by'ibiro, no mu ipimo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu rubanza"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mu ngero"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "mu bipimo by'ibiro"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "no mu ipimo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:17.609617946Z",
+  "model": "glm-5.3"
+}

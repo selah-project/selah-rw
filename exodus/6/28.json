@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze haba ku munsi Yahwe yavuganaga na Moshe (Mose) mu gihugu cya Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuganaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:40.100067490Z",
+  "model": "glm-5.3"
+}

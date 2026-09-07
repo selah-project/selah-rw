@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Unakundishe kuri Yahwe, azaguha ibyo umutima wawe usaba.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Unakundishe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "azaguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuri wowe⟩"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ibyo… usaba"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:33.397433115Z",
+  "model": "glm-5.3"
+}

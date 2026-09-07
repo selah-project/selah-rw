@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ku w'umutegetsi, mu ndongo, ku gice cya munani; Indirimbo ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku w'umutegetsi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "mu ndongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "gice cya munani"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:51.939345621Z",
+  "model": "glm-5.3"
+}

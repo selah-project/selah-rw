@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abahungu ba Hamu (Hamu): Kushu, na Mitsrayimu (Egiputa), na Futu, na Kenaani.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamu (Hamu)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushu"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "na Futu"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "na Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:43.784509084Z",
+  "model": "glm-5.3"
+}

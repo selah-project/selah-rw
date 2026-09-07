@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 14:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Umugore wa Yarovamu nuko akoze uko, aravuka aragenda i Shilohu, arinjira mu nzu ya Ahiyah; Ahiyah we ntiyashobora kubona, kuko amaso ye yari atse kubera ubukuru bwe.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "nuko akoze uko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Umugore"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "aravuka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilohu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "arinjira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiyah"
+    },
+    {
+      "surface": "ואחיהו",
+      "gloss": "Ahiyah we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "yashobora"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "yari atse"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "משיבו",
+      "gloss": "ubukuru bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:51.073964278Z",
+  "model": "glm-5.3"
+}

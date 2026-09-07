@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "judges 20:5",
+ "book": "judges",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Maze abagabo ba Gibea bazindutse bampfuka, banenga inzu ijoro, mbatekereza kwica ⟨את⟩, maze umubvyi wanjye bamuhohereje, arapfa.",
+ "tokens": [
+  {
+   "surface": "ויקמו",
+   "gloss": "bazindutse"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "bampfuka"
+  },
+  {
+   "surface": "בעלי",
+   "gloss": "abagabo"
+  },
+  {
+   "surface": "הגבעה",
+   "gloss": "ba Gibea"
+  },
+  {
+   "surface": "ויסבו",
+   "gloss": "banenga"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "mbatera"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "inzu"
+  },
+  {
+   "surface": "הבית",
+   "gloss": "inzu"
+  },
+  {
+   "surface": "לילה",
+   "gloss": "ijoro"
+  },
+  {
+   "surface": "אותי",
+   "gloss": "⟨את⟩ jewe"
+  },
+  {
+   "surface": "דמו",
+   "gloss": "batekereza"
+  },
+  {
+   "surface": "להרג",
+   "gloss": "kwica"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "umubvyi wanjye"
+  },
+  {
+   "surface": "פילגשי",
+   "gloss": "umubvyi wanjye"
+  },
+  {
+   "surface": "ענו",
+   "gloss": "bamuhohereje"
+  },
+  {
+   "surface": "ותמת",
+   "gloss": "arapfa"
+  }
+ ],
+ "timestamp": "2026-09-07T12:16:13.034564773Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Utagira izindi mana imbere yanjye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Uta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izindi mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:53:31.833041256Z",
+  "model": "glm-5.3"
+}

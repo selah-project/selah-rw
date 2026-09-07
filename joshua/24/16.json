@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Abantu banze bavuze bati: Ntibibe aho ko tureka ⟨את⟩ Yahwe, tujya turagiza izindi mana.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "banze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bavuze"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ntibibe aho"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ko tureka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ko turagiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:21.806555033Z",
+  "model": "glm-5.3"
+}

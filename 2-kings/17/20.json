@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe yanze urubyaro rwa Yisraeli rwose, arabararambika, abyoherereza mu biganza by'abahamuye, kugeza yaratanjiye ku burigarizi bwe.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "yanze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rwa Yisraeli"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "abararambika"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "abyoherereza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu biganza bya"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "abahamuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "yaratanye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ku burigarizi bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:58.036538492Z",
+  "model": "glm-5.3"
+}

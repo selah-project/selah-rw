@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Kora igihano cy'abana ba Yisraeli ku ⟨את⟩ Abamidiyani; nyuma uzonererwa kuri abantu bawe.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku ⟨את⟩",
+      "marks": "Abamidiyani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Abamidiyani"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "uzonererwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "abantu bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:38:02.250243071Z",
+  "model": "glm-5.3"
+}

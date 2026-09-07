@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abahungu ba Yisraeli barakuyeho ⟨את⟩ Ba'ali n'⟨את⟩ Ashtaroti, maze bashumiriye ⟨את⟩ Yahwe we ubwonyine.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "barakuyeho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'ali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'ali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "Ashtaroti"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtaroti"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "bashumiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ubwonyine"
+    }
+  ],
+  "timestamp": "2026-09-07T12:26:09.436746341Z",
+  "model": "glm-5.3"
+}

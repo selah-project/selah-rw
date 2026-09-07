@@ -1,0 +1,98 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "exodus 14:5",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Byabwiwe umwami wa Mitsrayimu ko abantu baratunguye; umutima wa Paro n'abagaragu be cyahindutse ku bantu, bati: Ni iki icyo twakoze, ko twohereje ⟨את⟩ Yisraeli mu kudupangira?",
+ "tokens": [
+  {
+   "surface": "ויגד",
+   "gloss": "byabwiwe"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "umwami wa"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayimu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "ברח",
+   "gloss": "baratunguye"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "ויהפך",
+   "gloss": "cyahindutse"
+  },
+  {
+   "surface": "לבב",
+   "gloss": "umutima"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "wa Paro"
+  },
+  {
+   "surface": "ועבדיו",
+   "gloss": "n'abagaragu be"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "ויאמרו",
+   "gloss": "bati"
+  },
+  {
+   "surface": "מה",
+   "gloss": "ni iki"
+  },
+  {
+   "surface": "זאת",
+   "gloss": "icyo"
+  },
+  {
+   "surface": "עשינו",
+   "gloss": "twakoze"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "שלחנו",
+   "gloss": "twohereje"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yisraeli"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "מעבדנו",
+   "gloss": "mu kudupangira"
+  }
+ ],
+ "timestamp": "2026-09-07T08:46:29.689463676Z",
+ "model": "glm-5.3"
+}

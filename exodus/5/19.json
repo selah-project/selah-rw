@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abatware b'abana ba Yisraeli babonye ⟨את⟩ bibazo mibi byabo bavugwamo ngo: Nta gihombo muzagabanyamo m'ibyuma byanyu, igikorwa c'u munsi ku munsi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bibazo mibi byabo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mu bibazo mibi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "muzagabanyamo"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "m'ibyuma byanyu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "c'u munsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ku munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:55.592005327Z",
+  "model": "glm-5.3"
+}

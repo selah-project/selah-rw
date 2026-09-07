@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Na kwa Ashriel, umuryango wa bwa Ashriel; na kwa Shekemu, umuryango wa bwa Shekemu.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "Na kwa Ashriel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "wa bwa Ashriel"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "na kwa Shekemu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "wa bwa Shekemu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:05.511404106Z",
+  "model": "glm-5.3"
+}

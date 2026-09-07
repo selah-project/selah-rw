@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ Baalati na ⟨את⟩ Tamari, mu butayu, mu gihugu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baalati"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tamari"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:26.853175956Z",
+  "model": "glm-5.3"
+}

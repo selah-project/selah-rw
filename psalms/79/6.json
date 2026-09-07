@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Yunyuza uburakari bwawe ku mahanga atazi wewe, no ku bwami butaguje izina ryawe.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Yunyuza"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨abo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "atazi wewe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ayo⟩"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "butaguje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:46.815582061Z",
+  "model": "glm-5.3"
+}

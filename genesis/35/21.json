@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Yisraeli yagiye, maze yateye ihema rye inyuma ya Migdali-Ederi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yateye"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ihema rye"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdali"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Ederi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:57.191525222Z",
+  "model": "glm-5.3"
+}

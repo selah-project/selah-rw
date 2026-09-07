@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze umwami yaravuze ati: Ni nde uri mu rwiro? Maze Hamani yariyinjije mu rwiro rw'inzu y'umwami, urwo hanze, ashaka kubwira umwami yo guhambira ⟨את⟩ Mordekayi ku giti yari yateganyije iwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "uri mu rwiro"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Maze Hamani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yariyinjije"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "mu rwiro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rw'inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "urwo hanze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ashaka kubwira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "yo guhambira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yari yateganyije"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:03.337305736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Nurokore, Elohimu, kuko amazi yanje kugeza ku Nefeshi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Nurokore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yanje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi ⟨umwuka w'ubuzima⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:23.883377867Z",
+  "model": "glm-5.3"
+}

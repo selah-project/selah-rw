@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Uzabayigisha cyangwa abana bawe, kandi uzavugana byo iyo ucaye mu nzu yawe, iyo ugenda mu nzira, iyo uryama no iyo ucyuka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Uzabayigisha cyangwa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "abana bawe"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "uzavugana byo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-ya- \/ byo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "iyo ucaye"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "iyo ugenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "iyo uryama"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "iyo ucyuka"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:07.004137258Z",
+  "model": "glm-5.3"
+}

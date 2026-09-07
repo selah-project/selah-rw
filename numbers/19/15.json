@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Na ibikoresho byose byafunguye, ibidakorohereho isinga ry'urudodo, ni ⟨ni⟩ impamyi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ... byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "byafunguye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ibida-"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "isinga"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ry'urudodo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impamyi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T10:25:19.948446109Z",
+  "model": "glm-5.3"
+}

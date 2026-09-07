@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Metushelahi yabayeho imyaka indwi n'inani n'ijana, maze yabyaye ⟨את⟩ Lemeki.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelahi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "n'inani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "n'ijana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemeki"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemeki"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:09.823160441Z",
+  "model": "glm-5.3"
+}

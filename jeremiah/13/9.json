@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Uko Yahwe yaravuze ati: Niko nzasenya ⟨את⟩ ikuzo rya Yehudha na ⟨את⟩ ikuzo rya Yerushalayimu ririkomeye.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Niko"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nzasenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuzo rya Yehudha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "rya Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikuzo rya Yerushalayimu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "rya Yerushalayimu"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ririkomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:55:11.370251206Z",
+  "model": "glm-5.3"
+}

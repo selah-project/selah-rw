@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Mwanangu wanjye, Tora yanjye ntuwibagirwe, kandi umutima wawe ufatemo amategeko yanjye.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu wanjye"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wibagirwe"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ufatemo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:53.266503647Z",
+  "model": "glm-5.3"
+}

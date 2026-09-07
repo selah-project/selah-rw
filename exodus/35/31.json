@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Amaze kumuzuza ⟨את⟩ umwuka w'Elohimu — mu ubwenge, mu gutahura, no mu bumenyi, no mu byose by'ubuhinga.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Amaze kumuzuza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umwuka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "mu ubwenge"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "mu gutahura"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "no mu bumenyi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu byose"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "by'ubuhinga"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:09.849684126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Ubuhamya yashyize ku Yosefu, mu gusohoka kwe ku butaka bwa Mitsrayimu; ururimi ntabwo nari nzi, ndarumva.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Ubuhamya"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "ku Yosefu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "mu gusohoka kwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bwa Mitsrayimu"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nari nzi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndarumva"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:38.883547502Z",
+  "model": "glm-5.3"
+}

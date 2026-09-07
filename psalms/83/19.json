@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "maze bamenye ko wowe — izina ryawe ⟨ni⟩ Yahwe — wowe wenyine ⟨ni⟩ Uri hejuru y'isi yose.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "maze bamenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wowe wenyine"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:25.693866004Z",
+  "model": "glm-5.3"
+}

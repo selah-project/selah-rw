@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Elohimu, indirimbo nshya nzaririmba kuri wowe; ku nanga y'amashyira kumi nzakuzikirira kuri wowe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nshya"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nzaririmba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ku nanga"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "y'amashyira kumi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nzakuzikirira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:09.624663137Z",
+  "model": "glm-5.3"
+}

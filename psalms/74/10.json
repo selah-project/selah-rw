@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Kugeza ryari, Elohimu, umwanzi azahora ashavura? Utegoza azahashya izina ryawe iteka?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "azahora ashavura"
+    },
+    {
+      "surface": "צר",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "azahashya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "utegoza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:40.829612136Z",
+  "model": "glm-5.3"
+}

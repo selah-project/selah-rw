@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ni nde uwo uwolesa avuye mu butayu, nk'inkingi z'umutsi, unze impumuro ya mora na lubani, uva mu bwumba bwose bw'umucuruzi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uwolesa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avuye"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "nk'inkingi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "z'umutsi"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "unze impumuro"
+    },
+    {
+      "surface": "מור",
+      "gloss": "ya mora"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "na lubani"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu ... bwose"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "ubwumba"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "bw'umucuruzi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:20.431725543Z",
+  "model": "glm-5.3"
+}

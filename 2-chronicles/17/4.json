@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "kuko yashakishaga kwa Elohimu wa se, yagenze mu mategeko ye, kandi atari nk'ibikorwa bya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohimu wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yashakishaga"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "mu mategeko ye"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yagenze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi atari"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "nk'ibikorwa bya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:54:24.692254415Z",
+  "model": "glm-5.3"
+}

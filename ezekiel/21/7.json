@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Mwana w'umuntu, shyira ubuntu bw'ibere rwawe ku Yerushalayimu (Yerusalemu), uhugare ku bisenge, unahanure ku butaka bwa Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "shyira"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuntu bw'ibere rwawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu (Yerusalemu)"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "uhugare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "bisenge"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "unahanure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bwa Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T21:48:30.150366884Z",
+  "model": "glm-5.3"
+}

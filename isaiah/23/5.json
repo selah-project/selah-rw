@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyo amakuru yo muri Mitsrayimu yageze, baraterwa agahinda; noneho iyo bumvise amakuru ya Tsori.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Igihe\/Iyo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amakuru"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "muri Mitsrayimu"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "baraterwa agahinda"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "iyo bumvise amakuru ya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsori"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:07.423188894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Yaravuze ko bazazimishwa, iyo Moshe (Mose), intore ye, atari yarahagaze mu kibazo imbere ye, kugira ngo asubize uburakari bwe ngo atazimishe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ko"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "bazazimishwa"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "iyo... atari"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "intore ye"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yarahagaze"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "mu kibazo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kugira ngo asubize"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "uburakari bwe"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "ngo atazimishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:29.912495468Z",
+  "model": "glm-5.3"
+}

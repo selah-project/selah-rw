@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Kuko nta bumva bafite ku bikorwa bya Yahwe no ku byo intoki ze zakoze; azayangiza kandi ntazubaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bumva bafite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibyakozwe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "intoki ze"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "azayangiza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "azubaka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:21.313078981Z",
+  "model": "glm-5.3"
+}

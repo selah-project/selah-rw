@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Uzabahanisha igitware cy'icyuma, uzabasenyeresha nk'igikoresho cy'umuhanga w'ibumba.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "uzabahanisha"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "igitware"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "cy'icyuma"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "nk'igikoresho"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "cy'umuhanga w'ibumba"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "uzabasenyeresha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:01.117485130Z",
+  "model": "glm-5.3"
+}

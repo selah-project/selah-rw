@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze Mikhayahu yaravuze ati: Yahwe arahoraho ⟨ni⟩; ko ⟨את⟩ ibi Yahwe azabwira kuri njye, ⟨את⟩ ni byo nzavuga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "arahoraho ⟨ni⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi (ibyo Yahwe azavuga)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "azabwira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni byo (ibyo nzavuga)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nzavuga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:02:21.761488163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe Elohimu yaravugiye na Moshe, aramubwira ati: Ni njye Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravugiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:45.549595589Z",
+  "model": "glm-5.3"
+}

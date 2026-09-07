@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Dore, ikiganza cya Yahwe nticyarinduye mu kurokoka, kandi ugutwi kwaryo ntikwerekeye mu kwumva.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntici-"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "-rarinduye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ikiganza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "mu kurokoka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "-kwerekeye"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ugutwi kwaryo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "mu kwumva"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:17.004821891Z",
+  "model": "glm-5.3"
+}

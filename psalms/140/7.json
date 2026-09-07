@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Nabwiye kuri Yahwe: Wowe ⟨ni⟩ Eli wanjye; tega amatwi, Yahwe, ijwi ry'imporo zanjye.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nabwiye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tega amatwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ry'imporo zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:21.013166652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yahwe yohereje umuntu imbere yabo — Yosefu yagurishijwe ngo abe umugaragu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbere yabo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngo abe umugaragu"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "yagurishijwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:00.327696973Z",
+  "model": "glm-5.3"
+}

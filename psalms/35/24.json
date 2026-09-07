@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Unurunge urubanza rwanjye ukurikije ubutungane bwawe, Yahwe Elohimu wanjye; kandi ntibanezerweho kubanjye.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Unurunge urubanja rwanjye"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ukurikije ubutungane bwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "banezerweho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kubanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:03.827964840Z",
+  "model": "glm-5.3"
+}

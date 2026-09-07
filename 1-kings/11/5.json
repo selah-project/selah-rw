@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Shelomo (Salomo) yagiye inyuma ya Ashtoretu, imana y'abanya Tsidoni, no mu nyuma ya Milkomu, igirwamana ry'Amoni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoretu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana ya"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "abanya Tsidoni"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "no mu nyuma ya"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkomu"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "igirwamana"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "ry'Amoni"
+    }
+  ],
+  "timestamp": "2026-09-07T13:45:52.291277399Z",
+  "model": "glm-5.3"
+}

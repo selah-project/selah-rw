@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nyuma y'ibyo haba ko Dawidi yarahuye n'⟨את⟩ Abafilisiti arabatsinda, maze Dawidi yafata ⟨את⟩ umutego w'igihugu (misoro) mu ntoki z'Abafilisiti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "haba ko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yarahuye na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abafilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "arabatsinda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutego w'igihugu"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "umutego"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "w'igihugu (cy'urubyiruko)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    }
+  ],
+  "timestamp": "2026-09-07T13:05:02.220709083Z",
+  "model": "glm-5.3"
+}

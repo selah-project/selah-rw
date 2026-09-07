@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 46:11",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Zamuka i Gileadi, uze ibitozi, we Mutiterabwami, umukobwa w'i Mitsrayimu; mu buhumbi wakoje ubuvuzi bwinshi — nta cyo kwivunika cyagufitiye.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gileadi"
+    },
+    {
+      "surface": "וקחי",
+      "gloss": "uze"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ibitozi"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "we Mutiterabwami"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa w'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "mu buhumbi"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "wakoje"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "ubuvuzi bwinshi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "icyo kwivunika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cyagufitiye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:26:39.210545494Z",
+  "model": "glm-5.3"
+}

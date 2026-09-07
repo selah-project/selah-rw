@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Nefeshi yanjye yatuye igihe kirekire hamwe n'uwunanka Shalomu ⟨amahoro⟩.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "igihe kirekire"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "yatuye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "uwunanka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:05.280017793Z",
+  "model": "glm-5.3"
+}

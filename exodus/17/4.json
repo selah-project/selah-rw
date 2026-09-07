@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Moshe (Mose) aterura aramuritse kuri Yahwe, ati: Nakora iki ki kigwi cy'abantu? N'agatoyi gusa, bazampfa ibuye!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "aterura aramuritse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Nakora"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ki kigwi cy'abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "N'... gusa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "agatoyi"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "bazampfa ibuye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:32.322742137Z",
+  "model": "glm-5.3"
+}

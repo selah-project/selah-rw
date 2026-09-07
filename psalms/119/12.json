@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Uravugirwa amahirwe wowe, Yahwe; unyigishe amategeko yawe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "uravugirwa amahirwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "unyigishe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:04.231471421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 27:10",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 27,
+ "translation": "n'inguri zaryo makumyabiri, n'ibyatingiro byazo makumyabiri mu gikara; inyobero z'inguri n'udushyito twazo mu feza.",
+ "tokens": [
+  {
+   "surface": "ועמדיו",
+   "gloss": "n'inguri zaryo"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "makumyabiri"
+  },
+  {
+   "surface": "ואדניהם",
+   "gloss": "n'ibyatingiro byazo"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "makumyabiri"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "gikara"
+  },
+  {
+   "surface": "ווי",
+   "gloss": "inyobero"
+  },
+  {
+   "surface": "העמדים",
+   "gloss": "z'inguri"
+  },
+  {
+   "surface": "וחשקיהם",
+   "gloss": "n'udushyito twazo"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "feza"
+  }
+ ],
+ "timestamp": "2026-09-07T21:15:16.582344197Z",
+ "model": "glm-5.3"
+}

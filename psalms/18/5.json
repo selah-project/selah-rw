@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ibicapo by'urupfu baramfashije, kandi imigezi ya Beliyali irambaza.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "baramfashije"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ibicapo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "by'urupfu"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "kandi imigezi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ya Beliyali"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "irambaza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:16.216441707Z",
+  "model": "glm-5.3"
+}

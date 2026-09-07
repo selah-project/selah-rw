@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "None aya ni amatwarwa ya Terahi: Terahi yabyaye ⟨את⟩ Avramu, ⟨את⟩ Nahori na ⟨את⟩ Harani; Harani na we yabyaye ⟨את⟩ Loti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "None aya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ni amatwarwa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ya Terahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Harani na we"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:39.548769105Z",
+  "model": "glm-5.3"
+}

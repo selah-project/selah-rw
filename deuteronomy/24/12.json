@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ariko niba ari umuntu w'umukene, nturyame ufite ingwate ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko niba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "nturyame"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ufite ingwate ye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:58.079011189Z",
+  "model": "glm-5.3"
+}

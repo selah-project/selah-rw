@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Izaba ifunze imirongo ine, yibumbiye kabiri; impima y'iganza ⟨ni⟩ uburebure bwayo, no impima y'iganza ubugari bwayo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ifunze imirongo ine"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "yibumbiye kabiri"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "impima y'iganza"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "no impima y'iganza"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ubugari bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:28.559072836Z",
+  "model": "glm-5.3"
+}

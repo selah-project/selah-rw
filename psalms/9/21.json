@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Shyira Yahwe ubwoba ku bo, ngo amahanga amenye ko ari abantu bapfa gusa ⟨abapfa ari bo⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Shyira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bamenye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "abantu bapfa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ari bo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:09.245980178Z",
+  "model": "glm-5.3"
+}

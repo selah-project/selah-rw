@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Mu bihe bidasanzwe nahamagara Yahwe, kuri Elohimu wanjye ndasaba. Yamaze kumva ijwi ryanjye mu rusengero rwe, kandi gusaba kwanjye kwinjira imbere ye, kugera mu matwi ye.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe bidasanzwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njyanye"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nahamagara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yamaze kumva"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "mu rusengero rwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "kandi gusaba kwanjye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kwinjira"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "mu matwi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:16.217075429Z",
+  "model": "glm-5.3"
+}

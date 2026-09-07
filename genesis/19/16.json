@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 19:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ariko we yatinda, maze abo bantu bafata ku kuboko kwe, no ku kuboko kw'umugore we, no ku kuboko kw'abakobwa be babiri — mu bworozi bwa Yahwe kuri we; baramusohora, baramutuuza hanze y'umujyi.",
+  "tokens": [
+    {
+      "surface": "ויתמהמה",
+      "gloss": "yatinda"
+    },
+    {
+      "surface": "ויחזקו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abo bantu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ku kuboko kwe"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no ku kuboko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "kw'umugore we"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no ku kuboko"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kw'abakobwa babiri"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "be"
+    },
+    {
+      "surface": "בחמלת",
+      "gloss": "mu bworozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ויצאהו",
+      "gloss": "baramusohora"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "baramutuuza"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "y'umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:07.113111197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Uzakore imyanya y'ibiti bya shitimi, maze uzayisingize ⟨את⟩ zahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakore"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "imyanya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "y'ibiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bya shitimi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "maze uzayisingize"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "imyanya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:06.461967710Z",
+  "model": "glm-5.3"
+}

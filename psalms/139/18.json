@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Izibarira — ari menshi kurusha itsindaguye; ndamutswe, maze ndacyari kuri wowe.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "izibarira"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "itsindaguye"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ari menshi kurusha"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ndamutswe"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "maze ndacyari"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:30.456062853Z",
+  "model": "glm-5.3"
+}

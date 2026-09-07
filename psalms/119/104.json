@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu ibyagezweho byawe ndabona ubwenge; ni ko nahate inzira zose z'ibinyoma.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "mu ibyagezweho byawe"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ndabona ubwenge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni ... (kuri)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nahate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "z'ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:34.739610633Z",
+  "model": "glm-5.3"
+}

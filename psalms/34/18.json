@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Barasesekuye, Yahwe na we arumva, akabakura mu byago byabo byose.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "Barasesekuye"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe na we"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "arumva"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mu ... byose"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "byago byabo"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "akabakura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:15.838656385Z",
+  "model": "glm-5.3"
+}

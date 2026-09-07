@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ariko Noahi yabonye ubuntu mu maso ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ariko Noahi"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:09.070115647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze Yahwe Elohimu wawe azakuzanira mu gihugu abawe bariho, maze uricyo tugire, maze agakuneza akanakwongerera kurusha se bagucyekaho.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "azakuzanira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "abawe bariho"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "se bagucyekaho"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "uricyo tugire"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "agakuneza"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "akanakwongerera"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kurusha se bagucyekaho"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:57.189238421Z",
+  "model": "glm-5.3"
+}

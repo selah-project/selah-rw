@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yaravuze ati: Wakora iki? Ijwi ry'amaraso ya murumwa wawe riraguhamagarira njye, uva mu gitaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakora"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ry'amaraso"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya murumwa wawe"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "riraguhamagarira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mu gitaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:38.012707887Z",
+  "model": "glm-5.3"
+}

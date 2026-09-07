@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Kugeza iki, Yahwe, abakora ibibi? Kugeza iki abakora ibibi bishingize?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "bishingize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:36.595537936Z",
+  "model": "glm-5.3"
+}

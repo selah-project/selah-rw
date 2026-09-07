@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 39:7",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 39,
+ "translation": "Maze ashira ku matware y'efodi ⟨את⟩ bo, ngo abe ari amabuye y'ibungiro ku bana ba Yisraeli, uko Yahwe yategetse ⟨את⟩ Moshe.",
+ "tokens": [
+  {
+   "surface": "וישם",
+   "gloss": "Maze ashira"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ku matware y'efodi"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "כתפת",
+   "gloss": "matware"
+  },
+  {
+   "surface": "האפד",
+   "gloss": "y'efodi"
+  },
+  {
+   "surface": "אבני",
+   "gloss": "amabuye"
+  },
+  {
+   "surface": "זכרון",
+   "gloss": "y'ibungiro"
+  },
+  {
+   "surface": "לבני",
+   "gloss": "ku bana ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yategetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Moshe"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:20:21.535358723Z",
+ "model": "glm-5.3"
+}

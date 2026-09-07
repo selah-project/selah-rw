@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Uzongera ubukuru bwanjye, maze uzasubira uzankinga.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "uzongera"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ubukuru bwanjye"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "maze uzasubira"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "uzankinga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:36.990454092Z",
+  "model": "glm-5.3"
+}

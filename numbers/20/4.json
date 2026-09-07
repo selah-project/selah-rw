@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kuki mwayanje ⟨את⟩ ishyirahamwe rya Yahwe mu butayu ngo dupfe aho, twe n'amatungo yacu?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "mwayanje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishyirahamwe rya Yahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ishyirahamwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "butayu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ngo dupfe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "n'amatungo yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:25:36.090485080Z",
+  "model": "glm-5.3"
+}

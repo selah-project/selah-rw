@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Adonayi araseka we, kuko yabonye ko umunsi we uzogera.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "araseka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uzogera"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "umunsi we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:38.467999452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze yavugana na ⟨את⟩ bo ati: Niba ari ⟨את⟩ Nefeshi yanyu ngo nzih ⟨את⟩ umupfu wanjye mu maso yanjye, munsumbe, musengere ku ntoki zanjye kwa Pefroni umwana wa Tsohari.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "maze yavugana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "na ⟨את⟩ bo",
+      "marks": "bo (abana ba Heti)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "ari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi yanyu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "Nefeshi yanyu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ngo nzih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupfu wanjye"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "umupfu wanjye"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mu maso yanjye"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "munsumbe"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "musengere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku ntoki zanjye"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "kwa Pefroni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:19.419222989Z",
+  "model": "glm-5.3"
+}

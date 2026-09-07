@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Barayakoreye ⟨את⟩ imyambaro ya sheshe, akazi k'uwoboha, ya Aharoni n'abahungu be.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barayakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "k'uwoboha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'abahungu be"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:05.122376951Z",
+  "model": "glm-5.3"
+}

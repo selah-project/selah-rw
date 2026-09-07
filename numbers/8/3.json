@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Aharoni nuko yabikoze: kuri mpimbano y'urumuri rwa menorah yazamuye amatara yayo, nko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nuko yabikoze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מול",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mpimbano y'"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "urumuri rwa menorah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amatara yayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:20:14.776639294Z",
+  "model": "glm-5.3"
+}

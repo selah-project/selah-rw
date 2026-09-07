@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Raba, nagutunganyije mu byuma, ariko ntabwo ari mu fehende; nakuhisemo mu nkono y'ububabare.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "nagutunganyije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntabwo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "mu fehende"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "nakuhisemo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mu nkono"
+    },
+    {
+      "surface": "עני",
+      "gloss": "y'ububabare"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:45.860785154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Niba atagaruka, inkota ye azayishesha; umuyugari we yarawuhombye, kandi yarawuteguye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta- (atagaruka)"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "agaruka"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "inkota ye"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "azayishesha"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "umuyugari we"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yarawuhombye"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "kandi yarawuteguye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:10.003166476Z",
+  "model": "glm-5.3"
+}

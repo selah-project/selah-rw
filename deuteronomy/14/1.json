@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Muri abana kwa Yahwe Elohimu wanyu; ntimwikubite, kandi ntimushyire ubukara hagati mu maso yanyu ku mpamvu y'umupfu.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "kubite (mwikubite)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntimu-"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "mushyire"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ubukara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati mu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maso yanyu"
+    },
+    {
+      "surface": "למת",
+      "gloss": "ku mpamvu y'umupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:59.425780356Z",
+  "model": "glm-5.3"
+}

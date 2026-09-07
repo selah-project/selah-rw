@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Icyo cyose kigira icyumweru ntimuzerekange, kuko nticyo kizaba cyemewe kubwanyu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Icyo cyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki-"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kigira"
+    },
+    {
+      "surface": "מום",
+      "gloss": "icyumweru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "muzerekange"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kizaba cyemewe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kubwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:38.643625091Z",
+  "model": "glm-5.3"
+}

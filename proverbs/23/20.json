@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntukagume mu banyabinwa bw' umwunyu w'imizabibu cyangwa mu bafata inyama nka bindege.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntuka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "gume"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "mu banyabinwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "umwunyu w'imizabibu"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "mu bafata inyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nka bindege"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:47.998025457Z",
+  "model": "glm-5.3"
+}

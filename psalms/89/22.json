@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Uwo iganza ryanjye rizahorana, kandi akaboko kanjye kazamugomeza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Uwo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "iganza ryanjye"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "rizahorana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨icyerekezo mu nshinga: -na-⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "akaboko kanjye"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "kazamugomeza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:40.406603458Z",
+  "model": "glm-5.3"
+}

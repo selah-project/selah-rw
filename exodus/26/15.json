@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kandi uzakora ⟨את⟩ ibibaho bya Mishkani ⟨Mishkani: ihema⟩, ibiti bya shiti ⟨shiti: igiti cy'akasiya⟩, ihagaze.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Kandi uzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibaho"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ibibaho"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "bya Mishkani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti bya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ihagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:01.609845962Z",
+  "model": "glm-5.3"
+}

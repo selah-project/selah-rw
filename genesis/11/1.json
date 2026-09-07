@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Isi yose yabaye ifite ururimi rumwe, n'amagambo ⟨rimwe⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rumwe"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "n'amagambo"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "⟨rimwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:16.049013708Z",
+  "model": "glm-5.3"
+}

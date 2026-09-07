@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ibiziga byari ku ruhande rw'urubibi, ari amazu y'ibiti yo gutwara ⟨את⟩ imeza.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ku ruhande rwa"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "urubibi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byari"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ibiziga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "y'ibiti"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "yo gutwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    }
+  ],
+  "timestamp": "2026-09-07T09:19:48.154572639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umwami wa Shimironi-Meroni, umwe; umwami wa Akishafu, umwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimironi"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akishafu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:32:24.738498277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Baramufata ⟨את⟩ umwami, maze bamujyana ⟨את⟩ kwa mwami w'i Babuloni, i Ribulata, maze bavugisha ⟨את⟩ na we iteka.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "baramufata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bamujyana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kwa mwami w'i Babuloni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "w'i Babuloni"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "i Ribulata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bavugisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na we"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:17.240143393Z",
+  "model": "glm-5.3"
+}

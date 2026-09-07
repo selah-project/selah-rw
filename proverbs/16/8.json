@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ni byiza kugira umunani mu bwiza kurusha kugira amahera menshi atagira ubutabera.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kugira umunani"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "mu bwiza"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kurusha kugira... menshi"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "amahera"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "atagira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:14.805592884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Icyifuzo cya Dawidi. Umva, Yahwe, ubutabera; twega ugamburukire indurwe ryanjye; umunwe w'amatwi icyifuzo cyanjye, kidasohoka mu minora y'uburamu.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Icyifuzo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cya Dawidi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "twega ugamburukire"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "indurwe ryanjye"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "umunwe w'amatwi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "icyifuzo cyanjye"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "kidasohoka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu minora"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "y'uburamu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:40.242476350Z",
+  "model": "glm-5.3"
+}

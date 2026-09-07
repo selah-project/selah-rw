@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nabategejeje ⟨את⟩ mwebwe icyo gihe, ndababwira nti: Yahwe Elohimu wanyu yaguherereye mwe ⟨את⟩ iki gihugu ngo cyifatwe; mu rwego rw'abareze intwaro muzambuka mbere y'abavandimwe banyu, abana ba Yisraeli, abagabo b'ingufu bose.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "nabategejeje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwebwe",
+      "marks": "icyo gihe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndababwira nti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yaguherereye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki gihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "iki gihugu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ngo cyifatwe"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "abareze intwaro"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "muzambuka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere y'"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "abavandimwe banyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:47:29.514508840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Nefeshi iyo yakoze icyaha — yumvise ijwi ry'umuvumo, ari umuhamya, cyangwa yabonye, cyangwa yazi — iyo atangaza, azana icyaha cye.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "yakoze icyaha"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ry'umuvumo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umuhamya"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yazi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "atangaza"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "icyaha cye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:30:19.078497781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Abagore babiri b'a Dawidi barafatwe: Ahinoamu w'i Yizreeli, na Abigayili umugore wa Navalu wa Karmeli.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na babiri"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "abagore b'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "barafatwe"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoamu"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "w'i Yizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "na Abigayili"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalu"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "wa Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:32:58.218516879Z",
+  "model": "glm-5.3"
+}

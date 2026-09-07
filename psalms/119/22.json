@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kura kuri jyowe isoni n'ubusatizi; kuko ibyemezo byawe narabikurikije.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "kura"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kuri jyowe"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "n'ubusatizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "narabikurikije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:48.315170290Z",
+  "model": "glm-5.3"
+}

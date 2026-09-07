@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yitsaki (Isaka) yaravuze ati Yaakovu (Yakobo): Yegere, se, ndakumenye ku menyesha, umwana wanjye: wowe ni uwo, umwana wanjye Esavu, cyangwa atari wo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki (Isaka)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "yegere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "ndakumenye ku menyesha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni uwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atari wo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:00.914964253Z",
+  "model": "glm-5.3"
+}

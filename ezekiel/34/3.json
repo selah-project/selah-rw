@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "⟨את⟩ ibinure murya, na ⟨את⟩ ubwoya mwambika, ibyiriwe neza mucitemba, ariko ibitungwa ntimuzikungera.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "murya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwoya"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ubwoya"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "mwambika"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ibyiriwe neza"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "mucitemba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ibitungwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mukungera"
+    }
+  ],
+  "timestamp": "2026-09-07T17:13:49.315331891Z",
+  "model": "glm-5.3"
+}

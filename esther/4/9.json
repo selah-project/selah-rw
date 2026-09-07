@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Hataki yaje maze abwira Estera ⟨את⟩ amagambo ya Mordekayi.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:12.188850872Z",
+  "model": "glm-5.3"
+}

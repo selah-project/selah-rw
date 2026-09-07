@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Iyo umwanzi wawe aguwe ntikwizwe; kandi iyo yagwagwaje umutima wawe ntiwugire umunezero.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "iyo … aguwe"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "umwanzi wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "ukwizwe"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "kandi iyo yagwagwaje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ugire umunezero"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:41.470080028Z",
+  "model": "glm-5.3"
+}

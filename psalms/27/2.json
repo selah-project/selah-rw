@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Iyo ababi baza kunsagira ngo barye ⟨את⟩ umubiri wanjye — inkeri zanjye n'abansi banjye — bo baracitse intoki baragwa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "iyo… baza kunsagira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngo barye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri wanjye"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "umubiri wanjye"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "inkeri zanjye"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "n'abansi banjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "banjye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "baracitse intoki"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "baragwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:09.528759854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ariko umuntu ntagire urutunganire, na ntagire uw'akerekeza; ko abantu be ari nka barwana na kohenu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "gire urutunganire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nta-"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "gire uw'akerekeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "nka barwana"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:33.146618789Z",
+  "model": "glm-5.3"
+}

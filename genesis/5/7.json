@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Shetu yabayeho nyuma yo kubyara ⟨את⟩ Enoshi imyaka indwi n'amajana umunani, maze yabyaye abahungu n'abakobwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shetu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kubyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "n'amajana umunani"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyaye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:59.250369580Z",
+  "model": "glm-5.3"
+}

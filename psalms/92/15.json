@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Baracyera imbuto mu bukuru; baratunganye kandi bafite umusemburo bazaba.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "baracya"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "bazera imbuto"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "mu bukuru"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "baratunganye"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "kandi bafite umusemburo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazaba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:11.612139382Z",
+  "model": "glm-5.3"
+}

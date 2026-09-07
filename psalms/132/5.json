@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Kugeza nzira ahantu ya Yahwe, amashukani ya Abiri wa Yaakovu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza nzira"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndabona"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "amashukani (Mishkani)"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ya Abiri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:45.666687695Z",
+  "model": "glm-5.3"
+}

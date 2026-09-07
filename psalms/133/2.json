@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 133,
+  "translation": "Nk'amavuta meza amanuye ku mutwe, amanura ku ndebu, indebu z'Aharoni, ayamanura ku mpera z'imyambaro ye.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Nk'amavuta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "meza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "amanuye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "indebu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "indebu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ayamanura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "imyambaro ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:59.364460466Z",
+  "model": "glm-5.3"
+}

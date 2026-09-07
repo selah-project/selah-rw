@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 127,
+  "translation": "Ni ubusa kuri mwe, mwibuka indwi, muhagara mu gitondo, muhinga nk'abari mu mihigo, bafata impano y'ububabare; ni ko aha ibyishimo ​ishyira mu itufe\nk'uw'urukundo rwe.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Ni ubusa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "muhinga mu gitondo"
+    },
+    {
+      "surface": "קום",
+      "gloss": "muhagara"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "muhinga nk'abari mu mihigo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "​​"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "impano"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "y'ububabare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "k'uw'urukundo rwe"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ishyira mu itufe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:10.730367594Z",
+  "model": "glm-5.3"
+}

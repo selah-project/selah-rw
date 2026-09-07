@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe Elohimu yakoze kwa Adamu no ku mugore we imyambaro y'uruhu, maze abambara.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa Adamu"
+    },
+    {
+      "surface": "ו לאשתו",
+      "gloss": "no ku mugore we"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "עור",
+      "gloss": "y'uruhu"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "maze abambara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:41.424997442Z",
+  "model": "glm-5.3"
+}

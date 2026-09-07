@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 125,
+  "translation": "Kuko umudozi w'ubugome ntiuzahorera ku rugero rw'abatunganye, kugira ngo abatunganye batazatera intoki zabo mu bibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "uzahorera"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umudozi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "w'ubugome"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "urugero"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "abatunganye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bataza-"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "batere"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "abatunganye"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "mu bibi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.819832297Z",
+  "model": "glm-5.3"
+}

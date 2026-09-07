@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Rwose kuri Elohimu gusa, Nefeshi yanjye, ihorere mu mutego; kuko umwizera wanjye uvuye iwe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Rwose gusa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuri Elohimu"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ihorere mu mutego"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uvuye iwe"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "umwizera wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:14.648986878Z",
+  "model": "glm-5.3"
+}

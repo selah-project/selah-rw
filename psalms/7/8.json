@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umuryango w'amahanga uzakuzengurutsa, kandi uzasubire hejuru hejuru ku bwabo.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Umuryango"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "w'amahanga"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "uzakuzengurutsa"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ku bwabo"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "hejuru hejuru"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "uzasubire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:17.479569257Z",
+  "model": "glm-5.3"
+}

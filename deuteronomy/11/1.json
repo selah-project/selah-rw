@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi urakunde ⟨את⟩ Yahwe Elohimu wawe, maze uzirikane ibyo asabwa kuzirikwa, amategeko ye, imibanire ye, n'ibitegetso bye, mu minsi yose.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "urakunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "maze uzirikane"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ibyo asabwa kuzirikwa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "imibanire ye"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ibitegetso bye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mu minsi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:40.773054326Z",
+  "model": "glm-5.3"
+}

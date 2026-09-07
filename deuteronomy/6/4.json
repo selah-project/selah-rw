@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umva, Yisraeli: Yahwe, Elohimu wacu, Yahwe ⟨ni⟩ umwe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:51:44.488554724Z",
+  "model": "glm-5.3"
+}

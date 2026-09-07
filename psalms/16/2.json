@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nabwiye kwa Yahwe nti: Adonayi, wowe ⟨ni⟩; nta cyiza njye mfite kitari iwawe.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Nabwiye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "icyiza cyanjye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kitari iwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:43.982632287Z",
+  "model": "glm-5.3"
+}

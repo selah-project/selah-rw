@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 8:9",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nechemjah we, Intirishata, na Ezira kohenu umuanditsi, n'Abalevi bashishikaza ⟨את⟩ abantu, baravuze ku bantu bose bati: Uyu munsi ⟨ni⟩ uwera kwa Yahwe, Elohimu wanyu; ntimunyurwe, kandi ntimurire — koko abantu bose bararira iyo bumvise ⟨את⟩ amagambo ya Tora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemjah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Intirishata"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "na Ezira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "umuanditsi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "n'Abalevi"
+    },
+    {
+      "surface": "המבינים",
+      "gloss": "bashishikaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bantu bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iwera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni wo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תתאבלו",
+      "gloss": "ntimunyurwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nti-"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ntimurire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בוכים",
+      "gloss": "bararira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "iyo bumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Tora"
+    }
+  ],
+  "timestamp": "2026-09-07T20:25:27.898775378Z",
+  "model": "glm-5.3"
+}

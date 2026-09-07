@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi njye n'ubwanjye: nta bazungirwa n'ijwi ryanjye, kandi ntindunganye, ahubwo inzira yabo nzashyira ku mutwe wabo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye n'ubwanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "bazungirwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "ndunganye"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "inzira yabo"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ku mutwe wabo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nzashyira"
+    }
+  ],
+  "timestamp": "2026-09-07T16:47:04.880913107Z",
+  "model": "glm-5.3"
+}

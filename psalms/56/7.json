@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Bahurira, bahisha; bo bareba intoki zanjye — nk'uko biteze nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "bahurira"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "bahisha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "intoki zanjye"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bareba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "biteze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:04.604870308Z",
+  "model": "glm-5.3"
+}

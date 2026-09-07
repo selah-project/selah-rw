@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Indirimbo, Izaburi rya Dawidi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Izaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ry'a Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:08.340442220Z",
+  "model": "glm-5.3"
+}

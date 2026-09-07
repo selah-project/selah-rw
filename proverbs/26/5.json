@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Subiza umusoboki ku bw'ubusoboki bwe, ngo atazibwaga ko yari umunyabwenge mu maso ye.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Subiza"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "umusoboki"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ku bw'ubusoboki bwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ngo ata-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azibwaga ko yari"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:14:45.761182878Z",
+  "model": "glm-5.3"
+}

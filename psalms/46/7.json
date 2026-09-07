@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Amahanga yateye inkangu, ubwari bwagizeguye; ⟨we⟩ yashyizeho ijwi rye, isi yatorotse.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "yateye inkangu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "bwagizeguye"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubwari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yashyizeho"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "yatorotse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:50.645254396Z",
+  "model": "glm-5.3"
+}

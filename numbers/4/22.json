@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Barware ⟨את⟩ umutwe w'abahungu ba Gershonu, na bo, mu nzu y'abakurambere babo, mu miryango yabo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "barware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershonu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "abakurambere babo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mu miryango yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:27.332534089Z",
+  "model": "glm-5.3"
+}

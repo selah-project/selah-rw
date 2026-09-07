@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Yosefu yarahije abahungu ba Yisraeli ati: Elohimu azabasura rwose ⟨azabasura kandi⟩, maze muzazamure ⟨את⟩ amagufwa yanjye ava hano.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yarahije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "azabasura"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "azabasura rwose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwebwe"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "muzazamure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa yanjye"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "amagufwa yanjye"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ava hano"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:26.800439543Z",
+  "model": "glm-5.3"
+}

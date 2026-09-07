@@ -1,0 +1,87 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "exodus 28:11",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 28,
+ "translation": "Igikorwa cy'umunyabicu bw'ibyuma, igihe gikorerwa n'intoki y'umuhanzi, amazina y'abahungu ba Yisraeli (Isirayeli) azakorerwa igikoresho cyo kubika; mu mazina y'abahungu ba Yisraeli (Isirayeli), azabikwamo mu mpapuro z'izahabu, maze uzabireka.",
+ "tokens": [
+  {
+   "surface": "מעשה",
+   "gloss": "igikorwa"
+  },
+  {
+   "surface": "חרש",
+   "gloss": "cy'umunyabicu bw'ibyuma"
+  },
+  {
+   "surface": "אבן",
+   "gloss": "igihe"
+  },
+  {
+   "surface": "פתוחי",
+   "gloss": "gikorerwa n'intoki y'umuhanzi"
+  },
+  {
+   "surface": "חתם",
+   "gloss": "cyo kubika"
+  },
+  {
+   "surface": "תפתח",
+   "gloss": "azakorerwa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amabuye abiri"
+  },
+  {
+   "surface": "שתי",
+   "gloss": "abiri"
+  },
+  {
+   "surface": "האבנים",
+   "gloss": "amabuye"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "שמת",
+   "gloss": "amazina"
+  },
+  {
+   "surface": "בני",
+   "gloss": "y'abahungu"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ba Yisraeli (Isirayeli)"
+  },
+  {
+   "surface": "מסבת",
+   "gloss": "azabikwamo"
+  },
+  {
+   "surface": "משבצות",
+   "gloss": "mu mpapuro"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "z'izahabu"
+  },
+  {
+   "surface": "תעשה",
+   "gloss": "uzabireka"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": ""
+  }
+ ],
+ "timestamp": "2026-09-07T09:03:29.198171401Z",
+ "model": "glm-5.3"
+}

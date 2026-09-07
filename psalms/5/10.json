@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuko mu kanwa kabo nta kintu gikwiye; mu mitima yabo harimo imvururu; imiryambyo yabo ni idasibo rikeretse; ururimi rwabo rukoroshya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "mu kanwa kabo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "kintu gikwiye"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "mu mitima yabo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "imvururu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "idasibo"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "rikeretse"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "imiryambyo yabo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ururimi rwabo"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "rukoroshya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:29.456174885Z",
+  "model": "glm-5.3"
+}

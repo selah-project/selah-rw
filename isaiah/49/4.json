@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ariko njye navuze nti: Nakoroye ubusa, imbaraga zanjye nakoresheje mu butagira icyo kimera n'umuyaga; ariko rwose urubanza rwanjye ruri kwa Yahwe ⟨את⟩, n'igikorwa cyanjye kiri n'Elohimu wanjye ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "Nakoroye"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "mu butagira icyo kimera"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "n'umuyaga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nakoresheje (byose)"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ariko rwose"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "urubanza rwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "n'igikorwa cyanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu wanjye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n'Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:23:57.889530717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Uwavunitse ibyungo cyangwa wacibutse umura ntabwo yinjira mu itorero rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "wacibwe"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "wavunitse ibyungo"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "cyangwa wacibutse"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "umura"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu itorero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:41.173733978Z",
+  "model": "glm-5.3"
+}

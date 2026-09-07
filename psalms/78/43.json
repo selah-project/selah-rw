@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Aho yashyize mu Mitsrayimu ibimenyetso bye, n'ibitangaza bye mu murima wa Tsoani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ibimenyetso bye"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "n'ibitangaza bye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "צען",
+      "gloss": "wa Tsoani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:29.287575735Z",
+  "model": "glm-5.3"
+}

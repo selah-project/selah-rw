@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Aho inyoni zubaka ibyari byazo; hasidah ⟨ibishishimbi⟩ inzu yayo ni mu beroshi ⟨imiti y'imikeri⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "zubaka ibyari byazo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "hasidah"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "mu beroshi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "inzu yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:02.897715527Z",
+  "model": "glm-5.3"
+}

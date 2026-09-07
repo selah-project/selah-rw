@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ni cyiza ikiganza gihuza amahoro, kurusha ibiganza byombi byuzuye umurimo n'agahinda k'umuyaga.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ni cyiza"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gihuza"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ikiganza"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "kurusha … byuzuye"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ibiganza byombi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "n'agahinda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "k'umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:37.980240721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze bafata ⟨את⟩ Yonah bamushyiza muri inyanja, maze inyanja ihagara kubera uburakari bwayo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "bamushyiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ihagara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "kubera uburakari bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:18.800323959Z",
+  "model": "glm-5.3"
+}

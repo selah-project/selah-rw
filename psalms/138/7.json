@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Iyo nzi mu hagati y'agahinda, urazohereza ubuzima bwanjye; ku bw'umujinya w'abansi banjye urazohereza intoki yawe, maze iburyo byawe birayankiza.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu hagati ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "agahinda"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "urazohereza ubuzima bwanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "umujinya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "w'abansi banjye"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "urazohereza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "maze birayankiza"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:08.300825065Z",
+  "model": "glm-5.3"
+}

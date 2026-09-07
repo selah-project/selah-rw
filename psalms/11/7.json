@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kuko Yahwe ⟨ni⟩ umutunganyi, yakunda ubutunganyi; abahindukiye bazareba ⟨isura⟩ ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ubutunganyi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakunda"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "abahindukiye"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bazareba"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "isura ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:01.213348484Z",
+  "model": "glm-5.3"
+}

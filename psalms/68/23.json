@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Adonayi yaravuze ati: Nzakugarura nka Bashani, nzakugarura mu kuzimu kwa nyanja.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "nka Bashani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nzakugarura"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nzakugarura"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "mu kuzimu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kwa nyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:13.527338404Z",
+  "model": "glm-5.3"
+}

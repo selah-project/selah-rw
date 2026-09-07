@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Yahwe, Adonayi, imbaraga y'ubokiji bwanjye, warakuyemo umutwe wanjye ku munsi w'intambara.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "y'ubokiji bwanjye"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "warakuyemo"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "umutwe wanjye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "w'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:21.013386321Z",
+  "model": "glm-5.3"
+}

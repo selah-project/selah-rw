@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Na umukore we, na izina rye ⟨ni⟩ Reumaha (Reumaha, nahone we yabyaye ⟨את⟩ Tevahi na ⟨את⟩ Gahamu na ⟨את⟩ Tahashi na ⟨את⟩ Maakaha (Maakaha).",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Na umukore we"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na izina rye"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumaha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevahi"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gahamu"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tahashi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Maakaha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:54.072662191Z",
+  "model": "glm-5.3"
+}

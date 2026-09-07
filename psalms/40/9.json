@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Kugira ngo nkore ibyishimyiro byawe, Elohimu wanjye ⟨ni⟩ byo nishimiye, kandi Tora yawe iri mu nda yanjye ⟨yo ubwite⟩.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kugira ngo nkore"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ibyishimyiro byawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nishimiye"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kandi Tora yawe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iri mu"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "nda yanjye ⟨yo ubwite⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:12.908019218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Bazarya kandi ntibazashimira; bakora ubusambanyi kandi ntibaziyongera; kuko baretse gutonda ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "bazarya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bazashimira"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "bakora ubusambanyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "baziyongera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "baretse"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "gutonda"
+    }
+  ],
+  "timestamp": "2026-09-07T17:28:42.008710336Z",
+  "model": "glm-5.3"
+}

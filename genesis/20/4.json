@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi Abimeleke ntiyari yamwegereje, aravuga ati: Adonayi, igihugu kitunganye none se uracyica?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yamwegereje"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "yamwegereje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "none se"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kitunganye"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "uracyica"
+    }
+  ],
+  "timestamp": "2026-09-07T07:52:29.865863742Z",
+  "model": "glm-5.3"
+}

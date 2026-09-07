@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo ugura umugaragu w'Igiburayi, imyaka itandatu azakorera; mu cy'irindwi azasohoka afite ubwigenge, ubusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "ugura"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "w'Igiburayi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "azakorera"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "mu cy'irindwi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "azasohoka"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "afite ubwigenge"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:04.443221750Z",
+  "model": "glm-5.3"
+}

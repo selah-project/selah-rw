@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Maze ayihagize kwa Yaakovu (Yakobo) nk'itegeko, kuri Yisraeli (Isirayeli) nk'iberiti ry'iteka,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Maze ayihagize"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "nk'itegeko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuri Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nk'iberiti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ry'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:49.538272203Z",
+  "model": "glm-5.3"
+}

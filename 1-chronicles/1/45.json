@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yapfuye Yovavu, maze Hushamu wo mu gihugu cya Temani yategetse mu cyimbye cye.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu cyimbye cye"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Hushamu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "cya Temani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:35.380208254Z",
+  "model": "glm-5.3"
+}

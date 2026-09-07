@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Ubweru bwawe buzakoze, na ishavu ryawe bizagaragara; igihano nzacyeza, kandi nta muntu nzamupuhutsa.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "buzakoze"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ubweru bwawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bizagaragara"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ishavu ryawe"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nzacyeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "nzamupuhutsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:22:11.478863772Z",
+  "model": "glm-5.3"
+}

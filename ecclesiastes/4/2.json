@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nsingiza jyewe nyine ⟨את⟩ abapfuye bamaze gupfa, kuruta abahozi bari bazima kugeza ubu.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Nsingiza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe nyine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapfuye"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "abapfuye"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "bamaze"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "gupfa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuruta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "abahozi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bari"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bazima"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "kugeza ubu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:33.634900154Z",
+  "model": "glm-5.3"
+}

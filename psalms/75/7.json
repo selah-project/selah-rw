@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Kuko itoza ridaza mu bwoherejwe no mu burengerazuba, kandi ridaza mu butayu bw'imisozi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "mu bwoherejwe"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "no mu burengerazuba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:49.597061218Z",
+  "model": "glm-5.3"
+}

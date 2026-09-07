@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "1-kings 21:12",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 21,
+ "translation": "Batangije inzara, maze bashyize ⟨את⟩ Naboti ku mutwe w'abaturage.",
+ "tokens": [
+  {
+   "surface": "קראו",
+   "gloss": "Batangije"
+  },
+  {
+   "surface": "צום",
+   "gloss": "inzara"
+  },
+  {
+   "surface": "והשיבו",
+   "gloss": "maze bashyize"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Naboti"
+  },
+  {
+   "surface": "נבות",
+   "gloss": "Naboti"
+  },
+  {
+   "surface": "בראש",
+   "gloss": "ku mutwe"
+  },
+  {
+   "surface": "העם",
+   "gloss": "w'abaturage"
+  }
+ ],
+ "timestamp": "2026-09-07T13:57:24.235056564Z",
+ "model": "glm-5.3"
+}

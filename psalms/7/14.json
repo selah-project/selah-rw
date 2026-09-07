@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi na we yateguye ibikoresho by'urupfu; imyambi ye ku bakurikirana arazikoresha.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "kandi na we"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yateguye"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "by'urupfu"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "imyambi ye"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "ku bakurikirana"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "arazikoresha"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:10.003531147Z",
+  "model": "glm-5.3"
+}

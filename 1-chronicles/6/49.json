@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Abana b'Yisraeli bahaye Abalewi ⟨את⟩ imidugudi n'⟨את⟩ imirima yabyo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bahaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Abalewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imidugudi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "imidugudi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "imirima yabyo"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "imirima yabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:06:54.804230800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Aviyathari yabwiye Dawidi ko Shauli yahanye ⟨את⟩ abaherezi ba Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Aviyathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yahanye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaherezi"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:49.617648525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abami b'isi biyemeje hamwe, abatware bafatanye umugambi ku Yahwe no kuri Mashiyah wiwe,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "biyemeje hamwe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bafatanye umugambi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiyah wiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:38.841472454Z",
+  "model": "glm-5.3"
+}

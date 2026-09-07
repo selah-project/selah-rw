@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Amajuru, amajuru ni aya Yahwe; ariko isi yahaye abana b'abantu.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aya Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ariko isi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:32.582063623Z",
+  "model": "glm-5.3"
+}

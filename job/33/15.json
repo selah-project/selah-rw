@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mu ndoto, mu kibonwa c'ijoro, igihe itorokerwa rigwa ku bantu, mu ntorokeri ku buriri;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "Mu ndoto"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "kibonwa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "c'ijoro"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "igihe rigwa"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "itorokerwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "mu ntorokeri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "buriri"
+    }
+  ],
+  "timestamp": "2026-09-07T19:35:53.155370763Z",
+  "model": "glm-5.3"
+}

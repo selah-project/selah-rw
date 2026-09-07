@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ndabandanya, ntibashobora guhaguruka, bagwa munsi y'amaguru yanjye.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Ndabandanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ntibashobora"
+    },
+    {
+      "surface": "קום",
+      "gloss": "guhaguruka"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bagwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "y'amaguru yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:07.508371762Z",
+  "model": "glm-5.3"
+}

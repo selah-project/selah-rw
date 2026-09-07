@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Atayi yabyaye ⟨את⟩ Natani, Natani nawe yabyaye ⟨את⟩ Zavadi.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Atayi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natani nawe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavadi"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavadi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:53.642532969Z",
+  "model": "glm-5.3"
+}

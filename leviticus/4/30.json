@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kohenu azafata mu maraso yayo ku rutoki rwe, aza kuyashyira ku mpuno z'igicaniro cy'igitambamwo, maze na ⟨את⟩ maraso yayo yose azayasa ku mbasi y'igicaniro.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "mu maraso yayo"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ku rutoki rwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "azashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "mpuno"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "z'igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'igitambamwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maraso yayo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "maraso yayo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "azayasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "mbasi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "y'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:28.351928139Z",
+  "model": "glm-5.3"
+}

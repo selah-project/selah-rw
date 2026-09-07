@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 126,
+  "translation": "Abasesa mu birira bazasimbura mu ruririmbo.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "abasesa"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "mu birira"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "mu ruririmbo"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "bazasimbura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:59.848683506Z",
+  "model": "glm-5.3"
+}

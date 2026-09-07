@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ku uwo munsi lazyafatwa ⟨ni⟩ umunsi umwe; ntimugasigazeho ku bwo bukobwa: ni njye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku uwo munsi (k'umunsi)"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bizafatwa (biribwa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "mugasigazeho"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ku byo (muri byo)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bukobwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:54.679234411Z",
+  "model": "glm-5.3"
+}

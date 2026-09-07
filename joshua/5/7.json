@@ -1,0 +1,76 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "joshua 5:7",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Na ⟨את⟩ abahungu babo bazamwe mu mwanya wabo, ⟨את⟩ bo Yehoshuwa arabarwana; kuko bari abatarwanwa, kuko nta barwanwa ⟨את⟩ bo ku nzira.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "abahungu babo"
+  },
+  {
+   "surface": "בניהם",
+   "gloss": "abahungu babo"
+  },
+  {
+   "surface": "הקים",
+   "gloss": "bazamwe"
+  },
+  {
+   "surface": "תחתם",
+   "gloss": "mu mwanya wabo"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "Yehoshuwa arabarwana"
+  },
+  {
+   "surface": "מל",
+   "gloss": "ararwana"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshuwa"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "ערלים",
+   "gloss": "abatarwanwa"
+  },
+  {
+   "surface": "היו",
+   "gloss": "bari"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "מלו",
+   "gloss": "barwanwe"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ku nzira"
+  },
+  {
+   "surface": "בדרך",
+   "gloss": "ku nzira"
+  }
+ ],
+ "timestamp": "2026-09-07T11:25:20.414508620Z",
+ "model": "glm-5.3"
+}

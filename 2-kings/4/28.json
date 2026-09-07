@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Aravuga ati: Ese nahise nsaba umwana kwa shebuja? Ese sinabwiye nti: Ntunyiganye?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "nahise nsaba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ese si"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nabwiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "ntunyiganye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:59.965373243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi iyo umuntu atagatifuza kwa Yahwe igice cy'umurima w'ubutunzi bwe, igiciro cyawe kizaba ukw'imbuto zawe: imbuto za homeri (cy'ingano) z'ibyoni ku masheli amatanu y'ifeza.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "igice cy'umurima"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "w'ubutunzi bwe"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "atagatifuza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "igiciro cyawe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ukw'"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "imbuto zawe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "za homeri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "z'ibyoni"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "ku masheli amatanu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "amasheli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:25.287409849Z",
+  "model": "glm-5.3"
+}

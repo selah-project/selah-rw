@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze arungikana ⟨את⟩ njiye ivuye kuri ⟨את⟩ we, ngo abure ko amazi yari yakenutse ku buso bw'ubutaka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "arungikana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njiye"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "njiye"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ivuye kuri ⟨את⟩ we"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngo abure"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ko amazi yari yakenutse"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku buso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bw'ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:07.786434434Z",
+  "model": "glm-5.3"
+}

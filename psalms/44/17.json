@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ku bw'ijwi ry'uwuhereutsa n'uwusebye, mu maso y'umwanzi n'uwurwengura.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ku bw'ijwi"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "ry'uwuhereutsa"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "n'uwusebye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "y'umwanzi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "n'uwurwengura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.663449019Z",
+  "model": "glm-5.3"
+}

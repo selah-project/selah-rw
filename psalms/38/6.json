@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ibirise byanjye byanze kandi byavunuye kubw'ubujiji bwanjye.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "byanze"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "byavunuye"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ibirise byanjye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ubujiji bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:58.765075718Z",
+  "model": "glm-5.3"
+}

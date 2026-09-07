@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Aravuze ati: Ni iki nakoze icyaha, ko wowe utanga ⟨את⟩ umugaragu wawe mu ntoki z'Ahabu ngo ampfuse?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakoze icyaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "z'Ahabu"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ngo ampfuse"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:33.059869859Z",
+  "model": "glm-5.3"
+}

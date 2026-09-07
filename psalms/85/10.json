@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Mu by'ukuri, umukiro we uri hafi y'abamutinya, kugira ngo icyubahiro cycye ⟨cyereke⟩ mu gihugu cyacu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "uri hafi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "y'abamutinya"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "umukiro we"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kugira ngo... ⟨cyereke⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro cycye"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "mu gihugu cyacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:28.607428915Z",
+  "model": "glm-5.3"
+}

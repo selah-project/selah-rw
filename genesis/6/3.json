@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yaravuze ati: Umwuka wanjye nturazahanamira mu muntu iteka, kubera ko uwo ari we umubiri; kandi iminsi ye izaba ijana na makumi abiri y'imyaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu(ra)"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "razahanamira"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Umwuka wanjye"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uwo ari we"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kandi izaba"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makumi abiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "y'imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:59.005845886Z",
+  "model": "glm-5.3"
+}

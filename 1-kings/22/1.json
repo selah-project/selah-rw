@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Bari baruhutse imyaka itatu; nta ntambara ihari hagati ya Aramu na hagati ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "bari baruhutse"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntambara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:03:26.154137353Z",
+  "model": "glm-5.3"
+}

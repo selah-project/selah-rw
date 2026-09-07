@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Yavuze Elohimu wa Yisraeli, yabwiye Urutare rwa Yisraeli ku njye ati: Ugiye kugenza abantu mu ntungane, ni we ugategera mu gutinya Elohimu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yavuze"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Urutare rwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ugiye kugenza"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mu ntungane"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ugategera"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "mu gutinya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:24:30.412919943Z",
+  "model": "glm-5.3"
+}

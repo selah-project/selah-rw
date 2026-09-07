@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Barabyasheje ⟨את⟩ amabwira y'inzu ya Baalu, maze barayakororeye.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "barabyasheje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwira"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "amabwira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baalu"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "maze barayakororeye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:10:54.685438502Z",
+  "model": "glm-5.3"
+}

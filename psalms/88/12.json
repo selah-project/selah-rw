@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Ese hesedi yawe hazobazwa mu gva, ubudahemuka bwawe mu Abadonu?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "hazobazwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "mu gva"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ubudahemuka bwawe"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "mu Abadonu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:51.916580068Z",
+  "model": "glm-5.3"
+}

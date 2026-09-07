@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Maze bazamutse na we n'ibigoli n'abahungi b'amabahasha, maze igitero cyahise kiba gikomeye cyane.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bazamutse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ibigoli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "abahungi b'amabahasha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze cyahise kiba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "igitero"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "gikomeye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T08:32:18.453902937Z",
+  "model": "glm-5.3"
+}

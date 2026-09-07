@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "N'umugore wo yegereje ku itungo ico ari cyo cyose kuryamana ⟨את⟩ nacyo, urimbure ⟨את⟩ umugore na ⟨את⟩ itungo; urupfu bazapfa burundu; amaraso yabo ari ku bo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "N'umugore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yegereje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ico ari cyo cyose"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "itungo"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "kuryamana nacyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "urimbure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "itungo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "itungo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bazapfa burundu"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "amaraso yabo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ku bo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:36.261559737Z",
+  "model": "glm-5.3"
+}

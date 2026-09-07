@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Nimusingize Yah, ko ari byiza kuririmba Elohimu wacu; ko ni by'ineza, ko isingizo ⟨ni⟩ by'agaciro.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ari byiza"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kuririmba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ni by'ineza"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "by'agaciro"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "isingizo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:41.348244005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ubu rero, Yahwe Elohimu wanjye, wowe washyize ku butegetsi ⟨את⟩ umugaragu wawe mu mwanya wa Dawidi se wanjye; ariko njye nd'umwana muto, sinzi ukuva no kwinjira.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ubu rero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "washyize ku butegetsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ariko njye"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "muto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ukuva"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "no kwinjira"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:31.014301106Z",
+  "model": "glm-5.3"
+}

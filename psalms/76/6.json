@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Abanyangufu b'umutima barahebwa, baratetestse ibitulse byabo; kandi abagabo b'ingufu bose ntibashoboye kubona ibiganza byabo.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "barahebwa"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "abanyangufu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "b'umutima"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "baratetestse"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ibitulse byabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibashoboye"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingufu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ibiganza byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:13.797389842Z",
+  "model": "glm-5.3"
+}

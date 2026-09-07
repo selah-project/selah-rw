@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze kohenu arategeka, areze ⟨את⟩ inyoni imwe m'igikoresho cy'itake, ku mazi mazima.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "arategeka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "areze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyoni imwe"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muri"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "igikoresho"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cy'itake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mazima"
+    }
+  ],
+  "timestamp": "2026-09-07T09:40:36.675923879Z",
+  "model": "glm-5.3"
+}

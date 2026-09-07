@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ururimi rwanjye ruzokwishimira ijambo ryawe, kuko amategeko yawe yose ⟨ni⟩ ubutabera.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ruzokwishimira"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ururimi rwanjye"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:57.124247431Z",
+  "model": "glm-5.3"
+}

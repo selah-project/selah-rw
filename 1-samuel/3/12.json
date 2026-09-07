@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ku wa uwo munsi, nzazamura ⟨ku⟩ Eli ⟨את⟩ byose nnavuze ku muryango wiwe — gutangira no kurangiza.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku wa... munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nzazamura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nnavuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "muryango wiwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "gutangira"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "no kurangiza"
+    }
+  ],
+  "timestamp": "2026-09-07T12:23:33.883748275Z",
+  "model": "glm-5.3"
+}

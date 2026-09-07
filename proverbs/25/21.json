@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Iyo we wakwanga wawe azitaba, muheshe umugati; kandi iyo anyuze, munweshe amazi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "azitaba"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "wakwanga wawe"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "muheshe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "anyuze"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "munweshe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:42.011002016Z",
+  "model": "glm-5.3"
+}

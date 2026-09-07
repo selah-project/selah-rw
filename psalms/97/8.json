@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Tsiyoni yumvise ikishima, nk'uko inkumi za Yehuda zishimye kubera imanzi zawe, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "yishimye"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ikishima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "zishimye"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "za Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imanzi zawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:30.012022717Z",
+  "model": "glm-5.3"
+}

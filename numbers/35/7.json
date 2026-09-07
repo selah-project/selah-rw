@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Imijyi yose muzaha Abalevi ni imijyi mirongo ine n'umunani — ⟨את⟩ yose na ⟨את⟩ utuzo zayo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Imijyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(muzaha)"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muzaha"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "n'umunani"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "imijyi yose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "utuzo zayo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "utuzo zayo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:42:08.574986130Z",
+  "model": "glm-5.3"
+}

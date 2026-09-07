@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe yabonye ko azengurutse kureba, maze Elohimu aramuhamagara mu rwagati rw'uruhara, aravuga ati: Moshe, Moshe. We aravuga ati: Ndahari.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "סר",
+      "gloss": "azengurutse"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maze … aramuhamagara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "(-mu-)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu rwagati rwa"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndahari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:20.018144154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Nta umwami yakizwa mu ngabo nyinshi; umunyamaboko ntiyanikizwa mu ngufu nyinshi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yakizwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu nyinshi (bwa)"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "umunyamaboko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "yanikizwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu nyinshi (bwa)"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:46.796003759Z",
+  "model": "glm-5.3"
+}

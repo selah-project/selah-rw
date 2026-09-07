@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yazutse kugobere kandi, Boazu yarategetse ⟨את⟩ abahungu be ati: No mu mibuha igobere, kandi ntimumunanire.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Yazutse"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "kugobere kandi"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "yarategetse"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "No"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "mibuha"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "igobere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "mumunanire"
+    }
+  ],
+  "timestamp": "2026-09-07T19:46:01.034545038Z",
+  "model": "glm-5.3"
+}

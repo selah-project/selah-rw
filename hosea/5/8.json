@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Murute shofaru i Givaya, itorwa i Rama; mukangire i Beti-Aveni — inyuma yawe, Beniyamini!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "murute"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofaru"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "i Givaya"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "itorwa"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mukangire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "inyuma yawe"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniyamini"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:24.449069713Z",
+  "model": "glm-5.3"
+}

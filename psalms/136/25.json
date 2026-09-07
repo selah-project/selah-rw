@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Uhatanga imfungurwa ku binyabuzima byose, ko hesedi ye n'iteka.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "uhatanga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imfungurwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku binyabuzima byose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ibinyabuzima byose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "n'iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:32.460327675Z",
+  "model": "glm-5.3"
+}

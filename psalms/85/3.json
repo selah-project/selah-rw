@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Wafasheho umbyaha bw'ubwoko bwawe; wahise ibyaha byabo byose. Selahi.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Wafasheho"
+    },
+    {
+      "surface": "עון",
+      "gloss": "umbyaha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ubwoko bwawe"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "wahise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ibyaha byabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:26.593330566Z",
+  "model": "glm-5.3"
+}

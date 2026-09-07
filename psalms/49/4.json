@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ikanjyanjya ryanjye rizavuga ubwenge, n'ibyiyumviro by'umutima wanjye ⟨ni⟩ ubumenyi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ikanjyanjya ryanjye"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "rizavuga"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "n'ibyiyumviro"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "by'umutima wanjye"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:00.737343898Z",
+  "model": "glm-5.3"
+}

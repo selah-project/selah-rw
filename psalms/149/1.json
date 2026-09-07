@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Musingize Yah; muririmbira Yahwe indirimbo nshya; ikuzi rye rukize mu ruhame rw'abahesedi ⟨kandi bakore ikuzi rye⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "muririmbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nshya"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ikuzi rye"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu ruhame"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "abahesedi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:58.662259361Z",
+  "model": "glm-5.3"
+}

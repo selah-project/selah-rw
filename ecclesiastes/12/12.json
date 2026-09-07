@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi kuraho ibyo, mwana wanjye, wirinda: kubwandika ibitabo byinshi nta iherezo rihari, kandi gusoma cyane ni umunaniro w'umubiri.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Kandi (byongeyeho)"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "kuraho ibyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanjye"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "wirinda"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kubwandika"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ibitabo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "iherezo rihari"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "kandi gusoma cyane (kuvugavuga)"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ni umunaniro"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "w'umubiri"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:10.828687015Z",
+  "model": "glm-5.3"
+}

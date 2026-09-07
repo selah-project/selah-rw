@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "exodus 10:24",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Paro yahamagaye ku Moshe, maze aramubwira ati: Mugende, mukorere ⟨את⟩ Yahwe — gusa intama zanyu n'inka zanyu zigasigara; na b'ana banyu bato bajyane namwe.",
+ "tokens": [
+  {
+   "surface": "ויקרא",
+   "gloss": "yahamagaye"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paro"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "aramubwira"
+  },
+  {
+   "surface": "לכו",
+   "gloss": "Mugende"
+  },
+  {
+   "surface": "עבדו",
+   "gloss": "mukorere"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwe"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "רק",
+   "gloss": "gusa"
+  },
+  {
+   "surface": "צאנכם",
+   "gloss": "intama zanyu"
+  },
+  {
+   "surface": "ובקרכם",
+   "gloss": "n'inka zanyu"
+  },
+  {
+   "surface": "יצג",
+   "gloss": "zigasigara"
+  },
+  {
+   "surface": "גם",
+   "gloss": "na"
+  },
+  {
+   "surface": "טפכם",
+   "gloss": "b'ana banyu bato"
+  },
+  {
+   "surface": "ילך",
+   "gloss": "bajyane"
+  },
+  {
+   "surface": "עמכם",
+   "gloss": "namwe"
+  }
+ ],
+ "timestamp": "2026-09-07T08:42:46.016896254Z",
+ "model": "glm-5.3"
+}

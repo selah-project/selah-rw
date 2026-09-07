@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Kuko umwanzi yakurikiye Nefeshi yanjye; yaniniye ku isi ubuzima bwanjye; yanshyize mu mwijima, nka bapfuye b'ihahe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "yakurikiye"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "yaniniye"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "yanshyize"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "nka bapfuye"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "b'ihahe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:46.320592752Z",
+  "model": "glm-5.3"
+}

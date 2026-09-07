@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Umurimo wo kuzamuka. Mu byondo nakuguje, Yahwe!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Umurimo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wo kuzamuka"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Mu byondo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nakuguje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:40.757428485Z",
+  "model": "glm-5.3"
+}

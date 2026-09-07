@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Divayi n'ibinure ntimunywe — wowe n'abahungu bawe hamwe ⟨את⟩ — mu kwinjira kwanyu mu ihema ryo guhurira, kandi mudapfa: itegeko ry'iteka ku bisekuruza byanyu.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "Divayi"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "n'ibinure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "munywe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "n'abahungu bawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nawe"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "mu kwinjira kwanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ryo guhurira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "mupfe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ry'iteka"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ku bisekuruza byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:35.399508839Z",
+  "model": "glm-5.3"
+}

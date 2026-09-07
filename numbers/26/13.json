@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "kwa Zerahi, umuryango w'Abazerahi; kwa Shauli, umuryango w'Abashauli.",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "kwa Zerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "w'Abazerahi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shauli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "w'Abashauli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:20:53.584609599Z",
+  "model": "glm-5.3"
+}

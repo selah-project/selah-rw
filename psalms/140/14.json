@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Rwose intungane bazushima izina ryawe; abahanganye bazatura ⟨את⟩ imbere y'uburundu bwawe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "intungane"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bazushima"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bazatura"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abahanganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere y'uburundu bwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburundu bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:50.179848457Z",
+  "model": "glm-5.3"
+}

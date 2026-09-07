@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Ururimi rwabo barashesheje nk'inzoka; urwoba rw'inzoka y'injishi ruri munsi y'ibyumvire byabo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "barashesheje"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "Ururimi rwabo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nk'"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "urwoba"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "rw'inzoka y'injishi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ibyumvire byabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:41.807745722Z",
+  "model": "glm-5.3"
+}

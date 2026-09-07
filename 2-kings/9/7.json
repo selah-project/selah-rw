@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Uzahica ⟨את⟩ inzu ya Ahabu shebuja wawe, maze nzahemba amaraso y'abagaragu banjye abahanuzi n'amaraso y'abagaragu bose ba Yahwe mu ntoki za Izebeli.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "uzahica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Ahabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "shebuja wawe"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "maze nzahemba"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "y'abagaragu banjye"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "n'amaraso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "y'abagaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "za Izebeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:12:27.385107262Z",
+  "model": "glm-5.3"
+}

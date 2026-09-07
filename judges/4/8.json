@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Baraka (Baraka) aravuze kuri we ati: Niba utembera nanye, nanjye nzatembera; ariko utatembera nanye, nanjye ntitembera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "utembera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "nzatembera"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ariko niba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "utatembera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzatembera"
+    }
+  ],
+  "timestamp": "2026-09-07T11:54:30.081413731Z",
+  "model": "glm-5.3"
+}

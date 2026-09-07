@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Esawu araruka kumusanga, aramufatira mu maboko, aragwa ku ijosi rye, aramucyoza, barabira.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "araruka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kumusanga"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "aramufatira mu maboko"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "aragwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ijosi rye"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "aramucyoza"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "barabira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:08:19.665544328Z",
+  "model": "glm-5.3"
+}

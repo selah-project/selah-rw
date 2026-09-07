@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Umutungo ntudakorera ku munsi w'uburakari, ariko ubutabara burabarinda urupfu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "dakorera"
+    },
+    {
+      "surface": "הון",
+      "gloss": "umutungo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "w'uburakari"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ariko ubutabara"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "burabarinda"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "urupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:04.335027120Z",
+  "model": "glm-5.3"
+}

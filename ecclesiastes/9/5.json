@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Dore ko abazima bazi ko bazapfa, ariko abapfuye ntibazi na kimwe, kandi ntibagira undi musoro, dore ko umwibutsi wabo wibagiwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dore ko"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "abazima"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "ko bazapfa"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "abapfuye"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "undi"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "שכר",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dore ko"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "wibagiwe"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "umwibutsi wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:10.096696182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Uko byakurwaho ku mpara y'inkumi ya korubani ya Shelamimu; umukohenu azabyaka ku igicaniro cya korubani y'umuriro.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "byakurwaho"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ku mpara y'inkumi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ya korubani"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya Shelamimu"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "azabyaka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umukohenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cya korubani y'umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:10.117584437Z",
+  "model": "glm-5.3"
+}

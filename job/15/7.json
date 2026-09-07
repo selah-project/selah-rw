@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ese ni wowe Adamu wa mbere wavutse? Cyangwa waremwe mbere y'imisozi?",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "wavutse"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "Cyangwa ... mbere ya"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "waremwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:27:59.749249435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Abakuguha bose bazanezuka bakanezwa muri wowe; bakavuge buri gihe ati: Yahwe yagwize ubukuru, abo bakunda umukiro wawe.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "bazanezuka"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bakanezwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "abakuguha wawe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakavuge"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "yagwize ubukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "abo bakunda"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "umukiro wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:17.692656906Z",
+  "model": "glm-5.3"
+}

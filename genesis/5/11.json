@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Byose hamwe iminsi y'ubuzima bwa Enoshi byari imyaka icumi n'inerani na mirongo itandatu na cyenda na atandatu mu ijana na cyenda n'ishanu — imyaka magana icyenda na gatanu — maze arapfa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "byari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose hamwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi y'ubuzima"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bwa Enoshi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "gatanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "icyenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amagana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maze arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:30:56.720702019Z",
+  "model": "glm-5.3"
+}

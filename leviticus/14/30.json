@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Azakora ⟨את⟩ imwe mu nturuki cyangwa mu bana b'inyunya, uko intoki ye igera ku.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imwe (mu nturuki cyangwa mu bana b'inyunya)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "nturuki"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana b'"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "inyunya"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "igera ku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:46.134990120Z",
+  "model": "glm-5.3"
+}

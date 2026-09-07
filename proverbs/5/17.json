@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ibyo byaba ibyawe wenyine, kandi abashyitsi batagira icyo babona ⟨את⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "byaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ibyawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "abashyitsi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "abashyitsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:28.691622954Z",
+  "model": "glm-5.3"
+}

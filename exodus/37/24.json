@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Mu nzani ⟨imwe⟩ ya zahabu yeza ni ko yakoreye ⟨את⟩ yo, na ⟨את⟩ ibikoresho byayo byose.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "umunzani"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yeza"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yo (urumuri\/Menora)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byayo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ibikoresho byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:38.511285842Z",
+  "model": "glm-5.3"
+}

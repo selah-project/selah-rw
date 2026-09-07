@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Uruhimbi rwa Dawidi. Ijambo rya Yahwe ku Adonayi wanjye: Yicara ku buryo bwanjye, kugeza mbashyize abanzi bawe urutebe ku birenge byawe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "rwa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Uruhimbi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ku Adonayi wanjye"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Yicara"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ku buryo bwanjye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mbashyize"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi bawe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "urutebe"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ku birenge byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:38.434302203Z",
+  "model": "glm-5.3"
+}

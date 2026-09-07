@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "1-kings 10:8",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Abahirwa abagabo bawe, abahirwa abagaragu bawe aba bahagara imbere yawe iteka, bumva ⟨את⟩ ubwenge bawe.",
+ "tokens": [
+  {
+   "surface": "אשרי",
+   "gloss": "Abahirwa"
+  },
+  {
+   "surface": "אנשיך",
+   "gloss": "abagabo bawe"
+  },
+  {
+   "surface": "אשרי",
+   "gloss": "abahirwa"
+  },
+  {
+   "surface": "עבדיך",
+   "gloss": "abagaragu bawe"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "aba"
+  },
+  {
+   "surface": "העמדים",
+   "gloss": "bahagara"
+  },
+  {
+   "surface": "לפניך",
+   "gloss": "imbere yawe"
+  },
+  {
+   "surface": "תמיד",
+   "gloss": "iteka"
+  },
+  {
+   "surface": "השמעים",
+   "gloss": "bumva"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ubwenge bawe"
+  },
+  {
+   "surface": "חכמתך",
+   "gloss": "ubwenge bawe"
+  }
+ ],
+ "timestamp": "2026-09-07T13:41:12.174139105Z",
+ "model": "glm-5.3"
+}

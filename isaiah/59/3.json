@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Kuko ibiganza byanyu byatumye umwanda mu maraso, n'iminwe yanyu mu icumu; emi byanyu yavuze ibinyoma, ururimi rwanyu rutangaza ubuhemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "ibiganza byanyu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "byatumye umwanda"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "n'iminwe yanyu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "mu icumu"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "emi byanyu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ururimi rwanyu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "rutangaza"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:17.005283580Z",
+  "model": "glm-5.3"
+}

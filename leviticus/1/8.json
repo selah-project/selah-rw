@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abana ba Aharoni, abakohenu, bazategura ⟨את⟩ ibice, ⟨את⟩ umutwe na ⟨את⟩ amavuta, ku nkuni ari ku muriro, ari k'igicaniro.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "bazategura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibice"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ibice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nkuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:25.071930540Z",
+  "model": "glm-5.3"
+}

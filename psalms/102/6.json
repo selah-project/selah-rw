@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Amagufa yanjye yafatanye n'inyama zanjye ku bw'ijwi ry'ubunyeganye bwanjye.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ku bw'ijwi"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ry'ubunyeganye bwanjye"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yafatanye"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amagufa yanjye"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "n'inyama zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:52.988472300Z",
+  "model": "glm-5.3"
+}

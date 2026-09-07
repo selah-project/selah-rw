@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ntukagurishe ifi y'imbogo n'indogobe hamwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntuka"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "gurishe"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ifi y'imbogo"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "n'indogobe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:03:50.213626851Z",
+  "model": "glm-5.3"
+}

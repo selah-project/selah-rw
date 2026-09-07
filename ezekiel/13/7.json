@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 13:7",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ese ntimwabonye icyerekezo cy'ubusa, ntimwavugaga ubuhanuzi bw'ibinyoma, mu gihe muvuga ati: «Uruvugo rwa Yahwe» — ariko njye ntaravuze?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ese nti"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "icyerekezo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "cy'ubusa"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "mwabonye"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "ubuhanuzi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bw'ibinyoma"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "muvuga"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uruvugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwa Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ravuze"
+    }
+  ],
+  "timestamp": "2026-09-07T16:49:39.355107225Z",
+  "model": "glm-5.3"
+}

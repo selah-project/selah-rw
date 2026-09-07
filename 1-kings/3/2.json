@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ariko abantu baricisha ibigirwamana ku ntebe ndende, kuko nta nzu yubatswe izina rya Yahwe kugeza mu minsi iyo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ariko gusa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "baricisha ibigirwamana"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ku ntebe ndende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "yubatswe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "izina rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iyo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:54.561989501Z",
+  "model": "glm-5.3"
+}

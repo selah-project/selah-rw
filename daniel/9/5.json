@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Twagabye ibyaha, twakoze ibibi, twakoze ibyaha bikaze, twigomeye, kandi twarahunze amategeko yawe n'imyanzuro zawe.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "twagabye ibyaha"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "twakoze ibibi"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "twakoze ibyaha bikaze"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "twigomeye"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "twarahunze"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "n'imyanzuro zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:10:26.592685317Z",
+  "model": "glm-5.3"
+}

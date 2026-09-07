@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Abantu bose barabonaga ⟨את⟩ amajwi, na ⟨את⟩ amabara y'umuriro, na ⟨את⟩ ijwi ry'ihembe, na ⟨את⟩ umusozi uturuga umutsi; abantu barabibonye, baratinya, barahagaze kure.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "barabonaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajwi"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "amajwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amabara y'umuriro"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "amabara y'umuriro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ijwi ry'ihembe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ry'ihembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umusozi uturuga umutsi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "uturuga umutsi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "barabonye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "baratinya"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "barahagaze"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kure"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:42.902775022Z",
+  "model": "glm-5.3"
+}

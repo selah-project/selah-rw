@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ imesa na ⟨את⟩ ibikoresho byabyo byose, na ⟨את⟩ urumuri na ⟨את⟩ ibikoresho byaryo, na ⟨את⟩ igitisho cy'ubushishwezi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byabyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byabyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urumuri"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byaryo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ibikoresho byaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitisho cy'ubushishwezi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igitisho"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "cy'ubushishwezi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:05.030133853Z",
+  "model": "glm-5.3"
+}

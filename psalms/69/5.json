@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Abankanga ubusa baruta iminwa y'umutwe wanjye; bari intonzi abansimbatsa, banzi banjye b'ububeshi — ibyo nta n'ubwo nakoze ubunswa, icyo gihe nzabidasubiza.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "bari benshi kurusha"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "iminwa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "y'umutwe wanjye"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abankanga"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "barakomeye"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "abansimbatsa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banzi banjye"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ububeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "nakoze ubunswa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nzabidasubiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:46.383575268Z",
+  "model": "glm-5.3"
+}

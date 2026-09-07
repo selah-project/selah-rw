@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Yahwe yabwiye Moshe (Mose) ati: Narabonye ⟨את⟩ abantu aba, maze ⟨ni⟩ abantu b'ijosi igume.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "narabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "igume"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ijosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:12:30.303045864Z",
+  "model": "glm-5.3"
+}

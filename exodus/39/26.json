@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 39:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Inzogera n'ipome, inzogera n'ipome, ku mpinga z'umwitero, iburyo bu bushobye, ngo basengere — uko Yahwe yategetse ⟨את⟩ Moshe (Mose).",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "inzogera"
+    },
+    {
+      "surface": "ורמן",
+      "gloss": "n'ipome"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "inzogera"
+    },
+    {
+      "surface": "ורמן",
+      "gloss": "n'ipome"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "mpinga"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "umwitero"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iburyo bu bushobye"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ngo basengere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:05.122154768Z",
+  "model": "glm-5.3"
+}

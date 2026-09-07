@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "job 13:10",
+ "book": "job",
+ "lang": "rw",
+ "chapter": 13,
+ "translation": "Azabatubura, azabatubura, ⟨את⟩ mwe, aramutse mu ibanga mwazamura amaso.",
+ "tokens": [
+  {
+   "surface": "הוכח",
+   "gloss": "azatubura"
+  },
+  {
+   "surface": "יוכיח",
+   "gloss": "azatubura"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe"
+  },
+  {
+   "surface": "אם",
+   "gloss": "aramutse"
+  },
+  {
+   "surface": "בסתר",
+   "gloss": "mu ibanga"
+  },
+  {
+   "surface": "פנים",
+   "gloss": "amaso"
+  },
+  {
+   "surface": "תשאון",
+   "gloss": "mwazamura"
+  }
+ ],
+ "timestamp": "2026-09-07T19:26:05.257520481Z",
+ "model": "glm-5.3"
+}

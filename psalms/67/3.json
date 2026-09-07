@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 67,
+  "translation": "Kugira ngo mu isi hazamenyekane inzira yawe, no mu mahanga yose uburoko bwawe.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Kugira ngo hazamenyekane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no mu ... yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "uburoko bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:01.693315914Z",
+  "model": "glm-5.3"
+}

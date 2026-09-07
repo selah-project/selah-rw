@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Barafashe ⟨את⟩ impanuka zose na ⟨את⟩ ibyafashwe byose — mu bantu no mu matungo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "barafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impanuka zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "impanuka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyafashwe byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ibyafashwe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "no mu matungo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:42.332523297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Uruzi, imigezi yaryo iremesha umugi wa Elohimu, ahantu utagatifu, Mishkani ya Elyoni (Imana ihanitse).",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Uruzi"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "imigezi yaryo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "iremesha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umugi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ahantu utagatifu"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni (Imana ihanitse)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:50.644677879Z",
+  "model": "glm-5.3"
+}

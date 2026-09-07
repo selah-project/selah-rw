@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yahwe yabwiye Yaakovu ati: Subira mu gihugu cy'ibyara byawe no mu bwoko bwawe, kandi nzaba kumwe nawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Subira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "cy'ibyara byawe"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "no mu bwoko bwawe"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kandi nzaba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:49.771684174Z",
+  "model": "glm-5.3"
+}

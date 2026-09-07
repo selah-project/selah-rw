@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nefeshi yanjye yahunye ku myanda; mpa ubuzima nk'ijambo ryawe.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yahunye"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ku myanda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mpa ubuzima"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "nk'ijambo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:52.142021735Z",
+  "model": "glm-5.3"
+}

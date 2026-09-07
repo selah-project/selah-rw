@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ubusa rwaravuye — isi igurwa ubusa; iminyago yaravuye — ivunagurwa; kuko Yahwe yavuze ⟨את⟩ iri jambo.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Ubusa rwaravuye"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "igurwa ubusa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "iminyago yaravuye"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ivunagurwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iri jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-07T15:02:01.768159586Z",
+  "model": "glm-5.3"
+}

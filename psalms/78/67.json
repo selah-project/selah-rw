@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yansabye ihema rya Yosefu, kandi umuryango w'Efrayimu ntiwahisemo.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Yansabye"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "rya Yosefu"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "w'Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wahisemo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:57.120520474Z",
+  "model": "glm-5.3"
+}

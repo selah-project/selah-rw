@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 82,
+ "ref": "psalms 119:82",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 119,
+ "translation": "Amaso yanjye yashize ku ijambo ryawe, ngira ngo: Ni iki gihe uragabanya agahinda yanjye?",
+ "tokens": [
+  {
+   "surface": "כלו",
+   "gloss": "yashize"
+  },
+  {
+   "surface": "עיני",
+   "gloss": "Amaso yanjye"
+  },
+  {
+   "surface": "לאמרתך",
+   "gloss": "ku ijambo ryawe"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "ngira ngo"
+  },
+  {
+   "surface": "מתי",
+   "gloss": "Ni iki gihe"
+  },
+  {
+   "surface": "תנחמני",
+   "gloss": "uragabanya agahinda yanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T21:58:21.942734085Z",
+ "model": "glm-5.3"
+}

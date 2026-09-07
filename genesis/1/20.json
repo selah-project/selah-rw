@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yaravuze ati: Amazi azare ibikururuka, nefeshi ihari; inyoni zifunge ku isi, ku maso y'ikirere cy'ijuru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "azare"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ibikururuka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ihari"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "zifunge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ku maso"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ikirere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:43.274526357Z",
+  "model": "glm-5.3"
+}

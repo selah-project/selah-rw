@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Iyo baratinye ⟨ubwoba⟩ ubwoba nk'urumuri, kuko Elohimu ari mu muryango w'abitunganye.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "baratinye"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "w'abitunganye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:18.858127859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Mu byose binanura urwanguda ikagabanyijwe kabiri mu miwanguda, kandi kidasogongera (gera) mu nyamaswa — iyo muzalya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "binanura"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "urwanguda"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ikagabanyijwe kabiri"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "umugabane"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "urwanguda"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "kidasogongera"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mu nyamaswa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo nyamaswa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzalya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:37.761574016Z",
+  "model": "glm-5.3"
+}

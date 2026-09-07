@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Kandi aba ni abahungu ba Oholibamahu (Oholibama), umukobwa w'Anahu (Ana), umukobwa wa Tsevioni (Sebeoni), umugore w'Esawu; maze avyara kuri Esawu ⟨את⟩ Yeyishi (Yeyishi), na ⟨את⟩ Yalamu (Yalamu), na ⟨את⟩ Korahi (Kora).",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kandi aba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsevioni"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "maze avyara"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kuri Esawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeyishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yalamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:14.582335158Z",
+  "model": "glm-5.3"
+}

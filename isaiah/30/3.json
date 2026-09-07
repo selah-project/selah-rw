@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umutekano wa Paro uzaba ubushyi bwiwe, maze ubuhungiro mu gicucu cya Mitsrayimu buzaba isingo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bwiwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "umutekano"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ubushyi"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "maze ubuhungiro"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mu gicucu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "isingo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:00.068109084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Niba icyuma cyaremye, na cyo imboneko yacyo itari yo imeze, umukoresha arakoresha imbaraga nyinshi; ariko inyungu yo gutunganya ni ubwenge.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "cyaremye"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na cyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "imboneko yacyo"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "yaremye cyangwa yanenzwe"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "kandi imbaraga nyinshi"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "arazikoresha"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "kandi inyungu"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "yo gutunganya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ni ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:12.482922003Z",
+  "model": "glm-5.3"
+}

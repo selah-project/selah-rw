@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Elohimu, mu gitagatifu ⟨ni⟩ inzira yawe; ni inde Eli nini nka Elohimu?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu gitagatifu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni inde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nini"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "nka Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:32.799818547Z",
+  "model": "glm-5.3"
+}

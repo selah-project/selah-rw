@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "kugira ngo mukirwe mwe: muzerekane gabo cyuzuye kitagira icyumweru, mu nka, mu intama, cyangwa mu ihene.",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "kugira ngo mukirwe mwe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cyuzuye"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gabo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu nka"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "mu intama"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "cyangwa mu ihene"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:38.643433780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 93,
+  "translation": "Imigezi yarabyuye, Yahwe; imigezi yarabyuye ijwi ryayo; imigezi izabyura amashuhi yayo.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "yarabyuye"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "yarabyuye"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ijwi ryayo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "izabyura"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "amashuhi yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:43.969117062Z",
+  "model": "glm-5.3"
+}

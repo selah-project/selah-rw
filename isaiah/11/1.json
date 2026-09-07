@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi inkoni izava mu gihumbi cya Yishayi, n'ishami rizamera mu mizi ye rizavamo imbuto.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "izava"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "inkoni"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "mu gihumbi cya"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "n'ishami"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "mu mizi ye"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "rizavamo imbuto"
+    }
+  ],
+  "timestamp": "2026-09-07T14:50:36.555290802Z",
+  "model": "glm-5.3"
+}

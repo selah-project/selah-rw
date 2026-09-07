@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Mu bihe bikomeye byabo, barasubiye kuri Yahwe, Elohimu wa Yisraeli, baramushakishaga, maze abonekeraga bo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "barasubiye"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "byabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "baramushakishaga"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "abonekeraga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:25.567966224Z",
+  "model": "glm-5.3"
+}

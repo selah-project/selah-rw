@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Nanjye nzagutura imyambi eshatu ku ruhande, nk'iyohereza njye ku kimenyetso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "eshatu"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "imyambi"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "nzagutura"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "nk'iyohereza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ku kimenyetso"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:58.191174350Z",
+  "model": "glm-5.3"
+}

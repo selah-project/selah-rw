@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mushimire Yahwe n'ikinora; n'inevela y'imiriya icumi muziririmbire kuri we.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mushimire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "n'ikinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "n'inevela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "y'imiriya icumi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muziririmbire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:08.438059456Z",
+  "model": "glm-5.3"
+}

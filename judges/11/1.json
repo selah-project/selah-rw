@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yiftahi wa Gileadi yari umuntu w'intwari ngufi, kandi yari umwana w'umugore w'indeshyi; maze Gileadi yabyaye ⟨את⟩ Yiftahi.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa Gileadi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "w'intwari"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ngufi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi yari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "w'umugore"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "w'indeshyi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:09:05.692195598Z",
+  "model": "glm-5.3"
+}

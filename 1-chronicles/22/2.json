@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Dawidi yategetse gukorera hamwe ⟨את⟩ abahaturanyi bari mu gihugu cya Yisraeli, maze yashyiriho abacandi bakanda amabuye yagenetswe yo kubaka inzu ya Elohimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "gukorera hamwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahaturanyi"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "abahaturanyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maze yashyiriho"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "abacandi b'amabuye"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "bakanda"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yagenetswe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yo kubaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:41:39.838043146Z",
+  "model": "glm-5.3"
+}

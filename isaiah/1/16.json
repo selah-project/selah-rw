@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Sukura, mumerere; kurikuraho ibibi mu bikorwa byanyu imbere y'amaso yanjye; hagarika gukora ibibi.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "sukura"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "mumerere"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "kurikuraho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "mu bikorwa byanyu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "hagarika"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "gukora ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:11.063071927Z",
+  "model": "glm-5.3"
+}

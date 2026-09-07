@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Iyi ni isi isigaye: uturere twose tw'Abapelishti, n'uturere tw'Abageshuri twose.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "isigaye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "twose"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "uturere"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "tw'Abapelishti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'...twose"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "tw'Abageshuri"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:47.793431496Z",
+  "model": "glm-5.3"
+}

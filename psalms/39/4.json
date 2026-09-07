@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Umutima wanjye wakijije mu nda yanjye; mu gihe ndi mu kwibwira, umuriro uratwikira; maze ndavuga n'ururimi rwanjye.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "wakijije"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mu nda yanjye"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "mu gihe ndi mu kwibwira"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "uratwikira"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndavuga"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "n'ururimi rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:42.508380014Z",
+  "model": "glm-5.3"
+}

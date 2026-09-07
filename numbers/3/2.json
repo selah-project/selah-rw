@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ibi ni amazina y'abahungu ba Aharoni: umwana w'ibanjirije Nadabu, na Abihuwu, Elazari, na Itamari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "umwana w'ibanjirije"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihuwu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamari"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:53.608248578Z",
+  "model": "glm-5.3"
+}

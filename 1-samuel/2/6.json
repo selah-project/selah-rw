@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe arapfusha kandi arazura; aramanura i Sheoli kandi arazamura.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "arapfusha"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "kandi arazura"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "aramanura"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "i Sheoli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kandi arazamura"
+    }
+  ],
+  "timestamp": "2026-09-07T12:17:54.151333296Z",
+  "model": "glm-5.3"
+}

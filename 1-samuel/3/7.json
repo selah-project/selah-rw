@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Shemuweli ntabwo yari azi ⟨את⟩ Yahwe, kandi ijambo rya Yahwe ritarigaragarira bwe.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bitali bimaze"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "kandi bitali"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "rigaragarira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:23:40.200392349Z",
+  "model": "glm-5.3"
+}

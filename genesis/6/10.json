@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Noachi yabyaye abahungu batatu: ⟨את⟩ Shemu, ⟨את⟩ Chamu, na ⟨את⟩ Yefeti.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeti"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:11.634760570Z",
+  "model": "glm-5.3"
+}

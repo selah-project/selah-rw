@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Avrahamu yafashe ⟨את⟩ ibiti by'igicaniro, maze ashyira ku Yitsaki (Isaka) umwana we; we ubwe yafashe mu ntoki ye ⟨את⟩ umuriro na ⟨את⟩ umupanga; uko barabiri bagendaga hamwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiti by'igicaniro"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "by'igicaniro"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuriro"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umupanga"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagendaga"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "uko barabiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:52:15.294457296Z",
+  "model": "glm-5.3"
+}

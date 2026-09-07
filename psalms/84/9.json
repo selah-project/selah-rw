@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Yahwe Elohimu Tsevaoti, umva ibyangomwa byanjye; tegura ugutwi, Elohimu wa Yaakovu. Selahi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "umva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ibyangomwa byanjye"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tegura ugutwi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:34.942669551Z",
+  "model": "glm-5.3"
+}

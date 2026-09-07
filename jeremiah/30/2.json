@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Uko Yahwe, Elohimu wa Yisraeli, yaravuze ngo: Andika wowe ⟨את⟩ amajambo yose yo nabivuze kuri wowe, mu igitabo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Andika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nabivuze"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:44:23.404781238Z",
+  "model": "glm-5.3"
+}

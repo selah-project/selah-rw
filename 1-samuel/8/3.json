@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Abana be ntibagenda mu nzira ze, ahubwo bashobowe n'inyungu, bakiriye uruswa, maze bakoze urwenzo mu manza.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "mu nzira ze"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "bashobowe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bakiriye"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "uruswa"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "bakoze urwenzo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mu manza"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:22.660195642Z",
+  "model": "glm-5.3"
+}

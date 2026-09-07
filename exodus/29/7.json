@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzafata ⟨את⟩ amavuta yo kwirukura, uzatema ku mutwe we, maze umwirukura ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yo kwirukura"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "uzatema"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "maze umwirukura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:38.630220118Z",
+  "model": "glm-5.3"
+}

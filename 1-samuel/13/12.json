@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "navuze none Abapulisiti bazamanira iwanjye i Giligali, kandi amaso ya Yahwe sinagejeje; maze niyemeje, natuye ikorubani ry'ibicanwa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bazamanira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abapulisiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "i Giligali"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kandi amaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "gejeje"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "maze niyemeje"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "natuye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ikorubani ry'ibicanwa"
+    }
+  ],
+  "timestamp": "2026-09-07T12:29:09.925509515Z",
+  "model": "glm-5.3"
+}

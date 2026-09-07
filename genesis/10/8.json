@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kushu nuko yabyaye ⟨את⟩ Nimrodi; we ni we wabereye mbere y'ibindi ukuntu yatangira kuba intwari mu gihugu.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushu nuko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "החל",
+      "gloss": "watangira"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "intwari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:43.785321962Z",
+  "model": "glm-5.3"
+}

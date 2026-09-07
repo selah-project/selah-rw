@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ubwere bwa mushiki wa so wawe ntuzagaragaze; ni umubiri wa so wawe ⟨ni⟩ we.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubwere"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mushiki"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "so wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zagaragaze"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "so wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:52.362932908Z",
+  "model": "glm-5.3"
+}

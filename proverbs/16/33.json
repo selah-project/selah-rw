@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Mu gituza ruraturwa ⟨את⟩ urugamba (agaciro k'icyiciro), ariko urubanza rwawo rwose nikako ruvuye kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "mu gituza"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ruraturwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugamba"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "urugamba"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "kandi ivyo bivuye kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "urubanza rwawo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:49.779630087Z",
+  "model": "glm-5.3"
+}

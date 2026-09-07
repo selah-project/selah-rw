@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Nimurire Yahwe, muhamagare izina rye, mumenyeshe uburokora bwe kuva ku munsi kugera ku munsi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nimurire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "muhamagare"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mumenyeshe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuva ku munsi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kugera ku munsi"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "uburokora bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:11.452391012Z",
+  "model": "glm-5.3"
+}

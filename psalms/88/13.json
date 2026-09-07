@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Ese ibitangaza byawe bizamenyekana mu yijima? Kandi ubutunganye bwawe mu gihugu cy'ubwibagiwe?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "bizamenyekana"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mu yijima"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ibitangaza byawe"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "kandi ubutunganye bwawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "cy'ubwibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:50.083947590Z",
+  "model": "glm-5.3"
+}

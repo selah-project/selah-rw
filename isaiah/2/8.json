@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Igihe igihugu cyabo cyuzuye ibigirwamana; bikubambuga iby'ibiganza byabo, ibyo iminwe yabo yakoreye.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "cyuzuye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cyabo"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "iby'"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ibiganza byabo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bikubambuga"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "iminwe yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:16.118590598Z",
+  "model": "glm-5.3"
+}

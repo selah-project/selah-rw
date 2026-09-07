@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe yabwiye Moshe (Mose) n'Aharoni, ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T09:59:02.280284862Z",
+  "model": "glm-5.3"
+}

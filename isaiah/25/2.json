@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kuko washyize umujyi uhinduka umunyorombo, umujyi ukomeye uhinduka kwangirika; urwibatsi rw'abanyamahanga ruri mu mujyi — iteka ryose ntiruzubakwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "umunyorombo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "umujyi ukomeye"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ukomeye"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "kwangirika"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "urwibatsi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "rw'abanyamahanga"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ruzubakwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:10.721478953Z",
+  "model": "glm-5.3"
+}

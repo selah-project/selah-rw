@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "numbers 16:32",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 16,
+ "translation": "Maze isi yafunguye ⟨את⟩ kanwa yayo, irabira ⟨את⟩ bo, n'⟨את⟩ amazu yabo, n'⟨את⟩ abantu bose bari kwa Korahi, n'⟨את⟩ umutungo wabo wose.",
+ "tokens": [
+  {
+   "surface": "ותפתח",
+   "gloss": "yafunguye"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kanwa yayo"
+  },
+  {
+   "surface": "פיה",
+   "gloss": "kanwa yayo"
+  },
+  {
+   "surface": "ותבלע",
+   "gloss": "irabira"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "bo (abantu bwa Korahi n'ab'umuryango wabo)"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "amazu yabo"
+  },
+  {
+   "surface": "בתיהם",
+   "gloss": "amazu yabo"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "abantu bose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "bara"
+  },
+  {
+   "surface": "לקרח",
+   "gloss": "kwa Korahi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "umutungo wose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "wose"
+  },
+  {
+   "surface": "הרכוש",
+   "gloss": "umutungo"
+  }
+ ],
+ "timestamp": "2026-09-07T21:20:52.021247183Z",
+ "model": "glm-5.3"
+}

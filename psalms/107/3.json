@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Maze abakusanyije mu bihugu, uva mu burasirazuba no mu burengerazuba, uva mu majyaruguru no mu nyanja.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "mu bihugu"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "abakusanyije"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uva mu burasirazuba"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "no mu burengerazuba"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "uva mu majyaruguru"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "no mu nyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:32.640606511Z",
+  "model": "glm-5.3"
+}

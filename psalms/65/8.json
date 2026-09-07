@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Acisha amahoro urusaku rw'ibiyaga, urusaku rwa nduru zabyo, n'urusaku rw'amahanga.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Acisha amahoro"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "urusaku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rw'ibiyaga"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "urusaku"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "rwa nduru zabyo"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "n'urusaku"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "rw'amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:57.417327772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umwana wanjye, kurikiza amategeko ya so, woleka utasye Tora ya nyina.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "kurikiza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya so"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "woleka"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "utasye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya nyina"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:53.978378357Z",
+  "model": "glm-5.3"
+}

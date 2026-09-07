@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mumve ⟨את⟩ ijambo iri jyewe nditura ku mwe — ilamenti, urwanda rw'i Yisraeli (Yisraeli).",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nditura"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ilamenti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urwanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T17:43:06.306714652Z",
+  "model": "glm-5.3"
+}

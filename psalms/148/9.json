@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Imisozi n'udusozi twose, ibiti by'imbuto n'iminyena yose,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … yose"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "udusozi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "by'imbuto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … yose"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "iminyena"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:41.754094096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Hagize aho umwami yumvise ⟨את⟩ amagambo ya uwo mugore, yacitse ⟨את⟩ imyambaro ye, ariko we yanyuraga ku rukuta; abantu babibonye, maze ho isakoshi ku rubare rwe, mu nda ⟨imbere y'imyambaro ye⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hagize aho"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "igihe yumvise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ya uwo mugore"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ariko we"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yanyuraga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "urukuta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "babibonye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze ho"
+    },
+    {
+      "surface": "השק",
+      "gloss": "isakoshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "rubare rwe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nda"
+    }
+  ],
+  "timestamp": "2026-09-07T14:12:43.160712925Z",
+  "model": "glm-5.3"
+}

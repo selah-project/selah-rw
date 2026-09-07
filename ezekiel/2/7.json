@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Uzakuvugira ⟨את⟩ amajwi yanjye abo — iyo bakumva, cyangwa iyo bihagihye — kuko abagomeye ari bo.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "uzakuvugira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajwi yanjye"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajwi yanjye"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bakumva"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa iyo"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "bihagihye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "abagomeye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ari bo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:41:18.548342998Z",
+  "model": "glm-5.3"
+}

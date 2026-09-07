@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Bat-Sheva yubama, yasigiye umwami aguse; maze umwami arabaza ati: Ni iki ugomba?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "yubama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "yasigiye aguse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arabaza ati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugomba"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:56.022623502Z",
+  "model": "glm-5.3"
+}

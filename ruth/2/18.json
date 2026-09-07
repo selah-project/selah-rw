@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nuko wayitwaye, yinjira mu mujyi, maze nyirabukwe we abona ⟨את⟩ ibyo yarobanuye; nuko yasohora, aha we ⟨את⟩ ibyo yasiganye nyuma y'uko yari yariyumbye.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Nuko wayitwaye"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "maze abona"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "nyirabukwe we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo yarobanuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "yarobanuye"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "nuko yasohora"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo yasiganye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "yasiganye"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "nyuma y'uko yari yariyumbye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:46:24.447672914Z",
+  "model": "glm-5.3"
+}

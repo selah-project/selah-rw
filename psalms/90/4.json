@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Kuko imyaka igihumbu mu maso yawe ni nk'uwo munsi w'ejo igihe cyarenze, nko mu murindi w'ijoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igihumbu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nk'uwo munsi"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "w'ejo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "cyarenze"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "n'umurindi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "w'ijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:16.731648820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Na ⟨את⟩ abana be ntampuhwe nzigira, kuko abana b'ubusambanyi ni bo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana be"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ntampuhwe nzigira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ubusambanyi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:42.732448073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yakoze ⟨את⟩ igicaniro cy'ibitambo, mu bati bya akasya; amafuti atanu uburebure bwayo, no amafuti atanu ugari bwayo — iri kare — no amafuti atatu ubuhinga bwayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'ibitambo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mu bati"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bya akasya"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amafuti"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "no amafuti atanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amafuti"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ugari bwayo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "iri kare"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "no amafuti atatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amafuti"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ubuhinga bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:08.425279928Z",
+  "model": "glm-5.3"
+}

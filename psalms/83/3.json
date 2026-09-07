@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Ahubwo, raba: abansi bawe baravugitaza, abatakunda bawe bakuzuye umutwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "raba"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "abansi bawe"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "baravugitaza"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "abatakunda bawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bakuzuye"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.963945379Z",
+  "model": "glm-5.3"
+}

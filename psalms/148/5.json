@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Bahimbe ⟨את⟩ izina rya Yahwe, kuko we yategetse maze bikaremwa.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "bahimbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rya Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "maze bikaremwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:51.696428921Z",
+  "model": "glm-5.3"
+}

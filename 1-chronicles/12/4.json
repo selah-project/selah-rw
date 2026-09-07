@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Na Yishmayah umunyagibeyona, umugabo w'ingufu mu mirongo itatu, kandi uhagarariye abo mu mirongo itatu.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "Yishmayah"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "umunyagibeyona"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "umugabo w'ingufu"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "mu mirongo itatu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kandi uhagarariye abo"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "mu mirongo itatu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:28.563247228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ibi ni amazina y'abahungu ba Esavu: Elifazi, umwana wa Ada, umugore wa Esavu; Reueli, umwana wa Bashemati, umugore wa Esavu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abahungu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemati"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:49.958126723Z",
+  "model": "glm-5.3"
+}

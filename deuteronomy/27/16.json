@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yavumewe ukoresha akamukeya se na nyina; abantu bose bazavuga bati: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Yavumewe"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ukoresha akamukeya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na nyina"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bazavuga bati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-07T21:24:48.420290197Z",
+  "model": "glm-5.3"
+}

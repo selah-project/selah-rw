@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze agakubo k'Elohimu kafatwa, maze abahungu babiri ba Eli bapfa, Hofini na Finehasi.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "agakubo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "k'Elohimu"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "kafatwa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bapfa"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofini"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "na Finehasi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:23:42.745735699Z",
+  "model": "glm-5.3"
+}

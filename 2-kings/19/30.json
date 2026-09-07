@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Izongera kandi abahungiye b'inzu ya Yehuda, ibisigaye, izahitimiza umuzi hasi, izakora imbuto hejuru.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "izongera"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "abahungiye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "izakora"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T14:32:00.609563123Z",
+  "model": "glm-5.3"
+}

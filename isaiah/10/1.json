@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yabe, abategekanya amategeko y'ubuhemu, n'abandika agahinda barandika;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yabe"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "abategekanya"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "און",
+      "gloss": "y'ubuhemu"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "n'abandika"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "agahinda"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "barandika"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:56.541119330Z",
+  "model": "glm-5.3"
+}

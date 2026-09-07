@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Nta mana zizaba ziri kuri wowe, izindi, imbere yanjye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zizaba ziri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:21.668420151Z",
+  "model": "glm-5.3"
+}

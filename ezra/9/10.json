@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "None ubu, Elohimu wacu, tuvuge iki nyuma y'ibi, ko twashyize ku ruhande amategeko yawe?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "tuvuge"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "twashyize ku ruhande"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:05:44.537299041Z",
+  "model": "glm-5.3"
+}

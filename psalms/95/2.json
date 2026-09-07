@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Turegerere amaso ye mu gushimira, mu ndirimbo turahirira kuri we.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Turegerere"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mu gushimira"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "mu ndirimbo"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "turahirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:25.352569010Z",
+  "model": "glm-5.3"
+}

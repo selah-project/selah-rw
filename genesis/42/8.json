@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yosefu we yamenye ⟨את⟩ abavandimwe be, ariko bo ntibamumenye.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "yamenye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abavandimwe be"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "bamumenye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:20:48.579923518Z",
+  "model": "glm-5.3"
+}

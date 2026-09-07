@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi iki kibazo ⟨את⟩ ukore: Kuraho abami, buri wese ku mwanya we, maze ushyire abatware mu mwanya wabo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki kibazo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kibazo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "Kuraho"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buryi wese"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "ku mwanya we"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ushyire"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "mu mwanya wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:58:41.245556750Z",
+  "model": "glm-5.3"
+}

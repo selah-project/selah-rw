@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mitsrayimu (Egiputa) yabyaye ⟨את⟩ Ludimu na ⟨את⟩ Anamimu na ⟨את⟩ Lehavimu na ⟨את⟩ Naftuchimu.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludimu"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Ludimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Anamimu"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lehavimu"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Naftuchimu"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuchimu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:53.250580901Z",
+  "model": "glm-5.3"
+}

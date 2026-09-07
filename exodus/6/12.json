@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Moshe avuga imbere ya Yahwe ati: Dore abana b'a Yisraeli batarumvye ijambo ryanjye; none Paro azanyumva gute, njye ndi ufite iminwa idakorerwa?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Maze avuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "batumvye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ijambo ryanjye"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "none ... gute"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "azanyumva"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "idakorerwa"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "iminwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:55.746655630Z",
+  "model": "glm-5.3"
+}

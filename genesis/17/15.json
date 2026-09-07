@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Elohimu yaravuze ati kuri Avrahamu (Aburahamu) ati: Sarayi, umugore wawe — ntuzahamagare ⟨את⟩ izina rye Sarayi, kuko izina rye ⟨ni⟩ Sara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umugore wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zahamagare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:36.402072763Z",
+  "model": "glm-5.3"
+}

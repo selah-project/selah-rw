@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Arangiza kwinjira mu ←Icyumba cyo guhuriramo⟩ n'urwibazo, maze aza n'⟨את⟩ ↔inyigisho ye≫ iva aho.",
+  "tokens": [
+    {
+      "surface": "וְכִלָּה",
+      "gloss": "Arangiza"
+    },
+    {
+      "surface": "מִכַּפֵּר",
+      "gloss": "kwinjira"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ ↔inyigisho ye≫",
+      "marks": "←Icyumba cyo guhuriramo⟩"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "←Icyumba cyo guhuriramo⟩"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ na ↔inyigisho ye≫",
+      "marks": "urwibazo"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "urwibazo"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "cyo guhuriramo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩ na ↔inyigisho ye≫",
+      "marks": "icarimba"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "icarimba"
+    },
+    {
+      "surface": "וְהִקְרִיב",
+      "gloss": "maze aza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ ↔inyigisho ye≫",
+      "marks": "↔inyigisho nini≫"
+    },
+    {
+      "surface": "הַשָּׂעִיר",
+      "gloss": "↔inyigisho nini≫"
+    },
+    {
+      "surface": "הֶחָי",
+      "gloss": "ezima"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:04.208475367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze abahungu icumu b'urwego rwa Yowabu barazingirira, barakubita ⟨את⟩ Avshalomu bamwica.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Maze barazingirira"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "icum"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "b'urwego"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "rwa Yowabu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "barakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "bamwica"
+    }
+  ],
+  "timestamp": "2026-09-07T13:19:12.336514506Z",
+  "model": "glm-5.3"
+}

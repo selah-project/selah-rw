@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Wowe urazi kwicara kwanjye n'ukubyuka kwanjye; wumva neza ibitekerezo byanjye kure.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "urazi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kwicara kwanjye"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "n'ukubyuka kwanjye"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "wumva neza"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ibitekerezo byanjye"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:47.245337475Z",
+  "model": "glm-5.3"
+}

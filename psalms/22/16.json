@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Imbaraga zanjye yameze nk'agace k'ibumba, ururimi rwanje ruranze k'akanwa kanjye, Yanshyize mu byondo ry'urupfu.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "yameze"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "nk'agace k'ibumba"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ururimi rwanjye"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "ruranze k'akanwa kanjye"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "mu byondo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ry'urupfu"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "yanshyize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:04.633964574Z",
+  "model": "glm-5.3"
+}

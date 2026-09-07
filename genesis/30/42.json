@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Mu gihe intama zari enyegeye, ntiyashyiraga ivyo miti; maze ibyenegeye bikaba ibya Lavana, ibikomeye bikaba ibya Yaakovu.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "mu gihe zari enyegeye"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "yashyiraga ivyo miti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze bikaba"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ibyenegeye"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ibya Lavana"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ibikomeye"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ibya Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:04:53.274243454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Barabwira Moshe bati: Wowe tuvugishiriza ture turi kumva, kandi Elohimu ntikatuvugishirize, tutazapfa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "barabwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bati (ku)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tuvugishirize"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ture turi kumva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ntika"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "katuvugishirize"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bititirinde"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "tutazapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:42.902951315Z",
+  "model": "glm-5.3"
+}

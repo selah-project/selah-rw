@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi nzatura mu gati cy'abana ba Yisraeli, kandi ntazareka ⟨את⟩ abantu banjye Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "nzatura"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu gati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "zareka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:36:02.666838639Z",
+  "model": "glm-5.3"
+}

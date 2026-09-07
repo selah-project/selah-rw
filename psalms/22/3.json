@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Elohimu wanjye, mu manywa ndahamagara ariko ntititaba; n'ijoro, ariko nta mahoro mfite.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndahamagara"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mu anywa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "titaba"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "mahoro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mfite"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.709749993Z",
+  "model": "glm-5.3"
+}

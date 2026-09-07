@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ijambo riri ribaye icyaha, maze abantu baganjye imbere y'ikimwe, kugeza i Dani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ribaye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "riri"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baganjye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ikimwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:27.870444966Z",
+  "model": "glm-5.3"
+}

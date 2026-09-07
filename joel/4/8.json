@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kandi nzagurisha ⟨את⟩ abahungwa banyu na ⟨את⟩ abakobwa banyu mu bigarani by'abahungwa ba Yehuda, maze bagurishije abo Abashaba, mu gihugu kiri kure; kuko Yahwe yaravuze.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Kandi nzagurisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungwa banyu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "abahungwa banyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakobwa banyu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "abakobwa banyu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu bigarani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "maze bagurishije abo"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "Abashaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "kiri kure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:51:28.120811252Z",
+  "model": "glm-5.3"
+}

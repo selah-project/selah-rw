@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Na ⟨את⟩ zahabu ku bw'umunaniro ku imbeho z'imikate yo gushyirwaho ⟨za za mashiki⟩, ku buri gitebo n'igitebo; n'ifeza ku imbeho z'ifeza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "umunaniro"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ku imbeho"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "z'imikate yo gushyirwaho (za za mashiki)"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "ku buri gitebo"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "n'igitebo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "n'ifeza"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ku imbeho"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "z'ifeza"
+    }
+  ],
+  "timestamp": "2026-09-07T20:44:45.865926034Z",
+  "model": "glm-5.3"
+}

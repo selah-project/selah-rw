@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze ubwire umwana wawe ku munsi uwo uti: Ni ku bw'ibyo Yahwe yakoreye njye iyo nava muri Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "maze ubwire"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ku bw'ibyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "iyo nava"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muri Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:49.546020861Z",
+  "model": "glm-5.3"
+}

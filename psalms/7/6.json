@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Uwanzi arondere Nefeshi yanjye, arayimare kandi ayigwire hasi mu isi, maze ubwiza bwanjye abusyire mu byondo. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "arondere"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "uwanzi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "arayimare"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ayigwire hasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ubwiza bwanjye"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "mu byondo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "abusyire"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:17.479310124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Injira, uvuge kuri Paro, umwami wa Mitsrayimu, ngo ⟨את⟩ abana b'a Yisraeli arahohereze mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Injira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uvuge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "arahohereze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana b'a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:55.746220343Z",
+  "model": "glm-5.3"
+}

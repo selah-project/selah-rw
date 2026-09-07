@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Arabyara umuhungu, maze ahita ayita ⟨את⟩ izina rye Gereshomu, kuko yavuze ati: Umunyamahanga nari nzi mu gihugu cy'amahanga.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "arabyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maze ahita ayita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze ati"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umunyamahanga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari nzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "cy'amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:28.596939602Z",
+  "model": "glm-5.3"
+}

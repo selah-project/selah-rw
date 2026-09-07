@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Baraguhamagara bararokotse; muri wowe bizeye, nti bashyushwe.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "i wowe"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "baraguhamagara"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "bararokotse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bizeye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "bashyushwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:19.270646067Z",
+  "model": "glm-5.3"
+}

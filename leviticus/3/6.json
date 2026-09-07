@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi iyo mu intama Korubani cye, ku gitambo cy'amahoro kwa Yahwe, ingabo cyangwa ingore, cyuzuye azayitanga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "Korubani cye"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ku gitambo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "cy'amahoro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ingore"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "cyuzuye"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "azayitanga"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:38.524182322Z",
+  "model": "glm-5.3"
+}

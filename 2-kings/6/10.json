@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze mwami w'Yisraeli yohereje kuri ahantu umuntu w'Elohimu yamubwiye na ko yamurwishe, maze aririnda aho — nta rimwe, na nta kabiri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yamubwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "yamurwishe"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "aririnda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:25.659372100Z",
+  "model": "glm-5.3"
+}

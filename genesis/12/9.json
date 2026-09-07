@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze Avrahamu aragenda, agendagenda agensa yerekeza mu majyepfo.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "agendagenda"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "agensa"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "mu majyepfo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:35.343275211Z",
+  "model": "glm-5.3"
+}

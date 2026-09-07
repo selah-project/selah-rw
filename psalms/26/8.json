@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yahwe, ndakunda aho inzu yawe ihagaze, n'ahantu aho Mishikani y'icyubahiro cyawe riherereye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndakunda"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "aho ... ihagaze (ubuturanyi)"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "inzu yawe"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "n'ahantu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "y'icyubahiro cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:19.635951032Z",
+  "model": "glm-5.3"
+}

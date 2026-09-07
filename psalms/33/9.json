@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Koko Yahwe we yavuze, maze biba; we yategetse, maze biguma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze biba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maze biguma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:03.366180662Z",
+  "model": "glm-5.3"
+}

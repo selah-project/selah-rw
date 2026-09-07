@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Mu gahinda kwe ⟨hakuri⟩ akanya gato gusa; mu kwemera kwe ubuzima; irari rirarara mu mugoroba, ariko mu gitondo inkurura y'ishimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "akanya gato gusa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mu gahinda kwe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "mu kwemera kwe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu mugoroba"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rirarara"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "irari"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "inkurura y'ishimo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:06.078514330Z",
+  "model": "glm-5.3"
+}

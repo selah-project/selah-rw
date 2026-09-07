@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Bageze kuri urwadiri rwa Kidoni, Uza na rashize ⟨את⟩ ukuboko kwe ngo yafate ⟨את⟩ aroni, kuko inka zavunitse.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bageze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "urwadiri"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidoni"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yarashize"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ngo yafate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "zavunitse"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:01.527462945Z",
+  "model": "glm-5.3"
+}

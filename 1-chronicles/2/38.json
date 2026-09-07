@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ovedi yabyaye ⟨את⟩ Yehu, kandi Yehu yabyaye ⟨את⟩ Azarayah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Ovedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "kandi Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarayah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayah"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:43.865606398Z",
+  "model": "glm-5.3"
+}

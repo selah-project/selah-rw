@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mwaravuze bati: Inzira ya Adonayi ntabwo itunganye. Buri muntu ku nzira ye, nzacira urubanga ⟨את⟩ inzu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "mwaravuze bati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "itunganye"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ku nzira ye"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nzacira urubanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T17:12:27.517304515Z",
+  "model": "glm-5.3"
+}

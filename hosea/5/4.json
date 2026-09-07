@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ibikorwa byabo ntibyabemerera kugarukira kuri Elohimu wabo; koko umwenda w'ubusambanyi uri mu muri ro, na ⟨את⟩ Yahwe ntibaramuzi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "byabemerera"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ibikorwa byabo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kugarukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "w'ubusambanyi"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "mu muri ro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "baramuzi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:47.035414704Z",
+  "model": "glm-5.3"
+}

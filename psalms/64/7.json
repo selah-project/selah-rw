@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Barashakisha ibibi; barabikoze nk'uko barashakisha; umwoyo w'umuntu n'umutima we ni byo byimye.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "barashakisha"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "barabikoze"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "icyo barashakisha"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "barashakisha"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "umwoyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "n'umutima"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ni byo byimye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:33.727249171Z",
+  "model": "glm-5.3"
+}

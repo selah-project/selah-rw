@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Miktamu (igikoresho cy'indirimbo) ya Dawidi. Munkungere, Eli, kuko narahungiye muri wowe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktamu (igikoresho cy'indirimbo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Munkungere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "narahungiye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:43.980955467Z",
+  "model": "glm-5.3"
+}

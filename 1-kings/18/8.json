@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Nabwiye we ati: ⟨Ni⟩ njye. Sanga, ubwira shebuja wawe ati: Raba, Eliyahu ⟨ari⟩ ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nabwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ni⟩ njye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sanga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ubwira"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "shebuja wawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:56:10.148638820Z",
+  "model": "glm-5.3"
+}

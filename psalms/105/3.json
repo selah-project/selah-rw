@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Nimwiheshe icyubahiro mu izina rye ryera; umutima w'abashaka Yahwe ushime.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Nimwiheshe icyubahiro"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rye ryera"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ushime"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "w'abashaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:53.628994989Z",
+  "model": "glm-5.3"
+}

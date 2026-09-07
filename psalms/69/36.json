@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Kuko Elohimu azakiza Tsiyoni, azubaka imijyi ya Yehudha, maze bagahatura ho, bayinyuze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "azakiza"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "azubaka"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudha"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bagahatura"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "bayinyuze"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:41.219989061Z",
+  "model": "glm-5.3"
+}

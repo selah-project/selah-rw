@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ni nje; reba, Beriti yanje ⟨ni⟩ ifitanye na ⟨את⟩ wowe, kandi uzaba se w'ibihugu byinshi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ni nje"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti yanje"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "se wa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ibihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:57.197588337Z",
+  "model": "glm-5.3"
+}

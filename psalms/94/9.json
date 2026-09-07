@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Uwashyize ugutwi, ese ntiyumva? Cyangwa uvumbiye amaso, ese ntabona?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Uwashyize"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ugutwi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ese nti-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "uvumbiye"
+    },
+    {
+      "surface": "עין",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ese nta-"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:25.468642081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Nimuterure ibitigu byanyu, imiryango; kandi muzaterurwe, imyanya y'iteka; maze umwami w'icyubahiro azinjira.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "nimuterure"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ibitigu byanyu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "kandi muzaterurwe"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "imyanya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "maze azinjira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "w'icyubahiro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:15.651265240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze inzu nkuru yarise ibiti by'amaberezi, maze ayizinge zahabu nziza, maze ashysiraho ibishushwa by'imyese n'iminyago.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "yarise"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "by'amaberezi"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ayizinge"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ashyiraho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ibishushwa by'imyese"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "n'iminyago"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:02.417571834Z",
+  "model": "glm-5.3"
+}

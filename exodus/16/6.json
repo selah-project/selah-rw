@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Moshe na Aharoni babwira abana bose ba Yisraeli bati: Ku mwijiro muzamenya ko Yahwe ni we wabakuye mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze baravuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ku mwijiro"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "muzamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wabakuye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwebwe",
+      "marks": "mwebwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:00.343172584Z",
+  "model": "glm-5.3"
+}

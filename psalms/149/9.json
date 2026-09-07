@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Kugira ngo bakore muri bo umushyikiro uwanditse — icyubahiro ni cyo kuri abahesedi be bose. Mushimire Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kugira ngo bakore"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umushyikiro"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "uwanditse"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuri ... bose"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abahesedi be"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Mushimire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:12.189202679Z",
+  "model": "glm-5.3"
+}

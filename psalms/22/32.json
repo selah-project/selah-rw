@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Bazaza baravuga ubutungane bwe ku bwoko buzavuka, kuko yabikoze.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Bazaza"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ubutungane bwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ku bwoko"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "buzavuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yabikoze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:17.529069927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umwami wawe ari hehe rura? Ashobora kurokora mu mudugudu wawe yose? N'abacamanza bawe, bo wabwiye uti: Ntunze umwami n'abatware!",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "ari hehe"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "umwami wawe"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "rura"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ashobora kurokora"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … yose"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "mudugudu wawe"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "n'abacamanza bawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wabwiye"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ntunze"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "n'abatware"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:23.139490150Z",
+  "model": "glm-5.3"
+}

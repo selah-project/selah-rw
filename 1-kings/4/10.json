@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Beni-Hesedi (umwana wa Hesedi), mu Aruboti; liwe Sokohi n'ubutaka bwose bwa Hefere.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesedi"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "mu Aruboti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "liwe"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokohi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ubutaka bwose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefere"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:42.420973651Z",
+  "model": "glm-5.3"
+}

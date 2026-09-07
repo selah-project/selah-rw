@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 150,
+  "translation": "Muririmbire Yah; muririmbire Eli mu gitabo cy'ubutagatifu bye; muririmbire mu rukubi rw'ingufu ze.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mu gitabo cy'ubutagatifu bye"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "mu rukubi"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "rw'ingufu ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:14.592841166Z",
+  "model": "glm-5.3"
+}

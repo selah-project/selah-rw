@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Yambaye kwipfuza ibyago nk'iyi myambaro ye, bimwinjira mu nda ye nk'amazi, nk'amavuta mu magufa ye.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "yambaye"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kwipfuza ibyago"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "nk'iyi myambaro ye"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "bimwinjira"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nk'amazi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mu nda ye"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "nk'amavuta"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mu magufa ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:18.074254177Z",
+  "model": "glm-5.3"
+}

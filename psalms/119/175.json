@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nefeshi yanjye ihore, ikuzeho, kandi ibyemezo byawe bimbashe.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ihore"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ikuzeho"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "bimbashe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:29.350634969Z",
+  "model": "glm-5.3"
+}

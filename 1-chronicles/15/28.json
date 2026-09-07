@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze Yisraeli bose bazamura ⟨את⟩ sanduku rya beriti ya Yahwe mu kuvugitura no mu ijwi ry'amashofari, n'itorambe n'ibyuma byo kugongana, bagira ijwi rikanaka mu nanga n'izingyelezi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "bazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku rya beriti ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mu kuvugitura"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "no mu ijwi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ry'amashofari"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "n'itorambe"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "n'ibyuma byo kugongana"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "bagira ijwi rikanaka"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "mu nanga"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "n'izingyelezi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:49.582274357Z",
+  "model": "glm-5.3"
+}

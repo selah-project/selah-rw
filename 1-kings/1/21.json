@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ni ukuvuga: iyo shebuja wanjye, umwami, aryamye kumwe n'abakurambere be, jye n'umwanjye Shelomu (Salomo) tuzaba inkozi z'ibaha.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "ni ukuvuga ni bwo bizaba"
+    },
+    {
+      "surface": "כִּשְׁכַב",
+      "gloss": "iyo aryamye"
+    },
+    {
+      "surface": "אֲדֹנִי",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "kumwe na"
+    },
+    {
+      "surface": "אֲבֹתָיו",
+      "gloss": "abakurambere be"
+    },
+    {
+      "surface": "וְהָיִיתִי",
+      "gloss": "tuzaba"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "וּבְנִי",
+      "gloss": "n'umwanjye"
+    },
+    {
+      "surface": "שְׁלֹמֹה",
+      "gloss": "Shelomu"
+    },
+    {
+      "surface": "חַטָּאִים",
+      "gloss": "inkozi z'ibaha"
+    }
+  ],
+  "timestamp": "2026-09-07T21:35:18.303794383Z",
+  "model": "glm-5.3"
+}

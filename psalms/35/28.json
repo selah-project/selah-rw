@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Kandi ururimi rwanjye ruzavuga ubutungane bwawe, ituzu ry'umunsi ishimwe ryawe.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Kandi ururimi rwanjye"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ruzavuga"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ubutungane bwawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ituzu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ry'umunsi"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ishimwe ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:26.698084059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kuko Yahwe ntazigera areka ⟨את⟩ ubwoko bwe ku bw'izina rye rinkuru, kuko Yahwe yagiriye ineza kubakora ⟨את⟩ mwe ababe umubye we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntazigera"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "areka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko bwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "rinkuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "yagiriye ineza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kubakora"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ababe umubye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:57.007393849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Elohimu kuri twe ⟨ni⟩ ubuhungiro n'ubushobozi, umufasha mu bihe bikomeye aboneka cyane.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ubuhungiro"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "n'ubushobozi"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "umufasha"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "aboneka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:29.574395184Z",
+  "model": "glm-5.3"
+}

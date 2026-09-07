@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nuko yasubize ⟨את⟩ ifeza kwa nyina; maze nyina we atwara amajana abiri y'ifeza, aha umuhunduzi, maze ukora igishushanyo n'icyahundwe, maze kibera mu nzu ya Mikayehu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kwa nyina"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "atwara"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina we"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amajana abiri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "aha"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "umuhunduzi"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "maze ukora"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "n'icyahundwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze kibera"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ya Mikayehu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:28:23.760864254Z",
+  "model": "glm-5.3"
+}

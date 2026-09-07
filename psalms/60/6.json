@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Wahaye abatinya wowe ibendera ngo rihagare ku bw'ukuri ⟨ni⟩ Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Wahaye"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "abatinya wowe"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ibendera"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ngo rihagare"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:08.599236489Z",
+  "model": "glm-5.3"
+}

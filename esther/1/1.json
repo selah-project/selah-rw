@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "esther 1:1",
+ "book": "esther",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Byari mu iminsi ya Akhashuveroshi — ni we Akhashuveroshi umwami uhariye intara ijana na mirongo indwi na kabiri, uva i Hodu kugera i Kushi.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "Byari"
+  },
+  {
+   "surface": "בימי",
+   "gloss": "mu iminsi ya"
+  },
+  {
+   "surface": "אחשורוש",
+   "gloss": "Akhashuveroshi"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ni we"
+  },
+  {
+   "surface": "אחשורוש",
+   "gloss": "Akhashuveroshi"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "מהדו",
+   "gloss": "uva i Hodu"
+  },
+  {
+   "surface": "ועד",
+   "gloss": "kugera i"
+  },
+  {
+   "surface": "כוש",
+   "gloss": "Kushi"
+  },
+  {
+   "surface": "שבע",
+   "gloss": "indwi"
+  },
+  {
+   "surface": "ועשרים",
+   "gloss": "na mirongo ibiri"
+  },
+  {
+   "surface": "ומאה",
+   "gloss": "n'amajana"
+  },
+  {
+   "surface": "מדינה",
+   "gloss": "intara"
+  }
+ ],
+ "timestamp": "2026-09-07T19:59:50.988368608Z",
+ "model": "glm-5.3"
+}

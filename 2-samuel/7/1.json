@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Habaye iyo umwami yari atuye mu nzu ye, maze Yahwe yamuhesheje umutekano mu mpande zose ziturutse ku banzi be bose.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maze Yahwe"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "yamuhesheje umutekano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "−mu-"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "mu mpande zose"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "zturutse"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ku banzi be bose"
+    }
+  ],
+  "timestamp": "2026-09-07T13:02:54.084960449Z",
+  "model": "glm-5.3"
+}

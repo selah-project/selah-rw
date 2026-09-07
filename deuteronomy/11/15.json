@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nzahisha ibyatsi mu murima wawe ku matungo yawe, maze urye, ugumeho.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Nzahisha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "mu murima wawe"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "ku matungo yawe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "urye"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ugumeho"
+    }
+  ],
+  "timestamp": "2026-09-07T10:54:57.279700087Z",
+  "model": "glm-5.3"
+}

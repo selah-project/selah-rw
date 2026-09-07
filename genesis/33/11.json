@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Fata ndasaba ⟨את⟩ umugisha wanjye wazaniwe kuri wowe, kuko Elohimu yanampaye impuhwe, no kuko hari kuri jye byose. Hanyuma yamushyizeho cyane, maze yakira.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugisha wanjye"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "umugisha wanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "wazaniwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "yanampaye impuhwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "no kuko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "yamushyizeho cyane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze yakira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:17.603088319Z",
+  "model": "glm-5.3"
+}

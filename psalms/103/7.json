@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Yahwe yamenyesheje inzira ze kuri Moshe (Mose), ibigwi bye ku bana ba Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "yamenyesheje"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "inzira ze"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuri Moshe (Mose)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ibigwi bye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:34.295641683Z",
+  "model": "glm-5.3"
+}

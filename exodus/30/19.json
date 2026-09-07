@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "maze Aharoni n'abahungu be bazogera muri yo ⟨את⟩ intoki zabo na ⟨את⟩ amaguru yabo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "bazogera"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amaguru yabo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "amaguru yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:46.942401382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Bikabe ibyaka mu kirere cy'ijuru ngo birashe isi; nihabehe uko.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "bikabe"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "ibyaka"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "mu kirere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cy'ijuru"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ngo birashe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nihabehe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:09.280478960Z",
+  "model": "glm-5.3"
+}

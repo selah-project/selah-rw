@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Aravuga ati: nta ijwi ryo kwerekana intsinzi, kandi nta ijwi ryo kwerekana gutsindwa; ijwi ry'imbyo ⟨ni⟩ ryo njye ndumva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ryo kwerekana"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "intsinzi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ryo kwerekana"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "gutsindwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ry'imbyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ndumva"
+    }
+  ],
+  "timestamp": "2026-09-07T09:14:31.195507188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ni⟩ umunini, akagirwa icyubahiro cyane; kandi nta gipima cy'ubukuru bwe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "umunini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "akagirwa icyubahiro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "kandi nta gipima cy'ubukuru bwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "gipima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:27.476727031Z",
+  "model": "glm-5.3"
+}

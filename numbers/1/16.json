@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Aba ni abitojwe m'urugingo, abayobozi b'imiryango y'ababyeyi babo; ni bo batware ibihumbi bya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "abitojwe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "m'urugingo"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "abayobozi b'"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "y'ababyeyi babo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "batware"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bya Yisraeli"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni bo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:12.350349157Z",
+  "model": "glm-5.3"
+}

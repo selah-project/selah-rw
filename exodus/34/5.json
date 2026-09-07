@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Yahwe yaramanutse mu gicucu, yahagaze kuri we aho, maze yahamagariza mu izina rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yaramanutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "mu gicucu"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagariza"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:00.631170185Z",
+  "model": "glm-5.3"
+}

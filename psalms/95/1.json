@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Nimuze, turaririmbe Yahwe, turahirire ku rutare rw'ubokeshwa rwacu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Nimuze"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "turaririmbe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "turahirire"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ku rutare"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "rw'ubokeshwa rwacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:25.352325663Z",
+  "model": "glm-5.3"
+}

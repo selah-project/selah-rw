@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Yahwe ⟨ni⟩ une impano n'umutungane, kandi Elohimu wacu une impuhwe.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "une impano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "n'umutungane"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "kandi Elohimu wacu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "une impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:57.081540579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ubutabera, ubutabera nk'ubuwo urwite, kugira ngo ubeho, maze uzazungura ⟨את⟩ isi iyo Yahwe Elohimu wawe aguha.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "urwite"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ubeho"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "maze uzazungura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:01:18.088402213Z",
+  "model": "glm-5.3"
+}

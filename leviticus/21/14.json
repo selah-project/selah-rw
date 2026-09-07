@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umupfakazi, n'uwatanzwe, n'uwavujwe, umusambanyi — ⟨את⟩ aya ntazafata; ahubwo inkumi mu bantu be ni we azafata umugore.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Umupfakazi"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "n'uwatanzwe"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "n'uwavujwe"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "umusambanyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya (aya magambo yose yavuzwe)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "mu bantu be"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:24.434340153Z",
+  "model": "glm-5.3"
+}

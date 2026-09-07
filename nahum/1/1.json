@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umuzigo wa Nineve; igitabo cy'ibyerekeye iboneka rya Nachumu w'Ikelkoshi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "umuzigo"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "wa Nineve"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "cy'ibyerekeye iboneka"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "rya Nachumu"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "w'Ikelkoshi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:51:09.178413009Z",
+  "model": "glm-5.3"
+}

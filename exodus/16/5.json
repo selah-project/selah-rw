@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kandi bizaba ko ku munsi wa gatandatu bazitegura ⟨את⟩ ibyo bazazana, kandi bibeho kabiri ku byo bateranya buri munsi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kandi bizaba ko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa gatandatu"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "bazitegura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo bazazana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "bazazana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kandi bibeho"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kabiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "boteranya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "buri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:00.342871963Z",
+  "model": "glm-5.3"
+}

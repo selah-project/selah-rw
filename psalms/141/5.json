@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Umuhanzi arampaye hesedi, akanembaza; ni amavuta ku mutwe — umutwe wanjye ntiuyemere, kuko amasengesho yanjye akomeza kuba mu bibi byabo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "arampaye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umuhanzi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "akanembaza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ku mutwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יני",
+      "gloss": "yemere"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umutwe wanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akomeza"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "amasengesho yanjye"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "mu bibi byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:32.075340311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze Avrahamu afite imyaka ijana, mu kuvukira we ⟨את⟩ Yitsaki umuhungu we.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "mu kuvukira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:10.703823792Z",
+  "model": "glm-5.3"
+}

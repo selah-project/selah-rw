@@ -1,0 +1,43 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "ezekiel 3:2",
+ "book": "ezekiel",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Nafunguye ⟨את⟩ umunwa wanjye, aransyishe ⟨את⟩ urudushye uru.",
+ "tokens": [
+  {
+   "surface": "ואפתח",
+   "gloss": "Nafunguye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umunwa wanjye"
+  },
+  {
+   "surface": "פי",
+   "gloss": "umunwa"
+  },
+  {
+   "surface": "ויאכלני",
+   "gloss": "aransyishe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "urudushye"
+  },
+  {
+   "surface": "המגלה",
+   "gloss": "urudushye"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "uru"
+  }
+ ],
+ "timestamp": "2026-09-07T21:46:48.501623690Z",
+ "model": "glm-5.3"
+}

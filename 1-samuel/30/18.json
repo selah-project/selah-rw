@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Dawidi yarokoye ⟨את⟩ byose byari byafashe Amaleki; na ⟨את⟩ abagore be babiri Dawidi yarokoye.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "yarokoye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byari"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "byafashe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abagore be babiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "yarokoye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:53:05.946402030Z",
+  "model": "glm-5.3"
+}

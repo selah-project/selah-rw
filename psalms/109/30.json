@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Nzasingiza Yahwe cyane mu kanjye, ndetse mu gitabantu abenshi ndamusingiza",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "nzasingiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mu kanjye"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ndetse mu gitabantu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abenshi"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ndamusingiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:04.381250983Z",
+  "model": "glm-5.3"
+}

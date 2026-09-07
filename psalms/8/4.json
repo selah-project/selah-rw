@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Iyo ndabona ijuru ryawe, ibyakozwe n'imbaragasa zawe, ukwezi n'inyenyeri awo washyizeho,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndabona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ijuru ryawe"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ibyakozwe"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "n'imbaragasa zawe"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "n'inyenyeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "washyizeho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:40.996382894Z",
+  "model": "glm-5.3"
+}

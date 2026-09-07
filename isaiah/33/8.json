@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Imihanda yahenzwe, umunyagenda yahagaritse ku nzira; Beriti yavunjuye, imidugudu yanenze, ntagize icyo yumva ku muntu.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "yahenzwe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "imihanda"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yahagaritse"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "umunyagenda"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yavunjuye"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beriti"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "yanenze"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "yagize icyo yumva"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:47.492724921Z",
+  "model": "glm-5.3"
+}

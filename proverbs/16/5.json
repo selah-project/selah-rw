@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Igitangangurwa kwa Yahwe ni umuntu wese ufite umutima wo kwiyubaha; nubwo ibiganza abifatanije, ntibazigera banyurwa n'ibaha.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "igitangangurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umuntu wese"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wo kwiyubaha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ibiganza"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "abifatanije"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bazigera banyurwa n'ibaha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:14.805046331Z",
+  "model": "glm-5.3"
+}

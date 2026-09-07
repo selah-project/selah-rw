@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Mu byo byose nari mbwira mukurikize; kandi izina ry'imana z'ahandi ntimuzazivugaho — ntimuri kumvwa mu kanwa kanyu.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Mu byo byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nari mbwira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mukurikize"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kandi izina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "rya imana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "z'ahandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "zazivugaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ri kumvwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kanwa kanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:27.611013434Z",
+  "model": "glm-5.3"
+}

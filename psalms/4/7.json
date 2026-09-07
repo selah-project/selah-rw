@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abenshi baravuga bati: Ni nde yakwereka neza? Yahwe, zimura ku turiho urumuri rw'uruhanga rwawe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Abenshi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "baravuga bati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "yakwereka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "zimura"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ku turiho"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rw'uruhanga rwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:06.660192371Z",
+  "model": "glm-5.3"
+}

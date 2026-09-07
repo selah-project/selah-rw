@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ku mukuru w'abacuranga ⟨ni⟩ zaburi ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mukuru w'abacuranga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:25.280745659Z",
+  "model": "glm-5.3"
+}

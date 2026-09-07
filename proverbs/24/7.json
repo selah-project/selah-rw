@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ibyo hejuru (ubwenge) ku musazi; ku rwunge ntabwo azafungura umunwa we.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ibyo hejuru"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ku musazi"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku rwunge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "azafungura"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "umunwa we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:57.595027721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Muzamenya ko njye ndi Yahwe, mu kubazana mu butaka bwa Yisraeli, mu gihugu naranuye ⟨את⟩ intoki yanjye ngo kihe ⟨את⟩ cyo abakurambere banyu.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "muzamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "mu kubazana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ (mwe)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bwa Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "naranuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki yanjye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo kihe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ cyo",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "abakurambere banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:59:31.169471035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze umwana yakuriye, ararekwa kuronsa; maze Avrahamu akoza ibirori binini ku munsi kurekwa ⟨את⟩ Yitsaki.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "yakuriye"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ararekwa kuronsa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akoza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ibirori"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "binini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kurekwa kuronsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:10.711363478Z",
+  "model": "glm-5.3"
+}

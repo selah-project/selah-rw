@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yababwiye ati: Ntimunyite Naomi, munyite Mara; kuko Shadayi (Ushoborabyose) yanshizeho ikibabi cyane.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yababwiye ati"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "abo bagore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "munyite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "munyite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "המר",
+      "gloss": "yanshizeho ikibabi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T22:02:06.309455145Z",
+  "model": "glm-5.3"
+}

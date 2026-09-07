@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Rwerekana: wumvise ⟨את⟩ ibyo abami b'Ashuru bakoze ku bihugu byose — kubazimangiza burundu; none wowe urazizigwa?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rwerekana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "b'Ashuru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "bihugu"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "kubazimangiza burundu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "none wowe"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "urazizigwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:00.856967451Z",
+  "model": "glm-5.3"
+}

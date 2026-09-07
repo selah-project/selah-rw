@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Uutura amaraso y'umuntu, amaraso ye azirukwa n'umuntu, kuko mu ishusho y'Elohimu yaremye ⟨את⟩ umuntu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Uutura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "n'umuntu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso ye"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "azirukwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "mu ishusho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "y'Elohimu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:08.060384488Z",
+  "model": "glm-5.3"
+}

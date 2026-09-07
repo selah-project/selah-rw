@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntabwo umugabo yafata ⟨את⟩ umugore wa se, kandi ntabwo azamura igice cy'imyambaro ya se.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore wa se"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntabwo"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "igice cy'imyambaro"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya se"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:41.173467093Z",
+  "model": "glm-5.3"
+}

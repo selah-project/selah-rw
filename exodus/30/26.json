@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Uzakanira muri yo ⟨את⟩ ihema ry'ihuriro na ⟨את⟩ isanduku ry'ibyangomwa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Uzakanira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema ry'ihuriro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isanduku ry'ibyangomwa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ry'ibyangomwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:05.029952321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze Yoabu yinjiye ku mwami, mu nzu, arabwira umwami ⟨ati⟩: Uyu munsi wisonije ⟨את⟩ amaso y'abagaragu bawe bose barakiza ⟨את⟩ ubugingo bawe uyu munsi, na ⟨את⟩ ubugingo bw'abahungu bawe n'ibikobwa bawe, n'ubugingo bw'abagore bawe n'ubugingo bw'abashiki bawe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maze yinjiye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira umwami ⟨ati⟩"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "wisonije"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "y'abagaragu bawe"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "barakiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubugingo bawe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ubugingo bawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubugingo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ubugingo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bw'abahungu bawe"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "n'ibikobwa bawe"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "n'ubugingo"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "bw'abagore bawe"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "n'ubugingo"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "bw'abashiki bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:22:13.644649781Z",
+  "model": "glm-5.3"
+}

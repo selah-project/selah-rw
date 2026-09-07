@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umubare w'abavukana b'uruniga rwa Yaakovu (Yakobo) wari Nefeshi mirongo irindwi; maze Yosefu (Yozefu) yari mu Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "abavukana"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "uruniga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "maze Yosefu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:46.854952890Z",
+  "model": "glm-5.3"
+}

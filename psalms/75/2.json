@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Turagushimira, wowe Elohimu, turagushimira, kandi izina ryawe riri hafi; baravuga ibitangaza byawe.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "turagushimira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "turagushimira"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "kandi ... riri hafi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:46.090005831Z",
+  "model": "glm-5.3"
+}

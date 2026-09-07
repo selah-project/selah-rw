@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 126,
+  "translation": "Yahwe yagize ibintu bikuru mu gukorana natwe; twararishimeye.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "yagize ibintu bikuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mu gukora"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "twari"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "abishimeye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:58.785681288Z",
+  "model": "glm-5.3"
+}

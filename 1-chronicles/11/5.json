@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Abatuye Yevusu (Yebusi) bavuze bati Dawidi (Dawidi): «Ntuzaza hano.» Ariko Dawidi yafashe ⟨את⟩ urugomero rwa Tsiyoni (Siyoni) — niyo ⟨ni⟩ umujyi wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bavuze"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevusu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugomero rwa Tsiyoni"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "urugomero"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "niyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:34:51.753752503Z",
+  "model": "glm-5.3"
+}

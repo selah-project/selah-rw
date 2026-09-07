@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yakuyemo mu midugu yose ya Yehuda ⟨את⟩ ahantu hasenga na ⟨את⟩ amashusho y'izuba, maze ubwami bwaruhutse imbere ye.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yakuyemo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imidugu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahantu hasenga"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ahantu hasenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "amashusho y'izuba"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "bwaruhutse"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:24.310677462Z",
+  "model": "glm-5.3"
+}

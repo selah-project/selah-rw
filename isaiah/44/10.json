@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ni nde wafashe imana, cyangwa wasunze igishushanyo mu cyuma — ngo nticyazunganire?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "wafashe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "imana"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "cyangwa igishushanyo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wasunze (mu cyuma)"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ngo nticyazunganire"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "kuzunganira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:09.587473378Z",
+  "model": "glm-5.3"
+}

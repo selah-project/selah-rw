@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Kuko utishimishije, Yahwe, mu bikorwa byawe; ku mikorwa y'ibiganza byawe nzaririmbira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "utishimishije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "mu bikorwa byawe"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ku mikorwa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "y'ibiganza byawe"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nzaririmbira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:21.123655598Z",
+  "model": "glm-5.3"
+}

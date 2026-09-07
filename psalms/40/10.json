@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Nabwirije amakuru meza y'ubutungane mu rusengero ruregereje rwose; turikira: mu nshinga zanjye nticyazirikana, Yahwe, wowe umenye byose.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nabwirije amakuru meza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "y'ubutungane"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu rusengero"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ruregereje rwose"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "turikira"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu nshinga zanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "cyazirikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umenye byose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:12.908430477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Baravuze bati iwe: Sara, umugore wawe, ari hehe? Na we aravuga ati: Raba, ⟨ari⟩ mu ihema.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "arihehe"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umugore wawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "raba"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T07:46:48.907736540Z",
+  "model": "glm-5.3"
+}

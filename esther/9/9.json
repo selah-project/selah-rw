@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ Paramashta, na ⟨את⟩ Arizayi, na ⟨את⟩ Aridayi, na ⟨את⟩ Vayezata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Paramashta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Paramashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Arizayi"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arizayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aridayi"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Vayezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayezata"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:42.583828223Z",
+  "model": "glm-5.3"
+}

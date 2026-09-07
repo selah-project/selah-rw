@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "numbers 23:10",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 23,
+ "translation": "Ni nde washobora kubara urubura rwa Yaakovu, no kubara umubare wa ⟨את⟩ igice cya kane cya Yisraeli? Nefeshi yanjye, nipfe urupfu rw'abatungane, kandi iherezo ryanjye ribe nka ryo!",
+ "tokens": [
+  {
+   "surface": "מי",
+   "gloss": "ni nde"
+  },
+  {
+   "surface": "מנה",
+   "gloss": "washobora kubara"
+  },
+  {
+   "surface": "עפר",
+   "gloss": "urubura"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "rwa Yaakovu"
+  },
+  {
+   "surface": "ומספר",
+   "gloss": "no kubara umubare"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "igice cya kane cya Yisraeli"
+  },
+  {
+   "surface": "רבע",
+   "gloss": "wa igice cya kane"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "cya Yisraeli"
+  },
+  {
+   "surface": "תמת",
+   "gloss": "nipfe"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshi yanjye"
+  },
+  {
+   "surface": "מות",
+   "gloss": "urupfu"
+  },
+  {
+   "surface": "ישרים",
+   "gloss": "rw'abatungane"
+  },
+  {
+   "surface": "ותהי",
+   "gloss": "kandi ribe"
+  },
+  {
+   "surface": "אחריתי",
+   "gloss": "iherezo ryanjye"
+  },
+  {
+   "surface": "כמהו",
+   "gloss": "nka ryo"
+  }
+ ],
+ "timestamp": "2026-09-07T10:27:37.555490671Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 36:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Moshe arahamagara Betsalel na Aholiyabi na buri muntu w'umutima uhishuriwe, uwo Yahwe yahaye ubushishozi mu mutima we, buri wese umutima we wamuteye kwegera akazi ngo akore ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "arahamagara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Aholiyabi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'umutima uhishuriwe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubushishozi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "wamuteye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "לקרבה",
+      "gloss": "kwegera"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ngo akore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "akazi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:52.424316515Z",
+  "model": "glm-5.3"
+}

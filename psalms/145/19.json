@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Icyifuzo cy'abamutinya azakora, kandi ⟨את⟩ uruhindo rwabo azarwumva akanabakiza.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "icyifuzo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cy'abamutinya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhindo rwabo"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "uruhindo rwabo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "azarwumva"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "akanabakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:31.583717324Z",
+  "model": "glm-5.3"
+}

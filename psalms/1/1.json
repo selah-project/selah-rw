@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ihimuriwe umuntu utazigera mu nama y'abakora ibibi, mu nzira y'abahemukiye ntiyahagaze, no mu cyicaro c'abasheshi ntiyicaye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ihimuriwe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kuzigera"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "mu nama ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "mu nzira y'"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "abahemukiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "guhagarara"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "no mu cyicaro cya"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "abasheshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kwicara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:49.472765759Z",
+  "model": "glm-5.3"
+}

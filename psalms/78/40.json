@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ingahe baramuhakanye mu butayu, baramubabaje mu gihugu cy'umucanga!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Ingahe"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "baramuhakanye"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "baramubabaje"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mu gihugu cy'umucanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:45.076933255Z",
+  "model": "glm-5.3"
+}

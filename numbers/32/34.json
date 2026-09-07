@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze abahungu ba Gadi batsimbaraye ⟨את⟩ Diboni na ⟨את⟩ Ataroti na ⟨את⟩ Aroeri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "batsimbaraye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Diboni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Diboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ataroti"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ataroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aroeri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    }
+  ],
+  "timestamp": "2026-09-07T10:38:19.448616620Z",
+  "model": "glm-5.3"
+}

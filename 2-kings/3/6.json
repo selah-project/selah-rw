@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umwami Yehoramu yasohotse ku uwo munsi mu Shomroni, maze abarira ⟨את⟩ Yisraeli yose.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yasohotse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "mu Shomroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "abarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:05:43.049081235Z",
+  "model": "glm-5.3"
+}

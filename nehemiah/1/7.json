@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Twahombye cyane twahombye turi muri wowe, kandi ntitwatunze amabwiriza, amategeko, n'imyanzuro wahaye Moshe umugaragu wawe: ⟨את⟩ amabwiriza, ⟨את⟩ amategeko, ⟨את⟩ imyanzuro, na ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "twahombye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "turi muri wowe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntitwatunze"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "ntitwatunze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amabwiriza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amategeko"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imyanzuro"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imyanzuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wahaye"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wahaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:32:49.062841021Z",
+  "model": "glm-5.3"
+}

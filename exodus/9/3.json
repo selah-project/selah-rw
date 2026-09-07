@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Raba, iboko rya Yahwe rizaba ku matungo yawe ari mu murima: ku mafarashi, ku ndogobe, ku ngamiya, mu nka no mu ntama — icyorezo kibabaje cyane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "iboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "rizaba"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "ku matungo yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ku mafarashi"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "ku ndogobe"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "ku ngamiya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu nka"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "no mu ntama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "icyorezo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kibabaje"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:23.556998212Z",
+  "model": "glm-5.3"
+}

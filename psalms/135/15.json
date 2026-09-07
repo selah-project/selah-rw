@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Ibigirwamana by'amahanga ⟨ni⟩ ifeza n'zahabu, igikorwa cy'ibiganza by'abantu.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Ibigirwamana"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "by'amahanga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "n'zahabu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "cy'ibiganza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "by'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:24.949392574Z",
+  "model": "glm-5.3"
+}

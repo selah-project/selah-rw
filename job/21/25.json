@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na uwundi yapfa afite nefeshi ikaze, kandi ntiyariye mu bwiza.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na uwundi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yapfa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mu nefeshi"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ikaze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "mu bwiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:30:58.846158397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Ntabwo azemba ikirenge cyawe; ntaguhombera n'akanya we ukurinda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yemera"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "izemba"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ikirenge cyawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "guhombera"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ukurinda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:18.986743570Z",
+  "model": "glm-5.3"
+}

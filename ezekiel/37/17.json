@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "ezekiel 37:17",
+ "book": "ezekiel",
+ "lang": "rw",
+ "chapter": 37,
+ "translation": "Unegereze ⟨את⟩ bo umwe ku yindi, kuri wowe, kuri igiti kimwe, maze babe ⟨zimwe⟩ mu ntoki zawe.",
+ "tokens": [
+  {
+   "surface": "וקרב",
+   "gloss": "Unegereze"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibiti (umwe ku yindi)"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "umwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "yindi"
+  },
+  {
+   "surface": "לך",
+   "gloss": "kuri wowe"
+  },
+  {
+   "surface": "לעץ",
+   "gloss": "kuri igiti"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "kimwe"
+  },
+  {
+   "surface": "והיו",
+   "gloss": "maze babe"
+  },
+  {
+   "surface": "לאחדים",
+   "gloss": "zimwe"
+  },
+  {
+   "surface": "בידך",
+   "gloss": "mu ntoki zawe"
+  }
+ ],
+ "timestamp": "2026-09-07T17:17:33.242744450Z",
+ "model": "glm-5.3"
+}

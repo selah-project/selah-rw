@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Yahwe, Elohimu wa Yisraeli, yuzuzwe agaciro ⟨kuva⟩ mu iteka kugeza mu iteka. Amen, na Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yuzuzwe agaciro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "⟨kuva⟩ mu iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amen"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:05.292150694Z",
+  "model": "glm-5.3"
+}

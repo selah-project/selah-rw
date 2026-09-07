@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Iminwa yanjye izagusekera iyo ndakuririmbira, na Nefeshi yanjye, iyo wakiguhoje.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "izagusekera"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iminwa yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndakuririmbira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "na Nefeshi yanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "wakiguhoje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:36.992278635Z",
+  "model": "glm-5.3"
+}

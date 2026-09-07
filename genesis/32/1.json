@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Labani yasekereye mu bukye, maze arumbika abahungu be n'abakobwa be, arabiragiza ⟨את⟩; maze agenda, Labani asubira muwaho yari.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yasekereye"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu bukye"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "arumbika"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "n'abakobwa be"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "arabiragiza"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be n'abakobwa be"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agenda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "asubira"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "muwaho yari"
+    }
+  ],
+  "timestamp": "2026-09-07T08:07:24.231321377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abazinjye mu mujyi baransanze — abarinzi — maze mbabaza nti: Mwabonye ⟨את⟩ uwo Nefeshi wanjye akunda?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "baransanze"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "abarinzi"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "abazinjye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo Nefeshi wanjye akunda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "uwo akunda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi wanjye"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mwabonye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:42:11.086005125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Bityo uzirikana ⟨את⟩ iryo tegeko, na ⟨את⟩ ibyategetswe, na ⟨את⟩ amanza aya njye ngutegetsya uyu munsi, kubikorwa.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uzirikana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iryo tegeko"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iryo tegeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyategetswe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ibyategetswe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amanza"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "amanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngutegetsya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kubikorwa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:54:28.662017409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "isaiah 11:14",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 11,
+ "translation": "Bazanya abanyafilisiti mu birenge bwite iburengerazuba; hamwe bazatemba ⟨את⟩ abahungu bw'iburasirazuba; Edomu na Moabu bazaba mu maboko yabo, n'abahungu b'Amonu bazumvira ibitegetso byabo.",
+ "tokens": [
+  {
+   "surface": "ועפו",
+   "gloss": "bazanya mu birenge bwite"
+  },
+  {
+   "surface": "בכתף",
+   "gloss": "ku rutugu"
+  },
+  {
+   "surface": "פלשתים",
+   "gloss": "Abanyafilisiti"
+  },
+  {
+   "surface": "ימה",
+   "gloss": "iburengerazuba"
+  },
+  {
+   "surface": "יחדו",
+   "gloss": "hamwe"
+  },
+  {
+   "surface": "יבזו",
+   "gloss": "bazatemba"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abahungu bw'iburasirazuba"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abahungu"
+  },
+  {
+   "surface": "קדם",
+   "gloss": "bw'iburasirazuba"
+  },
+  {
+   "surface": "אדום",
+   "gloss": "Edomu"
+  },
+  {
+   "surface": "ומואב",
+   "gloss": "na Moabu"
+  },
+  {
+   "surface": "משלוח",
+   "gloss": "kwohereza"
+  },
+  {
+   "surface": "ידם",
+   "gloss": "amaboko yabo"
+  },
+  {
+   "surface": "ובני",
+   "gloss": "n'abahungu"
+  },
+  {
+   "surface": "עמון",
+   "gloss": "b'Amonu"
+  },
+  {
+   "surface": "משמעתם",
+   "gloss": "bazumvira ibitegetso byabo"
+  }
+ ],
+ "timestamp": "2026-09-07T14:48:29.865732426Z",
+ "model": "glm-5.3"
+}

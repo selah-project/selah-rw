@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Washyizeho abantu bakagenda ku mitwe yacu; twinjije muri urumuri no mu mazi; maze utusohora mu bwiza nyabuki.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Washyizeho"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "ku mitwe yacu"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "twinjije"
+    },
+    {
+      "surface": "באש",
+      "gloss": "muri urumuri"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "no mu mazi"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "maze utusohora"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "mu bwiza nyabuki"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:21.058319276Z",
+  "model": "glm-5.3"
+}

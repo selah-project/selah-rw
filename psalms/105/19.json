@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Kugeza igihe ijambo rye rizagera, iryo jambo rya Yahwe riramwukuye.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rizagera"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "iryo jambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "riramwukuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:00.328312044Z",
+  "model": "glm-5.3"
+}

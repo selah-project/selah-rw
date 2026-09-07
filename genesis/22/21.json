@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utsi (Utsi), imfura ye, na ⟨את⟩ Buzi (Buzi), umuvandimwe we, na ⟨את⟩ Kemueli (Kemueli), se wa Aramu (Aramu).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utsi"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utsi"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "imfura ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umuvandimwe we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kemueli"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:54.064445554Z",
+  "model": "glm-5.3"
+}

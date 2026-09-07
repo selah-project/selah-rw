@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Imisozi yarakuwe igicucu cyayo, n'amashami yacyo ⟨ni⟩ amacederi ya Eli.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "yarakuwe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "igicucu cyayo"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "n'amashami yacyo"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "amacederi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:33.712794649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Ururirimwe rw'izamuka. Nzodurura amaso yanjye ku misozi — ubufasha bwanjye buza hehe?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ururirimwe"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "rw'izamuka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nzodurura"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "buza"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ubufasha bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:18.983214553Z",
+  "model": "glm-5.3"
+}

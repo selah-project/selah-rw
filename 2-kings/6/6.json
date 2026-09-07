@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umuntu w'Elohimu aravuga ati: Hehe cyaguye? Nuko aramuweretse ⟨את⟩ ahantu, aratema agati arakishyira iyo, maze icyuma cyatuma kureremba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "cyaguye"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "aramweretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahantu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "aratema"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "agati"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "arakishyira"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "cyatuma kureremba"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "icyuma"
+    }
+  ],
+  "timestamp": "2026-09-07T14:09:42.029372809Z",
+  "model": "glm-5.3"
+}

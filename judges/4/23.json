@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze Elohimu arahezwa ku uwo munsi ⟨את⟩ Yavini, umwami w'i Kenaani, imbere y'abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "arahezwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavini"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "w'i Kenaani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:52:46.727153424Z",
+  "model": "glm-5.3"
+}

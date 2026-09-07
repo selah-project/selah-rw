@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 30:21",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Mwana w'umuntu, ⟨את⟩ uruboko rwa Paro (Farawo), umwami wa Mitsrayimu (Egiputa), naruvunye; maze reba, ntirwubandwe kugira ngo rwavurwe, ngo bushyirwe urwandiko ruko rwanitse ngo rurundwe, ngo rushobore gufata icyoza.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruboko rwa Paro"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "uruboko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "naruvunye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze reba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "חבשה",
+      "gloss": "rwubandwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "rwavurwe"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ngo bushyirwe"
+    },
+    {
+      "surface": "חתול",
+      "gloss": "urwandiko ruko rwanitse"
+    },
+    {
+      "surface": "לחבשה",
+      "gloss": "ngo rurundwe"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "ngo rushobore"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "gufata"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "icyoza"
+    }
+  ],
+  "timestamp": "2026-09-07T17:11:00.876472268Z",
+  "model": "glm-5.3"
+}

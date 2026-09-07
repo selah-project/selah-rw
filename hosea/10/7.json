@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Shomroni yarasizwe n'umwami wayo ⟨ni⟩ nk'urunyeganyega ku maso y'amazi.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "yarasizwe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "umwami wayo"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "nk'urunyeganyega"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:48.374606514Z",
+  "model": "glm-5.3"
+}

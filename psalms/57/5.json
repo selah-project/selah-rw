@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Nefeshi yanjye iri hagati y'ingwe; ndaryamye mu bazitse — mu bantu, ibyumba byabo, amenyo yabo ⟨ni⟩ icumu n'imyambi, kandi ururami rwabo ⟨ni⟩ umupanga unyuraje.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iri hagati ya"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ingwe"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndaryamye"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "mu bazitse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amenyo yabo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "icumwi"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "n'imyambi"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "kandi ururami rwabo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "unyuraje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:38.035454691Z",
+  "model": "glm-5.3"
+}

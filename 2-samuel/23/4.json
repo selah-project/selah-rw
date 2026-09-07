@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ari we nk'urumuri rw'igitondo, izuba rizira — gitondo ntacyo gihishye — mu mirasire y'iyo imvura ubwatsi bubarurwa mu isi.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "nk'urumuri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rw'igitondo"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "rizira"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "gitondo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "mu mirasire"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "y'imvura"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ubwatsi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:24:30.413071790Z",
+  "model": "glm-5.3"
+}

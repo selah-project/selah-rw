@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "No mu baririmbyi: Eliyashibu. No mu barinzi b'irembo: Shallumu, Telemu, na Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "mu baririmbyi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliyashibu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mu barinzi b'irembo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallumu"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "na Telemu"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:19:16.896289020Z",
+  "model": "glm-5.3"
+}

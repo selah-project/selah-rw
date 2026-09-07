@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Nuko umwami Dawidi yaratumye, baza Mefibosheti mu nzu ya Makhiri mwene Amiyeli, mu Lodebaru.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yaratumye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiyeli"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lodebaru"
+    }
+  ],
+  "timestamp": "2026-09-07T13:04:26.676172553Z",
+  "model": "glm-5.3"
+}

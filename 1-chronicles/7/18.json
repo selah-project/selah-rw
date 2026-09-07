@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "N'umushiki we Hamoleketi yabyaye ⟨את⟩ Ishodi, na ⟨את⟩ Aviyezeri, na ⟨את⟩ Mahila.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "n'umushiki we"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamoleketi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aviyezeri"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviyezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mahila"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahila"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:38.537064682Z",
+  "model": "glm-5.3"
+}

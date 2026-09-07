@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kubw'iyi mpamvu, kubera mwe, Tsiyoni izahingwa nk'umurima, na Yerushalayimu izaba urutare rw'amabuye, n'urutare rw'inzu ruzaba nk'imisozi miremire y'ishyamba.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kubw'iyi mpamvu"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "kubera mwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "nk'umurima"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "izahingwa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "urutare rw'amabuye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "והר",
+      "gloss": "n'urutare"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rw'inzu"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "nk'imisozi miremire"
+    },
+    {
+      "surface": "יער",
+      "gloss": "y'ishyamba"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:20.072386247Z",
+  "model": "glm-5.3"
+}

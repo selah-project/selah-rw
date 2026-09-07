@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Kandi hesedi ya Yahwe ⟨ni⟩ kuva iteka kugera ku iteka, ku babimutinya; n'ubutungane bwe, ku bana b'abana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "kandi hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuva iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "babimutinya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "n'ubutungane bwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana b'"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:02.036651969Z",
+  "model": "glm-5.3"
+}

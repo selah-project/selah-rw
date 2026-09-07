@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ko muri wowe ndiruka ku itsinda ry'ingabo, kandi n'Elohimu wanjye ndarerera urukingo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ndiruka"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ku itsinda ry'ingabo"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "kandi n'Elohimu wanjye"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ndarerera"
+    },
+    {
+      "surface": "שור",
+      "gloss": "urukingo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:18.515728911Z",
+  "model": "glm-5.3"
+}

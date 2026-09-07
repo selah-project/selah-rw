@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nk'ibyanda warabikuyeho abakori bose y'isi; niyo mpamvu nkunda ubuhamya bwawe.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Nk'ibyanda"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "warabikuyeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "abakori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "niyo mpamvu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nkunda"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ubuhamya bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:03.703324035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Njye ni Yahwe, kandi nta kindi hariho; nta Elohimu itari njye gusa — naguhamye, nubwo utanzitse.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kindi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "itari njye gusa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "naguhamye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nubwo uta-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "-nzitse"
+    }
+  ],
+  "timestamp": "2026-09-07T15:22:20.015600373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kuko ibizira kwa Yahwe ni buri wese ukora ibi; kandi kubera ibi bizira aya, Yahwe Elohimu wawe arimo kurandura ⟨את⟩ bo imbere yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ibizira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ibi bizira"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "arimo kurandura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo (amahanga)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "imbere yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:04:03.556096325Z",
+  "model": "glm-5.3"
+}

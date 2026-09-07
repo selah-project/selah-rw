@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Barazanye ⟨את⟩ isanduku ya Yahwe, na ⟨את⟩ ihema ry'ihuriro, na ⟨את⟩ ibikoresho by'ubutagatifu byose biri mu ihema; maze abakohenu n'abalavi barazanye ⟨את⟩ ibyo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "barazanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihema ry'ihuriro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho by'ubutagatifu byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "by'ubutagatifu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "barazanye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "n'abalavi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:12.899152049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Elohimu yumva ⟨את⟩ uruhingo rwabo, Elohimu aribuka ⟨את⟩ beriti ye, ⟨את⟩ Avrahamu (Aburahamu), ⟨את⟩ Yitsaki (Isaka), na ⟨את⟩ Yaakovu (Yakobo).",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhingo rwabo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "uruhingo rwabo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "aribuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti ye"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beriti ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki (Isaka)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu (Yakobo)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:28.597840070Z",
+  "model": "glm-5.3"
+}

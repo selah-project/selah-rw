@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kubw'iri bivugwa mu gitabo cy'intambara za Yahwe: ⟨את⟩ Vahebu muri Sufahi, na ⟨את⟩ imigezi ya Arnonu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kubw'iri (ku)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iri (kubw'iri)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bivugwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "cy'intambara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vahebu"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vahebu"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "muri Sufahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigezi"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "ya Arnonu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:23:43.887340375Z",
+  "model": "glm-5.3"
+}

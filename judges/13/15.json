@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Manoahi yarabwije umumalayika wa Yahwe ati: Ndagusaba, tuhore ⟨את⟩ wowe, tumegereze imbere yawe uruhara rw'ihene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwije"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "tuhore"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagusaba"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe (umumalayika)"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "tumegereze"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "rw'ihene"
+    }
+  ],
+  "timestamp": "2026-09-07T12:08:35.772756455Z",
+  "model": "glm-5.3"
+}

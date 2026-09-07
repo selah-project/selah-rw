@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Amagambo ya Yahwe ni amagambo meza bitevye: nka feza yorodutse mu nkono y'ubutaka, yorodujwe inshuro irindwi.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Amagambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "meza bitevye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nka feza"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "yorodutse"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "mu nkono"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "y'ubutaka"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "yorodujwe"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "inshuro irindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.150592322Z",
+  "model": "glm-5.3"
+}

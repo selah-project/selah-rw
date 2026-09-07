@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yibukiye iteka ry'ibihumbi by'imyaka beriti ye, ijambo yategetse ku muryango w'imyaka igihumbi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yibukiye"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ry'ibihumbi by'imyaka"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beriti ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ku muryango w'"
+    },
+    {
+      "surface": "דור",
+      "gloss": "imyaka igihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:01.419384608Z",
+  "model": "glm-5.3"
+}

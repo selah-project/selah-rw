@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Maze yarazamuye umunwa ku bantu be, ikuzo ku bahesedi be bose, ku bavukana i Yisraeli, abantu begereye we. Nimusingize Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "maze yarazamuye"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "umunwa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ku bantu be"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ku bahesedi be"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bavukana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "begereye we"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:38.056995295Z",
+  "model": "glm-5.3"
+}

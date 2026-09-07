@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Maze Yahwe aba iwanjye ⟨nk'urwibazigo⟩, kandi Elohimu wanjye ⟨nk'urutare⟩ rw'ubuhungiro bwanjye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maze aba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "nk'urwibazigo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kandi Elohimu wanjye"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "nk'urutare"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "rw'ubuhungiro bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:00.804627439Z",
+  "model": "glm-5.3"
+}

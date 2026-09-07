@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Kuko ubusa bahishe kuri njye urwobo, imbarutso zabo; ubusa bahinze ku nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bahishe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "urwobo"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "imbarutso zabo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bahinze"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ku nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:58.782951185Z",
+  "model": "glm-5.3"
+}

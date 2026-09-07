@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ari jyewe n'umukene kandi n'uburwayi bunaniwe; ukokozi kwawe, Elohimu, unsigire hejuru.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ari jyewe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "kandi n'uburwayi bunaniwe"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ukokozi kwawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "unsigire hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.310097120Z",
+  "model": "glm-5.3"
+}

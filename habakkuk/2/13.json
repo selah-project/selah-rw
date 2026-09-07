@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ese ntibimeze? Dore, ivuye kuri ⟨את⟩ Yahwe Tsevaoti: amahanga azahigana mu muriro, ubwoko mu ubusa bwoherwa.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ese ntibimeze?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ivuye kuri ⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "azahigana"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "muriro"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "bwoherwa"
+    }
+  ],
+  "timestamp": "2026-09-07T17:53:16.690773185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze basubijwe ⟨את⟩ Moshe na ⟨את⟩ Aharoni kwa Paro, arababwira ati: Nimugende, mukorere ⟨את⟩ Yahwe Elohimu wanyu — nde na nde ni abazagenda?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "maze basubijwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nimugende"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mukorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na nde"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abazagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:05.592829540Z",
+  "model": "glm-5.3"
+}

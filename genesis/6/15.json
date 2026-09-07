@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Uko niko urakora ⟨את⟩ urwato: amajana atatu y'amarama ⟨ni⟩ uburebure bw'urwato, amarama mirongo itanu ⟨ni⟩ ubugari bwaryo, amarama makumi atatu ⟨ni⟩ ubuhagarike bwaryo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "urakora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "urwato"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amarama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uburebure"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bw'urwato"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amarama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amarama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ubuhagarike"
+    }
+  ],
+  "timestamp": "2026-09-07T07:39:26.783459274Z",
+  "model": "glm-5.3"
+}

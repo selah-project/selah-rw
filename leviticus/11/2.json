@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Mubwire abana ba Yisraeli muti: iyi ni inyamaswa muzalya mu byo ari inyamaswa zose ziri kuri isi.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Mubwire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzalya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byo ari"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "inyamaswa zose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ziri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:37.761325431Z",
+  "model": "glm-5.3"
+}

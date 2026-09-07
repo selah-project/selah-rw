@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Kutura mu bihisha ⟨abatungane⟩: bimara gutasohora, kandi bataratinya.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "gutura"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mu bihisha"
+    },
+    {
+      "surface": "תם",
+      "gloss": "abatungane"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "bimara"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "baturashe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi batabwira"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "gutinya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:33.724026359Z",
+  "model": "glm-5.3"
+}

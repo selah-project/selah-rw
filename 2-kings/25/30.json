@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "N'ibiribwa bye — igitigiri iteka — kirahabwa we ku ⟨את⟩ umwami, igipimo cya buri munsi mu munsi wawo, iminsi yose y'ubuzima bye.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "n'ibiribwa bye"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "igitigiri"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kirahabwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igipimo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "cya buri munsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mu munsi wawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "y'ubuzima bye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:34:35.851085368Z",
+  "model": "glm-5.3"
+}

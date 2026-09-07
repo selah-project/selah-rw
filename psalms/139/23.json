@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Nsesa, Eli, umenye umutima wanjye; nsuzume, umenye ibyiyumviro byanjye",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "nsesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "umenye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "nsuzume"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "umenye"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ibyiyumviro byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:22.107413176Z",
+  "model": "glm-5.3"
+}

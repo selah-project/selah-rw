@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Mu bwisuganyi bwawe unrokore mpe unkirize; tume ijana ugutwi kwawe, maze unsekure.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Mu bwisuganyi bwawe"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "unrokore mpe"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "unkirize"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tume"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "maze unsekure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:34.034788096Z",
+  "model": "glm-5.3"
+}

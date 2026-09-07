@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ukunda mu kwigishwa arakunda ubumenyi, maze uhakana ikoswa ni umutavu.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ukunda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mu kygishwa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "arakunda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "maze uhakana"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ikoswa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ni umutavu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:31.840623107Z",
+  "model": "glm-5.3"
+}

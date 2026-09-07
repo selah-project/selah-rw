@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Imyanda y'urupfu yaranzeye, kandi ibyago bya Sheoli biransanze; umunaniro n'agahinda nzasanze.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "yaranzeye"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Imyanda"
+    },
+    {
+      "surface": "מות",
+      "gloss": "y'urupfu"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "kandi ibyago bya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "biransanze"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "umunaniro"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "n'agahinda"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nzasanze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:45.644414689Z",
+  "model": "glm-5.3"
+}

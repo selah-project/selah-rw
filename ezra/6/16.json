@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Abahungu ba Yisraeli — abaherezi, abalevi, n'ibisigaye mu bahungu b'ubuhumbi — bakorera hanukati y'inzu ya Elaha iyi mu cyishimo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "bakorera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "abalevi"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "n'ibisigaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bahungu"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "b'ubuhumbi"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "hanukati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "y'inzu"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ya Elaha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "mu cyishimo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:30.485030872Z",
+  "model": "glm-5.3"
+}

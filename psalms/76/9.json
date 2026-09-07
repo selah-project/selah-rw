@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Mu ijuru wamenyesheje imanja; isi yatinyuye kandi ihororoka.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Mu ijuru"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "wamenyesheje"
+    },
+    {
+      "surface": "דין",
+      "gloss": "imanja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yatinyuye"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "kandi ihororoka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:46.980171893Z",
+  "model": "glm-5.3"
+}

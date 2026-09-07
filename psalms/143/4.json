@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Umwoho wanjye warahenengeye ku njye; mu mubiri wanjye umutima wanjye warahungabanye.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "warahenengeye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwoho wanjye"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "mu mubiri wanjye"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "warahungabanye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:46.320804528Z",
+  "model": "glm-5.3"
+}

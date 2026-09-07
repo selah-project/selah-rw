@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yaakovu yavuye i Beersheba, maze agenda ajya i Harani.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yavuye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "i Beersheba ⟨urwobo rwa⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agenda ajya"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "i Harani"
+    }
+  ],
+  "timestamp": "2026-09-07T08:02:16.608673432Z",
+  "model": "glm-5.3"
+}

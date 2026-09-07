@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ijuru n'isi bimusingize, amazi n'ibintu byose bikoreragura mu byo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "bimusingize"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ibintu byose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "bikoreragura"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mu byo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:40.097092622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 127,
+  "translation": "Uruhimbi rwo kwiyungera, rwa Shelomo (Salomo). Niba Yahwe atubaka inzu, mu ubusa barabazi abatubaka; niba Yahwe ntaguma idasinzira ku murongo w'umujyi, mu ubusa umurinzi aguma adasinzira.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Uruhimbi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "rwo kwiyungera"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "rwa Shelomo (Salomo)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "atubaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mu ubusa"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "barabazi"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "abatubaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "taguma idasinzira ku murongo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "w'umujyi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mu ubusa"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "aguma adasinzira"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "umurinzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:10.728225947Z",
+  "model": "glm-5.3"
+}

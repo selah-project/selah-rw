@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Izaburi ya Dawidi. Muhe Yahwe, abana b'Eli; muhe Yahwe icubahiro n'ubushobozi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Izaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Muhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "b'Eli"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "muhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icubahiro"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "n'ubushobozi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:20.089373527Z",
+  "model": "glm-5.3"
+}

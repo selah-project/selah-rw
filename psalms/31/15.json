@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ariko njye, Yahwe we, muri wewe nizeye; navuze nti: Wowe ⟨ni⟩ Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "muri wewe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:40.553652068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Iyanjye ni Giladi, iyanjye ni Menashshe; Efrayimu ⟨ni⟩ umutekano w'umutwe wanjye, Yehudah ⟨ni⟩ u-shinza amategeko wanjye.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "iyanjye"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyanjye"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "n'Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "umutekano"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "w'umutwe wanjye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "u-shinza amategeko wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:16.857181182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Maze bashyiriye ho umugozi wa tekeleti, kugira ngo bawushyire hejuru y'umutwerero, uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bashyiriye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "umugozi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "wa tekeleti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kugira ngo bawushyire"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umutwerero"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:10.323713661Z",
+  "model": "glm-5.3"
+}

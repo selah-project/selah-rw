@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 11:6",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yaravuze ati Yehoshuwa: Ntutinye bo, ko ejo ku gihe cy'iki, njye ndahereka ⟨את⟩ bose bapfuye imbere ya Yisraeli; ⟨את⟩ amafarashi yabo uzakata imitsi, na ⟨את⟩ ibiringanishwa byabo uzazitotya mu muriro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "utinye"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ejo"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ku gihe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cy'iki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndahereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bose"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "bapfuye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafarashi yabo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "amafarashi yabo"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "uzakata (imitsi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiringanishwa byabo"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ibiringanishwa byabo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "uzazitotya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T11:35:15.520731048Z",
+  "model": "glm-5.3"
+}

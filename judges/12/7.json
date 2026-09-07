@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yiftahi yacirutse ⟨את⟩ Yisraeli imyaka gatandatu; maze Yiftahi w'i Giladi apfa, arazikwa mu midugudu ya Giladi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yacirutse"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gatandatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "apfa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "w'i Giladi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "arazikwa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "mu midugudu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Giladi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:09:42.272422628Z",
+  "model": "glm-5.3"
+}

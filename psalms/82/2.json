@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Kugeza igihe ki mutosora ikarengane, amaso y'abanyabyaha mukazamura? Selahi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "igihe ki"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mutosora"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ikarengane"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "amaso y'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abanyabyaha"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "mukazamura"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:28.671604028Z",
+  "model": "glm-5.3"
+}

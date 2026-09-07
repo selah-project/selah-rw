@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyi ni iminsi yagenwe na Yahwe, iminani igitagatifu, muzahamagara ⟨את⟩ mu gihe cyayo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "iminsi yagenwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "iminani"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "muzahamagara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mu gihe cyayo"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "mu gihe cyayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:32.434326837Z",
+  "model": "glm-5.3"
+}

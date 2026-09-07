@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ineza y'ingoma rwarahagaze, urusaku rw'abishimye rwaraciwe, ineza ya kinora rwarahagaze.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "rwarahagaze"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "Ineza"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "y'ingoma"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "rwaraciwe"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "urusaku"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "rw'abishimye"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "rwarahagaze"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ineza"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ya kinora"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:24.771502234Z",
+  "model": "glm-5.3"
+}

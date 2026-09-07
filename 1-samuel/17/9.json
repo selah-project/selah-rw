@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Niba ashobora kurwana na ⟨את⟩ njye akanantera, tuzaba abacakara banyu; ariko niba njye nshobora kumutsinda namutera, muzaba abacakara bacu, unamukore ⟨את⟩ twebwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ njye",
+      "marks": "kurwana na njye"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "akanantera"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tuzaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "abacakara"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ariko niba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nshobora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "namutera"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "muzaba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bacu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "abacakara"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "unamukore"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ twebwe",
+      "marks": "unamukore (twebwe)"
+    }
+  ],
+  "timestamp": "2026-09-07T12:38:18.564188625Z",
+  "model": "glm-5.3"
+}

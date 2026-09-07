@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu asohoka ajya hanze y'umurwa; kohenu areba, maze dore, ikimenyetso cy'urwangura cyakize kuri uwagwaye urwangura.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "asohoka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'umurwa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "areba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze dore"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "cyakize"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "cy'urwangura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "uwagwaye urwangura"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:54.200927361Z",
+  "model": "glm-5.3"
+}

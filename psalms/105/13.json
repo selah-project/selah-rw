@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Baratembagenda mu gihugu ku kindi, mu bwami mu bw'ubwami bw'abantu abandi.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "baratembagenda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kindi"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "mu bwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bw'abantu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "abandi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:02.059036200Z",
+  "model": "glm-5.3"
+}

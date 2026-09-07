@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Wowe hejuru inyuma y'urumuri rwawe rwo k'igihe (urute) — heza: Wowe, zoroshya inyuma y'urumuri rwawe, unyoresha ukuboko kwawe ku nyanja, uyitandukanye, ngo abana b'Yisraeli binjire mu maso y'inyanja mu busitani bomeza (kwo ku gitaka cyakomereye).",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "zamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuhoro wawe"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "umuhoro wawe"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "unyoresha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwawe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "uyitandukanye"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "binjire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu maso y'"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ku gitaka cyakomereye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:47:32.273311804Z",
+  "model": "glm-5.3"
+}

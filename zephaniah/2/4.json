@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Amaherezo: Aza izaba iyabewe, Ashkeloni izaba ubutayu; Ashdodi bazirukana mu manywa, Ekroni izavanywe umizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Amaherezo:"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "izaba iyabewe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "Ashkeloni"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "mu manywa"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "bazirukana"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "izavanywe umizi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:55:32.014924343Z",
+  "model": "glm-5.3"
+}

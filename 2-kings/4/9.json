@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yabwiye ku umugabo we ati: Reba nonaha, ndazi ko umuntu w'Elohimu utagatifu ni we, we utambukiraho buri gihe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umugabo we"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nonaha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "utambuka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atambukiraho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:11.819924986Z",
+  "model": "glm-5.3"
+}

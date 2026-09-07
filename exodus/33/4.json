@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze umuryango urumvise ⟨את⟩ ijambo ribi rityo, bararira bakina agahinda; kandi nta muntu wambaye itunzi bye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "urumvise"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo ribi rityo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ribi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rityo"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "bararira bakina agahinda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wambaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "itunzi bye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:08.490814780Z",
+  "model": "glm-5.3"
+}

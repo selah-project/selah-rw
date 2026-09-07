@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Washyize ibyaha byacu imbere yawe, ibyihishe byacu ku rumuri rw'uruhanga rwawe.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Washyize"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ibyaha byacu"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ibyihishe byacu"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ku rumuri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rw'uruhanga rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:25.319404013Z",
+  "model": "glm-5.3"
+}

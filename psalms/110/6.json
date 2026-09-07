@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Azahanura mu mahanga, azuzuza ⟨imibiri yapfuye⟩, yasenye umutwe ku isi nini.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "azahanura"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "azuzuza"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "imibiri yapfuye"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "yasenye"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nini"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:54.504952302Z",
+  "model": "glm-5.3"
+}

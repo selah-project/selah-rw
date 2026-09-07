@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ese yamukubise nko kwibasira abamukubise? Cyangwa yiciwe nko kwica abiciwe n'we?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "nko kwibasira"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "abamukubise"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "yamukubise"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Cyangwa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "nko kwica"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "abiciwe n'we"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yiciwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:00:44.162603848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Erekana ijambo rye kuri Yaakovu (Yakobo), amategeko ye n'imyanzuro ye kuri Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Erekana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuri Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "n'imyanzuro ye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuri Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:42.382306080Z",
+  "model": "glm-5.3"
+}

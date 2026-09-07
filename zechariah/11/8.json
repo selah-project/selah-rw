@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze nsesengura ⟨את⟩ abangeri batatu mu kwezi kumwe; Nefeshi yanjye yarananiwe nabo, kandi Nefeshi yabo n'iyo yanshimishije.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "maze nsesengura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abangeri batatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abangeri"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kumwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "yarananiwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "Nefeshi yabo"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "yashimishije"
+    },
+    {
+      "surface": "בי",
+      "gloss": "jye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:02:53.888665708Z",
+  "model": "glm-5.3"
+}

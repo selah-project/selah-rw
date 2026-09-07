@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yazamuye ⟨את⟩ umwanzi Shelomoh: Hadadi umuEdomi, w'urubyaro rw'umwami — ni we muri Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "umuEdomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "w'urubyaro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rw'umwami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muri Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:45:52.939095765Z",
+  "model": "glm-5.3"
+}

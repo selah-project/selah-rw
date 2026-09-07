@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Arakiza abamenetse imitima, akanabanda ku nkovu zabo.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "arakiza"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "abamenetse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "imitima"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "akanabanda"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ku nkovu zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:41.348725041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yabwiye ati: Uziko ureba neza, kuko njyewe ndashishikajeho ijambo ryanjye ngo ryakorwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yanjye"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "Uziko ureba neza"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "ndashishikajeho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ijambo ryanjye"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ngo ryakorwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:35.437987568Z",
+  "model": "glm-5.3"
+}

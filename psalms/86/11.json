@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Yigisha inzira yawe, Yahwe; nzagenda mu kuri kwawe. Vura umutima wanjye ngo ute kubera izina ryawe.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Yigisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "mu kuri kwawe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "Vura...ute"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:13.461789014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Iyo ndibukora Wowe ku gitanda cyanjye, mu masaha y'ijoro ndiyumvira Wowe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ndibukora Wowe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "gitanda cyanjye"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "mu masaha y'ijoro"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ndiyumvira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:48.166325830Z",
+  "model": "glm-5.3"
+}

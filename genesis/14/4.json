@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Imyaka cumi n'ibiri baraguje ⟨את⟩ Kedoralaomeri, maze mu mwaka wa cumi n'gatatu barigometse.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "n'ibiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "baraguje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedoralaomeri"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedoralaomeri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mu mwaka wa cumi n'gatatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "barigometse"
+    }
+  ],
+  "timestamp": "2026-09-07T07:44:01.310189186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Musingize, abamalayika be bose; musingize, ingabo ze zose.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "abamalayika be"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "musingize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ingabo ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:33.543511075Z",
+  "model": "glm-5.3"
+}

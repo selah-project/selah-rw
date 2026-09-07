@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Arababwira ati: Uko Yahwe, Elohimu wa Yisraeli, avuga ngo: Nimubwire uwo muntu wabatumye iwanjye ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Arababwira ati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Nimubwire"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yabatumye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:06:54.596790854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze Yahwe amara iteka agicaye mu bwami; yashyiriyeho intebe ye y'urubanza.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Maze Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amara iteka"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agicaye mu bwami"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "yashyiriyeho"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "y'urubanza"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "intebe ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:55.499339382Z",
+  "model": "glm-5.3"
+}

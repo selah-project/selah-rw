@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ikiro cya Shabati cy'ubutaka kizaba ibiryo kuri mwe — kuri wowe, umugaragu wawe, umuja wawe, umukozi wawe w'ingengo, n'uwutuye mu ndaro uturukana nawe.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "kizaba ⟨ni⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Ikiro cya Shabati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cy'ubutaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ibiryo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "umukozi wawe w'ingengo"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "n'uwutuye mu ndaro"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "uturukana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:00.787502359Z",
+  "model": "glm-5.3"
+}

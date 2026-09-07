@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ndarimo kukwirakwiza ⟨את⟩ wowe mu mahanga, kandi ndazakumenyeshesha mu bihugu, kandi ubwangavu bwawe ndazabuhera muri wewe.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "kandi ndazakwirakwiza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "kandi ndazakumenyeshesha"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mu bihugu"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "kandi ndazahera"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "ubwangavu bwawe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "muri wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:01:15.786737404Z",
+  "model": "glm-5.3"
+}

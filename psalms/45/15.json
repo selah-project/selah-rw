@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Mu myambaro y'ubudoke azazanwa ku mwami; inkumi zikurikiyeho, n'inshuti ze zizazanwa kwawe.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "mu myambaro y'ubudoke"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "azazanwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku mwami"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "zikurikiyeho"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "inshuti ze"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "zizazanwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:31.114384210Z",
+  "model": "glm-5.3"
+}

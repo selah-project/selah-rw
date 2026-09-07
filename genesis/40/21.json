@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Paro yasubije ⟨את⟩ umukuru w'abahanzi b'ibinyobwa ku buhanzi bwiwe, maze uta inkuki mu nkono ya Paro.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukuru w'abahanzi b'ibinyobwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "w'abahanzi b'ibinyobwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "buhanzi bwiwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze uta"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "inkuki"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "nkono"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:14:59.591074043Z",
+  "model": "glm-5.3"
+}

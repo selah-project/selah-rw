@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Ntimukomeze imitima yanyu nka Meriba, nk'uwo munsi wa Massa mu butayu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntimu-"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "komeze"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "imitima yanyu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "nka Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nk'uwo munsi"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "wa Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:02.717059558Z",
+  "model": "glm-5.3"
+}

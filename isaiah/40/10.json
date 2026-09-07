@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Nareba, Adonayi Yahwe azaza ku cyome, kandi ukuboko kwe ni ko kugira ubwami kuri we; nareba, impembo ye iri ⟨את⟩ kuri we, n'igikorwa cye kiri imbere ye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Nareba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ku cyome"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kandi ukuboko kwe"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "kugira ubwami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nareba"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "impembo ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iri kuri we"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "n'igikorwa cye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:43.997983077Z",
+  "model": "glm-5.3"
+}

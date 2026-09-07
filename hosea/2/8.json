@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Niyo mpamvu, raba, ndazizengurutsa ⟨את⟩ inzira yawe n'urutozo, maze nzubaka ⟨את⟩ urugo, kandi inzira ze ntizazibona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "niyo mpamvu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "raba, ndi"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ndazizengurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "n'urutozo"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "maze nzubaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugo"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "urugo"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "kandi inzira ze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ntizazibona"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:42.732791928Z",
+  "model": "glm-5.3"
+}

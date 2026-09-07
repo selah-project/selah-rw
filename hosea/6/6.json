@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kuko hesedi nifuza, atari igitambo; kandi umumenyi wa Elohimu kurusha ibitambo byo kwaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nifuza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igitambo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kandi umumenyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohimu"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ibitambo byo kwaka"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:31.795893760Z",
+  "model": "glm-5.3"
+}

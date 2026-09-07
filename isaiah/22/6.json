@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Elamu yazamuye igitebo cy'imyambi, hamwe n'abagabo b'abanyamfarashi; n'ab'i Kiri barakohera urwipinga.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Elamu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "igitebo cy'imyambi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "hamwe n'amagare y'intambara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "abanyamfarashi"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "ab'i Kiri"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "barakohera"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "urwipinga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:55:13.919115157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ahazi yafashe ⟨את⟩ ifeza na ⟨את⟩ zahabu byabonetse mu nzu ya Yahwe no mu bubiko bwa nzu y'umwami, maze ayohereje k'umwami w'Ashuru — ihembe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "byabonetse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "no mu bubiko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bwa nzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ayohereje"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "k'umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ihembe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:26:15.672176855Z",
+  "model": "glm-5.3"
+}

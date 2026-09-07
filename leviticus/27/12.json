@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kohenu arabiciye agaciro ⟨את⟩ ko ari umwe mwiza cyangwa umwe mubi; uko wabiciye agaciro wawe, kohenu, ni ko kizaba.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "arabiciye agaciro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ko ari umwe mwiza cyangwa umwe mubi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ko ari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "umwe mwiza"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "umwe mubi"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "uko wabiciye agaciro wawe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kizaba"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:26.706191867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Niba yanyaguwe rwose, azane ibyanyaguwe nk'umubyeyi; nta cyo yishyura.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yanyaguwe"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "azane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umubyeyi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ibyanyaguwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "cyo yishyura"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.689667693Z",
+  "model": "glm-5.3"
+}

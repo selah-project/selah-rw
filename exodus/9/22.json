@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yabwiye Moshe (Mose) ati: Koroshereza ⟨את⟩ intoki yawe ku ijuru, maze habeho uruboba mu gihugu cyose cya Mitsrayimu (Egiputa), ku muntu, ku matungo, no ku bimera byose byo mu murima, mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "koroshereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki yawe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze habeho"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "uruboba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu gihugu cyose cya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "matungo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bimera"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "byo mu murima"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:39.087720422Z",
+  "model": "glm-5.3"
+}

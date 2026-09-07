@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 150,
+  "translation": "Muririmbire kubera ingufu ze nk'inkomezi; muririmbire kubera ubunini bwe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "kubera ingufu ze nk'inkomezi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kubera ubunini"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:14.593216663Z",
+  "model": "glm-5.3"
+}

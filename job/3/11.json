@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kubera iki ntagapfuye mu nda? Nvuye mu nda, nkomeze gupfa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta(ga)-"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndapfa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "Nvuye"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "nkomeze gupfa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:57.359514141Z",
+  "model": "glm-5.3"
+}

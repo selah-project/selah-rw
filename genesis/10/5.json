@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Muri aba ibizinga by'amahanga byaratandukanijwe mu ntara zazo, buri muntu mu rurimi rwe, ku muryango wabo, mu mahanga yabo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "muri aba"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "byaratandukanijwe"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ibizinga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "by'amahanga"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mu ntara zazo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "mu rurimi rwe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mu mahanga yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:43.783829962Z",
+  "model": "glm-5.3"
+}

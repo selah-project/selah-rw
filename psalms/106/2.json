@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Ni nde uzavuga ingufu za Yahwe, ni nde uzumviriza isebugo rye yose?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "uzavuga"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ingufu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "uzumviriza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "isebugo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:07.452435634Z",
+  "model": "glm-5.3"
+}

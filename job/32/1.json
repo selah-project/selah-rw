@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Nuko abantu bathatu aya bahagurutse gusubiza ⟨את⟩ Iyovu, kuko we ⟨ari⟩ intunganye mu maso ye.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "bahagurutse"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "bathatu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "gusubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyovu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "intunganye"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:36:03.978412002Z",
+  "model": "glm-5.3"
+}

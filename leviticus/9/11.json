@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ inyama na ⟨את⟩ uruhu yabyashe mu muriro hanze y'umuhiro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhu"
+    },
+    {
+      "surface": "העור",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yabyashe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'umuhiro"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:43.964816752Z",
+  "model": "glm-5.3"
+}

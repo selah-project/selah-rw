@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Yahwe arwanura Nefeshi z'abaragu be, kandi nta na kimwe mu bicingiye kuri we kizahanwa.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "arwanura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "z'abaragu be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "kizahanwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "mu bicingiye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:40.770049300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Umushyikirano w'Efrayimu uzahunze, abansi ba Yehuda bazahabwa igihe: Efrayimu ntazashyikirana ⟨את⟩ Yehuda, na Yehuda ntazatoteza ⟨את⟩ Efrayimu.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "uzahunze"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "umushyikirano"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "w'Efrayimu"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "abansi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bazahabwa igihe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "zashyikirana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "zatoteza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:29.865408056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Abahungu b'abanyamahanga bazubake urukingo rwawe, n'abami babo bakugirire ubutumwa; kuko mu bahutu yanjye nakubise, ariko mu kwishimirwa kwanjye nakagirira impuhwe.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "bazubake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "b'abanyamahanga"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "urukingo rwawe"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "n'abami babo"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "bakugirire ubutumwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "mu bahutu yanjye"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "nakubise"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "mu kwishimirwa kwanjye"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "nakagirira impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:30:33.456217781Z",
+  "model": "glm-5.3"
+}

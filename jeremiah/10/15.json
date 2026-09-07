@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ibyo ni ubusa, ibikorwa by'ububeshi; mu gihe cyo kuziburwa kwazo zizazimira.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "by'ububeshi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "cyo kuziburwa kwazo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zizazimira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:48:33.411711226Z",
+  "model": "glm-5.3"
+}

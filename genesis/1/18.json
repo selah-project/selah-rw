@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "no kugira itegeko mu munsi no mu ijoro, no gutandukanya hagati y'urumuri n'umwijima; Elohimu yarabonye ko ⟨ni⟩ cyiza.",
+  "tokens": [
+    {
+      "surface": "וְלִמְשֹׁל",
+      "gloss": "no kugira itegeko"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "וּבַלַּיְלָה",
+      "gloss": "no mu ijoro"
+    },
+    {
+      "surface": "וּלֲהַבְדִּיל",
+      "gloss": "no gutandukanya"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "hagati y'"
+    },
+    {
+      "surface": "הָאוֹר",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הַחֹשֶׁךְ",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "cyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:46.832263060Z",
+  "model": "glm-5.3"
+}

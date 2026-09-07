@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Uzakora inkono y'umuringa n'umusingi wayo w'umuringa ⟨zo kwogera⟩; maze uzashyira ⟨את⟩ mu hagati y'ihema ry'uhuirano n'urwatamiro, maze uzashyira muri yo amazi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzakora"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "inkono"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "y'umuringa"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "n'umusingi wayo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "w'umuringa"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "⟨zo kwogera⟩"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inkono"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mu hagati"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "y'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'uhuirano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "urwatamiro"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:46.942262247Z",
+  "model": "glm-5.3"
+}

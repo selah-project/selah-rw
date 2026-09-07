@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Bumvise abantu bose bo mu Yaveshi wa Giladi ⟨את⟩ ibyose Abapelishti bakoze kuri Shauli,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Bumvise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abapelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuri Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:35:23.954650856Z",
+  "model": "glm-5.3"
+}

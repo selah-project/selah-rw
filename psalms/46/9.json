@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Muze, murebe ibikorwa bya Yahwe — ko yashyize ibyangamiki mu isi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Muze"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ibyangamiki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:48.449904907Z",
+  "model": "glm-5.3"
+}

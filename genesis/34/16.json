@@ -1,0 +1,67 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "genesis 34:16",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 34,
+ "translation": "Maze duha mwe ⟨את⟩ abakobwa bacu, kandi ⟨את⟩ abakobwa banyu tudafata twebwe; tuzatura ⟨את⟩ na mwe, maze tuzaba ubwoko bumwe.",
+ "tokens": [
+  {
+   "surface": "ונתנו",
+   "gloss": "maze duha"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abakobwa bacu"
+  },
+  {
+   "surface": "בנתינו",
+   "gloss": "abakobwa bacu"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "kandi ⟨את⟩",
+   "marks": "abakobwa banyu"
+  },
+  {
+   "surface": "בנתיכם",
+   "gloss": "abakobwa banyu"
+  },
+  {
+   "surface": "נקח",
+   "gloss": "tudafata"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "twebwe"
+  },
+  {
+   "surface": "וישבנו",
+   "gloss": "tuzatura"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ na mwe"
+  },
+  {
+   "surface": "והיינו",
+   "gloss": "tuzaba"
+  },
+  {
+   "surface": "לעם",
+   "gloss": "ubwoko"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "bumwe"
+  }
+ ],
+ "timestamp": "2026-09-07T21:11:12.600309206Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ni njye Yahwe, Elohimu wanyu, nakuvanyemo ⟨את⟩ mwe mu gihugu cya Mitsrayimu (Egiputa), kugira ngo mbah⟨e⟩ mwe ⟨את⟩ igihugu cya Kenanu (Kanaani), kugira ngo nbe Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nakuvanyemo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kugira ngo mbaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Kenanu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenanu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kugira ngo nbe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwanyu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:02.841973452Z",
+  "model": "glm-5.3"
+}

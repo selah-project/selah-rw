@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Muririmbire Elohimu, imbaraga zacu; mukangire kuri Elohimu wa Yaakovu (Yakobo).",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "imbaraga zacu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mukangire"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuri Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:45.057631938Z",
+  "model": "glm-5.3"
+}

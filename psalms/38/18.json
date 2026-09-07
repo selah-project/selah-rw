@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Kuko njye ngitegereje guturatira, kandi ububabare bwanjye buhorore imbere yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "guturatira"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ngitegereje"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "kandi ububabare bwanjye"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buhorore"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:47.898026838Z",
+  "model": "glm-5.3"
+}

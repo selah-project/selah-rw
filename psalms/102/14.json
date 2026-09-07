@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Wowe uzazuka, uzagira impuhwe za Tsiyoni, kuko gihe cyo kuyigirira impuhwe cyageze, kuko igihe cyagenwe cyageze.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uzazuka"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "uzagira impuhwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "cyo kuyigirira impuhwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "cyageze"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "igihe cyagenwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:50.366782197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Aya ni bo abana ba Yishmaeli, kandi aya ni amazina yabo mu byaro byabo no mu bicaro byabo: abatware babiri na cumi ku buryo bw'amoko yabo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ba Yishmaeli"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kandi aya"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ni amazina yabo"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "mu byaro byabo"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "no mu bicaro byabo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na cumi"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "ku buryo bw'amoko yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:55:30.415730650Z",
+  "model": "glm-5.3"
+}

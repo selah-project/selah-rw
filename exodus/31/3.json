@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "exodus 31:3",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 31,
+ "translation": "maze namuzuzisha ⟨את⟩ umwuka wa Elohimu: mu bwenge, mu kubyumva, mu bumenyi no mu murimo wose;",
+ "tokens": [
+  {
+   "surface": "ואמלא",
+   "gloss": "maze namuzuzisha"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "we (Bitsaleli)"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "umwuka"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "wa Elohimu"
+  },
+  {
+   "surface": "בחכמה",
+   "gloss": "mu bwenge"
+  },
+  {
+   "surface": "ובתבונה",
+   "gloss": "no mu kubyumva"
+  },
+  {
+   "surface": "ובדעת",
+   "gloss": "no mu bumenyi"
+  },
+  {
+   "surface": "ובכל",
+   "gloss": "no mu"
+  },
+  {
+   "surface": "מלאכה",
+   "gloss": "murimo wose"
+  }
+ ],
+ "timestamp": "2026-09-07T09:09:21.020585772Z",
+ "model": "glm-5.3"
+}

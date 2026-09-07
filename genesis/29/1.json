@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yaakovu (Yakobo) yazamuye amaguru ye, maze ajya mu gihugu cya bene Kedemu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "amaguru ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maze ajya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedemu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:02:04.567238039Z",
+  "model": "glm-5.3"
+}

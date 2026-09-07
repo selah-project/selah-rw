@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Utugarura inyuma z'umwanzi, n'abatwanka baradutwungura kubw'abo.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "utugarura"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuva kuri"
+    },
+    {
+      "surface": "צר",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "n'abatwanka"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "baradutwungura"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubw'abo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:38.765748387Z",
+  "model": "glm-5.3"
+}

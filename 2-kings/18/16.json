@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Mu gihe icyo Hizikiyah yacitse ⟨את⟩ imiryango y'inzu nkuru ya Yahwe na ⟨את⟩ imipande y'umuryango Hizikiyah umwami wa Yehudah yari yosemo, maze abyiha umwami w'Ashuru.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiryango"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "y'inzu nkuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imipande y'umuryango"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "imipande y'umuryango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "yari yosemo"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "maze abyiha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:15.043968542Z",
+  "model": "glm-5.3"
+}

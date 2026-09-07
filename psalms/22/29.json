@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kubera ko ubwami ⟨ni⟩ bwa Yahwe, kandi we ni we utatura mu mahanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kubera ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kandi we ni we utatura"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:17.528260469Z",
+  "model": "glm-5.3"
+}

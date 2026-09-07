@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ibi ni ukwambikwa amavuta kwa Aharoni no kw'abana be, mu mibano ya Yahwe, ku munsi yagejejeho ⟨את⟩ Aharoni n'abana be ngo bakore umwuga wa kohenu kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ibi ni"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ukwambikwa amavuta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "no kw'abana be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mu mibano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "yagejejeho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni n'abana be"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ngo bakore umwuga wa kohenu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:55.794753140Z",
+  "model": "glm-5.3"
+}

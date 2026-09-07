@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umutima w'umukoheni wari mwiza, maze afata ⟨את⟩ efodi, na ⟨את⟩ terafimu, na ⟨את⟩ igishushanyo, hanyuma yinjira mu hagati y'abantu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wari mwiza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Umutima"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "w'umukoheni"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igishushanyo"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hanyuma yinjira"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu hagati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "y'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:29:21.786724506Z",
+  "model": "glm-5.3"
+}

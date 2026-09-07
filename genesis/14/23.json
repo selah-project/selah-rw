@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Niba mfata umudodo cyangwa uruhu rwa sandari, niba mfata mu byo ufite byose, kandi ntuzavuge uti: Ni njye wakunguyeje ⟨את⟩ Avramu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "umudodo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza ku"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "sandari"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi niba"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "mfata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ufite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntu-"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "zavuge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "uti: njye"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "wakunguyeje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:44:55.321555258Z",
+  "model": "glm-5.3"
+}

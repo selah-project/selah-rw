@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nyuma y'uyo mubyara yafashe ⟨את⟩ Maakaha (Maaka), umukobwa wa Avishalumu (Abishalumu); maze amubyara ⟨את⟩ Aviyahu (Abiya), na ⟨את⟩ Atayi, na ⟨את⟩ Ziza, na ⟨את⟩ Shelomiti.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "nyuma y'uyo mubyara"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakaha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalumu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "amubyara"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyahu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atayi"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelomiti"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomiti"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:12.774614549Z",
+  "model": "glm-5.3"
+}

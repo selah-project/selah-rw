@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kubw'ibyo nzaha ⟨את⟩ abagore babo abandi, kandi imirima yabo abazibyara; kuko uva ku muto kugera ku munini bose barimo gukurikira inyungu — uva kuri navi kugera kuri kohenu, bose bakora ibinyoma.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kubw'ibyo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore babo"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "abagore babo"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "abandi"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "imirima yabo"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "abazibyara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "uva ku muto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera ku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "barimo gukurikira"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "uva kuri navi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera kuri"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T15:47:53.734149586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Ni umunezero w'umuntu Yahwe ntabamubara inabi, kandi mu mwuka we nta buri uburyarya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ni umunezero"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ntabamubara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ye⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inabi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta buri"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "mu mwuka we"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "uburyarya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:22.671091341Z",
+  "model": "glm-5.3"
+}

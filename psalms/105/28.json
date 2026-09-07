@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yaratumye umwijima maze waba mwijima, kandi ntibyangiriye ⟨את⟩ ijambo rye.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Yaratumye"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "maze waba mwijima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "byangiriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo rye"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ijambo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:35.311942964Z",
+  "model": "glm-5.3"
+}

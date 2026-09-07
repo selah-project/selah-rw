@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "nimba ndaha ituya ry'amaso yanjye, kuri iherehu ry'amaso yanjye ihumure —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nimba"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndaha"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ituya ry'amaso"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "yanjye"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kuri iherehu ry'amaso yanjye"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ihumure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:41.303498285Z",
+  "model": "glm-5.3"
+}

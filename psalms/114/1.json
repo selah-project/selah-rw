@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 114,
+  "translation": "Mu gihe Yisraeli yavaga muri Mitsrayimu, inzu ya Yaakovu mu bantu b'ururimi ruderemba",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "mu gihe ... yavaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muri Mitsrayimu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakovu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "b'ururimi ruderemba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:36.072760253Z",
+  "model": "glm-5.3"
+}

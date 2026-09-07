@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Ingufu zanjye n'indirimbo yanjye ni Yah, maze Yah ihindukira ho agakiza kwanjye.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ingufu zanjye"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "n'indirimbo yanjye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze ihindukira ho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanjye"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "agakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:29.991313373Z",
+  "model": "glm-5.3"
+}

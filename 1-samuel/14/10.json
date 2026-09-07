@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ariko niba bavuga bati utya: \"Nimwite kuri twe\", tuzazamuka; koko niba iki gihumbi Yahwe yabahaye mu ntoki zacu — n'ibi bizaba ikimenyetso kuri twe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko niba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "utya"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bavuga bati"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Nimwite"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "tuzazamuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko niba"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yabahaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "mu ntoki zacu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "n'ibi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ikimenyetso"
+    }
+  ],
+  "timestamp": "2026-09-07T12:37:13.537489887Z",
+  "model": "glm-5.3"
+}

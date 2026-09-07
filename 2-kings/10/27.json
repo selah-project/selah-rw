@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 27,
+ "ref": "2-kings 10:27",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Barasenyutse ⟨את⟩ igihumbano cya Baali, barasenyutse ⟨את⟩ inzu ya Baali, maze bayigira ⟨ahantu h'ibyummerere⟩ kugeza uyu munsi.",
+ "tokens": [
+  {
+   "surface": "ויתצו",
+   "gloss": "barasenyutse"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "igihumbano"
+  },
+  {
+   "surface": "מצבת",
+   "gloss": "igihumbano"
+  },
+  {
+   "surface": "הבעל",
+   "gloss": "Baali"
+  },
+  {
+   "surface": "ויתצו",
+   "gloss": "barasenyutse"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "inzu"
+  },
+  {
+   "surface": "בית",
+   "gloss": "inzu"
+  },
+  {
+   "surface": "הבעל",
+   "gloss": "Baali"
+  },
+  {
+   "surface": "וישמהו",
+   "gloss": "maze bayigira"
+  },
+  {
+   "surface": "למחראות",
+   "gloss": "ahantu h'ibyummerere"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "היום",
+   "gloss": "uyu munsi"
+  }
+ ],
+ "timestamp": "2026-09-07T21:37:48.290079492Z",
+ "model": "glm-5.3"
+}

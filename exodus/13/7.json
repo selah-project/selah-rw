@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Matsoti ni yo yariwe iminsi irindwi yose ⟨את⟩; hametsi ntibonekana kuri wowe, kandi seori ntibonekana kuri wowe muri imipaka yawe yose.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "matsoti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yariwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iminsi irindwi yose"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ibonekana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hametsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ibonekana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "seori"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muri"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "imipaka yawe yose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:49.545798957Z",
+  "model": "glm-5.3"
+}

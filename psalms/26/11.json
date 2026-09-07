@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ariko njye, mu budahewanjye nzagenda; unkingire kandi unkore impuhwe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "mu budahewanjye"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "unkingire"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "kandi unkore impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:28.542117276Z",
+  "model": "glm-5.3"
+}

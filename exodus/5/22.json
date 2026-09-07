@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Moshe (Mose) yasubiye kwa Yahwe, aravuze ati: Adonayi, kuki wakoreye nabi abantu aba? Kuki ibi ⟨ni⟩ uko wohyeje?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "wakoreye nabi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "wohyeje"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:00.965920533Z",
+  "model": "glm-5.3"
+}

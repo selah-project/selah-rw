@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Kuko abashyitsi barahagaye ku njye, n'ab'inkabi barashatse nefeshi yanjye; nti bashyize Elohimu imbere yabo. Selahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abashyitsi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "barahagaye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "n'ab'inkabi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "barashatse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "imbere yabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:25.869335852Z",
+  "model": "glm-5.3"
+}

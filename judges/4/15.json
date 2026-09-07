@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze Yahwe yateye ubwoba ⟨את⟩ Sisera, na ⟨את⟩ ingara zose, na ⟨את⟩ ingabo zose, biciwe n'epita imbere ya Baraka; maze Sisera aramanuka ku gare rye, aratunga ku maguru ye.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "yateye ubwoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingara zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ingara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingabo zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "aramanuka"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "gare rye"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "aratunga"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ku maguru ye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:53:34.232782414Z",
+  "model": "glm-5.3"
+}

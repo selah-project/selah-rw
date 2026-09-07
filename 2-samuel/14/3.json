@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "maze uzinjira kwa umwami, umubwire amagambo nka aya. Maze Yoavu ashira ⟨את⟩ amagambo mu kanwa ye.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "maze uzinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "umubwire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "maze ashira"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "mu kanwa ye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:33:27.996332109Z",
+  "model": "glm-5.3"
+}

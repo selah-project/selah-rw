@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Mu nyanja umuhanda wawe, n'inzira zawe mu mazi menshi; ariko ibifato byawe nti byamenyekanye.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "mu nyanja"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "umuhanda wawe"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "n'inzira zawe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ibifato byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "byamenyekanye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:50.743925791Z",
+  "model": "glm-5.3"
+}

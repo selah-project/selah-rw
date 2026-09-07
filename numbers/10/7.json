@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mu kubyaza hamwe ⟨את⟩ umuryango, muteshe, ariko ntimukore amacakubiri ⟨teruwaha⟩.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "mu kubyaza hamwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuryango"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "muteshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "mukore amacakubiri"
+    }
+  ],
+  "timestamp": "2026-09-07T10:09:07.927181269Z",
+  "model": "glm-5.3"
+}

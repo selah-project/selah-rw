@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ndimwe: mwire, mwingire, mwuzure kw'isi, mwongeremo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ndimwe"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mwire"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mwingire"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "mwuzure"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kw'isi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mwongeremo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-mo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:08.062382668Z",
+  "model": "glm-5.3"
+}

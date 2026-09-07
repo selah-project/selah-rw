@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Kuko kubwawe narikoherereje ihoni; isoni yarazinguye amanota yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kubwawe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "narikoherereje"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihoni"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "yarazinguye"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amanota yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:46.388122518Z",
+  "model": "glm-5.3"
+}

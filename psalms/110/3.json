@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Abantu bawe bazatanga ubushake mu munsi w'ingufu zawe, mu mategeko y'ubutagatifu; mu nda y'imparo, ime itonya y'uruhinja rwawe ni yawe.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Abantu bawe"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "bazatanga ubushake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mu munsi wa"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ingufu zawe"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "mu mategeko y'"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ubutagatifu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mu nda ya"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "imparo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni yawe"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ime itonya"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "y'uruhinja rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:38.434809990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Koko amahanga yose azagenda, buri muntu mu izina ry'imana ye; ariko twe tuzagenda mu izina rya Yahwe Elohimu wacu, mu iteka n'iteka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "azagenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ry'imana ye"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ariko twe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzagenda"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "n'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T17:47:12.022166768Z",
+  "model": "glm-5.3"
+}

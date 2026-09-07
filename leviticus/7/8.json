@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze kohenu utanga ⟨את⟩ igisebo ry'umuriro ry'umuntu, uruhu rwa iyo gisebo ry'umuriro yatangiye ni rwa kohenu ubwite.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Maze kohenu"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igisebo ry'umuriro"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "igisebo ry'umuriro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ry'umuntu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "rwa iyo gisebo ry'umuriro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "yatangiye"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ni rwa kohenu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ubwite"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:19.227373985Z",
+  "model": "glm-5.3"
+}

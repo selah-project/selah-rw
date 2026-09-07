@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Umutima wanjye uradutse, imbaraga zanjye zaransize, n'urumuri rw'amaso yanjye — na rwo ntiruri kumwe ⟨את⟩ nanjye.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Umutima wanjye"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "uradutse"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "zaransize"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "n'urumuri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "rw'amaso yanjye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na rwo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iyo ari rwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ntiruri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kumwe nanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:49.723735667Z",
+  "model": "glm-5.3"
+}

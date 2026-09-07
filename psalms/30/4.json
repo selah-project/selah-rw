@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Yahwe, wasohoye Nefeshi yanjye muri Sheoli, wazuye nkuriro mu bamanuka mu mva.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wasohoye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "muri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wazuye"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mu bamanuka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "mu mva"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:37.082002489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "N'amagambo y'ubwangirane banyanzengereye, banarwanye nanjye nta mpamvu.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "n'amagambo"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "y'ubwangirane"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "banyanzengereye"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "banarwanye nanjye"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nta mpamvu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:39.571839274Z",
+  "model": "glm-5.3"
+}

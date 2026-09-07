@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Uzakora amakarasi y'umuringa mirongo itanu, maze uzinjiza ⟨את⟩ amakarasi mu matobo, maze uhuz' ⟨את⟩ ihema, rikaba ⟨ri⟩ rimwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "amakarasi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "y'umuringa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "maze uzinjiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakarasi"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "amakarasi"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "mu matobo"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "maze uhuz'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "rikaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:59.779290782Z",
+  "model": "glm-5.3"
+}

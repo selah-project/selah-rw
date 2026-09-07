@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "genesis 18:17",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Yahwe yaravuze ati: Ese jye ngihisha ku Avrahamu (Aburahamu) ibyo jye nkora?",
+ "tokens": [
+  {
+   "surface": "ויהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "yaravuze ati"
+  },
+  {
+   "surface": "המכסה",
+   "gloss": "Ese... ngihisha"
+  },
+  {
+   "surface": "אני",
+   "gloss": "jye"
+  },
+  {
+   "surface": "מאברהם",
+   "gloss": "ku Avrahamu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ibyo"
+  },
+  {
+   "surface": "אני",
+   "gloss": "jye"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "nkora"
+  }
+ ],
+ "timestamp": "2026-09-07T07:47:57.160617695Z",
+ "model": "glm-5.3"
+}

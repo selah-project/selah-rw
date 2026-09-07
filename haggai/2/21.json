@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Vuga uri Zerubabelu, umutware wa Yehudha, uti: Ni njye nderekera ⟨את⟩ ijuru na ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uri"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabelu"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ni njye"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nderekera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:55:56.432073440Z",
+  "model": "glm-5.3"
+}

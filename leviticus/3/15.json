@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "na ⟨את⟩ impyiko zibiri, na ⟨את⟩ ibinure ari ku zo — ari ku mbavu — na ⟨את⟩ uruhara ruri hejuru y'ijifu; ku impyiko azirutare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko zibiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhara"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ijifu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "azirutare"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:28.170846266Z",
+  "model": "glm-5.3"
+}

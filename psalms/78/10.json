@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ntabwo bahahirije beriti ya Elohimu, kandi mu Tora ye banganaga kuyigenda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bahahirije"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "kandi mu Tora ye"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "banganaga"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuyigenda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:33.356669666Z",
+  "model": "glm-5.3"
+}

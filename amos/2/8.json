@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 2:8",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Baryamira ku myambaroibihano bafashwe nk'ingwate ku ruhande rw'iteraniro ryose ry'ibitambo, banwa inzoga y'abaziririwe ibihano mu nzu y'Elohimu yabo (imana yabo).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "ibihano bafashwe nk'ingwate"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "baryamira"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "iteraniro ry'ibitambo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "inzoga"
+    },
+    {
+      "surface": "ענושים",
+      "gloss": "y'abaziririwe ibihano"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "banwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "y'Elohimu yabo (imana yabo)"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:49.388753264Z",
+  "model": "glm-5.3"
+}

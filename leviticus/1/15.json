@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze kohenu azazanira ku igicaniro, akanoroha ⟨את⟩ umutwe wayo, maze akayatembere ku igicaniro; maze amaraso wayo acikwa ku rubavu rw'igicaniro.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "azazanira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "akanoroha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe wayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe wayo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "maze akayatembere"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku igicaniro"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "maze... acikwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso wayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rubavu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "rw'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:07.150581107Z",
+  "model": "glm-5.3"
+}

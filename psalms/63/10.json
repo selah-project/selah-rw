@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Ariko bo, barondera gusenya Nefeshi yanjye; bazinjira mu byumba byo hasi y'isi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "gusenya"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "barondera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazinjira"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "mu byumba byo hasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:45.629037666Z",
+  "model": "glm-5.3"
+}

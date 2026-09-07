@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Aho ni ho imiryango izamuka, imiryango ya Yah, ubuhamya ku isi y'Yisraeli, kugira ngo bashimire izina rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "aho ni ho"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "izamuka"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ya Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku isi y'Yisraeli"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kugira ngo bashimire"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:50.864212047Z",
+  "model": "glm-5.3"
+}

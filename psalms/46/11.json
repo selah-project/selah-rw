@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Nimuruhuke, mumenye ko njye Elohimu ⟨ndi⟩; nzaremwa mu mahanga, nzaremwa mu isi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Nimuruhuke"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "mumenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nzaremwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nzaremwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:48.450368761Z",
+  "model": "glm-5.3"
+}

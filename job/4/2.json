@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yagerageje ijambo ku wewe, none urahwa? Kandi guhagarika mu majambo — ni nde wabyishobora?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "yagerageje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku wewe"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "urahwa"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "guhagarika"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "mu majambo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:00.587567283Z",
+  "model": "glm-5.3"
+}

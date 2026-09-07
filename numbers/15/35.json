@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Yahwe yabwiye kwa Moshe ati: Uwo muntu arapfa rwose; uruhara rwose ruzamugoga ⟨את⟩ amabuye, hanze y'urubuga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "arapfa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "ruzamugoga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (uwo muntu)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze y'"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "urubuga"
+    }
+  ],
+  "timestamp": "2026-09-07T10:18:35.890995342Z",
+  "model": "glm-5.3"
+}

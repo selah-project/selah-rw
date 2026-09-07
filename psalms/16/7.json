@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nzahamya ⟨את⟩ Yahwe, iriwe yanjyewanije; ndetse n'ijoro impundu zanjye zihirikwa n'iyigisha.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Nzahamya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iriwe"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "yanjyewanije"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndetse"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "zihirikwa n'iyigisha"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "impundu zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.696463375Z",
+  "model": "glm-5.3"
+}

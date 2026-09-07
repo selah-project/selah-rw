@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mwana wanjye, iyo wafata amajambo yanjye, kandi amategeko yanje ubihisha ⟨את⟩ wowe;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wafata"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amajambo yanjye"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kandi amategeko yanje"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ubihisha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:21.927402822Z",
+  "model": "glm-5.3"
+}

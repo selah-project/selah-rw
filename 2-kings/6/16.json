@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ati: Ntutinye, kuko abari kumwe ⟨את⟩ natwe benshi kurusha abari kumwe ⟨את⟩ nabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abari"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ natwe"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nabo",
+      "marks": "abo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:27.800620972Z",
+  "model": "glm-5.3"
+}

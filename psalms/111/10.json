@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Intangiriro y'ubwenge ni gutinya Yahwe; ubumenyi bwiza ⟨ni⟩ uwabugenewe bose mu babikoza ⟨ibyo⟩; igisingizo rye rihagaze iteka.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Intangiriro"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "gutinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bwiza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "mu babikoza"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "igisingizo rye"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "rihagaze"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:02.100330160Z",
+  "model": "glm-5.3"
+}

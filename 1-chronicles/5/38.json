@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Akitubu yabyaye ⟨את⟩ Tsadoku, maze Tsadoku yabyaye ⟨את⟩ Shalumu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Akitubu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoku"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoku"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "maze Tsadoku"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:53.171134582Z",
+  "model": "glm-5.3"
+}

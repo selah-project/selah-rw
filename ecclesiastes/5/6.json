@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuri mu iroto myinshi hari ubusa n'amajwi menshi; ariko ⟨את⟩ Elohimu umutere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu kwinshi"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "iroto"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "n'amajwi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "umutere"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:18.341876737Z",
+  "model": "glm-5.3"
+}

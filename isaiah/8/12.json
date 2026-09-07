@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ntimukavuge ko ari ubwunane ku byo abantu aba bavuga ko ari ubwunane; kandi ⟨את⟩ ubwoba bwabo ntibukwitire, ntimutinye kandi ntimunyerere.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "mukavuge"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ko ari ubwunane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bidatinze"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bavuga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ko ari ubwunane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwoba bwabo"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ubwoba bwabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mutinye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "munyerere"
+    }
+  ],
+  "timestamp": "2026-09-07T14:41:41.017914044Z",
+  "model": "glm-5.3"
+}

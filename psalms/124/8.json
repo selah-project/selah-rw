@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "Ubufasha bwacu buri mu izina rya Yahwe, uremye ijuru n'isi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ubufasha bwacu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uremye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.290038311Z",
+  "model": "glm-5.3"
+}

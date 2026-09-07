@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 32:41",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kandi nzishimira ku bo kugira ngo mbakore neza ⟨את⟩-bo, kandi nzibyazeho muri iki gihugu mu kuri — ku mutima wanjye wose no ku Nefeshi yanjye yose.",
+  "tokens": [
+    {
+      "surface": "וששתי",
+      "gloss": "nzishimira (kandi)"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "להטיב",
+      "gloss": "kugira ngo mbakore neza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-bo",
+      "marks": "bo (abahamwe)"
+    },
+    {
+      "surface": "ונטעתים",
+      "gloss": "nzibyazeho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "muri (igihugu)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki gihugu"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mu kuri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku … wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mutima wanjye"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku … wose"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:18:01.110205802Z",
+  "model": "glm-5.3"
+}

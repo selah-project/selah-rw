@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ariko mu giki cy'ubumenyi bw'ibyiza n'ibibi ntuzakorya muri cyo, kuko ku munsi uzokoryamo muri cyo, urapfa mu by'ukuri.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Ariko mu giki"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "cy'ubumenyi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "n'ibibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "zakorya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "uzokoryamo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kupfa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "urapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:56.004762997Z",
+  "model": "glm-5.3"
+}

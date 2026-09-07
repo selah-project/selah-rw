@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Giladi ⟨ni⟩ iwanjye, na Menashu ⟨ni⟩ iwanjye; Efrayimu ⟨ni⟩ ubwishingizi bw'umutwe wanjye; Yehuda ⟨ni⟩ umutware wanjye w'amategeko.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na iwanjye"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashu"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ubwishingizi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bw'umutwe wanjye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "umutware wanjye w'amategeko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.090561074Z",
+  "model": "glm-5.3"
+}

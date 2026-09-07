@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Izuba rirashe, kandi izuba rirenze, kandi ku mwanya waryo rihuhira rirasira, ni ryo aho.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "kandi rirashe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kandi rirenze"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "mwanya waryo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "rihuhira"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "rirasira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ryo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:21.197915996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ntuze, undushe, Yahwe Elohimu wanjye; umurikire amaso yanjye, kugira ngo ntaryame urwa rupfu.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ntuze"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "undushe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "umurikire"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ntaryame"
+    },
+    {
+      "surface": "המות",
+      "gloss": "urwa rupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:01.027160456Z",
+  "model": "glm-5.3"
+}

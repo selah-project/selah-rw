@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze izuba rirashe kuri we mu gihe yambukaga ⟨את⟩ Penueli, maze we yagendaga atinda ku rufunda rwe.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "rirashe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yambukaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penueli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maze we"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "yagendaga atinda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "rufunda rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:07:00.660195851Z",
+  "model": "glm-5.3"
+}

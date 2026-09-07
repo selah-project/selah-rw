@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Yisraeli (Isirayeli) ashimishwe mu Byaremye; abana ba Tsiyoni (Siyoni) bishimire cyane ku Mwami wabo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ashimishwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "mu Byaremye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bishimire cyane"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ku Mwami wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:58.662572206Z",
+  "model": "glm-5.3"
+}

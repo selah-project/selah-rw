@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ese ntabwo umunsi wa Yahwe ⟨ni⟩ umwijima, atari umurimo? Uwijima ukaze, udafite icyakaneza.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese ntabwo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "uwijima ukaze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "udafite"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "icyakaneza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T17:41:28.697167928Z",
+  "model": "glm-5.3"
+}

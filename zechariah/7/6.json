@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ese iyo mufungura n'iyo munywa, si mwe bafungura na mwe banywa?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mufungura"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "n'iyo"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "munywa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ese si"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "bafungura"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na mwe"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "banywa"
+    }
+  ],
+  "timestamp": "2026-09-07T17:58:55.450068788Z",
+  "model": "glm-5.3"
+}

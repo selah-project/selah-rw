@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Ku mutwe w'abazengurutse iwe, urubare rw'iminwa yabo nirubarundire.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ku mutwe"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "w'abazengurutse iwe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "urubare"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "rw'iminwa yabo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "nibarundire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:31.965021529Z",
+  "model": "glm-5.3"
+}

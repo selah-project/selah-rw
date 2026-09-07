@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": " maze isi ntiyashoboye kubatwara ⟨את⟩ bombi ngo bature hamwe, kuko imitungo yabo yari myinshi, bityo ntibashoboye gutura hamwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti…"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "iyashoboye kubatwara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu na Loti (bombi)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngo bature"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "imitungo yabo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "myinshi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti…"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboye"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gutura"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:44:07.225250725Z",
+  "model": "glm-5.3"
+}

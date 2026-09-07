@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kuko we urasegura amaraso, ⟨את⟩ abo yabibukiye; ntiyibagiwe urubogoto rw'abakene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "urasegura"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo (abiciw'amaraso)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yabibukiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "yibagiwe"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "urubogoto"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "abakene"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:27.058139676Z",
+  "model": "glm-5.3"
+}

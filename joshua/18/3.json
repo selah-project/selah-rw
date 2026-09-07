@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 18:3",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yehoshuwa yarabwiye abana ba Yisraeli ati: Kugeza ryari mwe muba masi mu kwinjira kuragira ⟨את⟩ isi iyo Yahwe, Elohimu wa ba so bwanyu, yaguha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "מתרפים",
+      "gloss": "muba masi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mu kwinjira"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuragira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yaguha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "abanyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ba so bwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:39:15.438026237Z",
+  "model": "glm-5.3"
+}

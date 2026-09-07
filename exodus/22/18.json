@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Uwo ari we wose uriye amaso n'inyamaswa, urupfu azahita apfa uwicwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "uwo ari we wose"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uriye amaso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azahita apfa uwicwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:37.476730037Z",
+  "model": "glm-5.3"
+}

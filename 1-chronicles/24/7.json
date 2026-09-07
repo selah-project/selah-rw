@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Umubare wa mbere wasohotse kuri Yehoyaribu, iya kabiri kuri Yedeyahu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wasohotse"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "umubare"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "kuri Yehoyaribu"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "kuri Yedeyahu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iya kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:51.380095366Z",
+  "model": "glm-5.3"
+}

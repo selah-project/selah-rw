@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "cyangwa ufite umugongo bunyeganye, cyangwa ufite umubiri muto cyane, cyangwa ufite ibyurugutu mu maso, cyangwa uruhu ryumye bikaze, cyangwa inkovu ku ruhu, cyangwa ibitsina byahumbye.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "umugongo bunyeganye"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "דק",
+      "gloss": "umubiri muto cyane"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "ibyurugutu"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "uruhu ryumye bikaze"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "inkovu ku ruhu"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "byahumbye"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "ibitsina"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:09.830982468Z",
+  "model": "glm-5.3"
+}

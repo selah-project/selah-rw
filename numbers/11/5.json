@@ -1,0 +1,87 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "numbers 11:5",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 11,
+ "translation": "Twaribukije ⟨את⟩ amafi twari tubona mu Mitsrayimu ubusa: ⟨את⟩ ibirayiro, na ⟨את⟩ ibihaza, na ⟨את⟩ ibipororo, na ⟨את⟩ ibitunguru, na ⟨את⟩ iswagi;",
+ "tokens": [
+  {
+   "surface": "זכרנו",
+   "gloss": "twaribukije"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amafi"
+  },
+  {
+   "surface": "הדגה",
+   "gloss": "amafi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "twari"
+  },
+  {
+   "surface": "נאכל",
+   "gloss": "tubona-twariye"
+  },
+  {
+   "surface": "במצרים",
+   "gloss": "mu Mitsrayimu"
+  },
+  {
+   "surface": "חנם",
+   "gloss": "ubusa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibirayiro"
+  },
+  {
+   "surface": "הקשאים",
+   "gloss": "ibirayiro"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ibihaza"
+  },
+  {
+   "surface": "האבטחים",
+   "gloss": "ibihaza"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ibipororo"
+  },
+  {
+   "surface": "החציר",
+   "gloss": "ibipororo"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ibitunguru"
+  },
+  {
+   "surface": "הבצלים",
+   "gloss": "ibitunguru"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "iswagi"
+  },
+  {
+   "surface": "השומים",
+   "gloss": "iswagi"
+  }
+ ],
+ "timestamp": "2026-09-07T10:11:05.184154958Z",
+ "model": "glm-5.3"
+}

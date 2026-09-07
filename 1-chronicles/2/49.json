@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yabyaye kandi Shaaphu se wa Madumanah, ⟨את⟩ Sheva se wa Makubenu, na se wa Gibea; umukobwa wa Kalebu ni Aksa.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Shaaphu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madumanah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wa"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makubenu"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "na se wa"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "kandi umukobwa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "wa Kalebu"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:53.315841191Z",
+  "model": "glm-5.3"
+}

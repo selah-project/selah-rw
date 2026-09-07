@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Nababwira abantu ati: Mwitegereze ku munsi wa gatatu, ntimukwire ku bagore.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nababwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mube"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "mwitegereze"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ku munsi wa gatatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "mukwire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bagore"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:19.085044266Z",
+  "model": "glm-5.3"
+}

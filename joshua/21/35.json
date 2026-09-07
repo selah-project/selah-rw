@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimunahu n'imiryanya yayo, ⟨את⟩ Nahalalu n'imiryanya yayo — imidugudu ine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimunahu"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimunahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imiryanya yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "n'imiryanya yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalalu"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imiryanya yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "n'imiryanya yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:24.882928355Z",
+  "model": "glm-5.3"
+}

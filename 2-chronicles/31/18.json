@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "No kwiyandikisha mu baraga mu bana bato babo bose, mu bagore babo, mu bahungu babo no mu bikobwa babo, ku muryango w'abantu wose; kuko mu kwizera kwabo baratagatifuwe ibitagatifu.",
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "no kwiyandikisha mu baraga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... bose"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana bato babo"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "bagore babo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "no mu bahungu babo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "no mu bikobwa babo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku ... wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "muryango w'abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "mu kwizera kwabo"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "baratagatifuwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ibitagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:04:34.446574426Z",
+  "model": "glm-5.3"
+}

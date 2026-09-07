@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze yanditse ahari ku mabuye ⟨את⟩ igicapu cya Tora ya Moshe, uko yayanditse imbere y'abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Maze yanditse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ahari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicapu cya Tora ya Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "igicapu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "cya Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yayanditse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:31:49.306300410Z",
+  "model": "glm-5.3"
+}

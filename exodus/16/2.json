@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Urwi rwose rw'abana ba Yisraeli rwaravumye ku Moshe (Mose) na ku Aharoni mu butayu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "rwaravumye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "urwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:51:35.907311465Z",
+  "model": "glm-5.3"
+}

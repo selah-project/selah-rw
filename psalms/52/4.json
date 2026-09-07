@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Ubwangizi ni byo utekereza n'ururimi rwawe, nk'icyojo cyahonje cyo kugera mu buhemu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ubwangizi"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "utekereza"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ururimi rwawe"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "icyojo"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "cyahonje"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cyo kugera mu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "buhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:15.983279461Z",
+  "model": "glm-5.3"
+}

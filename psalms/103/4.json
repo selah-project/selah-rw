@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Ukiza ubuzima bwawe mu rwobo, akakwambikira ikamba ry'hesedi ⟨n'⟩impuhwe.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Ukiza"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mu rwobo"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ubuzima bwawe"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "akakwambikira ikamba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:34.269124846Z",
+  "model": "glm-5.3"
+}

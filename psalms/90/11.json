@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Nde azi ubushobozi bw'uburakari bwawe, n'irembo ryawe nk'uko ugomba gutinywa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ubushobozi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "nk'uko ugomba gutinywa"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "irembo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.644553556Z",
+  "model": "glm-5.3"
+}

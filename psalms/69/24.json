@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Amaso yabo ayihishe ngo batamenya, ibumu byabo bikwegere buri gihe.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ayihishe"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amaso yabo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ngo batamenya"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ibumu byabo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "bikwegere"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:06.602394460Z",
+  "model": "glm-5.3"
+}

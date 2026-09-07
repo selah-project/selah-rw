@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ntitoreka, Yahwe; Elohimu wanjye, ntiruke kure na njye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntito-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "reka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntiru-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ke kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:38.378959076Z",
+  "model": "glm-5.3"
+}

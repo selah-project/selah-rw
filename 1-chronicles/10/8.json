@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ku manywa arakurikira, Abapelishti baza kurambura ⟨את⟩ abapfuye; basanze ⟨את⟩ Shauli na ⟨את⟩ abahungu be baguye mu musozi wa Giliboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨byabaye⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ku manywa arakurikira"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abapelishti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kurambura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapfuye"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abapfuye"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "basanze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "baguye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu musozi"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Giliboa"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:10.557292646Z",
+  "model": "glm-5.3"
+}

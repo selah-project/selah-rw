@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze abahungu ba Yisraeli bakora ⟨את⟩ ibibi mu maso ya Yahwe, maze bakashumbaza ⟨את⟩ Baali.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "bakashumbaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baali"
+    }
+  ],
+  "timestamp": "2026-09-07T11:48:24.743202969Z",
+  "model": "glm-5.3"
+}

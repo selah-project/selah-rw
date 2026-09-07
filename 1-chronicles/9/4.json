@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Utayi umwana wa Amihudi, umwana wa Omri, umwana wa Imri, umwana wa Bani, mu bantu ba Peretsi, umwana wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Utayi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihudi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Imri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ba Peretsi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:03.077541919Z",
+  "model": "glm-5.3"
+}

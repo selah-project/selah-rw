@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Nta ijambo kandi nta amagambo; ijwi ryabo ntiribumvikana.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nta..."
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ribumvikana"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ijwi ryabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:25.281807056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Elohimu yagaragaye nanone kuri Yaakovu (Yakobo), mu gihe azaava muri Padani Aramu, maze amuha umugisha ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "mu gihe azaava"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "muri Padani"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "amuha umugisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Yaakovu)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:44.056485964Z",
+  "model": "glm-5.3"
+}

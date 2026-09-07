@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 147:9",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 147,
+ "translation": "Yahwe ⟨ni⟩ we uha ibirungo: aha ibiribwa byayo ku matungo, no ku bana b'igikona ibo bahamagara.",
+ "tokens": [
+  {
+   "surface": "נותן",
+   "gloss": "aha"
+  },
+  {
+   "surface": "לבהמה",
+   "gloss": "ku matungo"
+  },
+  {
+   "surface": "לחמה",
+   "gloss": "ibiribwa byayo"
+  },
+  {
+   "surface": "לבני",
+   "gloss": "ku bana"
+  },
+  {
+   "surface": "ערב",
+   "gloss": "b'igikona"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ibo"
+  },
+  {
+   "surface": "יקראו",
+   "gloss": "bahamagara"
+  }
+ ],
+ "timestamp": "2026-09-07T18:57:31.585563385Z",
+ "model": "glm-5.3"
+}

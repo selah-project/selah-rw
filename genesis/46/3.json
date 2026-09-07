@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Aravuga ati: Jye ⟨ni⟩ Eli, Elohimu wa so; ntutinye kugenda ugaha Mitsrayimu (Egiputa), kuko jye nzakugira umuryango mukuru ihari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuga ati"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "kugenda ugaha"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "nzakugira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ihari"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:51.643122040Z",
+  "model": "glm-5.3"
+}

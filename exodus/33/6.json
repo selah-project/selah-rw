@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Abana ba Yisraeli barakiye ⟨את⟩ ibyamamare byabo ku gaso ka Horevu.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "barakiye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyamamare byabo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ibyamamare byabo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ku gaso ka"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horevu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:15.682225540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Afana n'intare ifite inyota yo gusenya, n'ingwe yituye mu bihisha.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "afana"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "n'intare"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ifite inyota"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "yo gusenya"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "n'ingwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yituye"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mu bihisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:03.275518500Z",
+  "model": "glm-5.3"
+}

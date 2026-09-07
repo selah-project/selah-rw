@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Uwumva isabisha, iwawe umubiri wose uzaza.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Uwumva"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "isabisha"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "uzaza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.318830288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Uzabashaka ariko ntuzababona: abantu bakurwaniriza bazaba nka ntacyo n'ubusa, abantu bakurwanya intambara.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "uzabashaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta-"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "zababona"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "bakurwaniriza"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazaba"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "nka ntacyo"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "n'ubusa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "bakurwanya intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:10.311690838Z",
+  "model": "glm-5.3"
+}

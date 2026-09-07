@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze Eliysha arapfuye maze bamwamba. Amatsinda y'ingabo ya Moabu yajyanaga mu gihugu, ku ijya ry'umwaka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "arapfuye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliysha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "bamwamba"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "amatsinda y'ingabo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yajyanaga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ku ijya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ry'umwaka"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:29.606391223Z",
+  "model": "glm-5.3"
+}

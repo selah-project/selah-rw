@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Inzira y'umusazi ni igororuye mu maso ye, ariko uwumva inama ⟨ni⟩ umunyabwenge.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "y'umusazi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ni igororuye"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ariko uwumva"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "inama"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "umunyabwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:01.623284246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iminsi yose y'Adamu, uko yabayeho, yari imyaka amajana cyenda na mirongo itandatu, arapfuye.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Iminsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'Adamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "cyenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo itandatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:59.235880824Z",
+  "model": "glm-5.3"
+}

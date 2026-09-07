@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Kugeza nginge mu ngoro ya Eli, maze mbanze neza imperu yabo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nginge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ngora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "mbanze neza"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "imperu yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:48.577717775Z",
+  "model": "glm-5.3"
+}

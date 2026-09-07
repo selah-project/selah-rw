@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze yaravuze ati: Ndagukunda, Yahwe, ingufu zanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze ati"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Ndagukunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "ingufu zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:01.088556276Z",
+  "model": "glm-5.3"
+}

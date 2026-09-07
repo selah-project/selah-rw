@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ibisanze mu impano ni ibya Aharoni n'ibya bahungu be — byera, by'ibyera — mu bitungwa by'umuriro bya Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ibisanze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ni ibya Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'ibya bahungu be"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "byera"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "by'ibyera"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mu bitungwa by'umuriro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:50.786582892Z",
+  "model": "glm-5.3"
+}

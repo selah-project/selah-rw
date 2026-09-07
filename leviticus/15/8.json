@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Iyo uwagira itonono yerereye amate ku muntu udasukuye: yasukuye ibyambaro bye, yikanze mu mazi, aca afite umwanda kugeza nimugoroba.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "werereye amate"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "uwagira itonono"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "ku muntu udasukuye"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "yasukuye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ibyambaro bye"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "yikanze"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "afite umwanda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nimugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:38.514086745Z",
+  "model": "glm-5.3"
+}

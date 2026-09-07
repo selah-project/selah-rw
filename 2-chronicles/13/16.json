@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Abana ba Yisraeli barahunze imbere ya Yehudaha, maze Elohimu yabatanze mu biganza byabo.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "barahunze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaha"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "maze yabatanze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mu biganza byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:55:22.693522882Z",
+  "model": "glm-5.3"
+}

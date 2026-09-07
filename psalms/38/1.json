@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Izaburi rya Dawidi, ngo yibukwe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Izaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ngo yibukwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:18.816710719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze yaravuze kuri we ati: Wowe uzi ⟨את⟩ uko nakujuriye, na ⟨את⟩ n'uko imfungurwa zawe zari ⟨את⟩ jyana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uko nakujuriye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "nakujuriye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "n'uko imfungurwa zawe zari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'uko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zari"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "imfungurwa zawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jyana"
+    }
+  ],
+  "timestamp": "2026-09-07T08:09:42.865763869Z",
+  "model": "glm-5.3"
+}

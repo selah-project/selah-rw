@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Barabonye ⟨את⟩ Adoni-Bezeku i Bezeki, barwanije na we, maze batsinze ⟨את⟩ abakenaani na ⟨את⟩ abaperizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "barabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeku"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezeki"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "barwanije"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "batsinze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "abakenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "abaperizi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:47.450442981Z",
+  "model": "glm-5.3"
+}

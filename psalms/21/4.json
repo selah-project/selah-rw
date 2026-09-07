@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko umujyanamo amahirwe meza, umuhejeje ku mutwe we umunwa w'zahabu y'ijege.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "umujyanamo"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "amahirwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meza"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "umuhejeje"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "umunwa w'zahabu"
+    },
+    {
+      "surface": "פז",
+      "gloss": "y'ijege"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:48.927677775Z",
+  "model": "glm-5.3"
+}

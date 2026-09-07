@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Umusaza n'uwubahwa ⟨ni⟩ we umutwe, umuhanuzi wigisha ibinyoma ⟨ni⟩ we umurizo.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "umusaza"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "n'uwubahwa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "uburanga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "n'umuhanuzi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "wigisha"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "umurizo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:50:30.167283684Z",
+  "model": "glm-5.3"
+}

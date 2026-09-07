@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ imidugudu yose y'abami aya, na ⟨את⟩ abami babo bose, Yehoshuwa yafashe, arabica umumaro, arabirimbura ⟨את⟩ bo, uko Moshe, umugaragu wa Yahwe, yategetse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "imidugudu yose y'abami aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "y'abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abami babo bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "abami babo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "arabica"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "−"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umumaro"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "arabirimbura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "abami n'imidugudu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:42.544147834Z",
+  "model": "glm-5.3"
+}

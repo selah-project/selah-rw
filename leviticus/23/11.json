@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ajye azungusha ⟨את⟩ Omeru imbere ya Yahwe, kugira ngo mwe mwemewe; ku munsi ukurikira Shabati, kohenu azungusha.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Ajye azungusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omeru"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "Omeru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kugira ngo mwe mwemewe"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ku munsi ukurikira"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "azungusha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:23.006251650Z",
+  "model": "glm-5.3"
+}

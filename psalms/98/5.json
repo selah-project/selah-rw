@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Muririmbire kwa Yahwe mu kinora — mu kinora n'ijwi rya zimura.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mu kinora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mu kinora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "n'ijwi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zimura"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:31.111226315Z",
+  "model": "glm-5.3"
+}

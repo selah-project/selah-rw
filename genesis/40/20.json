@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze haba mu munsi wa gatatu, umunsi wo kuvuka ⟨את⟩ kwa Paro, yakoze icyoza ku bakozi be bose; azamuye ⟨את⟩ umutwe wa shebuja w'abanyobya na ⟨את⟩ umutwe wa shebuja w'abakoni mu moko y'abagaragu be.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "wo kuvuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwa Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "icyoza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bakozi be bose"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abakozi be"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "azamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe wa shebuja w'abanyobya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "w'abanyobya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutwe wa shebuja w'abakoni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "w'abakoni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu moko"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:09.230065991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Azuka hagati mu ijoro, afata ⟨את⟩ umwana wanjye ku ruhande rwanjye — umuja wawe arasinziriye — amuryamisha mu gituza cye, maze na ⟨את⟩ umwana we wapfuye amuryamisha mu gituza cyanjye.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Azuka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati mu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana wanjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ku ruhande rwanjye"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "arasinziriye"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "amuryamisha"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "mu gituza cye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wapfuye"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "amuryamisha"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "mu gituza cyanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:34.909639875Z",
+  "model": "glm-5.3"
+}

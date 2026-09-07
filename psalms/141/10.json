@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Ababi bagwe mu byuzi byabo, bose hamwe, ari njye kugeza ngo nambuke.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "bagwe"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "mu byuzi byabo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bose hamwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ari njye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ngo nambuke"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:46.060576006Z",
+  "model": "glm-5.3"
+}

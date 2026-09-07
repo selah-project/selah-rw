@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Zaburi ya Dawidi. Ntuzirikane n'abakora ikibi, ntukundishire abakora ubuhemu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Zaburi ya Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "zirikane"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "n'abakora ikibi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kundishire"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:33.395839275Z",
+  "model": "glm-5.3"
+}

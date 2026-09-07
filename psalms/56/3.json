@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Abansi banjye barampfundikiye ⟨(barandatse)⟩ ku munsi wose, kuko ari benshi bararwana na nini, uri hejuru.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "barampfundikiye ⟨(barandatse)⟩"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "bararwana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "uri hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:45.853433378Z",
+  "model": "glm-5.3"
+}

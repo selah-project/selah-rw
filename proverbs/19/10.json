@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ineza ntiyakwiriye umudasimwa, ndetse ko umugaragu agira ubwami ku batware.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "byakwiriye"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "umudasimwa"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ineza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndetse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "agira ubwami"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ku batware"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:30.314805725Z",
+  "model": "glm-5.3"
+}

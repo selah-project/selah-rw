@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Maze ngahagaze nk'uruziga kuri wowe, ngagusize urwibare rw'ingabo, maze nshyire ibirwaniro kuri wowe.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ngahagaze"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "nk'uruziga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ngagusize"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "urwibare rw'ingabo"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "maze nshyire"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "ibirwaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T15:05:27.322999935Z",
+  "model": "glm-5.3"
+}

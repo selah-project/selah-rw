@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "N'ukuboko wabohoye abantu bawe, abahungu ba Yaakovu na Yosefu. Selahi.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "wabohoye"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "n'ukuboko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yosefu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:32.800434807Z",
+  "model": "glm-5.3"
+}

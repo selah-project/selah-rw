@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Dawidi ashyingiye ⟨את⟩ aya magambo mu mutima we, maze atinya cyane imbere ya Akishi, umwami wa Gati.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashyingiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya magambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "atinya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "גת",
+      "gloss": "wa Gati"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:55.253057963Z",
+  "model": "glm-5.3"
+}

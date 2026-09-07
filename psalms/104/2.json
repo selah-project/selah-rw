@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Uwambuye umurikazi nk'imyambaro, uwaguruye ijuru nk'urwega.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Uwambuye"
+    },
+    {
+      "surface": "אור",
+      "gloss": "umurikazi"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "nk'imyambaro"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "uwaguruye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "nk'urwega"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:21.765091243Z",
+  "model": "glm-5.3"
+}

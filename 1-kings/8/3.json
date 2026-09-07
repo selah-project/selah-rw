@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze abakurambere b'Yisraeli bose baza, maze abakohenu barazuye ⟨את⟩ isanduku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakurambere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "barazuye"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "isanduku"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:12.898928678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mwana wanjye, umvikanye amagambo yanjye, ukore ugutwi kwawe ku majambo yanjye.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanjye"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "amagambo yanjye"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "umvikanye"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ku majambo yanjye"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:36.668387260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yabanje ⟨את⟩ umumalayika wavugaga mu jye amagambo meza, amagambo maruhutse.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yabanje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umumalayika"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wavugaga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mu jye"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "meza"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "maruhutse"
+    }
+  ],
+  "timestamp": "2026-09-07T17:57:52.076607884Z",
+  "model": "glm-5.3"
+}

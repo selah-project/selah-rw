@@ -1,0 +1,120 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "1-kings 6:12",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Inzu iyo wowe ubaka, iyo uzagenda mu mategeko yanjye, ukora na ⟨את⟩ imanza zanjye, unakurikiza ⟨את⟩ itegeko ryose ryanjye mu kuzengurukamo, ndahozaho ⟨את⟩ ijambo ryanjye na ⟨את⟩ wowe, nako kuvuga kuri Dawidi (Dawidi) so wawe.",
+ "tokens": [
+  {
+   "surface": "הבית",
+   "gloss": "inzu"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(ijambo rihuza)"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "בנה",
+   "gloss": "ubaka"
+  },
+  {
+   "surface": "אם",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "תלך",
+   "gloss": "uzagenda"
+  },
+  {
+   "surface": "בחקתי",
+   "gloss": "mu mategeko yanjye"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "imanza zanjye"
+  },
+  {
+   "surface": "משפטי",
+   "gloss": "imanza zanjye"
+  },
+  {
+   "surface": "תעשה",
+   "gloss": "ukora"
+  },
+  {
+   "surface": "ושמרת",
+   "gloss": "unakurikiza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "itegeko ryose ryanjye"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ryose"
+  },
+  {
+   "surface": "מצותי",
+   "gloss": "itegeko ryanjye"
+  },
+  {
+   "surface": "ללכת",
+   "gloss": "mu kuzengurukamo"
+  },
+  {
+   "surface": "בהם",
+   "gloss": "mo"
+  },
+  {
+   "surface": "והקמתי",
+   "gloss": "ndahozaho"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ijambo ryanjye"
+  },
+  {
+   "surface": "דברי",
+   "gloss": "ijambo ryanjye"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "na ⟨את⟩ wowe"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(ryo)"
+  },
+  {
+   "surface": "דברתי",
+   "gloss": "nako kuvuga"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawidi (Dawidi)"
+  },
+  {
+   "surface": "אביך",
+   "gloss": "so wawe"
+  }
+ ],
+ "timestamp": "2026-09-07T13:33:20.472223049Z",
+ "model": "glm-5.3"
+}

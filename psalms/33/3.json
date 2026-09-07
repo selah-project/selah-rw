@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Muririmbire iyo indirimbo nshya; mukine neza, mu kivuma.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Muririmbire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nshya"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "mukine neza"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "mukine"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mu kivuma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:08.438239940Z",
+  "model": "glm-5.3"
+}

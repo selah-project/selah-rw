@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Nuko yazamuye ikiganza cye ku bwo kubagira ngo bahitane ⟨את⟩ bo mu butayu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ikiganza cye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku bwo kubagira"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ngo bahitane"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abantu bahitanwa)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:08.570254154Z",
+  "model": "glm-5.3"
+}

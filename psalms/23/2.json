@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Mu mbuga z'urubavu arankwiruhutsa, ku mazi y'umutekano aranyohera.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "mu mbuga"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "z'urubavu"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "arankwiruhutsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "y'umutekano"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "aranyohera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:26.006750230Z",
+  "model": "glm-5.3"
+}

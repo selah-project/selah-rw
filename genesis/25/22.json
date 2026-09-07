@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze abana barakoragurana mu nda ye; aravuga ati: Niba ari ko bimeze, ni iki gifise nanjye? Nuko agahita agienda asa ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "barakoragurana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mu nda ye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ari ko bimeze"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "gifise"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "agahita agienda"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:55:39.899805143Z",
+  "model": "glm-5.3"
+}

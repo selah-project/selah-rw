@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yotamu yashitanye hamwe n'ababyeyi be, maze bamushyinguye ⟨את⟩ we mu mujyi wa Dawidi; maze Ahazi, umwana we, yategetse mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yashitanye"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ababyeyi be"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bamushyinguye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "Yotamu (buri uwo yerekaga)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T20:58:54.031905982Z",
+  "model": "glm-5.3"
+}

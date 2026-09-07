@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "psalms 107:25",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 107,
+ "translation": "⟨We⟩ yaravuze maze yashyizeho umuyaga w'ikiza, maze warazamuye ibara ryaryo.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "yaravuze"
+  },
+  {
+   "surface": "ויעמד",
+   "gloss": "yashyizeho"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "umuyaga"
+  },
+  {
+   "surface": "סערה",
+   "gloss": "w'ikiza"
+  },
+  {
+   "surface": "ותרומם",
+   "gloss": "warazamuye"
+  },
+  {
+   "surface": "גליו",
+   "gloss": "ibara ryaryo"
+  }
+ ],
+ "timestamp": "2026-09-07T18:46:21.533092781Z",
+ "model": "glm-5.3"
+}

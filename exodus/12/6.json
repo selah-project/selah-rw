@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "exodus 12:6",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Izabikwa ntimwe kugeza ku munsi wa cumi na kane w'uku kwezi; maze ihuriro ryose ry'itorero rya Yisraeli rirayire ⟨את⟩ we hagati y'ijoro.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "izabikwa"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "ntimwe"
+  },
+  {
+   "surface": "למשמרת",
+   "gloss": "kubikwa ⟨nk'ibibikwa⟩"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "ארבעה",
+   "gloss": "cumi"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "na kane"
+  },
+  {
+   "surface": "יום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "לחדש",
+   "gloss": "w'uku kwezi"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "uyu"
+  },
+  {
+   "surface": "ושחטו",
+   "gloss": "rirayire"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "cyose (ihuriro ry'itorero)"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ryose"
+  },
+  {
+   "surface": "קהל",
+   "gloss": "ihuriro"
+  },
+  {
+   "surface": "עדת",
+   "gloss": "itorero"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "בין",
+   "gloss": "hagati"
+  },
+  {
+   "surface": "הערבים",
+   "gloss": "y'ijoro ⟨imyanya y'ijoro ibiri⟩"
+  }
+ ],
+ "timestamp": "2026-09-07T08:44:04.460013610Z",
+ "model": "glm-5.3"
+}

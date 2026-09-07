@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ ingamiya na ⟨את⟩ uruhu wayo na ⟨את⟩ inyama wayo na ⟨את⟩ indyo wayo yashyizwe mu muriro hanze y'umuhiro, uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingamiya"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ingamiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhu wayo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "uruhu wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyama wayo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indyo wayo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "indyo wayo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yashyizwe mu muriro"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'umuhiro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:35:03.724832466Z",
+  "model": "glm-5.3"
+}

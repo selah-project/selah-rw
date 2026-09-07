@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 20:5",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Aguhe uko umutima wawe ubishaka, maze inama zawe zose azuzuze ⟨azizuzuze⟩.",
+ "tokens": [
+  {
+   "surface": "יתן",
+   "gloss": "aguhe"
+  },
+  {
+   "surface": "לך",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "כלבבך",
+   "gloss": "uko umutima wawe ubishaka"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "na ... zose"
+  },
+  {
+   "surface": "עצתך",
+   "gloss": "inama zawe"
+  },
+  {
+   "surface": "ימלא",
+   "gloss": "azuzuze"
+  }
+ ],
+ "timestamp": "2026-09-07T18:11:41.373840477Z",
+ "model": "glm-5.3"
+}

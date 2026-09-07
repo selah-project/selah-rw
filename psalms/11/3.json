@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kuko imishingi yarasenyutse — umutunganye akora iki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "imishingi"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "yarasenyutse"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "akora"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:41.009306168Z",
+  "model": "glm-5.3"
+}

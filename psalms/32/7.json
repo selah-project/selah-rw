@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Wowe uri ahantu h'ukwihisha njye; unyiriza mu byago, unzingira amajwi y'ishimwe yo kurokoka. Selahi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ahantu h'ukwihisha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mu byago"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "unyiriza"
+    },
+    {
+      "surface": "רני",
+      "gloss": "amajwi y'ishimwe"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "yo kurokoka"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "unzingira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:43.391529295Z",
+  "model": "glm-5.3"
+}

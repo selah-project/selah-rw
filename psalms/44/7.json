@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Kuko ntiturariye mu museke wanjye, n'umuhoro wanjye ntudukiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "mu museke wanjye"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ntiturariye"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "n'umuhoro wanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ntudukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.393492342Z",
+  "model": "glm-5.3"
+}

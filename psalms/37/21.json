@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Umwangonzi aragurirwa kandi ntagiha; umutunganye arahana impuhwe, kandi aha.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "aragurirwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangonzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntagiha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ntagiha"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "umutunganye"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "arahana impuhwe"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "kandi aha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:30.573572855Z",
+  "model": "glm-5.3"
+}

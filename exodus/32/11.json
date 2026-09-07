@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze Moshe yasabiye ⟨את⟩ uburanga bwa Yahwe, Elohimu ye, maze aravuga ati: Kuki, Yahwe, uburakari bwawe bukaze ku bantu bawe wasohoye mu gihugu cya Mitsrayimu (Egiputa), mu ngufu ninini no mu ntoki ikomeye?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "yasabiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburanga bwa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "bukaze"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ku bantu bawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "wasohoye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "mu ngufu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ninini"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no mu ntoki"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:12:30.303408789Z",
+  "model": "glm-5.3"
+}

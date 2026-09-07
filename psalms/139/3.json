@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Inzira yanjye n'ukurara kwanjye warondoye; umenya neza byose mu nzira zanjye.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "inzira yanjye"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "n'ukurara kwanjye"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "warondoye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mu nzira zanjye"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "umenya neza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:47.247077502Z",
+  "model": "glm-5.3"
+}

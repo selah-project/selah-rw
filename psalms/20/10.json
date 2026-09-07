@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yahwe, urokore! Umwami ate ubwo adusubize ku munsi tumuhamagaraho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "urokore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ate ubwo adusubize"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "tumuhamagaraho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:06.356511819Z",
+  "model": "glm-5.3"
+}

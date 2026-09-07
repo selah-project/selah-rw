@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Intlwe yawe, Elohimu, ⟨ni⟩ y'iteka na rimwe; agacumu k'ubutabera ni agacumu k'ubwami bwawe.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "intlwe yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na rimwe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agacumu"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "k'ubutabera"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agacumu"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "k'ubwami bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:43.031806473Z",
+  "model": "glm-5.3"
+}

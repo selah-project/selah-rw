@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Arabe, urukuba ruraze gwa; mbese ntibazabwira ngo: Tapele mwari muhesheje ni hehe?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ruraze gwa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "urukuba"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mbese ntibazabwira ngo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bazabwira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ni hehe"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "tapele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "mwari muhesheje"
+    }
+  ],
+  "timestamp": "2026-09-07T16:49:39.159303747Z",
+  "model": "glm-5.3"
+}

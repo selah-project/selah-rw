@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Umunwa wanjye uzatabura ubutunganye bwawe n'ubukiza bwawe ku munsi wose; kuko ntago nzi ibara ryabyo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "umunwa wanjye"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "uzatabura"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutunganye bwawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ku munsi wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi wose"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ubukiza bwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ibara ryabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:55.860061692Z",
+  "model": "glm-5.3"
+}

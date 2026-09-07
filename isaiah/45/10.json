@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Yee uwubwira se: «Ukiza iki?» na nyina: «Uvuka iki?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uwubwira"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ukiza"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "na nyina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "uvuka"
+    }
+  ],
+  "timestamp": "2026-09-07T15:20:00.410898599Z",
+  "model": "glm-5.3"
+}

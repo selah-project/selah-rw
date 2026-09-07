@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "⟨את⟩ imyambaro y'umurimo yo korera mu gitagatifu, ⟨את⟩ imyambaro tagatifu ya Aharoni kohenu (umukozi w'ibitangirwa), na ⟨את⟩ imyambaro y'abahungu be yo kora umurimo wa kohenu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro y'umurimo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro y'umurimo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "y'umurimo"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "yo korera"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu gitagatifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro tagatifu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tagatifu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu (umukozi w'ibitangirwa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imyambaro y'abahungu be"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "y'abahungu be"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "yo kora umurimo wa kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:40.917733781Z",
+  "model": "glm-5.3"
+}

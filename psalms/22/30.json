@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Bazarya bakanubaha abatungera bose b'isi imbere ye; bazagikama abamanura bose mu inenyi, kandi uwidafite umwete ntiyashobora kwihesha ubuzima Nefeshi ye.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Bazarya"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bakanubaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "abatungera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bazagikama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abamanura"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mu inenyi"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "na Nefeshi ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiyashobora"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kwihesha ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:17.528646933Z",
+  "model": "glm-5.3"
+}

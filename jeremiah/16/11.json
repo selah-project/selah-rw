@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 16:11",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze ubabwire uti: Ni kuko abakurambere banyu barasize ⟨את⟩ yanjye, ni ukuvuga Yahwe, bakurikira izindi mana, bazikorerera, bazubamira; na ⟨את⟩ yanjye barasize, na ⟨את⟩ Tora yanjye ntibayibitse.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ni kuko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "barasize"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ yanjye",
+      "marks": "yanjye (Yahwe)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ni ukuvuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bakurikira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izindi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "bazikorerera"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bazubamira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bazubamira"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "na ⟨את⟩ yanjye",
+      "marks": "yanjye (Yahwe)"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "barasize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tora yanjye"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bayibitse"
+    }
+  ],
+  "timestamp": "2026-09-07T15:57:26.027282559Z",
+  "model": "glm-5.3"
+}

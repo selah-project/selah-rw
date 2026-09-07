@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "ezekiel 11:11",
+ "book": "ezekiel",
+ "lang": "rw",
+ "chapter": 11,
+ "translation": "Iyo ntizaba icyansi kuri mwe, na mwe ntimuzaba inyama mu ndaro yayo; ku mupaka w'Yisraeli nzabacira urubanza ⟨את⟩ mwe.",
+ "tokens": [
+  {
+   "surface": "היא",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti-"
+  },
+  {
+   "surface": "תהיה",
+   "gloss": "-zaba"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "kuri mwe"
+  },
+  {
+   "surface": "לסיר",
+   "gloss": "icyansi"
+  },
+  {
+   "surface": "ואתם",
+   "gloss": "na mwe"
+  },
+  {
+   "surface": "תהיו",
+   "gloss": "muzaba"
+  },
+  {
+   "surface": "בתוכה",
+   "gloss": "mu ndaro yayo"
+  },
+  {
+   "surface": "לבשר",
+   "gloss": "inyama"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "גבול",
+   "gloss": "mupaka"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "w'Yisraeli"
+  },
+  {
+   "surface": "אשפט",
+   "gloss": "nzabacira urubanza"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  }
+ ],
+ "timestamp": "2026-09-07T16:48:22.803902380Z",
+ "model": "glm-5.3"
+}

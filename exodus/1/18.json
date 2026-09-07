@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umwami wa Mitsrayimu yahamagaye ababyeyi, arababwira ati: Kuki makoze iki gikorwa, mwarazimye ⟨את⟩ abahungu?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira ati"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨arababwira⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "makoze"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iki gikorwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "mwarazimye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "abahungu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:08.695344704Z",
+  "model": "glm-5.3"
+}

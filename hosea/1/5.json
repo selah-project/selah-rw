@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi bizaba ko ku wo munsi: nzamenya ⟨את⟩ umuyugi w'i Yisraeli mu gishanga cya Yizreeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bizaba ko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "nzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuyugi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umuyugi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "mu gishanga"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:40.663539515Z",
+  "model": "glm-5.3"
+}

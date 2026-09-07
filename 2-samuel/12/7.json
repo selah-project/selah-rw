@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Natani nawe abwira Dawidi ati: Ni wowe uwo mugabo! Uko ari ko Yahwe, Elohimu wa Yisraeli, avuze uti: Ni jye nakugaye ngo ube umwami w'Yisraeli, kandi ni jye nakurokoye mu ntoki za Shauli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nawe abwira"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni wowe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo mugabo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko ari ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni jye"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "nakugaye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngo ube umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "w'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kandi ni jye"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "nakurokoye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:08:02.598470987Z",
+  "model": "glm-5.3"
+}

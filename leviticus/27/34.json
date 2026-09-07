@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ibi ni amategeko yategetse Yahwe ⟨את⟩ Moshe ku bana ba Yisraeli, ku musozi wa Sinayi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "wa Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:30.243349103Z",
+  "model": "glm-5.3"
+}

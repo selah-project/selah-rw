@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yaravugiye na Moshe mu butayu bwa Sinayi, mu ihema ry'ukubonana, ku wa mbere mu kwezi wa kabiri, mu mwaka wa kabiri nyuma y'uko bavuye mu gihugu cya Mitsrayimu, ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravugiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "bwa Sinayi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ukubonana"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ku wa mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "nyuma y'uko bavuye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:46.743059473Z",
+  "model": "glm-5.3"
+}

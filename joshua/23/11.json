@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Mugende mwitondere cyane ku mutima wanyu, ngo mukunde ⟨את⟩ Yahwe Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mugende mwitondere"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ku mutima wanyu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ngo mukunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohimu wanyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:45:34.459445968Z",
+  "model": "glm-5.3"
+}

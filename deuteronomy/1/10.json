@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe, Elohimu wanyu, yaragwije ⟨את⟩ mwebwe; none murimo uyu munsi nk'inyenyeri z'ijuru mu bwinshi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "yaragwije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwebwe"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "none murimo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "nk'inyenyeri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mu bwinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:24.842517857Z",
+  "model": "glm-5.3"
+}

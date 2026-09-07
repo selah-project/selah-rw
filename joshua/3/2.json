@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Hagize aminsi atatu, abashotori (abategetsi) basohoka mu maso y'ubwiru (mu mbere y'urubuga rwo hirya).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hagize"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "hereza"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aminsi"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "abashotori"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu maso y'"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ubwiru"
+    }
+  ],
+  "timestamp": "2026-09-07T11:23:28.772441388Z",
+  "model": "glm-5.3"
+}

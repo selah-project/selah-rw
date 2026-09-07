@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nuko abahanga ubuhanga barabikoze mu bwiga bwabo ngo bakure ⟨את⟩ imibu, ariko ntibashoboye; imibu yabaye ku muntu no ku matungo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barabikoze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nuko uko"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abahanga ubuhanga"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "mu bwiga bwabo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngo bakure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imibu"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "imibu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "imibu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "no ku matungo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:15.601440309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Tegeka ⟨את⟩ abana ba Yisraeli basohore mu murwa uwose uwanduwe n'indwara y'uruhu, n'uwose uwanda umusego, n'uwose umunyabyaha ku bw'umurambo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Tegeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "basohore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "murwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "uwose"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "uwanduwe n'indwara y'uruhu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'uwose"
+    },
+    {
+      "surface": "זב",
+      "gloss": "uwanda umusego"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'uwose"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "umunyabyaha"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ku bw'umurambo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:35.794023012Z",
+  "model": "glm-5.3"
+}

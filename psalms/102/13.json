@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Ariko wowe, Yahwe, mu iteka utuye, n'urwibutso rwawe ku muryango n'umuryango.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "n'urwibutso rwawe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'umuryango"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:50.366439249Z",
+  "model": "glm-5.3"
+}

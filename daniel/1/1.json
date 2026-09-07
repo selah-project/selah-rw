@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu mwaka wa gatatu w'ubwami bwa Yehoyakimu, umwami w'Yehudah, Nevukadnetsari, umwami wa Baveli, yaje i Yerushalayimu arayirubura.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mu mwaka"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "w'ubwami"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakimu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "arayirubura"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:02:38.361618514Z",
+  "model": "glm-5.3"
+}

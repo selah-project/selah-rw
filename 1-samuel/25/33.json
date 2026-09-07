@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 33,
+ "ref": "1-samuel 25:33",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 25,
+ "translation": "Kandi umugisha uhabwe ubwenge bwawe, kandi umugisha ufite ⟨את⟩ wowe, uri wanadubuje umunsi uyu kwinjira mu maraso, no guhagarika intoki yanjye ku mwanjye.",
+ "tokens": [
+  {
+   "surface": "וברוך",
+   "gloss": "kandi umugisha uhabwe"
+  },
+  {
+   "surface": "טעמך",
+   "gloss": "ubwenge bwawe"
+  },
+  {
+   "surface": "וברוכה",
+   "gloss": "kandi umugisha ufite"
+  },
+  {
+   "surface": "את",
+   "gloss": "wowe",
+   "marks": "wowe (Abigayeli)"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "uri"
+  },
+  {
+   "surface": "כלתני",
+   "gloss": "wanadubuje"
+  },
+  {
+   "surface": "היום",
+   "gloss": "umunsi"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "uyu"
+  },
+  {
+   "surface": "מבוא",
+   "gloss": "kwinjira"
+  },
+  {
+   "surface": "בדמים",
+   "gloss": "mu maraso"
+  },
+  {
+   "surface": "והשע",
+   "gloss": "no guhagarika"
+  },
+  {
+   "surface": "ידי",
+   "gloss": "intoki yanjye"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ku mwanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T12:55:48.494246019Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yohereje intoyo ze maze arabirukanya, imiranzi myinshi arayihumbye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Yohereje"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "intoyo ze"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "maze arabirukanya"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "imiranzi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "myinshi"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "arayihumbye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:49.337248952Z",
+  "model": "glm-5.3"
+}

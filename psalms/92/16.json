@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Mu kugaragaza ko Yahwe ⟨ni⟩ intungane; ni urutare rwanjye, kandi nta butemu buri muri we.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Mu kugaragaza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "intungane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "butemu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:11.612399422Z",
+  "model": "glm-5.3"
+}

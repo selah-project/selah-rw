@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Umwe muri bo yasohoye ⟨את⟩ iwanjye, maze navuze nti: Rwose arasiraguwe, arasiraguwe; kandi sinamubonye kugeza ubu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yasohoye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Umwe muri bo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ iwanjye",
+      "marks": "Umwe muri bo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "arasiraguwe"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "arasiraguwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sin-"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "-amubonye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ubu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:52.519273922Z",
+  "model": "glm-5.3"
+}

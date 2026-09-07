@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Moshe yarabwiye abantu ati: Munibuke ⟨את⟩ uyu munsi mwavuye muri uwo mwaka mu Mitsrayimu, mu nzu y'ubucakara, kuko n'intoki y'inkomeye Yahwe yabakuyeho muri ibi — ntibarye ifu yavuye mu mumbere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Munibuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyu munsi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mwavuye"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "mwavuye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ubucakara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "n'intoki y'inkomeye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "intoki"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yabakuyeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "muri ibi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "muri ibi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "barye"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ifu yavuye mu mumbere"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:14.758307053Z",
+  "model": "glm-5.3"
+}

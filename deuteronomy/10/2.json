@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze nzandike ku ayo mabaho ⟨את⟩ amagambo yari ku mabaho ya mbere wari kuvunye, maze uzashyire muri ayo sanduku.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Maze nzandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ayo mabaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivyari"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mabaho"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivyo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wari kuvunye"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "maze uzashyire"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "muri ayo sanduku"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:27.533699471Z",
+  "model": "glm-5.3"
+}

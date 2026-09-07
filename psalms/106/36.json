@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Maze bashumbye ⟨את⟩ ibigirwamana byabo, maze ibyo biba urunyeganyega kuri bo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Maze bashumbye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibigirwamana byabo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze ibyo biba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "urunyeganyega"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:56.168570169Z",
+  "model": "glm-5.3"
+}

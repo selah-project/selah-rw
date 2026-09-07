@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Unyisukure n'urwabyo, maze nsukure; unyogehe, ndazaba umweru kurusha uruhuki.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "unyisukure"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "n'urwabyo"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "maze nsukure"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "unyogehe"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kurusha uruhuki"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ndazaba umweru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:38.897826227Z",
+  "model": "glm-5.3"
+}

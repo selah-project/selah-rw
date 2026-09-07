@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Iminsi ya Dawidi (Dawidi) yegereje yo gupfa, maze yategejeje ⟨את⟩ Shelomo (Salomo) umwana we, ati:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "yegereje"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "yo gupfa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "maze yategejeje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:22.233386765Z",
+  "model": "glm-5.3"
+}

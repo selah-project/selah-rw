@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Mu kwezi kwambere, ku wa cumi n'ine w'ukwezi, hagati y'amasininzi, ⟨ni⟩ Pesahi kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Mu kwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kwambere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "n'ine"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "w'ukwezi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "amasininzi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesahi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:32.880289946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze igihe ubwami bwa Rehavamu bwari bwemejwe, kandi we yakomeye, we yarasize ⟨את⟩ Tora ya Yahwe, n'Yisraeli bose hamwe na we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "igihe…bwemejwe"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "kandi we yakomeye"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "yarasize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n'Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:44.182006098Z",
+  "model": "glm-5.3"
+}

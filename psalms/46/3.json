@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Kubw'ibyo ntituzatinya iyo isi ihindutse, n'imisozi igahunze mu mutima w'ibiyaga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "tuzatinya"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ihindutse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "mu kugahunika"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mutima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "w'ibiyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:29.574578183Z",
+  "model": "glm-5.3"
+}

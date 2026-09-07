@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Umutware Kenazi, umutware Temani, umutware Mibtsari.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenazi"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Temani"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsari"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:21.814211299Z",
+  "model": "glm-5.3"
+}

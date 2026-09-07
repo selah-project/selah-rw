@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abantu banjye bibaza ku giti cyabo, n'inkoni yabo ibamenyesha; kuko umwuka w'ubusambanyi wabayobye, maze basamba bava munsi y'Elohimu wabo.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "ku giti cyabo"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "bibaza"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "n'inkoni yabo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ibamenyesha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "w'ubusambanyi"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "wabayobye"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "maze basamba"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "bava munsi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "y'Elohimu wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:28:42.009063900Z",
+  "model": "glm-5.3"
+}

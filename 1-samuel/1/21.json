@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umugabo Elkanaha n'urugo rwe rwose bazamutse kugira igicaniro kwa Yahwe: ⟨את⟩ igicaniro cy'iminsi na ⟨את⟩ isezerano rye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bazamutse"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanaha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'urugo rwe rwose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "urugo rwe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kugira igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "cy'iminsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isezerano rye"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "isezerano rye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:21:20.489125932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 38:12",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ese mu minsi yawe, wategetse igitondo cyangwa watumye kwari kw'igitondo kumenya ahantu hacyo?",
+  "tokens": [
+    {
+      "surface": "המימיך",
+      "gloss": "ese mu minsi yawe"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wategetse"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "igitondo"
+    },
+    {
+      "surface": "ידעתה",
+      "gloss": "watumye kumenya"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kwari kw'igitondo"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ahantu hacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:38:43.839865103Z",
+  "model": "glm-5.3"
+}

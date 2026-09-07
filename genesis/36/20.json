@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Aba ni abahungu ba Seiri, umuHori, abatuye igihugu: Lotanu, na Shovalu, na Tsivoni, na Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "umuHori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotanu"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "na Shovalu"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "na Tsivoni"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "na Anah"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:50.542858926Z",
+  "model": "glm-5.3"
+}

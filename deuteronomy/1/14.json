@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mwantuye ⟨את⟩ njye, mwaravuze muti: urwo rugamba ⟨ni⟩ byiza uko wavuze ngo rwose.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Mwantuye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "mwaravuze"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "urwo rugamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngo rwose"
+    }
+  ],
+  "timestamp": "2026-09-07T10:47:05.806428220Z",
+  "model": "glm-5.3"
+}

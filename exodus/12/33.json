@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mitsrayimu yahananganye ku bantu ngo baboherejwe bihutira bakuye mu isi, kuko bavugaga bati: Twebwe twese turi abapfuye.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "yahananganye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ngo baboherejwe bihutira"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "baboherejwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bakuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bavugaga bati"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "twese"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "turi abapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:47:46.408925839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yehizikiyahu n'abatware baza, bareba ⟨את⟩ ibyara, maze baragushima ⟨את⟩ Yahwe n'⟨את⟩ ubwoko bwe bwa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizikiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "n'abatware"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bareba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyara"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ibyara"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "baragushima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwoko bwe bwa Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bwa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:02:35.801656896Z",
+  "model": "glm-5.3"
+}

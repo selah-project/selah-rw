@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze umwinjiza mu hagati mu nzu yawe, maze akata ⟨את⟩ umutwe we, maze akora ⟨את⟩ inyanguzo ze.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "Maze umwinjiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "inzu yawe"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "maze akata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe we"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "maze akora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanguzo ze"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "inyanguzo ze"
+    }
+  ],
+  "timestamp": "2026-09-07T11:03:58.651875402Z",
+  "model": "glm-5.3"
+}

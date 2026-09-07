@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ubutungane bwawe ni ubutungane bw'iteka, na Tora yawe ⟨ni⟩ ukuri.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutungane bwawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bw'iteka"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na Tora yawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:41.868801557Z",
+  "model": "glm-5.3"
+}

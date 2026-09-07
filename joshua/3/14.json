@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze abantu basohoka mu mahema yabo ngo bambuke ⟨את⟩ Yarudeni, maze abaherezi batwara sanduku ya beriti baba imbere y'abantu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "iyo... basohoka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "mu mahema yabo"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ngo bambuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarudeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarudeni"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "maze abaherezi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "batwara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya beriti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "baba imbere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "y'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:36.453865619Z",
+  "model": "glm-5.3"
+}

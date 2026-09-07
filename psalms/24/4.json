@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ufite intoki zisukuye n'umutima weruye, utazamuye nefeshi ye ku bwiji, kandi ntiyahamwe mu buriganyi.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ufite intoki zisukuye"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "intoki"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "n'umutima weruye"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ku bwiji"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yahamwe"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "mu buriganyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:54.878654188Z",
+  "model": "glm-5.3"
+}

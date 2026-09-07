@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kandi ⟨את⟩ umutiye uyu uzawufata mu ntoki zawe, wo gukoresha we ⟨את⟩ ibimenyetso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutiye uyu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "umutiye"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzawufata"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gukoresha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibimenyetso"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ibimenyetso"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:39.502446772Z",
+  "model": "glm-5.3"
+}

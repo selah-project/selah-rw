@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Yahwe azamurinda, amugumaho ubuzima, aramutunganya mu gihugu; kandi ntamutanga ku bw'inefeshi y'ibansi be.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "azamurinda"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "amugumaho ubuzima"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "aramutunganya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "mutanga"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ku bw'inefeshi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "y'ibansi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:54.194835807Z",
+  "model": "glm-5.3"
+}

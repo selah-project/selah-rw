@@ -1,0 +1,40 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "1-chronicles 1:14",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "na ⟨את⟩ Yevusi, na ⟨את⟩ Emori, na ⟨את⟩ Girgashi,",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "Yevusi"
+  },
+  {
+   "surface": "היבוסי",
+   "gloss": "Yevusi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "Emori"
+  },
+  {
+   "surface": "האמרי",
+   "gloss": "Emori"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "Girgashi"
+  },
+  {
+   "surface": "הגרגשי",
+   "gloss": "Girgashi"
+  }
+ ],
+ "timestamp": "2026-09-07T20:29:07.533828902Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Nimwiteze amatwi, ijuru, kandi ndavuge; isi imve amajambo y'akanwa kane.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "nimwiteze amatwi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "kandi ndavuge"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "imve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "y'akanwa kane"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:12.553736214Z",
+  "model": "glm-5.3"
+}

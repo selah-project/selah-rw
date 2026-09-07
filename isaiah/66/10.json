@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Mwishime ⟨את⟩ Yerushalayimu (Yerusalemu), kandi mukanakazeho bose abayikunda; mushimishwe ⟨את⟩ mu ishimo ryinshi, bose abalila kuri yo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "mwishime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mukanakazeho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho (muri yo)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "abayikunda"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "mushimishwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe na yo (Yerushalayimu)"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "mu ishimo ryinshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "abalila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:38:16.324516839Z",
+  "model": "glm-5.3"
+}

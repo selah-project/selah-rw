@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Moshe arakoreye ⟨את⟩ intoki ye hejuru y'ijuru, maze haba umwijima ukaze mu gihugu cyose cya Mitsrayimu — iminsi mitatu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "arakoreye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze haba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ukaze"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu gihugu cyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mitatu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:46.016548206Z",
+  "model": "glm-5.3"
+}

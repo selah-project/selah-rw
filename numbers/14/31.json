@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Mu bana banyu bato, abo mwavuze ko bazaba ubyaro — njye nzazana ⟨את⟩ abo, maze bamenye ⟨את⟩ igihugu icyo mwenze.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "mu bana banyu bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "mwavuze ko"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "bazaba ubyaro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "njye nzazana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo (bana bato)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "maze bamenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "mwenze"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri icyo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:13:48.953372767Z",
+  "model": "glm-5.3"
+}

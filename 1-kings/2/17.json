@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Aravuze ati: Bwira ndaguza Shelomo umwami, ko atazahindura ⟨את⟩ uruhanga rwawe, maze anke ⟨את⟩ Avishagu umushunamu akaba umugore wanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuze ati"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Bwira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndaguza"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntazi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "azahindura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhanga rwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(njye)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishagu"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishagu"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "umushunamu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "akaba umugore wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:59.630682976Z",
+  "model": "glm-5.3"
+}

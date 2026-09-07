@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ ibicanwa, na ⟨את⟩ ibyuma byo kwisukuramo — ari zahabu, zahabu, na ari ifeza, ifeza — umukuru w'abicanyi yafashe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibicanwa"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ibicanwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyuma byo kwisukuramo"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "ibyuma byo kwisukuramo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ari"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "w'abicanyi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:36:02.717491761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kandi ntimugombe kuhamya ku izina ryanjye ubuhemu, ugahita uryamiza ⟨את⟩ izina ry'Elohimu wawe; njye ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "mugombe kuhamya"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ku izina ryanjye"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ugahita uryamiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ry'Elohimu wawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:09.519839026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Mu hatsotsera n'ijwi rya shofara, mwivuze induru imbere y'umwami Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "mu hatsotsera"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "n'ijwi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mwivuze induru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:31.113078167Z",
+  "model": "glm-5.3"
+}

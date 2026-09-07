@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze ufata ⟨את⟩ abahungu bawe na ⟨את⟩ abakobwa bawe uwo wabyariye njye, ubazirikana kuri bo ngo barywe — ejozi ko ubusambanyi bawe ari buke?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Maze ufata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu bawe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abahungu bawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakobwa bawe"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "abakobwa bawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "wabyariye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ubazirikana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ngo barywe"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ejozi ko ari buke"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ubusambanyi bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:49:01.560200457Z",
+  "model": "glm-5.3"
+}

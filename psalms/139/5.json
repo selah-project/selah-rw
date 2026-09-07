@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Inyuma n'imberi uramfunitse, ukashyiza ukuboko kwawe ku mpanyi yanjye.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Inyuma"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "n'imberi"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "uramfunitse"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ukashyiza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku mpanyi yanjye"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ukuboko kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:41.836454144Z",
+  "model": "glm-5.3"
+}

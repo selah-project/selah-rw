@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Yakoreye ⟨את⟩ ibaho bya Mishkani: ibaho makumyabiri ku ruhande rw'amajyepfo, mu majyepfo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibaho"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ibaho"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "bya Mishkani"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ibaho"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "rw'amajyepfo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mu majyepfo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:18.921517030Z",
+  "model": "glm-5.3"
+}

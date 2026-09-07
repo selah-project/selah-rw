@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yaravuze ati: Muhamagare. Nahamagaye we, maze we yahagarariye ku muryango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yaravuze ati"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Muhamagare"
+    },
+    {
+      "surface": "לה",
+      "gloss": "we"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Nahamagaye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "we"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "yahagarariye"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ku muryango"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:56.175768256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Nuko abaherezi n'Abalevi baraherize kwiyerura ngo bazamurize ⟨את⟩ agakaritu ka Yahwe, Elohimu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "baraherize kwiyerura"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "n'Abalevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ngo bazamurize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agakaritu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "agakaritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:48.120667255Z",
+  "model": "glm-5.3"
+}

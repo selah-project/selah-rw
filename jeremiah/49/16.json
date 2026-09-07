@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 49:16",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ubwoba bwawe bwarayobye ⟨את⟩ ubwibane bw'umutima wawe, wowe utuye mu mbibu y'urutare, ufata rejuru rya musozi; nubaga urubari rwawe nk'urwa agila, kivayo nzakumanura — ⟨ni⟩ ukuvuga Yahwe.",
+  "tokens": [
+    {
+      "surface": "תפלצתך",
+      "gloss": "ubwoba bwawe"
+    },
+    {
+      "surface": "השיא",
+      "gloss": "bwarayobye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ubwibane bw'umutima wawe"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ubwibane"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "bw'umutima wawe"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "mu mbibu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "y'urutare"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "ufata"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "rejuru"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "rya musozi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nubaga"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "urwarurahe"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "nk'agila"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "urubari rwawe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kivayo"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "nzakumanura"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ukuvuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:34:09.062897865Z",
+  "model": "glm-5.3"
+}

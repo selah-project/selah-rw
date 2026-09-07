@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "⟨את⟩ inyoni y'ijoro nto, na ⟨את⟩ inyoni y'ijoro nini, n'inyoni yera nini;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyoni y'ijoro nto"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "inyoni y'ijoro nto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyoni y'ijoro nini"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "inyoni y'ijoro nini"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "inyoni yera nini"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:54.767728963Z",
+  "model": "glm-5.3"
+}

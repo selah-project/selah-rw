@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze uzirikane ⟨את⟩ itegeko riri mu gihe cyaryo cyagenwe, kuva mu minsi kugera mu minsi.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uzirikane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itegeko riri"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "riri"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "mu gihe cyaryo cyagenwe"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kuva mu minsi"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kugera mu minsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:37.337818949Z",
+  "model": "glm-5.3"
+}

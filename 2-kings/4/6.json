@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze igihe inkono zose zari zuzuye, yabwiye umuhungu we ati: Nzungera inkono irindi. Na we aramubwira ati: Nta nkono irindi nsigaye. Nuko amavuta yahagaze.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "igihe...zuzuye"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "inkono zose"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "nzungera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "irindi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "inkono"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "irindi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "inkono"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amavuta"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:05.467746491Z",
+  "model": "glm-5.3"
+}

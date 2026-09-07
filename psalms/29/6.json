@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Arahehereza Lebanonu na Shironi nk'ikimasa, nk'uruhinyi rw'inyamanswa z'ibyatsi.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "arahehereza"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nk'"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ikimasa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanonu"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "na Shironi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nk'"
+    },
+    {
+      "surface": "בן",
+      "gloss": "uruhinyi rw'"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "inyamanswa z'ibyatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:35.089096254Z",
+  "model": "glm-5.3"
+}

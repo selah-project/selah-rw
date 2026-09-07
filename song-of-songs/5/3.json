@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Nakuyemo ⟨את⟩ ishati ryanjye — ndayambika ate? Nasukuye ⟨את⟩ amaguru yanjye — ndayandura ate?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Nakuyemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishati ryanjye"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ishati ryanjye"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "ate?"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ndayambika"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Nasukuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaguru yanjye"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "amaguru yanjye"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "ate?"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ndayandura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:35.639297866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Kuko uyu ⟨ni⟩ Elohimu, Elohimu wacu, iteka n'iteka; ni we uzatwara ku rupfu ⟨n'uruhuko rwayo⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "n'iteka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "uzatwara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:05.830866388Z",
+  "model": "glm-5.3"
+}

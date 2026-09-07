@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kubera ibyaha bya Yaroveamu ibyo yacumuye, ndetse n'ibyo yacumije ⟨את⟩ Yisraeli, n'uburakari bwe bwo kurakarisha ⟨את⟩ Yahwe, Elohimu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kubera"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "bya Yaroveamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yacumuye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndetse n'ibyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "yacumije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "n'uburakari bwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bwo"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "kurakarisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:33.536842421Z",
+  "model": "glm-5.3"
+}

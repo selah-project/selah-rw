@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Maze uture abakobwa be ku bahungu bawe, maze abakobwa be bakazigura inyuma y'imana zacyo, bakazigurisha ⟨את⟩ abahungu bawe inyuma y'imana zacyo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uture"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "abakobwa be"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ku bahungu bawe"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "bakazigura"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "abakobwa be"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma y'"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "imana zacyo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "bakazigurisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu bawe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abahungu bawe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma y'"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "imana zacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:12:48.444387462Z",
+  "model": "glm-5.3"
+}

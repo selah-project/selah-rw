@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Dawidi yagiranye inama na ba mbare b'ibihumbi n'ibyanjari, n'umunyabayobozi wese.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "yagiranye inama"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ba mbare b'"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "n'ibyanjari"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wese ku buri"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umunyabayobozi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:26.245751166Z",
+  "model": "glm-5.3"
+}

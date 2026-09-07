@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "N'umukobwa w'umugabo kohenu, iyo atangiriye kwiyankiza, ni we yye ⟨את⟩ se yahombya; mu muriro azatwikwa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "N'umukobwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umugabo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "atangiriye"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kwiyankiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni we yye"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "yahombya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "azatwikwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:11.482322318Z",
+  "model": "glm-5.3"
+}

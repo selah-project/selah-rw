@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Inzira zayo ni inzira z'ineza, n'inzira zose zayo ni Shalomu (amahoro).",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "inzira zayo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "z'ineza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'... zose"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "inzira zayo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:42:10.488425322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Mu cyo gihe Yahwe Tsevaoti azaba ku umurongo w'icubahiro n'ikamba ry'ubwiza, ku gisigaye cy'abantu be.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "ku umurongo"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "w'icubahiro"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "n'ikamba"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ry'ubwiza"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "ku gisigaye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cy'abantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:45.459007074Z",
+  "model": "glm-5.3"
+}

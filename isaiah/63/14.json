@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Nka nka zigenda zimanuka mu kibaya, umwuka wa Yahwe wazishyize mu mahoro. Uko ni ko wayoboye abantu bawe, kugira ngo ubywibe izina ry'icyubahiro.",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "nka nka"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "mu kibaya"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "zigenda zimanuka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "wazishyize mu mahoro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko ni ko"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "wayoboye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kugira ngo ukore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ry'icyubahiro"
+    }
+  ],
+  "timestamp": "2026-09-07T15:31:52.008426521Z",
+  "model": "glm-5.3"
+}

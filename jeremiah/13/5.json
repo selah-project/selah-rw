@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Nagenda, maze nsihisha i Perati, uko Yahwe yategetse ⟨את⟩ nte.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Nagenda"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "nsihisha"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "i Perati"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nte",
+      "marks": "nte"
+    }
+  ],
+  "timestamp": "2026-09-07T15:52:47.614981892Z",
+  "model": "glm-5.3"
+}

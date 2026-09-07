@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi nzahorera kubahiriza Tora yawe buri gihe, mu iteka ridashira na hato.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "nzahorera kubahiriza"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bori gihe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka ridashira"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hato"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:11.143839531Z",
+  "model": "glm-5.3"
+}

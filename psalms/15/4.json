@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Umuntu w'ikigayire ni umwuma mu maso ye, ariko na ⟨את⟩ batinya Yahwe arabaha; akohera ko yakorana nabi ntagikohera.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "umuntu w'ikigayire"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ni umwuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "batinya Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "batinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "arabaha"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "akohera"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ko yakorana nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "gikohera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:27.979649467Z",
+  "model": "glm-5.3"
+}

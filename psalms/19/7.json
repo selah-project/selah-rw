@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Isohoka rye riri ku mpera z'ijuru, maze igendera rye rihariye ku mpera zawo; kandi nta na kimwe gitse ku bushyuhe bwaryo.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "isohoka rye"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "maze igendera rye"
+    },
+    {
+      "surface": "על",
+      "gloss": "rihariye"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ku mpera zawo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta na kimwe"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "gitse"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ku bushyuhe bwaryo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:42.530692895Z",
+  "model": "glm-5.3"
+}

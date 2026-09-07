@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Fata ⟨את⟩ Aharoni na ⟨את⟩ Elazari umuhungu we, maze uzabazamurira ⟨את⟩ umusozi wa Hori.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Fata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uzabazamurira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umusozi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:24:57.856198568Z",
+  "model": "glm-5.3"
+}

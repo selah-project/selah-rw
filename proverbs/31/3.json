@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ntuha abagore imbaraga zawe, nta na nzira zawe zugere ku byo kuraho abami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "imbaraga zawe"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "nzira zawe"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ku byo kuraho"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "abami"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:56.551696066Z",
+  "model": "glm-5.3"
+}

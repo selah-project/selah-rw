@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze Noahi yabyutse ivuye mu divayi, maze azi ⟨את⟩ ibyo umuhungu we muto yamukoze.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "yabyutse"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ivuye mu divayi"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo umuhungu we muto yamukoze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yamukoze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "–mu-"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "muto"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:57.898134088Z",
+  "model": "glm-5.3"
+}

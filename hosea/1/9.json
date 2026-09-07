@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze yaravuze ati: Mwitire izina rye Lo-Ammi ⟨abantu banjye ntibari abantu banjye⟩, ko mwe mubera si abantu banjye, kandi jyewe ntizaba ⟨n'Imana⟩ iwanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mwitire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo- (si)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (abantu banjye)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kandi jyewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:27:31.848559672Z",
+  "model": "glm-5.3"
+}

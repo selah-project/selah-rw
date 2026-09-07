@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze inyamaswa enye nkuru ziyakuye ku nyanja, zitandukanye zimwe na zimwe.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "Maze enye"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ziyakuye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "zitandukanye"
+    },
+    {
+      "surface": "דא",
+      "gloss": "zimwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "דא",
+      "gloss": "zimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:11:14.279527040Z",
+  "model": "glm-5.3"
+}

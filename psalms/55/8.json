@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Dore, ndahunga njya kure, ndoboka mu butayu. Selahi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "njya kure"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ndahunga"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ndoboka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:48.322776290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Muri icyo gihe Menachemu yanaguye ⟨את⟩ Tipsahi (Tipsahi) na ⟨את⟩ byose biri muri yo, na ⟨את⟩ imipaka yayo uhereye i Tirtsa, kuko batamufunguriye; maze yanaguye ⟨את⟩ abagore biwe bose batwite, abasanutse mu nda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "muri icyo gihe"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "yanaguye"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tipsahi"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tipsahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose biri muri yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imipaka yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imipaka yayo"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "uhereye i Tirtsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "batamufunguriye"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "maze yanaguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore batwite bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "abagore biwe batwite"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "abasanutse mu nda"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:56.496543303Z",
+  "model": "glm-5.3"
+}

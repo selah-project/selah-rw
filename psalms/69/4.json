@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Narahagaze mu guhamagara, umunwa wanjye wumye, amaso yanjye yaheuye, nditegereza Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Narahagaze"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mu guhamagara"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "wumye"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "umunwa wanjye"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yaheuye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "nditegereza"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:23.884151842Z",
+  "model": "glm-5.3"
+}

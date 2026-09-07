@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'inzu ⟨iyo⟩ umwami Shelomo yubatse ya Yahwe: uburebure bwayo amaboko mirongo itandatu, ubugari bwayo amaboko mirongo ibiri, n'ubuhagarike bwayo amaboko mirongo itatu.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "N'inzu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iyo⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mirongo itandatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mirongo ibiri"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ubugari bwayo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ubuhagarike bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:35:16.034974115Z",
+  "model": "glm-5.3"
+}

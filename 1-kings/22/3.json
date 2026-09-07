@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Umwami w'Yisraeli yarabwiriye abagaragu be ati: Ese ntimuzi ko Ramoti Giladi ⟨ni⟩ yacu, kandi twebwe turihisha mu kuyifata ⟨את⟩ mu ntoki za umwami w'Aramu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiriye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ese ntimuzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yacu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kandi twebwe"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "turihisha"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "mu kuyifata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoti Giladi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "za umwami"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "w'Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:32:07.207936381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "exodus 12:13",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Kandi amaraso azaba kuri mwe ikimenyetso ku amazu aho mwe muri icyo cyari; maze nzabona ⟨את⟩ amaraso, nzareberaho mwe, kandi nta cyorezo cya kwangiza cyaba muri mwe, mu gihe ndakubita mu gihugu cya Mitsrayimu.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "azaba"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "amaraso"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "kuri mwe"
+  },
+  {
+   "surface": "לאת",
+   "gloss": "ikimenyetso"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "הבתים",
+   "gloss": "amazu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "aho"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "שם",
+   "gloss": "muri icyo cyari"
+  },
+  {
+   "surface": "וראיתי",
+   "gloss": "nzabona"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amaraso"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "amaraso"
+  },
+  {
+   "surface": "ופסחתי",
+   "gloss": "nzareberaho"
+  },
+  {
+   "surface": "עלכם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "cyaba"
+  },
+  {
+   "surface": "בכם",
+   "gloss": "muri mwe"
+  },
+  {
+   "surface": "נגף",
+   "gloss": "icyorezo"
+  },
+  {
+   "surface": "למשחית",
+   "gloss": "cya kwangiza"
+  },
+  {
+   "surface": "בהכתי",
+   "gloss": "mu gihe ndakubita"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "mu gihugu"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "cya Mitsrayimu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:48:41.802877058Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abarinzi b'irembo barahamagara, barabimenyesha mu nzu y'umwami, mu ndani.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "barahamagara"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "abarinzi b'irembo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "barabimenyesha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "mu ndani"
+    }
+  ],
+  "timestamp": "2026-09-07T14:17:49.244159866Z",
+  "model": "glm-5.3"
+}

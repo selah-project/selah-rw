@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ikuzo rya Yahwe kizagaragara, maze inyama yose izarabyibona hamwe, ko kanwa ya Yahwe yaravuze.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "kizagaragara"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "izarabona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:27.531158713Z",
+  "model": "glm-5.3"
+}

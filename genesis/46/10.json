@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Abahungu ba Shimeoni (Simoni): Yemueli, na Yamini, na Ohadi, na Yakini, na Tsohari, na Shauli (Sawuli), umuhungu w'umugore umukenaani (Kenani).",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeoni (Simoni)"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemueli"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yamini"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohadi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakini"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Tsohari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shauli (Sawuli)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu w'"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "umugore umukenaani (Kenani)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:26:38.471402385Z",
+  "model": "glm-5.3"
+}

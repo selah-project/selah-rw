@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mu isanduku y'isezerano nta kindu hari, keretse amabuye mabiri yanditswe iyo Moshe yashyize aho muri Horebu, aho Yahwe yagiranye isezerano n'abana ba Yisraeli, mu gihe basohokaga mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nta kindu"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mu isanduku y'isezerano"
+    },
+    {
+      "surface": "רק",
+      "gloss": "keretse"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mabiri"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "amabuye yanditswe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "y'amabuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "muri Horebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yagiranye isezerano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "mu gihe basohokaga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:05.680601637Z",
+  "model": "glm-5.3"
+}

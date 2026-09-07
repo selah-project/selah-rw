@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ku ruhande rw'amarembo, i umunjyi wibuka, ku winjiro w'imiryango, ararurira.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "amarembo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "i"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "winjiro"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "w'imiryango"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ararurira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:32.774055228Z",
+  "model": "glm-5.3"
+}

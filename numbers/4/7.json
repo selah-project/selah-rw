@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "No ku rubaho rw'ibonekwa barakorera igitambaro cya tekelete (ubururu), bagashyira kuwo ⟨את⟩ ibisahani na ⟨את⟩ ibikopo na ⟨את⟩ ibyuma byo kwuhira na ⟨את⟩ ibibindi by'ibitondo; umugati wihoraho uracyari kuwo.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "No ku"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "rubaho"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "rw'ibonekwa"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "barakorera"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "igitambaro"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "cya tekelete (ubururu)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bagashyira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibisahani"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "ibisahani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikopo"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "ibikopo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyuma byo kwuhira"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "ibyuma byo kwuhira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibibindi by'ibitondo"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ibibindi"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "by'ibitondo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "wihoraho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uracyari"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:26.575421868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Zizanywe iwanjye imbabazi zawe, maze ndabe ubuzima, kuko Tora yawe ni ibyishimo byanjye.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "zizanywe iwanjye"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "imbabazi zawe"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "maze ndabe ubuzima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yawe"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ibyishimo byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:32.634579321Z",
+  "model": "glm-5.3"
+}

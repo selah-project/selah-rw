@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yaravuze kuri bo ati: Niko Yahwe abe kumwe namwe, uko nzohereza ⟨את⟩ mwe na ⟨את⟩ abana bato banyu; murebe, kuko ibibi biri imbere y'amaso yanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "abe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kumwe namwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana bato banyu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "abana bato banyu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "y'amaso yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:42.377960360Z",
+  "model": "glm-5.3"
+}

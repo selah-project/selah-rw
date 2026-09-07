@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Iyo ingabo zahtaye inzira kanjye, umutima wanjye ntiuzatinya; iyo intambara izuka kanjye, muri ibyo njye ⟨ni⟩ inyifata y'ukuri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "zahtaye inzira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "uzatinya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "izuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njeye"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "⟨ni⟩ inyifata y'ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:09.528943971Z",
+  "model": "glm-5.3"
+}

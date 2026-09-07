@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Iyo acyirizwa urubanza, asohoke n'icyaha, kandi amasengesho ye ahinduke icyaha.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "iyo acyirizwa urubanza"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "asohoke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n'icyaha"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "kandi amasengesho ye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ahinduke"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:43.410299733Z",
+  "model": "glm-5.3"
+}

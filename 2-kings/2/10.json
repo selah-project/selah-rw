@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Aravuga ati: Wasabye ikintu gikomeye gusaba; ariko iyo ureba ⟨את⟩ iyo nkwitwara ⟨את⟩ kuri wowe, bizaba iwawe byo; ariko utarureba, ntibizaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuga"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Wasabye ikintu gikomeye"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "gusaba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ureba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iyo nkwitwara"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nkwitwara"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kuri wowe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "byo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ariko iyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "utarureba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bizaba"
+    }
+  ],
+  "timestamp": "2026-09-07T14:04:22.751476353Z",
+  "model": "glm-5.3"
+}

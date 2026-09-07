@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Iyo umwuka w’umutware uzamutse ku wawe, ntureke umwanya wawe; kuko ubworoheye buhagarikisha ibyaha bikomeye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "w’umutware"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "uzamutse"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "umwanya wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ureke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ubworoheye"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "buhagarikisha"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "bikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:03.708878039Z",
+  "model": "glm-5.3"
+}

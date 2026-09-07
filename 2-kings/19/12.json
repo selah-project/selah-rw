@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ese imana z'amahanga zatabaye ⟨את⟩ zo — izo abakurambere banjye bari hemosheje: ⟨את⟩ Gozani na ⟨את⟩ Harani, na Retsefu n'abana b'Edeni bari muri Telashari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ese zatabaye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "bari hemosheje"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "abakurambere banjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Retsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "n'abana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "b'Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "muri Telashari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:00.857342878Z",
+  "model": "glm-5.3"
+}

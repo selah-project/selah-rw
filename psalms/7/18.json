@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Nzashimira Yahwe ku bw'ubutungane bwe, kandi nzaririmba izina rya Yahwe Elyoni ⟨Uri hejuru cyane⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Nzashimira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "ku bw'ubutungane bwe"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kandi nzaririmba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni ⟨Uri hejuru cyane⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:02.964683429Z",
+  "model": "glm-5.3"
+}

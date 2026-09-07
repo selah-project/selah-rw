@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Yatanze ⟨את⟩ bo impuhwe imbere y'ababashyize mu buja bose.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Yatanze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "impuhwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ababashyize mu buja"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:21.025877485Z",
+  "model": "glm-5.3"
+}

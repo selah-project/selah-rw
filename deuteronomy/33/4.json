@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Tora Moshe yategetse twebwe, ⟨ni⟩ umurage w'itorwa rya Yaakovu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "w'itorwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "rya Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:12.310544433Z",
+  "model": "glm-5.3"
+}

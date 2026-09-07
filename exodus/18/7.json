@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Moshe yasohotse ajya guhura n'ishebujawe, yubamye, arahebura yamuha ikimonyino; barabazanye amahoro, buri wese uwumunyature we, maze binjira mu ihema.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yasohotse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ajya guhura na"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ishebujawe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yubamye"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "yamuha ikimonyino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "arahebura"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "barabazanye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "uwumunyature we"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "binjira"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "mu ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T08:53:51.350069275Z",
+  "model": "glm-5.3"
+}

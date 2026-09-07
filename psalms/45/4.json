@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Banda umupanga wawe ku kibuno cyawe, wa ngome; icyubahiro cyawe n'ubwiza bwawe.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Banda"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "umupanga wawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kibuno cyawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa ngome"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "icyubahiro cyawe"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "n'ubwiza bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:23.438960093Z",
+  "model": "glm-5.3"
+}

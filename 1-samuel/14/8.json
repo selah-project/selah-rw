@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yehonatanu aravuga ati: Dore twe tujya ku bantu aba, tugatuza tukamenyekana kuri bo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tujya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bantu aba"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "tukamenyekana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:33:19.047137849Z",
+  "model": "glm-5.3"
+}

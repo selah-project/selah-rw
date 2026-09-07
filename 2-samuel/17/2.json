@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nkamugera ari umuhemu ungaraguwe ibiganza, nkamutera ubwoba, maze abantu bose bari ⟨את⟩ iwe baririmbuka, maze nkubite ⟨את⟩ umwami wenyine.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "nkamugera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uriho"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "umuhemu"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "ungaraguwe"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ibiganza"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "nkamutera ubwoba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe (Dawidi)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "baririmbuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kumwe n'iwe"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "maze nkubite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wenyine"
+    }
+  ],
+  "timestamp": "2026-09-07T13:15:17.571230813Z",
+  "model": "glm-5.3"
+}

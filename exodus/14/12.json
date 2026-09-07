@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ese ntiri iri jambo twakubwiye kuri wowe mu Mitsrayimu, tugira ngo: Reka udutangire, tugende dukorera ⟨את⟩ Abamitsrayimu; koko kuruta gutungana, kwari byiza kuri twe korera ⟨את⟩ Abamitsrayimu kuruta kwidapfa mu butayu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese ntiri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "twakubwiye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tugira ngo"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "Reka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "udutangire"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "tugende dukorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abamitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Abamitsrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "korera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abamitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Abamitsrayimu"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "kuruta kwidapfa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:15.943477437Z",
+  "model": "glm-5.3"
+}

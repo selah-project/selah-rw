@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Kandi ko umuntu yabonye ⟨את⟩ umwanzi we, akamwohereza mu nzira nziza? Nuko Yahwe aguhe impembo nziza ku bw'uyu munsi wakoze iwanjye.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kandi ko"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwanzi we"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "umwanzi we"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "akamwohereza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Nuko Yahwe"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "aguhe impembo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:46:47.587347431Z",
+  "model": "glm-5.3"
+}

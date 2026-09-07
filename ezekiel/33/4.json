@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Uwumva yumva ⟨את⟩ ijwi rya shofari, ariko ntaburirwa; umupanga uje ukamura we — amaraso ye azaba ku mutwe we.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "uwumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi rya shofari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "yaburirwa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "uje"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ukamura we"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso ye"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    }
+  ],
+  "timestamp": "2026-09-07T17:13:22.845943206Z",
+  "model": "glm-5.3"
+}

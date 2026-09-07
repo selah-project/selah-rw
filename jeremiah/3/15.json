@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "jeremiah 3:15",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Kandi nzabaha mwe abarisa b'umutima wanjye, bazagira ⟨את⟩ mwe ubumenyi n'ubwenge.",
+ "tokens": [
+  {
+   "surface": "ונתתי",
+   "gloss": "Kandi nzabaha"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "רעים",
+   "gloss": "abarisa"
+  },
+  {
+   "surface": "כלבי",
+   "gloss": "b'umutima wanjye"
+  },
+  {
+   "surface": "ורעו",
+   "gloss": "bazagira"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "דעה",
+   "gloss": "ubumenyi"
+  },
+  {
+   "surface": "והשכיל",
+   "gloss": "n'ubwenge"
+  }
+ ],
+ "timestamp": "2026-09-07T15:43:47.353555167Z",
+ "model": "glm-5.3"
+}

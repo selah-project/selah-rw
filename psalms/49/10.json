@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Kandi abe ubuziraherezo, atazabona ubupfu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kandi abe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ubuziraherezo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka ry'ubuziraherezo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta- \/ atazi-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "abone"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ubupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:14.357914546Z",
+  "model": "glm-5.3"
+}

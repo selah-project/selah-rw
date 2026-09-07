@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kuko abarisa bari inyamaswa, na ⟨את⟩ Yahwe ntibamushakishe; ni yo mpamvu ntibashoboye kumenya, n'ibyitungwa byabo byose byatanyijwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "bari inyamaswa"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abarisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "bamushakishe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yo mpamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bashoboye kumenya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'… byose"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ibyitungwa byabo"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "byatanyijwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:48:11.027413888Z",
+  "model": "glm-5.3"
+}

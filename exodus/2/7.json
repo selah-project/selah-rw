@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mushiki we yabwiye umukobwa wa Paro ati: Mbega nzige, nditume kuri wewe umugore wonsa muri ba Heburaya, akagonsa ⟨את⟩ umwana kuri wewe?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "Mushiki we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "mbega nzige"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "kandi nditume"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "wonsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "muri"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ba Heburaya"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "akagonsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:18.530909349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "2-chronicles 24:5",
+ "book": "2-chronicles",
+ "lang": "rw",
+ "chapter": 24,
+ "translation": "Yowashi yaberanyije ⟨את⟩ abaherezi n'Abalevi, arababwira ati: Mugende mu midugudu ya Yehuda, muberanyire mu Yisraeli yose ifaranga ryo kugomeza ⟨את⟩ inzu ya Elohimu wanyu, umwaka ku mwaka; mwebwe mwihutire ku kazi, ariko Abalevi ntibihutije.",
+ "tokens": [
+  {
+   "surface": "ויקבץ",
+   "gloss": "yaberanyije"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abaherezi"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abaherezi"
+  },
+  {
+   "surface": "והלוים",
+   "gloss": "n'Abalevi"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "arababwira"
+  },
+  {
+   "surface": "להם",
+   "gloss": "abo"
+  },
+  {
+   "surface": "צאו",
+   "gloss": "mugende"
+  },
+  {
+   "surface": "לערי",
+   "gloss": "mu midugudu"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "ya Yehuda"
+  },
+  {
+   "surface": "וקבצו",
+   "gloss": "muberanyire"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "mu … yose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "ifaranga"
+  },
+  {
+   "surface": "לחזק",
+   "gloss": "ryo kugomeza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "inzu"
+  },
+  {
+   "surface": "בית",
+   "gloss": "inzu"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "ya Elohimu wanyu"
+  },
+  {
+   "surface": "מדי",
+   "gloss": "umwaka"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "ku mwaka"
+  },
+  {
+   "surface": "בשנה",
+   "gloss": "buri mwaka"
+  },
+  {
+   "surface": "ואתם",
+   "gloss": "mwebwe"
+  },
+  {
+   "surface": "תמהרו",
+   "gloss": "mwihutire"
+  },
+  {
+   "surface": "לדבר",
+   "gloss": "ku kazi"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "ariko nti-"
+  },
+  {
+   "surface": "מהרו",
+   "gloss": "bihutije"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "Abalevi"
+  }
+ ],
+ "timestamp": "2026-09-07T22:08:33.870613567Z",
+ "model": "glm-5.3"
+}

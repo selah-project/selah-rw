@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Umu barasembura amagambo yanjye; ibitekerezo byabo byose ni ibyaha kurikwa njyewe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo yanjye"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "barasembura"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ibitekerezo byabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ni ibyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:04.603539373Z",
+  "model": "glm-5.3"
+}

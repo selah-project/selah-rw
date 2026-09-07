@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Urwibaso rwanjye rwaranyunyuje, kuko abanzi banjye babibagiwe amajambo yawe.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "rwaranyunyuje"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "Urwibaso rwanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "babibagiwe"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "amajambo yawe"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "abanzi banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:32.472790312Z",
+  "model": "glm-5.3"
+}

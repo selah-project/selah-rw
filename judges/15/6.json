@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 15:6",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Abafilisiti baravuze bati: Ni nde wakoze ibi? Baravuze bati: Shimshoni, umukwe wa Timnati, kuko yafashe ⟨את⟩ umugore we maze aramuha inshuti ye. Abafilisiti barahagurutse, maze barayemesheje ⟨את⟩ uwo mugore na ⟨את⟩ se we mu muriro.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshoni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umukwe"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "wa Timnati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore we"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "maze aramuha"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "inshuti ye"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "barahagurutse"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "barayemesheje"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "se we"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "se we"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T12:10:39.736609082Z",
+  "model": "glm-5.3"
+}

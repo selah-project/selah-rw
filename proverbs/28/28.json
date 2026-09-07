@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 28:28",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ababi bazuka, umuntu yihisha; iyo barimbuka, abatungane biyongera.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "iyo ... bazuka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "yihisha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ובאבדם",
+      "gloss": "iyo barimbuka"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "biyongera"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abatungane"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:07.455871956Z",
+  "model": "glm-5.3"
+}

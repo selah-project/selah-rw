@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Ihabeho ubwingi bw'ibiribwa mu isi, ku mutwe w'imisozi bigashigara nk'imbuto za Lebanoni; n'ab'umujyi bazamera nk'ibyatsi by'isi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ihabeho"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ubwingi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bw'ibiribwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ku mutwe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "w'imisozi"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "bigashigara"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nka Lebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "imbuto ze"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "bazamera"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ab'umujyi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "nk'ibyatsi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "by'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:17.519199871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze na ⟨את⟩ abana ba Tsidikiyahu barabayireka imbere y'amaso ye, maze na ⟨את⟩ amaso ya Tsidikiyahu barazimutsa, baramufunga mu ingingo z'umuringa, maze baramujyana i Bavelu ⟨Bavelu (Babili)⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana ba Tsidikiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidikiyahu (Zedekiya)"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "barashize"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "imbere y'amaso ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amaso ya Tsidikiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso ya"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidikiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "barazimutsa"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "baramufunga"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "mu ingingo z'umuringa"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "baramujyana"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "i Bavelu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:23.687737182Z",
+  "model": "glm-5.3"
+}

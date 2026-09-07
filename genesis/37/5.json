@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yosefu yarotse indoto, maze arayibwira abavandimwe be, bityo barongera kongera kunca umubavu bwo kumushwana ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "yarotse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "indoto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "arayibwira"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "barongera kongera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨kongera kunca umubavu⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kumushwana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Yosefu)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:14:14.816960056Z",
+  "model": "glm-5.3"
+}

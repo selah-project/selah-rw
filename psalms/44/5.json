@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Wowe ⟨ni⟩ we umwami wanjye, Elohimu; tegeka ukwukiza kw'i Yaakovu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "tegeka"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ukwukiza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.393033726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kandi Yisraeli yose izamushengera, barimuziha ⟨את⟩; kuko uyu ni we Yarovamu yonyine uzinjira mu gipfunsi; kuko muri we hasangiwemo ikintu cyiza imbere ya Yahwe, Elohimu wa Yisraeli, mu nzu ya Yarovamu.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "izamushengera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "barimuziha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (uwo mwana)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "we yonyine"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uzinjira"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ya Yarovamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "gipfunsi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hasangiwemo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ikintu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cyiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:07.768374969Z",
+  "model": "glm-5.3"
+}

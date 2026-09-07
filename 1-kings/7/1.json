@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze Shelomo (Salomo) yubatse na ⟨את⟩ inzu ye imyaka cumi n'itatatu, maze arangija ⟨את⟩ inzu ye yose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "itatatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "arangija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:37:06.482912715Z",
+  "model": "glm-5.3"
+}

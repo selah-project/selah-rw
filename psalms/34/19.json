@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Yahwe ari hafi y'abafite imitima yamenetse, akanabungabunga ⟨את⟩ abanyagahinda mu roho.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ari hafi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "abafite ... yamenetse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "imitima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abanyagahinda mu roho"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "abanyagahinda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mu roho"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "akanabungabunga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:15.838838337Z",
+  "model": "glm-5.3"
+}

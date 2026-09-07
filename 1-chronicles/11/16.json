@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Dawidi na none yari mu gitagara, inyeshyamba z'abaFilisiti nazo zari none i Beti-Lehemu.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawidi na none"
+    },
+    {
+      "surface": "אז",
+      "gloss": "yari none"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mu gitagara"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "inyeshyamba z'abaFilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilisiti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "zari none"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:34:45.324047414Z",
+  "model": "glm-5.3"
+}

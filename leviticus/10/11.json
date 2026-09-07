@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "kandi kwigisha ⟨את⟩ abahungu ba Yisraeli ⟨את⟩ amategeko yose uko Yahwe yababwiye mu ntoki ya Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "kandi kwigisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yababwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:35.400037232Z",
+  "model": "glm-5.3"
+}

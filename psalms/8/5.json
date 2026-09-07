@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ni iki enoshi, ko umwibutsa, n'umwana w'umuntu, ko umusura?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshi ⟨umuntu w'itsembabwoko⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "umwibutsa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "n'umwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "umusura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:29.596744022Z",
+  "model": "glm-5.3"
+}

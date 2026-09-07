@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ntabwo ndakwereka ibyaha ku byerekeye igitanganwa cyawe; n'ibicanwa byawe bari imbere yanjye buri gihe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku byerekeye"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "igitanganwa cyawe"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ndakwereka ibyaha"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "n'ibicanwa byawe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:08.746101214Z",
+  "model": "glm-5.3"
+}

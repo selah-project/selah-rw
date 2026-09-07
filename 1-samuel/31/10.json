@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-samuel 31:10",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 31,
+ "translation": "Bashyize ⟨את⟩ intwaro ye mu nzu ya Ashatroti, maze bashingize ⟨את⟩ umubiri we ku rukumba rwa Betu-Shani.",
+ "tokens": [
+  {
+   "surface": "וישמו",
+   "gloss": "bashyize"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "intwaro ye"
+  },
+  {
+   "surface": "כליו",
+   "gloss": "intwaro ye"
+  },
+  {
+   "surface": "בית",
+   "gloss": "mu nzu"
+  },
+  {
+   "surface": "עשתרות",
+   "gloss": "ya Ashatroti"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "bashingize ⟨את⟩",
+   "marks": "umubiri we"
+  },
+  {
+   "surface": "גויתו",
+   "gloss": "umubiri we"
+  },
+  {
+   "surface": "תקעו",
+   "gloss": "bashingize"
+  },
+  {
+   "surface": "בחומת",
+   "gloss": "ku rukumba"
+  },
+  {
+   "surface": "בית",
+   "gloss": "rwa Betu-Shani"
+  },
+  {
+   "surface": "שן",
+   "gloss": "Betu-Shani"
+  }
+ ],
+ "timestamp": "2026-09-07T12:57:03.429538422Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kandi nzashyira ⟨את⟩ urubyaro rwawe nka eficu ry'isi: ko niba umuntu ashobora kubara ⟨את⟩ eficu ry'isi, n'urubyaro rwawe narwo ruzabarwa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubyaro rwawe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubyaro rwawe"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "nka eficu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry'isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kubara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eficu ry'isi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "eficu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry'isi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "narwo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubyaro rwawe"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ruzabarwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:50.316145046Z",
+  "model": "glm-5.3"
+}

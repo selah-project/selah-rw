@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Navoti yabwiye Ahabu ati: Ibirego kwa Yahwe, ko nka ⟨את⟩ umurage w'abakuru banjye kuwowe!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Ibirego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ko nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage w'abakuru banjye"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "w'abakuru banjye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwowe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:02:14.590222777Z",
+  "model": "glm-5.3"
+}

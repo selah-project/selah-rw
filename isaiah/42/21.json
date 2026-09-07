@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yahwe yagize icyifuzo, kubw'ubutunganye bwe, ngo azigoshaho Tora, maze ayubaha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yagize icyifuzo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ubutunganye bwe"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "azigoshaho"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "maze ayubaha"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:34.703029626Z",
+  "model": "glm-5.3"
+}

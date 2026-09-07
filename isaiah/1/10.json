@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mumve ijwi rya Yahwe, abategetsi ba Sedomu; nimutegereze Tora y'Elohimu wacu, muri abantu b'i Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "abategetsi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ba Sedomu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nimutegereze"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "y'Elohimu wacu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "b'i Amorah"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:16.691077059Z",
+  "model": "glm-5.3"
+}

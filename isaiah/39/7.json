@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 39:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Kandi mu bahungu bawe bazavamo muri wowe, wowe uzabyara, bazafatwa kandi bazaba ⟨sarisim⟩ (abagabanywa ubugabo) mu nzu nkuru y'umwami wa Bavelu.",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "kandi mu bahungu bawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bazavamo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "uzabyara"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bazafatwa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kandi bazaba"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "⟨sarisim⟩ (abagabanywa ubugabo)"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "mu nzu nkuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bavelu"
+    }
+  ],
+  "timestamp": "2026-09-07T23:01:38.050375025Z",
+  "model": "glm-5.3"
+}

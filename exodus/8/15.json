@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Abahanga ubuhanga baravuze bati Paro: Iri ⟨ni⟩ urutoki rw'Elohimu. Maze umutima wa Paro wagume ingume, ntiyumvise ku bo, nk'uko Yahwe yari yaravuze.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abahanga ubuhanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bati... Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "urutoki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri ⟨ni⟩"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wagume ingume"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:15.601591877Z",
+  "model": "glm-5.3"
+}

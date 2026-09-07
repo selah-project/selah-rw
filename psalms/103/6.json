@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Yahwe akora ubutabera n'imibanza ku bose bahohotewe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "akora"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "n'imibanza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bose"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "bahohotewe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:07.080027642Z",
+  "model": "glm-5.3"
+}

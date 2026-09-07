@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze barababije ⟨את⟩ ubuzima bwabo mu mikorerere ikomeye — mu bumba n'amatafari, ndetse no mu mikorerere yose yo mu murima; ⟨את⟩ imikorerere yabo yose bakoragamo bakoreshejwe mu bukana.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "barababije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima bwabo"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ubuzima bwabo"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "mu mikorerere"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ikomeye"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "mu bumba"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "n'amatafari"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndetse no mu... yose"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mikorerere"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "yo mu murima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikorerere yabo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "imikorerere yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bakoragamo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bakoraga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "-mo"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "mu bukana"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:24.933575682Z",
+  "model": "glm-5.3"
+}

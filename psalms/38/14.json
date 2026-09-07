@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Njye nk'umumvu ntumva; kandi nk'utavuga, akanwa ke ntikazuza.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "nk'umumvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "numva"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "nk'utavuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "yakuzuza"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "akanwa ke"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:28.627834692Z",
+  "model": "glm-5.3"
+}

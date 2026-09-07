@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi igiciro cyawe cyose kizaba mu ishekeli y'icyubahiro: makumi abiri y'amagera ⟨ni⟩ yo ishekeli.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kandi ... cyose"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "igiciro cyawe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "mu ishekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'icyubahiro"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi abiri"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "amagera"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ishekeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:01.360016829Z",
+  "model": "glm-5.3"
+}

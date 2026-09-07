@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ umukobwa w'inyoni nini y'itaka, na ⟨את⟩ inyoni y'ijoro igenda, na ⟨את⟩ inyoni y'ibiyaga, na ⟨את⟩ inyamanza ubwoko bwayo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukobwa w'inyoni nini y'itaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "inyoni nini y'itaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyoni y'ijoro igenda"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "inyoni y'ijoro igenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyoni y'ibiyaga"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "inyoni y'ibiyaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyamanza"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "inyamanza"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ubwoko bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:54.767441752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kora ubwenge, kora ubumenyi; ntubyibagirwa, kandi ntutandukanye n'amagambo y'akanwa kwanjye.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kora"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "byibagirwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntu"
+    },
+    {
+      "surface": "תט",
+      "gloss": "tandukanye"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "n'amagambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "y'akanwa kwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:28.549820871Z",
+  "model": "glm-5.3"
+}

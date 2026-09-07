@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze Avrahamu agwa ku maso ye, maze Elohimu aravugana na ⟨את⟩ we, ati:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "maso ye"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "aravugana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:57.195320037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "kuko yaroroje kuri we mu maso ye, kugira ngo abone icyaha cye akacyura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "yaroroje"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kugira ngo abone"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "icyaha cye"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "akacyura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:00.776623883Z",
+  "model": "glm-5.3"
+}

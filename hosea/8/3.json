@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yisraeli yabyiviye icyiza; uwo mwanzi aramukurikira.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "yabyiviye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "aramukurikira"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:27.296244279Z",
+  "model": "glm-5.3"
+}

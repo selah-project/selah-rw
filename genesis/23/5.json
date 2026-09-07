@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze abana ba Keti bansubiza ⟨את⟩ Avrahamu, bavuga ⟨bati⟩ kuri we:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Maze bansubiza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ba Keti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bavuga ⟨bati⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:15.531720659Z",
+  "model": "glm-5.3"
+}

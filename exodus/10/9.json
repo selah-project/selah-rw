@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Moshe yaravuze ati: Tuzagenda mu bato bacu ndetse n'abakuru bacu; hamwe n'ibyara byacu ndetse n'ibikobwa byacu, hamwe n'intungo zacu ndetse n'inka zacu tuzagenda, kuko umunsi mukuru wa Yahwe ⟨ni⟩ iwacu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "mu bato bacu"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "ndetse n'abakuru bacu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzagenda"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "hamwe n'ibyara byacu"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "ndetse n'ibikobwa byacu"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "hamwe n'intungo zacu"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "ndetse n'inka zacu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzagenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umunsi mukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "iwacu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:42.377626491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Kubera ko bahakanye amagambo ya Eli, banananyije inama ya Elyoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kubera ko"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bahakanye"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagambo ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "n'inama ya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "banananyije"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:13.624812955Z",
+  "model": "glm-5.3"
+}

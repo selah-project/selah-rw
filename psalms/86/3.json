@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Nyunyegerehe, Adonayi, kuri iyo wowe hose njye nkugaragariza, ku munsi wose.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nyunyegerehe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iyo wowe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "njye nkugaragariza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi wose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:14.461875607Z",
+  "model": "glm-5.3"
+}

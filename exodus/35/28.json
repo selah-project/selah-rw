@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ ibimembe na ⟨את⟩ amavuta, ku itara, n'amavuta yo kukanira n'ibicanwa by'imyamzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimembe"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ibimembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ku itara"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yo kukanira"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "n'ibicanwa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "by'imyamzi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:16:26.419295519Z",
+  "model": "glm-5.3"
+}

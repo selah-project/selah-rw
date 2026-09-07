@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yabwiye Avramu ati: Va wowe mu gihugu cyawe, no mu muryango w'abavandimwe bawe, no mu nzu ya se wawe, ugere mu gihugu nzakwereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "mu gihugu cyawe"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "no mu muryango w'abavandimwe bawe"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "no mu nzu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya se wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ugere mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "nzakwereka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:01.981006963Z",
+  "model": "glm-5.3"
+}

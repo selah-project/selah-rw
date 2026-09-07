@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Inyuma ya Yahwe, Elohimu wanyu, mukazagenda, na ⟨את⟩ kimutinye, na ⟨את⟩ amategeko ye muzigare, no mu ijwi rye mumwe, na ⟨את⟩ kimukorere, no iwe umukomereho.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Inyuma ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mukazagenda"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩",
+      "marks": "we (Yahwe)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kimutinye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amategeko ye"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muzigare"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "no mu ijwi rye"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩",
+      "marks": "we (Yahwe)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "kimukorere"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "no iwe"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "umukomereho"
+    }
+  ],
+  "timestamp": "2026-09-07T11:02:30.678976002Z",
+  "model": "glm-5.3"
+}

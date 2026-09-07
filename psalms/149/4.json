@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Kuko Yahwe yishimira abantu be; abanyentege-nke arabaha ubwiza mu kubakiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "yishimira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "arabaha ubwiza"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abanyentege-nke"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "mu kubakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:58.663106605Z",
+  "model": "glm-5.3"
+}

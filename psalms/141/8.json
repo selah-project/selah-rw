@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Amaso yanjue, Yahwe Adonayi, aryerekeza i wowe; muri wowe nankingiye; ntukure Nefeshi yanjue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨kuko⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjue"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nankingiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תער",
+      "gloss": "kure"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjue"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:21.032587855Z",
+  "model": "glm-5.3"
+}

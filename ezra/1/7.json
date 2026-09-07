@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "N'umwami Kowreshi yasohoye ⟨את⟩ ibikoresho by'inzu ya Yahwe — ibyo Nevukadnetsari yasohoye mu Yerushalayimu — maze abishyira mu nzu y'imana ze.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "N'umwami"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Kowreshi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yasohoye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoresho by'inzu ya Yahwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "by'inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yasohoye"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsari"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "maze abishyira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "y'imana ze"
+    }
+  ],
+  "timestamp": "2026-09-07T20:15:16.292985899Z",
+  "model": "glm-5.3"
+}

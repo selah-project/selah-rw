@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Kandi umuntu mu cyubahiro ntaguma ariko; yameze nk'inyamanswa — zavuyeho.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "kandi umuntu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mu cyubahiro"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "aguma"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "yameze nk'"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "inyamanswa"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zavuyeho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:22.867997811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "None ubu Shelomo yaravuze ati: Yahwe yavuze ko ari kugomba gutura mu bwatsi bukomeye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ko ari kugomba gutura"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "mu bwatsi bukomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:05.681375262Z",
+  "model": "glm-5.3"
+}

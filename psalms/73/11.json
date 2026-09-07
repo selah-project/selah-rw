@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Maze baravuga bati: Ese Eli azi gute? Ese hari ubumenyi kwa Elyoni?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "baravuga bati"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ese ... gute"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ese hari"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "kwa Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:53.760595093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umugati w'Elohimu we — mu byera by'ibyera no mu byera — ararya.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu we"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mu byera by'"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ibyera"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ibyera"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ararya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:43.347663540Z",
+  "model": "glm-5.3"
+}

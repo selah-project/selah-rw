@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kohenu utanga igitangirwa cy'icyaha arirya ⟨את⟩ iyo miggisha; mu mwanya mutagatifu iriribwa, mu kibuga cy'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "utanga igitangirwa cy'icyaha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo miggisha (igitangirwa cy'icyaha)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "arirya iyo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu mwanya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mutagatifu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "iriribwa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "mu kibuga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cy'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:03.269899436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 131,
+  "translation": "Ni ko nakoze: nashyize neza kandi nacyezeje nefeshi yanjye, nk'umwana wachimbuye ku nyina; nk'umwana wachimbuye ni nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nashyize neza"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "nacyezeje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "nk'umwana wachimbuye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "nk'umwana wachimbuye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:29.957126329Z",
+  "model": "glm-5.3"
+}

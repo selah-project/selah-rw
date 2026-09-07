@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Ntibasenzuye ⟨את⟩ amahanga, ibi Yahwe yabitegetse:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nti-"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "basenzuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahanga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabitegetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:56.166927929Z",
+  "model": "glm-5.3"
+}

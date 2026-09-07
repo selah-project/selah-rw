@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yahwe yarebye hasi mu ijuru ku bana b'abantu, kureba mbese hari umunyabwenge ushakisha ⟨את⟩ Elohimu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yarebye hasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "היש",
+      "gloss": "mbese hari"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ushakisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:23.115463135Z",
+  "model": "glm-5.3"
+}

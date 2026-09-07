@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yabwiye kuri hasatani ati: Uva he uje? Hasatani yanabye ⟨את⟩ Yahwe maze ati: Mu gusatura isi no mu kuyirimbuka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Uva he"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uje"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "yanabye"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze ati"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Mu gusatura"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "no mu kuyirimbuka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:44.329341091Z",
+  "model": "glm-5.3"
+}

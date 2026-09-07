@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ntibavuye mu bishaka byabo, kandi ibiryo biri bugitwo mu kanwa yabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "-vuye"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "mu bishaka byabo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bugitwo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ibiryo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mu kanwa yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:05.328060218Z",
+  "model": "glm-5.3"
+}

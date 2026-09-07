@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ Chashaviyah, na ⟨את⟩ we Yeshayah, mu bahungu ba Merari, abavandimwe be n'abahungu babo — makumyabiri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chashaviyah"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashaviyah"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩ we"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshayah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bahungu ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "n'abahungu babo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:20:21.003609359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yaravuze ati: Adonayi ntagire akare, ndavugaho gusa iyi nimwe — bimule zizaboneka ayo icumi? Yaravuze ati: Sinzarimbura kuberabyo ⟨icumi⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yaravuze ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mbabarira"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "akare"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "k'Adonayi"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ndavugaho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "iyi nimwe"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "bimule"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "zizaboneka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yaravuze ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Sinz-"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "-rimbura"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kuberabyo"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "icumi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:39.544959773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze Yowavu arwanya i Rabaha rw'Abanyammonu, maze afata ⟨את⟩ umujyi w'ubwami.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "arwanya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowavu"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "i Rabaha rw'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aba- (Abanyammonu)"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi w'ubwami"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "w'ubwami"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:00.743975047Z",
+  "model": "glm-5.3"
+}

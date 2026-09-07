@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mu burasirwa batuye kugera ku mwinjiro w'⟨ubutayu⟩, kuva ku ruzi Peratu, kuko ingano zabo ziyongereye mu gihugu cya Giladi.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "Mu burasirwa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ku mwinjiro"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "w'ubutayu"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ku ruzi"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Peratu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ingano zabo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ziyongereye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "cya Giladi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:45.681219039Z",
+  "model": "glm-5.3"
+}

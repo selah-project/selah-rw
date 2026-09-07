@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Shebuja wanjye, umvanze: umurima, amashikeli amajana ane y'ifaranga — hagati yanjye no hagati yawe, ni iki ehe? Bityo na ⟨את⟩ umwapfu wawe uhambe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Shebuja wanjye"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "umvanze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shikeli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifaranga"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "no hagati yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwapfu wawe"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "umwapfu wawe"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "uhambe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:35.577882524Z",
+  "model": "glm-5.3"
+}

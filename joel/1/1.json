@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ijambo rya Yahwe rya berekera Yoweli, umwana wa Petuweli.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rya berekera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoweli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "wa Petuweli"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:02.904587604Z",
+  "model": "glm-5.3"
+}

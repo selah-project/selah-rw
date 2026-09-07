@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Ngirira impuhwe, Elohimu, ku bw'hesedi bwawe (urukundo rw'itsembabwoko); ku bw'ubwinshi bw'impuhwe zawe, siba ibyaha byanjye byo kugomeka.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ngirira impuhwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ku bw'hesedi bwawe"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ku bw'ubwinshi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "bw'impuhwe zawe"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "siba"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ibyaha byanjye byo kugomeka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:17.154361776Z",
+  "model": "glm-5.3"
+}

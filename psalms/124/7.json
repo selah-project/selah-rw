@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "Nefeshi yacu ni n'inyoni yahungiye umwobo w'ababora; umwobo wamenetse, twe turahunze.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshi yacu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "n'inyoni"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "yahungiye"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "umwobo"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "w'ababora"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "umwobo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "wamenetse"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "turahunze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.288590174Z",
+  "model": "glm-5.3"
+}

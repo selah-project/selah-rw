@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kenayani (Kanaani) yabyaye ⟨את⟩ Tsiydoni (Sidoni) imfura ye, na ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenayani (Kanaani)"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiydoni (Sidoni)"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsiydoni (Sidoni)"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "imfura ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:53.255712274Z",
+  "model": "glm-5.3"
+}

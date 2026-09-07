@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Arakusanya nk'urumuri amazi y'ibiyaga, ashira mu ngoro ebyiri z'ibibanza ndende.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Arakusanya"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "nk'urumuri ⟨(nka heap)⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "y'ibiyaga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "mu ngoro ebyiri z'ibibanza ⟨(storehouses)⟩"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ndende"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:20.611933682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ku mutwe w'ahadatera hejuru, ku ntera y'inzira, mu kibanza cy'imihanda ihurira, arahagaze.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ku mutwe w'"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ahadatera hejuru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku ntera ya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu kibanza cya"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "imihanda"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "arahagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:32.773798051Z",
+  "model": "glm-5.3"
+}

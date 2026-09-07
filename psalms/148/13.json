@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Basifique ⟨את⟩ izina rya Yahwe, kuko izina rye ryonyine niriraremewe; ubwiza bwe buri hejuru y'isi n'amajuru.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "basifique"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "niriraremewe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ryonyine"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ubwiza bwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "n'amajuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:38.056545061Z",
+  "model": "glm-5.3"
+}

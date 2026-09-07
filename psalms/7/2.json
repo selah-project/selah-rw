@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe, Elohimu wanjye, muri wowe nararahiye; unrokore abampuraza bose, maze unkize.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nararahiye"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "unrokore"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abampuraza"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "maze unkize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.610563676Z",
+  "model": "glm-5.3"
+}

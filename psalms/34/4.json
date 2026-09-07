@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Nimukomeze kwa Yahwe ⟨את⟩ kumwe nanjye, duse izina rye rimwe.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Nimukomeze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kumwe nanjye"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "duse"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:37.439387884Z",
+  "model": "glm-5.3"
+}

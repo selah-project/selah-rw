@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Kandi umutima wabo ntiwahagaze neza n'we, kandi ntibemeye mu Beriti ye.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Kandi umutima wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wahagaze neza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "bemeye"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "mu Beriti ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:45.075067222Z",
+  "model": "glm-5.3"
+}

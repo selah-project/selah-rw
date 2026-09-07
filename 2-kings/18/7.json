@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yahwe yari kumwe na we; mu byose yakoraga yarangira neza; nagiye agaragambye ku mwami w'i Ashuru, kandi ntiyigeze amutangira.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yakoraga"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "yarangira neza"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "nagaragambye"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ku mwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'i Ashuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "amutangira"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:03.721530067Z",
+  "model": "glm-5.3"
+}

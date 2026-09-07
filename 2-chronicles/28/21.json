@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Kuko Ahazi yagabanyije ⟨את⟩ inzu ya Yahwe, na ⟨את⟩ inzu y'umwami n'abatware, maze aha umwami w'Ashuru; ariko ntabwo bimufashije.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "yagabanyije"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu y'umwami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "n'abatware"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntabwo"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "bimufashije"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T21:00:14.715480078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nongeraho abyara ⟨את⟩ umuvandimwe we ⟨את⟩ Hebeli; Hebeli aba umwungeri w'ihene, Kayini na we aba umukozi w'ubutaka.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Nongeraho"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuvandimwe we"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umuvandimwe we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebeli"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "umwungeri"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "w'ihene"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kayini na we"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umukozi w'"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:10.746616259Z",
+  "model": "glm-5.3"
+}

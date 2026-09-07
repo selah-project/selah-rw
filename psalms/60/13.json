@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Duhe ubufasha mu ntugu, kandi ubusa ⟨ni⟩ ubuvunganizi bwa muntu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Duhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tuzi... duhe"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ubufasha"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mu ntugu"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kandi ubusa"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ubuvunganizi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bwa muntu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:38.699135423Z",
+  "model": "glm-5.3"
+}

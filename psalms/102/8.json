@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Ntariye, kandi naba nka inyoni iherereye cyonyine ku gisenge cy'inzu.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ntariye"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kandi naba"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "nka inyoni"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "iherereye cyonyine"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גג",
+      "gloss": "gisenge cy'inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:52.988803863Z",
+  "model": "glm-5.3"
+}

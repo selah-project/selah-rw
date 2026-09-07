@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Bakomeze kandi mwifate neza; mutinye kandi muhe agahinda imbere yabo; kuko ni Yahwe Elohimu wawe, we ubwe ugenda kumwe nawe; ntazaguhisha kandi ntazagusiga.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Bakomeze"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "mwifate neza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mutinye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "muhe agahinda"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "imbere yabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we ubwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe nawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntaza"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "kuguhisha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntaza"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kugusiga"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:07.127019701Z",
+  "model": "glm-5.3"
+}

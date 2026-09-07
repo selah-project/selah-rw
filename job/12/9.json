@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ni nde utazi muri ibyo byose, ko intoki ya Yahwe ni yo yakoze ibi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "atazi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muri ... byose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "intoki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:08.916446970Z",
+  "model": "glm-5.3"
+}

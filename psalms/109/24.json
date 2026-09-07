@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Amaguru yanjye yashobere kubera gusala, kandi umubiri wanjye warasekeye ibinure.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Amaguru yanjye (ibiroko)"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "yashobere"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "kubera gusala"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "kandi umubiri wanjye"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "warasekeye"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ibinure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:38.624012293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Hebeli ⟨ubusa⟩ y'andi mahebeli, Koholetu yaravuze ati: byose ni hebeli.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli ⟨ubusa⟩"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "andi mahebeli"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Koholetu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebeli"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:45.585050711Z",
+  "model": "glm-5.3"
+}

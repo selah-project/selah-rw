@@ -1,0 +1,60 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "numbers 16:10",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 16,
+ "translation": "Maze yanaguha hafi ⟨את⟩ mwe, na ⟨את⟩ abavandimwe bawe bose, abana ba Levi, ⟨את⟩ kumwe nawe; kandi murashaka na kohenu?",
+ "tokens": [
+  {
+   "surface": "ויקרב",
+   "gloss": "Maze yanaguha hafi"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "iwe"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "abavandimwe bawe bose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "אחיך",
+   "gloss": "abavandimwe bawe"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana ba"
+  },
+  {
+   "surface": "לוי",
+   "gloss": "Levi"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "⟨את⟩ kumwe nawe",
+   "marks": "iwe"
+  },
+  {
+   "surface": "ובקשתם",
+   "gloss": "kandi murashaka"
+  },
+  {
+   "surface": "גם",
+   "gloss": "na"
+  },
+  {
+   "surface": "כהנה",
+   "gloss": "kohenu"
+  }
+ ],
+ "timestamp": "2026-09-07T21:20:16.777658918Z",
+ "model": "glm-5.3"
+}

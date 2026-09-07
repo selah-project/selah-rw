@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Umutima unyuze uzasiba iwanjye; ikibi ntindamenye.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Umutima"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "unyuze"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uzasiba"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndamenye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:48.293445288Z",
+  "model": "glm-5.3"
+}

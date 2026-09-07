@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Navuze nti: Eli wanjye, ntanyuzemo mu gice cy'iminsi yanjye; mu muryango w'imiryango imyaka yawe ihari.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Navuze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntanyuzemo (ntu-)"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "nyuzemo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "mu gice"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "cy'iminsi yanjye"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "w'imiryango"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "imyaka yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:26.732019529Z",
+  "model": "glm-5.3"
+}

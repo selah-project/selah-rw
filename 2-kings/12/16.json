@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi nta kubarura kwakorewaga ⟨את⟩ abantu bahembwaga ⟨את⟩ ifeza mu biganza byabo ngo bayihembe abakora akazi, kuko bakoraga mu budahemuka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi nta"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "kubarura kwakorewaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bahembwaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "biganza byabo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo bayihembe"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "mu budahemuka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakoraga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:19:17.419044878Z",
+  "model": "glm-5.3"
+}

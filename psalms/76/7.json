@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Ku gicumuro cyawe, Elohimu wa Yaakovu (Yakobo), ifari n'ifarashi birindwara.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Ku gicumuro cyawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "birindwara"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ifari"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "n'ifarashi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:13.798778959Z",
+  "model": "glm-5.3"
+}

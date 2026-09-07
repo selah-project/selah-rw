@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "exodus 35:1",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 35,
+ "translation": "Maze Moshe yarahuriye hamwe ⟨את⟩ itumaniko ryose ry'abana ba Yisraeli, maze arababwira ati: Aya ni amagambo Yahwe yategetse ko bakora ⟨את⟩ bo.",
+ "tokens": [
+  {
+   "surface": "ויקהל",
+   "gloss": "yarahuriye hamwe"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "itumaniko ryose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ryose"
+  },
+  {
+   "surface": "עדת",
+   "gloss": "itumaniko"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ba Yisraeli"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "maze yaravuze"
+  },
+  {
+   "surface": "אלהם",
+   "gloss": "arababwira"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "Aya"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "amagambo"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yategetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "לעשת",
+   "gloss": "bakora"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "amagamwa yategetswe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:16:14.704830843Z",
+ "model": "glm-5.3"
+}

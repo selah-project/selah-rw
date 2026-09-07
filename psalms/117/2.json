@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 117,
+  "translation": "Iuko hesedi ye yaradukomye turiho, kandi ukuri kwa Yahwe kuri iteka ryose: Musingize Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iuko"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yaradukomye"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "turiho"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kandi ukuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuri iteka ryose"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:59.444542510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Umwami wa Mitsrayimu arababwira ati: Ni iki, Moshe na Aharoni, mwakuyeho ⟨את⟩ abantu mu bikorwa byabo? Nimugende ku mitwaro yanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "mwakuyeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "mu bikorwa byabo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nimugende"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ku mitwaro yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:30.711408838Z",
+  "model": "glm-5.3"
+}

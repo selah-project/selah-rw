@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ntimuzakore gutya kwa Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nti-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "muzakore"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:00:38.054976439Z",
+  "model": "glm-5.3"
+}

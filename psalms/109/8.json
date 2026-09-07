@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Iminsi ye iba mike, n'undi afate umwanya we.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "iba"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mike"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "umwanya we"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "afate"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "undi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:43.410459054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Kuko yaherereye mu butumbure bw'ahawe hatagatifu, Yahwe yaturutse mu ijuru yarebye ku isi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yaherereye"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "mu butumbure"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bw'ahawe hatagatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "yarebye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:31.890159602Z",
+  "model": "glm-5.3"
+}

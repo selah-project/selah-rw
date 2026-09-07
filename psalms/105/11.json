@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Ati: Ni wewe nzaha ⟨את⟩ igihugu cya Kenaani, uruhunde rw'ubusigi bwanyu.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ni wewe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Kenaani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "uruhunde"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "rw'ubusigi bwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:49.538542371Z",
+  "model": "glm-5.3"
+}

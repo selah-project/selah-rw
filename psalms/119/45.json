@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi nzagenza mu gihambahe, kuko amabwiriza yawe ndashe.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "nzagenza"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "mu gihambahe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndashe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:49.906318367Z",
+  "model": "glm-5.3"
+}

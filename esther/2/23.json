@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Icyo kibazo cyibajijwe cyemejwe ko ari byo, maze bombi barahungiwe ku giti; ibyo byanditswe mu gitabo cy'iby'iminsi, imbere y'umwami.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "cyibajijwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Icyo kibazo"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "cyemejwe ko ari byo"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "barahungiwe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bombi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "giti"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "byanditswe"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cy'iby'"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:31.771070493Z",
+  "model": "glm-5.3"
+}

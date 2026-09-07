@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mu nzu imwe bizarywa; ntimuzasohora ivuye mu nzu, mu mubiri uwo ariwo wose, aja hanze; kandi iguri ntimuricagagura.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bizarywa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "zasohora"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ivuye"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mubiri"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "kandi iguri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimuri-"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "cagagura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iryo iguri"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:01.411376766Z",
+  "model": "glm-5.3"
+}

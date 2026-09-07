@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Umuntu yagereranyijwe ubusa, iminsi ye nk'igicucu cyunguruka.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "yagereranyijwe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "nk'igicucu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "cyunguruka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.159420502Z",
+  "model": "glm-5.3"
+}

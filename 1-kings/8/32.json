@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "maze wowe umve mu ijuru, maze ukore, maze urenganye ⟨את⟩ abagaragu bawe: kwerekana ko umwikiranutsi ari umukiranutsi, ngo imuhe icyo yakoze ku mutwe we; no kwerekana ko inkozi y'ibi ari inkozi y'ibi, ngo imuhe uko yakoranuye kw'urugendo rwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maze wowe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "maze urenganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagaragu bawe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "kwerekana ko umwikiranutsi ari umukiranutsi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umukiranutsi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo imuhe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "icyo yakoze"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "no kwerekana ko inkozi y'ibi ari inkozi y'ibi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "inkozi y'ibi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo imuhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "uko yakoranuye kw'urugendo rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:44:06.251665187Z",
+  "model": "glm-5.3"
+}

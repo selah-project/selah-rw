@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yehonatanu yamenyesheje Dawidi ati: Shauli data ashakisha kugira ngo akwice; noneho rero ⟨ndasaba⟩ wirinde mu gitondo, utule mu hishe, uhishe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yamenyesheje"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ashakisha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "data"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "kugira ngo akwice"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "noneho rero"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "wirinde"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ndasaba⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "utule"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu hishe"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "uhishe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:44:29.866223085Z",
+  "model": "glm-5.3"
+}

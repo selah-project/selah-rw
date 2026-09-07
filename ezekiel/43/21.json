@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Uzafata ⟨את⟩ ipari ry'icyaha maze urisye mu mwanya wagenewe w'inzu, hanze y'urusengero.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipari ry'icyaha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ipari"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ry'icyaha"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "maze urisye"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "mu mwanya wagenewe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "y'urusengero"
+    }
+  ],
+  "timestamp": "2026-09-07T17:24:02.130824585Z",
+  "model": "glm-5.3"
+}

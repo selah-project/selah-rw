@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Maze yasohoye Yisraeli (Isirayeli) muri bo, kuko hesedi ye ⟨ni⟩ iteka.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yasohoye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:55.036198186Z",
+  "model": "glm-5.3"
+}

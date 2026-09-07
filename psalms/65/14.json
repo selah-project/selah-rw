@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Imirima yambaye intama z'uruyenye, n'ibishanga byuzuye ibigori; biririmbana, na none baririmba.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "yambaye"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "imirima"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama z'uruyenye"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "n'ibishanga"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ibigori"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "biririmbana"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na none"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "baririmba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:06.866109045Z",
+  "model": "glm-5.3"
+}

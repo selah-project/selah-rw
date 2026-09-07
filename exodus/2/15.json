@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Paro yumvise ⟨את⟩ icyo kintu icyo, maze ashakishe kwica ⟨את⟩ Moshe; Moshe yarahungiye mu maso ya Paro, yatuye mu gihugu cya Midiyani, maze yicara ku isoko.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo kintu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ashakishe"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "kwica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "yarahungiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yatuye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "cya Midiyani"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yicara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "isoko"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:53.948062094Z",
+  "model": "glm-5.3"
+}

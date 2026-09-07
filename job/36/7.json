@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "job 36:7",
+ "book": "job",
+ "lang": "rw",
+ "chapter": 36,
+ "translation": "Amaso ye ntibatanya ku ntungane; kandi na ⟨את⟩ abami ku ntebe y'ubwami arabashyira mu iteka, bakazamuka.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "יגרע",
+   "gloss": "batanya"
+  },
+  {
+   "surface": "מצדיק",
+   "gloss": "ku ntungane"
+  },
+  {
+   "surface": "עיניו",
+   "gloss": "Amaso ye"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "abami"
+  },
+  {
+   "surface": "מלכים",
+   "gloss": "abami"
+  },
+  {
+   "surface": "לכסא",
+   "gloss": "ku ntebe y'ubwami"
+  },
+  {
+   "surface": "וישיבם",
+   "gloss": "arabashyira"
+  },
+  {
+   "surface": "לנצח",
+   "gloss": "mu iteka"
+  },
+  {
+   "surface": "ויגבהו",
+   "gloss": "bakazamuka"
+  }
+ ],
+ "timestamp": "2026-09-07T19:37:24.715417131Z",
+ "model": "glm-5.3"
+}

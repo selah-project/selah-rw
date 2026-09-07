@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Shauli yaravuze ati: Umva rero, mwene Ahitubu. Nawe yaravuze ati: Ndi hano, shebuja wanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rero"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nawe yaravuze ati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndi hano"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:47.887538867Z",
+  "model": "glm-5.3"
+}

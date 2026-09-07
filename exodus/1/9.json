@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": " maze yaravuze ati: Ngirango, umuryango w'abana ba Yisraeli (Isirayeli) wararebye kandi urakomeye kurusha twe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngirango"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wararebye"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "kandi urakomeye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kurusha twe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:33:00.610556915Z",
+  "model": "glm-5.3"
+}

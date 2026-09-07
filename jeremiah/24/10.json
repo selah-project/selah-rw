@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze nzohereza muri bo ⟨את⟩ umupanga, ⟨את⟩ inzara na ⟨את⟩ icyorezo, kugeza bitakara kuraho mu butaka nabahabwe n'abakurambere babo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "maze nzohereza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupanga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzara"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icyorezo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyorezo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "bitakara"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuraho"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mu butaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahabwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "n'abakurambere babo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:04:16.918592736Z",
+  "model": "glm-5.3"
+}

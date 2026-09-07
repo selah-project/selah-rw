@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze uzakora ⟨את⟩ utubari, ibiti bya shitimu, maze uzatubipfundikisha ⟨את⟩ zahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utubari"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "utubari"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti bya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "maze uzatubipfundikisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:46.175022438Z",
+  "model": "glm-5.3"
+}

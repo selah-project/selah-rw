@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mu minsi ye, Edomu (Idumeya) yivuye mu biganza bya Yehuda, maze batera umwami ku bariho.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Mu minsi ye"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "yivuye (yigometse)"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu (Idumeya)"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "biganza"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bya Yehuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "maze batera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku bariho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:13:24.645608324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Yahwe yongere kuri mwe, kuri mwe no ku bana banyu.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "yongere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:41.564347734Z",
+  "model": "glm-5.3"
+}

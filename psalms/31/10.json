@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ungirire impuhwe, Yahwe, kuko mu kaga ndi; ijisho ryanjye ryaforoye kubera ishavu, nefeshi yanjye n'inda yanjye ⟨na zo⟩.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ungirire impuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mu kaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ryaforoye"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "kubera ishavu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijisho ryanjye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "n'inda yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:58.626932937Z",
+  "model": "glm-5.3"
+}

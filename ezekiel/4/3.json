@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Na wowe, fata uwewe urwabyo rw'icyuma, maze ushyire ⟨את⟩ uru nka urukingo rw'icyuma hagati yawe na hagati y'igisagara, maze witegure ⟨את⟩ uruhushe rwawe ureba kuwo, maze ihabe mu rwitabo maze ukanaritwara urwitabo. Ni ikimenyetso ku nzu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wowe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uwewe"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "urwabyo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rw'icyuma"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "maze ushyire"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "urwabyo"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "urukingo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rw'icyuma"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "hagati yawe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "igisagara"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "maze witegure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhushe rwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhushe rwawe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ureba kuwo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "maze ihabe"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mu rwitabo"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "maze uritware urwitabo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T16:45:02.074134874Z",
+  "model": "glm-5.3"
+}

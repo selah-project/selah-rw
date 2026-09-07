@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Adonayi, kuri ibyo abantu bahoze; no mu byose muri byo ⟨ni⟩ ubuzima bwa roho yanjye; maze udukize kandi uzansubiza ubuzima.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri ibyo"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "abantu bahoze"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "no mu byose"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "bwa roho yanjye"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "udukize"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "uzansubiza ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T15:09:37.620975188Z",
+  "model": "glm-5.3"
+}

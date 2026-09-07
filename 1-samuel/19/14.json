@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Shauli yohereje intumwa zajya gufata ⟨את⟩ Dawidi, maze ⟨ni⟩ we umurwaye (Mikalu yabibwiye).",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "gufata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "umurwaye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:17.623257234Z",
+  "model": "glm-5.3"
+}

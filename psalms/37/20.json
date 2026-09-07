@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Kuko ababi bazazikira, abanzi ba Yahwe bazahwana nk'urubyaro rw'ingurube zbiremereye; bazashya nk'umutsi, bazashya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bazazikira"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "abanzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "nk'urubyaro"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "rw'ingurube zbiremereye"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bazashya"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "nk'umutsi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bazashya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:21.065268149Z",
+  "model": "glm-5.3"
+}

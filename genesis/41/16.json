@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Yosefu yashubije ⟨את⟩ Paro ati: Ntabwo ari njye; Elohimu azasubiza amahoro ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yashubije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ntabwo ari njye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "azasubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahoro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:29.568549604Z",
+  "model": "glm-5.3"
+}

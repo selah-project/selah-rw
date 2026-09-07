@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Koko mu gicucu cy'ubwenge nko mu gicucu cy'ifeza: ariko inyungu y'ukumenya ubwenge ni uko ubwenge nurazitura abagifite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mu gicucu"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "cy'ubwenge"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nko mu gicucu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "cy'ifeza"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ariko inyungu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "y'ukumenya"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "nurazitura"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "abagifite"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:10.110318736Z",
+  "model": "glm-5.3"
+}

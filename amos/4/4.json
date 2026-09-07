@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nimujye muri Beiteli muhookanya, muri Giligalu mwyongere ibicumuro, mugire mu gitondo ibitamare byanyu, ku munsi wa gatatu imisoro yanyu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Nimujye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "muri Beiteli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beiteli"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "muhookanya"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "muri Giligalu"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "mwyongere"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "ibicumuro"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mugire"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "ibitamare byanyu"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ku munsi wa gatatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "imisoro yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:39:48.549633524Z",
+  "model": "glm-5.3"
+}

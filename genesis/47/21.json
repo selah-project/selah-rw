@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Na ⟨את⟩ abantu abahinduriye ⟨את⟩ mu miji, kuva ku mpera y'umupaka wa Mitsrayimu kugera ku mpera zayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "abahinduriye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mu miji"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "mu miji"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "y'umupaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ku mpera zayo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:07.843706182Z",
+  "model": "glm-5.3"
+}

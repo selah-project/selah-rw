@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Maze mu izina rya Yahwe ndahamagara: Ndasaba, Yahwe, urokore Nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Maze mu izina rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndahamagara"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ndasaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "urokore"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:45.646817842Z",
+  "model": "glm-5.3"
+}

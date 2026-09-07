@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abantu bazakandamizwa, umuntu n'undi, na buri muntu umunshi we; umuhungu azarengera umusaza, umunyinte azarengera umunyacyubahiro.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "bazakandamizwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "n'undi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na buri muntu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "umunshi we"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "azarengera"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "umusaza"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "umunyinte"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "umunyacyubahiro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:06.150630583Z",
+  "model": "glm-5.3"
+}

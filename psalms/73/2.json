@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Njye, amaguru yanjye yari hafi yo kunyeganyega, intambwe zanjye zari nka zitazwi kandi zarasutse.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hafi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "kunyeganyega"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "amaguru yanjye"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "nka zitazwi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "zarasutse"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "intambwe zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.350777767Z",
+  "model": "glm-5.3"
+}

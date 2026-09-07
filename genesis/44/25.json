@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Data wacu yaravuze ati: Subiramo, mugurire ⟨turi⟩ ibiribwa bike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "Data wacu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Subiramo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "mugurire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨turi⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bike"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ibiribwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:52.517173622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yaakovu yatanguye bimbitse mu gitondo, maze afata ⟨את⟩ ibuye ryari ku mutwe we, ayishyira ⟨את⟩ ikimenyetso gihagaze, maze atsuba amavuta ku mutwe wawo.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yatanguye bimbitse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibuye"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ibuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ryashyizwe"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ayishyira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ikimenyetso gihagaze"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ikimenyetso gihagaze"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "maze atsuba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "umutwe wawo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:03:24.618922475Z",
+  "model": "glm-5.3"
+}

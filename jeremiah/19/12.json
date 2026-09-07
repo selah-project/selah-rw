@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ni ko nzakora ku uwo mwanya, ihangano rya Yahwe, no ku batuuye wo, no kugira ngo ⟨את⟩ umujyi uyu ube nka Tofeti.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ku uwo mwanya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ihangano rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "no ku batuuye wo"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "no kugira ngo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi uyu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "nka Tofeti"
+    }
+  ],
+  "timestamp": "2026-09-07T16:00:04.218168130Z",
+  "model": "glm-5.3"
+}

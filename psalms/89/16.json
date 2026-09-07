@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ibyishimo kubw'abantu bazi ijambo ry'ishimwe; Yahwe, mu rumuri rw'amaso yawe bagenda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ibyishimo kubw'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ijambo ry'ishimwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "mu rumuri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rw'amaso yawe"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:40.035421599Z",
+  "model": "glm-5.3"
+}

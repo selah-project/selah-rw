@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Subiza icyubahiro ⟨את⟩ so wawe na ⟨את⟩ nyina wawe, kugira ngo iminsi yawe ihore ndende ku butaka bwahawe wowe n'Imana: kuri ico: kuri ico: kuri ico gihugu Yahwe Elohimu wawe ikuha.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Subiza icyubahiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "so wawe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "so wawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina wawe"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nyina wawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ihore ndende"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "iminsi yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ikuha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:07.012763645Z",
+  "model": "glm-5.3"
+}

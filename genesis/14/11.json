@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bafata ⟨את⟩ umutungo wa Sedomu n'Amoraha wose, na ⟨את⟩ ibiryo byabo byose, maze bagenda.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutungo wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "umutungo"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "wa Sedomu"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "n'Amoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiryo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ibiryo byabo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:43.422244880Z",
+  "model": "glm-5.3"
+}

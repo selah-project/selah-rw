@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mukore ⟨את⟩ ipima y'uruhu rwa imitima yanyu, kandi amajosi yanyu ntibongere kugomeka na kabiri.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Mukore ipima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhu rwa imitima yanyu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "uruhu rwa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "imitima yanyu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "amajosi yanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "bongere kugomeka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:54.183328703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ni nde uyu uhisha inama adafite ubumenyi? Ni cyo mpamvu navuze ibyo nta coy ndasobanukiwe — ibintu bikomeye kurusha njye, ibyo nta coy nzi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "uhisha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "inama"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "adafite"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ni cyo mpamvu"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta coy"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ndasobanukiwe"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ibintu bikomeye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kurusha njye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta coy"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nzi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:40:49.297483037Z",
+  "model": "glm-5.3"
+}

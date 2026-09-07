@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Kandi kwa Yosefu (Yozefu), mu gihugu cya Mitsrayimu (Egiputa), havukiye awo Asenati, umukobwa wa Poti-Perahi, kohenu (umukuru w'ibitangiza) w'Oni, yamubyariye: ⟨את⟩ Menasheh na ⟨את⟩ Efrayimu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "havukiye"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kwa Yosefu (Yozefu)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yamubyariye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Perahi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu (umukuru w'ibitangiza)"
+    },
+    {
+      "surface": "אן",
+      "gloss": "w'Oni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:26:36.504844466Z",
+  "model": "glm-5.3"
+}

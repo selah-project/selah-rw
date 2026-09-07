@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "N'abatware bazanye ⟨את⟩ amabuye y'ushohamu na ⟨את⟩ amabuye y'o gushyirwamo, ku epodu no mu hosheni.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "n'abatware"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bazanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabuye y'ushohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "y'ushohamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amabuye y'o gushyirwamo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "y'o gushyirwamo"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "ku epodu"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "no mu hosheni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:16:26.419132287Z",
+  "model": "glm-5.3"
+}

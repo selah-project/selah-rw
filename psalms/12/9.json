@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ahantu hose ababi baragenzera, iyo ububi bwuzuye mu bana b'abantu.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ahantu hose"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "baragenzera"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "iyo … kizamuye"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ububi bwuzuye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mu bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:07.835437345Z",
+  "model": "glm-5.3"
+}

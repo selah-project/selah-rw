@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Yahwe arishimwa n'⟨את⟩ abamutinya, n'⟨את⟩ abategereje hesedi ye.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "arishimwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abamutinya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamutinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abategereje"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "abategereje"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.586254451Z",
+  "model": "glm-5.3"
+}

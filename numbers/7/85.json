@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "numbers 7:85",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Za kaera ku imwe z'ifeza ⟨zihemie⟩ ishekeli ijana na mirongo itatu, na za mizuraka ku imwe ⟨izihemie⟩ mirongo irindwi; ifeza ryose ry'ibikoresho ⟨ni⟩ amashekeli ibihumbi bibiri n'amajana ane, mu shekeli y'itagara.",
+  "tokens": [
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na ijana"
+    },
+    {
+      "surface": "הקערה",
+      "gloss": "kaera"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ku imwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mirongo irindwi"
+    },
+    {
+      "surface": "המזרק",
+      "gloss": "mizuraka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ku imwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi bibiri"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "mu shekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'itagara"
+    }
+  ],
+  "timestamp": "2026-09-07T10:11:21.603315967Z",
+  "model": "glm-5.3"
+}

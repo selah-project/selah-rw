@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yahwe we, mu irengo ryawe ntunyorehe, kandi mu nkumbi zawe ntundereze.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "mu irengo ryawe"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "unyorehe"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mu nkumbi zawe"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "undereze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:18.817011201Z",
+  "model": "glm-5.3"
+}

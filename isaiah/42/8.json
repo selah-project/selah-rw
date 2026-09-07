@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ni jye Yahwe, iri ni izina ryanjye; icyubahiro cyanjye nticyo nzaha uwundi, na gushimwa kwanjye ntibigera ku bishushanyo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri ni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "icyubahiro cyanjye"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "uwundi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nticyo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzaha"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "na gushimwa kwanjye"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ku bishushanyo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:14:38.444457482Z",
+  "model": "glm-5.3"
+}

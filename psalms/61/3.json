@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Ku mpera y'isi nzaguhamagara, iyo umutima wanjye urimo kunanirwa; unzanyire ku rutare rurebure kurusha njye.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kw'iwe wowe (nzaguhamagara)"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nzaguhamagara"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "iyo... urimo kunanirwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ku rutare"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "rurebure kurusha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "unzanyire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:37.511565815Z",
+  "model": "glm-5.3"
+}

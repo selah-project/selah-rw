@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Avneru yageze kuri Dawidi i Heburoni, na ⟨את⟩ we hamwe n'abagabo makumyabiri; Dawidi ashingiriye Avneru n'abagabo bari na we mishete.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yageze"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "i Heburoni"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩ we"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ashingiriye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "n'abagabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(bari)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ … na we",
+      "marks": "avneru n'abagabo bari na we"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mishete"
+    }
+  ],
+  "timestamp": "2026-09-07T13:00:21.359392073Z",
+  "model": "glm-5.3"
+}

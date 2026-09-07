@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mukore kandi urugendo: mufate ⟨את⟩ sanduku rya Yahwe, mushyire ⟨את⟩ ku gare; na ⟨את⟩ ibikoresho by'izahabu mwasubije iwe nk'ikorwa ry'icyaha, mubyize mu gasanduku ku ruhande rwaryo; mwohereze ⟨את⟩, maze iragenda.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "mufate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku rya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mushyire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ku gare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho by'izahabu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "by'izahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bi-"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "mwasubije"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "nk'ikorwa ry'icyaha"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "mubyize"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "mu gasanduku"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "ku ruhande rwaryo"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "mwohereze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ko ngaha"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "maze iragenda"
+    }
+  ],
+  "timestamp": "2026-09-07T21:31:29.165252083Z",
+  "model": "glm-5.3"
+}

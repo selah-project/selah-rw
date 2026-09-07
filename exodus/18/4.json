@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Izina rya uwundi ni Eliyezeri, kuko yavuze ati: Eliyi wa data yari inkunga yanjye, anjyurokoye ku mupanga wa Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "izina rya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "uwundi"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliyezeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eliyi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa data"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "yari inkunga yanjye"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "anjyurokoye"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ku mupanga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:09.822452026Z",
+  "model": "glm-5.3"
+}

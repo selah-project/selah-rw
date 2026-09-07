@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ni nde uyu wumwijijisha inama mu majwi atari ubumenyi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "wumwijijisha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "inama"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "mu majwi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "atari"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:39:37.733530031Z",
+  "model": "glm-5.3"
+}

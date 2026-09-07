@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abatumirwa basubira iwe, arababwira ati: Ni iki — mwasubiye?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "basubira"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "abatumirwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "mwasubiye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:18.059077583Z",
+  "model": "glm-5.3"
+}

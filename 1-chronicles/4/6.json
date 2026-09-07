@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Naarahi yabyaye ⟨את⟩ Ahusamu na ⟨את⟩ Cheferi na ⟨את⟩ Temeni na ⟨את⟩ Haahashtari; aya ni abahungu ba Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahusamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahusamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cheferi"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Cheferi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:15.863810504Z",
+  "model": "glm-5.3"
+}

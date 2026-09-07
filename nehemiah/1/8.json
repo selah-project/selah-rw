@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umwibuke, ndasaba, ⟨את⟩ ijambo iyo wategetse ⟨את⟩ Moshe umugaragu wawe uti: Mwe muhemukira — njye nzabatandaganya ⟨את⟩ mu mahanga.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Umwibuke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "muhemukira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "nzabatandaganya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mu mahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T20:21:10.059149618Z",
+  "model": "glm-5.3"
+}

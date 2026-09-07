@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 65:5",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 65,
+ "translation": "Ni umunezero kuwo uhitoranya, umweza mu bugufi: aratura mu nkambi zawe; tuzashyushye ku bwiza bw'inzu yawe, urusengero rwawe bimu butagatifu.",
+ "tokens": [
+  {
+   "surface": "אשרי",
+   "gloss": "umunezero"
+  },
+  {
+   "surface": "תבחר",
+   "gloss": "uhitoranya"
+  },
+  {
+   "surface": "ותקרב",
+   "gloss": "umweza mu bugufi"
+  },
+  {
+   "surface": "ישכן",
+   "gloss": "aratura"
+  },
+  {
+   "surface": "חצריך",
+   "gloss": "mu nkambi zawe"
+  },
+  {
+   "surface": "נשבעה",
+   "gloss": "tuzashyushye"
+  },
+  {
+   "surface": "בטוב",
+   "gloss": "ku bwiza"
+  },
+  {
+   "surface": "ביתך",
+   "gloss": "bw'inzu yawe"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "bimu butagatifu"
+  },
+  {
+   "surface": "היכלך",
+   "gloss": "urusengero rwawe"
+  }
+ ],
+ "timestamp": "2026-09-07T18:27:57.411260580Z",
+ "model": "glm-5.3"
+}

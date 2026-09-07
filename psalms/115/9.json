@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Yisraeli, izere kwa Yahwe: ⟨ni⟩ we ubufasha bwabo n'ingabo yabo.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "izere"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ubufasha bwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "n'ingabo yabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:14.769959960Z",
+  "model": "glm-5.3"
+}

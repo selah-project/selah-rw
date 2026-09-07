@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Shohora unanosohore ⟨את⟩ inaonyi, ⟨ariko⟩ na ⟨את⟩ bana uzabifata kuri wewe, kugira ngo ibe byiza kuri wewe, kandi ulongoje iminsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Shohora"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "unanosohore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inaonyi"
+    },
+    {
+      "surface": "האם",
+      "gloss": "inaonyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzabifata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ibe byiza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "kandi ulongoje"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:07:23.517174013Z",
+  "model": "glm-5.3"
+}

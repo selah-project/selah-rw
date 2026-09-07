@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Hanyuma yohereje intumwa kuri Ahabu (Ahabu), umwami w'Yisraeli, mu mujyi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:59:32.465485783Z",
+  "model": "glm-5.3"
+}

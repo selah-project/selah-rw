@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 31,
+ "ref": "genesis 26:31",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 26,
+ "translation": "Barahanagurukiye mu gasesenguye, barahise umuvumo umuntu ku muvandimwe we; Yitsaki arabakohohera, maze bava mu ⟨את⟩ we mu mahoro.",
+ "tokens": [
+  {
+   "surface": "וישכימו",
+   "gloss": "barahanagurukiye"
+  },
+  {
+   "surface": "בבקר",
+   "gloss": "mu gasesenguye"
+  },
+  {
+   "surface": "וישבעו",
+   "gloss": "barahise umuvumo"
+  },
+  {
+   "surface": "איש",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "לאחיו",
+   "gloss": "ku muvandimwe we"
+  },
+  {
+   "surface": "וישלחם",
+   "gloss": "arabakohohera"
+  },
+  {
+   "surface": "יצחק",
+   "gloss": "Yitsaki"
+  },
+  {
+   "surface": "וילכו",
+   "gloss": "maze bava"
+  },
+  {
+   "surface": "מאתו",
+   "gloss": "mu ⟨את⟩ we",
+   "marks": "Yitsaki"
+  },
+  {
+   "surface": "בשלום",
+   "gloss": "mu mahoro"
+  }
+ ],
+ "timestamp": "2026-09-07T07:56:01.857378143Z",
+ "model": "glm-5.3"
+}

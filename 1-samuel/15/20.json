@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Shauli yabwiriye Shemuweli ati: Yego, nakumvye ijwi rya Yahwe, nanagiye mu nzira uko Yahwe yantumye, maze nkoza ⟨את⟩ Agagi umwami w'Amaleki, kandi na ⟨את⟩ Amaleki narahiye-imfungurwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiriye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakumvye"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "nanagiye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "yantumye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "nkoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "narahiye-imfungurwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:58.657321287Z",
+  "model": "glm-5.3"
+}

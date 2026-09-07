@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Ukora ubutabera abahohotewe, aha abashonje umugati; Yahwe akuramo imbohe abafunganye.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ukora"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "abahohotewe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "abashonje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "akuramo imbohe"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "abafunganye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:57.903460062Z",
+  "model": "glm-5.3"
+}

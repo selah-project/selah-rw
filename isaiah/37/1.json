@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Igihe umwami Chizkiyahu (Ezekiya) yari yakumvye, yacitse ⟨את⟩ imyambaro ye, yambaye isaku, maze yinjira mu nzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "igihe…yari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "yakumvye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "yambaye"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "isaku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "maze yinjira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:13:28.858405051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Wowe, ukuboko kwawe ni ko kwaguye amahanga, ukashyira ⟨bo⟩ mu ntara; wakokeye amoko maze ubahunza.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "kwaguye"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ukashyira ⟨bo⟩ mu ntara"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "wakokeye"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ubahunza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.395876151Z",
+  "model": "glm-5.3"
+}

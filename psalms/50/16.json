@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Kandi Elohimu yaravuze n'inkozi y'ibaha ati: Ni iki ufite ko kuvuga amategeko yanje, kandi ko utwara ⟨beriti⟩ yanje mu kanwa yawe?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "n'inkozi y'ibaha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ufite ko"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ko kuvuga"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "amategeko yanje"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "kandi ko utwara"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mu kanwa yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:50.984262187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Twumvise ⟨את⟩ inkuru yaryo; ibiganza byacu byoroheje; ishwa yadufashe — umubyara, nko ku wa mubyara.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Twumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkuru yaryo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "inkuru yaryo"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "byoroheje"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ibiganza byacu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ishwa"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "yadufashe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umubyara"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "nko ku wa mubyara"
+    }
+  ],
+  "timestamp": "2026-09-07T15:42:05.430693968Z",
+  "model": "glm-5.3"
+}

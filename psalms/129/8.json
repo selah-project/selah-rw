@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Kandi abanyaburyo ntibabwira biti: Umugisha wa Yahwe uhari kuri mwe; twabahaye ⟨את⟩ mwe umugisha mu izina rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi ntibabwira"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "abanyaburyo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "uhari kuri mwe"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "twabahaye umugisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.439785244Z",
+  "model": "glm-5.3"
+}

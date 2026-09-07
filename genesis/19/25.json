@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahinduye ⟨את⟩ imidugudu iyo na ⟨את⟩ ikibaya cyose, na ⟨את⟩ abatuye b'imidugudu yose, n'ibimera by'ubutaka.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "yahinduye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imidugudu iyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikibaya cyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ikibaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abatuye b'imidugudu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "b'imidugudu"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "n'ibimera"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "by'ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:52.616498872Z",
+  "model": "glm-5.3"
+}

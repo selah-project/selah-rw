@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nefeshi iyo ari yo yose, ezahunga cyangwa uwavukiye mu gihugu cyangwa umushyitsi, izarya icyapfuye cya none cyangwa indasigaye yanywejwe n'inyamaswa, izakara imyambaro ye, izamesa mu mazi, izatana kugeza nimugoroba, hanyuma izaba umwe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Nefeshi iyo ari yo yose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "(Nefeshi \/ umuntu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "izarya"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "icyapfuye cya none"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "cyangwa indasigaye yanywejwe"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "uwavukiye mu gihugu"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "cyangwa umushyitsi"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "izakara"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "izamesa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "izatana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "izaba umwe (musukuye)"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:26.737750737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Isanduku ya Yahwe iguma mu nzu ya Ovedi-Edomu Umugiti amezi atatu, maze Yahwe aha umugisha ⟨את⟩ Ovedi-Edomu na ⟨את⟩ inzu ye yose.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "iguma"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Isanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Ovedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Umugiti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amezi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "maze aha umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedi-Edomu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ovedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T23:02:00.030807840Z",
+  "model": "glm-5.3"
+}

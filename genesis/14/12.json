@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bafata ⟨את⟩ Loti na ⟨את⟩ umutungo we, umwana wa murumuna wa Avrahamu (Aburahamu), maze bagenda; ariko we yari atuye i Sedomu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutungo we"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "umutungo we"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wa murumuna"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "wa Avrahamu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ariko we"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yari atuye"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "i Sedomu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:43.424587685Z",
+  "model": "glm-5.3"
+}

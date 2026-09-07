@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umuriro uzimangara ihoraho uri ku gicaniro, ntiurazimira.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Umuriro"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ihoraho"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "uzimangara"
+    },
+    {
+      "surface": "על",
+      "gloss": "uri"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ku gicaniro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "urazimira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:43.276731481Z",
+  "model": "glm-5.3"
+}

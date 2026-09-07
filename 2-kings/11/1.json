@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Atalyahu, ina w'Ahaziyahu, mugihe yabonye ko umwana we yapfuye, yavukiye maze azimiza ⟨את⟩ urubyara rw'ubwami rwose.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "w'Ahaziyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "yavukiye"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "azimiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubyara rw'ubwami rwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyara"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "rw'ubwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:17:51.236795401Z",
+  "model": "glm-5.3"
+}

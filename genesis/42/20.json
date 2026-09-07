@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Na ⟨את⟩ umuvandimwe wanyu muto muzanyire iwanjye, amagambo yanyu yemwe, kandi ntimupfe. Banyakubwuye ibyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umuvandimwe wanyu muto"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umuvandimwe wanyu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "muto"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "muzanyire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "yemwe"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "amagambo yanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "mupfe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "barubitiye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:19.344486402Z",
+  "model": "glm-5.3"
+}

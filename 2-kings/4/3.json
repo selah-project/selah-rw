@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Amubwira ati: Genza, usabe ubwawe ibikoresho biturutse hanze, uve ⟨את⟩ bose bene ibyituriiye bwawe; ibikoresho ubusa, kandi ntubyishe gato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "genza"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "usabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "biturutse"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuva ⟨את⟩",
+      "marks": "bene ibyituriiye bwawe bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "bene ibyituriiye bwawe"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "-byishe gato"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:10.077171451Z",
+  "model": "glm-5.3"
+}

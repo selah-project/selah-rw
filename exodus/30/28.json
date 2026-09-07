@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ igitisho cy'ibitambo by'urubiro na ⟨את⟩ ibikoresho byacyo byose, na ⟨את⟩ agasimbi k'amazi na ⟨את⟩ igituriro cyaryo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitisho cy'ibitambo by'urubiro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igitisho"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'ibitambo by'urubiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byacyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agasimbi k'amazi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "agasimbi k'amazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igituriro cyaryo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "igituriro cyaryo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:05.030267610Z",
+  "model": "glm-5.3"
+}

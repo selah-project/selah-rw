@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Yahwe ⟨ni⟩ iwanjye mu batsindiyanjye, maze njye nzareba abanzire.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "mu batsindiyanjye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "n'turikira njye"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nzareba"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "abanzire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:31.931668452Z",
+  "model": "glm-5.3"
+}

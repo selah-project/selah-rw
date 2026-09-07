@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Abana ba Yisraeli barafashe ⟨את⟩ abagore b'i Midiyani na ⟨את⟩ abana babo bato, na ⟨את⟩ inyamaswa zabo zose, na ⟨את⟩ amatungo yabo yose, na ⟨את⟩ umutungo wabo wose barayasambazuye.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "barafashe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore b'i Midiyani"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "i Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana babo bato"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "abana babo bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyamaswa zabo zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "inyamaswa zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatungo yabo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "amatungo yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutungo wabo wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "umutungo wabo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "barayasambazuye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:42.332028642Z",
+  "model": "glm-5.3"
+}

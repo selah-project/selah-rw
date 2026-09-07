@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umukosa ni we uzoreshwa nk'igiciro cy'ukuyaguza umutunganya, na mu mwanya w'abahambaye uhemukira.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "igiciro cy'ukuyaguza"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "umutunganya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umukosa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na mu mwanya wa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abahambaye"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "uhemukira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:11:55.142141189Z",
+  "model": "glm-5.3"
+}

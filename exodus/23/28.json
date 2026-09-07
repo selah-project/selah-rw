@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze nzohereza ⟨את⟩ urunzuki rukaze imbere yanyu, nirosekura ⟨את⟩ Abahivi, ⟨את⟩ Abakanani na ⟨את⟩ Abaheti imbere yanyu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urunzuki rukaze"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "urunzuki rukaze"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "nirosekura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abahivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Abahivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abakanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Abakanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abaheti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Abaheti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "imbere yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:21.714207428Z",
+  "model": "glm-5.3"
+}

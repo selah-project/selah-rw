@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kuko amaguru yabo arirukana mu bibi, barihuta kwatura amaraso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "amaguru yabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mu bibi"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "arirukana"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "barihuta"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "kwatura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:23.540021541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kuri byose byuzuye nabonye iherezo, ariko amategeko yawe ni agari cyane.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Kuri byose"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "iherezo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ni agari"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:17.421784613Z",
+  "model": "glm-5.3"
+}

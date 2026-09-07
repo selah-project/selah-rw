@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Abantu be, Yahwe, barumira, kandi umurage wawe barahiraho.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "barumira"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "kandi umurage wawe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "barahiraho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:51.087415546Z",
+  "model": "glm-5.3"
+}

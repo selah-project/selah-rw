@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Ndabarira Yahwe ⟨ati⟩: Uri umutekano wanjye n'urubibi rwanjye: Elohimu wanjye, muri we ndizizingira.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndabarira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "umutekano wanjye"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "n'urubibi rwanjye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndizizingira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:03.076137878Z",
+  "model": "glm-5.3"
+}

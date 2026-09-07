@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Jyewe, mu butunganye, nzareba uruhara rwawe; nzuzwe mu kwohera ⟨ni⟩ ishusho yawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jyewe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mu butunganye"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "nzareba"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhara rwawe"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "nzuzwe"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "mu kwohera"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ishusho yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:56.059608873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Amatwi bifite, ariko ntibyumva; izuru bifite, ariko ntibyanuka.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "amatwi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bifite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "byumva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "izuru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bifite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "byanuka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:46.029028884Z",
+  "model": "glm-5.3"
+}

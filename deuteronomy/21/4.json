@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "deuteronomy 21:4",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 21,
+ "translation": "Abakuru b'uwo mugi bamanura ⟨את⟩ isenkoni bajya kuri urwobo ridahinduka, aho nta hikoreshwa na nta hitebasirwa, maze bakayicitura umutwe hari ⟨את⟩ isenkoni mu rwobo.",
+ "tokens": [
+  {
+   "surface": "והורדו",
+   "gloss": "bamanura"
+  },
+  {
+   "surface": "זקני",
+   "gloss": "abakuru"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "b'uwo mugi"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "uwo"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "isenkoni"
+  },
+  {
+   "surface": "העגלה",
+   "gloss": "isenkoni"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "נחל",
+   "gloss": "urwobo"
+  },
+  {
+   "surface": "איתן",
+   "gloss": "ridahinduka"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "aho"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "יעבד",
+   "gloss": "hikoreshwa"
+  },
+  {
+   "surface": "בו",
+   "gloss": "mu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "na nta"
+  },
+  {
+   "surface": "יזרע",
+   "gloss": "hitebasirwa"
+  },
+  {
+   "surface": "וערפו",
+   "gloss": "bakayicitura umutwe"
+  },
+  {
+   "surface": "שם",
+   "gloss": "hari"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "isenkoni"
+  },
+  {
+   "surface": "העגלה",
+   "gloss": "isenkoni"
+  },
+  {
+   "surface": "בנחל",
+   "gloss": "mu rwobo"
+  }
+ ],
+ "timestamp": "2026-09-07T11:07:07.217687578Z",
+ "model": "glm-5.3"
+}

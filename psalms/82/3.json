@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Mutosore umunyantege nke n'impfubyi; umunyagahinda n'umukene, mutunganye.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Mutosore"
+    },
+    {
+      "surface": "דל",
+      "gloss": "umunyantege nke"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "n'impfubyi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umunyagahinda"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "mutunganye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:28.671853940Z",
+  "model": "glm-5.3"
+}

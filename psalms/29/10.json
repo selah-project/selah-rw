@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yahwe yicaye ku mbwuzure, na Yahwe yicaye ⟨nk'umwami⟩ iteka ryose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ku mbwuzure"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yicaye"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yicaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:53.064727263Z",
+  "model": "glm-5.3"
+}

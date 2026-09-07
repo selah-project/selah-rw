@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ese uyu munsi ntumpamagaye ngo: Data, wowe ⟨ni⟩ inshuti y'ubwangavu bwanjye?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ese nt"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "umpamagaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Data"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "inshuti"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "y'ubwangavu bwanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:40:40.935842697Z",
+  "model": "glm-5.3"
+}

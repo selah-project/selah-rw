@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Nzashyira ⟨את⟩ inzu ya Ahabu nka inzu ya Yaravamu umwana wa Nevatu, no nka inzu ya Baashu umwana wa Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Ahabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "nka inzu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatu"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "no nka inzu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    }
+  ],
+  "timestamp": "2026-09-07T14:13:00.280487597Z",
+  "model": "glm-5.3"
+}

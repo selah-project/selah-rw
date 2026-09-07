@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Muzarya umubiri w'abahungu banyu, kandi umubiri w'abakobwa banyu muzarya.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "w'abahungu banyu"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "w'abakobwa banyu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzarya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:42.564805732Z",
+  "model": "glm-5.3"
+}

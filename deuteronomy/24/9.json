@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ibuka ⟨את⟩ ibyo Yahwe, Elohimu wawe, yakoze kuri Miriyamu mu nzira, mu gihe musohokaga mu Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ibuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (ibyakozwe kuri Miriyamu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kuri Miriyamu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mu gihe musohokaga"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:58.078499001Z",
+  "model": "glm-5.3"
+}

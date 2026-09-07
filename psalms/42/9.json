@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ku manywa Yahwe azategeka hesedi yiwe, no mu ijoro indirimbo yiwe ⟨ni⟩ iri kumwe nanjye, ⟨ni⟩ ugusenga kwa Eli w'ubuzima bwanjye.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ku manywa"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "azategeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yiwe"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "no mu ijoro"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iri kumwe nanjye"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ugusenga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa Eli"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "w'ubuzima bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:44.394344896Z",
+  "model": "glm-5.3"
+}

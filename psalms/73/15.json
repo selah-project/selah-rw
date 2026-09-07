@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "N'iyo navuze nti nzibyageko gutya, reba, nza kwibohora umuryango w'abana bawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "N'iyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze nti"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nzibyageko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "דור",
+      "gloss": "umuryango w'"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abana bawe"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "nza kwibohora"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:46.444246155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Chilezi hamwe n'imirima yayo, ⟨את⟩ Debiri hamwe n'imirima yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chilezi"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chilezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirima yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imirima yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debiri"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirima yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imirima yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:06.869976636Z",
+  "model": "glm-5.3"
+}

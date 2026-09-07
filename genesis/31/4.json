@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yaakovu yohereje arahamagara Raheli na Lea mu gasozi, ku itungo ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "arahamagara"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "na Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mu gasozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "itungo ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:49.772055271Z",
+  "model": "glm-5.3"
+}

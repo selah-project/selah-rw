@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 12:30",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ikingira ubwawe ntibe ufatwa mu mitego ukurikira amahanga, nyuma y'abarimbuka imbere yawe, kandi ntibe ubaza iby'aman[a] zabo uvuga uti: bate bakorera amahanga aya ⟨את⟩ mana yabo? maze njye nkore gutyo na njye.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ikingira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ntibe"
+    },
+    {
+      "surface": "תנקש",
+      "gloss": "ufatwa mu mitego"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ukurikira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "abarimbuka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "kandi ntibe"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ubaza"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ku mana zabo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uvuga uti"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "bate"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "bakorera"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana yabo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "mana yabo"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "maze nkore"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gutyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:59:50.657185795Z",
+  "model": "glm-5.3"
+}

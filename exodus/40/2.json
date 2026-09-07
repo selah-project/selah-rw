@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ku itariki ya mbere y'ukwezi kwa mbere, uzazamura ⟨את⟩ Mishikani — Oheli Moedi ⟨(igihumbi cy'itumanaho)⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku itariki"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "y'ukwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kwa mbere"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "y'ukwezi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "uzazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oheli"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moedi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:55.178183069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Hisha uburare bwawe mu byaha byanjye, maze inkozi zanjye zose uhanagure.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Hisha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburare bwawe"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "mu byaha byanjye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maze ... zose"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "inkozi zanjye"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "uhanagure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:38.901651259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Aho abakurambere banyu banikoze, banikoze, kandi barebye igikorwa cyanjye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "banikoze"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "banikoze"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "barebye"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "igikorwa cyanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:04.758419837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Soza mu ihimuri, wowe n'ugore wawe n'abahungu bawe n'abagore b'abahungu bawe hamwe na wowe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Soza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ihimuri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "n'ugore wawe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "n'abahungu bawe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "n'abagore"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "b'abahungu bawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe na wowe",
+      "marks": "hamwe na wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:48.478538585Z",
+  "model": "glm-5.3"
+}

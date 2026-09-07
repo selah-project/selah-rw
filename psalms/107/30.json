@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Maze bishimira ko byumetse, akanatwara ku rwungiro rw'ubwato rw'icyo bakunda.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Maze bishimira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "byumetse"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akanatwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "rwungiro rw'ubwato"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "rw'icyo bakunda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:54.895175583Z",
+  "model": "glm-5.3"
+}

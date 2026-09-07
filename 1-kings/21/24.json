@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uwapfuye wa Ahabu mu mujyi imbwa zizarya; na we upfuye mu kibuga inyoni z'ijuru zizarya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "uwapfuye"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahabu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizarya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na uwapfuye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu kibuga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizarya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T13:57:32.312682210Z",
+  "model": "glm-5.3"
+}

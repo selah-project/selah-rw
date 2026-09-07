@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Igihe cyo kugurika amabuye, n'igihe cyo kororoka amabuye; igihe cyo kwingira mu mibonano, n'igihe cyo kure k'uwo mubonano.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "cyo kugurika"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "cyo kororoka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "cyo kwingira mu mibonano"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "cyo kure"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "k'uwo mubonano"
+    }
+  ],
+  "timestamp": "2026-09-07T19:51:55.702586261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nta wera nka Yahwe, ko nta wundi utari wowe ⟨yo⟩, kandi nta rubamba nk'Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "wera"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "nka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta wundi"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "utari wowe ⟨yo⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rubamba"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "nk'Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:20:58.994722992Z",
+  "model": "glm-5.3"
+}

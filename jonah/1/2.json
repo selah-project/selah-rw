@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Simbuka, ugende kuri Ninwehu, umujyi munini, maze usakaze ku yo, kuko ibibi byabo byazamutse imbere yanjye.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Simbuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwehu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "munini"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "maze usakaze"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "byazamutse"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ibibi byabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:57.525548628Z",
+  "model": "glm-5.3"
+}

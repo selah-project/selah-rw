@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Ku indahemuka zimurika umuriro mu kizimu cy'ijoro; Yamutuwe impuhwe, ngwitan Cyuze, kandi Mwiza.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "zimurika umuriro"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mu kizimu cy'ijoro"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨umuriro⟩"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "Ku indahemuka"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Yamutuwe impuhwe"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ngwitan Cyuze"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kandi Mwiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:47.459326850Z",
+  "model": "glm-5.3"
+}

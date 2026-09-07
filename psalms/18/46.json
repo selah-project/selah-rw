@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Abanyamahanga barasenya imbaraga, bakanirukanka biva mu mpingu zabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ubwahanganzi"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "barasenya imbaraga"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "bakanirukanka"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "mu mpingu zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:41.243671308Z",
+  "model": "glm-5.3"
+}

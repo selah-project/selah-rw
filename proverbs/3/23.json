@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uwo munsi uzagenda mu mahoro inzira yawe, kandi ikirenge cyawe nticyagwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Uwo munsi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uzagenda"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mu mahoro"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "kandi ikirenge cyawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "cyagwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:43.994242837Z",
+  "model": "glm-5.3"
+}

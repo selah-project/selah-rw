@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kandi mu nzu y'ibirori ntuzinjira kugira ngo yicara nabo ⟨את⟩, kurya n'kunywa.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "kandi mu nzu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "y'ibirori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zinjire"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugira ngo yicara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kurya n'kunywa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "n'kunywa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:53:58.296487054Z",
+  "model": "glm-5.3"
+}

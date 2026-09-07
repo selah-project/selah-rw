@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "maze Yahwe Elohimu wawe atubwire ⟨את⟩ inzira iyo tuzemo n'iyo tuvomaho, na ⟨את⟩ icyo turakora.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "atubwire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzemo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iyo tuvomaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "turakora"
+    }
+  ],
+  "timestamp": "2026-09-07T16:24:02.887617824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Uwinjira mu nzu, mu minsi yose yo gufunga ⟨את⟩ wayo, arahita adasukuye kugeza mu mugoroba.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "Uwinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "yo gufunga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inzu (kuyifunga)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "arahita adasukuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mu mugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:20.584574207Z",
+  "model": "glm-5.3"
+}

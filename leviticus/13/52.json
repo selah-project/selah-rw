@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze arashe ⟨את⟩ umwenda, cyangwa ⟨את⟩ urudodo cyangwa ⟨את⟩ uruhuzi — mu bushishi cyangwa mu lineni — cyangwa ⟨את⟩ igikoresho cyose cy'uruhu kimwo uburwayi; kuko ni igikuramuntu gihenutse: mu muriro hazirashe.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "arashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwenda"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urudodo"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "urudodo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhuzi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "uruhuzi"
+    },
+    {
+      "surface": "בצמר",
+      "gloss": "mu bushishi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "בפשתים",
+      "gloss": "mu lineni"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igikoresho cyose cy'uruhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "igikoresho"
+    },
+    {
+      "surface": "העור",
+      "gloss": "cy'uruhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "uburwayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "igikuramuntu"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "gihenutse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "hazirashe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:37.388860855Z",
+  "model": "glm-5.3"
+}

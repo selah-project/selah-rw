@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 16:19",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Andi mambo ya Ahazi yo yakoze — ntibyari byo anditswe mu igitabo cy'amateka y'iminsi y'abami ba Yehuda?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "andi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ya Ahazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ntibyari"
+    },
+    {
+      "surface": "הם",
+      "gloss": "byo"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "anditswe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "cy'amateka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "y'iminsi"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "y'abami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T14:26:16.080371960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ahari hehe hesedi zawe za mbere, Adonayi we? Warahiye Dawidi (Dawidi) mu kwizera kwawe.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ahari hehe"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedi zawe"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "za mbere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi we"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Warahiye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "mu kwizera kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:37.343152377Z",
+  "model": "glm-5.3"
+}

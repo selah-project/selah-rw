@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Ashuru na we yafatanye na bo, bameze nk'ukuboko ku bana ba Loti. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na we"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "yafatanye"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bameze nk'"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:15.393687713Z",
+  "model": "glm-5.3"
+}

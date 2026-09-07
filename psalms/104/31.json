@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Icyubahiro cya Yahwe kigume iteka; Yahwe yishime mu byo yakoreye.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kigume"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cya Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yishime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "mu byo yakoreye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:56.650678256Z",
+  "model": "glm-5.3"
+}

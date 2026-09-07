@@ -1,0 +1,84 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "exodus 4:15",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Uzavugisha na we, uzashyira ⟨את⟩ amajambo mu kanwa ye, nanjye nzaba kumwe na kanwa yawe no kumwe na kanwa ye, kandi nzabigisha ⟨את⟩ mwe ⟨את⟩ ibyo muzakora.",
+ "tokens": [
+  {
+   "surface": "ודברת",
+   "gloss": "Uzavugisha"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "na we"
+  },
+  {
+   "surface": "ושמת",
+   "gloss": "uzashyira"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amajambo"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "amajambo"
+  },
+  {
+   "surface": "בפיו",
+   "gloss": "mu kanwa ye"
+  },
+  {
+   "surface": "ואנכי",
+   "gloss": "nanjye"
+  },
+  {
+   "surface": "אהיה",
+   "gloss": "nzaba"
+  },
+  {
+   "surface": "עם",
+   "gloss": "kumwe na"
+  },
+  {
+   "surface": "פיך",
+   "gloss": "kanwa yawe"
+  },
+  {
+   "surface": "ועם",
+   "gloss": "no kumwe na"
+  },
+  {
+   "surface": "פיהו",
+   "gloss": "kanwa ye"
+  },
+  {
+   "surface": "והוריתי",
+   "gloss": "nzabigisha"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibyo muzakora"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ibyo"
+  },
+  {
+   "surface": "תעשון",
+   "gloss": "muzakora"
+  }
+ ],
+ "timestamp": "2026-09-07T08:37:47.012248804Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Kuko ibyigomeke byacu byiyongereye imbere yawe, kandi ibyaha byacu biduhamya twe; kuko ibyigomeke byacu biri ⟨את⟩ natwe, kandi ibicumuro byacu tubyizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "byiyongereye"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ibyigomeke byacu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "kandi ibyaha byacu"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "biduhamya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ibyigomeke byacu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ natwe",
+      "marks": "natwe"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "kandi ibicumuro byacu"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "tubyizi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:30:53.681374983Z",
+  "model": "glm-5.3"
+}

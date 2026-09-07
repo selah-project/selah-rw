@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Iyo izamereraho urubabi n'urutoryi kuri wowe, kandi uzarya ⟨את⟩ ibyatsi by'umurima.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "urubabi"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "n'urutoryi"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "izamereraho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "kandi uzarya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyatsi by'umurima"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "by'umurima"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:59.809933133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Leah aravuga ati: Umazamu ⟨ni⟩ je! Maze ahamagara ⟨את⟩ izina rye ati Gadu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Umazamu ⟨ni⟩ je!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ahamagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:59:53.593179688Z",
+  "model": "glm-5.3"
+}

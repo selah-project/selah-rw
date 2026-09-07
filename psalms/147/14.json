@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "We ushyira amahoro ku mipaka yawe, akugesha ibinure by'ingano.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ushyira"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ku mipaka yawe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "by'ingano"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "akugesha (akuzuzisa)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:19.991327507Z",
+  "model": "glm-5.3"
+}

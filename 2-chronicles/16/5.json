@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Birabaye, mu kwumva Baasha, yahagarije kwubaka ⟨את⟩ Rama, maze yahagaritse ⟨את⟩ umurimo we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Birabaye"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mu kwumva"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "yahagarije"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kwubaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "yahagaritse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurimo we"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umurimo we"
+    }
+  ],
+  "timestamp": "2026-09-07T20:56:03.364871742Z",
+  "model": "glm-5.3"
+}

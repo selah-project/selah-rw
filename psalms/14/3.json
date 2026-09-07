@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bose bayera, bose hamwe bara somboka: nta ukora neza, nta na umwe.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Bose"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bayera"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bose hamwe"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "bara somboka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:15.209513303Z",
+  "model": "glm-5.3"
+}

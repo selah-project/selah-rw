@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze Moshe aravuga ati: Nzenguruke ⟨nda⟩ mbone ⟨את⟩ iki kigaragara nkuru — kubera iki uruhara nticyashya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze … aravuga ati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Nzenguruke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nda⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mbone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki kigaragara nkuru"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "iki kigaragara"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kubera iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "cyashya"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "uruhara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:20.017817899Z",
+  "model": "glm-5.3"
+}

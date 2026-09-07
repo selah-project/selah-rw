@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "jeremiah 7:26",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Ariko nti bumvise ijambo ryanjye, nti banze ⟨את⟩ amatwi yabo; barakomeje ⟨את⟩ ijosi ryabo; bakoreye ibibi kurusha ababyeyi babo.",
+ "tokens": [
+  {
+   "surface": "ולוא",
+   "gloss": "Ariko nti"
+  },
+  {
+   "surface": "שמעו",
+   "gloss": "bumvise"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "ijambo ryanjye"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "הטו",
+   "gloss": "banze"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amatwi yabo"
+  },
+  {
+   "surface": "אזנם",
+   "gloss": "amatwi yabo"
+  },
+  {
+   "surface": "ויקשו",
+   "gloss": "barakomeje"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ijosi ryabo"
+  },
+  {
+   "surface": "ערפם",
+   "gloss": "ijosi ryabo"
+  },
+  {
+   "surface": "הרעו",
+   "gloss": "bakoreye ibibi"
+  },
+  {
+   "surface": "מאבותם",
+   "gloss": "kurusha ababyeyi babo"
+  }
+ ],
+ "timestamp": "2026-09-07T15:48:36.211755862Z",
+ "model": "glm-5.3"
+}

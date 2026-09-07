@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yabwiye Yehoshuwa ati: Reba, nakuhaye mu ntoko zawe ⟨את⟩ Yeriho na ⟨את⟩ umwami wayo, intwari z'ingufu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nakuhaye"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoko zawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwami wayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "umwami wayo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "intwari"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "z'ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:31.969439637Z",
+  "model": "glm-5.3"
+}

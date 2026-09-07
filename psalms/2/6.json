@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ariko njye nashyize umwami wanjye ku Tsiyoni, umusozi utagatifu wanjye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "utagatifu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.991976309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Isanduku ya Yahwe yari mu gihugu cya Pelishti amezi indwi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "cya Pelishti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amezi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:26:54.964343916Z",
+  "model": "glm-5.3"
+}

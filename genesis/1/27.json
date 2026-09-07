@@ -1,0 +1,68 @@
+{
+ "tier": "glm-5.2",
+ "verse": 27,
+ "ref": "genesis 1:27",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Elohimu yaremye ⟨את⟩ umuntu mu ishusho ye; mu ishusho ya Elohimu yaremye ⟨את⟩ we; umugabo n'umugore yaremye ⟨את⟩ bo.",
+ "tokens": [
+  {
+   "surface": "ויברא",
+   "gloss": "yaremye"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umuntu"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "בצלמו",
+   "gloss": "mu ishusho ye"
+  },
+  {
+   "surface": "בצלם",
+   "gloss": "mu ishusho"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "ya Elohimu"
+  },
+  {
+   "surface": "ברא",
+   "gloss": "yaremye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "umugabo"
+  },
+  {
+   "surface": "זכר",
+   "gloss": "umugabo"
+  },
+  {
+   "surface": "ונקבה",
+   "gloss": "n'umugore"
+  },
+  {
+   "surface": "ברא",
+   "gloss": "yaremye"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "bo"
+  }
+ ],
+ "timestamp": "2026-09-07T07:33:20.970192309Z",
+ "model": "glm-5.3"
+}

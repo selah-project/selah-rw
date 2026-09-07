@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Abahiburu barengeje ⟨את⟩ Yardeni, bajashe mu gihugu cya Gadi no cya Giliyadi; Shauli we acyari i Giligali, abantu bose baratetaye bamukurikiye.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Abahiburu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "barengeje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "no cya Giliyadi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "acyari"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i Giligali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "baratetaye"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "bamukurikiye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:24.945029600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Boazi yabyaye ⟨את⟩ Ovedi, kandi Ovedi yabyaye ⟨את⟩ Yishayi.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedi"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "kandi Ovedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:41.820953793Z",
+  "model": "glm-5.3"
+}

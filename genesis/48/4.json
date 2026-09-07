@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 48:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "maze arambwira ati: Raba, nzakugira umwangavu kandi nzakwongeraho, maze ndaguha umuryango w'amahanga, kandi nzaha ⟨את⟩ iyi si urubyaro rwawe nyuma yawe, ngo ibe ubwite bw'iteka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "מפרך",
+      "gloss": "nzakugira umwangavu"
+    },
+    {
+      "surface": "והרביתך",
+      "gloss": "nzakwongeraho"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ndaguha"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "umuryango w'"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi si"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "urubyaro rwawe"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nyuma yawe"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ubwite"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bw'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:03.856434099Z",
+  "model": "glm-5.3"
+}

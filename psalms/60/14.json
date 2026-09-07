@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Mu Elohimu tuzakora iby'intwari, kandi ni we uzakandagira abansi bacu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Mu Elohimu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tuzakora"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iby'intwari"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi ni we"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "uzakandagira"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "abansi bacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:38.700805046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Arfakashadi yabyaye ⟨את⟩ Shelahi, na Shelahi yabyaye ⟨את⟩ Everi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfakashadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na Shelahi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:27.007054933Z",
+  "model": "glm-5.3"
+}

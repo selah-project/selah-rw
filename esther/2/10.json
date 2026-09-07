@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Estheri ntiyamenyesheje ⟨את⟩ ubwoko bwe na ⟨את⟩ iryambo rye; ko Mordekayi yari yaramutegetse kuti ntiyamenyeshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "yamenyesheje"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoko bwe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iryambo rye"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "iryambo rye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "yamenyesha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:58:20.026528781Z",
+  "model": "glm-5.3"
+}

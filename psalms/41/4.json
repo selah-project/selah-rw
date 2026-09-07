@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Yahwe azamushyigikira ku buriri bwo gutwandara; iby'uburiri bwe byose wabihinduye mu bugwayi bwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "azamushyigikira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "buriri"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "bwo gutwandara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "uburiri bwe"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "wabihinduye"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "mu bugwayi bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:54.196212772Z",
+  "model": "glm-5.3"
+}

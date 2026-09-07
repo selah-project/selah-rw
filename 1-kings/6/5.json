@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "1-kings 6:5",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Yubakiye ku rukuta rw'inzu agace k'ibyumba mu ruziga, ⟨את⟩ ingingo z'inzu mu ruziga, ku rusengero no ku Dabiri ⟨icyumba cyo mu nda⟩, maze akoza ibyumba by'uruhande mu ruziga.",
+ "tokens": [
+  {
+   "surface": "ויבן",
+   "gloss": "yubakiye"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "קיר",
+   "gloss": "urukuta"
+  },
+  {
+   "surface": "הבית",
+   "gloss": "rw'inzu"
+  },
+  {
+   "surface": "יצוע",
+   "gloss": "agace k'ibyumba"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "mu ruziga"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ingingo z'inzu"
+  },
+  {
+   "surface": "קירות",
+   "gloss": "ingingo"
+  },
+  {
+   "surface": "הבית",
+   "gloss": "z'inzu"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "mu ruziga"
+  },
+  {
+   "surface": "להיכל",
+   "gloss": "ku rusengero"
+  },
+  {
+   "surface": "ולדביר",
+   "gloss": "no ku Dabiri"
+  },
+  {
+   "surface": "ויעש",
+   "gloss": "maze akoza"
+  },
+  {
+   "surface": "צלעות",
+   "gloss": "ibyumba by'uruhande"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "mu ruziga"
+  }
+ ],
+ "timestamp": "2026-09-07T13:36:05.664603818Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Aharoni azazanira ⟨את⟩ ihene y'isebereri urubande rwa Yahwe rwazamukiye kuri yo, maze ayigire igitambo cy'icyaha.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "azazanira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihene y'isebereri"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ihene y'isebereri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rwazamukiye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri yo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "urubande"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "maze ayigire"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "igitambo cy'icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:47.396813028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kuko abantu b'isi bari imbere yanyu bakoze ⟨את⟩ ibibazo byose ibi, maze isi yaranduye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibazo byose ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ibibazo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "b'isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "yaranduye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:04.367050187Z",
+  "model": "glm-5.3"
+}

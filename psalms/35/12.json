@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Baranshyura nabi mu mwanya w'ibyiza, akaga ko kubura kuri Nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Baranshyura"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya w'"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "akaga ko kubura"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kuri Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:25.887565849Z",
+  "model": "glm-5.3"
+}

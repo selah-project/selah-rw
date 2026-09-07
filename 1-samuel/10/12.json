@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "1-samuel 10:12",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Maze umuntu wo hashi yabyeze ati: Se wa bo ari nde? Kubera ibyo byabaye urugero: Ese Shauli n'ubu ⟨ni⟩ mu hanuzi?",
+ "tokens": [
+  {
+   "surface": "ויען",
+   "gloss": "yabyeze"
+  },
+  {
+   "surface": "איש",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "משם",
+   "gloss": "wo hashi"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "avuze"
+  },
+  {
+   "surface": "ומי",
+   "gloss": "nde"
+  },
+  {
+   "surface": "אביהם",
+   "gloss": "se wa bo"
+  },
+  {
+   "surface": "על",
+   "gloss": "kubera"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ibyo"
+  },
+  {
+   "surface": "היתה",
+   "gloss": "yabaye"
+  },
+  {
+   "surface": "למשל",
+   "gloss": "urugero"
+  },
+  {
+   "surface": "הגם",
+   "gloss": "ese"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shauli"
+  },
+  {
+   "surface": "בנבאים",
+   "gloss": "mu hanuzi"
+  }
+ ],
+ "timestamp": "2026-09-07T21:31:11.377170076Z",
+ "model": "glm-5.3"
+}

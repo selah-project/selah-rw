@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ imirima yanyu, na ⟨את⟩ imu ryanyu, n'ibiti by'amazeti yanyu — ibyiza muri byo — azafata, maze aha abagaragu be.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirima yanyu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "imirima yanyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imu ryanyu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "imu ryanyu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "n'ibiti by'amazeti yanyu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ibyiza muri byo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "abagaragu be"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:00.813993378Z",
+  "model": "glm-5.3"
+}

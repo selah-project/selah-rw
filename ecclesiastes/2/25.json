@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Dore uko bimeze: nde wazariya, nde na we wihutira ibyo hanze, kitari jye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore uko bimeze"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "wazariya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nde na we"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "wihutira"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ibyo hanze"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kitari jye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:51:49.480650691Z",
+  "model": "glm-5.3"
+}

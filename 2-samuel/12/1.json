@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yohereje ⟨את⟩ Natanu kwa Dawidi; nawuye iwe, yabwiye we ati: Abagabo babiri bari mu mujyi umwe: umwe ukize, uwundi ukennye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natanu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nawuye iwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ukize"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "uwundi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ukennye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:17.552814082Z",
+  "model": "glm-5.3"
+}

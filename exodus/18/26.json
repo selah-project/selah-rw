@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Baratunganyaga ⟨את⟩ abantu mu gihe cyose; ⟨את⟩ ikibazo gikomeye bakizanaga kwa Moshe (Mose), ariko buri kibazo gito bakitunganyaga ubwabo.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "baratunganyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe cyose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikibazo gikomeye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ikibazo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "gikomeye"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "bakizanaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ariko buri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kibazo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "gito"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "bakitunganyaga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ubwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:02.001278467Z",
+  "model": "glm-5.3"
+}

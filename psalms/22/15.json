@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Natemwe nka amazi, amagufwa yanjye yose yatandukanye, umutima wanje wabaye nk'ibirimbi, washwanye mu nda yanjye.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "nka amazi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "natemwe"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "byatandukanye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "amagufwa yanjye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wabaye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanje"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "nk'ibirimbi"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "washwanye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:04.633696012Z",
+  "model": "glm-5.3"
+}

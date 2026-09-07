@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 70:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 70,
+ "translation": "Barwelwe banyibwe abashaka nefeshi yanjye; basubire inyuma bacyibwe abishimisha nabi yanjye.",
+ "tokens": [
+  {
+   "surface": "יבשו",
+   "gloss": "Barwelwe"
+  },
+  {
+   "surface": "ויחפרו",
+   "gloss": "banyibwe"
+  },
+  {
+   "surface": "מבקשי",
+   "gloss": "abashaka"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "nefeshi yanjye"
+  },
+  {
+   "surface": "יסגו",
+   "gloss": "basubire"
+  },
+  {
+   "surface": "אחור",
+   "gloss": "inyuma"
+  },
+  {
+   "surface": "ויכלמו",
+   "gloss": "bacyibwe"
+  },
+  {
+   "surface": "חפצי",
+   "gloss": "abishimisha"
+  },
+  {
+   "surface": "רעתי",
+   "gloss": "nabi yanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:30:02.403081940Z",
+ "model": "glm-5.3"
+}

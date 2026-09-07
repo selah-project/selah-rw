@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Bakira imbere ya Moshe ⟨את⟩ yo yose imbuto z'abana ba Yisraeli bazaniye ku mirimo y'akazi kw'ibitangereza ngo bakore ⟨את⟩, maze bakimuhozaho indahiro z'ubushake mu tokya mu tokya buri taha.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bakira"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bazaniye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "ku mirimo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "y'akazi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kw'ibitangereza"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ngo bakore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "imbuto"
+    },
+    {
+      "surface": "והם",
+      "gloss": "maze bakimuhozaho"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bazaniye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "indahiro z'ubushake"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu tokya buri taha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu tokya buri taha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:52.424544845Z",
+  "model": "glm-5.3"
+}

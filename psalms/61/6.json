@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Kuko wowe, Elohimu, wumvise ibyirambo byanjye, watanze umurage w'abatinya izina ryawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wumvise"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "ibyirambo byanjye"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "watanze"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "w'abatinya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:47.648219712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Kandi wowe, Adonayi, Eli ⟨ni⟩ ngir'imbabazi n'uruguta, utinda inkari, unafite hesedi nini n'ukuri.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kandi wowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ngir'imbabazi"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "n'uruguta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "utinda"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "inkari"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unafite hesedi nini"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "n'ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:46.721402186Z",
+  "model": "glm-5.3"
+}

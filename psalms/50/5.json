@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Mwunganire kuri njye abahesi banjye, abakora beriti yanjye ku igitanganwa.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Mwunganire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "abahesi banjye"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igitanganwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:08.745462952Z",
+  "model": "glm-5.3"
+}

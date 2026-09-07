@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Paro arabwira abavandimwe be ati: Ni iki murimo? Bishura Paro bati: Abagaragu bawe ⟨ni⟩ abunzi b'intama, twe n'abakurambere bacu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "murimo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bishura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "abunzi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "b'intama"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Abagaragu bawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "twe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ubwacu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abakurambere bacu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:39.155729402Z",
+  "model": "glm-5.3"
+}

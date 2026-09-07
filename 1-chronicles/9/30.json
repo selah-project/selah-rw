@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "1-chronicles 9:30",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Kandi mu bahungu b'abakohenu ​\baku mu bahere bashyiraho rwose (bakerera) umunyu w'ibimemera.",
+ "tokens": [
+  {
+   "surface": "ומן",
+   "gloss": "kandi mu"
+  },
+  {
+   "surface": "בני",
+   "gloss": "bahungu b'"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abakohenu"
+  },
+  {
+   "surface": "רקחי",
+   "gloss": "bakerera (bashyiraho rwose)"
+  },
+  {
+   "surface": "המרקחת",
+   "gloss": "umunyu w'"
+  },
+  {
+   "surface": "לבשמים",
+   "gloss": "ibimemera"
+  }
+ ],
+ "timestamp": "2026-09-07T20:36:21.914080883Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Yerushalayimu, iyuve nk'umujyi uhujwe neza, ufunganyije ⟨uri kumwe⟩.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "iyuve"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "nk'umujyi"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "uhujwe neza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ufunganyije"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨uri kumwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:50.863027932Z",
+  "model": "glm-5.3"
+}

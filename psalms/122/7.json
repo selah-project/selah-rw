@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Shalomu ibeho mu nkengero zawe, iruhukira mu ngoro zawe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ibeho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "mu nkengero zawe"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "iruhukira"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "mu ngoro zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.918047150Z",
+  "model": "glm-5.3"
+}

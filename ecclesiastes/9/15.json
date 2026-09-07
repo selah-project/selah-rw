@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze muri wo habonetse umuntu w'umukene uwizeye, maze we yakijije ⟨את⟩ umujyi ubwenge bwe; ariko nta muntu wibukiye ⟨את⟩ uwo mukene uwo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "habonetse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "w'umukene"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "uwizeye"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "yakijije"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ubwenge bwe"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nta muntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wibukiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mukene"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "mukene"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:04.529429945Z",
+  "model": "glm-5.3"
+}

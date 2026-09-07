@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "bityo batera ⟨את⟩ icyaha cy'ikosa mu kurya ⟨את⟩ ibitagatifu byabo; kuko jye Yahwe ndabatagatifu.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "bityo batera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "cy'ikosa"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "mu kurya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitagatifu byabo"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ibitagatifu byabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ndabatagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:31.248830222Z",
+  "model": "glm-5.3"
+}

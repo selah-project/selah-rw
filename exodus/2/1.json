@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umugabo wo mu nzu ya Levii yagiye, maze afata ⟨את⟩ umukobwa wa Levii.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wo mu nzu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukobwa wa Levii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levii"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:38.248187033Z",
+  "model": "glm-5.3"
+}

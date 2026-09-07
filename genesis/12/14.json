@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Birashitse iyo Avramu (Abramu) agejeje mu Mitsrayimu, maze Abamisrayimu babonye ⟨את⟩ umugore, ko ari umwiza cyane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "birashitse"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "iyo agejeje"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu (Abramu)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Abamisrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ari umwiza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:55.436873464Z",
+  "model": "glm-5.3"
+}

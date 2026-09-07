@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi nanjye numvise ⟨את⟩ igiseke cy'abana ba Yisraeli, aho Mitsrayimu ibashyiraho ubucakara, maze nibutse ⟨את⟩ beriti yanje.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "numvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igiseke"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "igiseke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ibashyiraho ubucakara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ -ba-"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "maze nibutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti yanje"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanje"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:36.821345937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ikerubi imwe ku mpera y'uruhande rumwe, n'ikerubi imwe ku mpera y'undi ruhande: ako mu ikaporreti yakoze ⟨את⟩ ibikerubi ku mpera zacyo zombi.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Ikerubi imwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "y'uruhande rumwe"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "n'ikerubi imwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "y'undi ruhande"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ako mu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikaporreti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikerubi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ibikerubi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "zacyo zombi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:49.106321199Z",
+  "model": "glm-5.3"
+}

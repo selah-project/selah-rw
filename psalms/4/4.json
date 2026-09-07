@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mumenye ko Yahwe yatandukanyije umutungane kuri we; Yahwe azumva iyo ndamuhamagara.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Mumenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "yatandukanyije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "umutungane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "iyo ndamuhamagara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨iye⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:39.362594489Z",
+  "model": "glm-5.3"
+}

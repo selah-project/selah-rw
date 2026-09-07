@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 100,
+  "translation": "Mukorere ⟨את⟩ Yahwe mu kwishima; mwiture imbere ye mu kuririmba.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Mukorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mu kwishima"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mwiture"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "mu kuririmba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:47.531923428Z",
+  "model": "glm-5.3"
+}

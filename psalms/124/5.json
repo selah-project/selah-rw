@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "Icyo gihe amazi y'ubwibone yari kurenza ku Nefeshi yacu.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Icyo gihe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yari kurenza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshi yacu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "afite ubwibone"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.285963440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Azatema ⟨את⟩ umwana w'inka imbere kwa Yahwe, maze abana ba Aharoni, abakohenu, bazazana ⟨את⟩ amaraso, maze basukire ⟨את⟩ amaraso k'igicaniro ahuntu hose, ari ku irembo ry'ihema ry'inama.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "azatema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana w'inka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "w'inka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "bazazana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "basukire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ahuntu hose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku irembo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ry'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'inama"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:25.071018198Z",
+  "model": "glm-5.3"
+}

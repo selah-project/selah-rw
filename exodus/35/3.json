@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Ntimuzimurire umuriro mu mazu yanyu yose ku munsi wa Shabati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti–"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "muzimurire"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … yose"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mazu yanyu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    }
+  ],
+  "timestamp": "2026-09-07T09:16:14.705400375Z",
+  "model": "glm-5.3"
+}

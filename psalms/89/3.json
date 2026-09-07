@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Kuko naviutse hesedi izubakwa mu iteka; mu ijuru uzashyiraho neza ukwihangana kwawe muri byo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "naviutse"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "izubakwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "uzashyiraho neza"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukwihangana kwawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri byo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:32:48.355938119Z",
+  "model": "glm-5.3"
+}

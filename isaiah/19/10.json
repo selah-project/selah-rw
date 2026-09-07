@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze ibishingi byayo bizavunitse, abakora umushahara bose bafite ⟨umujinya⟩ mu nefeshi.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "maze bizaba"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ibishingi byayo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "bizavunitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "umushahara"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "⟨bafite umujinya⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mu nefeshi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:18.281111852Z",
+  "model": "glm-5.3"
+}

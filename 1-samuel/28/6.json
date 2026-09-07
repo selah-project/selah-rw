@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Shauli yabaze kwa Yahwe, ariko Yahwe ntacyo yamushubije — na mu ndoto, na mu Urimu, na mu nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yabaze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko…nti"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "yamushubije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "mu ndoto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "mu Urimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "mu nabi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:01.192313456Z",
+  "model": "glm-5.3"
+}

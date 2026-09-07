@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yahwe yarabwiye ndi uko: Ni byo birovuga neza, ibyo bavuze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ndi uko (kwerekeza kuri jye)"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "birovuga neza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bavuze"
+    }
+  ],
+  "timestamp": "2026-09-07T11:04:28.545390071Z",
+  "model": "glm-5.3"
+}

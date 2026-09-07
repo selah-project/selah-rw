@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Gevalu na Amoni na Amaleki, Plesheti hamwe n'abatuye Tsoiri.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gevalu"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "na Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "na Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Plesheti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "n'abatuye"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsoiri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.850149107Z",
+  "model": "glm-5.3"
+}

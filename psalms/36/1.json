@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ku mutoza ⟨umunyumuziki⟩, umugaragu wa Yahwe, Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutoza"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:00.776023688Z",
+  "model": "glm-5.3"
+}

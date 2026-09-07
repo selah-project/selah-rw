@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ntuzakwire mu bantu b'ibibi, kandi ntushake kuba ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "zakwire"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "b'ibibi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntu"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "shake"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abo bantu b'ibibi)"
+    }
+  ],
+  "timestamp": "2026-09-07T19:14:12.646523739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Abantu bose barajuye mu nzu ya Baali, bayihanaguye, na ⟨את⟩ ibicaniro byayo na ⟨את⟩ ibishusho byayo barabitsekatse, na ⟨את⟩ Matani kahenu wa Baali baramwese imbere y'ibicaniro.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "barajuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "bayihanaguye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibicaniro byayo"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "ibicaniro byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibishusho byayo"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "ibishusho byayo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "barabitsekatse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Matani"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Matani"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kahenu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "wa Baali"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "baramwese"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ibicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:58:37.172402854Z",
+  "model": "glm-5.3"
+}

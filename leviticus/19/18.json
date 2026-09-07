@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ntivunje, kandi ntugumane umujinya ⟨את⟩ abana b'abantu bawe; urakunde umugenzi wawe nk'uko uri wewe; ni njye Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ivunje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntu"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "gumane umujinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana b'abantu bawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "b'abantu bawe"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "urakunde"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "umugenzi wawe"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nk'uko uri wewe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:24.033472031Z",
+  "model": "glm-5.3"
+}

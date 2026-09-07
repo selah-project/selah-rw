@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Amabwiriza yawe yose ni ukuri; bansize ibinyoma — unkize.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ni ukuri"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "bansize"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "unkize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:01.462686130Z",
+  "model": "glm-5.3"
+}

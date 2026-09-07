@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ariko umwami ntiyumvise ku bantu, kuko uko kwihindura kwari kuva kwa Yahwe, kugira ngo asohoze ⟨את⟩ ijambo rye ryo Yahwe yavuze mu ntoko ya Achiya wa Shilo, kuri Yarovamu umwana wa Nevati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwari"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "uko kwihindura"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuva kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "asohoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo rye"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko ya"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "wa Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevati"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:07.019334180Z",
+  "model": "glm-5.3"
+}

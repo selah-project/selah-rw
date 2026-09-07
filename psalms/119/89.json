@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu iteka, Yahwe, ijambo ryawe rihagaze mu majuru.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Mu iteka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "rihagaze"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu majuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:10.386505302Z",
+  "model": "glm-5.3"
+}

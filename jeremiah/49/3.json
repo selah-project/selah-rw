@@ -1,0 +1,93 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "jeremiah 49:3",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 49,
+ "translation": "Kuka, Cheshuboni, ko Ayi yashenywe; ndirira, abakobwa ba Rabata, mfate saka, mugire agahinda, mwihutire kujya na kujya mu mpinga, ko umwami wabo (Malkamu) azajya mu buhungi, we n'abakohenu be n'abatware be hamwe.",
+ "tokens": [
+  {
+   "surface": "הילילי",
+   "gloss": "Kuka"
+  },
+  {
+   "surface": "חשבון",
+   "gloss": "Cheshuboni"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "שדדה",
+   "gloss": "yashenywe"
+  },
+  {
+   "surface": "עי",
+   "gloss": "Ayi"
+  },
+  {
+   "surface": "צעקנה",
+   "gloss": "ndirira"
+  },
+  {
+   "surface": "בנות",
+   "gloss": "abakobwa"
+  },
+  {
+   "surface": "רבה",
+   "gloss": "ba Rabata"
+  },
+  {
+   "surface": "חגרנה",
+   "gloss": "mfate"
+  },
+  {
+   "surface": "שקים",
+   "gloss": "saka"
+  },
+  {
+   "surface": "ספדנה",
+   "gloss": "mugire agahinda"
+  },
+  {
+   "surface": "והתשוטטנה",
+   "gloss": "mwihutire kujya na kujya"
+  },
+  {
+   "surface": "בגדרות",
+   "gloss": "mu mpinga"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "מלכם",
+   "gloss": "umwami wabo (Malkamu)"
+  },
+  {
+   "surface": "בגולה",
+   "gloss": "mu buhungi"
+  },
+  {
+   "surface": "ילך",
+   "gloss": "azajya"
+  },
+  {
+   "surface": "כהניו",
+   "gloss": "abakohenu be"
+  },
+  {
+   "surface": "ושריו",
+   "gloss": "n'abatware be"
+  },
+  {
+   "surface": "יחדיו",
+   "gloss": "hamwe"
+  }
+ ],
+ "timestamp": "2026-09-07T16:35:22.544304615Z",
+ "model": "glm-5.3"
+}

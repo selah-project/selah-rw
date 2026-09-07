@@ -1,0 +1,72 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "leviticus 14:24",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Kohenu azafata ⟨את⟩ intama igito y'igicaniro cy'agahombo na ⟨את⟩ loge y'amavuta, maze kohenu azazengurutsa ⟨את⟩ bo nk'igicaniro cyo kuzengurutsa, imbere ya Yahwe.",
+ "tokens": [
+  {
+   "surface": "ולקח",
+   "gloss": "azafata"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "Kohenu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "intama igito"
+  },
+  {
+   "surface": "כבש",
+   "gloss": "intama igito"
+  },
+  {
+   "surface": "האשם",
+   "gloss": "y'igicaniro cy'agahombo"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "loge"
+  },
+  {
+   "surface": "לג",
+   "gloss": "loge"
+  },
+  {
+   "surface": "השמן",
+   "gloss": "y'amavuta"
+  },
+  {
+   "surface": "והניף",
+   "gloss": "maze azazengurutsa"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "byombi (intama na loge)"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "תנופה",
+   "gloss": "nk'igicaniro cyo kuzengurutsa"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "ya Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:39:37.080362730Z",
+ "model": "glm-5.3"
+}

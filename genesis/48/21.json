@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yisraeli yabwiye Yosefu ati: Raba, jewe ngiye gupfa, ariko Elohimu azaba imfitemo, maze azagarura ⟨את⟩ mwe mu gihugu cy'ababyeyi banyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jewe"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ngiye gupfa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze azaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "imfitemo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "azagarura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "cy'ababyeyi banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:15.311758476Z",
+  "model": "glm-5.3"
+}

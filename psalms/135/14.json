@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Ko Yahwe azacira urubanza abantu be, maze ku bagaragu be YE YÄZAZA.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "azacira urubanza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "maze ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bagaragu be"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "YE YÄZAZA"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:24.947615737Z",
+  "model": "glm-5.3"
+}

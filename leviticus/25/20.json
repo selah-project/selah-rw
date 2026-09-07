@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi iyo muvuga ati: Iki tuzarya mu mwaka wa karindwi, dore nta dusera na nta tukusanya ⟨את⟩ imusaruro wacu?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "muvuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tuzarya"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "dore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tusera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "tukusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imusaruro wacu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "imusaruro wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:53.946858043Z",
+  "model": "glm-5.3"
+}

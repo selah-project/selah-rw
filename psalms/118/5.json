@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Mu gihombo nahamagaye Yah, maze Yah yansubije mu bugaragari.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "igihombo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahamagaye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yansubije"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "mu bugaragari"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:31.928135316Z",
+  "model": "glm-5.3"
+}

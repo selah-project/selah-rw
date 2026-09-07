@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kwa Yissakhari (Isakari), Netaneli mutwa wa Tsuari.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "kwa Yissakhari (Isakari)"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netaneli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mutwa wa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuari"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:32.474811489Z",
+  "model": "glm-5.3"
+}

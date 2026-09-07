@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Shauli yarungitse kwa Yishayi ati: Ndagsaba ko Dawidi yahagara imbere yanjye, kuko yabonye urukundo mu maso yanjye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarungitse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יִשַׁי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yahagare"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagsaba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "חן",
+      "gloss": "urukundo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:34:27.165141634Z",
+  "model": "glm-5.3"
+}

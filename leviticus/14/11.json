@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu uwereza arahagarikiza ⟨את⟩ umuntu werezwaga na ⟨את⟩ ibyo byose imbere ya Yahwe, ku muryango w'ihema ry'ihuriro.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "arahagarikiza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "uwereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu werezwaga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "werezwaga"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyo byose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:24.604997507Z",
+  "model": "glm-5.3"
+}

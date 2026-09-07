@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ese igihe kuri mwe, mwe ubwanyu, kubahana mu nzu zanyu zipanzuye ⟨amabati⟩, nuri iyi nzu iri umuswa?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kubahana"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "mu nzu zanyu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "zipanzuye"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "nuri iyi nzu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "iri umuswa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:53:19.385368842Z",
+  "model": "glm-5.3"
+}

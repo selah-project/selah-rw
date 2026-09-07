@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Na ⟨את⟩ iya kabiri ayigira igitambo cy'urusengano uko amategeko abitegeka, maze kohenu amukizwaho icyaha yakoze, maze bamubabarira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iya kabiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iya kabiri"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ayigira"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "igitambo cy'urusengano"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "uko amategeko abitegeka"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "maze amukizwaho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "icyaha ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "maze bamubabarira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:55.452333583Z",
+  "model": "glm-5.3"
+}

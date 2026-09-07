@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Mu iminsi iyo no mu gihe icyo, Yahwe agira ati: abana ba Yisraeli bazaza, bo n'abana ba Yehuda hamwe, bagenda barira bazagenda, na ⟨את⟩ Yahwe Elohimu wabo bazashakisha.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mu iminsi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "no mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazaza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "n'abana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "barira"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazagenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahwe Elohimu wabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "bazashakisha"
+    }
+  ],
+  "timestamp": "2026-09-07T16:34:24.783313730Z",
+  "model": "glm-5.3"
+}

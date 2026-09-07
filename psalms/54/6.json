@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Reba, Elohimu ⟨ni⟩ umufasha wanjye; Adonayi ari kumwe n'abaterura nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umufasha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ari kumwe n'abaterura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:25.872982285Z",
+  "model": "glm-5.3"
+}

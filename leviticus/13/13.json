@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kohenu arareba, maze rumwe: tsaraati yigingiye ⟨את⟩ umubiri we wose — kohenu aratangaza ⟨את⟩ umurwayi ko ari weko: wose wahindutse umweru, ni weko.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "arareba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze rumwe"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "yigingiye"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri we wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umubiri we"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "aratangaza ko ari weko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurwayi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "umurwayi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wose"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "wahindutse"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "umweru"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ari weko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:03.308722505Z",
+  "model": "glm-5.3"
+}

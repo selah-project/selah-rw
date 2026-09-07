@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Nk'impala ihumeka ihaha ku matafari y'amazi, ni ko Nefeshi yanjye ihumeka ihaha iri kuri wowe, Elohimu.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "nk'impala"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ihumeka ihaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "matafari y'"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ihumeka ihaha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iri kuri wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:58.200469826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Maze igihe Yitsaki yagiranye umugisha arangiza kwagira umugisha ⟨את⟩ Yaakovu, maze Yaakovu ari uko avuye mu ⟨את⟩ imbeire ya Yitsaki se, Esavu musaza we aza ivuye mu guhiga we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze igihe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "arangiza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kwagira umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ari uko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ukuvamo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "aravuye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mu ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbeire"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ya Yitsaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "musaza we"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "ivuye mu guhiga we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:01:14.828252689Z",
+  "model": "glm-5.3"
+}

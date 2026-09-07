@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yakoze ⟨את⟩ urwunge; ku ruhande rw'amajyepfo, mu majyepfo, amashami y'urwunge ⟨yari⟩ idosiye y'umweru y'urudodo rufumbye, ijana ku bibe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwunge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "urwunge"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "rw'amajyepfo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mu majyepfo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "amashami"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "y'urwunge"
+    },
+    {
+      "surface": "שש",
+      "gloss": "idosiye y'umweru"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "y'urudodo rufumbye"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ku bibe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:52.211994942Z",
+  "model": "glm-5.3"
+}

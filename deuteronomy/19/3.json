@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Utegure ubwawe inzira, maze ugabanyemo ibice bitatu ⟨את⟩ umupaka w'ubutaka bwawe Yahwe Elohimu wawe baguhesha; abyo kandi bizaba ubuhungiro uwicanyi wese ajyayo.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Utegure"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "maze ugabanyemo ibice bitatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupaka w'ubutaka bwawe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umupaka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "w'ubutaka bwawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "baguhesha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ubuhungiro"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ajyayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "uwicanyi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:05:34.474060677Z",
+  "model": "glm-5.3"
+}

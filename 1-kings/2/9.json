@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "None ubu ntukamuhe ko ari umutse; kuko uri umuntu w'ubwenge, kandi uzamenya ⟨את⟩ ibyo uzamukoreraho ye, maze uzamanurira ⟨את⟩ umutwe we w'umweru mu maraso mu Sheoli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "kamuhe ko ari umutse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "kandi uzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzamukoreraho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "maze uzamanurira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe we w'umweru"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "umutwe we w'umweru"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:11.708224043Z",
+  "model": "glm-5.3"
+}

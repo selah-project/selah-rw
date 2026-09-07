@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze uzashyire ⟨את⟩ Abalevi imbere y'ihema ry'igunganiro, maze uzakoranye ⟨את⟩ ishengurwa ryose ry'abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abalevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'igunganiro"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "uzakoranye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishengurwa ryose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ishengurwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:07:45.011179145Z",
+  "model": "glm-5.3"
+}

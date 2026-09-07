@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Maze uwo muringa yawukoreshwaho: yakoze ⟨את⟩ ibisingizi by'umuryango w'Ihema ry'Iteraniro, na ⟨את⟩ igicaniro cy'umuringa, na ⟨את⟩ urusenge rw'umuringa rwari iryo, na ⟨את⟩ ibikoresho byose by'igicaniro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "maze yakoze"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uwo muringa yawukoreshwaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibisingizi by'umuryango w'Ihema ry'Iteraniro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ibisingizi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by'umuryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "w'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'iteraniro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igicaniro cy'umuringa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cy'umuringa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urusenge rw'umuringa"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "urusenge"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "rw'umuringa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rwari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byose by'igicaniro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "by'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:04.277582359Z",
+  "model": "glm-5.3"
+}

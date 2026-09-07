@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "⟨את⟩ ibishyimbo bya Mishikani, na ⟨את⟩ ibishyimbo by'urubariro, na ⟨את⟩ imigozi yabyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibishyimbo bya Mishikani"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ibishyimbo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibishyimbo by'urubariro"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ibishyimbo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "urubariro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigozi yabyo"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "imigozi yabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:40.917499863Z",
+  "model": "glm-5.3"
+}

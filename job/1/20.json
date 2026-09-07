@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nuko Iyobu azuka, acana ⟨את⟩ imyambaro ye, agucisha ⟨את⟩ umutwe we, agwa hasi arafukama.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "azuka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "acana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ye"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "agucisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe we"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "arafukama"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:35.655345051Z",
+  "model": "glm-5.3"
+}

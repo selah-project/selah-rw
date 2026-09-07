@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "psalms 37:22",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 37,
+ "translation": "Koko, abahawe impundu n'iwe barazunguruka isi; naho abahawe umuvumo n'iwe baracibwaho.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "koko"
+  },
+  {
+   "surface": "מברכיו",
+   "gloss": "abahawe impundu n'iwe"
+  },
+  {
+   "surface": "יירשו",
+   "gloss": "barazunguruka"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "ומקלליו",
+   "gloss": "abahawe umuvumo n'iwe"
+  },
+  {
+   "surface": "יכרתו",
+   "gloss": "baracibwaho"
+  }
+ ],
+ "timestamp": "2026-09-07T18:18:30.573809357Z",
+ "model": "glm-5.3"
+}

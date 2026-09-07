@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 82:8",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 82,
+ "translation": "Zulutuma, Elohimu, zimbe urubanza isi; koko ni wowe uzazunguza amahanga yose.",
+ "tokens": [
+  {
+   "surface": "קומה",
+   "gloss": "Zulutuma"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "שפטה",
+   "gloss": "zimbe urubanze"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "כי",
+   "gloss": "koko"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "ni wowe"
+  },
+  {
+   "surface": "תנחל",
+   "gloss": "uzazunguza"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "ose"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "amahanga"
+  }
+ ],
+ "timestamp": "2026-09-07T22:41:52.888704146Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nuko azaniye ⟨את⟩ impano Eglonu, umwami wa Moavu; na Eglonu ⟨ni⟩ umuntu munini cyane.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "azaniye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impano"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Eglonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moavu"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "na Eglonu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "munini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T11:50:49.912326264Z",
+  "model": "glm-5.3"
+}

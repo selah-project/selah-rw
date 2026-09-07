@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Zevulunu nti yabirukanye ⟨את⟩ abaturiye ba Kitroni na ⟨את⟩ abaturiye ba Nahaloli; maze umukenaani atura muri bo, maze bahinduka abaha igitero.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulunu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "yabirukanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaturiye ba Kitroni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abaturiye"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "ba Kitroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaturiye ba Nahaloli"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abaturiye"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ba Nahaloli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maze atura"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umukenaani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze bahinduka"
+    },
+    {
+      "surface": "למס",
+      "gloss": "abaha igitero"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:46.841579292Z",
+  "model": "glm-5.3"
+}

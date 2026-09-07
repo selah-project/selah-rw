@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Nimurire Yahwe indirimbo nshya, nimurire Yahwe, isi yose.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nimurire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nshya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nimurire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:11.451963969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nuko umusore amufata, amujyana kwa nyina, umwana iyegamira kuivabo kugeza saa tatu, arapfa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "amufata (amutwara)"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "amujyana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "iyegamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ivabo rye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "saa tatu (imporeshyi)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:07:26.616229818Z",
+  "model": "glm-5.3"
+}

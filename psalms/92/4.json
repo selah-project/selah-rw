@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Ku igitanganishi cy'imitonzi cumi, no ku inanga nini, ku ijwi ryerireye ry'umuziki, hamwe n'inanga nto.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "igitanganishi cy'imitonzi cumi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "inanga nini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ijwi ryerireye ry'umuziki"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "hamwe n'inanga nto"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:57.996533627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yarasatuye na ⟨את⟩ umunara wa Penuweli, hanyuma yica ⟨את⟩ abagabo b'umujyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umunara wa Penuweli"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "umunara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "wa Penuweli"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yarasatuye"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "hanyuma yica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo b'umujyi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "b'umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:57:32.485057473Z",
+  "model": "glm-5.3"
+}

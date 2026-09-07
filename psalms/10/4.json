@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umwangizi, ku bwinshi bw'umurima we, ntashakisha ⟨ati⟩; mu mahige ye yose nta Elohimu ⟨ariho⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "umwangizi"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ku bwinshi bw'"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "umurima we"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ashakisha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mu mahige ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:00.289806110Z",
+  "model": "glm-5.3"
+}

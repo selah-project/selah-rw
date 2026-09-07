@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Munatagatifu kuri njye uwa mbere ugurutse mu nda mu bana ba Yisraeli, mu muntu no mu matungo — ni iyanjye.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Munatagatifu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨buri⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "uwa mbere"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ugurutse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨buri⟩"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mu bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "no mu matungo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni iyanjye ⟨kuri njye⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ iyanjuye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:14.758022706Z",
+  "model": "glm-5.3"
+}

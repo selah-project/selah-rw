@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Mu ijambo rya Yahwe ijuru ryaremewe, maze umwuka w'akanwa ke waremeho ingabo zabo zose.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Mu ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ryaremewe"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "maze umwuka"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "w'akanwa ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ingabo zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:20.611758855Z",
+  "model": "glm-5.3"
+}

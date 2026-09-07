@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "leviticus 14:23",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Maze ku munsi wa munani, ku butakuzi bwe, azazana ⟨את⟩ bo kwa kohenu, ku muryango w'ihema ryo guhuriraho, imbere ya Yahwe.",
+ "tokens": [
+  {
+   "surface": "והביא",
+   "gloss": "Maze azazana"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibyo magicaniro"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "השמיני",
+   "gloss": "wa munani"
+  },
+  {
+   "surface": "לטהרתו",
+   "gloss": "ku butakuzi bwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kwa"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "פתח",
+   "gloss": "muryango"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "w'ihema"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "ryo guhuriraho"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "ya Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:39:37.080151443Z",
+ "model": "glm-5.3"
+}

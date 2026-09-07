@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Uko ibyiza byawe ari byinshi, uwo wabungeje abatinya wawe, wakoze abahungiye muri wowe, imbere y'abantu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ibyiza byawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "wabungeje"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "abatinya wawe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "abahungiye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'aba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "antu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:42.641553456Z",
+  "model": "glm-5.3"
+}

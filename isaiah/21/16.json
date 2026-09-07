@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko gutya Adonayi yabwiye kuri njye ati: mu mwaka umwe, nk'imyaka y'umukozi w'umushahara, icyubahiro cyose cya Kedari kizashira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "mu gihe cya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umwaka umwe"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "nk'imyaka"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "y'umukozi w'umushahara"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kizashira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "cya Kedari"
+    }
+  ],
+  "timestamp": "2026-09-07T14:53:18.256853806Z",
+  "model": "glm-5.3"
+}

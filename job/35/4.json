@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Njye nzakwisubiza amagambo, na ⟨את⟩ inshuti zawe hamwe nawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "nzakwisubiza"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inshuti zawe"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "inshuti zawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:37:01.514065272Z",
+  "model": "glm-5.3"
+}

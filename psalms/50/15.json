@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Unhamagare ku munsi w'isogongero; nzagukiza, kandi uzanshimiriza.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Unhamagare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "w'isogongero"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "nzagukiza"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "uzanshimiriza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:50.982448120Z",
+  "model": "glm-5.3"
+}

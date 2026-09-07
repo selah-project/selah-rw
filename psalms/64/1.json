@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Ku munozi w'indirimbo, indirimbo ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku munozi w'indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.611812266Z",
+  "model": "glm-5.3"
+}

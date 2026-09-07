@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Ntimuzamure amanyozi yanyu hejuru; ntimuvuge n'umongo w'ubwibone.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ntimuzamure"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "amanyozi yanyu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ntimuvuge"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "n'umongo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ubwibone"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:49.596852725Z",
+  "model": "glm-5.3"
+}

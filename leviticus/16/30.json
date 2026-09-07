@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kuri uyu munsi azarukirira kuri mwe, ayasukure ⟨את⟩ mwe ku byaha byanyu byose; imbere ya Yahwe muzasukurwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "azarukirira"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ayasukure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ku byaha"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "byanyu byose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "muzasukurwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:10.687741493Z",
+  "model": "glm-5.3"
+}

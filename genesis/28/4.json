@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "genesis 28:4",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 28,
+ "translation": "Aguhe ⟨את⟩ umugisha w'Avrahamu — iawe n'urubyaro rwawe ruri ⟨את⟩ wowe — kugira ngo ufate ⟨את⟩ igihugu cyo utuyemo nka munyamahanga, Elohimu yahaye Avrahamu.",
+ "tokens": [
+  {
+   "surface": "ויתן",
+   "gloss": "araguhe"
+  },
+  {
+   "surface": "לך",
+   "gloss": "iawe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umugisha w'Avrahamu"
+  },
+  {
+   "surface": "ברכת",
+   "gloss": "umugisha w'"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Avrahamu"
+  },
+  {
+   "surface": "לך",
+   "gloss": "iawe"
+  },
+  {
+   "surface": "ולזרעך",
+   "gloss": "n'urubyaro rwawe"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "⟨את⟩ wowe kumwe"
+  },
+  {
+   "surface": "לרשתך",
+   "gloss": "kugira ngo ufate"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "igihugu"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "igihugu"
+  },
+  {
+   "surface": "מגריך",
+   "gloss": "cyo utuyemo nka munyamahanga"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "נתן",
+   "gloss": "yahaye"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "לאברהם",
+   "gloss": "Avrahamu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:03:38.483825071Z",
+ "model": "glm-5.3"
+}

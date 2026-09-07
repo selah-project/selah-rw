@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze Yahwe Elohimu wawe azakugarura mu buhoro ⟨את⟩ ubhoro bwawe, araguhebura, maze agasubira agakuzanira mu mahanga yose Yahwe Elohimu wawe watanyije ho.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "azakugarura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubhoro bwawe"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "ubhoro bwawe"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "araguhebura"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "agasubira"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "agakuzanira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mahanga yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "watanyije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-07T11:16:11.005786781Z",
+  "model": "glm-5.3"
+}

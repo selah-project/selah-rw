@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kohenu raramure, maze agahere ko ikiza yahindutse icyera; kohenu arayatura ⟨את⟩ ikiza — irasukuye.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "raramure"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze agahere ko"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ikiza"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "icyera"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "arayatura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikiza"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ikiza"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "irasukuye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni yo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:29.762297362Z",
+  "model": "glm-5.3"
+}

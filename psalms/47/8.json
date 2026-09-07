@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Koko umwami w'isi yose ⟨ni⟩ Elohimu; muririmba neza ⟨cy'ubwenge⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "w'isi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muririmba"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "neza cy'ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:49.817982291Z",
+  "model": "glm-5.3"
+}

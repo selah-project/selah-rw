@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Aravuze ati: Jye nzohereza urubyara rw'ihene mu rwungo rw'ihene. Na we aravuze ati: Niba utanga ikimenyetso, kugeza uhohereje?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuze"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jye"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "urubyara"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "rw'ihene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "rwungo rw'ihene"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Na we aravuze"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "uhohereje"
+    }
+  ],
+  "timestamp": "2026-09-07T08:17:38.179200837Z",
+  "model": "glm-5.3"
+}

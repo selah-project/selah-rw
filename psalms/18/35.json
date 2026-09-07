@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Urera amaboko yanjye amahanga y'urugamba, umutahe w'umuringa ukagabanukira mu maboko yanjye.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Urera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "amaboko yanjye"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "amahanga y'urugamba"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ukagabanukira"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umutahe"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "w'umuringa"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mu maboko yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:58.790176993Z",
+  "model": "glm-5.3"
+}

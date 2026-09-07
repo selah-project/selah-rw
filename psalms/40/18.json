@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ari njye, umukene n'umutindi — Adonayi arayibuka ⟨iby'umuntu wanjye⟩: wowe ⟨ni⟩ umurwanishyo wanjye n'umukiza wanjye; Elohimu wanjye, ntutinde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ari njye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umutindi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "arayibuka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨iby'umuntu wanjye⟩"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "umurwanishyo wanjye"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "n'umukiza wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tinde"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:17.693010681Z",
+  "model": "glm-5.3"
+}

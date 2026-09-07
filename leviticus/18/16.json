@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Isi y'umugore wa murumuna wawe ntuyigaragaze: ni isi ya murumuna wawe we.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wa murumuna wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "yigaragaze"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya murumuna wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:05.949514572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "n'⟨את⟩ Kedemoti n'⟨את⟩ imbuga zayo, n'⟨את⟩ Mefaati n'⟨את⟩ imbuga zayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "Kedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "imbuga zayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imbuga zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "Mefaati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "imbuga zayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imbuga zayo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:34:09.601426240Z",
+  "model": "glm-5.3"
+}

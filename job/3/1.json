@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nyuma y'ibyo Iyovu yafunguye ⟨את⟩ akanjye, akan Ruviza ⟨את⟩ umunsi we.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Nyuma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y'ibyo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yafunguye"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akanjye"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "akanjye"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "akan Ruviza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi we"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "umunsi we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:18:41.888707812Z",
+  "model": "glm-5.3"
+}

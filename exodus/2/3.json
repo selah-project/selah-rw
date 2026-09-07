@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ariko igihe atacyashoboye kongera kumwibika, yafata iwe igitebo cy'ibyatsi bya papyurusi, cyavuriwemo ivumu n'ivura, maze ashira muri cyo ⟨את⟩ umwana, akanashyira mu byatsi ngari ku rubibi rw'uruzi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ntacyashoboye"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ashoboye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kongera"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "kumwibika"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "igitebo"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "cy'ibyatsi bya papyurusi"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "cyavuriwemo"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ivumu"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "n'ivura"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akanashyira"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "mu byatsi ngari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rubibi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rw'uruzi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:38.250105521Z",
+  "model": "glm-5.3"
+}

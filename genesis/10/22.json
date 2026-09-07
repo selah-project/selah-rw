@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abana ba Shemi ⟨ni⟩ aba: Elamu, Ashuru, Arufakashadi, Ludi, na Aramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elamu"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arufakashadi"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "Ludi"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "na Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:39.163695933Z",
+  "model": "glm-5.3"
+}

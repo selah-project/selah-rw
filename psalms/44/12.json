@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Utudutanze nk'intama z'ibiryo, mu mahanga wasanzuye.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "utudutanze"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "nk'intama"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "z'ibiryo"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "wasanzuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:38.765960792Z",
+  "model": "glm-5.3"
+}

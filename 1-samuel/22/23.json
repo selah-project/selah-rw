@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Guma ⟨את⟩ iwanjye, ntutinye; kuko uwo ashaka ⟨את⟩ ubuzima bwanjye azashaka ⟨את⟩ ubuzima bwawe; kuko uri umurinzi iwanjye.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Guma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iwanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ashaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima bwanjye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "azashaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima bwawe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ubuzima bwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:49.618345040Z",
+  "model": "glm-5.3"
+}

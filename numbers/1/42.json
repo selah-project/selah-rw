@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abahungu ba Nafutali, amasekurura yabo, ku muryango wabo, ku nzu y'ababyeyi babo, mu ibaruro rw'amazina, kuva wamenye amaze imyaka makumi abiri hejuru, wese ujya mu ngabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Nafutali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "amasekurura yabo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nzu ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ababyeyi babo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "mu ibaruro rwa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuva wamenye amaze"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi abiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ujya"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mu ngabo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:32.998274340Z",
+  "model": "glm-5.3"
+}

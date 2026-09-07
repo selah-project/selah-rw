@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Ni nde nka Yahwe Elohimu wacu, we uzamuye ubwawe hejuru kugira ⟨yicare⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "nka Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "uzamuye ubwawe hejuru"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugira yicare"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:42.043936027Z",
+  "model": "glm-5.3"
+}

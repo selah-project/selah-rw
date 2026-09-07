@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 1:7",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Abahungu ba Yisraeli (Isirayeli) baravutse bakwirenga, biyongereye, bakomeye cyane cyane; maze isi yuzuye ⟨את⟩ bo.",
+ "tokens": [
+  {
+   "surface": "ובני",
+   "gloss": "abahungu ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "פרו",
+   "gloss": "baravutse"
+  },
+  {
+   "surface": "וישרצו",
+   "gloss": "bakwirenga"
+  },
+  {
+   "surface": "וירבו",
+   "gloss": "biyongereye"
+  },
+  {
+   "surface": "ויעצמו",
+   "gloss": "bakomeye"
+  },
+  {
+   "surface": "במאד",
+   "gloss": "cyane"
+  },
+  {
+   "surface": "מאד",
+   "gloss": "cyane"
+  },
+  {
+   "surface": "ותמלא",
+   "gloss": "yuzuye"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "abahungu ba Yisraeli"
+  }
+ ],
+ "timestamp": "2026-09-07T08:31:46.855834219Z",
+ "model": "glm-5.3"
+}

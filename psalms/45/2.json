@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Umutima wanjye warungikitse ijambo ryiza; njye ndi mbwira ibikorwa byanjye ku mwami; ururimi rwanjye ⟨ni⟩ ikalamu y'uwanditsi wihuta.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "warungikitse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ryiza"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndi mbwira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ibikorwa byanjye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku mwami"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ururimi rwanjye"
+    },
+    {
+      "surface": "עט",
+      "gloss": "ikalamu"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "y'uwanditsi"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "wihuta"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:23.438578379Z",
+  "model": "glm-5.3"
+}

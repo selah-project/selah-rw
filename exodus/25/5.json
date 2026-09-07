@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "n'amahu y'intama z'ingabo zisa ⟨umutuku⟩, n'amahu ya tahashi ⟨ibicucu: inkwavu?⟩, n'ibiti bya shitimu ⟨acacia⟩,",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "n'amahu"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "y'intama z'ingabo (impene)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zisa umutuku"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "n'amahu"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ya tahashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "n'ibiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bya shitimu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:03.815583121Z",
+  "model": "glm-5.3"
+}

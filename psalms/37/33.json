@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yahwe ntaramureka mu ntoki ze, kandi ntaramucira ikijo igihe imanza ze zirwanirizwaho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ntaramureka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ntaramucira ikijo"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "igihe imanzi ze zirwanirizwaho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:28.278139532Z",
+  "model": "glm-5.3"
+}

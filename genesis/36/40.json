@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ubu raba izina ry'abatware b'Esavu, mu muryango wabo, mu ntara zabo, mu izina ryabo: umutware Timnaa, umutware Alvahu, umutware Yetetu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ubu raba"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "abatware b'"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mu muryango wabo"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "mu ntara zabo"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "mu izina ryabo"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timnaa"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alvahu"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetetu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:56.615796266Z",
+  "model": "glm-5.3"
+}

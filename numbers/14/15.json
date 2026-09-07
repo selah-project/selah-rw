@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Urica ⟨את⟩ abantu aba nk'umuntu umwe, maze amahanga yarumvise ⟨את⟩ urumvirwa rwawe azavuga biti:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "urica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "nk'umuntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "yarumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urumvirwa rwawe"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "urumvirwa rwawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "biti"
+    }
+  ],
+  "timestamp": "2026-09-07T10:14:43.907127653Z",
+  "model": "glm-5.3"
+}

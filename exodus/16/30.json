@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nuko abantu baruhukiye ku wa karindwi.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "baruhukiye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku wa"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "karindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:08.596694860Z",
+  "model": "glm-5.3"
+}

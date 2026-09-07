@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Namubwiye nti: Amatsi menshi uzatumbera kuri njye; ntuzazenguruke, kandi ntuzaba uw'umugabo; nanjye njye ⟨ni⟩ kuri wowe ⟨ndimo⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "namubwiye"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "uzatumbera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "uzazenguruke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "uw'umugabo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi nanjye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:31.659182773Z",
+  "model": "glm-5.3"
+}

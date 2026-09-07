@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Muri Elohimu nizeye; ntitinya icyo umuntu yakora iwanjye.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Muri Elohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tinya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:57.142649446Z",
+  "model": "glm-5.3"
+}

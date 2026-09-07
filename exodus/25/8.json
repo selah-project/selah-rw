@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze bakore iwajye iryumba ritagatifu, kandi njye ndature muri bo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "bakore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwajye"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "iryumba ritagatifu"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "kandi njye ndature"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "muri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:03.816236539Z",
+  "model": "glm-5.3"
+}

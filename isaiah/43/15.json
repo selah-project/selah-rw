@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Ni jye Yahwe, Mutagatifu wanyu, urema Yisraeli, umwami wanyu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ni jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Mutagatifu wanyu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "urema"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "umwami wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:16:15.431622153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ariko niba atagura ⟨את⟩ umurima, cyangwa niba yagurishije ⟨את⟩ umurima umuntu wandi, ntibizongera ⟨na rimwe⟩ kugurwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko niba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "atagura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa niba"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "yagurishije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "bizongera kugurwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨na rimwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:32.377542859Z",
+  "model": "glm-5.3"
+}

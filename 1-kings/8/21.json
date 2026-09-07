@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nashyize aho ahantu ha Aroni, aho hari beriti ya Yahwe, iyo Yahwe yanagije n'abakurambere bacu, mu gihe yabohoraga ⟨את⟩ bo mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ha Aroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yanagije"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "mu gihe cyo kubohora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (abakurambere bacu)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:43:14.671455493Z",
+  "model": "glm-5.3"
+}

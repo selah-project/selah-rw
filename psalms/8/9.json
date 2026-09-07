@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "inyoni z'ijuru n'amafi y'inyanja, n'ibihindukira inzira z'inyanja.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "n'amafi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "y'inyanja"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ibihindukira"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "z'inyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:22.088834909Z",
+  "model": "glm-5.3"
+}

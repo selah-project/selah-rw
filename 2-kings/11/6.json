@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "n'igice cya gatatu ku muryango wa Suri, n'igice cya gatatu ku muryango iya nyuma y'abarwanzi; muzatware ⟨את⟩ umurinzi w'inzu, mube ⟨urukinga⟩.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "n'igice cya gatatu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "סור",
+      "gloss": "wa Suri"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "n'igice cya gatatu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iya nyuma"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "y'abarwanzi"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "muzatware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurinzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "urukinga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:02.610337469Z",
+  "model": "glm-5.3"
+}

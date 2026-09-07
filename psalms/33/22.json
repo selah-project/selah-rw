@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Ube hesedi yawe, Yahwe, turiho, uko twategereje Wewe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ube"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "turiho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "twategereje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:31.193455845Z",
+  "model": "glm-5.3"
+}

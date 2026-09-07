@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ntutange irari ku maso yawe, na kuryaryira ku bihimba by'amaso yawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tange"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "irari"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ku maso yawe"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "na kuryaryira"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ku bihimba by'amaso yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:38.073477933Z",
+  "model": "glm-5.3"
+}

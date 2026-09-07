@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "kuko iyo ifeza bahererezaga abakora akazi, bakayikoresha bakomeza ⟨את⟩ inzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "bahererezaga"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "bakomeza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bakayikoresha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:19:17.418785816Z",
+  "model": "glm-5.3"
+}

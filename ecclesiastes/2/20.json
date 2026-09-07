@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ncyuriye jyewe kunanirisha ⟨את⟩ umutima wanjye ku murimo wose nahangariye munsi y'izuba.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ncyuriye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kunanirisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wanjye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nahangariye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:11.501942127Z",
+  "model": "glm-5.3"
+}

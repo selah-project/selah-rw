@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Isi yigize, ijuru na ryo ryatse ibyondo imbere y'Elohimu — uyu ni Sinayi — imbere y'Elohimu, Elohimu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "yigize"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na ryo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ryatse ibyondo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu ni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:14.517813377Z",
+  "model": "glm-5.3"
+}

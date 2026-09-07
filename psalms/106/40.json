@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Maze umujinya wa Yahwe waragiye ku bantu be, akanenza ⟨את⟩ umurage we.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Maze waragiye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "umujinya wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ku bantu be"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "akanenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage we"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "umurage we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:23.699944548Z",
+  "model": "glm-5.3"
+}

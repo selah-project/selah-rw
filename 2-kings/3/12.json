@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yehoshafatu yaravuze ati: Ijambo rya Yahwe riri kuri we ⟨את⟩. Umwami wa Yisraeli, Yehoshafatu, n'umwami wa Edomu bamanutse kuri we.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafatu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "riri"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo rya Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "bamanutse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafatu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "n'umwami wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:05:28.900504125Z",
+  "model": "glm-5.3"
+}

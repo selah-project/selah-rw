@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mordokayi abwira ⟨את⟩ ibyebyuye byose, na ⟨את⟩ ingano y'ifeza Hamani yavuze ko yashyira mu bubiko bw'umwami ku b'Abayahudi, ngo bazimuzwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyebyuye byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "byebyuye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingano y'ifeza"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "ingano"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yagize"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ko yashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "bubiko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bw'umwami"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ku b'Abayahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ngo bazimuzwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:23.948105126Z",
+  "model": "glm-5.3"
+}

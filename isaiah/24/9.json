@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Mu kuririmba ntibanywa divayi; ibinyobwa by'urwangote birababanya abanywi byo.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "mu kuririmba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "banywa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divayi"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "birababanya"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ibinyobwa by'urwangote"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "abanywi byo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:31:50.603845750Z",
+  "model": "glm-5.3"
+}

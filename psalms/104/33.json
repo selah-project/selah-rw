@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Nziririmba Yahwe mu buzima bwanjye; ndaza ⟨inanga⟩ kuri Elohimu wanjye gihe ngiheho.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "nziririmba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mu buzima bwanjye"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndaza ⟨inanga⟩"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuri Elohimu wanjye"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "gihe ngiheho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:43.804195231Z",
+  "model": "glm-5.3"
+}

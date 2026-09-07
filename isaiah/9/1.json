@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Abantu bagendaga mu mwijima babonye urumuri rukomeye; abatuye mu gihugu cy'urwijima rw'urupfu, urumuri rwaragaye heju yabo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "bagendaga"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rukomeye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "cy'urwijima rw'urupfu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "rwaragaye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heju yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:23.149415433Z",
+  "model": "glm-5.3"
+}

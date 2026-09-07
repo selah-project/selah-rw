@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 16:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Abana ba Yisraeli baravuze ku bo bati: Iyaba nde yatanga twapfuye mu ntoki za Yahwe mu gihugu cya Mitsrayimu (Egiputa), mu gihe twicaye ku nkono z'inyama, tukarya umugati kugeza turi kumwe! Kuko mwatwaneye ⟨את⟩ twe mu butayu ubu, ngo mwice ⟨את⟩ uruhare rwose uru mu nzara.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "iyaba yatanga"
+    },
+    {
+      "surface": "מותנו",
+      "gloss": "twapfuye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בשבתנו",
+      "gloss": "mu gihe twicaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "nkono za"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "באכלנו",
+      "gloss": "tukarya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kugeza turi kumwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוצאתם",
+      "gloss": "mwatwaneye"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "twe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ngo mwice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhare rwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "uruhare"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "mu nzara"
+    }
+  ],
+  "timestamp": "2026-09-07T08:51:35.907670130Z",
+  "model": "glm-5.3"
+}

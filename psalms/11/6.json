@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ku bwangavu aratumisha ibyansi, umuriro n'ibyuya, n'umuyaga w'ubukaze; izo ni imigabane y'ikirahuri cyabo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "aratumisha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bwangavu"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ibyansi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "n'ibyuya"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "n'umuyaga"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "w'ubukaze"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "imigabane"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "y'ikirahuri cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:01.213040109Z",
+  "model": "glm-5.3"
+}

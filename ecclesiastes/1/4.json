@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Isekuruza igienda, n'isekuruza iza; ariko isi ihamye mu iteka.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Isekuruza"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "igienda"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "n'isekuruza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iza"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ariko isi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ihamye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:40.807720867Z",
+  "model": "glm-5.3"
+}

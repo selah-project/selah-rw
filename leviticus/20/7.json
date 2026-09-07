@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Mwiyereze, mukabe abatagatifu, kuko jye ndi Yahwe Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "mwiyereze"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mukabe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "abatagatifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:47:30.667786761Z",
+  "model": "glm-5.3"
+}

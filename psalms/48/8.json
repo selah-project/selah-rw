@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "N'umuyaga uva mu burasirazuba wohunikanyaga amacombo ya Tarshishi.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "N'umuyaga"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "uva mu burasirazuba"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "wohunikanyaga"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "amacombo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ya Tarshishi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:26.368407851Z",
+  "model": "glm-5.3"
+}

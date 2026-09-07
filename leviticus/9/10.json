@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ ibinure,na ⟨את⟩ impyiko,na ⟨את⟩ urubabi rw'igikuma,byavuye mu icumu rya cyaha,yako­tseje ku icyumba gitagatifu,uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urubabi rw'igikuma"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "urubabi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "byavuye mu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "igikuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ryo mu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "icumu rya cyaha"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "yako­komye"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku icyumba gitagatifu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:09.628656398Z",
+  "model": "glm-5.3"
+}

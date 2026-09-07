@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe aravuze ati: Ntushobora kureba ⟨את⟩ uburanga bwanjye, kuko nta muntu ureba ndetse akomeza kubaho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ushobora"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburanga bwanjye"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburanga bwanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ureba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "akomeza kubaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:15:02.247337413Z",
+  "model": "glm-5.3"
+}

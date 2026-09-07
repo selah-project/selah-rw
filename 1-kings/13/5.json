@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze igicaniro cyacibwa, maze amakoroyi atsakirwa kuva ku igicaniro, nk'icyemezo umuntu wa Elohimu yahaye mu ijwi rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "cyacibwa"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "atsakirwa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "amakoroyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "nk'icyemezo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohimu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:57.517836920Z",
+  "model": "glm-5.3"
+}

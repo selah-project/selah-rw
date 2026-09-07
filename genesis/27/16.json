@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi amahu y'ibihanga by'impene yashyiriye ⟨?⟩ ku maboko ye no ku ruhurutse rw'ijosi rye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amahu y'ibihanga by'impene"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "amahu"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "y'ibihanga"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "by'impene"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "yashyiriye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maboko ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ruhurutse"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ijosi rye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:34.763504119Z",
+  "model": "glm-5.3"
+}

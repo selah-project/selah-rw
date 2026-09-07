@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Aya ni abahungu ba Giladi: kwa Iezeri, umuryango wa bwa Iezeri; kwa Kheleki, umuryango wa bwa Kheleki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "Iezeri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "wa bwa Iezeri"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "kwa Kheleki"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "wa bwa Kheleki"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:05.511184926Z",
+  "model": "glm-5.3"
+}

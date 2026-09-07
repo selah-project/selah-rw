@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Kandi abakohenu be nzabambwesa ubukira, abahesedi be bazaririmbira indirimbo zo kwishimira.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "kandi abakohenu be"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "nzabambwesa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ubukira"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "abahesedi be"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "indirimbo yo kwishimira"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bazaririmbira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:33.060231728Z",
+  "model": "glm-5.3"
+}

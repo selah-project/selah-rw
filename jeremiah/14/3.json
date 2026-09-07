@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 14:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Abakuru babo baratumye abato babo ku mazi; bagejeje ku midira, amazi batibonye; bagarutse imitwaro yabo ihuye n'ubusa — barsonewe, banenzejwe, maze bansweje imitwe yabo.",
+  "tokens": [
+    {
+      "surface": "ואדריהם",
+      "gloss": "Abakuru babo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "baratumye"
+    },
+    {
+      "surface": "צעוריהם",
+      "gloss": "abato babo"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ku mazi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bagejeje"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "imidira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "batibonye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bagarutse"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "imitwaro yabo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ihuye n'ubusa"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "barsonewe"
+    },
+    {
+      "surface": "והכלמו",
+      "gloss": "banenzejwe"
+    },
+    {
+      "surface": "וחפו",
+      "gloss": "bansweje"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "imitwe yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:55:10.496278108Z",
+  "model": "glm-5.3"
+}

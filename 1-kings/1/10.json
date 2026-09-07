@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ntiyahamagaye na ⟨את⟩ umuhanuzi Natani, na Benayahu, na ⟨את⟩ intwari, na ⟨את⟩ Shelomo murumuna we.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umuhanuzi Natani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "na Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "intwari"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "intwari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "murumuna we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "-yahamagaye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:35:29.328983209Z",
+  "model": "glm-5.3"
+}

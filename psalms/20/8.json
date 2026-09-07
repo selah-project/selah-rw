@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Aba ⟨bizingiye⟩ mu bigare, na aba mu mafarashi; ariko twe izina rya Yahwe Elohimu wacu turiributsa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "mu bigare"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na aba"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "mu mafarashi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ariko twe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "turiributsa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:41.379747234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yatanze imvura yabo iba icegerere, n'umuriro urazana urumuri mu gihugu cyabo.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Yatanze"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "imvura yabo"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "icegerere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "urazana urumuri"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "mu gihugu cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:11.851541414Z",
+  "model": "glm-5.3"
+}

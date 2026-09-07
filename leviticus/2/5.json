@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi iyo minchah y'urubengo ni korubani yawe: ifu nziza y'ingano ivanze n'amavuta iba ubusa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "על",
+      "gloss": "y'"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "urubengo"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korubani yawe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifu nziza y'ingano"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ivanze"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "iba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:12.233932058Z",
+  "model": "glm-5.3"
+}

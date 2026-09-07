@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Hanyuma abaruye ⟨את⟩ abasore b'ibikombyo by'imidugudu, maze baba amajana abiri, abiri na mirongo itatu; nyuma yabo abaruye ⟨את⟩ ubwobo bwose, abahungu bose b'Yisraeli, ibihumbu birindwi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "abaruye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasore b'ibikombyo by'imidugudu"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abasore"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "b'ibikombyo"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "by'imidugudu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze baba"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amajana abiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo itatu"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "nyuma yabo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "abaruye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwobo bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwobo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ibihumbu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "birindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:37.173525854Z",
+  "model": "glm-5.3"
+}

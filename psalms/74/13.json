@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "psalms 74:13",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 74,
+ "translation": "Wowe, mu ngufu zawe, waratanyije inyanja; warangije imitwe ya taninimu hejuru y'amazi.",
+ "tokens": [
+  {
+   "surface": "אתה",
+   "gloss": "Wowe"
+  },
+  {
+   "surface": "פוררת",
+   "gloss": "waratanyije"
+  },
+  {
+   "surface": "בעזך",
+   "gloss": "mu ngufu zawe"
+  },
+  {
+   "surface": "ים",
+   "gloss": "inyanja"
+  },
+  {
+   "surface": "שברת",
+   "gloss": "warangije"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "imitwe ya"
+  },
+  {
+   "surface": "תנינים",
+   "gloss": "taninimu"
+  },
+  {
+   "surface": "על",
+   "gloss": "hejuru y'"
+  },
+  {
+   "surface": "המים",
+   "gloss": "amazi"
+  }
+ ],
+ "timestamp": "2026-09-07T18:32:22.889629770Z",
+ "model": "glm-5.3"
+}

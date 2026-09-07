@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Nzagenda imbere ya Yahwe, mu kw'isi y'ubuzima.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Nzagenda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mu kw'isi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "y'ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:18.561543972Z",
+  "model": "glm-5.3"
+}

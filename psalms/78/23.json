@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Wongeyeho yategetse ibicu hejuru, maze amaburyo y'ijuru ayatuye.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "amaburyo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "y'ijuru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ayatuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:03.285775131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Umukobwa w'umwami afite icyubahiro cyose mu ndani; imyambaro ye ari ibishyitswe bya zahabu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "w'umwami"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "mu ndani"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "ibishyitswe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za zahabu"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "imyambaro ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:31.114165798Z",
+  "model": "glm-5.3"
+}

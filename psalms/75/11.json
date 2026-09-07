@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Amahembe yose y'ababi nazasohenya; amahembe y'abahutu azazamukwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "amahembe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "y'ababi"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "nazasohenya"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "azazamukwa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "amahembe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "y'abahutu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:37.897228913Z",
+  "model": "glm-5.3"
+}

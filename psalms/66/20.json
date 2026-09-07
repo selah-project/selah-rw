@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Elohimu yuzurwe imigisha, we utaireho isengesho ryanjye na hesedi ye ⟨את⟩ iwanjye.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yuzurwe imigisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uta-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "-aireho"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "na hesedi ye"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ iwanjye",
+      "marks": "hesedi ye — ku muntu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:58.290501664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ko uko Yahwe Tsevaoti yavuze: nanone rimwe ⟨ni⟩ gito, kandi njye nzatumba ⟨את⟩ ijuru na ⟨את⟩ isi na ⟨את⟩ ibiyaga na ⟨את⟩ ubutaka bwumye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gito"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩ cyo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kandi njye"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nzatumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiyaga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ibiyaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubutaka bwumye"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ubutaka bwumye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:56:00.521546054Z",
+  "model": "glm-5.3"
+}

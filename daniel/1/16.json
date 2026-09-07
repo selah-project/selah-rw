@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze umurera yasenyaga ⟨את⟩ ibiryo byabo bikundwa n'ivinyo bakunywa, aha bo ibihingwa ⟨ibyokurya bitera mu murima⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "umurera"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yasenyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiryo byabo bikundwa"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ibiryo byabo bikundwa"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "n'ivinyo"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "bakunywa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "ibihingwa ⟨ibyokurya bitera mu murima⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:52.760627632Z",
+  "model": "glm-5.3"
+}

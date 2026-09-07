@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Umwami wa Mitsrayimu (Egiputa) yamukuyeho i Yerushalayimu, maze ashoye igihugu ⟨את⟩ amatalenti ijana y'ifeza n'italebanti imwe y'zahabu.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "yamukuyeho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "maze ashoye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "amatalenti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "n'italebanti imwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "y'zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:06:37.735909249Z",
+  "model": "glm-5.3"
+}

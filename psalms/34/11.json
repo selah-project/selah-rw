@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Intare nto zashobye kandi zashonje; ariko abashaka Yahwe ntibazabura icyiza na kimwe.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "intare nto"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "zashobye"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "kandi zashonje"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ariko abashaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "bazabura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:17.056067756Z",
+  "model": "glm-5.3"
+}

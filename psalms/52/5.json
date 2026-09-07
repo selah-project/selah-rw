@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Urukunda ibibi kurusha ibyiza, ubinyoma kurusha kuvuga ubutungane. Selahi.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "urukunda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kurusha ibyiza"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubinyoma"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kurusha kuvuga"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:53.374564172Z",
+  "model": "glm-5.3"
+}

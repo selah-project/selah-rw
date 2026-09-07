@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Kuko wari inkunga yanjye, kandi mu gicucu cy'amababa yawe ndaririmba ibyishimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wari"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "inkunga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yanjye"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "kandi mu gicucu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cy'amababa yawe"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndaririmba ibyishimo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:48.167558281Z",
+  "model": "glm-5.3"
+}

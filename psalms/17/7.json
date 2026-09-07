@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Erekana hesedi zawe z'imbyino, uri We ukiza abizera bafata umutekano muri We, abo ukuboko kwawe kw'iburyo barinda abaziguruka.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "erekana (z'imbyino z'itandukaniro)"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedi zawe"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ukiza"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "abafata umutekano muri We"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "abaziguruka"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ukuboko kwawe kw'iburyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:40.320712964Z",
+  "model": "glm-5.3"
+}

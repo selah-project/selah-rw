@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Zariye ibyatsi byose byo mu gihugu cyabo, zariye na mbuto z'ubutaka bwabo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Zariye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "byo mu gihugu cyabo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "zariye na"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mbuto"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "z'ubutaka bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:50.656958206Z",
+  "model": "glm-5.3"
+}

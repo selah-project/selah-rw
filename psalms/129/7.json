@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Nticyuzura ikiganza cy'umwizera, n'ibara ry'uwapfunda ibimera.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "cyuzura"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ikiganza"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "cy'umwizera"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "n'ibara rye"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ry'uwapfunda ibimera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.438219555Z",
+  "model": "glm-5.3"
+}

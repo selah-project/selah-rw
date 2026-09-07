@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Dawidi yasabye ⟨את⟩ Elohimu ubw'umwana; Dawidi yarafashe ifunga, yinjiye, arariye, araryamye ku isi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ubw'"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "yarafashe ifunga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ifunga"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "arariye"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "araryamye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:37.689676312Z",
+  "model": "glm-5.3"
+}

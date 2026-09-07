@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mwana wanjye, iyo watanze ingenzi ku mugenzi wawe, wakubise inkono zawe ku mutuntu —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "watanze ingenzi"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ku mugenzi wawe"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "wakubise"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "ku mutuntu"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "inkono zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:38.068657655Z",
+  "model": "glm-5.3"
+}

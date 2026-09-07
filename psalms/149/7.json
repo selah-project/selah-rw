@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "kugira ngo bakore ihorera mu mahanga, amabwiriza mu bwoko bw'abantu;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kugira ngo bakore"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ihorera"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "amabwiriza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mu bwoko"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bw'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.841760368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yehuda na Yisraeli baratuye mu mahoro, buri muntu munsi w'umuzabibu wiwe no munsi cy'igiti cy'ibitonze ciwe, kuva kuri Dani kugera i Beeri-Sheba, iminsi yose ya Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "baratuye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisraeli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mu mahoro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "w'umuzabibu wiwe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "no munsi"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "cy'igiti cy'ibitonze ciwe"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuva kuri Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera i"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:34:13.767226174Z",
+  "model": "glm-5.3"
+}

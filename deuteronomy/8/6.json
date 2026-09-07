@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "deuteronomy 8:6",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Uzirinde ⟨את⟩ amategeko ya Yahwe Elohimu wawe, ngo utambire mu nzira ze, ugatinya ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "ושמרת",
+   "gloss": "Uzirinde"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amategeko"
+  },
+  {
+   "surface": "מצות",
+   "gloss": "amategeko"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimu wawe"
+  },
+  {
+   "surface": "ללכת",
+   "gloss": "ngo utambire"
+  },
+  {
+   "surface": "בדרכיו",
+   "gloss": "mu nzira ze"
+  },
+  {
+   "surface": "וליראה",
+   "gloss": "ugatinya"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we"
+  }
+ ],
+ "timestamp": "2026-09-07T10:52:31.294445209Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ku itara ifite isuku azategura ⟨את⟩ amatara, imbere ya Yahwe, iteka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "itara"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ifite isuku"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "azategura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatara"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "amatara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:54:24.450214244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Raba: umwami azateka mu bwungane, n'ibikomangazi mu butabera bizatware.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "mu bwungane"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "azateka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "n'ibikomangazi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mu butabera"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "bizatware"
+    }
+  ],
+  "timestamp": "2026-09-07T15:04:01.845564006Z",
+  "model": "glm-5.3"
+}

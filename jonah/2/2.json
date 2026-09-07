@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze Yonah yasabye Yahwe, Elohimu wiwe, mu munda w'amafi.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu wiwe"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "mu munda"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "w'amafi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:13.867303694Z",
+  "model": "glm-5.3"
+}

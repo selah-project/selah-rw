@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Noahi none yakoze uko byose Yahwe yari yamutegetse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yari yamutegetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:27.066724921Z",
+  "model": "glm-5.3"
+}

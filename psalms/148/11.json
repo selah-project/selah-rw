@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Abami b'isi n'amahanga yose, abatware n'abacamanza bose b'isi.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … yose"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … bose"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "abacamanza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:41.754641626Z",
+  "model": "glm-5.3"
+}

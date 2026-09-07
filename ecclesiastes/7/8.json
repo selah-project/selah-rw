@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ni byiza imperu y'ijambo kuruta itangiriro ryaryo; ni byiza umwuka munyurabwenge kuruta umwuka werurutse.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "imperu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "y'ijambo"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kuruta itangiriro ryaryo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "munyurabwenge"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kuruta umwuka werurutse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:05.605856630Z",
+  "model": "glm-5.3"
+}

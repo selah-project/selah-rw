@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mu by'ukuri, mwe ni ⟨abantu⟩ bose, kandi ubwenge buzapfa kumwe na mwe.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "kumwe na mwe"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "buzapfa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:21.554752427Z",
+  "model": "glm-5.3"
+}

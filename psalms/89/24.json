@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Nzatsindira abanzi be imbere ye, n'abansi be nzahana",
+  "tokens": [
+    {
+      "surface": "וְכַתּוֹתִ֣י",
+      "gloss": "nzatsindira"
+    },
+    {
+      "surface": "מִפָּנָ֣יו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "צָרָ֑יו",
+      "gloss": "abanzi be"
+    },
+    {
+      "surface": "וּמְשַׂנְאָ֥יו",
+      "gloss": "n'abansi be"
+    },
+    {
+      "surface": "אֶגּֽוֹף",
+      "gloss": "nzahana"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:45.174305048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Nnyamara kwa Yahwe, unamwetegeze, ntukakaze uburakari kubera uwitunganira inzira ye, kubera umuntu ukora imigambi mibi.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Nnyamara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "unamwetegeze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ukaze uburakari"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "kubera uwitunganira"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "inzira ye"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kubera umuntu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "imigambi mibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:47.105037740Z",
+  "model": "glm-5.3"
+}

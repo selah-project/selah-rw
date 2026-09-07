@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Imbwa ziriye na ⟨את⟩ Izebeli mu gace cya Yizreeli, kandi nta wamuvumbika; maze yafunguye umuryango arahungiye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Izebeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ziriye"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "mu gace"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "cya Yizreeli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wamuvumbika"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "maze yafunguye"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "arahungiye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:40:47.791081013Z",
+  "model": "glm-5.3"
+}

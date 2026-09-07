@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Umutima w'umugabo we uzizera iye, kandi nta nyungu azabura.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "uzizera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Umutima"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "w'umugabo we"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "kandi inyungu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "azabura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:43.390964238Z",
+  "model": "glm-5.3"
+}

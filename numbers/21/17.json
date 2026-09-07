@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Aho none Yisraeli yararirimbye ⟨את⟩ iyo ndirimbo ngira iti: Zurura, wa mbuga, mwaririmbire!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Aho none"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "yararirimbye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo ndirimbo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "iyo ndirimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngira iyi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Zurura"
+    },
+    {
+      "surface": "באר",
+      "gloss": "wa mbuga"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mwaririmbire"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(yiyo mbuga)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:23:56.184656389Z",
+  "model": "glm-5.3"
+}

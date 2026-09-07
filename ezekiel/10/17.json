@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mu guhagarara kwabo, iyo bahagaze nabo bahagaza; mu kuzamuka kwabo, bazamukana ⟨את⟩ bo; kuko umwuka w'ikintu kibizima uri muri byo.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "mu guhagarara kwabo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nabo bahagaza"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "no mu kuzamuka kwabo"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "w'ikintu kibizima"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "uri muri byo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:47:56.220444251Z",
+  "model": "glm-5.3"
+}

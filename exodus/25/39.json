@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kikari imwe rya zahabu yuye ni yo yakoze ⟨את⟩ yoyo, ⟨את⟩ ibikoresho byose aya.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikari imwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yuye"
+    },
+    {
+      "surface": "יעשׂה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoresho byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:20.926700459Z",
+  "model": "glm-5.3"
+}

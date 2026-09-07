@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Bani, amajana atandatu, mirongo ine na babiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na babiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:13:57.195788973Z",
+  "model": "glm-5.3"
+}

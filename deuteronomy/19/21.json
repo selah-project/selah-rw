@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kandi amaso yawe ntacyo byagira impuhwe: Nefeshi ku Nefeshi, ijisho ku rijisho, iryinyo ku riryo, ukuboko ku kukuboko, ukuguru ku kuguru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "byagira impuhwe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ku Nefeshi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ku rijisho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iryinyo"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ku riryo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku kukuboko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukuguru"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ku kuguru"
+    }
+  ],
+  "timestamp": "2026-09-07T11:02:47.986020817Z",
+  "model": "glm-5.3"
+}

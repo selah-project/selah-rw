@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Unsukume cyane mu makosa yanjye, kandi unyeze neza mu cyaha cyanjye.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "unsukume"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "mu makosa yanjye"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "kandi…mu cyaha cyanjye"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "unyeze neza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:17.156083156Z",
+  "model": "glm-5.3"
+}

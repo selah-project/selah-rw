@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ubumenyi bwa ⟨pila⟩ burenze jye; buri hejuru, ntabwo nbishobora.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "⟨pila⟩"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Ubumenyi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "burenze jye"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "buri hejuru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nbishobora"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ubwo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:41.838698047Z",
+  "model": "glm-5.3"
+}

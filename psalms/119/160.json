@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Umutwe w'ijambo ryawe ⟨ni⟩ ukuri, kandi iteka ryose imyanzuro y'ubutabera bwave.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "w'ijambo ryawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "kandi iteka ryose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "(imyanzuro) yose"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "imyanzuro"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "y'ubutabera bwave"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:44.328676215Z",
+  "model": "glm-5.3"
+}

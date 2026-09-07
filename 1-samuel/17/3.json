@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abapulisiti bahagaze ku musozi ku ruhande ruruwu, na Yisraeli bahagaze ku musozi ku ruhande ruriya, ikibaya kiri hagati yabo.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Abapulisiti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bahagaze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku ruhande rwa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ruruwu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisraeli"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bahagaze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku ruhande rwa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ruriya"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "ikibaya"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "kiri hagati yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:39:14.430470279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Maze asonzesa ⟨את⟩ i Tofeti riherereye mu kibaya k'abana ba Hinomu, kugira ngo nta muntu utambutishire ⟨את⟩ umwana we na ⟨את⟩ umukobwa we mu muriro kwa Moleki.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Maze asonzesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Tofeti"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "i Tofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riherereye"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "mu kibaya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "k'abana"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ba Hinomu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kugira ngo nta"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "utambutishire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana we"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukobwa we"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "umukobwa we"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa Moleki"
+    }
+  ],
+  "timestamp": "2026-09-07T14:33:39.670022145Z",
+  "model": "glm-5.3"
+}

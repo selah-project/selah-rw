@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Mu mabara y'ubururu, umutuku wijimye, n'umutuku w'inzoka barakoze imyambaro by'ubudodo bikoreshwa mu gutangira umurimo mu butagatifu, maze barakoze ⟨את⟩ imyambaro y'ubutagatifu ijyanye n'Aharoni, nk'uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ubururu"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "umutuku wijimye"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "umutuku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "barakoze"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "by'ubudodo"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "gutangira umurimo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu butagatifu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "maze barakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'ubutagatifu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ijyanye"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "n'Aharoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:01.179582582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ni bo bwagize bavugana Paro (Farawo), umwami wa Mitsrayimu (Egiputa), ngo bavange ⟨את⟩ abana ba Yisraeli (Isirayeli) muri Mitsrayimu (Egiputa): uwo ni Moshe (Mose) na Aharoni.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ni bo"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "bwagize bavugana"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Farawo)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngo bavange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muri Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe (Mose)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:40.099880300Z",
+  "model": "glm-5.3"
+}

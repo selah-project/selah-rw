@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "(Kuko Yowabu n'abantu bose b'Yisraeli batuye aha amezi atandatu, kugeza barimbuye buri gabo muri Edomu.)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amezi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'abantu bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "barimbuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gabo"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muri Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:45:52.939470075Z",
+  "model": "glm-5.3"
+}

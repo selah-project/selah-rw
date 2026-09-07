@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Basubira mu mugisha wa nimugoroba, baguruma nk'imbwa, maze bakizenguruka umujyi.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "basubira"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "mu mugisha wa nimugoroba"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "baguruma"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "nk'imbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "bakizenguruka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:23.637375360Z",
+  "model": "glm-5.3"
+}

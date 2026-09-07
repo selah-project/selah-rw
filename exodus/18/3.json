@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Na ⟨את⟩ abahungu be babiri; izina ry'umwe muri bo ni Gershome, kuko yavuze ati: Nari umunyamahanga mu gihugu cy'ubutakenge.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be babiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ry'umwe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze ati"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umunyamahanga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "cy'ubutakenge"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:09.822245908Z",
+  "model": "glm-5.3"
+}

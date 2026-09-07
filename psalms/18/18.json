@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yankira abansi banjye bakomeye n'abatizi banjye, kuko bari baremereye kuruta njye.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "yankira"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "עז",
+      "gloss": "bakomeye"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "n'abatizi banjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "bari baremereye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuruta njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:39.744509091Z",
+  "model": "glm-5.3"
+}

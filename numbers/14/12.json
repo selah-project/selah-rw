@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Nzibahita n'indwara y'urupfu, maze mbakuraho bakarimbuka, nkagukora ⟨את⟩ wowe ngo ube igihugu kinini kandi cy'inkomezi kurusha cyo.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Nzibahita"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "n'indwara y'urupfu"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "maze mbakuraho bakarimbuka"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nkagukora"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ngo ube igihugu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kinini"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "kandi cy'inkomezi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kurusha cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:13:23.025108707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "1-chronicles 13:3",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 13,
+ "translation": "Tuzane ⟨את⟩ isanduku ya Elohimu wacu iwacu, koko ntitwigeze tuca iyo buzi mu minsi ya Shauli.",
+ "tokens": [
+  {
+   "surface": "ונסבה",
+   "gloss": "Tuzane"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "isanduku"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "isanduku"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimu wacu"
+  },
+  {
+   "surface": "אלינו",
+   "gloss": "iwacu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "koko"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "דרשנהו",
+   "gloss": "twigeze tuca iyo buzi"
+  },
+  {
+   "surface": "בימי",
+   "gloss": "mu minsi ya"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shauli"
+  }
+ ],
+ "timestamp": "2026-09-07T20:38:26.246177861Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Arahaguruka, araza, agendera mu Shomuroni (Samariya); iyo ageze mu nzu y'isuku ry'intama y'abungeri (Beti-Ekedi) mu nzira.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "arahaguruka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "araza"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agendera"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "mu Shomuroni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyo ageze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "y'isuku ry'intama"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "y'abungeri"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    }
+  ],
+  "timestamp": "2026-09-07T14:13:59.827533446Z",
+  "model": "glm-5.3"
+}

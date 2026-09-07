@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Bityo uburakari bwa Yahwe bwakaze ku si iyo, ngo yizanire ire ho ⟨את⟩ umuvumo wose wanditse mu gitabo iki.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bwakaze"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku si"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngo yizanire"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ire ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuvumo wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "umuvumo"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "wanditse"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-07T11:17:05.066916791Z",
+  "model": "glm-5.3"
+}

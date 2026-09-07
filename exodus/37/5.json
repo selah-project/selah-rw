@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Maze ashira ⟨את⟩ imigendera mu mpinga ziri ku mpande z'isanduku, ngo batware ⟨את⟩ isanduku.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigendera"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "imigendera"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "mu mpinga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mpande"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "z'isanduku"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngo batware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:49.105583545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "1-chronicles 8:13",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Na Beriah na Shema — ni bo abakuru b'imiryango y'abaturage b'Ayaloni; ni bo bacitse ⟨את⟩ abaturage b'a Gati.",
+ "tokens": [
+  {
+   "surface": "וברעה",
+   "gloss": "na Beriah"
+  },
+  {
+   "surface": "ושמע",
+   "gloss": "na Shema"
+  },
+  {
+   "surface": "המה",
+   "gloss": "ni bo"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "abakuru"
+  },
+  {
+   "surface": "האבות",
+   "gloss": "b'imiryango"
+  },
+  {
+   "surface": "ליושבי",
+   "gloss": "y'abaturage b'"
+  },
+  {
+   "surface": "אילון",
+   "gloss": "Ayaloni"
+  },
+  {
+   "surface": "המה",
+   "gloss": "ni bo"
+  },
+  {
+   "surface": "הבריחו",
+   "gloss": "bacitse"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abaturage b'a Gati"
+  },
+  {
+   "surface": "יושבי",
+   "gloss": "abaturage b'a"
+  },
+  {
+   "surface": "גת",
+   "gloss": "Gati"
+  }
+ ],
+ "timestamp": "2026-09-07T20:34:15.244659544Z",
+ "model": "glm-5.3"
+}

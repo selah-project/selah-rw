@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kandi ibi ni ibyo mutazobira muri byo: Neshéri ⟨igikona⟩, Peresi, na Aziniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kandi ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mutazobira"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Neshéri"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "Peresi"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "Aziniya"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:44.938654620Z",
+  "model": "glm-5.3"
+}

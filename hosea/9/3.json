@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ntibazatura mu gihugu cya Yahwe; ariko Efrayimu azagaruka i Mitsrayimu, no muri Ashuru bazarya ibirimbi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bazatura"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cya Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ariko azagaruka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "no muri Ashuru"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ibirimbi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bazarya"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:22.683753598Z",
+  "model": "glm-5.3"
+}

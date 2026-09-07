@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yarabonye ⟨את⟩ urumuri ko ari rwiza, maze Elohimu yatandukanye hagati y'urumuri na hagati y'umwijima.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urumuri"
+    },
+    {
+      "surface": "האור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rwiza"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "yatandukanye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati y'"
+    },
+    {
+      "surface": "האור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati y'"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "umwijima"
+    }
+  ],
+  "timestamp": "2026-09-07T23:01:28.670038513Z",
+  "model": "glm-5.3"
+}

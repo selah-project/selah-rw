@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Nzabafata ⟨את⟩ mwe mu mahanga, nzabateranya ⟨את⟩ mwe mu mahanga yose, maze nzabazanira ⟨את⟩ mwe mu gihugu cyanyu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "nzabafata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe mu mahanga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mahanga"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "nzabateranya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe mu mahanga yose"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu… yose"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mahanga (uturere)"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "maze nzabazanira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe mu gihugu cyanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "gihugu cyanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:17:17.194015377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Mu kantu bica ⟨את⟩ ikorubani ry'urubatiro, bazica ⟨את⟩ ikorubani ry'icyaha, na ⟨את⟩ amaraso yaryo bazawusakaza ku ntarara impuye.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "mu kantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "bica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikorubani ry'urubatiro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ikorubani ry'urubatiro"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "bazica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikorubani ry'icyaha"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ikorubani ry'icyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amaraso yaryo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "amaraso yaryo"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "bazawusakaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ntarara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "impuye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:49.927463907Z",
+  "model": "glm-5.3"
+}

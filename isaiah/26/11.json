@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yahwe, intoki zawe zazamutse — ntabwo babibona; bazoreba batisutse kubera irari ry'ubwoba bwa Yahwe riri ku bantu be; umuriro w'abansi bawe uzobabira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "zazamutse"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki zawe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "babibona"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bazoreba"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "batisutse"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "irari ry'ubwoba bwa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku bantu be"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "w'abansi bawe"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "uzobabira"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:15.804365422Z",
+  "model": "glm-5.3"
+}

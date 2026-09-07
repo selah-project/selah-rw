@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Mumve, ibizinga, njye; kandi mumve neza, amoko y'abantu, mu kure: Yahwe yanhamagaye njye mu nda, yibukije izina ryanjye mu bibero bya nyina.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ibizinga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "kandi mumve neza"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amoko y'abantu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "mu kure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "yanhamagaye njye"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "mu bibero"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "bya nyina"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "yibukije"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izina ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:23:57.888051914Z",
+  "model": "glm-5.3"
+}

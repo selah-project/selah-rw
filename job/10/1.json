@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nefeshi yanje yahisiye ubugingo bwanje; nzareka isonzi ryanje ⟨ku nyanjyamba⟩, maze ndavuge mu kubabara kwa Nefeshi yanje.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "yahisiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanje"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ubugingo bwanje"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "nzareka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ku nyanjyamba⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "isonzi ryanje"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ndavuge"
+    },
+    {
+      "surface": "במר",
+      "gloss": "mu kubabara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kwa Nefeshi yanje"
+    }
+  ],
+  "timestamp": "2026-09-07T19:26:53.449486278Z",
+  "model": "glm-5.3"
+}

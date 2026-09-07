@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo abagabo bahereanye, maze umugabo ampisha ⟨את⟩ uwo bubwana we n'ibare cyangwa n'urununi, ntiapfa ariko agwa mu gitanda.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "bahereanye"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ampisha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo bubwana we"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "uwo bubwana we"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "n'ibare"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "n'urununi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntia-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "pfa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "mu gitanda"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:45.775298743Z",
+  "model": "glm-5.3"
+}

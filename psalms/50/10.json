@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Amahere yo, ibinyabuzima byo mu ishyamba ni ibyanjye, n'amatungo mu misozi igihumbi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amahere yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni ibyanjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ibinyabuzima"
+    },
+    {
+      "surface": "יער",
+      "gloss": "byo mu ishyamba"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "n'amatungo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "mu misozi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:22.128078217Z",
+  "model": "glm-5.3"
+}

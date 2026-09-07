@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Shemueli na we abwira ubwoko b'abantu ati: Yahwe ⟨ni⟩ we wakoze ⟨את⟩ Moshe (Mose) na ⟨את⟩ Aharoni (Aroni), kandi we wazamuye ⟨את⟩ abakurambere banyu mu gihugu cya Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko b'abantu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kandi we uko"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakurambere banyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:43.656690637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Dawidi yafashe ⟨את⟩ umutwe wa Filisiti, maze abyise Yerushalayimu; na ⟨את⟩ ibikoresho bye ashyize mu hema ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe wa Filisiti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "wa Filisiti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "abyise"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho bye"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho bye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ashyize"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "mu hema ye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:44:28.414505141Z",
+  "model": "glm-5.3"
+}

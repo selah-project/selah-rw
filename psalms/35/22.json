@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Wabibonye, Yahwe; ntucece. Adonayi, ntukeure ntare.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Wabibonye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "cece"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "keure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ntare"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:03.827657513Z",
+  "model": "glm-5.3"
+}

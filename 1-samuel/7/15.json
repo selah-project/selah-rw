@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Shemueli yacuraburagaga ⟨את⟩ Yisraeli iminsi yose y'ubuzima bwe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yacuraburagaga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "y'ubuzima bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:09.822533238Z",
+  "model": "glm-5.3"
+}

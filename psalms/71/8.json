@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Kanwa kanjye kazuzwe n'ihumbyo ryawe, umunsi wose n'icyubahiro cye.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "kazuzwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Kanwa kanjye"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "n'ihumbyo ryawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.518181416Z",
+  "model": "glm-5.3"
+}

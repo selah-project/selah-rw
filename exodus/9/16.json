@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ariko ni kubw'ibi naguhagarije, kugira ngo nkwereko ⟨את⟩ imbaraga zanjye, no kugira ngo izina ryanjye rivugwe mu isi yose.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "naguhagarije"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "nkwereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaraga zanjye"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "no kugira ngo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "rivugwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi yose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:15.199185906Z",
+  "model": "glm-5.3"
+}

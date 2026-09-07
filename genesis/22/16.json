@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": " maze aravuga ati: Ndahiye ku njye ubwanjuye — irihamwe rya Yahwe — ko ku bw'ibyo wakoze ⟨את⟩ iki kintu, kandi ntiwahagaritse ⟨את⟩ umwana wawe, ⟨את⟩ umwana wawe wenyine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku njye ubwanjuye"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ndahiye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "irihamwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ku bw'ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki kintu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iki kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "wahagaritse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana wawe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana wawe wenyine"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "umwana wawe wenyine"
+    }
+  ],
+  "timestamp": "2026-09-07T21:11:34.266170569Z",
+  "model": "glm-5.3"
+}

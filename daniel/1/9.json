@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Elohimu yahaye ⟨את⟩ Daniyeli hesedi n'impuhwe imbere y'umutware w'abasarisi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Maze yahaye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyeli"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeli"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "n'impuhwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "abasarisi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:01:39.068863167Z",
+  "model": "glm-5.3"
+}

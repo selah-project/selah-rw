@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Moshe yafashe ⟨את⟩ umugore we na ⟨את⟩ abahungu be, abazwe ku nguriza, aragaruka mu gihugu cya Mitsrayimu; Moshe yafashe ⟨את⟩ umutiye wa Elohimu mu ntoki ye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore we"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "abazwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "nguriza"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aragaruka"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutiye wa Elohimu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umutiye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohimu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:39.503182051Z",
+  "model": "glm-5.3"
+}

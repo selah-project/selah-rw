@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yehoshuwa yaragize abaherezi ⟨את⟩ ati: Nimusohoke mu Yardeni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yaragize"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaherezi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Nimusohoke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-09-07T11:22:14.182661626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Shebuja wanjye yabajije abasaja be ⟨את⟩ ati: Mwaba mufite so, cyangwa muvandimwe?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Shebuja wanjye"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yabajije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasaja be"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasaja be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "היש",
+      "gloss": "mwaba mufite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "אב",
+      "gloss": "so"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "muvandimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:24:30.704857977Z",
+  "model": "glm-5.3"
+}

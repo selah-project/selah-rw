@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "iyo uyishakisha nk'ifeza, kandi nk'imitungo ihishe uyirondera;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "uyishakisha"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "nk'ifeza"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "kandi nk'imitungo ihishe"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "uyirondera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:21.932332202Z",
+  "model": "glm-5.3"
+}

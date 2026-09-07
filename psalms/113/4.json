@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Yahwe ⟨ni⟩ uri hejuru y'amahanga yose, n'icyubahiro cye hejuru y'ijuru.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "uri hejuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:37.839493736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Esavu yaravuze ati: Ni byinshi biri kuri jye, murumuna wanjye; ibyo ari ibyawe nibeho ⟨byugarijwe⟩ kuri wowe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ni (hari)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "רב",
+      "gloss": "byinshi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "murumuna wanjye"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nibeho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:17.601458507Z",
+  "model": "glm-5.3"
+}

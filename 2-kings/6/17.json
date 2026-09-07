@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Elisha yarasezereye maze avuga ati: Yahwe, ndakusabye, fungura ⟨את⟩ amaso ye arebe. Maze Yahwe yafunguye ⟨את⟩ amaso y'umusore, noneho abona, umusozi wuzuye amafarashi n'ibigega by'umuriro ku mpande zose z'Elisha.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "yarasezereye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze avuga ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "fungura"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakusabye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso ye"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "arebe"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "yafunguye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "y'umusore"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "noneho"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wuzuye"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amafarashi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "n'ibigega"
+    },
+    {
+      "surface": "אש",
+      "gloss": "by'umuriro"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "z'Elisha"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:03.449240875Z",
+  "model": "glm-5.3"
+}

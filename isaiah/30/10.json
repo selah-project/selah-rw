@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "isaiah 30:10",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 30,
+ "translation": "Abo babwira ababona bati: Ntimubone; bakabwira abaronzi bati: Ntimudugaragaze ukuri, mwavuga kuri twe ibyoroshye, mubebe amayobera.",
+ "tokens": [
+  {
+   "surface": "אשר",
+   "gloss": "Abo"
+  },
+  {
+   "surface": "אמרו",
+   "gloss": "babwira"
+  },
+  {
+   "surface": "לראים",
+   "gloss": "ababona"
+  },
+  {
+   "surface": "לא",
+   "gloss": "Ntimu-"
+  },
+  {
+   "surface": "תראו",
+   "gloss": "bone"
+  },
+  {
+   "surface": "ולחזים",
+   "gloss": "bakabwira abaronzi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "Ntimu-"
+  },
+  {
+   "surface": "תחזו",
+   "gloss": "dugaragaze"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "נכחות",
+   "gloss": "ukuri"
+  },
+  {
+   "surface": "דברו",
+   "gloss": "mwavuga"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "חלקות",
+   "gloss": "ibyoroshye"
+  },
+  {
+   "surface": "חזו",
+   "gloss": "mubebe"
+  },
+  {
+   "surface": "מהתלות",
+   "gloss": "amayobera"
+  }
+ ],
+ "timestamp": "2026-09-07T15:03:40.539933806Z",
+ "model": "glm-5.3"
+}

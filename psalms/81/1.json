@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Ku mutunzi w'umuziki, ku njye ya Giti, ya Asafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mutunzi w'umuziki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "njye ya Giti"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:45.056830168Z",
+  "model": "glm-5.3"
+}

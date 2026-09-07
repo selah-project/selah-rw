@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Uri mwiza kurusha abana b'abantu; ubuntu bwarekwe mu byanjyi byawe; ni cyo mpamvu Elohimu yagusemeshije ku iteka.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Uri mwiza kurusha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "bwarekwe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "mu byanjyi byawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mpamvu"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "yagusemeshije"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:23.438764311Z",
+  "model": "glm-5.3"
+}

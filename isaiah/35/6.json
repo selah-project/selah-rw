@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Mu icyo gihe uwufite ubumuga ku maguru azasimbuka nk'ihene y'ishyamba, n'ururimi rw'umujumbi ruzahimbaha; kuko mu butayu amazi azibuka, n'imigezi mu gishanga.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mu icyo gihe"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "azasimbuka"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "nk'ihene y'ishyamba"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "uwufite ubumuga ku maguru"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ruzahimbaha"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "rw'umujumbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "azibuka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "n'imigezi"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "mu gishanga"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:10.983305197Z",
+  "model": "glm-5.3"
+}

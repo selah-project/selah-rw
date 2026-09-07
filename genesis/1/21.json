@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Elohimu yaremye ⟨את⟩ ibikoko nini byo mu mazi, na ⟨את⟩ buri Nefeshi ibuzima ikororoka iyo amazi yazibyaye ukuwoko bwabyo, na ⟨את⟩ buri nyoni ifite amababa ukuwoku bwawo; Elohimu narabonye ko ⟨ni⟩ byiza.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoko nini byo mu mazi"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "ibikoko (byo mu mazi)"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ibuzima"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ikororoka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "yazibyaye"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "ukuwoko bwabyo"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ifite amababa"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ukuwoku bwawo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "narabonye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.932403420Z",
+  "model": "glm-5.3"
+}

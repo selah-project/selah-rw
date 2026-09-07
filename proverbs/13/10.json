@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Mu bwibone gusa haba impaka, ariko na ⟨את⟩ abafatanya inama haba ubwenge.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "mu bwibone"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bitanga"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "impaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abafatanya inama"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "abafatanya inama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:06:15.150027703Z",
+  "model": "glm-5.3"
+}

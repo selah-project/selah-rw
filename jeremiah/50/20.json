@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Mu minsi iyo no mu gihe icyo, agira Yahwe ati: bizasabwa ⟨את⟩ icyaha cya Yisraeli, ntibizasangira; na ⟨את⟩ ibyaha bya Yehuda ntibizasangwa; kuko nzababarira abo nzareka.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mu minsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "no mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "bizasabwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyaha cya Yisraeli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cya Yisraeli"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ntibizasangira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaha bya Yehuda"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bya Yehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "bizasangwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "nzababarira"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "nzareka"
+    }
+  ],
+  "timestamp": "2026-09-07T16:33:38.920980258Z",
+  "model": "glm-5.3"
+}

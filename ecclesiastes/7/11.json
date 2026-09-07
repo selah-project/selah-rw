@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ubwenge ni nziza hamwe n'urwibutso, kandi ni inyungu ku bareba izuba.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ni nziza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Ubwenge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "urwibutso"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "kandi ni inyungu"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ku bareba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:10.110168984Z",
+  "model": "glm-5.3"
+}

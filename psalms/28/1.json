@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Iya Dawidi. Kuri wowe, Yahwe, ndahamagara; urutare rwanjye, ntuzirire iwanjye — niba utihishanye kuri njye, ndasa n'abajya mu rwobo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndahamagara"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "zirire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "niba"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "utihishanye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ndasa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'aba"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "bajya mu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "rwobo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:35.364722990Z",
+  "model": "glm-5.3"
+}

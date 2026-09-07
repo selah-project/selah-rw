@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kuko kuri jye abana ba Yisraeli ni abagaragu; ni abagaragu banjye najyanye ⟨את⟩ bo hanze mu gihugu cya Mitsrayimu (Egiputa); jye, Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu banjye"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "najyanye hanze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:23.868212085Z",
+  "model": "glm-5.3"
+}

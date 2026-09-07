@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yitro yaravuze ati: Yahwe agarerweho umugisha, we wabatabuye ⟨את⟩ mwe mu ntoki za Mitsrayimu no mu ntoki za Paro (Farawo), we wabatabuye ⟨את⟩ abantu munsi ya ntoki za Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "agarerweho umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wabatabuye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "za Mitsrayimu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "no mu ntoki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "za Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wabatabuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ntoki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "za Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:53.950753351Z",
+  "model": "glm-5.3"
+}

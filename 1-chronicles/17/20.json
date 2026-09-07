@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe, nta ⟨ni⟩ nka wowe, kandi nta Elohimu utari wowe, mu byo twese twumvise n'amatwi yacu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nka wowe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "utari wowe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "twe"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "twumvise"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "n'amatwi yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:05.937784020Z",
+  "model": "glm-5.3"
+}

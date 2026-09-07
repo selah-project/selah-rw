@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abana b'Amonu baranyuze ⟨את⟩ Yardeni bakarwana na mu Yehuda, no mu Beniyamini, no mu nzu ya Efrayimu; Yisraeli yagize agahinda cyane.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "baranyuze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "b'Amonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "bakarwana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "no mu Beniyamini"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "no mu nzu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayimu"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "yagize agahinda"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T11:56:11.005479351Z",
+  "model": "glm-5.3"
+}

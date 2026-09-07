@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze Yehoshuwa yubakiye igicaniro kuri Yahwe, Elohimu wa Yisraeli, ku musozi wa Eivalu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yubakiye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "wa Eivalu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:31:49.305845707Z",
+  "model": "glm-5.3"
+}

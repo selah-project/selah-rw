@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Indirimbo ya Dawidi (Davide), ubwo yari mu butayu bwa Yehudah (Yuda).",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi (Davide)"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ubwo yari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bwa Yehudah (Yuda)"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:03.219639798Z",
+  "model": "glm-5.3"
+}

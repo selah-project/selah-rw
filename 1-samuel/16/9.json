@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Yishayi yatumye Shamahi kunyurana, maze aravuga ati: N'uyu nawe, Yahwe ntiyamutoranye.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "yatumye kunyurana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi (Isayi)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shamahi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'uyu nawe"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiya-"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "-mutoranye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:36:11.532433492Z",
+  "model": "glm-5.3"
+}

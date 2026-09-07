@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Umupfakazi n'umunyamahanga barabica, kandi imfubyi baricisha nabi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "umupfakazi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "n'umunyamahanga"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "barabica"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "kandi imfubyi"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "baricisha nabi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:51.087721335Z",
+  "model": "glm-5.3"
+}

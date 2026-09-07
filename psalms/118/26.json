@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Yuzuye imibaro ⟨ni⟩ uwo yinjira mu izina rya Yahwe; twaraguheyeu muva mu nzu ya Yahwe",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yuzuye imibaro"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "uwo yinjira"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "twaraguheyeu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "muva mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:31.818580153Z",
+  "model": "glm-5.3"
+}

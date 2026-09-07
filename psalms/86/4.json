@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Shimisha Nefeshi y'umugaragu wawe, kuri iyo wowe, Adonayi, Nefeshi yanjye nzayikuzamura.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Shimisha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "y'umugaragu wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iyo wowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nzayikuzamura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:14.463230914Z",
+  "model": "glm-5.3"
+}

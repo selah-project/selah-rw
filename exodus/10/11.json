@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ntibyo; nimugende mwe abagabo, mukorere ⟨את⟩ Yahwe, kuko ⟨את⟩ ni cyo mwe mushaka. Maze yarungitse ⟨את⟩ bo ⟨את⟩ mu maso ya Paro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niko"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nimugende"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mwe abagabo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mukorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ni cyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mushaka"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "yarungitse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:42.378196164Z",
+  "model": "glm-5.3"
+}

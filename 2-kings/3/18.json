@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi iki ni cyo gito mu maso ya Yahwe; kandi azaha ⟨את⟩ Movabu mu biganza byanyu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ni cyo gito"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "azaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Movabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Movabu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mu biganza byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:36.473700945Z",
+  "model": "glm-5.3"
+}

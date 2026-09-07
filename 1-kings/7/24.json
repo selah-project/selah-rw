@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 7:24",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Munsi ku rubiba rwayo ku mpande zose hakaba ibidogo bizizungurutse ⟨את⟩, amahema cumi bizengurukanye ⟨את⟩ inyanja ku mpande zose; ibidogo bikaba imbarwe ibiri, byavuyemo igihe inyanja yavuywamo.",
+  "tokens": [
+    {
+      "surface": "ופקעים",
+      "gloss": "ibidogo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "לשפתו",
+      "gloss": "ku rubiba rwayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "סבבים",
+      "gloss": "bizizungurutse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyanja"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amahema"
+    },
+    {
+      "surface": "מקפים",
+      "gloss": "bizengurukanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "imbarwe"
+    },
+    {
+      "surface": "הפקעים",
+      "gloss": "ibidogo"
+    },
+    {
+      "surface": "יצקים",
+      "gloss": "byavuyemo"
+    },
+    {
+      "surface": "ביצקתו",
+      "gloss": "igihe inyanja yavuywamo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:37:36.517286346Z",
+  "model": "glm-5.3"
+}

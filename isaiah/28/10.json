@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Dore itegeko ku itegeko, itegeko ku itegeko, umurongo ku murongo, umurongo ku murongo, gatoyi aho, gatoyi aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dore"
+    },
+    {
+      "surface": "צו",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ku itegeko"
+    },
+    {
+      "surface": "צו",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ku itegeko"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umurongo"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ku murongo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umurongo"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ku murongo"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gatoyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gatoyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:18.355679211Z",
+  "model": "glm-5.3"
+}

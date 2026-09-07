@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umushenzi arahujiza ⟨את⟩ amaboko ye, maze ararya ⟨את⟩ umubiri we.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Umushenzi"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "arahujiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaboko ye"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "amaboko ye"
+    },
+    {
+      "surface": "ו אכל",
+      "gloss": "maze ararya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri we"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umubiri we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:37.980035580Z",
+  "model": "glm-5.3"
+}

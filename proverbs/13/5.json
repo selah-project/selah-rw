@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ijambo rya bubifi umwikiriza rirabirukana, ariko inkozi y'ibibi iratunga ubuntu bwa 〈kandi〉 irakwiragiza.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rya bubifi"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "rirabirukana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umwikiriza"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "inkozi y'ibibi"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "iratunga ubuntu bwa"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "irakwiragiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:46.180490478Z",
+  "model": "glm-5.3"
+}

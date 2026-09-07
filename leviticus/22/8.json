@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Inyamaswa ipfuye ubwabyo cyangwa iyanenewe n'inyamaswa ntiburya ngo yikomereho ubwuzu muri ico; ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "inyamaswa ipfuye ubwabyo"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "n'iyanenewe n'inyamaswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "aburya"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ngo yikomereho ubwuzu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri ico"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:05.399747509Z",
+  "model": "glm-5.3"
+}

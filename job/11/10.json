@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Iyo Yahwe arenga, arafunga, akorana — ndi nde wamusubiza?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "arenga"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "arafunga"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "akorana"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi nde"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "wamusubiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:09.197801651Z",
+  "model": "glm-5.3"
+}

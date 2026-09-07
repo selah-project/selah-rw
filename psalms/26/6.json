@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ndoga ibiganza byanjye mu butunganye, maze nzengurutsa ⟨את⟩ igicaniro cyawe, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ndoga"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "mu butunganye"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ibiganza byanjye"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "maze nzengurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro cyawe"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "igicaniro cyawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:19.635673180Z",
+  "model": "glm-5.3"
+}

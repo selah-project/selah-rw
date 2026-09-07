@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Avuye muri Aramu (Aramu), no muri Moabu, no mu bana ba Ammoni (Ammoni), no mu Bafilisiti, no mu Amaleki, no mu mutwara wa Hadadezeri umwana wa Rehobu umwami wa Tsubaha.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "avuye muri Aramu"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "no muri Moabu"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "no mu bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "no mu Bafilisiti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "no mu Amaleki"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "no mu mutwara wa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsubaha"
+    }
+  ],
+  "timestamp": "2026-09-07T13:02:26.542605601Z",
+  "model": "glm-5.3"
+}

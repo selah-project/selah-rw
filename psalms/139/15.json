@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Umubiri wanjye ntubashishwa iwanawe, ubwo nakorewe mu ibanga, nashushanyijwe mu nsi y'isi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "-bashishwa"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Umubiri wanjye"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwanawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakorewe"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "nashushanyijwe"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "mu nsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:51.504180922Z",
+  "model": "glm-5.3"
+}

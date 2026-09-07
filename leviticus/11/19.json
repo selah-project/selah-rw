@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ hahasida, n'⟨i⟩ anafa ku bwoko bwayo, na ⟨את⟩ hadukifati, na ⟨את⟩ haatalafe",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hahasida"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hahasida ⟨inyoni⟩"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ku bwoko bwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hadukifati"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "hadukifati ⟨inyoni⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haatalafe"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "haatalafe ⟨agakwega⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:52.458109600Z",
+  "model": "glm-5.3"
+}

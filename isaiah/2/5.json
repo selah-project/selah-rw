@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "We, inzu ya Yaakovu, nimuze tugende mu mucyo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nimuze"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tugende"
+    },
+    {
+      "surface": "באור",
+      "gloss": "mu mucyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:16.117519840Z",
+  "model": "glm-5.3"
+}

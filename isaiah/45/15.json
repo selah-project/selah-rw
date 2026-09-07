@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Mu by'ukuri wowe Eli uhishwa, Elohimu w'i Yisraeli, Umukiza.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "uhishwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'i Yisraeli"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Umukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T15:20:24.908475270Z",
+  "model": "glm-5.3"
+}

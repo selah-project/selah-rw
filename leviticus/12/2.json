@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Vuga ku bana ba Yisraeli uti: Umugore iyo yatanye imbuto abyaye umuhungu, azaba idogi iminsi irindwi; nk'iminsi y'imvo y'uburwayi bwe, azaba idogi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Umugore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "yatanye imbuto"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "abyaye"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "azaba idogi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nk'iminsi"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "y'imvo"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "y'uburwayi bwe"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "azaba idogi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:35:28.887967124Z",
+  "model": "glm-5.3"
+}

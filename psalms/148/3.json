@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Musingize, izuba n'ukwezi; musingize, inyenyeri z'imurika zose.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "n'ukwezi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "musingize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "inyenyeri z'"
+    },
+    {
+      "surface": "אור",
+      "gloss": "imurika"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:33.544070968Z",
+  "model": "glm-5.3"
+}

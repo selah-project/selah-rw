@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Nka nzozi ijye mu kubyuka, Adonayi, mu kuzukura, urakemura ishusho yabo.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Nka nzozi"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ijye mu kubyuka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu kuzukura"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ishusho yabo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "urakemura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:48.580883242Z",
+  "model": "glm-5.3"
+}

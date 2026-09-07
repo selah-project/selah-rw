@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Turi abavandimwe cumi na babiri, abahungu b'ise wacu; umwe ntibonetse, na muto wa none ⟨ni⟩ ⟨את⟩ se wacu mu gihugu cya Kenaana.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "cumi na babiri (ibiri)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(cumi)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abavandimwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "b'ise wacu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ntibonetse"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "na muto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wa none"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se wacu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "se wacu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaana"
+    }
+  ],
+  "timestamp": "2026-09-07T08:23:35.175248137Z",
+  "model": "glm-5.3"
+}

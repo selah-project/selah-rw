@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Bakahinga imirima, bakateye imizabibu, bakora imbuto z'umusaruro.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "bakahinga"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "imirima"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "bakateye"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "imizabibu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "umusaruro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:51.006095429Z",
+  "model": "glm-5.3"
+}

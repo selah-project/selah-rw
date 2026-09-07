@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Umuriho n'urubura, icyeeya n'umwuka w'itonyanga, umuyaga ukaze, ukora ijambo rye.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Umuriho"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "n'urubura"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "icyeeya"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "n'umwuka w'itonyanga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ukaze"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:51.697405521Z",
+  "model": "glm-5.3"
+}

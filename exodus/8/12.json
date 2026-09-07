@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yabwiye Moshe ati: Wambwira Aharoni ngo: Kororoshya ⟨את⟩ umugote wawe, ukube ⟨את⟩ ivu ry'isi, maze ryahinduka ibinyugunyugu mu gihugu cyose cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wambwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "kororoshya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugote wawe"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "umugote wawe"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ukube"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivu ry'isi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry'isi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ryahinduka"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ibinyugunyugu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... cyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:09.434812200Z",
+  "model": "glm-5.3"
+}

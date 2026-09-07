@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Maze nzohereza mu mwe ⟨את⟩ inyamaswa z'ishyamba, izazakuraho abana ⟨את⟩ mwe, izarazimya ⟨את⟩ amatungo yanyu, izaragabanya ⟨את⟩ mwe, maze inzira zanyu zizahorera ubusa.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Maze nzohereza"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mu mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyamaswa z'ishyamba"
+    },
+    {
+      "surface": "חית",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "z'ishyamba"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "izazakuraho abana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "izarazimya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatungo yanyu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "amatungo yanyu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "izaragabanya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "zizahorera ubusa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "inzira zanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:55.427371423Z",
+  "model": "glm-5.3"
+}

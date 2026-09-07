@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yazamuye ho ⟨את⟩ amagufwa ya Shauli na ⟨את⟩ amagufwa ya Yehonatanu mwana we, maze bakusanyiye ⟨את⟩ amagufwa y'abarambarwa.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Yazamuye ho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana we"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "bakusanyiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "abarambarwa"
+    }
+  ],
+  "timestamp": "2026-09-07T13:19:23.605820835Z",
+  "model": "glm-5.3"
+}

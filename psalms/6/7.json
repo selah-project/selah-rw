@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Nanyoye n'ukunyurura kwanjye; ijoro ryose nijyisha ibiturane byanjye; n'imishyitse nemesha urw'anjye.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nanyoye"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "n'ukunyurura kwanjye"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "nijyisha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "(ijoro) ryose"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ibiturane byanjye"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "n'imishyitse"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "urw'anjye"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "nemesha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:58.628847580Z",
+  "model": "glm-5.3"
+}

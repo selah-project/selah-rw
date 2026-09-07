@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Gusa ⟨את⟩ umuryango wa Leviyi ntuwubare, na ⟨את⟩ umubare wabo ntuwufate hagati y'abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuryango wa Leviyi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "wa Leviyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ubare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umubare wabo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "umubare wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "fate"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:53.824796802Z",
+  "model": "glm-5.3"
+}

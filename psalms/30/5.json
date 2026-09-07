@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Muririmba kwa Yahwe, mwe abahesedi be, mushimire ku kwibuka ubutagatifu bwe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Muririmba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abahesedi be"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "mushimire"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ku kwibuka"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ubutagatifu bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:06.078172638Z",
+  "model": "glm-5.3"
+}

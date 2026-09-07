@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "na ⟨את⟩ ibishyimwe by'amatara n'amatara yabyo yo kwaka, uko amategeko abitegeka, imbere y'icyumba cy'imbere — zahabu ⟨yuje⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibishyimwe by'amatara"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "ibishyimwe by'amatara"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "n'amatara yabyo"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "yo kwaka"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "uko amategeko abitegeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "icyumba cy'imbere"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "yuje"
+    }
+  ],
+  "timestamp": "2026-09-07T22:08:00.164267672Z",
+  "model": "glm-5.3"
+}

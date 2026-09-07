@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze uzazishyira ⟨את⟩ mu nbariro ebyiri, imikare itandatu mu nbariro imwe, ku meza yera imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uzazishyira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mu nbariro ebyiri"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "nbariro"
+    },
+    {
+      "surface": "שש",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "mu nbariro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "yera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:52.637819465Z",
+  "model": "glm-5.3"
+}

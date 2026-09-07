@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Abahungu ba Elifazi bari Temani, Omaru, Tsefo, Gatamu, na Kenazi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abahungu"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Temani"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Omaru"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Tsefo"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "na Gatamu"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "na Kenazi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:49.958320129Z",
+  "model": "glm-5.3"
+}

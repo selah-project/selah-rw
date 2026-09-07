@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ntindira inka mu nzu yawe, ntindira sebero mu bworo bawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndindira"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "mu bworo bawe"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "sebero"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:22.127721229Z",
+  "model": "glm-5.3"
+}

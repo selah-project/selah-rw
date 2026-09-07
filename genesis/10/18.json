@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ abaArvadi (aba-aruvadi), na ⟨את⟩ abaTsemari, na ⟨את⟩ abaHamati; maze nyuma y'ibyo imiryango y'abaKenaani yatataganira hose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaArvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "abaArvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaTsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "abaTsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaHamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "abaHamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "nyuma y'ibyo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "yatataganira hose"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "y'abaKenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:52.284844390Z",
+  "model": "glm-5.3"
+}

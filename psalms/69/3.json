@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Nashize mu cyimba c'ivu, aho nta ho kwagenderaho; naza mu kire k'amazi, n'uruzi rwaranduyemo.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Nashize"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "cyimba c'ivu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aho nta"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ho kwagenderaho"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "naza"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "mu kire k'"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "n'uruzi"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "rwaranduyemo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:23.883763911Z",
+  "model": "glm-5.3"
+}

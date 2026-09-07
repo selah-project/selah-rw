@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Abana b'abapfa ubwenge, abana batagira izina, bakubishijwe mu gihugu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "abapfa ubwenge"
+    },
+    {
+      "surface": "גם",
+      "gloss": "abana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "batagira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "bakubishijwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:34:01.931740505Z",
+  "model": "glm-5.3"
+}

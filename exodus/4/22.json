@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze ubwire Paro uti: Uko Yahwe avuga iti: Yisraeli ⟨ni⟩ umwana wanjye, umwana wanjye w'ibanza.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Maze ubwire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga iti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "umwana wanjye w'ibanza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:45.645394496Z",
+  "model": "glm-5.3"
+}

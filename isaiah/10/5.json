@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yeho! Ashuru ⟨ni⟩ umugizi w'uburakari bwanjye, kandi igiti kiri mu ntoki zabo ni umujinya wanjye.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yeho"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umugizi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "w'uburakari bwanjye"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "kandi igiti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mu ntoki zabo"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "umujinya wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:15.049675399Z",
+  "model": "glm-5.3"
+}

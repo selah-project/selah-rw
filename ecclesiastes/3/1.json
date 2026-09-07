@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuri buri kintu hari igihe, n'igihe kuri buri giteganyo munsi y'ijuru.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kuri buri"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuri buri"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "giteganyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:41.526542187Z",
+  "model": "glm-5.3"
+}

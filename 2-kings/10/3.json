@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "murebe umwana mwiza n'ukwiye mu bana b'umwami wanyu, mubashyire ku ntebe ya se, murwane ku nzu y'umwami wanyu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "n'ukwiye"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bana b'"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "umwami wanyu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mubashyire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ntebe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya se"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "murwane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "y'umwami wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:49.021683010Z",
+  "model": "glm-5.3"
+}

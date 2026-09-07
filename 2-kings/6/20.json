@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mara baza i Shomeroni, Eliysha yaravuze ati: Yahwe, fungura ⟨את⟩ amaso y'aba bantu kugira ngo barebe. Yahwe arabifungura ⟨את⟩ amaso yabo, maze bareba, maze hagarara ko bari mu hakaze wa Shomeroni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "baza"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliysha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "fungura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso y'aba bantu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "y'aba bantu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kugira ngo barebe"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "arabifungura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yabo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amaso yabo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bareba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze hagarara ko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu hakaze wa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:27.021334730Z",
+  "model": "glm-5.3"
+}

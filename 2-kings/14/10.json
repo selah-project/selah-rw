@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Rwose wakokeye ⟨את⟩ Edomu, kandi umutima wawe warakuye; yigwirize icyubahiro, ucyare mu nzu yawe; kuki ushishikazwa mu bibi, ugira ngo ugwire wowe, na Yehuda hamwe nawe?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wakokeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "warakuye"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "yigwirize icyubahiro"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ucyare"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ushishikazwa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mu bibi"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ugira ngo ugwire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:19:23.002969799Z",
+  "model": "glm-5.3"
+}

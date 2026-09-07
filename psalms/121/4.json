@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Reba, ntaguhombera na nta rara uwurinda Yisraeli.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "guhombera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "rara"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "uwurinda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:18.988284323Z",
+  "model": "glm-5.3"
+}

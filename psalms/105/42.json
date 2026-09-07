@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Kuko yibukiye ⟨את⟩ ijambo rye ritagatifu, ⟨את⟩ Avrahamu (Aburahamu) umugaragu we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yibukiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo rye ritagatifu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rye ritagatifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu umugaragu we"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umugaragu we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:34.885387929Z",
+  "model": "glm-5.3"
+}

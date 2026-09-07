@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ni ingenzi kurusha ibyiza byose by'agaciro, n'ibyifuzo byawe byose ntibishobora kugereranywa nayo.",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "ingenzi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni (ijo)"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "ibyiza byose by'agaciro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "ibyifuzo byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "bishobora kugereranywa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:53.813679475Z",
+  "model": "glm-5.3"
+}

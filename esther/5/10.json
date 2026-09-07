@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ariko Hamani yiyubashye, araninjira mu nzu ye, aratuma azana ⟨את⟩ inshuti ze na ⟨את⟩ Zereshi umugore we.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "yiyubashye"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "araninjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "aratuma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inshuti ze"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "inshuti ze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zereshi"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:58:57.650600670Z",
+  "model": "glm-5.3"
+}

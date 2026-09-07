@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Umuntu arasohoka ajya mu murimo we no mu kazi ke, kugeza nimugoroba.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "arasohoka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ajya mu murimo we"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "no mu kazi ke"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nimugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:39.374898600Z",
+  "model": "glm-5.3"
+}

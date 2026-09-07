@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko ntiyafunze imiryango y'umura wanjye, kandi ntiyahisha amakuba ku maso yanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "yafunze"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "y'umura wanjye"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "kandi ntiyahisha"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amakuba"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ku maso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:01:06.699300642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ab'icumu mwari kwa Yahwe kuva ku munsi nazi ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Ab'icumu"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuva ku munsi"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:36.728323687Z",
+  "model": "glm-5.3"
+}

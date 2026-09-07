@@ -1,0 +1,77 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "1-samuel 13:6",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 13,
+ "translation": "Abagabo ba Yisraeli babonye ko yafashwe n'ibyago, ko abantu bahohotewe; abantu barahise mu byobo byo mu rutare, mu bwagashya, mu rutare, mu bihuru, no mu byobo.",
+ "tokens": [
+  {
+   "surface": "ואיש",
+   "gloss": "Abagabo ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "ראו",
+   "gloss": "babonye"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "צר",
+   "gloss": "yafashwe n'ibyago"
+  },
+  {
+   "surface": "לו",
+   "gloss": "ye"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "נגש",
+   "gloss": "bahohotewe"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "ויתחבאו",
+   "gloss": "barahise"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "במערות",
+   "gloss": "mu byobo byo mu rutare"
+  },
+  {
+   "surface": "ובחוחים",
+   "gloss": "mu bwagashya"
+  },
+  {
+   "surface": "ובסלעים",
+   "gloss": "mu rutare"
+  },
+  {
+   "surface": "ובצרחים",
+   "gloss": "mu bihuru"
+  },
+  {
+   "surface": "ובברות",
+   "gloss": "no mu byobo"
+  }
+ ],
+ "timestamp": "2026-09-07T12:30:24.944768582Z",
+ "model": "glm-5.3"
+}

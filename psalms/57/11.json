@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Kuko hesedi yawe ⟨ni⟩ nini kugeza mu ijuru, no kugeza mu birere ukuri kwawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "no kugeza"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mu birere"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ukuri kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:43.266815323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "N'umushyitsi ntimunyibaze, kandi ntimumufate nabi; kuko mwe ubwanyu mwarebeye ngo muri abashyitsi mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "n'umushyitsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "munyibaze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "mumufate nabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abashyitsi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mwarebeye ngo muri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:37.477144019Z",
+  "model": "glm-5.3"
+}

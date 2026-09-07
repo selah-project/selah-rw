@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Kuko wowe, Adonayi, ⟨uri⟩ mwiza n'uwo yambaza ibyaha, kandi hesedi yawe ⟨iri⟩ nyinshi ku bose bakugahamagara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "n'uwo yambaza ibyaha"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "nyinshi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bose"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "bakugahamagara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:44.002560305Z",
+  "model": "glm-5.3"
+}

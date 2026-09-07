@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nzahindukira muri mwe, nzabateza imbere ⟨את⟩ mwe, nzabongera ⟨את⟩ mwe, maze nzashimangira ⟨את⟩ beriti yanjye ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "nzahindukira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "nzabateza imbere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe (icyerekezo cya nzabateza imbere)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "nzabongera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe (icyerekezo cya nzabongera)"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "nzashimangira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti yanjye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe (ko beriti ime hamwe nanyu)"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:31.428655561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Umwangonyi ararindira umutunganya, kandi ashaka kumwica.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ararindira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangonyi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "umutunganya"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "kandi ashaka"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kumwica"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:17.477139815Z",
+  "model": "glm-5.3"
+}

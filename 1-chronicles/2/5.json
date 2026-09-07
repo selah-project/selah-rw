@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Peretsi: Hetseroni na Chamuli.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi (Perezi)"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetseroni (Hezironi)"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "na Chamuli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:56.671838474Z",
+  "model": "glm-5.3"
+}

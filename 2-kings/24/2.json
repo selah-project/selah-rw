@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Yahwe yarohereje kuri we ⟨את⟩ amatsinda y'ingabo y'Abakashadi (Abashalade), na ⟨את⟩ amatsinda y'ingabo y'Aramu (Abasiriya), na ⟨את⟩ amatsinda y'ingabo ya Mowabu, na ⟨את⟩ amatsinda y'ingabo y'abana ba Ammonu, maze arabohereza mu Yehuda ngo ayoreho, nk'ijambo rya Yahwe yavuze ku boko b'abagaragu be abahanuzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarohereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatsinda y'ingabo y'Abakashadi"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amatsinda y'ingabo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "y'Abakashadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatsinda y'ingabo y'Aramu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amatsinda y'ingabo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "y'Aramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatsinda y'ingabo ya Mowabu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amatsinda y'ingabo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Mowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatsinda y'ingabo y'abana ba Ammonu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amatsinda y'ingabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "arabohereza"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "ngo ayoreho"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nk'ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku boko"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "b'abagaragu be"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:12.882045489Z",
+  "model": "glm-5.3"
+}

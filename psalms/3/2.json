@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe, abaansi banjye bariyongereye gute! Abenshi ni abahagaze ku ruhare rwanjye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gute"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bariyongereye"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "abaansi banjye"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Abenshi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "abahagaze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku ruhare rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:56.974121432Z",
+  "model": "glm-5.3"
+}

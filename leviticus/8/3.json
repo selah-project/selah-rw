@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "kandi uhurize ⟨את⟩ umuryango wose ku rugi rw'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kandi uhurize ⟨את⟩",
+      "marks": "umuryango wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "uhurize"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rugi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:30:35.645543115Z",
+  "model": "glm-5.3"
+}

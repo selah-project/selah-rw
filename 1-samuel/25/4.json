@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Dawidi yumvise mu butayu ko Navali ari gukata ⟨את⟩ intama ze.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ari gukata"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama ze"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "intama ze"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:10.409318636Z",
+  "model": "glm-5.3"
+}

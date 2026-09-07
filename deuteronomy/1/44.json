@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 44,
+ "ref": "deuteronomy 1:44",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Maze wa mwami w'Abemori utuye muri iyo misozi yasohokye abakira, barabakurikira ⟨את⟩ mwe uko nyinshi z'inyenyeri zigenda zikora, barabatsinda i Seiri kugera i Kormahu.",
+ "tokens": [
+  {
+   "surface": "ויצא",
+   "gloss": "yasohokye"
+  },
+  {
+   "surface": "האמרי",
+   "gloss": "w'Abemori"
+  },
+  {
+   "surface": "הישב",
+   "gloss": "utuye"
+  },
+  {
+   "surface": "בהר",
+   "gloss": "muri iyo misozi"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "לקראתכם",
+   "gloss": "abakira"
+  },
+  {
+   "surface": "וירדפו",
+   "gloss": "barabakurikira"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "תעשינה",
+   "gloss": "zigenda zikora"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "nyinshi z'inyenyeri"
+  },
+  {
+   "surface": "ויכתו",
+   "gloss": "barabatsinda"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "בשעיר",
+   "gloss": "i Seiri"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugera"
+  },
+  {
+   "surface": "חרמה",
+   "gloss": "i Kormahu"
+  }
+ ],
+ "timestamp": "2026-09-07T10:43:33.982310249Z",
+ "model": "glm-5.3"
+}

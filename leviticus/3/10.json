@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ impyiko zibiri, na ⟨את⟩ ibinure ari kuri zo, ari ku mugongo wo hasi; na ⟨את⟩ agace k'igikara, ku mpyiko — azakuraho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko zibiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "kuri zo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mugongo wo hasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agace k'igikara"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "agace"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "igikara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mpyiko"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "azakuraho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:18.331103680Z",
+  "model": "glm-5.3"
+}

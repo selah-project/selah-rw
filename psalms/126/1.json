@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 126,
+  "translation": "Indirimbo y'inyigishi: mu kugarura kwa Yahwe ⟨את⟩ ubugarari bwa Tsiyoni, twari nka baryotoya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'inyigishi"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "mu kugarura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubugarari bwa Tsiyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ubugarari bwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "twari"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "nka baryotoya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:07.784197271Z",
+  "model": "glm-5.3"
+}

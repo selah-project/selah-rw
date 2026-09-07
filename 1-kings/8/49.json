@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze uzuhe mu ijuru, aho utuye, ⟨את⟩ ubusabe bwabo na ⟨את⟩ ubujurane bwabo, maze ukore ubutabera bwabo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Maze uzuhe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubusabe bwabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ubusabe bwabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubujurane bwabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ubujurane bwabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ubutabera bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:39:36.042562056Z",
+  "model": "glm-5.3"
+}

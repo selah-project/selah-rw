@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ amashyigikiro icumi, na ⟨את⟩ inkono icumi ari ku mashyigikiro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amashyigikiro icumi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "amashyigikiro"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inkono icumi"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "inkono"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mashyigikiro"
+    }
+  ],
+  "timestamp": "2026-09-07T13:35:06.075548126Z",
+  "model": "glm-5.3"
+}

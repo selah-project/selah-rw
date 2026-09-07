@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ariko iyo mutumvira jye, kandi mutaza gukora ⟨את⟩ amategeko yose aya;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ta-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mutumvira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi mutaza"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko yose aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:11.849971098Z",
+  "model": "glm-5.3"
+}

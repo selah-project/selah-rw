@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ariko iyo igitambo cye ari isingo cyangwa igitambo cy'ubushake, ku munsi azazanicya ⟨את⟩ igitambo cye kiribwa; no ku munsi ukurikira n'ibisigaye muri byo biribwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isingo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "igitambo cy'ubushake"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igitambo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "cye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "azazanicya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitambo cye"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "igitambo cye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kiribwa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "no ku munsi ukurikira"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "n'ibisigaye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "biribwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:10.731781805Z",
+  "model": "glm-5.3"
+}

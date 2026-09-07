@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze Moshe yohereje ⟨את⟩ umukwe we, maze aragenda ajya mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Maze Moshe yohereje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukwe we"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "umukwe we"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maze aragenda"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:08.055805692Z",
+  "model": "glm-5.3"
+}

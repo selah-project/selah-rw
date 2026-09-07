@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu mwaka wa gatatu w'ubwami bwe, yakoze urubyino ku batware be byose n'abagaragu be — ingabo za Parasi na za Madayi, abapartemi n'abatware b'intara — imbere ye.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mu mwaka wa"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "gatatu"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "w'ubwami bwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "urubyino"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku ... byose"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "abatware be"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "n'abagaragu be"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "za Parasi"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "na za Madayi"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "abapartemi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "n'abatware"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "b'intara"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:50.988789716Z",
+  "model": "glm-5.3"
+}

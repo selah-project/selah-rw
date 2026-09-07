@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Nigwirizwe kuri bo amakara yaka; mu muriro arabagwiza, mu byuzi binini — ntibazakira.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "nigwirizwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "amakara yaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "arabagwiza"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "mu byuzi binini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bazakira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:31.966399749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uwakubita se we cyangwa nyina, azapfira urupfu.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Uwakubita"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "cyangwa nyina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azapfira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:15.033215409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi Yahwe azaba umutezi w'abahohotewe, umutezi mu bihe by'agahinda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "umutezi"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "abahohotewe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "umutezi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "mu bihe"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "by'agahinda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:39.699049798Z",
+  "model": "glm-5.3"
+}

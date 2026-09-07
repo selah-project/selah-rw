@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "n'ingabo ze n'ibarurwa rye: ibihumbi bitanu n'arindwi, amajana ane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "n'ingabo ze"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "n'ibarurwa rye"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "n'arindwi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "bitanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    }
+  ],
+  "timestamp": "2026-09-07T09:59:00.578278964Z",
+  "model": "glm-5.3"
+}

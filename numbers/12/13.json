@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Moshe yararishije kwa Yahwe agira ati: Eli, ndagusaba, unakire, ndagusaba, yo.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "yararishije"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagusaba"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "unakire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagusaba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:12:37.126582221Z",
+  "model": "glm-5.3"
+}

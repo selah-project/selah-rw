@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Koko Yahwe yaratabunguye ⟨את⟩ Yaakovu, aramukiza mu biganza by'umuvunanyi ukomeye kurusha we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "yaratabunguye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "aramukiza"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "by'umuvunanyi ukomeye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kurusha we"
+    }
+  ],
+  "timestamp": "2026-09-07T16:09:36.681664349Z",
+  "model": "glm-5.3"
+}

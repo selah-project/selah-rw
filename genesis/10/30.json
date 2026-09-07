@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze aho batuye hari kuva i Meshah, iyo ugenda ugera i Sefarah, ku musozi w'iburasirazuba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "aho batuye"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "kuva i Meshah"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "iyo ugenda ugera"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "i Sefarah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "w'iburasirazuba"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:37.831376244Z",
+  "model": "glm-5.3"
+}

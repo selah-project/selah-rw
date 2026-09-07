@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ni bo bari mu bahakanyi b'urumuri; ntibamenye inzira zaryo, kandi ntibigumira mu nzira zaryo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "mu bahakanyi b'"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "bamenye"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "inzira zaryo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bigumira"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "mu nzira zaryo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:32:56.741251751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ntunyube n'ababi, na n'abakora ubwangizi — abavuga amahoro n'inshuti zabo, ariko ikibi kiri mu mutima wabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "nyube"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubwangizi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "abavuga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "inshuti zabo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ariko ikibi"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kiri mu mutima wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:35.365360624Z",
+  "model": "glm-5.3"
+}

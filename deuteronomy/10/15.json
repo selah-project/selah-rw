@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Gusa mu bakurambere banyu Yahwe yagize icyishimo, ngo yakunde ⟨את⟩ bo; maze mu urubyaro rwabo nyuma yabo yatoranya muri mwe, kurusha amahanga yose, nka uyu munsi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "mu bakurambere banyu"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "yagize icyishimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ngo yakunde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bakurambere banyu"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "maze yatoranya"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "mu urubyaro rwabo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "nyuma yabo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha... yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nka uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(uyu munsi)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:54.183162606Z",
+  "model": "glm-5.3"
+}

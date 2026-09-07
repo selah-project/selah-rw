@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kuko iyo bagwa, umwe azamura ⟨את⟩ inshuti ye; ariko iyo umwe agwa, kandi nta uwundi wo kumuzamura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bagwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inshuti ye"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "inshuti ye"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ariko iyo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "uwundi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "wo kumuzamura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:09.550350340Z",
+  "model": "glm-5.3"
+}

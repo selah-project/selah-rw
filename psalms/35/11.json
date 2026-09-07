@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Bazazuka abahamya ibyaha; ibyo nari ntazi, banabaza.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Bazazuka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abahamya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nari ntazi"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "banabaza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:25.887419170Z",
+  "model": "glm-5.3"
+}

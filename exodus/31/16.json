@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze abana ba Yisraeli (abana b'Isirayeli) bakibe intare ⟨את⟩ Shabati, bakora ⟨את⟩ Shabati ku bisekuruza byabo, nk'ibisekuruza (urategekanijwe) rw'iteka — beriti itagira iherezo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bakibe intare"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ku bisekuruza byabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "itagira iherezo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:09.741695315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Na kwa Zebulunu yaravuze ⟨ati⟩: Ishimwe, Zebulunu, mu gusohoka kwawe; na Yisaskaru, mu mahema yawe.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "Na kwa Zebulunu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "Ishimwe"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulunu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mu gusohoka kwawe"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "na Yisaskaru"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "mu mahema yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:27.797392653Z",
+  "model": "glm-5.3"
+}

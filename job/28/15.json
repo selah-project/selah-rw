@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Zahabu igoyi ntitangwa yo kuyisimbura, kandi ifeza ntipimwa nk'igiciro cyayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "titangwa"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "Zahabu igoyi"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "yo kuyisimbura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "tipimwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "nk'igiciro cyayo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:32:52.571545676Z",
+  "model": "glm-5.3"
+}

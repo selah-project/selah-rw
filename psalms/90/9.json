@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Uko iminsi yacu yose yarenze mu irembo ryawe, twarangirije imyaka yacu nka umuvumo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iminsi yacu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "yarenze"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "mu irembo ryawe"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "twarangirije"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "imyaka yacu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "umuvumo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.641268661Z",
+  "model": "glm-5.3"
+}

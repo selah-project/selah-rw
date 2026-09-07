@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yabwiye Moshe na Aharoni ati: Nimwite mu maboko yanyu ibyuzuye ifumu y'igikoni cy'umuriro, maze Moshe ayihanure hejuru mu ijuru, imbere y'amaso ya Paro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "nimwite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ibyuzuye"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "mu maboko yanyu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ifumu"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "y'igikoni cy'umuriro"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ayihanure"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "hejuru mu ijuru"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:50.470435168Z",
+  "model": "glm-5.3"
+}

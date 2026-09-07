@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umuntu aravuga ati: \"Umugore washyiriye iwanjye, ni we wantanze ku giti, maze nararye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "washyiriye"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wantanze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nararye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:42.411359362Z",
+  "model": "glm-5.3"
+}

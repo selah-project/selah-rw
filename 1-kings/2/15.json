@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 2:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Aravuga ati: Wowe uzi ko ubwami bwari ubwanjye, kandi Yisraeli yose yampaye amaso yabo ngo ndatege; ariko ubwami bwahindutse, bukaba uwa mwanjwe — ko bwa Yahwe bwari bwiwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Aravuga ati"
+    },
+    {
+      "surface": "את",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ubwanjye"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bwari"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "yampaye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngo ndatege"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "bwahindutse"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "bukaba"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "uwa mwanjwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bwari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bwiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:30.479655913Z",
+  "model": "glm-5.3"
+}

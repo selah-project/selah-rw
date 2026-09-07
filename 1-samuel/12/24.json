@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Gusa mugire ubwoba bwa ⟨את⟩ Yahwe, mumugaragire ⟨את⟩ we mu kuri, mu mutima wanyu wose; kuko mureka mwibuke ⟨את⟩ ibyo yakoze inkuru kuri mwe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mugire ubwoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mumugaragire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mu kuri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … wose"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mutima wanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mureka mwibuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo yakoze inkuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yakoze inkuru"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kuri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:57.007731559Z",
+  "model": "glm-5.3"
+}

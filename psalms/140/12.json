@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Umuny'ururimi rwabi ntabwo azahoraho mu gihugu; umuntu w'ubugome n'uburyo ibibi bimu gemuye kumumena.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "w'ururimi rwabi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "azahoraho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "w'ubugome"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n'uburyo"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "bimugemuye"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "kumumena"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:31.968228482Z",
+  "model": "glm-5.3"
+}

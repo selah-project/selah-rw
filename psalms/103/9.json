@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Ntabwe azarwanira iteka, kandi ntabwe azabika umujinya mu iteka ryose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "azarwanira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntabwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka ryose"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "azabika (umujinya)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:46.047292601Z",
+  "model": "glm-5.3"
+}

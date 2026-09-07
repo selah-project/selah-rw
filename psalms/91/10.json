@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Ibibi ntibizaguhera, n'uburwayi ntibuzegera mu hema yawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bizaguhera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "n'uburwayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "buzegera"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mu hema yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:12.550680320Z",
+  "model": "glm-5.3"
+}

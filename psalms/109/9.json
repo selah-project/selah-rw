@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Abahungu be nibere impfubyi, n'umugore we akabe umupfakazi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "nibere"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "impfubyi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "n'umugore we"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "akabe umupfakazi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:26.482970150Z",
+  "model": "glm-5.3"
+}

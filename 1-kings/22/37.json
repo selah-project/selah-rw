@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze umwami yarapfuye, umwami yazanywe i Shomeroni, maze bamuze ⟨את⟩ umwami muri Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yarapfuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "yazanywe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "i Shomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "maze bamuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muri Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-07T14:02:48.862553921Z",
+  "model": "glm-5.3"
+}

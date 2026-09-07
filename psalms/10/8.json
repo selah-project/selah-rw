@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yicara mu myuma y'imidugudu, mu mahisha yica umwere; amaso ye arategereza mu bworo umukene.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Yicara"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "mu myuma"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "y'imidugudu"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mu mahisha"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "yica"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "umwere"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "arategereza mu bworo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:14.026822011Z",
+  "model": "glm-5.3"
+}

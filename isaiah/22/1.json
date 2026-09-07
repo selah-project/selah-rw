@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Umuzigo w'ikibaya cy'ibyumviro: ni ikiyabaye ubu, ko wazamutse wose ujya ku madodome?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umuzigo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ikibaya"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ibyumviro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "wazamutse"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "wose"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ku madodome"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:24.402218889Z",
+  "model": "glm-5.3"
+}

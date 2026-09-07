@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Mu by'ukuri, uburwayi bwacu ni we wabunganije, ibyago byacu ni we wayibye; ariko twe twamwerekanye ko atwarwa n'indwara, ko yakubiswe n'Elohimu, n'ubumuga.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "uburwayi bwacu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wabunganije"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "ibyago byacu"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "ni we wayibye"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ariko twe"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "twamwerekanye ko"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "atwarwa n'indwara"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yakubiswe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n'Elohimu"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "n'ubumuga"
+    }
+  ],
+  "timestamp": "2026-09-07T15:28:44.446477035Z",
+  "model": "glm-5.3"
+}

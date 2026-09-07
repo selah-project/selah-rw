@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze ashize ⟨את⟩ umubiri we mu idahe ye, bakamurira bati: Aho, mukuru wanjye!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri we"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "umubiri we"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "mu idahe ye"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "bakamurira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mukuru wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:06.891843984Z",
+  "model": "glm-5.3"
+}

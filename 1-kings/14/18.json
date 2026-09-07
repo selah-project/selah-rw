@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "1-kings 14:18",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Bamuziye ⟨את⟩ we, baramubabariye, Yisraeli yose; nk'ijambo rya Yahwe ryavuzwe b'uboko bwa we, b'umugaragu we Ahiyahu nabi.",
+ "tokens": [
+  {
+   "surface": "ויקברו",
+   "gloss": "bamuziye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "bamuziye"
+  },
+  {
+   "surface": "ויספדו",
+   "gloss": "baramubabariye"
+  },
+  {
+   "surface": "לו",
+   "gloss": "(baramubabariye)"
+  },
+  {
+   "surface": "כל",
+   "gloss": "yose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "כדבר",
+   "gloss": "nk'ijambo"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "rya Yahwe"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(ryavuzwe)"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "ryavuzwe"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "b'uboko bwa"
+  },
+  {
+   "surface": "עבדו",
+   "gloss": "we b'umugaragu"
+  },
+  {
+   "surface": "אחיהו",
+   "gloss": "Ahiyahu"
+  },
+  {
+   "surface": "הנביא",
+   "gloss": "nabi"
+  }
+ ],
+ "timestamp": "2026-09-07T21:34:20.691690698Z",
+ "model": "glm-5.3"
+}

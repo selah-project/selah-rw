@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yakoze nk'ijambo rya Moshe; maze ibikeri birapfa, biva mu nzu, biva mu imbuga, no biva mu mirima.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nk'ijambo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "rya Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "birapfa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ibikeri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "biva"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "biva"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "mu imbuga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no biva"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mu mirima"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:09.434283737Z",
+  "model": "glm-5.3"
+}

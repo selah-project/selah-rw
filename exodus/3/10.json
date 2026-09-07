@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "None rero hakuze, maze nzakohereza kwa Paro, ukurure ⟨את⟩ abantu banjye, abana ba Yisraeli, mu Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rero"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hakuze"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "nzakohereza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ukurure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:31.195055013Z",
+  "model": "glm-5.3"
+}

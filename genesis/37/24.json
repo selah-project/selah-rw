@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Baramufata, baramunanira ⟨את⟩ muri urwobo; maze urwo rwobo rwarimo ubusa — nta mazi rwo muri rwo.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "baramufata"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "baramunanira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "muri urwobo"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "urwo rwobo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "rwarimo ubusa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri rwo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:19:47.338935277Z",
+  "model": "glm-5.3"
+}

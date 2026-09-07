@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Ni iki ngahereza ku Yahwe, ku bimenyetso by'ubuntu byose bye kuri jye?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngahereza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "ku bimenyetso by'ubuntu bye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri jye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:18.564860443Z",
+  "model": "glm-5.3"
+}

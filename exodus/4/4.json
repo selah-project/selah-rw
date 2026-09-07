@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe abwira Moshe ati: Korera ukuboko, uzifate ku munyegere wawo. Aterera ukuboko kwe arakwata, maze uhihinduka umuti mu nkono ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "korera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "uzifate"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "ku munyegere wawo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "aterera"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "arakwata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-kwata"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze uhihinduka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "umuti"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "mu nkono ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:16.316527517Z",
+  "model": "glm-5.3"
+}

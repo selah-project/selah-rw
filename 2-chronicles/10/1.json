@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Rehavamu yagiye i Shekemu, kuko i Shekemu Yisraeli yose yaje kumweme ⟨את⟩we umwami.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "i Shekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kumweme umwami"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩we",
+      "marks": "Rehavamu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:07.184065240Z",
+  "model": "glm-5.3"
+}

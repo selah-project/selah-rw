@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Ese kuri ibi, Yahwe, uzohangana? Uzuma, kandi udukote kugeza cyane?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Ese kuri"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "uzohangana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "uzuma"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "kandi udukote"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:10.690789484Z",
+  "model": "glm-5.3"
+}

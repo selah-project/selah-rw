@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 33:23",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Uduhehe twawe dutsiwe; ntidushobora gukomeza umusingi w'urwange rwabo, ntibashobora kumeneka urwange; ubwo umutungo w'ubutunzi nyinshi uzatunganirwa, kandi ibimuga biratura ubutura.",
+  "tokens": [
+    {
+      "surface": "נטשו",
+      "gloss": "dutsiwe"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "uduhehe twawe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "bashobora gukomeza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "umusingi"
+    },
+    {
+      "surface": "תרנם",
+      "gloss": "urwange rwabo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "bashobora kumeneka"
+    },
+    {
+      "surface": "נס",
+      "gloss": "urwange"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "uzatunganirwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "w'"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "umutungo w'ubutunzi"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "nyinshi"
+    },
+    {
+      "surface": "פסחים",
+      "gloss": "ibimuga"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "biratura"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ubutura"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:15.088351333Z",
+  "model": "glm-5.3"
+}

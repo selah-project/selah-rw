@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uboshe ⟨את⟩ isoko na ⟨את⟩ ishingiro ryaryo, maze utangize ⟨את⟩ uwo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uboshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isoko"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "isoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ishingiro ryaryo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ishingiro ryaryo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "utangize"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uwo",
+      "marks": "isoko"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:27.743444560Z",
+  "model": "glm-5.3"
+}

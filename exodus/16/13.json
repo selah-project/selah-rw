@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze mu bwijime ibishuhe bizamutse maze bikorize ⟨את⟩ urwobo; mu gitondo ho hakaba hari igice cy'imvura y'igitondo igizengeye urwobo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu bwijime"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "bizamutse"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "ibishuhe"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "maze bikorize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwobo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "urwobo"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hakaba"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "igice"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "cy'imvura y'igitondo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "igizengeye"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "urwobo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:19.839570076Z",
+  "model": "glm-5.3"
+}

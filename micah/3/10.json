@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bakira Tsiyoni mu maraso, na Yerushalayimu mu nabi.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Bakira"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "mu nabi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:20.071822303Z",
+  "model": "glm-5.3"
+}

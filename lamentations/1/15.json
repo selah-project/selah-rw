@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Adonayi yabuze agaciro abashobozi banjye bose hagati yanjye; yahamagarije itari kurwanya njye, yo kurimbura abasore banjye; Adonayi yateye mu rwando rw'umuzabibu ku isugi, umukobwa wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "yabuze agaciro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "abashobozi banjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yahamagarije"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kurwanya njye"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "itari"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "yo kurimbura"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "abasore banjye"
+    },
+    {
+      "surface": "גת",
+      "gloss": "mu rwando rw'umuzabibu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yateye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "ku isugi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T19:50:09.773790184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Yarahiriwe umugabo wasize Yahwe ⟨nk'⟩icyizere cye, kandi ntiyerekeje kuri ibigwari, na bahunza ibinyoma.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Yarahiriwe"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wasize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "icyizere cye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "yerekeje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ibigwari"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "na bahunza"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:48.776470618Z",
+  "model": "glm-5.3"
+}

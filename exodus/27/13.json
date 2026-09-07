@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi ubugari bw'urubariro ku mbere, iburasirazuba, ni ⟨amafunda⟩ mirongo itanu.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Kandi ubugari"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bw'urubariro"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku mbere"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ku ruhande rw'iburengerazuba n'iburasirazuba"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "iburasirazuba"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amafunda"
+    }
+  ],
+  "timestamp": "2026-09-07T09:03:24.644143642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Tuzinjira mu mashukani ye, tugwe hasi imbere y'agahamwe k'amaguru ye.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Tuzinjira"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "mu mashukani ye"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tugwe hasi imbere"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "k'agahamwe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "k'amaguru ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:45.669848758Z",
+  "model": "glm-5.3"
+}

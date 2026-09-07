@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yagize intoki ku bavukana mbere bose mu gihugu cyabo, umwambere w'imbaraga zabo zose.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yagize intoki ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bavukana mbere"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "mu gihugu cyabo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "umwambere w'"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "imbaraga zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:50.657308349Z",
+  "model": "glm-5.3"
+}

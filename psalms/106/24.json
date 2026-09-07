@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Bansonnye igihugu cy'ineza, ntibatemeye ijambo rye.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "bansonnye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "cy'ineza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "batemeye"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "ijambo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:29.912697955Z",
+  "model": "glm-5.3"
+}

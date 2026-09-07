@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ntibameze nk'uko abakora ibibi; ahubwo ari nk'ibishishwa umuyaga ubirukana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "nk'ibishishwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(uko)"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "birukanwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "n'umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:49.473996955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Vuga kuri abana ba Yisraeli, maze uvuge kuri bo uti: umuntu iyo yemeza neza nedeeri, mu giciro cyawe Nefeshi ni za Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "maze uvuge"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "yemeza neza"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nedeeri"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "mu giciro cyawe"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni za Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:53.055258221Z",
+  "model": "glm-5.3"
+}

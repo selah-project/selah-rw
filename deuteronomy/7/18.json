@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ntutinye bo; mu by'ukuri uzibuke ⟨את⟩ ibyo Yahwe Elohimu wawe yakora ku Paro no ku Mitsrayimu yose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "uzibuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo Yahwe Elohimu wawe yakora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ku Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "no ku ... yose"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:35.797580172Z",
+  "model": "glm-5.3"
+}

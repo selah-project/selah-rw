@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Yahwe yagirwe imibyishimo avuye muri Tsiyoni, we utuye mu Yerushalayimu — mushimire Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yagirwe imibyishimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "avuye muri Tsiyoni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mushimire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:30.560389421Z",
+  "model": "glm-5.3"
+}

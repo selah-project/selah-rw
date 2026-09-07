@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Iyo mwe mukwiye ⟨את⟩ imibare y'isi yanyu, nturangize impera y'umurima wawe mu gukwiya, kandi ibisigaze by'imibare yawe ntuzirundura.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "iyo mwe mukwiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imibare"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "imibare"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "y'isi yanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "turangize"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "impera"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "y'umurima wawe"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "mu gukwiya"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "kandi ibisigaze"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "by'imibare yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "uzirundura"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:09.519151452Z",
+  "model": "glm-5.3"
+}

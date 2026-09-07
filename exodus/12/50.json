@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze abana ba Yisraeli bose bakoze uko Yahwe yategetse ⟨את⟩ Moshe na ⟨את⟩ Aharoni; uko ni ko bakoze.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "maze bakoze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko ni ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:28.292269584Z",
+  "model": "glm-5.3"
+}

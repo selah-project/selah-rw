@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bose bazasubiza bakanavuga kuri wowe na uti: na wowe urwaye nka twebwe? kuri twebwe wafananye?",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Bose"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bazasubiza"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bakanavuga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "urwaye"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "nka twebwe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kuri twebwe"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "wafananye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:25.596042283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Uwutuye mu ibanga rya Elyoni, mu gicucu cya Shadayi agumaho. ⟨Shadayi (Ushoborabyose)⟩",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Uwutuye"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga rya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mu gicucu cya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "agumaho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:03.075783336Z",
+  "model": "glm-5.3"
+}

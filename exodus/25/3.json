@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi iyi ni iyo mpano muzatanga ku ⟨את⟩ bo: zahabu, na feza, na kopinga.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kandi iyi"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "iyo mpano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo ari yo"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muzatanga"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ku ⟨את⟩ bo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na feza"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "na kopinga"
+    }
+  ],
+  "timestamp": "2026-09-07T09:03:18.276384340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi njye nakumva ariko ntiyumvi; maze navuze ndi ti: Adonayi wanjye, ihere ryaibi ni iki?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kandi njye"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakumva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "maze navuze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ihere rya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:06:08.456191769Z",
+  "model": "glm-5.3"
+}

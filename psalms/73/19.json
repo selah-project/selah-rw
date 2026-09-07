@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Bate angaha baba inyandamazi? Mu kanya gato barangiye, bararangiye, binyujije mu byago.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Bate angaha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "inyandamazi"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "mu kanya gato"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "barangiye"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "bararangiye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "binyujije"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "mu byago"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:48.579880937Z",
+  "model": "glm-5.3"
+}

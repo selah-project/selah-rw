@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ku bw'ibyaha byose bya Bashaa, n'ibyaha bya Elahi umuhungu we, uko barabyaha n'uko barahishije ⟨את⟩ Yisraeli, ngo bashavise ⟨את⟩ Yahwe, Elohimu wa Yisraeli, mu mahumana yabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ku bw'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "bya Bashaa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "n'ibyaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bya Elahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "barabyaha"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "n'uko"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "barahishije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "ngo bashavise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "mu mahumana yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:52:45.564761565Z",
+  "model": "glm-5.3"
+}

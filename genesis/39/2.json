@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Maze Yahwe yari ⟨את⟩ Yosefu, na we akaba umuntu w'umunyabwite, akaba mu nzu ya shebuja we, umunyamitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na we akaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "w'umunyabwite"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akaba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya shebuja we"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "umunyamitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:57.439932944Z",
+  "model": "glm-5.3"
+}

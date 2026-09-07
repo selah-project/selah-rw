@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi buri muntu kurya no kunywa, no kureba icyiza mu murimo we wose — impahwa y'Elohimu ⟨ni⟩ yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "no kunywa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "no kureba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … wose"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "umurimo we"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "impahwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "y'Elohimu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:31.259712453Z",
+  "model": "glm-5.3"
+}

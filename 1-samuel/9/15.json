@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe na we yari yagaye ⟨את⟩ ugushimu kwa Shemuweli (Samweli) umunsi umwe mbere y'uko Shauli (Sawuli) yaza, ati:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yari yagaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugushimu kwa Shemuweli"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ugushimu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "kwa Shemuweli"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "yaza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:34.335059663Z",
+  "model": "glm-5.3"
+}

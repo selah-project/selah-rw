@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Elohimu yarumvise maze arakaza, arananze cyane Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yarumvise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "maze arakaza"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "arananze"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:46.014838315Z",
+  "model": "glm-5.3"
+}

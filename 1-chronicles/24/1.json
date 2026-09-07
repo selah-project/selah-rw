@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Amatsinda y'abahungu b'Aharoni: abahungu b'Aharoni ⟨ni⟩ Nadabi na Avihudu, Elazari na Itamari.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "y'abahungu b'Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "amatsinda yabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "b'Aharoni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Avihudu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamari"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:49.869546430Z",
+  "model": "glm-5.3"
+}

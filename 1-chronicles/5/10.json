@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mu minsi ya Shauli barwanye intambara na ⟨Abahagari⟩, maze baratsindwa mu biganza byabo, maze batuye mu mahema yabo ku buso bwose bw'i burasirwa bwa Giladi.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "Mu minsi ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "barwanye"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "Abahagari"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "maze baratsindwa"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mu biganza byabo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "maze batuye"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mu mahema yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "פני",
+      "gloss": "buso"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "bw'i burasirwa"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "bwa Giladi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:45.681493678Z",
+  "model": "glm-5.3"
+}

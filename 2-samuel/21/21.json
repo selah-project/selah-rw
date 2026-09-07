@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": " maze atuje Yisraeli, maze Yehonatanu mwene Shimei, musaza wa Dawidi, aramwica ⟨את⟩ Yisraeli w'aturitse",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "maze atuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "aramwica"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "musaza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:16:30.269543992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ urugi rw'amafi barubatse abana ba Hasenahi; bo barashyize ibyatsi byarwo, maze bashyiraho inzugi zawo, ibikingiro byawo n'imyendero yawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urugi rw'amafi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "urugi"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "amafi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "barubatse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ba Hasenahi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "barashyize ibyatsi byarwo"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "maze bashyiraho"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "inzugi zawo"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "ibikingiro byawo"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "n'imyendero yawo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:23:10.429455098Z",
+  "model": "glm-5.3"
+}

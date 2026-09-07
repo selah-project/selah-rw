@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Zaha Elohimu igitangwa cyo gushimira, uhore ibirahiro byawe kwa El Elyoni ⟨Imana ihejejuju⟩.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Zaha"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "igitangwa cyo gushimira"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "uhore"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kwa El Elyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ibirahiro byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:50.977841989Z",
+  "model": "glm-5.3"
+}

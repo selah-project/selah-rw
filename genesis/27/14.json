@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Aragenda, arafata, maze azana kwa nyina; nyina akora ibiryo bishimishya nk'uko se yakundaga.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "argenda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "arafata"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kwa nyina"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "akora"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ibiryo bishimishya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakundaga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:34.762910767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Baragura akanwa kabo ku rubanza rwanjye, bati: Heha, heha, amaso yacu yabibonye.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "baragura"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku rubanza rwanjye"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "akanwa kabo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "yabibonye"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "amaso yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:03.827374283Z",
+  "model": "glm-5.3"
+}

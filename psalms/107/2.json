@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Bavuge abakuriwe b'a Yahwe, abo yakuriye mu biganza by'umwanzi.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Bavuge"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "abakuriwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "b'a Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "yakuriye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "by'umwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:32.640407937Z",
+  "model": "glm-5.3"
+}

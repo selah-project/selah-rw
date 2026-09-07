@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "amaguru yacyo ari icyuma, ibirenge vye igice cy'icyuma n'igice cy'ibumba.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "amaguru yacyo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ari"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "ibirenge vye"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "igice"
+    },
+    {
+      "surface": "די",
+      "gloss": "cy'"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "n'igice"
+    },
+    {
+      "surface": "די",
+      "gloss": "cy'"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "ibumba"
+    }
+  ],
+  "timestamp": "2026-09-07T20:04:43.771635805Z",
+  "model": "glm-5.3"
+}

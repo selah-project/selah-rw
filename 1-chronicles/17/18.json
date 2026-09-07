@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ni iki Dawidi ashobora kongera kubwira wowe ku cyubahiro cy'umugaragu wawe ⟨את⟩? Kandi wowe, ⟨את⟩ umugaragu wawe umaze kumenya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ashobora kongera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kindi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ku cyubahiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "cy'umugaragu wawe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kandi wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umaze kumenya"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:05.937521954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 65:10",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 65,
+ "translation": "Wasuye isi wayunywisha, urayiteza imbere cyane; urwobo rwa Elohimu ruruzuye amazi; urategura ingano yabo, kuko uko ni ko urayitegura.",
+ "tokens": [
+  {
+   "surface": "פקדת",
+   "gloss": "wasuye"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "ותשקקה",
+   "gloss": "wayunywisha"
+  },
+  {
+   "surface": "רבת",
+   "gloss": "cyane"
+  },
+  {
+   "surface": "תעשרנה",
+   "gloss": "urayiteza imbere"
+  },
+  {
+   "surface": "פלג",
+   "gloss": "urwobo"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "מלא",
+   "gloss": "ruruzuye"
+  },
+  {
+   "surface": "מים",
+   "gloss": "amazi"
+  },
+  {
+   "surface": "תכין",
+   "gloss": "urategura"
+  },
+  {
+   "surface": "דגנם",
+   "gloss": "ingano yabo"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "כן",
+   "gloss": "uko"
+  },
+  {
+   "surface": "תכינה",
+   "gloss": "urayitegura"
+  }
+ ],
+ "timestamp": "2026-09-07T18:27:28.043870093Z",
+ "model": "glm-5.3"
+}

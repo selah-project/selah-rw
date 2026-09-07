@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Uyu ni wo umuryango wa Yahwe; abatunganye bazajyamo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abatunganye"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazajya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:44.206274182Z",
+  "model": "glm-5.3"
+}

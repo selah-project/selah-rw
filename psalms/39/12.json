@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Mu kwibwirizwa ku cyaha wahanye umuntu, maze warasenyutse nka uruma ⟨ibyo akunda⟩; mu by'ukuri, umuntu wese ni ubusa. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "mu kwibwirizwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "wahanye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "warasenyutse"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "nka uruma"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ibyo akunda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:08.577394040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze igihe ibimenyetso ibi bizakugeraho, kora ugukunda ibyo ukwawe kuzabona, kuko Elohimu ari kumwe na wowe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "bizakugeraho"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "ibimenyetso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku rwawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugukunda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kuzabona"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ari kumwe na wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:29:36.790320404Z",
+  "model": "glm-5.3"
+}

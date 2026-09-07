@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Maze akoza ⟨את⟩ igitambaro cya mu bituza, cyakorewe mu buhinga bw'abakoranyi, nk'uko efodi yakorewe: zahabu, ubururu bw'ijwi n'ubwijima, umwumba w'irobu, n'uruhu rw'umweru rufumbye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maze akoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitambaro cya mu bituza"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "igitambaro cya mu bituza"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "cyakorewe"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mu buhinga bw'abakoranyi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "nk'uko yakorewe"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ubururu bw'ijwi n'ubwijima"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "n'umwumba w'irobu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "n'uruhu rw'irobu ryoroshi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rw'umutuku ijosi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "n'uruhu rw'umweru"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rufumbye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:21.535545773Z",
+  "model": "glm-5.3"
+}

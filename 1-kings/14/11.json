@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Uzapfa kuri Yaravamu mu mujyi, imbwa zizamurya; na uzapfa mu murima, inyoni z'ijuru zizamurya; kuko Yahwe yabivuze.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Uzapfa"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kuri Yaravamu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizamurya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na uzapfa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizamurya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabivuze"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:34.251672308Z",
+  "model": "glm-5.3"
+}

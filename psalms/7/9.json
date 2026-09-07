@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe azashtmura amoko: unshinjire, Yahwe, nk'ubutunganye bwanjye no nk'ukuri kwanjye kuri njye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "azashtmura"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "unshinjire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "nk'ubutunganye bwanjye"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "no nk'ukuri kwanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:24.535434739Z",
+  "model": "glm-5.3"
+}

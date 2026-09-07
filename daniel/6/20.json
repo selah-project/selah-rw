@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mu maa mbere mbere, mu bihuti, umwabi yazutse maze agenda ku mwobo w'intare.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Mu maa mbere mbere"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "umwabi"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "kare cyane"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yazutse"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "ku maa"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "mu bihuti"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "ku mwobo"
+    },
+    {
+      "surface": "די",
+      "gloss": "w'"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "intare"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "agenda"
+    }
+  ],
+  "timestamp": "2026-09-07T20:10:57.560202496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Shemuweli yapfuye, none hose Yisraeli yose yaramuwe, bamushyinguye i Ramahu, mu mujyi we. Shauli yakuyeho mu gihugu ababaz'abapfuye na ⟨את⟩ abamenyi b'ibyaha.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "yaramuwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "bamushyinguye"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Ramahu"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "mu mujyi we"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yakuyeho"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ababaz'abapfuye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abamenyi b'ibyaha"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "abamenyi b'ibyaha"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:14.236710601Z",
+  "model": "glm-5.3"
+}

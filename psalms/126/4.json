@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 126,
+  "translation": "Subira inyuma, Yahwe, ⟨את⟩ ubwatunzi bwacu nka imigezi mu Negebu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Subira inyuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwatunzi bwacu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ubwatunzi bwacu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "nka imigezi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "mu Negebu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:58.787270655Z",
+  "model": "glm-5.3"
+}

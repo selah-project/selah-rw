@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nk'inuma ihinda, nk'inyoni yubuka ibitega, ni ko umuvumo udafite impamvu ntuzagera.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "nk'inuma"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ihinda"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "nk'inyoni yubuka ibitega"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "mu kubuka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "umuvumo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "udafite impamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "zagera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:04.744801006Z",
+  "model": "glm-5.3"
+}

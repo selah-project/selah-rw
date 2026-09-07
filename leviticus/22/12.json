@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi umukobwa wa kohenu iyo yaba ku mugore w'umunyamahanga, we mu impano z'ibintu byera ntibarya.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "kandi umukobwa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wa kohenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ku mugore"
+    },
+    {
+      "surface": "זר",
+      "gloss": "w'umunyamahanga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "mu impano"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "z'ibintu byera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "barya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:00.909655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yahwe yarabwira Aharoni ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yarabwira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati:"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:33.878455283Z",
+  "model": "glm-5.3"
+}

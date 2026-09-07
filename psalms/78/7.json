@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 78:7",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 78,
+ "translation": "Bashyire icyizere cyabo muri Elohimu, ntibanibagirwa ibyakozwe bya Eli, kandi amategeko ye bazirinde.",
+ "tokens": [
+  {
+   "surface": "וישימו",
+   "gloss": "bashyire"
+  },
+  {
+   "surface": "באלהים",
+   "gloss": "muri Elohimu"
+  },
+  {
+   "surface": "כסלם",
+   "gloss": "icyizere cyabo"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "kandi ntiba"
+  },
+  {
+   "surface": "ישכחו",
+   "gloss": "nibagirwa"
+  },
+  {
+   "surface": "מעללי",
+   "gloss": "ibyakozwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Eli"
+  },
+  {
+   "surface": "ומצותיו",
+   "gloss": "amategeko ye"
+  },
+  {
+   "surface": "ינצרו",
+   "gloss": "bazirinde"
+  }
+ ],
+ "timestamp": "2026-09-07T21:57:02.328495650Z",
+ "model": "glm-5.3"
+}

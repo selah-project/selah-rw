@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Yahwe yarabwiye Moshe ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati:"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:14.757575895Z",
+  "model": "glm-5.3"
+}

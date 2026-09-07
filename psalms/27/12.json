@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ntunzunde ku kwifuza kw'abansi banjye; kuko abahamya ibinyoma barahagaze ku nyanjye, banapfumuza inkabi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntu"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "nzunde"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ku kwifuza"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kw'abansi banjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "barahagaze"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku nyanjye"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abahamya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "banapfumuza"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "inkabi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:48.475746025Z",
+  "model": "glm-5.3"
+}

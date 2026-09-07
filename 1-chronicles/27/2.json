@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ku ntunganyo ya mbere y'ukwezi kwa mbere, Yashobamu mwene Zabdieli (Yazobamu); no ku ntunganyo ye, ibihumbi makumyabiri n'ane.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "ntunganyo"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "y'ukwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kwa mbere"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "Yashobamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "Zabdieli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ntunganyo ye"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "n'ane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:44:51.432862303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze Noahi yanywa mu divayi, arindwa, maze yiyerura mu mume w'ihema rye.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "yanywa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "היין",
+      "gloss": "divayi"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "arindwa"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "yiyerura"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu mume"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "w'ihema rye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:57.892729126Z",
+  "model": "glm-5.3"
+}

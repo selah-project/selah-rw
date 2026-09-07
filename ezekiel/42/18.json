@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "⟨את⟩ igice cy'Amajyepfo yapimye, amajana atanu kw'imbego, ku rwego rw'ipima.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igice cy'Amajyepfo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "igice"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "cy'Amajyepfo"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "yapimye"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kw'imbego"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ku rwego"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "rw'ipima"
+    }
+  ],
+  "timestamp": "2026-09-07T17:20:50.024564166Z",
+  "model": "glm-5.3"
+}

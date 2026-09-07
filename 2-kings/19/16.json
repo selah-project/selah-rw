@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe, guza ugutwi kwawe kandi umve; Yahwe, fungura amaso yawe kandi reba; kandi umva ⟨את⟩ amagambo ya Sankeribu, ayo yatumye gusuzugura Elohimu uzima.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "guza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "kandi umve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "fungura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kandi reba"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "kandi umva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sankeribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yatumye"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "gusuzugura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uzima"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:28.365762341Z",
+  "model": "glm-5.3"
+}

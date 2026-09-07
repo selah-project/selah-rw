@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abana ba Bebayi ⟨(Bebayi)⟩, amajana atandatu na mirongo abiri n'umunani.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Bebayi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo abiri"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "n'umunani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:23:43.805579870Z",
+  "model": "glm-5.3"
+}

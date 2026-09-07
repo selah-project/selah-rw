@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Umunsi ku munsi uvuga ijambo, n'ijoro ku ijoro kigaragaza ubumenyi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "uvuga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ku ijoro"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "kigaragaza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:25.281533604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Dutse ⟨urubanza⟩ rwanjye, Elohimu, kandi urwanire urubanja rwanjye, na igihugu kitagira hesedi; ku muntu w'uburigi n'ubuhemu unyohereze.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Dutse urubanza rwanjye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "kandi urwanire"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "urubanja rwanjye"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "na igihugu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kitagira"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ku muntu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "w'uburigi"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "n'ubuhemu"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "unyohereze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:23.461379056Z",
+  "model": "glm-5.3"
+}

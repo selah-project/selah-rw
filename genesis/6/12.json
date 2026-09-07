@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Elohimu yaraboneye ⟨את⟩ isi, maze arayibona yibazwe, ko ibyishyu byose byazitse ⟨את⟩ inzira zabyo ku isi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yaraboneye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze arayibona"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "yibazwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "byazitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ibyishyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira zabyo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "inzira zabyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:11.638473700Z",
+  "model": "glm-5.3"
+}

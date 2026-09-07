@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na kohenu munini w'abavandimwe be — we washyizwaho ku umutwe we amavuta y'ubwirizwa, maze ⟨את⟩ hindi ye yazuzwe kwambika ⟨את⟩ ibighambo — ⟨את⟩ umutwe we ntazitiza, n'ibighambo bye ntazivunga.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Na kohenu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "w'abavandimwe be"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "washyizwaho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "y'ubwirizwa"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "maze yazuzwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hindi ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hindi ye"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "kwambika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibighambo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ibighambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe we"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "azitiza"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "n'ibighambo bye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "azavunga"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:11.482870268Z",
+  "model": "glm-5.3"
+}

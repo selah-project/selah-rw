@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Nuko kohenu iyo yaguze umuntu, igici cy'amafaranga ye, we ararya mu bintu; n'uvukanye mu nzu ye bo barya umugati we.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "nuko kohenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "yaguze"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "igici"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "cy'amafaranga ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ararya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu bintu"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "n'uvukanye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "barya"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "umugati we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:00.909441337Z",
+  "model": "glm-5.3"
+}

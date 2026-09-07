@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Kubera inzu ya Yahwe Elohimu wacu, nzashaka icyizaawe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kubera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "nzashaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cyizaawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:07.344597501Z",
+  "model": "glm-5.3"
+}

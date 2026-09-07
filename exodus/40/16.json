@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "exodus 40:16",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 40,
+ "translation": "Moshe arakora uko byose Yahwe yari yamutegetse ⟨את⟩ we; uko ni ko yakoreye.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "arakora"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "uko byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(uko)"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yari yamutegetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we"
+  },
+  {
+   "surface": "כן",
+   "gloss": "uko ni ko"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "yakoreye"
+  }
+ ],
+ "timestamp": "2026-09-07T09:22:01.209477373Z",
+ "model": "glm-5.3"
+}

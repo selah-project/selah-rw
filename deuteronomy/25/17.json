@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ibuke ⟨את⟩ icyo Amaleki yakoze ku wowe ku nzira, mu gihe mwasohokaga i Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ibuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo Amaleki yakoze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ku nzira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mu gihe mwasohokaga"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "i Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:16.078547488Z",
+  "model": "glm-5.3"
+}

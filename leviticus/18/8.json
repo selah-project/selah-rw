@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ubwere bwa mugore wa so wawe ntuzabukurura; ubwere bwa so wawe ⟨ni⟩ bwo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubwere"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bwa mugore"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa so wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zabukurura"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubwere"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bwa so wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bwo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:59.621848514Z",
+  "model": "glm-5.3"
+}

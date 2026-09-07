@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Yarabyariye inyanja ya Sufu maze ihakara, arabazana mu bidende nka mu butayu.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Yarabyariye"
+    },
+    {
+      "surface": "בים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Sufu"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "maze ihakara"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "arabazana"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "mu bidende"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "nka mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:21.675665391Z",
+  "model": "glm-5.3"
+}

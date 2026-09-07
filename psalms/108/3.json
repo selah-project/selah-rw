@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 108:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 108,
+ "translation": "Zamuka, inanga n'umuduri; ndazamura ⟨ni⟩ umuseke.",
+ "tokens": [
+  {
+   "surface": "עורה",
+   "gloss": "Zamuka"
+  },
+  {
+   "surface": "הנבל",
+   "gloss": "inanga"
+  },
+  {
+   "surface": "וכנור",
+   "gloss": "n'umuduri"
+  },
+  {
+   "surface": "אעירה",
+   "gloss": "ndazamura"
+  },
+  {
+   "surface": "שחר",
+   "gloss": "umuseke"
+  }
+ ],
+ "timestamp": "2026-09-07T18:46:08.340852780Z",
+ "model": "glm-5.3"
+}

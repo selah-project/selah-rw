@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Kuki uteereza intoki yawe — ukuboko kwawe kw'iburyo — mu gituza cyawe? Yisohore, uhagabune!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "uteereza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ukuboko kwawe kw'iburyo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mu gituza cyawe"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ku nda yawe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uhagabune"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:40.830023116Z",
+  "model": "glm-5.3"
+}

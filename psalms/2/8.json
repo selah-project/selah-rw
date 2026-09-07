@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Saba kuri njye, maze nzaguha amahanga ngo abe umurage wawe, n'impera z'isi ubutunzi bwawe.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maze nzaguha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "umurage wawe"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "ubutunzi bwawe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "impera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "z'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.992311086Z",
+  "model": "glm-5.3"
+}

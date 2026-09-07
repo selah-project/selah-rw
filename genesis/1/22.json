@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Elohimu yarahe ⟨את⟩ umugisha ⟨את⟩ abo, aravuga ati: Mubyare, mugwire, muzuzire ⟨את⟩ amazi mu biyaga; n'inyoni ziyongere ku isi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yarahe umugisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ abo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mubyare"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mugwire"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "muzuzire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu biyaga"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "n'inyoni"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ziyongere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.936119903Z",
+  "model": "glm-5.3"
+}

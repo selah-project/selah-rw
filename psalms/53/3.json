@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Elohimu, mu ijuru, yarebereye hasi ku bana b'abantu, kureba niba hari umunyumenyi ushakashaka ⟨את⟩ Elohimu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yarebereye hasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "היש",
+      "gloss": "niba hari"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umunyumenyi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ushakashaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:20.796066802Z",
+  "model": "glm-5.3"
+}

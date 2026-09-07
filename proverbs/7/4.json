@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ubwire ubwenge uti: Wowe mushiki wanjye, umwitire incuti ubwiteganyeganyo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ubwire"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mushiki wanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "incuti"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ubwiteganyeganyo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "umwitire"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:08.149464651Z",
+  "model": "glm-5.3"
+}

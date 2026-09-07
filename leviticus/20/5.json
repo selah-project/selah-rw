@@ -1,0 +1,88 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 20:5",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Jye nzashyira ⟨את⟩ amaso yanjye kuri uwo muntu no mu muryango we, ndazirahisha ⟨את⟩ we na ⟨את⟩ bose basambanye bamukurikira, ngo basambanye bakurikira Moleki ⟨(umwami w'ubusambanyi)⟩ mu bantu babo.",
+ "tokens": [
+  {
+   "surface": "ושמתי",
+   "gloss": "nzashyira"
+  },
+  {
+   "surface": "אני",
+   "gloss": "jye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amaso yanjye"
+  },
+  {
+   "surface": "פני",
+   "gloss": "amaso yanjye"
+  },
+  {
+   "surface": "באיש",
+   "gloss": "kuri uwo muntu"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "uwo"
+  },
+  {
+   "surface": "ובמשפחתו",
+   "gloss": "no mu muryango we"
+  },
+  {
+   "surface": "והכרתי",
+   "gloss": "ndazirahisha"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "uwo muntu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "bose basambanye"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "הזנים",
+   "gloss": "basambanye"
+  },
+  {
+   "surface": "אחריו",
+   "gloss": "bamukurikira"
+  },
+  {
+   "surface": "לזנות",
+   "gloss": "ngo basambanye"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "bakurikira"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "Moleki"
+  },
+  {
+   "surface": "מקרב",
+   "gloss": "mu cyimbere cy'"
+  },
+  {
+   "surface": "עמם",
+   "gloss": "abantu babo"
+  }
+ ],
+ "timestamp": "2026-09-07T09:47:30.667091224Z",
+ "model": "glm-5.3"
+}

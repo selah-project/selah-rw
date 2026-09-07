@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yakoze ⟨את⟩ rakiya, maze atandukanya amazi ari hasi ya rakiya n'amazi ari hejuru ya rakiya; nuko iba ari ko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "atandukanya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "iba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:40.770279628Z",
+  "model": "glm-5.3"
+}

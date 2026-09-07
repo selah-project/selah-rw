@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Ah, Yahwe we, mu by'ukuri njye umuja wawe; njye umuja wawe, umwana w'umuja wawe: wasohoye imbohe zanjye.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "w'umuja wawe"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wasohoye"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "imbohe zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:41.236191357Z",
+  "model": "glm-5.3"
+}

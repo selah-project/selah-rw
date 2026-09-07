@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Nzamura amababa y'igitondo, maze ngatumara ⟨kuri⟩ ihererero ry'inyanja;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "Nzamura"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "amababa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "y'igitondo"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ngatumara"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "⟨kuri⟩ ihererero"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ry'inyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:23.581853473Z",
+  "model": "glm-5.3"
+}

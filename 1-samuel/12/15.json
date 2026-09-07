@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "None nimu nta mumve ijwi rya Yahwe, mugomere ⟨את⟩ umunwa wa Yahwe, intoki ya Yahwe izaba ku mwe no ku se benyu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "None nimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mumve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mugomere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "intoki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "no ku se benyu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:01.119055109Z",
+  "model": "glm-5.3"
+}

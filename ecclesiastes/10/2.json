@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umutima w’ukwengezi uherereye ku buryo rye bwite, umutima w’umusazi na we uherereye ku bumoso rye bwite.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w’ukwengezi"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ku buryo rye"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na umutima"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "w’umusazi"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ku bumoso rye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:03.708607102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "⟨את⟩ ihema ryo guhurira, na ⟨את⟩ isanduku ry'ibyangombwa, na ⟨את⟩ ikibanza cyo kunywengera kiri hejuru yacyo, na ⟨את⟩ ibikoresho byose by'ihema.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema ryo guhurira"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ryo guhurira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ry'ibyangombwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikibanza cyo kunywengera"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikibanza cyo kunywengera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hejuru yacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "by'ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:57.535633130Z",
+  "model": "glm-5.3"
+}

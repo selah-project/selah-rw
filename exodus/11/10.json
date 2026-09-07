@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Moshe na Aharoni byakoze ⟨את⟩ ibitangaza byose ibi imbere ya Paro, maze Yahwe yakomeje ⟨את⟩ umutima wa Paro, kandi ntiyarekuye ⟨את⟩ abana ba Yisraeli mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "וּמֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "byakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitangaza byose ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yakomeje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yarekuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:40:23.357540247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Umutima wanjye uhore uzuye mu ngingo zawe, kugira ngo ntazagerwaho n'isoni.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "uhore"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "uzuye"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "mu ngingo zawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "zagerwaho n'isoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:32.640608158Z",
+  "model": "glm-5.3"
+}

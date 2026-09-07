@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ku muyobozi, hamwe n'⟨ibikoresho by'imitsi⟩ — mizimori ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku muyobozi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "hamwe n'⟨ibikoresho by'imitsi⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:39.361866124Z",
+  "model": "glm-5.3"
+}

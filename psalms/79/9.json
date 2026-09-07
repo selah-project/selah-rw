@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Dufasha, wowe Elohimu w'ubohoro bwacu, ku bw'icyubahiro cy'izina ryawe; maze uturokore, unakire ibyaha byacu, ku bw'izina ryawe.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Dufasha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "w'ubohoro bwacu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bw'icyubahiro"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "cy'icyubahiro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "cy'izina ryawe"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "maze uturokore"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "unakire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "ibyaha byacu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:23.726117388Z",
+  "model": "glm-5.3"
+}

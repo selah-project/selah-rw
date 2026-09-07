@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Abantu banshimangiriza ⟨את⟩ njye mu maso yanjye buri gihe; batambira mu busitani, maze batwikira ibicanwa ku matufe.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "banshimangiriza"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ njye",
+      "marks": "njye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "batambira"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "mu busitani"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "batwikira ibicanwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "matufe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:37:13.606412903Z",
+  "model": "glm-5.3"
+}

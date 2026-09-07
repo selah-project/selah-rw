@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "2-samuel 8:11",
+ "book": "2-samuel",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Ibi nabyo umwami Dawidi yahiye Yahwe ⟨את⟩ bo, hamwe n'ifeza n'izahabu yahiye mu byose by'amahanga yatutsye.",
+ "tokens": [
+  {
+   "surface": "גם",
+   "gloss": "nabyo"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibi (ibikoresho by'ifeza n'izahabu)"
+  },
+  {
+   "surface": "הקדיש",
+   "gloss": "yahiye"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawidi"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "עם",
+   "gloss": "hamwe n'"
+  },
+  {
+   "surface": "הכסף",
+   "gloss": "ifeza"
+  },
+  {
+   "surface": "והזהב",
+   "gloss": "n'izahabu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "⟨ibyo⟩"
+  },
+  {
+   "surface": "הקדיש",
+   "gloss": "yahiye"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "mu byose bya"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "amahanga"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "⟨ayo⟩"
+  },
+  {
+   "surface": "כבש",
+   "gloss": "yatutsye"
+  }
+ ],
+ "timestamp": "2026-09-07T22:41:01.803305104Z",
+ "model": "glm-5.3"
+}

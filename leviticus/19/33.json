@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 33,
+ "ref": "leviticus 19:33",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 19,
+ "translation": "Kandi iyo umunyamahanga atuye ⟨את⟩ wowe muri isi yanyu, ntimumugirire nabi ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "וכי",
+   "gloss": "Kandi iyo"
+  },
+  {
+   "surface": "יגור",
+   "gloss": "atuye"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "⟨את⟩ wowe",
+   "marks": "atuye (umunyamahanga utuye iyo)"
+  },
+  {
+   "surface": "גר",
+   "gloss": "umunyamahanga"
+  },
+  {
+   "surface": "בארצכם",
+   "gloss": "muri isi yanyu"
+  },
+  {
+   "surface": "לא",
+   "gloss": "ntimu-"
+  },
+  {
+   "surface": "תונו",
+   "gloss": "-girire nabi"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "umunyamahanga"
+  }
+ ],
+ "timestamp": "2026-09-07T21:17:49.433208562Z",
+ "model": "glm-5.3"
+}

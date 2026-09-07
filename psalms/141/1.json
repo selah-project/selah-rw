@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Uruhimbi rwa Dawidi. Yahwe, ndaguhamagaye: ihutira ngana; yumvisha amatwi ku ijwi ryanjye, mu gihe ndaguhamagarira wowe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Uruhimbi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rwa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndaguhamagaye"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ihutira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngana"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "yumvisha amatwi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ku ijwi ryanjye"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mu gihe ndaguhamagarira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:27.698202867Z",
+  "model": "glm-5.3"
+}

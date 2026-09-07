@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ari jye ndi urunyinya, atari umuntu; nd'urwenzi rw'abantu, urengagijwe n'abahanganizi.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ari jye"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "urunyinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "urwenzi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "rw'abantu"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "urengagijwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'abahanganizi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:19.272769279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe aramubwira ati: Ni iki iki mu kuboko kawe? Aravuga ati: Umuti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-mu-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ni iki iki"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu kuboko kawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umuti"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:16.316171576Z",
+  "model": "glm-5.3"
+}

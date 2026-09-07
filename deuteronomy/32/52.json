@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Koko urareba ⟨את⟩ igihugu ku cyerekezo gusa, maze aho ntiwinjire muri icyo gihugu icyo njye ndahana abana b'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ku cyerekezo gusa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "urareba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maze aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "winjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "icyo gihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndahana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana b'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:17:49.334690968Z",
+  "model": "glm-5.3"
+}

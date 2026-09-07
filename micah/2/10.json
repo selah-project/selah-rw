@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nimwibaze, mugende, kuko iyi ntiyari iruhukira yanyu: kubera ko yarengewe, izanyara n'uburimbi bukaze.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Nimwibaze"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mugende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "iruhukira"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ko yarengewe"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "izanyara"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "n'uburimbi"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "bukaze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:29.031505750Z",
+  "model": "glm-5.3"
+}

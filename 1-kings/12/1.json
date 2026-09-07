@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "1-kings 12:1",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Rehavamu yagiye i Shekemu (Rehavamu), kuko i Shekemu Yisraeli yose yagiye kumugirisha umwami ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "וילך",
+   "gloss": "yagiye"
+  },
+  {
+   "surface": "רחבעם",
+   "gloss": "Rehavamu"
+  },
+  {
+   "surface": "שכם",
+   "gloss": "i Shekemu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "שכם",
+   "gloss": "i Shekemu"
+  },
+  {
+   "surface": "בא",
+   "gloss": "yagiye"
+  },
+  {
+   "surface": "כל",
+   "gloss": "yose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "להמליך",
+   "gloss": "kumugirisha umwami"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "we (Rehavamu)"
+  }
+ ],
+ "timestamp": "2026-09-07T21:35:10.543136062Z",
+ "model": "glm-5.3"
+}

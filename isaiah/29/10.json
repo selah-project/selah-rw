@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Kuko Yahwe yasukuyeho ku mwe umwuka wo gutorokerwa, maze yafukiye ⟨את⟩ amaso yanyu — ⟨את⟩ abahanuzi — na ⟨את⟩ imitwe yanyu, ababona, yayifukiye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "yasukuyeho"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wo gutorokerwa"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "maze yafukiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yanyu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amaso yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanuzi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "imitwe yanyu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ababona"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "yayifukiye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:05:27.248036816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze Avrahamu yasabye neza ⟨את⟩ Avimelehi kubera umwobo w'amazi abakozi b'Avimelehi bari basaruwe.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "yasabye neza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelehi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "באר",
+      "gloss": "umwobo w'amazi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "basaruwe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abakozi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "b'Avimelehi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:49:55.103762825Z",
+  "model": "glm-5.3"
+}

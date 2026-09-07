@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yabwiye Kayini ati: Hehe ni Hebeli, murumwa wawe? Nuko aravuga ati: Simvuga icyo nazi; none se ni jye umurinzi wa murumwanjye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "murumwa wawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sim-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wa murumwanjye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:38.010608499Z",
+  "model": "glm-5.3"
+}

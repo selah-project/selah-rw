@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 99,
+  "translation": "Yahwe yagize ubwami — amahanga baratuntura; ukitiye ku birubhi — isi igatembura.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "baratuntura"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ukitiye"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ku birubhi"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "igatembura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:17.397248761Z",
+  "model": "glm-5.3"
+}

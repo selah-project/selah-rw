@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Ntampfa, ko nzabaho, kandi nzabwiriza ibyakoze Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mpfa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "nzabaho"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "kandi nzabwiriza"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ibyakoze"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:44.202031611Z",
+  "model": "glm-5.3"
+}

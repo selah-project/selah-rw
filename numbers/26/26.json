@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 26:26",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abahungu ba Zevuluni ku miryango yabo: ka Seredi, umuryango wa baSeredi; ka Elonu, umuryango wa baElonu; ka Yahleeli, umuryango wa baYahleeli.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuluni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku miryango yabo"
+    },
+    {
+      "surface": "לסרד",
+      "gloss": "ka Seredi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הסרדי",
+      "gloss": "wa baSeredi"
+    },
+    {
+      "surface": "לאלון",
+      "gloss": "ka Elonu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "האלני",
+      "gloss": "wa baElonu"
+    },
+    {
+      "surface": "ליחלאל",
+      "gloss": "ka Yahleeli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "היחלאלי",
+      "gloss": "wa baYahleeli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:29:48.965435731Z",
+  "model": "glm-5.3"
+}

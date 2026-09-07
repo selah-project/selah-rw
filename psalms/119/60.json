@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nihutise, kandi siniherekeje, kugira ngo ndinde amategeko yawe.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nihutise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi sin"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "niherekeje"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kugira ngo ndinde"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:14.397672105Z",
+  "model": "glm-5.3"
+}

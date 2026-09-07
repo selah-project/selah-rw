@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "n'ibyiza byo ku misozi ihanitse ya kera, n'ibyiza by'ibibumba by'iteka.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "n'ibyiza byo ku ntangiriro bya"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ya kera"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "n'ibyiza bya"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ibibumba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "by'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:58.736311400Z",
+  "model": "glm-5.3"
+}

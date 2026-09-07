@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yahwe yaravuze kuri Yehoshuwa ati: Ntuzatinye ibo, kuko ndabiha mu ntoki zawe; nta numwe muri ibo uzahagara imbere yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "zatinye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ibo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ndabiha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zahagara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "numwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri ibo"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "imbere yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:31:52.543863284Z",
+  "model": "glm-5.3"
+}

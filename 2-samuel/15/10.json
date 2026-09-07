@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "2-samuel 15:10",
+ "book": "2-samuel",
+ "lang": "rw",
+ "chapter": 15,
+ "translation": "Avshalomu yohereje abaha mu moko yose ya Yisraeli, bati: Iyo muumvise ⟨את⟩ ijwi ry'ishofari, mukavuga ngo: Avshalomu yabaye umwami i Khevuroni.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "yohereje"
+  },
+  {
+   "surface": "אבשלום",
+   "gloss": "Avshalomu"
+  },
+  {
+   "surface": "מרגלים",
+   "gloss": "abaha mu"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "שבטי",
+   "gloss": "moko yose"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ya Yisraeli"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "bati"
+  },
+  {
+   "surface": "כשמעכם",
+   "gloss": "iyo muumvise"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ijwi"
+  },
+  {
+   "surface": "קול",
+   "gloss": "ijwi"
+  },
+  {
+   "surface": "השפר",
+   "gloss": "ry'ishofari"
+  },
+  {
+   "surface": "ואמרתם",
+   "gloss": "mukavuga ngo"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "yabaye umwami"
+  },
+  {
+   "surface": "אבשלום",
+   "gloss": "Avshalomu"
+  },
+  {
+   "surface": "בחברון",
+   "gloss": "i Khevuroni"
+  }
+ ],
+ "timestamp": "2026-09-07T13:12:20.164275776Z",
+ "model": "glm-5.3"
+}

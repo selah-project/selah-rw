@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Uburwaniko bwose bwa muntu ni bwo buja mu kanwa ye, ariko na nefeshi ntiyuzura.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "uburwaniko"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bwa muntu"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "buja mu kanwa ye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ariko na"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "yuzura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:12.324472456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Niba ufata ⟨ingwate⟩ umwambaro w'inshuti yawe, kugeza izuba rigwa uzamuha we.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ufata ⟨ingwate⟩"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "uzifata"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "umwambaro"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "w'inshuti yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rigwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "uzamuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:56.659504997Z",
+  "model": "glm-5.3"
+}

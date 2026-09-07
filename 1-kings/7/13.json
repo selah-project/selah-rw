@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umwami Shelomo (Salomo) yohereje, maze afata ⟨את⟩ Hiramu mu gihugu cya Tsori.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiramu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mu gihugu cya Tsori"
+    }
+  ],
+  "timestamp": "2026-09-07T13:38:02.255430410Z",
+  "model": "glm-5.3"
+}

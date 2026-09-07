@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 35,
+ "ref": "1-kings 18:35",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Maze amazi yatunganyije amazengurutsa icyagihiro, nanubw'agace k'ubwatsi ⟨את⟩ yuzuye amazi.",
+ "tokens": [
+  {
+   "surface": "וילכו",
+   "gloss": "yatunganyije"
+  },
+  {
+   "surface": "המים",
+   "gloss": "amazi"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "amazengurutsa"
+  },
+  {
+   "surface": "למזבח",
+   "gloss": "icyagihiro"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "nanubw'"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "agace k'ubwatsi (התעלה)"
+  },
+  {
+   "surface": "התעלה",
+   "gloss": "agace k'ubwatsi"
+  },
+  {
+   "surface": "מלא",
+   "gloss": "yuzuye"
+  },
+  {
+   "surface": "מים",
+   "gloss": "amazi"
+  }
+ ],
+ "timestamp": "2026-09-07T22:10:52.481835788Z",
+ "model": "glm-5.3"
+}

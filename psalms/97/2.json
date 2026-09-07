@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Ibicu n'ikijuju bikizingiye; ubutabera n'urubanza ⟨ni⟩ shingiro ry'intebe ye.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "n'ikijuju"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "bikizingiye"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'urubanza"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "shingiro"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ry'intebe ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:52.546377791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Abona ko mahumuriza ari meza, na ⟨את⟩ isi ko aryoysha; yeguye umugongo we kuyitwara, maze ahita umukozi w'ikoro.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Abona"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mahumuriza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ari meza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "aryoysha"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yeguye"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "umugongo we"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "kuyitwara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze ahita"
+    },
+    {
+      "surface": "למס",
+      "gloss": "w'ikoro"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umukozi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:39.789805729Z",
+  "model": "glm-5.3"
+}

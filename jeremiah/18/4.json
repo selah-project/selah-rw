@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "jeremiah 18:4",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Maze igikoresho ari akoze mu bwumba cyangizwa mu kiganza cy'umufundi w'ibibindi; na we yasubiyeho, nukagikora ikindi gikoresho, nko byari byiza mu maso y'umufundi ukora.",
+ "tokens": [
+  {
+   "surface": "ונשחת",
+   "gloss": "cyangizwa"
+  },
+  {
+   "surface": "הכלי",
+   "gloss": "igikoresho"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ari"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "⟨we⟩"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "akoze"
+  },
+  {
+   "surface": "בחמר",
+   "gloss": "mu bwumba"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "mu kiganza"
+  },
+  {
+   "surface": "היוצר",
+   "gloss": "cy'umufundi w'ibibindi"
+  },
+  {
+   "surface": "ושב",
+   "gloss": "yasubiyeho"
+  },
+  {
+   "surface": "ויעשהו",
+   "gloss": "nukagikora"
+  },
+  {
+   "surface": "כלי",
+   "gloss": "igikoresho"
+  },
+  {
+   "surface": "אחר",
+   "gloss": "ikindi"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "nko"
+  },
+  {
+   "surface": "ישר",
+   "gloss": "byari byiza"
+  },
+  {
+   "surface": "בעיני",
+   "gloss": "mu maso"
+  },
+  {
+   "surface": "היוצר",
+   "gloss": "y'umufundi"
+  },
+  {
+   "surface": "לעשות",
+   "gloss": "ukora"
+  }
+ ],
+ "timestamp": "2026-09-07T16:01:21.937262816Z",
+ "model": "glm-5.3"
+}

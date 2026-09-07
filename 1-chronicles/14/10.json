@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Dawidi yabajiye kuri Elohimu ati: Ngomba kuzamuka ku Abafilestiti, uzabaha mu ntoki zanjye? Yahwe na amubwira ati: Zamura, maze ndabaha mu ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yabajiye"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuri Elohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "ngomba kuzamuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Abafilestiti"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "uzabaha"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mu ntoki zanjye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na amubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na (amubwira)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Zamura"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ndabaha"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:33.609946130Z",
+  "model": "glm-5.3"
+}

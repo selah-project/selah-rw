@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Aravuga ati: Mutya, ndabasaba, mpiriwe: ntimukore ibibi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndabasaba"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mpiriwe"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mukore ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:48.567222945Z",
+  "model": "glm-5.3"
+}

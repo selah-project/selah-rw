@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze nategetse ⟨את⟩ abacamanza banyu mu gihe icyo ngira nti: Nimwumve amakuru hagati ya bavandimwe banyu, mucamanze ubutabera hagati y'umugabo na wa murumuna we, no hagati wa muturutse hanze.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Maze nategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abacamanza banyu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "abacamanza banyu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngira nti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Nimwumve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "amakuru hagati ya"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "bavandimwe banyu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "mucamanze"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "y'umugabo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wa murumuna we"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "wa muturutse hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T10:47:05.806848698Z",
+  "model": "glm-5.3"
+}

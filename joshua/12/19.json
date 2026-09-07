@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umwami wa Madoni, umwe; umwami wa Chatsori, umwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Madoni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsori"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:32:24.738291390Z",
+  "model": "glm-5.3"
+}

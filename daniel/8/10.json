@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Cyiyongereye kugeza ku ngabo z'ijuru, maze kimanagurisha ku isi mu ngabo no mu nyenyeri, zikanayikanyagira.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "cyiyongereye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "kimanagurisha"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "inyenyeri"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "zikanayikanyagira"
+    }
+  ],
+  "timestamp": "2026-09-07T20:08:54.632506202Z",
+  "model": "glm-5.3"
+}

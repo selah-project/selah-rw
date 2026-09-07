@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nuko aravayo arwanira na Abafilisiti, arasenyura ⟨את⟩ urukoba rwa Gati, na ⟨את⟩ urukoba rwa Yavne, na ⟨את⟩ urukoba rwa Ashdodi; maze ubaka imidugudu mu Ashdodi no mu Bafilisiti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "aravayo"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "arwanira na"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "arasenyura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urukoba rwa Gati"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urukoba rwa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urukoba rwa Yavne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urukoba rwa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urukoba rwa Ashdodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urukoba rwa"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ubaka"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "mu Ashdodi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "no mu Bafilisiti"
+    }
+  ],
+  "timestamp": "2026-09-07T21:00:02.975268704Z",
+  "model": "glm-5.3"
+}

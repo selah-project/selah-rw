@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze umugore yabwiye inzoka ati: Mu mbuto z'ibiti byo mu busitani turya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Maze ... yabwiye ... ati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Mu mbuto za"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "byo mu busitani"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "turya"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:13.871012444Z",
+  "model": "glm-5.3"
+}

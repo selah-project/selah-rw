@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Nimba nzinjira mu ihema ryo mu nzu yanjye, nimba ndazamuka ku buriri bwanjye bukwiranye —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nimba"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "nzinjira"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema ryo"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mu nzu yanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nimba"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndazamuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ku buriri"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "bwanjye bukwiranye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:41.302063419Z",
+  "model": "glm-5.3"
+}

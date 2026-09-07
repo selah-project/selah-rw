@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Unibuke ko wari umuja mu Mitsrayimu (Egiputa), maze Yahwe Elohimu wawe yakuguhiye ho; ni cyo gituma ndagutegeka gukora ⟨את⟩ icyo kintu.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "unibuke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umuja"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "yakuguhiye ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cyo gituma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jy"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndagutegeka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo kintu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "icyo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:51.476710049Z",
+  "model": "glm-5.3"
+}

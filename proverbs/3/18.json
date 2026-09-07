@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ni igiti cy'ubuzima kuri abayifataho, n'abayitwara ni abahiriwe.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "cy'ubuzima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "kuri abayifataho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-yi- (mu bayifataho)"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "n'abayitwara"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "abahiriwe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:42:10.489336127Z",
+  "model": "glm-5.3"
+}

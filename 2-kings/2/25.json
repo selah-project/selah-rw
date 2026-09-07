@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze agenda aturuka aho, ajya ku musozi wa Karmeli (Karmeli), maze aturuka aho asubira i Shomeroni (Samariya).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maze agenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "aturuka aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "wa Karmeli"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "maze aturuka aho"
+    },
+    {
+      "surface": "שב",
+      "gloss": "asubira"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "i Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:50.128341842Z",
+  "model": "glm-5.3"
+}

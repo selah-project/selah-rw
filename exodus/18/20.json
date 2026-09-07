@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ubabwire ⟨את⟩ bo — ⟨את⟩ amategeko na ⟨את⟩ Tora; ubamenyeshe ⟨את⟩ inzira bazagenda ku yo, na ⟨את⟩ igikorwa bazakora.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Ubabwire"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abantu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ubamenyeshe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazagenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igikorwa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "bazakora"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:14.374486680Z",
+  "model": "glm-5.3"
+}

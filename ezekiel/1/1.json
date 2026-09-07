@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 1:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Habaye mu myaka mirongo itatu, ku ya kane, ku ya gatanu y'ukwezi, kandi njye mu hagati y'abatwarwa, ku ruzi Kevari, ijuru ryafunguwe, maze mbona ibyerekwa bya Elohimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "mu mirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ברביעי",
+      "gloss": "ku ya kane"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ku ya gatanu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "y'ukwezi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kandi njye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu hagati ya"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "abatwarwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ruzi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kevari"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ryafunguwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "maze mbona"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ibyerekwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:40:21.018258188Z",
+  "model": "glm-5.3"
+}

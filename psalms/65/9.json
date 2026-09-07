@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Abatuye mpera z'isi baratinya ibimenyetso byawe; amasohoka y'igitondo n'akagoruba urayaririmbisha.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "baratinya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mpera z'isi"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "ibimenyetso byawe"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "amasohoka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "y'igitondo"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "n'akagoruba"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "uraririmbisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:28.041522395Z",
+  "model": "glm-5.3"
+}

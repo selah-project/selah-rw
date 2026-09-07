@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Maze arabayobora mu nzira igororotse yo kujya mu mujyi wo guturamo.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Maze arabayobora"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "igororotse"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yo kujya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mujyi"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wo guturamo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:20.400268063Z",
+  "model": "glm-5.3"
+}

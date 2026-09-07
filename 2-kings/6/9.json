@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze umuntu w'Elohimu yohereje kuri mwami w'Yisraeli, ati: Irinde kwambuka ahantu hano, kuko aho Abanyaramu bajiye hasi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "irinde"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kwambuka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Abanyaramu"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "bajiye hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:25.659091106Z",
+  "model": "glm-5.3"
+}

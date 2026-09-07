@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ntibe umwizeremana cyane, kandi ntube mukuru mu bwenge cyane: kuki wakwicisha bugufi?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "be"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umwizeremana"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ube mukuru mu bwenge"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "wakwicisha bugufi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:24.043429982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Icyo mitima yabo ivuga ni uko amazu yabo azahoraho iteka, n'ahantu h'abo batuye ku muryango n'urugomba; bahise bashyira amazina yabo ku butaka.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "icyo mitima yabo ivuga"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "amazu yabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ahantu h'abo batuye"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'urugomba"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bahise bashyira"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "amazina yabo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "butaka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:14.358399354Z",
+  "model": "glm-5.3"
+}

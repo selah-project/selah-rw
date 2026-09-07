@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Mumve ibi, inzu ya Yaakovu, abitwa izina rya Yisraeli, bavuye mu mazi ya Yehuda; barahira izina rya Yahwe, bakanazirikana n'Elohimu wa Yisraeli, atari mu kuri, kandi atari mu butabera.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "abitwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "izina rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "bavuye mu mazi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bavuye"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "barahira"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "izina rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "bakanazirikana n'Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "bakanazirikana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mu kuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi atari"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "mu butabera"
+    }
+  ],
+  "timestamp": "2026-09-07T15:23:14.905970378Z",
+  "model": "glm-5.3"
+}

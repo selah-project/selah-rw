@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Ku muteguru wa miziki; Zaburi rya Dawidi. Elohimu w'icyubahiro cyanjye, ntuhumye.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku muteguru wa miziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "icyubahiro cyanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "uhumye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:39.571236355Z",
+  "model": "glm-5.3"
+}

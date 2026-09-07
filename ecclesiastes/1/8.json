@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibyo byose ni ingorabahizi; umuntu ntashobora kubivuga; ijisho ntirihwema kureba, kandi ugutwi ntiguhishwa mu kumva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ingorabahizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kubivuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "rihwema"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "guhishwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ugutwi"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "mu kumva"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:21.198610555Z",
+  "model": "glm-5.3"
+}

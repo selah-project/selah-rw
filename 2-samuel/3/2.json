@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Dawidi yabyaye abahungu b'abahungu mu Cheveronu; umwana we w'itangira yari Amnoni, wa Akinohamu w'i Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "mu Cheveronu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "umwana we w'itangira"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "wa Akinohamu"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "w'i Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:52.516642225Z",
+  "model": "glm-5.3"
+}

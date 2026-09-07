@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze ukinjire, ufunike umuryango inyuma yawe n'inyuma y'abahungu bawe, utsukire ibikoresho byose ari byo, maze ibyuzuye ubisige ahantu.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "maze ukinjire"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ufunike"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "inyuma yawe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "n'inyuma ya"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abahungu bawe"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "utsukire"
+    },
+    {
+      "surface": "על",
+      "gloss": "uri kuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ari byo"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "maze ibyuzuye"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "ubisige ahantu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:10.077333216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ntukore icyawe igishushanyo, na shusho na mwe iy'ibintu biri mu ijuru hejuru, cyangwa ibiri mu isi hasi, cyangwa ibiri mu mazi munsi y'isi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tukore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "icyawe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na mwe"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "shusho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "cyangwa ibiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "cyangwa ibiri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:21.668726709Z",
+  "model": "glm-5.3"
+}

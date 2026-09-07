@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Amaguru yacu yari yahagaze mu marembo yawe, Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "amaguru yacu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "mu marembo yawe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:50.861848846Z",
+  "model": "glm-5.3"
+}

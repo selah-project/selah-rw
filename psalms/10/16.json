@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yahwe ⟨ni⟩ umwami ubuziraherezo n'iteka; amahanga yarasenyutse mu gihugu cye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ubuziraherezo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "n'iteka"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "yarasenyutse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mu gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:35.324177991Z",
+  "model": "glm-5.3"
+}

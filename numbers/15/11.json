@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Uko ni ko bikorwa ku ntoki imwe, cyangwa ku ntama y'ingabo imwe, cyangwa ku mpannga mu ntama cyangwa mu nkwavu.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Uko ni ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bikorwa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ku ntoki"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ku ntama y'ingabo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ku mpannga"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "mu ntama"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "mu nkwavu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:29.300831637Z",
+  "model": "glm-5.3"
+}

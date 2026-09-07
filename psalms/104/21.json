@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Intare nini zarumuye zirondera ibyo guhiga, zigashakisha kwa Eli ibyo kurya byazo.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "intare nini"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "zarumuye"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ibyo guhiga"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "zigashakisha"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "kwa Eli"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ibyo kurya byazo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:39.374285694Z",
+  "model": "glm-5.3"
+}

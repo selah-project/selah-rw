@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iminsi ya Adamu nyuma y'uko yabyaye ⟨את⟩ Sheti yari imyaka amagana umunani; maze yabyaye abahungu n'abakobwa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'uko"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheti"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheti"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "umunani"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "amagana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyaye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:14.277247605Z",
+  "model": "glm-5.3"
+}

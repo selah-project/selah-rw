@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Kandi nzabaha impuhwe, maze agira impuhwe ⟨את⟩ mwe, maze asubiza ⟨את⟩ mwe mwende ku butaka bwanyu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Kandi nzabaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "impuhwe"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "maze agira impuhwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "maze asubiza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mwende"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ku butaka bwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:44:57.689277291Z",
+  "model": "glm-5.3"
+}

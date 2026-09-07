@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 17:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe yarabwiye Moshe ati: Subiza ⟨את⟩ inkoni ya Aharoni imbere y'ibyemezo, kugira ngo bibe ⟨ibitswe⟩ nk'ikimenyetso ku bana b'ubwigomeko, maze ibibazo byabo birangire kuri we, nta n'umwe akazapfa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Subiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkoni ya Aharoni"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "inkoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ibyemezo"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "⟨kugira ngo bibe ibitswe⟩"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nk'ikimenyetso"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "b'ubwigomeko"
+    },
+    {
+      "surface": "ותכל",
+      "gloss": "maze birangire"
+    },
+    {
+      "surface": "תלונתם",
+      "gloss": "ibibazo byabo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta n'umwe"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "akazapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:21:15.858979637Z",
+  "model": "glm-5.3"
+}

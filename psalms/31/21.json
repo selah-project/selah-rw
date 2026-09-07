@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Uzobahisha mu ibanga ry'uruhushya rwawe, ubakuye mu migambi y'umuntu; uzobataba mu gisenge, ubakuye mu makwereri y'indimi.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "uzobahisha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ry'uruhushya rwawe"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "ubakuye mu migambi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "uzobataba"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mu gisenge"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ubakuye mu makwereri"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "y'indimi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:51.750283117Z",
+  "model": "glm-5.3"
+}

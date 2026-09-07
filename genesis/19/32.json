@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Njye, duhe ⟨את⟩ databuja wacu kunywa divayi, turyamane na we, tugume urubyaro rukomoka kuri databuja wacu.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "duhe... kunywa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "databuja wacu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "databuja wacu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divayi"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "turyamane"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "tugume"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "rukomoka kuri databuja wacu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    }
+  ],
+  "timestamp": "2026-09-07T07:49:36.930184061Z",
+  "model": "glm-5.3"
+}

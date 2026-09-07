@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Mu nzu yawe ntikigombe kugira ipima n'ipima, nini n'intoya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kigombe kuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wewe"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ipima ⟨ry'ingano⟩"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "n'ipima"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "n'intoya"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:22.268148189Z",
+  "model": "glm-5.3"
+}

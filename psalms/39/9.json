@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Mu byaha byanjye byose unyokohe; isoni y'uwipfu ntu(mp)unyike.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "mu byose bya"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "byaha byanjye"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "unyokohe"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "y'uwipfu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mpunyike"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:08.576799013Z",
+  "model": "glm-5.3"
+}

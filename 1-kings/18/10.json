@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ari uzima Yahwe, Elohimu wawe: niba hari igihugu n'ubwami it shebuja wanjye atatumye gushakisha wowe, maze baravuga bati Ntahari, maze arahisha ⟨את⟩ ubwami na ⟨את⟩ igihugu ko ntibashobora kubona wowe.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ari uzima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "n'ubwami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "it"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ata-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atumye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "gushakisha wowe"
+    },
+    {
+      "surface": "ו אמרו",
+      "gloss": "maze baravuga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ntahari"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "maze arahisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwami"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "bashobora kubona wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:33.060432545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Uko nk'uko ubakurikire ku mbuganyi yawe, uhutere n'umuyaga wawe ubahohereze.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "uko nk'uko"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ubakurikire"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ku mbuganyi yawe"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "no mu mutumbaganyi wawe"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ubahohereze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:33.499348446Z",
+  "model": "glm-5.3"
+}

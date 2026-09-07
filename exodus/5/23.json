@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kandi kuva naje kwa Paro ngo nganire mu izina ryawe, ibibi byakorewe abantu aba, kandi wowe ntiwarokoye ⟨את⟩ abantu bawe na gato.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Kandi kuva"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "naje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngo nganire"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ibibi byakorewe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ku bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "kandi urokore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "warokoye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:11:52.575593924Z",
+  "model": "glm-5.3"
+}

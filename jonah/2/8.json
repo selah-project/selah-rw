@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mu gihe nefeshi yanjye yahunze intege, nabibutse ⟨את⟩ Yahwe; maze isengesho ryanjye ryinjiye i wewe, ryageze ku heikali y'ubutagatifu bwawe.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "yahunze intege"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nabibutse"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ryinjiye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i wewe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ryageze ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikali"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "y'ubutagatifu bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:47.759090429Z",
+  "model": "glm-5.3"
+}

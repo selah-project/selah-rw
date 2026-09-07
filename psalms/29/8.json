@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Ijwi rya Yahwe ruterura ubutayu; Yahwe araterura ubutayu bwa Kadashi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ruterura"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "araterura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bwa Kadashi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:35.089362022Z",
+  "model": "glm-5.3"
+}

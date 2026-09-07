@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Elohimu we, unigire impuhwe, unigire impuhwe, ko nefeshi yanje yahunze muri wowe; no mu mwambi w'amababa yawe nzahunga, kugeza ibyago biazarenge.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "unigire impuhwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "unigire impuhwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "yahunze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanje"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "no mu mwambi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "w'amababa yawe"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nzahunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "biazarenge"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ibyago"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:36.861312586Z",
+  "model": "glm-5.3"
+}

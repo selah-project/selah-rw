@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze nakora hesedi ku mfura z'ibihumbi, ku bankunda no ku bafata amategeko yanjye.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Maze nakora"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ku mfura z'ibihumbi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ku bankunda"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "no ku bafata"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amategeko yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:45.127728452Z",
+  "model": "glm-5.3"
+}

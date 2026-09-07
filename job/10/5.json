@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ese iminsi yawe ⟨ni⟩ nka y'iminsi y'umuntu w'itinfu, cyangwa imyaka yawe nka iminsi y'umugabo?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "Ese … nka"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "y'umuntu w'itinfu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "iminsi yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "imyaka yawe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nka iminsi ya"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umugabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:04.470085089Z",
+  "model": "glm-5.3"
+}

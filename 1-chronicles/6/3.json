@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'abahungu ba Kehati: Amramu, Yitshari, Heveroni na Uzieli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "n'abahungu"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ba Kehati"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amramu"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitshari"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Heveroni"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "na Uzieli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:27.970672709Z",
+  "model": "glm-5.3"
+}

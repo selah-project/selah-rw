@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yubatse ⟨את⟩ Tadimoru mu butayu, na ⟨את⟩ imijyi yose y'ibitungo yubatse i Hamati.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Yubatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadimoru"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadimoru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imijyi yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "y'ibitungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yubatswe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "i Hamati"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:27.300968870Z",
+  "model": "glm-5.3"
+}

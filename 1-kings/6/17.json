@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze inzu yari ⟨ifite uburebure bwa⟩ macumu mirongo ine; ni cyo icyumba kiri imbere yacyo.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "maze mirongo ine"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kw'amacumu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "icyumba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kiri imbere yacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:34:39.470640494Z",
+  "model": "glm-5.3"
+}

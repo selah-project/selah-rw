@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kandi isadeli yose iyo zav agendeho ku yo idasukuye ⟨kugeza nimugoroba⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kandi yose"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "isadeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "agendeho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zav"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "idasukuye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:30.079953860Z",
+  "model": "glm-5.3"
+}

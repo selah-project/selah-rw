@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Nturekure, kuko ibyago biri hafi, kuko nta mufasha ariho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu–"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "rekure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na njye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ibyago"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "biri hafi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mufasha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:45.406624759Z",
+  "model": "glm-5.3"
+}

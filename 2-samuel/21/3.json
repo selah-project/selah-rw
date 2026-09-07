@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Dawidi arabwira Abigibeoni ati: Iki nkora kuri mwe, na n'iki nyikiza, muhindikirize ⟨את⟩ umurage wa Yahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Abigibeoni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nkora"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "na n'iki"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "nyikiza"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "muhindikirize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage wa Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:22:07.423924978Z",
+  "model": "glm-5.3"
+}

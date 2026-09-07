@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abana ba Gadi ku muryango wabo: Tsefoni, umuryango wa baTsefoni; Hagi, umuryango wa baHagi; Shuni, umuryango wa baShuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Tsefoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "baTsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Hagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "baHagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "baShuni"
+    }
+  ],
+  "timestamp": "2026-09-07T21:21:14.633299425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Zidikiyahu na none arabwira Yirmeyahu ati: Ntamuntu amenye iyo magambo, kandi ntuzapfa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Zidikiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ntamuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amenye"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "iyo magambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T16:22:25.313909084Z",
+  "model": "glm-5.3"
+}

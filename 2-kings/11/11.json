@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Abarwanzi bahagaze, buri wese afite intwaro ze mu ntoki ye, kuva ku gitugu cy'inzu iburyo kugera ku gitugu cy'inzu ibumoso, ku gicaniro no ku nzu, bazengurutse umwami.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "bahagaze"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "abarwanzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "n'intwaro ze"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ye"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "kuva ku gitugu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cy'inzu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ku gitugu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cy'inzu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ibumoso"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ku gicaniro"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "no ku nzu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bazengurutse"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:13.366399468Z",
+  "model": "glm-5.3"
+}

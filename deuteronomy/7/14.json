@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Uzaba uzahishwa kuruhare cy'amahanga yose; ntihazagira udasemba, uw'umugabo cyangwa uw'umugore, muri wowe, ndetse na mu matungo yawe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "uzahishwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "Uzaba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuruhare cy'"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga yose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntihazagira"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hazagira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "udasemba (umugabo)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "n'udasemba (umugore)"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "na mu matungo yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:56:25.213474926Z",
+  "model": "glm-5.3"
+}

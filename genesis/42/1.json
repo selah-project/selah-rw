@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yaakovu abona ko mu Mitsrayimu hari ⟨ibyokurya⟩, maze Yaakovu abwira abahungu be ati: Kuki mureka mumwerere?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ibyokurya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze abwira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "mureka mumwerere"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:36.025238134Z",
+  "model": "glm-5.3"
+}

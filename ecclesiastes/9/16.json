@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze njye navuze nti: Ubwenge nibungo kurusha imbaraga; ariko ubwenge bw'umukene ntibwubahwe, kandi amagambo ye ntibumvikwa.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nibungo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "kurusha imbaraga"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "bw'umukene"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "ntibwubahwe"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "amagambo ye"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "bumvikwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:04.529571944Z",
+  "model": "glm-5.3"
+}

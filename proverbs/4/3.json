@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nkaba umwana wa se wanjye, urumuri kandi umwe yonyine mu maso ya nyina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nkaba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nari"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "wa se wanjye"
+    },
+    {
+      "surface": "רך",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "kandi umwe yonyine"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya nyina"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:03.114987526Z",
+  "model": "glm-5.3"
+}

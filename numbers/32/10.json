@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Uburakari bwa Yahwe bwarakwiriye ku munsi ubwo, arahira ati:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bwarakwiriye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "arahira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati:"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:46.965683957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Injira mu rutare, uhishe mu mavunyo, mu bwoba bwa Yahwe n'ubwiza bw'icyubahiro cye.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "mu rutare"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "uhishe"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "mu mavunyo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mu bwoba bwa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "n'ubwiza"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "bw'icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:35:56.377045272Z",
+  "model": "glm-5.3"
+}

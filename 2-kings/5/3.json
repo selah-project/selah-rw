@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Arabwira shebuja we ati: Iyngo shebuja wanjye yaba imbere y'umuhanuzi uri muri Shomroni, ubwo yakira ⟨את⟩ umugera we!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "shebuja we"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "iyngo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "y'umuhanuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muri Shomroni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yakira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umugera we"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "umugera we"
+    }
+  ],
+  "timestamp": "2026-09-07T14:11:46.894005267Z",
+  "model": "glm-5.3"
+}

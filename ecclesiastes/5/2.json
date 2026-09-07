@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuko iroro riza kubw'imirimo myinshi, n'ijwi ry'uwugendwa mu bwinshi bw'amagambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "riza"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "iroro"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kubw'... myinshi"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "imirimo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "n'ijwi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ry'uwugendwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu bwinshi bw'"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amagambo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:39.976705601Z",
+  "model": "glm-5.3"
+}

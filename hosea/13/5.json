@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Njye narabazi mu bugaragwa, mu gihugu cy'umwuma.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "narabazi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu bugaragwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "cy'umwuma"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:52.776439993Z",
+  "model": "glm-5.3"
+}

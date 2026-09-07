@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kuko Dawidi yavuze ati: Yahwe, Elohimu wa Yisraeli, yatanze umutekano ku bantu be, maze ⟨we⟩ atuye mu Yerushalayimu kugeza iteka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "yatanze umutekano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ku bantu be"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "maze atuye"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:40.941041354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Abacamanza babo baraturutswe ku mpande z'urutare; bazumva amajwi yanjye, kuko ari meza.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "baraturutswe"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ku mpande"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "urutare"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "abacamanza babo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "bazumva"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amajwi yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ari meza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:32.076798582Z",
+  "model": "glm-5.3"
+}

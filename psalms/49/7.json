@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Abizera imitungo yabo, bakazivangisha mu kwinjiza kw'ubukire bwabo —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Abizera"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חילם",
+      "gloss": "imitungo yabo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "no mu kwinjiza kwa"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ubukire bwabo"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "bakazivangisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:56.159826890Z",
+  "model": "glm-5.3"
+}

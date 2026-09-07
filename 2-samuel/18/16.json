@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "2-samuel 18:16",
+ "book": "2-samuel",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Yowabu arapfuna shofaru, maze abantu basubira inyuma mu gukurikira Yisraeli, kuko Yowabu yari yakuyeho ⟨את⟩ abantu.",
+ "tokens": [
+  {
+   "surface": "ויתקע",
+   "gloss": "arapfuna"
+  },
+  {
+   "surface": "יואב",
+   "gloss": "Yowabu"
+  },
+  {
+   "surface": "בשפר",
+   "gloss": "shofaru"
+  },
+  {
+   "surface": "וישב",
+   "gloss": "basubira inyuma"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "מרדף",
+   "gloss": "mu gukurikira"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "inyuma"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "כי",
+   "gloss": "koko"
+  },
+  {
+   "surface": "חשך",
+   "gloss": "yari yakuyeho"
+  },
+  {
+   "surface": "יואב",
+   "gloss": "Yowabu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abantu"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  }
+ ],
+ "timestamp": "2026-09-07T13:19:12.336639462Z",
+ "model": "glm-5.3"
+}

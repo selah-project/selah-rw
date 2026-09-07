@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Ubufasha bwanjye buvuye kwa Yahwe, wakoreye ijuru n'isi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ubufasha bwanjye"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "buvuye kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakoreye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:18.984864827Z",
+  "model": "glm-5.3"
+}

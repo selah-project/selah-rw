@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi umutwe w'Efrayimu ⟨ni⟩ Shomeronu, n'umutwe wa Shomeronu ⟨ni⟩ beni Remalyahu. Ntimwemera ibyo, ntibizabaho ko mweyubaki ⟨uko kabiri neza⟩.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "kandi umutwe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "w'Efrayimu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronu"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "n'umutwe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "wa Shomeronu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "beni"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mwemera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "mweyubaki"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:42.269985820Z",
+  "model": "glm-5.3"
+}

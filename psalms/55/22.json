@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Ikanwa yiwe yari yoroshe nka amavuta, ariko intambara yari mu mutima wiwe; amagambo yiwe yari yoroshye kurusha amavuta, ariko iyo yari amacumu yafunguwe.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "yari yoroshe"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "nka amavuta"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ikanwa yiwe"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ariko mu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima wiwe"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "yari yoroshye"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "amagambo yiwe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kurusha amavuta"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ariko iyo"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "amacumu yafunguwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:49.941814180Z",
+  "model": "glm-5.3"
+}

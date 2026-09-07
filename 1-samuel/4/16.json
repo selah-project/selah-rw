@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umuntu arabwira Eli ati: Ni jye waza mu rugamba; uyu munsi narahunguye mu rugamba. Arahangana ati: Ni iki cyagenze, mwana wanjye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni jye"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "waza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "rugamba"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nararahunguye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "rugamba"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "nahunguye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arahangana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "cyagenze"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:46.210957659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi ni iki cyatumye mwazamuye ⟨את⟩ twe mu Mitsrayimu ngo muzane ⟨את⟩ twe kuri aka karere kebibi? Ntacyo kazira imbuto, nta bubari, nta nzabibu, nta ndunda, kandi nta maji yo kunywa.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Kandi ni iki cyatumye"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "mwazamuye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngo muzane"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "twe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "aka karere"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kebibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntacyo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kazira"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "nta bubari"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "nta nzabibu"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "nta ndunda"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "kandi nta maji"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "yo kunywa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:21:11.214875507Z",
+  "model": "glm-5.3"
+}

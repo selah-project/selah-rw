@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Hamagara rero: haba uwakwishura? kandi uzatumbagire kuri nde w'abatagatifu?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Hamagara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rero"
+    },
+    {
+      "surface": "היש",
+      "gloss": "haba"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "uwakwishura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi kuri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "abatagatifu"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "uzatumbagire"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:43.525172629Z",
+  "model": "glm-5.3"
+}

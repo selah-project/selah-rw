@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Uko Shim'i yaravuze mu kumuvuma ati: Sohoka, sohoka, wowe muntu w'amaraso, wowe muntu wa mubisha!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "mu kumuvuma"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Sohoka"
+    },
+    {
+      "surface": "צא",
+      "gloss": "sohoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na muntu"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "wa mubisha"
+    }
+  ],
+  "timestamp": "2026-09-07T13:13:41.801637310Z",
+  "model": "glm-5.3"
+}

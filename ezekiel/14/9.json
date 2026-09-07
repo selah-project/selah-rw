@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 14:9",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Iyo umunabyawi yayebye maze avuga ijambo, ni njye, Yahwe, nayobeje ⟨את⟩ uwo munabyawi, maze ndahambagiza ⟨את⟩ ikiganza cyanjye ku we, ndamuhunganya mu mwe w'abantu banjye, Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "umunabyawi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "yayebye"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "maze avuga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתיתי",
+      "gloss": "nayobeje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo munabyawi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umunabyawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "ndahambagiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikiganza cyanjye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ikiganza cyanjye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "והשמדתיו",
+      "gloss": "ndamuhunganya"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu mwe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T16:52:07.612518385Z",
+  "model": "glm-5.3"
+}

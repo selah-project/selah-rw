@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umwamikazi wa Sheba yumvise ⟨את⟩ amakuru ya Shelomo ari ku izina rya Yahwe, maze yaje kumugerageza mu mabanga.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "umwamikazi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakuru"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amakuru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ku izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "kumugerageza"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "mu mabanga"
+    }
+  ],
+  "timestamp": "2026-09-07T13:43:01.704920888Z",
+  "model": "glm-5.3"
+}

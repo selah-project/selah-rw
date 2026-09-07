@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 142,
+  "translation": "Ihumuriza ku urugamba rwanjye, kuko nagabanyijwe cyane; unkize n'abankurikira, kuko barakomeye kurusha njye.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ihumuriza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "urugamba rwanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "nagabanyijwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "unkize"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "n'abankurikira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "barakomeye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kurusha njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:03.672035564Z",
+  "model": "glm-5.3"
+}

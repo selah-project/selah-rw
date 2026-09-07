@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 131,
+  "translation": "Yisraeli yiteze kwa Yahwe, kuva ubu kugeza iteka.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "yiteze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuva ubu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:29.958657584Z",
+  "model": "glm-5.3"
+}

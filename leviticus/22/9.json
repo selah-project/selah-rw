@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Barinde ⟨את⟩ umurage wanjye, batagataka icyaha ku bwarwo, batakapfira mu bwarwo, ko baruhuye: ni jye Yahwe, uhahisha abe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "barinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage wanjye"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "umurage wanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bataka nta"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "batakira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku bwarwo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "bapfira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu bwarwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "baruhuye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni jye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "uhahisha abe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:00.908712763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Maze uzica ⟨את⟩ impari imbere ya Yahwe, ku irembo ry'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "uzica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impari"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "impari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku irembo ry'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:53.946707238Z",
+  "model": "glm-5.3"
+}

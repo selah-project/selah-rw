@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Girira umushumwa wawe neza, kugira ngo mbashe kubaho, kandi nzifate ijambo ryawe.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "girira neza"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umushumwa wawe"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mbashe kubaho"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "kandi nzifate"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ijambo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:01.401045024Z",
+  "model": "glm-5.3"
+}

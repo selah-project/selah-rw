@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Aba bahagaze iyo baratunganyaga ⟨את⟩ umwami Shelomo na ⟨את⟩ bose begereje ku meza y'umwami Shelomo, buri muntu mu kwezi kwiwe; nta kintu cyabura.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "baratunganyaga"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "aba bahagaze"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bose begereje ku meza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "abegereje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "mu kwezi kwiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "cyabura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kintu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:34:13.767618155Z",
+  "model": "glm-5.3"
+}

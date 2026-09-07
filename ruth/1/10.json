@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Zirabwira iwe ziti: Mu rwoko rwose tuzagaruka ⟨את⟩ iwanywe, tugera ku bantu bawe.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "zirabwira iwe ziti"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mu rwoko rwose"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwanywe",
+      "marks": "iwanywe"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "tuzagaruka"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ku bantu bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:06.759183906Z",
+  "model": "glm-5.3"
+}

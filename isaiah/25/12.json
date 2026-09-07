@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "maze urwengo, ururenga rw'ibyumba byawe, ararwoyeshura, ararwo kurura, akarwo seza kuri isi, kugeza ku mfuruka.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "maze urwengo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ururenga"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "rw'ibyumba byawe"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ararwoyeshura"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "ararwo kurura"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "akarwo seza"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kuri isi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ku mfuruka"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:33.511112616Z",
+  "model": "glm-5.3"
+}

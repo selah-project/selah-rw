@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Uruhimbye ⟨את⟩ Yahwe, Nefeshi yanjye. Yahwe, Elohimu wanjye, warakomeye cyane; ubwiza n'icyubahiro wambaye.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Uruhimbye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "warakomeye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ubwiza"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "n'icyubahiro"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "wambaye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:21.763247705Z",
+  "model": "glm-5.3"
+}

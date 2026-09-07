@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Nefeshi yacu yategereje Yahwe: ni we ubufasha bwacu n'ingabo yacu.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshi yacu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "yategereje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ubufasha bwacu"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "n'ingabo yacu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:34.165732575Z",
+  "model": "glm-5.3"
+}

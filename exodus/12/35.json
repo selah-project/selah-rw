@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abana ba Yisraeli barakora uko ijambo rya Moshe ryari rivuga, maze basaba kwa Mitsrayimu ibikoresho by'ifeza n'ibikoresho by'zahabu n'impuzu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "barakora"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "uko ijambo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "rya Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa Mitsrayimu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "by'ifeza"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "n'ibikoresho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "by'zahabu"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "n'impuzu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:47:46.409666636Z",
+  "model": "glm-5.3"
+}

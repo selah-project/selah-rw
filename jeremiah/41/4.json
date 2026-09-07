@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Habaye ku munsi wa kabiri wo kwica ⟨את⟩ Gedalyahu, nta muntu wari ubizi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "wo kwica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wari ubizi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:23:31.000256198Z",
+  "model": "glm-5.3"
+}

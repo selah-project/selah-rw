@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Dore, ukuri urakunda mu myanya y'imbere, no mu bwenge bwihishe urampangisha ubwenge.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "urakunda"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "mu myanya y'imbere"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "no mu bwenge bwihishe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "urampangisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:27.599341946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Muzambuka ⟨את⟩ Yardeni, mugume mu gihugu cyo kwagirwa umurage ako Yahwe Elohimu wanyu ⟨את⟩ mwe, abahesheje mwe amahoko y'abansi banyu bose bakuzengurutse, mujye mutuje.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "Muzambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mugume"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "kwagirwa umurage"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "abahesheje amahoko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "abansi banyu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "bakuzengurutse"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mujye"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mutuje"
+    }
+  ],
+  "timestamp": "2026-09-07T11:01:55.937065924Z",
+  "model": "glm-5.3"
+}

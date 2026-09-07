@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Inzira zawe, Yahwe, unyerekanisha; umihanda yawe unyigisha.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "inzira zawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "unyerekanisha"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "umihanda yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "unyigisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:46.869292747Z",
+  "model": "glm-5.3"
+}

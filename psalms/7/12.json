@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Elohimu ⟨ni⟩ umucamanza w'utunganye, Eli w'umurakari buri munsi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "w'utunganye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "w'umurakari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:24.536369085Z",
+  "model": "glm-5.3"
+}

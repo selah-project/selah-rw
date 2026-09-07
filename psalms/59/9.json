@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ariko wowe, Yahwe, uzabaseka; uzabakenekanya ku mahanga yose.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "uzabaseka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "uzabakenekanya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku… yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:11.083277995Z",
+  "model": "glm-5.3"
+}

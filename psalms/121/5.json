@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Yahwe ⟨ni⟩ we ugukingira; Yahwe ⟨ni⟩ igicucu cyawe, ku rubavu rw'iburyo rwawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ugukingira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "igicucu cyawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rubavu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rw'iburyo rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:13.712414679Z",
+  "model": "glm-5.3"
+}

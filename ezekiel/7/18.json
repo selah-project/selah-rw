@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Bazambika ibisa, ubwoba burazitwikiriye ⟨את⟩; isoni rihari ku maso yose, no ku mitwe yabo yose hakorwa kubara.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "bazambika"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ibisa"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "burazitwikiriye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo (ibisa)"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku ... yose"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "mitwe yabo"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kubara"
+    }
+  ],
+  "timestamp": "2026-09-07T16:43:39.105836050Z",
+  "model": "glm-5.3"
+}

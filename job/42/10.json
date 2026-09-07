@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Maze Yahwe yasubije ⟨את⟩ ubutunzi bwa Iyyobu, mu gusaba kwe ku bw'inshuti ze; Yahwe na we yongeyeho ⟨את⟩ byose byari bya Iyyobu ⟨kabiri⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Maze Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yasubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutunzi bwa Iyyobu"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ubutunzi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyobu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "mu gusaba kwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "inshuti ze"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yongeyeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byari"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "bya Iyyobu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T19:42:11.405244156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi yagira abagore babiri: izina ry'umwe ⟨ni⟩ Hana, izina ry'uwundi ⟨ni⟩ Penina; kandi Penina yari ifite abana, ariko Hana nta bana yagira.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Kandi yagira"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ry'umwe"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ry'uwundi"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kandi yari"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ifite abana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "bana yagira"
+    }
+  ],
+  "timestamp": "2026-09-07T12:20:45.418643089Z",
+  "model": "glm-5.3"
+}

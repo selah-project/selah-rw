@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Uburakari ku burakari biratangazwa, kuko isi yose yaribazwe; mu kanya gato ihema ryanjye ryaribazwe, mu gicanwa — imyambaro yanjye.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "biratangazwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "yaribazwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mu kanya gato"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "ryaribazwe"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ihema ryanjye"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "mu gicanwa"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "imyambaro yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:43:06.794042361Z",
+  "model": "glm-5.3"
+}

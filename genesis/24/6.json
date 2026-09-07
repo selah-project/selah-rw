@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Avrahamu (Aburahamu) yarabwiye ati: Iritondera, utazasubiza ⟨את⟩ umwanca wanjye kuri ino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "iritondera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe ubwawe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "utaza"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kusubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwanca wanjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwanca wanjye"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuri ino"
+    }
+  ],
+  "timestamp": "2026-09-07T07:54:00.342155329Z",
+  "model": "glm-5.3"
+}

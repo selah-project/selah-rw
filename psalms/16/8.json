@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nashyize Yahwe imbere yanjye buri gihe, kuko ⟨ari⟩ ku ruhande rw'iburyo bwanjye, ntabwo nzahindagurika.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Nashyize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "ku ruhande rw'iburyo bwanjye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nzahindagurika"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:53.695138677Z",
+  "model": "glm-5.3"
+}

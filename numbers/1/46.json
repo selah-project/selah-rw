@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ni bo bari, abarwa bwa mbere mw'ibara byose, amajana atandatu n'ibihumbi bitatu n'amajana atanu na mirongo itanu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ni bo bari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "abarwa bwa mbere mw'ibara"
+    },
+    {
+      "surface": "שש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "(n'ibihumbi)"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "n'ibihumbi bitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(ibihumbi)"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "n'amajana atanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:03.526222353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Uamenyesha impera kuva mu ntangiriro, no kera ibyo bitarabarangira, avuga ati: umugambi wanjye uzahagihwa, kandi ibyifuza byanjye byose nzabikora.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Uamenyesha"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "kuva mu ntangiriro"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "impera"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "no kera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bitarabarangira"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "byakozwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "umugambi wanjye"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uzahagihwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi ... byose"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ibyifuza byanjye"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzabikora"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:57.187388611Z",
+  "model": "glm-5.3"
+}

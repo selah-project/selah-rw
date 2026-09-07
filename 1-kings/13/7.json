@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umwami yabwiye umuntu w'Elohimu ati: Njye ⟨את⟩ iwe mu nzu unaroronse, maze nkaguha impereke.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "באה",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "unaroronse"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "nkaguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "impereke"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:25.814856020Z",
+  "model": "glm-5.3"
+}

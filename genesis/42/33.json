@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Uwo muntu, shebuja w'isi, yabwiye ati: Ni uko nzamenya ko muri inyubahwa: umwe mu bavandimwe banyu musigire ⟨את⟩ iwanjye, kandi mufate na ⟨את⟩ ibiribwa by'inzara y'amazu yanyu, mujye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "adu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "w'isi"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ni uko"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nzamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "inyubahwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mu bavandimwe banyu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "musigire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iwanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiribwa by'inzara"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ibiribwa by'inzara"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "y'amazu yanyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mufate"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mujye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:01.299466573Z",
+  "model": "glm-5.3"
+}

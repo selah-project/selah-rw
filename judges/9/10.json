@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ibiti na byo byabwiye ifigu biti: Ze wowe, ube umwami ku twe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "byabwiye"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "kuri ifigu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ze"
+    },
+    {
+      "surface": "את",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ube umwami"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ku twe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:57:15.870366366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Dawidi yaravukiye Itayi ati: Genda, maze usimbuke. Maze Itayi Umugati n'abagabo be bose n'abana bato bose ari kumwe na ⟨את⟩ we basimbuka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dawidi yaravukiye Itayi ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itayi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "genda"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "maze usimbuke"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "maze... yasimbuka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itayi"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Umugati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "abagabo be bose"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "abana bato bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (kumwe na we)"
+    }
+  ],
+  "timestamp": "2026-09-07T13:16:04.542671539Z",
+  "model": "glm-5.3"
+}

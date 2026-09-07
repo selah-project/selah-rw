@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yosefu yibukije ⟨את⟩ ibitotsi ryari yabitotse kuri bo, maze ababwira ati: Mwe ni abashakashatsi; kureba ⟨את⟩ ubusa bw'isi ni byo mwaje.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "yibukije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitotsi"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ibitotsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "yabitotse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abashakashatsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubusa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bw'isi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mwaje"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:18.966991367Z",
+  "model": "glm-5.3"
+}

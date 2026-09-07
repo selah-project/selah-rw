@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 14:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Sheoli mu cyo cyo hasi yarasubiye kugira ngo ihure na wowe uje: yaramukije kuri wowe Refaimi, abakuru bose b'isi; yabyuye ku ntebe zabo abami bose b'amahanga.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mu cyo cyo hasi"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "yarasubiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kugira ngo ihure na"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "woye uje"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "yaramukije"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עתודי",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "b'isi"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "yabyuye"
+    },
+    {
+      "surface": "מכסאותם",
+      "gloss": "ku ntebe zabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "b'amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:25.595657076Z",
+  "model": "glm-5.3"
+}

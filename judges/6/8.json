@@ -1,0 +1,103 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "judges 6:8",
+ "book": "judges",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Yahwe yohereje umuntu, umuhanuzi, ku bana ba Yisraeli, maze arababwira ⟨ati⟩: Uko Yahwe, Elohimu wa Yisraeli, avuze: Njye nakuyobotse ⟨את⟩ mwe uvuye mu Mitsrayimu (Egiputa), maze nkuyobora ⟨את⟩ mwe uvuye mu nzu y'abacakara.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "yohereje"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "איש",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "נביא",
+   "gloss": "umuhanuzi"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ba Yisraeli"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "maze arababwira"
+  },
+  {
+   "surface": "להם",
+   "gloss": "bo"
+  },
+  {
+   "surface": "כה",
+   "gloss": "Uko"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "avuze"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "wa Yisraeli"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "Njye"
+  },
+  {
+   "surface": "העליתי",
+   "gloss": "nakuyobotse"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "ממצרים",
+   "gloss": "uvuye mu Mitsrayimu (Egiputa)"
+  },
+  {
+   "surface": "ואציא",
+   "gloss": "maze nkuyobora"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "מבית",
+   "gloss": "uvuye mu nzu"
+  },
+  {
+   "surface": "עבדים",
+   "gloss": "y'abacakara"
+  }
+ ],
+ "timestamp": "2026-09-07T11:53:47.458026833Z",
+ "model": "glm-5.3"
+}

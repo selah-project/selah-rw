@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Uwurya we azibera ibyaha bye, kuko ⟨את⟩ igitagatifu cya Yahwe yahumye; uwo muntu azavanwaho mu bwoko bwe.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Uwurya we"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ibyaha bye"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "azibera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitagatifu cya Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cya Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "yahumye"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "azavanwaho"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "mu bwoko bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:38.027690061Z",
+  "model": "glm-5.3"
+}

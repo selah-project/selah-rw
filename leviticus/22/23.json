@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "N'inkumi cyangwa ntama cyagutse ku bice cyangwa cyagabanyijwe — uyikore ⟨את⟩ nk'impano y'ubushake, ariko ku naderi ntikizemerwa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "n'inkumi"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "cyangwa ntama"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "cyagutse ku bice"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "cyangwa cyagabanyijwe"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nk'impano y'ubushake"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyikore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iki gihumbi (inkumi cyangwa ntama)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ku naderi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kizemerwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:09.503336431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu gihe umwami ari mu nama y'ibirori ye, inardi yanjye yatanze icaha ryayo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "umwami ari"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "mu nama y'ibirori ye"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "inardi yanjye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "icaha ryayo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:40:49.440061950Z",
+  "model": "glm-5.3"
+}

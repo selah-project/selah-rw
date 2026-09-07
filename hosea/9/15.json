@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ikibi cyabo cyose kiri kuri Gilgala; kuko ari ho nabansiye, kubera ikibi y'ibyabo bikora; mu nzu yanjye nzabadirukana; nta kindi nzongera kubakunda: abatware bose ni abangomi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ikibi cyabo"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "kuri Gilgala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ari ho"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nabansiye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ibyabo bikora"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "mu nzu yanjye"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "nzabadirukana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta kindi"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "nzongera"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "kubakunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "ni abangomi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:23.375713615Z",
+  "model": "glm-5.3"
+}

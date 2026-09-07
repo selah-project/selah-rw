@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ni abashimwe abantu bawe, kandi ni abashimwe abagaragu bawe aba bahagaze imbere yawe iteka bakumva ⟨את⟩ ubwenge bwawe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ni abashimwe"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "kandi ni abashimwe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bahagaze"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "bakumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwenge bwawe"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ubwenge bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:32.056047789Z",
+  "model": "glm-5.3"
+}

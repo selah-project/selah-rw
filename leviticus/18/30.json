@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Mukomeze kubahiriza ⟨את⟩ umuringo wanjye, mu kutakora imihango y'ibizira yakoze imbanzirishwa yanyu; mudatangira muri byo: njye ndi Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mukomeze kubahiriza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuringo wanjye"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "umuringo wanjye"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mu kutakora"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kwakora"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "imihango y'"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "bizira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbanzirishwa yanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mudatangira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:56.049003872Z",
+  "model": "glm-5.3"
+}

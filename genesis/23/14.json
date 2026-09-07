@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Efroni yarasubije ⟨את⟩ Avrahamu, amubwira iwe ngo:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yarasubije"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:35.576168538Z",
+  "model": "glm-5.3"
+}

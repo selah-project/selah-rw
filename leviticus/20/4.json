@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi niba abantu b'igihugu bahisha ⟨את⟩ amaso yabo kuva kuri uwo muntu, mu kwitanga urubyaro rwe kuri Moleku, batamwica ⟨את⟩ we —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kandi niba"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "guhisha"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "bahisha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "b'igihugu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yabo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amaso yabo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva kuri"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "mu kwitanga"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "urubyaro rwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuri Moleku"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kandi bata-"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mwica"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:41.618785898Z",
+  "model": "glm-5.3"
+}

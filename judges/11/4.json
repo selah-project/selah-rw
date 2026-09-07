@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Hashize iminsi, abana b'Amoni bashyitse urwanya na Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Hashize"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "bashyitse urwanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "b'Amoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:09:05.692936396Z",
+  "model": "glm-5.3"
+}

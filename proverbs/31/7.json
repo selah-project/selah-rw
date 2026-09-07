@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "proverbs 31:7",
+ "book": "proverbs",
+ "lang": "rw",
+ "chapter": 31,
+ "translation": "Asomye akanibagirwa ubukene bwe, umubabaro we na rimwe ntiyibuke.",
+ "tokens": [
+  {
+   "surface": "ישתה",
+   "gloss": "asomye"
+  },
+  {
+   "surface": "וישכח",
+   "gloss": "akanibagirwa"
+  },
+  {
+   "surface": "רישו",
+   "gloss": "ubukene bwe"
+  },
+  {
+   "surface": "ועמלו",
+   "gloss": "n'umubabaro we"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "יזכר",
+   "gloss": "yibuke"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "na rimwe"
+  }
+ ],
+ "timestamp": "2026-09-07T19:17:52.737924515Z",
+ "model": "glm-5.3"
+}

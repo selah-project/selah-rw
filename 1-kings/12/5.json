@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "1-kings 12:5",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Yababwiye ati: Nimugende ongera iminsi itatu, maze musubire iwanjye; maze abantu bagenze.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "Yababwiye"
+  },
+  {
+   "surface": "אליהם",
+   "gloss": "bati (kuri bo)"
+  },
+  {
+   "surface": "לכו",
+   "gloss": "Nimugonde"
+  },
+  {
+   "surface": "עד",
+   "gloss": "ongera"
+  },
+  {
+   "surface": "שלשה",
+   "gloss": "itatu"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "iminsi"
+  },
+  {
+   "surface": "ושובו",
+   "gloss": "musubire"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "iwanjye"
+  },
+  {
+   "surface": "וילכו",
+   "gloss": "bagenze"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  }
+ ],
+ "timestamp": "2026-09-07T13:48:11.846786487Z",
+ "model": "glm-5.3"
+}

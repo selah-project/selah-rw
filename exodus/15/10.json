@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Wahuwe ku ruhari rwawe, inyanja irabahise; barashize nka rubugu ⟨urusimbi ruremereye⟩ mu mazi meza.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Wahuwe"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ku ruhari rwawe"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "irabahise"
+    },
+    {
+      "surface": "ים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "barashize"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "nka rubugu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:34.983555737Z",
+  "model": "glm-5.3"
+}

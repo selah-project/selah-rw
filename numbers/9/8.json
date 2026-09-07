@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Moshe (Mose) arababwira ati: Nimuhagare, numve icyo Yahwe azategetse kuri mwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira ati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Nimuhagare"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "numve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "azategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:10:18.117628898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze none ho, abantu bose b'i Yisraeli bazaniye kwa umwami, baravuze bati kwa umwami: Kuki abavandimwe bacu, abantu b'i Yehuda, baguhohoye, bakayobya ⟨את⟩ umwami na ⟨את⟩ inzu ye barenza ⟨את⟩ Yarudeni, n'abagabo bose ba Dawidi kumwe na we?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "maze none ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'i Yisraeli"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bazaniye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "baguhohoye"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "abavandimwe bacu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "b'i Yehuda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "bakayobya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarudeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarudeni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ba Dawidi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:22:08.432699Z",
+  "model": "glm-5.3"
+}

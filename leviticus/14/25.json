@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze yaracye ⟨את⟩ ilamba ry'icyaha, maze kohenu afata mu maraso y'icyaha, maze ashira ku mpera y'ugutwi kwa wa mwisukuye — iburyo — no ku munwe wa mbere w'iboko rye iburyo, no ku munwe wa mbere w'ikirenge cye iburyo.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "maze yaracye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilamba"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ilamba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ry'icyaha"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "y'icyaha"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "maze ashira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "y'ugutwi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "kwa wa mwisukuye"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ku munwe wa mbere"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "w'iboko rye"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ku munwe wa mbere"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "w'ikirenge cye"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "iburyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:40:05.200238214Z",
+  "model": "glm-5.3"
+}

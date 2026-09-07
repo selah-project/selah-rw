@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yahwe, Elohimu wanjye, wowe — ndakuzamura, ndazushima izina ryawe; kuko wakoze ibitangaza, inama z'ihahera ⟨zifite⟩ ubudahemuka wedufatije.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndakuzamura"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndazushima"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "inama"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z'ihahera"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ubudahemuka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "wedufatije"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:10.721121545Z",
+  "model": "glm-5.3"
+}

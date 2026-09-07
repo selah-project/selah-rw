@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Vuga kuri abana ba Yisraeli, ubabwire ati: iminsi yagenwe na Yahwe, iyo muzahamagara ⟨את⟩ ko ari iminani igitagatifu — iyo ni iminsi yanjye yagenwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire ati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "iminsi yagenwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "muzahamagara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iminani igitagatifu"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "iminani"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "iminsi yanjye yagenwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:32.433981932Z",
+  "model": "glm-5.3"
+}

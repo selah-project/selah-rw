@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze nabwira abafunganye ijambo rya Yahwe: ⟨את⟩ amagambo yose ya Yahwe, uko yamperekanije kuyabona.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Maze nabwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ijambo rya ⟨kuri⟩"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "abafunganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "yamperekanije kuyabona"
+    }
+  ],
+  "timestamp": "2026-09-07T16:46:14.841644943Z",
+  "model": "glm-5.3"
+}

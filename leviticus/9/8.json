@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Aharoni yegerejwe ku igitambika, maze yashe ⟨את⟩ inyana y'icyaha riwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yegerejwe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igitambika"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "yashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyana"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "inyana"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "y'icyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "riwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:40.959168999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umuhungarabagabo wese mu bakohenu azayirya ⟨את⟩; ubutagatifu bw'ibitagatifu ⟨ni⟩ ubwo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "umuhungarabagabo"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mu bakohenu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "azayirya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (korubani)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ubutagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bw'ibitagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ubwo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:26:02.646575656Z",
+  "model": "glm-5.3"
+}

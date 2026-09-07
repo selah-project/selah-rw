@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mu bigare igihumbi n'amajana abiri, mu bagendera ku farasi mirongo itandatu mu bihumbi, kandi abantu baje na we mu Mitsrayimu (Egiputa) nta mubare bafite — Alubiyani, Sukiyani n'Abakushi (Abesiyopiya).",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "igihumbi"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "n'amajana abiri"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Mu bigare"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "mu …mirongo itandatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mu bihumbi"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "bagendera ku farasi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mubare"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baje"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baje"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Alubiyani"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukiyani"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "n'Abakushi (Abesiyopiya)"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:44.182428043Z",
+  "model": "glm-5.3"
+}

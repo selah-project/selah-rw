@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi wowe ⟨uri⟩ utagatifu, utunyerejwe n'ituranga rya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kandi wowe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "utunyerejwe"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "n'ituranga rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.709982933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Kugira ngo bakurikize amategeko ye, na Torawe bakurikire. Mushimire Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bakurikize"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "na Torawe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bakurikire"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mushimire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:31.872141437Z",
+  "model": "glm-5.3"
+}

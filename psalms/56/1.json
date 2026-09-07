@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Ku muhanzi w'urubyiruko: ku Yonati-elemu-rehokimu ⟨(urunyoni rwa cuma rw'i kure)⟩. Zaburi ya Dawidi, mikitamu, mu gihe Abafilisiti bafashe ⟨את⟩ we i Gati.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku muhanzi w'urubyiruko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonati"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elemu ⟨(rw'ijoro rya cuma)⟩"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokimu ⟨(rw'i kure)⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikitamu ⟨(umurongo w'ubwiza wangiritse)⟩"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "mu gihe … bafashe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Dawidi)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "i Gati"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:45.849439595Z",
+  "model": "glm-5.3"
+}

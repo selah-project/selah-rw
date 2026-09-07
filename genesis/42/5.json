@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Abahungu ba Yisraeli (Abanyisirayeli) baza mu Mitsrayimu (Egiputa) kugura ibiribwa mu bashyitsi bose, kuko inzara yari mu gihugu cya Kenaani (Kananu).",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Abanyisirayeli)"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kugura ibiribwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "bashyitsi bose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani (Kananu)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:20:48.578441225Z",
+  "model": "glm-5.3"
+}

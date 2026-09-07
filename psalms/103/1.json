@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Iya Dawidi. Uhimbaza, Nefeshi yanjye, ⟨את⟩ Yahwe, n'ibiri mu nda yanjye byose ⟨את⟩ izina rye ry'ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Uhimbaza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'… byose"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ibiri mu nda yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ry'ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:34.268405493Z",
+  "model": "glm-5.3"
+}

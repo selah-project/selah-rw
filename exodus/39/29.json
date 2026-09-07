@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ umukoye wa sheshi mushazari, na tekeleti, na argamani, na tolaati shani — umurimo w'umushushi — uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukoye"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "umukoye"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshi ⟨urudodo rwera⟩"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mushazari"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "na tekeleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na argamani"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na tolaati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "w'umushushi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:10.323260982Z",
+  "model": "glm-5.3"
+}

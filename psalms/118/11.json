@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Baranzeje, yego baranzeje; ariko mu izina rya Yahwe ndazabakata.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Baranzeje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yego"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "baranzeje"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ariko⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ndazabakata"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:04.153426036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "exodus 2:4",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 2,
+ "translation": "Murumuna we yahagaze kure, ngo amenye icyo bamuzirikaho.",
+ "tokens": [
+  {
+   "surface": "ותתצב",
+   "gloss": "yahagaze"
+  },
+  {
+   "surface": "אחתו",
+   "gloss": "murumuna we"
+  },
+  {
+   "surface": "מרחק",
+   "gloss": "kure"
+  },
+  {
+   "surface": "לדעה",
+   "gloss": "ngo amenye"
+  },
+  {
+   "surface": "מה",
+   "gloss": "icyo"
+  },
+  {
+   "surface": "יעשה",
+   "gloss": "bamuzirikaho"
+  },
+  {
+   "surface": "לו",
+   "gloss": "iwe"
+  }
+ ],
+ "timestamp": "2026-09-07T08:34:38.250378134Z",
+ "model": "glm-5.3"
+}

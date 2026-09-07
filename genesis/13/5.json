@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Na Loti na we, uhari ujya na ⟨את⟩ Avramu (Aburahamu), yari afite intama n'inka n'amahema.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na … na we"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "uhari ujya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu (Aburahamu)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari afite"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "n'inka"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "n'amahema"
+    }
+  ],
+  "timestamp": "2026-09-07T07:44:07.222988244Z",
+  "model": "glm-5.3"
+}

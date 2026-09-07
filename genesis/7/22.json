@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Byose bifite imfuruka y'umwuka w'ubuzima mu mazuru yabyo, mu byose biri ku gitaka cyumye, byapfuye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bifite"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "imfuruka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "w'ubuzima"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mu mazuru yabyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "ku gitaka cyumye"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "byapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:32.036562154Z",
+  "model": "glm-5.3"
+}

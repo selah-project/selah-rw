@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Ni njye nakoreye ⟨את⟩ isi, ⟨את⟩ umuntu na ⟨את⟩ inyamaswa ziri ku maso y'isi, mu ngufu zanjye nini no mu tuboko twanjye tugurutse; maze nzihaye uwo byemewe mu maso yanjye.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyamaswa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "mu ngufu zanjye"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "no mu tuboko twanjye"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "tugurutse"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "maze nzihaye"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "byemewe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:08:29.122051180Z",
+  "model": "glm-5.3"
+}

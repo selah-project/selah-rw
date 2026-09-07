@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze barya ⟨את⟩ inyama mu ijoro rino: ibiteuye ku muriro, hamwe n'imigati idavuruye; n'ibyatsi bibi barayiriraho.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Maze barya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ibiteuye"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ku muriro"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "hamwe n'imigati idavuruye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ibyatsi bibi"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "barayiriraho"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:04.460321426Z",
+  "model": "glm-5.3"
+}

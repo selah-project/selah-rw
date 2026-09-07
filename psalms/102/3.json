@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Ntihishurwe uburanga bwawe impora yanjye, ku munsi w'agahinda kanjye; tegeza iwanjye ugutwi kwawe; ku munsi nzahamagara, uhute unsubize.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ihishurwe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburanga bwawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "impora yanjye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "w'agahinda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tegeza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nzahamagara"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "uhute"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "unsubize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:58.968041070Z",
+  "model": "glm-5.3"
+}

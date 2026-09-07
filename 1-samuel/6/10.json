@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Abagabo barabyize Uko: bafata inka zoonesha zibiri, bazifunga ku igare, na ⟨את⟩ ibimasa byazo babibyaza mu nzu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barabyize"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "inka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "zoonesha"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "bazifunga"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ku igare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimasa byazo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ibimasa byazo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "babibyaza"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:25:49.140199254Z",
+  "model": "glm-5.3"
+}

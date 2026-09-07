@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Paro yagomeje ⟨את⟩ umutima we na ku nshuro iyi, ntiyahereza ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "yagomeje"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima we"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ku nshuro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntiya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:32.031110338Z",
+  "model": "glm-5.3"
+}

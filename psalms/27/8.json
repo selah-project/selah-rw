@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "I wowe umutima wanjye wabwiye ati: Shakisha ururanga rwanjye — ⟨את⟩ ururanga rwawe, Yahwe, ndarashakisha.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "I wowe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wabwiye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Shakisha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ururanga rwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ururanga rwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ururanga rwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndarashakisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:01.197484814Z",
+  "model": "glm-5.3"
+}

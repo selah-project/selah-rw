@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nuko ya ⟨את⟩ we agiye, arakinga umuryango ku we no ku bahungu be; bo bakuzengerezaga we ⟨את⟩ inkono, we yatsiraga amavuta.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Nuko yagiye"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "agiiho kuri we"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "arakinga"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bahungu be"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "bakuzengerezaga"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "yatsiraga amavuta"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:05.467419049Z",
+  "model": "glm-5.3"
+}

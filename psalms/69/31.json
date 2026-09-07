@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ndasingiza izina ry'Elohimu mu ndirimbo, kandi ndamukuza mu kwishima.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ndasingiza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry'Elohimu"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "mu ndirimbo"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "kandi ndamukuza"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mu kwishima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.311106968Z",
+  "model": "glm-5.3"
+}

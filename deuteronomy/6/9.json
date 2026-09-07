@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi uzazandika ku ngingo z'inzu yawe no ku muryango wawe.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "kandi uzazandika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ingingo z'umuryango"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "z'inzu yawe"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "no ku muryango wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:46.585530184Z",
+  "model": "glm-5.3"
+}

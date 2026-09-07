@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Isi izahinda nk'uwanyoye, ikazenguruka nk'akazu; icyaha cyayo kizakomeza kubareza kuri yo, maze igahitana, ntikazongera kuzamura.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "guhinda"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "izahinda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Isi"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "nk'uwanyoye"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "ikazenguruka"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "nk'akazu"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "kizakomeza kubareza"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuri yo"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "icyaha cyayo"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "maze igahitana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntikazongera"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "kongera"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kuzamura"
+    }
+  ],
+  "timestamp": "2026-09-07T15:00:04.589509305Z",
+  "model": "glm-5.3"
+}

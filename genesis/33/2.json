@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze ashira ⟨את⟩ abaja na ⟨את⟩ abana babo imbere, na ⟨את⟩ Leah n'abana be inyuma, na ⟨את⟩ Raheli na ⟨את⟩ Yosefu iheruka.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaja"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "abaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "abana babo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "n'abana be"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "iheruka"
+    }
+  ],
+  "timestamp": "2026-09-07T08:08:19.664735429Z",
+  "model": "glm-5.3"
+}

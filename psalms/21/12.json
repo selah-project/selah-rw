@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko bashyize ibyaha ku wowe, banze ingamba mbi — ntabwo bazashobora ⟨kubishyira mu ngiro⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "banze"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ingamba mbi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bazashobora"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:22.863294407Z",
+  "model": "glm-5.3"
+}

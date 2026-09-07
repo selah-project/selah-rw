@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": " maze abyafata mu biganza byabo, abyubaka ⟨את⟩ izahabu akoresheje icyuma cyo gutema, maze abyakora uruhara rw'izahabu yacitse; baravuga bati: Izi ⟨ni⟩ imana zawe, Yisraeli, zo zakuzamuye mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "abyafata"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mu biganza byabo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "abyubaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izahabu"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "icyuma cyo gutema"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "abyakora"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imana zawe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zo"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "zakuzamuye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:14:09.992080841Z",
+  "model": "glm-5.3"
+}

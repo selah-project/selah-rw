@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Iyo Yisraeli igarutse — umurambo wa Yahwe — igarukire kuri njye; kandi iyo yakuyemo iby'imitsi byayo imbere yanjangye, ntizazenguruka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "igarutse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "umurambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "igarukire"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "yakuyemo"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "iby'imitsi byayo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere yanjangye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "izazenguruka"
+    }
+  ],
+  "timestamp": "2026-09-07T15:43:06.400022920Z",
+  "model": "glm-5.3"
+}

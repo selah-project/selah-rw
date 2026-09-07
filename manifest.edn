@@ -1,0 +1,127 @@
+#:rendering{:label "Ikinyarwanda",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-07", :to "2026-09-07"},
+            :id "rw.v1",
+            :catalog {:ui "resources/i18n/ui/rw.edn"},
+            :license "CC BY-SA 4.0 (The Selah Kinyarwanda Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/rw.md",
+             :rails-commit "d13931ca",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonayi",
+              "אל" "Eli",
+              "אלהים" "Elohimu",
+              "אלוה" "Elowa",
+              "ג" "g",
+              "ד" "d",
+              "ה" "h",
+              "ו" "w",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "y",
+              "יה" "Yah",
+              "יהוה" "Yahwe",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "צ" "ts",
+              "צבאות" "Tsevaoti",
+              "ק" "k",
+              "ר" "r",
+              "שדי" "Shadayi",
+              "ת" "t"},
+             :open-questions
+             ["B9.4 — 982 empty glosses (en floor: 10), concentrated at אשר/על/אל/כי particle seats — is zero-marking ever lawful in this chair, or does every token get a word?"
+              "B7.1/B7.2 — the priest register: 636 kohenu-family rows vs 143 umuherezi-family, plus spelling drift kohenu/koheni/kahenu/umukoheni (~90 rows) — normalise the column to the kohenu family?"
+              "B8.1/B8.2 — היכל runs three registers at once (urusengero 34 / transliterated 21 in SIX spellings / ingoro-palace 22, 55 distinct glosses) — is היכל a marked-transliteration word, and is the spelling heikalu?"
+              "B3.4 — Isa 7:14 עמנו אל split across two tokens, both glossed Imanueri (the Kinyarwanda-Bible form) — Imanueri vs Hebrew-first Imanu-El, and how does a two-token compound name split?"
+              "B5.1 — which verse counts as FIRST USE for a paren bridge across books: canonical order or store order? (Yeshuwa bridge sits at Ezra 2:40; first store occurrence is 2 Chr 31:15)"
+              "B2.1 — Dan 6:27 lowercase calque phrase 'uhoraho iteka' at וקים — lexically lawful but verbatim the Uwiteka source-phrase; acceptable colour or different verb?"
+              "B4.1 — אלוה used generically (Dan 11:37 'nor any god') — Elowa unconditionally per D1, or lowercase mana at the foreign-god register?"
+              "B4.2 — Aramaic plural אלהין (Dan 4:5-6) welded as 'rya Elahin' — lowercase imana, or Elahi with separate plural concord?"
+              "B7.3 — 1 Kgs 1:7-8 'kohenu ⟨uhankuku⟩' — unresolvable word, needs a reader"
+              "B3.1/B3.2 — witness parens not at first use: bare (Imana) on plain Elohimu ×2; compound meaning-parens Elyoni/Ariyeli — lawful or rule-6 notes?"
+              "B6.1 — k'Elohimu(ka) / r'Elohimu(ri) unresolved generator parens (2 rows after A-repairs)"
+              "paren-shadows 1,957 across 1,370 files (Isirayeli 83, Mose 67, Egiputa 58) — between kk 1,644 and sr 3,705; fleet shadow-convention campaign pending"
+              "«Yeshuwa (Yesuwa)» Ezra 2:40 — hidden-names bridge kept per ruling (rw cousin of fi's (Jeesua))"]},
+            :status :live,
+            :adjudication
+            {:chair 65,
+             :date "2026-09-07",
+             :first :bantu-second-chair,
+             :polarity :latin-home,
+             :seal
+             {:yahwe 6813,
+              :uwiteka 0,
+              :uhoraho-title 0,
+              :aleph-tav [0 0 0 0],
+              :nt-leak 0,
+              :elohimu 2342,
+              :et-verses 7226,
+              :spine-diff-vs-en 0,
+              :yehova 0,
+              :nyagasani 0},
+             :tekoa
+             {:auditor :opus-fork,
+              :mode :read-only-class-a,
+              :name-seat-violations 5,
+              :class-a-verses-applied
+              "~154 rows + 165-file bracketed-Hebrew class: 2Chr7:6 Uhoraho at both Name seats (the second and last token-row erasure hit), Exod 4:10 Adonayi, apostrophe de-elision before consonant-initial Yahwe store-wide, lya/kya particle drift, Name-split-by-marker flows ×3, Elahahon Aramaic weld, Imana/Eli/Elowa register crossings ×8, sacerdos loans ×8, kohen garbles ×38, heikal wrong-content ×16 (Dan 6:21 ashobora KEPT — interrogative ה + Aramaic יכל), 2Chr 9:21-24 English + 2Chr 7:5/7:7 fabricated re-rendered, Cyrillic homoglyphs 19 files, bare-du French stoplist, bracketed-Hebrew leftovers → chair marker convention ⟨את⟩ we/bo/mwe",
+              :ambiguous-filed 24},
+             :cruxes
+             ["the topology inversion — Kinyarwanda welds class prefixes onto nearly every noun; the rails put the grammar on the words AROUND the Name: zero welds on Yahwe/Elohimu in 23,213 files, ~6,800 lawful agreement forms as the proof"
+              "the nti-weld NEW class — the verbal negative grabbed the Name twice (ntiYahwe azaba); negation moved to the verb (Yahwe ntazaba); watch at every Bantu chair"
+              "the lowercase-uhoraho lawful NEW class — guhoraho 'to endure' shares a skeleton with the banned title; sweeps stay token-guided, never stem-gleaned"
+              "the burn carried the entire fleet re-ingest campaign (60 chairs + en + ka + fi) for its first 7.5 of ~14.5 hours — the longest burn on the ladder, 25/min under load, 47/min after"
+              "Uwiteka reached a token row exactly twice in the chair's whole life (2 Sam 5:2, 2 Chr 7:6) — the cleanest Latin-home erasure record"
+              "curtain-hooks Exod 26:32+36:36 PASSED — first chair since ka to hold both"
+              "burned through a Codex engine restart at ~18:21 with zero loss (already quiesced)"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-rw",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :rw}

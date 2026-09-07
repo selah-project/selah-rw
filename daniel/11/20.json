@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Hagati y'aho hazahagarara ku ntebe ye uwutuma umutwarwa w'ubwami arenga mu cyubahiro cy'ubwami; mu minsi mike azameneka, atari mu bashishi, na atari mu intambara.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "hazahagarara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ntebe ye"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "uwutuma ... arenga"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "umutwarwa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "mu cyubahiro"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "cy'ubwami"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "mike"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "azameneka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "mu bashishi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na atari"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T20:14:15.254955573Z",
+  "model": "glm-5.3"
+}

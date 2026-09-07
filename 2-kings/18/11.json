@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umwami w'Ashuru (Asiri) asezereranye ⟨את⟩ Yisraeli ajyana mu Ashuru, abashyira muri Halahu no ku Haburu, uruzi rwa Gozanu, no mu mujyi ya Madayi (Mediya).",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "asezereranye ajyana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "mu Ashuru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "abashyira"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "muri Halahu"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "no ku Haburu"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "uruzi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "rwa Gozanu"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "no mu mujyi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya Madayi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:32.337403319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Baravuga bati: Ni uko bahoye ⟨את⟩ beriti ya Yahwe, Elohimu w'abakurambere babo, yanagiriye nabo igihe yohere ⟨את⟩ bo mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bahoye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "w'abakurambere babo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyahe"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yanagiriye"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "igihe yohere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:15:30.514588740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nkuko abana babo bibuka ibicano byabo n'asherimu yabo, ku bimera byazahe, ku misozi miremire.",
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "Nkuko... bibuka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "abana babo"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ibicano byabo"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "n'asherimu yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bimera"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "byazahe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "misozi"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "miremire"
+    }
+  ],
+  "timestamp": "2026-09-07T15:57:11.978600326Z",
+  "model": "glm-5.3"
+}

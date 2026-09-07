@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kandi imbaraga zanyu zizashwa ubusa; isi yanyu ntiyizatanga ⟨את⟩ umusaruro wayo, n'igiti cy'isi ntikizatanga umusaruro wacyo.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "zizashwa"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "imbaraga zanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yizatanga"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "isi yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusaruro wayo"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "umusaruro wayo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "n'igiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cy'isi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kizatanga"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "umusaruro wacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:38.550556777Z",
+  "model": "glm-5.3"
+}

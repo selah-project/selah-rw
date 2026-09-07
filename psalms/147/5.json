@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Adonayi wacu ni munini, ufite imbaraga nyinshi; ku bw'ubwenge bwe nta umubare ⟨uri⟩.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonayi wacu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ufite imbaraga nyinshi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ku bw'ubwenge bwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:52.334521076Z",
+  "model": "glm-5.3"
+}

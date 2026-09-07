@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Inshuro eshatu mu mwaka, abagabo bawe bose bazagaragara imbere y'Adonayi Yahwe.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "eshatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "inshuro"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bazagaragara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "abagabo bawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "y'indorerwamo"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:42.995901379Z",
+  "model": "glm-5.3"
+}

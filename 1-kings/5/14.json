@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abantu mu mahanga yose bajeho kumva ⟨את⟩ ubwenge bwa Shelomo, ku ⟨את⟩ bami bose y'isi abo bawumvise ⟨את⟩ ubwenge bwe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bajeho"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwenge bwa Shelomo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bwa Shelomo (Salomo)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bami"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bawumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwenge bwe"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ubwenge bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:34:15.404595632Z",
+  "model": "glm-5.3"
+}

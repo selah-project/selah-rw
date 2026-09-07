@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Maze ndavuga nti: Rwose umwijima uracyeza amaso; ariko ijoro kizaba urumuri kuri njye.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Maze ndavuga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Rwose"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "uracyeza amaso"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:23.582582954Z",
+  "model": "glm-5.3"
+}

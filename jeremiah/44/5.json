@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ariko ntibyumvise, kandi ntibateye ⟨את⟩ ugutwi kwabo ngo bahagarike ibyaha byabo, ngo batashereke izindi mana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ariko nti-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-byumvise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "-bateye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugutwi kwabo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ugutwi kwabo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ngo bahagarike"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "ibyaha byabo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ngo bata-"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "-shereke"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:28:23.671410909Z",
+  "model": "glm-5.3"
+}

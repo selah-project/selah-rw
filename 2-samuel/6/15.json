@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Dawidi n'urugo rwa Yisraeli rwose bazamura ⟨את⟩ agakarizo kwa Yahwe mu kurusaku no mu ijwi ry'umuvunjashofari.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'... rwose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "bazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agakarizo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "agakarizo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mu kurusaku"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "no mu ijwi ry'"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "umuvunjashofari"
+    }
+  ],
+  "timestamp": "2026-09-07T13:03:55.986905906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ari ko iyo uhamagara ubusobanuzi, kuri ubushishozi ukorera ijwi ryawe;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ari ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ubusobanuzi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "uhamagara"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "kuri ubushishozi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ukorera"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ijwi ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:21.931167015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Imigisha izabe ku mbuto y'umunda wawe, ku mbuto y'ubutaka bwawe no ku mbuto z'amatungo yawe — ku bavukana b'inka zawe no ku bavukana b'intare zawe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Imigisha izabe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ku mbuto"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "y'umunda wawe"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "no ku mbuto"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "y'ubutaka bwawe"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "no ku mbuto"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "z'amatungo yawe"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ku bavukana"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "b'inka zawe"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "no ku bavukana"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "b'intare zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:22.870497669Z",
+  "model": "glm-5.3"
+}

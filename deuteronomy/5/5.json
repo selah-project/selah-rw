@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Njye nari mfite hagati — Yahwe ku ruhande, mwe ku rundi — mu gihe icyo, ngo mbabwire ⟨את⟩ ijwi rya Yahwe; kubera ko mwatinnye imbere y'umuriro, kandi ntimwazamukiye ku musozi, ngo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nari mfite hagati"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "mwe ku rundi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ngo mbabwirwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mbabwire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "mwatinnye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "mwazamukiye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:21.667626830Z",
+  "model": "glm-5.3"
+}

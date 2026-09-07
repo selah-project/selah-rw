@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Barashyira mu ijuru umunwa wabo, n'ururimi rwabo rukagenda ku isi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "barashyira"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "umunwa wabo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "n'ururimi rwabo"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "rukagenda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:53.757041556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe, Adonayi wacu, izina ryawe ni ry'agaciro kangana mu isi yose, wawe washyize ubwami bwawe hejuru y'ijuru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayi wacu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kangana"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ry'agaciro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wawe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ubwami bwawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:40.995999922Z",
+  "model": "glm-5.3"
+}

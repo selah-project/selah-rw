@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Yahwe yambuye ⟨את⟩ uboko bwe butagatifu imbere y'amaso y'amahanga yose; kandi iherezo ry'isi yose rizabona ⟨את⟩ uburokoke bw'Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "yambuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uboko bwe butagatifu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "uboko bwe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "butagatifu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "y'amahanga"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "rizabona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "iherezo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ry'isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburokoke bw'Elohimu wacu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "uburokoke"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bw'Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:41:09.621424891Z",
+  "model": "glm-5.3"
+}

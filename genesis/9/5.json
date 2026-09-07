@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi rwose ⟨את⟩ amaraso yanyu, y'ubuzima bwayo, nzabaza; ku ruhande rw'inyamaswa zose nzayibaza, no ku ruhande rw'umuntu, ku ruhande rw'umuntu na murumuna we, nzabaza ⟨את⟩ ubuzima bw'umuntu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Kandi rwose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso yanyu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "amaraso yanyu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "y'ubuzima bwayo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nzabaza"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "nzayibaza"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "no ku ruhande rw'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "murumuna we"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nzabaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuzima"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bw'umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:08.057610170Z",
+  "model": "glm-5.3"
+}

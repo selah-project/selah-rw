@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Icyigisho cya Asafu. Kubera iki, Elohimu, wazitaye burundu? Kubera iki uburakari bwawe buratwikira ⟨nk'umuriho⟩ ku matungo yo mu rworo rwawe?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Icyigisho"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cya Asafu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wazitaye"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "burundu"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "buratwikira ⟨nk'umuriho⟩"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ku matungo"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "yo mu rworo rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:52.072740803Z",
+  "model": "glm-5.3"
+}

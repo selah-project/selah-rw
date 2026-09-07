@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dawidi aramubwira ati: Uva hehe uturuka? We aramubwira ati: Mu gisirikare cya Yisraeli (Isirayeli) ndahunze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "uva"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "utura"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "mu gisirikare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cya Yisraeli"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ndahunze"
+    }
+  ],
+  "timestamp": "2026-09-07T13:00:31.251601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze uwo ugomba gukirwa arakesa ⟨את⟩ imyambaro ye, akata ⟨את⟩ ubwoya bwe bwose, aramesa mu mazi, agakira; nyuma y'ibyo yinjira mu kambi, ariko atura hanze y'ihema rye iminsi indwi.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "arakesa"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "uwo ugomba gukirwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "imyambaro ye"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "akata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwoya bwe bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "ubwoya bwe"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "aramesa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "agakira"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muri"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ikambi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "atura"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "y'ihema rye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:40:36.676725583Z",
+  "model": "glm-5.3"
+}

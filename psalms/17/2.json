@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Imbere yawe urubanza rwanjye ruvemo; amaso yawe abungane.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Imbere yawe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "urubanza rwanjye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ruvemo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "abungane"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ibyoroshye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:40.242932801Z",
+  "model": "glm-5.3"
+}

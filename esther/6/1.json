@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mu iri joro ibara ry'umwami ryirukanijwe, maze yaravuze ngo bazane ⟨את⟩ igitabo cy'ibyibutsa, ibyanditswe mu mateka, maze bisomwa imbere y'umwami.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Mu iri joro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "ryirukanijwe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ibara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ry'umwami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngo bazane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitabo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "cy'ibyibutsa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ibyanditswe mu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mateka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "bisomwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:03.336527850Z",
+  "model": "glm-5.3"
+}

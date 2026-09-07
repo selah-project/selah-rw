@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ururimi rw'agakiza ni igiti cy'ubuzima, ariko ubugome mu rurimi ni umunaniro mu roho.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "rw'agakiza"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "cy'ubuzima"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ariko ubugome"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu rurimi"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "uminaniro"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mu roho"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:20.427246429Z",
+  "model": "glm-5.3"
+}

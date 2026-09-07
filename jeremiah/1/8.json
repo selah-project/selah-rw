@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ntutinye uburanga bwabo, kuko uri kumpe njye ⟨את⟩ ngo ndakurokore, ni ko Yahwe abivugira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "uburanga bwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "uri ⟨את⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "ngo ndakurokore"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ni ko … abivugira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:38:49.560379057Z",
+  "model": "glm-5.3"
+}

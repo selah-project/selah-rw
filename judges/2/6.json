@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yehoshuwa yarungikiye ⟨את⟩ abantu, maze abana b'Yisraeli bagiye umuntu ku murage we, kwatura ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarungikiye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "maze bacyeyo bagiye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ku murage we"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kwatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:41.921131064Z",
+  "model": "glm-5.3"
+}

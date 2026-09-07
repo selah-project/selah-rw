@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Kubera ibyaha, bazakira ⟨ni⟩ bo? Mu burakari, Elohimu, manura amoko.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "bazakira"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באף",
+      "gloss": "mu burakari"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "manura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:04.606098498Z",
+  "model": "glm-5.3"
+}

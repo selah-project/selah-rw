@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Amategeko nka mbiliyoni nandikiye, ariko yagarariwe nk'ibya mpa — nk'iby'umunyamahanga.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "nandikiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "amategeko yanga (Tora yanjye)"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "iby'umunyamahanga"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "yagarariwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:30.975548790Z",
+  "model": "glm-5.3"
+}

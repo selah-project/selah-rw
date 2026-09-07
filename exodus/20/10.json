@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Ari ko umunsi wa karindwi ni Shabati rya Yahwe Elohimu wawe; ntuzakora umurimo uwariho wose — wowe, n'umwana wawe wgahungu, n'umukobwa wawe, umugaragu wawe n'umuja wawe, n'amatungo yawe, n'umunyamahanga wawe uri mu marembo yawe.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Ari ko umunsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zakore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umurimo uwariho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "n'umwana wawe wgahungu"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "n'umukobwa wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "n'umuja wawe"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "n'amatungo yawe"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "n'umunyamahanga wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "mu marembo yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:07.012290781Z",
+  "model": "glm-5.3"
+}

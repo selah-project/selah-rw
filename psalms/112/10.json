@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Inkozi y'ibibi izabibona akanenwa; amenzi ye azibaza, aryangwa; icyifuzo cy'abakora ibibi kizahita.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "inkozi y'ibibi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "izabibona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "akanenwa"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "amenzi ye"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "azibaza"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "aryangwa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "icyifuzo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cy'abakora ibibi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "kizahita"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:07.891254463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Kuko bihita bikorotwa nk'ubwatsi, bihinda nk'ibyatsi byoroheje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nk'ubwatsi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "bihita"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "bikorotwa"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "nk'ibyatsi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "byoroheje"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "bihinda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:33.396542984Z",
+  "model": "glm-5.3"
+}

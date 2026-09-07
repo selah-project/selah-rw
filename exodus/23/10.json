@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Imyaka itandatu uraza ⟨את⟩ igihugu cyawe, maze uzatera ⟨את⟩ ibiterwa byacyo.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Imyaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uraza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cyawe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "igihugu cyawe"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "maze uzatera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiterwa byacyo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ibiterwa byacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:07.569947756Z",
+  "model": "glm-5.3"
+}

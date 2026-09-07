@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Ubutayu n'isi yumye bizarushimira; urwangwe ruzashimira, ruzera nk'indabo ihire.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "bizarushimira"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "n'isi yumye"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ruzashimira"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "urwangwe"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ruzera"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "nk'indabo ihire"
+    }
+  ],
+  "timestamp": "2026-09-07T15:10:35.303581901Z",
+  "model": "glm-5.3"
+}

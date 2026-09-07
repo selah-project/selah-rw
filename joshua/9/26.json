@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yabikoze uko, arabakiza ⟨את⟩ bo mu ntoko z'abana ba Yisraeli (Isirayeli), maze ntabahitanywe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yabikoze"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "arabakiza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "barabahitanywe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:27:22.723414839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nyuma none abantu b'igihugu baragabanyije ibiganza by'abantu ba Yehudha, bakomeje kubangamira ⟨את⟩ bo mu kwubaka,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nyuma none"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "b'igihugu"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "baragabanyije ibiganza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ibiganza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by'abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehudha"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "bakomeje kubangamira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (abantu ba Yehudha)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mu kwubaka"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:37.412437506Z",
+  "model": "glm-5.3"
+}

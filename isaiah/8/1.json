@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yaravuze iti: Fata urubaho rwo kwandikaho rurenze, maze uwandikaho n'ikaramu y'umuntu: Maher-Shalalu-Hashi-Bazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uriwowe"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "urubaho rwo kwandikaho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rurenze"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "maze uwandikaho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "n'ikaramu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Mahere"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalalu"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hashi"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Bazi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:44:59.835973378Z",
+  "model": "glm-5.3"
+}

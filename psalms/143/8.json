@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Umenyeshe mu gitondo hesedi yawe, kuko uri wowe niringiye; umenyeshe inzira iyi nzagenda, kuri wowe Nefeshi yanjye narahiye.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Umenyeshe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uri wewe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "niringiye"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "umenyeshe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "narahiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:26.040096138Z",
+  "model": "glm-5.3"
+}

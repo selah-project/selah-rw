@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Eli ⟨ni⟩ Yahwe, maze yatwasubirishije urumuri; pfatanye umunaniro w'ibirori mu mibu, kugeza ku nda z'urwatiro",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "yaturasunze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "pfatanye"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ibirori"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "mu mibu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ku nda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "z'urwatiro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:31.820573863Z",
+  "model": "glm-5.3"
+}

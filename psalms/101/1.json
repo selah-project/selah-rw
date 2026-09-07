@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Rya Dawidi, umuzimu (indirimbo y'impano). Hesedi (urukundo n'ubwitungo) n'imyanzuro nzahira; kuri wewe, Yahwe, nzahira n'inanga.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Rya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuzimu (indirimbo y'impano)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi (urukundo n'ubwitungo)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'imyanzuro"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nzahira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nzahira n'inanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:48.291033196Z",
+  "model": "glm-5.3"
+}

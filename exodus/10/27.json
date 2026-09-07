@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze Yahwe yazizeye ⟨את⟩ umutima wa Paro, maze ntiyiyemeje kubohora.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Maze yazizeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maze nti"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yiyemeje"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kubohora"
+    }
+  ],
+  "timestamp": "2026-09-07T08:42:44.573435297Z",
+  "model": "glm-5.3"
+}

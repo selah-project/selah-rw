@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Iminsi y'umuntu w'ibyago ⟨ni⟩ nk'ubwatsi; nk'urubabi rw'umurima, ni ko yororoka.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu w'ibyago"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nk'ubwatsi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "nk'urubabi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "rw'umurima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "yororoka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:16.455082205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 18:4",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umwami arababwira ati: Ibyo biyungurwa mu maso yanyu ni byo nzakora. Umwami nahagaze ku ruhande rw'urugo, maze abantu bose basohoka mu majana n'ibihumbi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira ati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "biyungurwa"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "mu maso yanyu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nahagaze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rw'"
+    },
+    {
+      "surface": "השער",
+      "gloss": "urugo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'abantu bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "mu majana"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "n'ibihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:16:34.126986628Z",
+  "model": "glm-5.3"
+}

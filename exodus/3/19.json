@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "exodus 3:19",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Ariko njye ndazi ko umwami wa Mitsrayimu ntazabaha ⟨את⟩ mwe ko mugenda, atari n'ubushobozi bukomeye.",
+ "tokens": [
+  {
+   "surface": "ואני",
+   "gloss": "Ariko njye"
+  },
+  {
+   "surface": "ידעתי",
+   "gloss": "ndazi"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nta"
+  },
+  {
+   "surface": "יתן",
+   "gloss": "zabaha"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "ko mugenda"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "wa Mitsrayimu"
+  },
+  {
+   "surface": "להלך",
+   "gloss": "ko mugenda"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "atari"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "n'ubushobozi"
+  },
+  {
+   "surface": "חזקה",
+   "gloss": "bukomeye"
+  }
+ ],
+ "timestamp": "2026-09-07T08:39:02.052699539Z",
+ "model": "glm-5.3"
+}

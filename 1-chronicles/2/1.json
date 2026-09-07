@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Aya ⟨ni⟩ abahungu ba Yisraeli: Reuvemu, Shimeoni, Levi, na Yehudah, Yissakhari, na Zevuluni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvemu"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "na Zevuluni"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:11.649272824Z",
+  "model": "glm-5.3"
+}

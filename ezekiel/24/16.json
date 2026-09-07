@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Mwana w'umuntu, raba, ndi ngenda nkiguhoza kuri wewe ⟨את⟩ icyifuzo cy'amaso yawe mu nzigorzi; ntago uzira, ntago urira, ntago n'imishyitsi yawe igwa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "raba, ndi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nkiguhoza"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyifuzo cy'amaso yawe"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "icyifuzo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "cy'amaso yawe"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "mu nzigorzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "uzira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "urira"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ntago na"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "igwa"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "imishyitsi yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:03:19.021669822Z",
+  "model": "glm-5.3"
+}

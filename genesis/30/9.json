@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Leah arabona ko yahagaze kutabyara, maze afata ⟨את⟩ Zilpah umuja wiwe, amuha ⟨את⟩ we Yaakovu ngo abere umugore.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "arabona"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "kutabyara"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpah"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "umuja wiwe"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "amuha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ we",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngo abere umugore"
+    }
+  ],
+  "timestamp": "2026-09-07T07:59:53.592105020Z",
+  "model": "glm-5.3"
+}

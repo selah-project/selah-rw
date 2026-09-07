@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 87,
+  "translation": "Yahwe azabara mu kwandikwa kw'amoko ko uyu yavutse aho. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "azabara"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "mu kwandikwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yavutse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:01.475786558Z",
+  "model": "glm-5.3"
+}

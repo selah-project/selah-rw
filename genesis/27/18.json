@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "genesis 27:18",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 27,
+ "translation": "Naza kwa se, aramubwira ati: Dawe! Se aramusubiza ati: Ndi hano; ari nde wowe, umuhungu wanjwe?",
+ "tokens": [
+  {
+   "surface": "ויבא",
+   "gloss": "naza"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kwa"
+  },
+  {
+   "surface": "אביו",
+   "gloss": "se"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "aramubwira ati"
+  },
+  {
+   "surface": "אבי",
+   "gloss": "Dawe!"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "aramusubiza ati"
+  },
+  {
+   "surface": "הנני",
+   "gloss": "Ndi hano"
+  },
+  {
+   "surface": "מי",
+   "gloss": "ari nde"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "בני",
+   "gloss": "umuhungu wanjwe"
+  }
+ ],
+ "timestamp": "2026-09-07T08:01:28.857223634Z",
+ "model": "glm-5.3"
+}

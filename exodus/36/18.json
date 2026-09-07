@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Maze akoza ingando zo mu gikara cumi na mirongo itanu zo guhuza ⟨את⟩ ihema kugira ngo ryere ⟨ni⟩ rimwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maze akoza"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ingando"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zo mu gikara"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cumi na mirongo itanu"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "zo guhuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kugira ngo ryere"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨ni⟩ rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:25.921111523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Bazubaka amazu bazimubamo, bazatera imizabibu bakarya imbuto zazo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "bazubaka"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bazimubamo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "bazatera"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "imizabibu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "bakarya"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "imbuto"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:22.414758440Z",
+  "model": "glm-5.3"
+}

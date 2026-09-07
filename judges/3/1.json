@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ibi ni ibihugu Yahwe yasize ngo abeshe muri byo ⟨את⟩ Yisraeli — ⟨את⟩ bose abo nti bazi ⟨את⟩ imidyari yose ya Kenaani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ibi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ibihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "yasize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ngo abeshe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imidyari yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "imidyari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:33.851592320Z",
+  "model": "glm-5.3"
+}

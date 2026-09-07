@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yahwe ni imbaraga zabo, kandi ni urwibazwa rw'ibyokokoza bya Mashiyah we.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zabo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "kandi urwibazwa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "rw'ibyokokoza"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "bya Mashiyah we"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:21.313551497Z",
+  "model": "glm-5.3"
+}

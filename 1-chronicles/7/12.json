@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na Shupimu na Hupimu, abahungu ba Iri; Hushimu, abahungu ba Aheri.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Na Shupimu"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "na Hupimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hushimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Aheri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:25.239918706Z",
+  "model": "glm-5.3"
+}

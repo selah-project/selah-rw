@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Dawidi yaratumye, ajya abaza ibya uwo mugore, hanyuma bavuze bati: Ee, si uwo mwanakazi we, Bat-sheva, umukobwa wa Eliamu, umugore wa Uriya Umuhiti?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yaratumye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ajya abaza ibya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "uwo mugore"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bavuze bati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ee, si"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "uwo mwanakazi we"
+    },
+    {
+      "surface": "בת",
+      "gloss": "(mu izina rya)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "wa Eliamu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "wa Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Umuhiti"
+    }
+  ],
+  "timestamp": "2026-09-07T13:10:21.953195916Z",
+  "model": "glm-5.3"
+}

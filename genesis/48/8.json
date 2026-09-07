@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yisraeli yarebye ⟨את⟩ abahungu ba Yosefu, maze yaravuze ati: Aba ni bande?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu ba Yosefu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze ati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bande"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aba ni"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:38.142077256Z",
+  "model": "glm-5.3"
+}

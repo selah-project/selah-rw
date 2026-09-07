@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yarakoze imibaho mu biti bya shitimu, maze ayihishisha ⟨את⟩ zahabu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yarakoze"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "imibaho"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mu biti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "bya shitimu"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ayihishisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "imibaho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:01.743823109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Adaha yabyariye Esavu ⟨את⟩ Elifazi, na Basemathi yabyaye ⟨את⟩ Reueli.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yabyariye"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "na Basemathi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reueli"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:50.403454967Z",
+  "model": "glm-5.3"
+}

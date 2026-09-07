@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umwijinya wa Yaakovu waratse kuri Raheli, aravuga ati: Ese njye ndi ⟨mu mwanya w'⟩Elohimu, we wabujije iwe imbuto y'inda?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "waratse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "umwijinya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakovu"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "kuri Raheli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "⟨mu mwanya w'⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we uwa"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "wabujije"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "y'inda"
+    }
+  ],
+  "timestamp": "2026-09-07T08:03:54.185833284Z",
+  "model": "glm-5.3"
+}

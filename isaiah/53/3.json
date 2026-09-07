@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Yarekewe, nta n'umwe umwitaho; umuntu w'ibyago, umumenyi w'uburwayi; nk'uwuhisha intebe we, yarekewe, kandi ntitwamuteye icyiciro.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Yarekewe"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "nta n'umwe umwitaho"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "w'ibyago"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "umumenyi"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "w'uburwayi"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "nk'uwuhisha"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "intebe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "we"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "yarekewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "twamuteye icyiciro"
+    }
+  ],
+  "timestamp": "2026-09-07T15:28:44.445950877Z",
+  "model": "glm-5.3"
+}

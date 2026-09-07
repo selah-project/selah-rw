@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Moshe yabwira abana b'i Yisraeli gutya, ariko ntibumva Moshe kubw'ubunyurane b'umutima no kubw'ubworozi ikomeye.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yabwira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bumva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "ubunyurane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "ubworozi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:08.609860392Z",
+  "model": "glm-5.3"
+}

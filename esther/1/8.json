@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kunywa kwari nk'itegeko: nta kugerageza, uko ni ko umwami yashyizeho ku bakuru b'inzu ye bose, kugira ngo bakore nk'uko umuntu n'umuntu ashaka.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "Kunywa"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "nk'itegeko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "kugerageza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "yashyizeho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "b'inzu ye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kugira ngo bakore"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "nk'uko ashaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:58:30.885334402Z",
+  "model": "glm-5.3"
+}

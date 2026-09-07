@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Yahwe yabwiye Moshe ati: Carura ubwawe ibibaho abiri by'amabuye nk'ibibaho bya mbere, maze ndandikaho kuri ibyo bibaho ⟨את⟩ amabwiriza yari kuri ibibaho bya mbere, wowe ubisize.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "carura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ibibaho"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "y'amabuye"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "nk'ibibaho bya mbere"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "maze ndandikaho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ibyo bibaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amabwiriza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ibyo bibaho"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "bya mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ubisize"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:35.909702799Z",
+  "model": "glm-5.3"
+}

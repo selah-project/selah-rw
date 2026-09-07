@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ariko kubera Dawidi, Yahwe Elohimu we yamuhaye urumuri i Yerushalayimu, ngo ahagarihize ⟨את⟩ umwana we nyuma ye, na ⟨את⟩ Yerushalayimu ayishyigikire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yamuhaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu we"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ngo ahagarihize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana we"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma ye"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "na ... ayishyigikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:15.137059391Z",
+  "model": "glm-5.3"
+}

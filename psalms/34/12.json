@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Nimuze, abana, mwumve kuri njye; urwitinyo rwa Yahwe nabigishisha.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "nimuze"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mwumve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "urwitinyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwa Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "nabigishisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:17.056207939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Amaso ya Yisraeli yaremereye kubera ubusaza, ntiyashoboraga kureba; Yisraeli yazanye ⟨את⟩ abo iwe, arabacumye, arabazingiye bo.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "yaremereye"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "kubera ubusaza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "yazanye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "arabacumye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "arabazingiye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:15.034336229Z",
+  "model": "glm-5.3"
+}

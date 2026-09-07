@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Aramubwira ati: Iyi ni inabi. Yarayijugunye mu hagati ya eifa, maze yajugunya ⟨את⟩ urutare rw'urasimbi ku kanwa yayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ni inabi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yarayijugunye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iya",
+      "marks": "iya (umugore)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu hagati"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ya eifa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yajugunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urutare rw'urasimbi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "urutare"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "rw'urasimbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanwa yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:59:36.057606820Z",
+  "model": "glm-5.3"
+}

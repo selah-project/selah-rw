@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Umusazi yaravuze mu mutima we ati: Elohimu nta wo ariho; barumbye, bakoze ibyaha bikaze; nta muntu ukora neza.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "umusazi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "barumbye"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ibyaha bikaze"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "neza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:20.794027129Z",
+  "model": "glm-5.3"
+}

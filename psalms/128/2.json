@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Umurimo w'intoki zawe uzarya ko; uroko bwawe, kandi ⟨ni⟩ neza kuri wewe.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Umurimo"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "w'intoki zawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzarya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "uroko bwawe"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kandi neza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.012753173Z",
+  "model": "glm-5.3"
+}

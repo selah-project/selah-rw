@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Yahwe, umenyeshe umukiri wanjye n'igipimo cy'iminsi yanjye — ni iki? Ngo mmenye uko ntagihagije.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "umenyeshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "umukiri wanjye"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "n'igipimo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "cy'iminsi yanjye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "ngo mmenye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ntagihagije"
+    },
+    {
+      "surface": "אני",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:55.162760058Z",
+  "model": "glm-5.3"
+}

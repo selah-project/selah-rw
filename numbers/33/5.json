@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Abana ba Yisraeli bagenda i Ramesesi, maze bashyiriye mu Sukoti.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "i Ramesesi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bashyiriye"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "mu Sukoti"
+    }
+  ],
+  "timestamp": "2026-09-07T10:40:51.873588759Z",
+  "model": "glm-5.3"
+}

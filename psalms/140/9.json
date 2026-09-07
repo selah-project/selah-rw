@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Yahwe, ntuzemere ibyifu by'umuhemu; umugambi we wabi ntuzawuteze, batakaza amaso y'inyishu — bagahisha hejuru. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zemere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ibyifu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "by'umuhemu"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "umugambi we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "wuteze"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bagahisha hejuru"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:31.963446760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "joshua 6:12",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Yehoshuwa arahanuye mu gitondo, maze abakohenu baratwaye ⟨את⟩ agakariso ka Yahwe.",
+ "tokens": [
+  {
+   "surface": "וישכם",
+   "gloss": "arahanuye"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshuwa"
+  },
+  {
+   "surface": "בבקר",
+   "gloss": "mu gitondo"
+  },
+  {
+   "surface": "וישאו",
+   "gloss": "baratwaye"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abakohenu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "agakariso"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "agakariso"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T11:23:56.466151077Z",
+ "model": "glm-5.3"
+}

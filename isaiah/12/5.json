@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ririmira Yahwe, ko yakoze ubukuru — ibi bimenyekane mu isi ⟨yose⟩.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ririmira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ubukuru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "bimenyekane"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi ⟨yose⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:49.424947511Z",
+  "model": "glm-5.3"
+}

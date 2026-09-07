@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kuko n'ubwo barerera ⟨את⟩ abana babo, nabarimbaza kugeza batagira umuntu; kuko nanone ababazwa kuri bo, mu gihe nkuva kuri bo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "n'ubwo"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "barerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "abana babo"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "nabarimbaza"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ababazwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "mu gihe nkuva"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:06.845361949Z",
+  "model": "glm-5.3"
+}

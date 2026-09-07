@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yaakovu se wabo arababwira ati: Ni jye ⟨את⟩ mampfuyeho abana: Yosefu ntabwo ariho, na Shimoni ntabwo ariho, kandi na ⟨את⟩ Binyamini muzamuha — ibyose bihari biri ku njye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "se wabo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ni jye"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "mampfuyeho abana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ntabwo ariho"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "na Shimoni"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ntabwo ariho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Binyamini"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muzamuha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bihari"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "ibyose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:01.301628548Z",
+  "model": "glm-5.3"
+}

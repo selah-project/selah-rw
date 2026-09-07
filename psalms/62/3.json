@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Gusa ni we urutare rwanjye n'ubukiza bwanjye, urwibugo rwanjye; nticreshwa cyane.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "n'ubukiza bwanjye"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "urwibugo rwanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "creshwa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:39.193103881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uzashyira inzira yo kwinjira urupanga: ⟨את⟩ Rabba y'abana b'Abamoni na ⟨את⟩ Yehuda i Yerushalayimu, ⟨mu gihugu⟩ gikomeye.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yo kwinjira"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "urupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabba y'abana b'Abamoni"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Abamoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "gikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:58:03.835903290Z",
+  "model": "glm-5.3"
+}

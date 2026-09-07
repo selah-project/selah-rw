@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kugira ngo hUMVIKWE ijwi ry'urakoza, no kuvuga ibitangaza byawe byose.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kumvikwa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi ry'urakoza"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "urakoza (impano y'imirimo)"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "no kuvuga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:19.635806868Z",
+  "model": "glm-5.3"
+}

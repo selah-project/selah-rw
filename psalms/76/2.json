@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Elohimu yamenyekana mu Yehuda, izina rye ⟨ni⟩ rikuru mu Yisraeli.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "yamenyekana"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rikuru"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:01.242320518Z",
+  "model": "glm-5.3"
+}

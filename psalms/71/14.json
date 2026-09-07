@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Njye nkizera itagihe, kandi nzongereje ku guhimbaza kwawe byose.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "itagihe"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "nkizera"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "nzongereje"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "guhimbaza kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:55.858418680Z",
+  "model": "glm-5.3"
+}

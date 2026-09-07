@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nti aravuze ati: Shalomu; narazetse gutaha kwa Yahwe; mwiyerure, kandi muzanje ⟨את⟩ njye mu gutaha. Nti arayeruye ⟨את⟩ Yishayi (Yise) na ⟨את⟩ abahungu be, maze arabahamagara ku gutaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "gutaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "narazetse"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "mwiyerure"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "kandi muzanje"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ njye"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "mu gutaha"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "arayeruye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "arabahamagara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ku gutaha"
+    }
+  ],
+  "timestamp": "2026-09-07T12:35:00.933266305Z",
+  "model": "glm-5.3"
+}

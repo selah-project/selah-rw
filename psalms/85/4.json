@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Wakuyeho uburakari bwawe bwose; wasubije umujinya wawe ukaze.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Wakuyeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "wasubije"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ukaze"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "umujinya wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:26.593471866Z",
+  "model": "glm-5.3"
+}

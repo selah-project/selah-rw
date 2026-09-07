@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze yatwaye ⟨את⟩ ⟨isanduku⟩ ajya mu Mishkani, ashize ⟨את⟩ urwibati rw'ikirago, aruhishe ku sanduku ry'ubuhamya, nka Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yatwaye ajya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwibati"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "urwibati"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ikirago"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "aruhishe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:38.347026471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Indirimbo y'izamuka. Uroko bwa wese utinya Yahwe, ukagenda mu nzira ze.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'izamuka"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Uroko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwa wese"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "utinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ukagenda"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mu nzira ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.010424756Z",
+  "model": "glm-5.3"
+}

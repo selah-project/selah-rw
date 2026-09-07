@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Abibone bahishe urwavu kuri njye, n'udukwavu; barasize urusyo ku ruhande rw'inzira; bashyize imyoma kuri njye. Sela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "bahishe"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Abibone"
+    },
+    {
+      "surface": "פח",
+      "gloss": "urwavu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "n'udukwavu"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "barasize"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "urusyo"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "imyoma"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:21.012938532Z",
+  "model": "glm-5.3"
+}

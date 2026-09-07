@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Mu isi yose yasohotse umurongo wawo, no ku mpera z'isi yose amagambo yayo; kuri izuba ⟨we⟩ yashyiriye ihema muri yo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yasohotse"
+    },
+    {
+      "surface": "קום",
+      "gloss": "umurongo wawo"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "no ku mpera"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "amagambo yayo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kuri izuba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yashyiriye"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:42.527625212Z",
+  "model": "glm-5.3"
+}

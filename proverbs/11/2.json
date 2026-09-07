@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ubwigomeke iyo bwaje, isoni nizo zikurikira; kandi na ⟨את⟩ abanyantege-ndiwe, ubwenge.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "iyo bwaje"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ubwigomeke"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nizo zikurikira"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abanyantege-ndiwe"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "abanyantege-ndiwe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:04.334725590Z",
+  "model": "glm-5.3"
+}

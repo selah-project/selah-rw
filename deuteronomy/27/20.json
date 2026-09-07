@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yavuzweho umuvumo uriyemeza n'umugore wa se, kuko yasesekuye umwenda wa se; maze abantu bose baravuga bati: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Yavuzweho umuvumo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uriyemeza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yasesekuye"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa se"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "baravuga bati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-07T11:12:38.346440814Z",
+  "model": "glm-5.3"
+}

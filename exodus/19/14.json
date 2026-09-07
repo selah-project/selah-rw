@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Moshe we namanuka mu muryango ajya mu bantu, maze asukura ⟨את⟩ abantu, barakoza imyambaro yabo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "we namanuka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "muryango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "maze asukura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "barakoza"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "imyambaro yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:19.084794284Z",
+  "model": "glm-5.3"
+}

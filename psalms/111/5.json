@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 111:5",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 111,
+ "translation": "Ibiryo yatanze abamutinya; azibuka Beriti ye iteka ry'iteka.",
+ "tokens": [
+  {
+   "surface": "טרף",
+   "gloss": "Ibiryo"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "yatanze"
+  },
+  {
+   "surface": "ליראיו",
+   "gloss": "abamutinya"
+  },
+  {
+   "surface": "יזכר",
+   "gloss": "azibuka"
+  },
+  {
+   "surface": "לעולם",
+   "gloss": "iteka"
+  },
+  {
+   "surface": "בריתו",
+   "gloss": "Beriti ye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:47:10.847214277Z",
+ "model": "glm-5.3"
+}

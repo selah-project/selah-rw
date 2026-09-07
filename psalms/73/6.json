@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Nicyo ubwibone bubatera nk'urunigi, ubwangizi babwambara nk'imyambaro.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nicyo"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "bubatera nk'urunigi"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ubwibone"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "babwambara"
+    },
+    {
+      "surface": "שית",
+      "gloss": "nk'imyambaro"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubwangizi"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:08.592306920Z",
+  "model": "glm-5.3"
+}

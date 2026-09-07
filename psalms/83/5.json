@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Baravuze bati: Nimuze tugahone ⟨mu⟩ bwoko, kandi izina rya Yisraeli ntirikazibagirwa nk'iteka.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Baravuze"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nimuze"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "tugahone"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨mu⟩ bwoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi... nta"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "rikazibagirwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rya Yisraeli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nk'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.848941248Z",
+  "model": "glm-5.3"
+}

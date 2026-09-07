@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dawidi yaramubwiye ati: Amaraso yawe ari ku mutwe wawe; kuko akanwa kawe kagusemye ubwawe, ubwira uti: Jye jyennyine narishe ⟨את⟩ Mashiyah wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "amaraso yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mutwe wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "akanwa kawe"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "kasemye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ubwira uti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "narishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiyah"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiyah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:51.855189047Z",
+  "model": "glm-5.3"
+}

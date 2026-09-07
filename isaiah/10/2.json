@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "kugira ngo bakurwe mu rubanza abakene, bagafururwa urubanza abakene b'ubwacu, ngo abapfakazi baba iminyago yabo, na ⟨את⟩ impfubyi barimbye.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "kugira ngo bakurwe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "mu rubanza"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "abakene"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "bagafururwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "abakene bateye intege"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "b'ubwacu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngo...baba"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "abapfakazi"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "iminyago yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impfubyi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "impfubyi"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "barimbye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:56.541632218Z",
+  "model": "glm-5.3"
+}

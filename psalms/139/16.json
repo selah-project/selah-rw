@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Umubiri wanjye utarakorwa amaso yawe wawubonye, kandi ku gitabo cyawe byose byandikwaga; iminsi zaremywe, ariko nta na imwe muri zo yari isanzwe ihari.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Umubiri wanjye utarakorwa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wawubonye"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "igitabo cyawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "byose"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "byandikwaga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "zaremywe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na imwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri zo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:51.504452976Z",
+  "model": "glm-5.3"
+}

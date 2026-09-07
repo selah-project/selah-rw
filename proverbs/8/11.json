@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kuko ubwenge ni cyane kurusha ibyiza bidasanzwe, kandi ibyifuzo byose ntibishobora kungana na byo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ni cyane kurusha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ibyiza bidasanzwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi byose"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "ibyifuzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "-shobora kungana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na byo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:53.140352837Z",
+  "model": "glm-5.3"
+}

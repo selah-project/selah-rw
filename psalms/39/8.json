@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Ubu rero, ntegereje iki, Adonayi? Itegerezo ryanjye ni rya wowe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ubu rero"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ntegereje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Itegerezo ryanjye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rya wowe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:55.164149595Z",
+  "model": "glm-5.3"
+}

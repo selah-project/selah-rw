@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi umuntu uwo yasambanyije ⟨את⟩ umugore w'umundi muntu, uwo yasambanyije ⟨את⟩ umugore wa mugenzi we, urupfu bazapfiswa: umugabo w'ubusambanyi n'umugore we wasambanyije.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kandi umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "yasambanyije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umundi muntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "yasambanyije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa mugenzi we"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bazapfiswa"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "umugabo w'ubusambanyi"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "n'umugore we wasambanyije"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:36.236046954Z",
+  "model": "glm-5.3"
+}

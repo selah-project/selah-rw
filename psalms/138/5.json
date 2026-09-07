@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Baziririmbira mu nzira za Yahwe, kuko ubwiza bwa Yahwe ⟨ni⟩ bunini.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "baziririmbira"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mu nzira za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "bunini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ubwiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:08.300257768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze umwami Shelomo yakundaga abagore b'amahanga benshi, ndetse na ⟨את⟩ umukobwa wa Paro — abagore b'i Mowabu, b'i Amonu, b'i Edomu, abanya Tsidonu, n'Abahiti (Abahiti: umuryango wa Hethu).",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Maze umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yakundaga"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "b'amahanga"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukobwa wa Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "b'i Mowabu"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "b'i Amonu"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "b'i Edomu"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "abanya Tsidonu"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Abahiti"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:15.424803031Z",
+  "model": "glm-5.3"
+}

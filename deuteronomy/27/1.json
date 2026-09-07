@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Moshe n'abashakambere b'a Yisraeli barategetse ⟨את⟩ abantu, bati: Mugume ⟨את⟩ itegeko ryose uwo njye mbategeka ⟨את⟩ mwemwe uyu munsi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "barategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "n'abashakambere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'a Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Mugume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itegeko ryose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mbategeka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwemwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:11:54.682505929Z",
+  "model": "glm-5.3"
+}

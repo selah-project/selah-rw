@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umwami wa Tappuachu, umwe; umwami wa Cheferi, umwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Umwami"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Tappuachu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Cheferi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:32:24.737590965Z",
+  "model": "glm-5.3"
+}

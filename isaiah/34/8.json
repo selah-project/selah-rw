@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Ko umunsi w'ubwishyu ni kwa Yahwe, umwaka w'igihano ku ruhande r'urubanza rwa Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "w'ubwishyu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "w'igihano"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ku ruhande r'urubanza"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T15:12:08.949747319Z",
+  "model": "glm-5.3"
+}

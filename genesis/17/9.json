@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Elohimu yabwiye Avrahamu (Aburahamu) ati: U rero, wowe uzirikana ⟨את⟩ Beriti yanjye, wowe n'urubyaro rwawe nyuma yawe, ku miryango yabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ati (ku)"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "u rero wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti yanjye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti yanjye"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "uzirikana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "n'urubyaro rwawe"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "nyuma yawe"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ku miryango yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:46:08.160077176Z",
+  "model": "glm-5.3"
+}

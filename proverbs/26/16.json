@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Umunyamabenge ni umunyabwenge mu maso ye kurusha abantu barindwi basubiza ubwenge.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ni umunyabwenge"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "umunyamabenge"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "kurusha abantu barindwi"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "basubiza"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:14:39.103045953Z",
+  "model": "glm-5.3"
+}

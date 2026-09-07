@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Nzaza mu ngufu za Adonayi Yahwe; nzibutsa ubutunganye bwawe, bwawe wenyine.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "nzaza"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "mu ngufu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "nzibutsa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutunganye bwawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "bwawe wenyine"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:55.861538397Z",
+  "model": "glm-5.3"
+}

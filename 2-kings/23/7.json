@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Yasenyuye ⟨את⟩ amazu y'abaherezi b'ibigirwamana ari mu nzu ya Yahwe, aho abagore baravumbaraga amazu ya Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "yasenyuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "y'abaherezi b'ibigirwamana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "baravumbaraga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hariya"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "ya Ashera"
+    }
+  ],
+  "timestamp": "2026-09-07T14:34:39.426110247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Maze Hamoru, se wa Shikemu, arava agera kwa Yaakovu ngo avugane ⟨את⟩ na we.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "arava"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoru"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "wa Shikemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngo avugane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:12:53.261442290Z",
+  "model": "glm-5.3"
+}

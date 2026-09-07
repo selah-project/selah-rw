@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Muri icyo nagize ⟨את⟩ ubururu bwawe inkomeye ku ruhande rw'ubururu bwabo, na ⟨את⟩ umutwe wawe inkomeye ku ruhande rw'umutwe wabo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Muri icyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nagize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubururu bwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubururu bwawe"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "inkomeye"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ubururu bwabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutwe wawe"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "umutwe wawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "inkomeye"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "umutwe wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:44:22.746624902Z",
+  "model": "glm-5.3"
+}

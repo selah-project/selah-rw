@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Umwami yasubiye, ageze ku Yardeni; aba Yehuda nabo baraje i Giligala bajyana guhura n'umwami, guhingurisha ⟨את⟩ umwami arenga ⟨את⟩ Yardeni.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ageze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera ku"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "aba Yehuda nabo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "baraje"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "i Giligala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "bajyana"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "guhura n'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "guhingurisha…arenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-09-07T13:18:04.297564660Z",
+  "model": "glm-5.3"
+}

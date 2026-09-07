@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Iyo umwangizi azira, kwirengagiza nkaziza, kandi hamwe n'isoni mbi ikimwaro.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "iyo … azira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangizi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nkaziza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kwirengagiza"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi hamwe na"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "isoni mbi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ikimwaro"
+    }
+  ],
+  "timestamp": "2026-09-07T19:10:08.028237320Z",
+  "model": "glm-5.3"
+}

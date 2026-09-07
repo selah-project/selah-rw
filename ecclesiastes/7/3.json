@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ihahamuka ni byiza kurusha umuseke, kuko mu bwonzi bw'amaso umutima umeze neza.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ihahamuka"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kurusha umuseke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mu bwonzi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "bw'amaso"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "umeze neza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:24.050309440Z",
+  "model": "glm-5.3"
+}

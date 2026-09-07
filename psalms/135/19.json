@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Urugo rw'Yisraeli, mushimire Yahwe ⟨את⟩; urugo rw'Aharoni, mushimire Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "urugo rw'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mushimire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo rw'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mushimire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:11.623226976Z",
+  "model": "glm-5.3"
+}

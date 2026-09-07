@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Uzababwira ati: Uko Yahwe avuze: Ese bagwa kandi ntibazuka? Ese wihindutse ntiyagaruka?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Uzababwira"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Ese bagwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bazuka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wihindutse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yagaruka"
+    }
+  ],
+  "timestamp": "2026-09-07T15:50:00.401527535Z",
+  "model": "glm-5.3"
+}

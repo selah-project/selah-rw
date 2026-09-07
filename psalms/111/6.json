@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Imbaraga z'ibikorwa bye yagaragarije abantu be, ngo batunge ubusigi bw'amahanga.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Imbaraga"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "z'ibikorwa bye"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "yagaragarije"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo batunge"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨abwo⟩"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ubusigi bw'"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:10.847420325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Iya Dawidi. Nzagushima mu mutima wanjye wose; mu rwego rwa Elohimu nzakuvugisha indirimbo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Nzagushima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mutima wanjye"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mu rwego rwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nzakuvugisha indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:09.690655620Z",
+  "model": "glm-5.3"
+}

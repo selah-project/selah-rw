@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Muzakora iki ku munsi w'itaramo, no ku munsi w'umunyi wa Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "w'itaramo"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "no ku munsi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "w'umunyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:51.212835820Z",
+  "model": "glm-5.3"
+}

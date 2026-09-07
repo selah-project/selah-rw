@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umwamikazi wa Sheba yabonye ⟨את⟩ ubwenge bwose bwa Shelomo, n'inzu yubakiye.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "umwamikazi wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwenge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "n'inzu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubakiye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:43:01.705656587Z",
+  "model": "glm-5.3"
+}

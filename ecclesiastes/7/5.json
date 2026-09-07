@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ni byiza kumva urubogo rw'umunyabwenge, kuruta umuntu yumva umuziki w'abasazi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "urubogo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "rw'umunyabwenge"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuruta umuntu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "umuziki"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "w'abasazi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:05.605405977Z",
+  "model": "glm-5.3"
+}

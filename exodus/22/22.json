@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Iyo mazugarije ⟨את⟩ we, kuko niba atakubitra iwanjye — ko numva, nzamvira urubugu rwiwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mazugarije"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "muzugarije"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (umupfakazi cyangwa impfubyi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "ko atakubitra"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "azakubitra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ko numva"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nzamvira"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "urubugu rwiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.001918094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Zaburi rya Asafu. Ni Elohimu gusa mwiza kuri Yisraeli, kuri abafite umutima mwiza.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "rya Asafu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuri Yisraeli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "kuri aba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "abafite umutima mwiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:08.349404435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ujye hose, maze urebe aho Yehu mwene Yehoshafati mwene Nimshi ari; uzinjire, umuze mu mpiri y'abavandimwe be, maze umwinjize ⟨את⟩ mu cyumba mu cyumba.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ujye hose"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aho"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "maze urebe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uzinjire"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "umuze"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu mpiri y'"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "maze umwinjize"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "mu cyumba"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "mu cyumba"
+    }
+  ],
+  "timestamp": "2026-09-07T14:13:05.311075137Z",
+  "model": "glm-5.3"
+}

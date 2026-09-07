@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yazamuye ⟨את⟩ inkingi mu rwiro rw'i heikali; maze yazamuye ⟨את⟩ inkingi y'i iburyo, yise ⟨את⟩ izina rye Yakini; maze yazamuye ⟨את⟩ inkingi y'i ibumoso, yise ⟨את⟩ izina rye Boazi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkingi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "inkingi"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "mu rwiro"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "i heikali"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkingi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "inkingi"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "i iburyo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakini"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkingi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "inkingi"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "i ibumoso"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:37:36.516357242Z",
+  "model": "glm-5.3"
+}

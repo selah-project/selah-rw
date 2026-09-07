@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abagabo b'i Ninuve bemeye Elohimu, bahamagaye ifungo, bambaye amasaki ⟨impuzu z'agahumbi⟩, ku bakuru cyane kugeza ku batoyi.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bemeye"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninuve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "bahamagaye"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ifungo"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "bambaye"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "amasaki"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "ku bakuru cyane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ku batoyi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:47:36.247583105Z",
+  "model": "glm-5.3"
+}

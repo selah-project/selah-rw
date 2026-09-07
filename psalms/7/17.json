@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Icyago cye kizagarura ku mutwe we, no ku gahanga ye ubugome bwe buzamanuka.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "kizagarura"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "icyago cye"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "gahanga ye"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ubugome bwe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "buzamanuka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:02.963284810Z",
+  "model": "glm-5.3"
+}

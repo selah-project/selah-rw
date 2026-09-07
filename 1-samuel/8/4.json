@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nuko abakuru b'imiryango yose ba Yisraeli bihuriye, baza kwa Shemuweli i Ramata.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "bihuriye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru b'imiryango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "i Ramata"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:22.660420340Z",
+  "model": "glm-5.3"
+}

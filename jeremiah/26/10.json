@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Maze abatware ba Yehuda bumva iby'amatwi ⟨את⟩ aya magambo, baza mu nzu y'umwami bajya mu nzu ya Yahwe, maze bicara ku rugi rw'umunyurwe rwa peta sha sha rwa hafi ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Maze ... bumva"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya magambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "aya magambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu y'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bajya mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "maze bicara"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ku rwegere"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rwa peta sha sha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "rwa hafi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:05:57.376794985Z",
+  "model": "glm-5.3"
+}

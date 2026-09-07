@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Umurunyunguko w'isi ni uw'abantu bose; ⟨na⟩ umwami na we akorera umurima wohingwa.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "umurunyunguko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "w'isi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "uw'abantu bose"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "wohingwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:18.342213679Z",
+  "model": "glm-5.3"
+}

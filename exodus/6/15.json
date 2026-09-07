@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'abana ba Shimeonu: Yemueli na Yamini, na Ohadi, na Yakhini, na Tsohari, na Shauli, umwana w'umunya Kenani; aya ni imiryango ya Shimeonu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "N'abana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ba Shimeonu"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemueli"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yamini"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohadi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakhini"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Tsohari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shauli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "w'umunya Kenani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ya Shimeonu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:53.085453546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze Moshe (Mose) yamanutse ku bantu, arababwira ati:",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:55.254123163Z",
+  "model": "glm-5.3"
+}

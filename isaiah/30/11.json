@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Cyahora ku nzira, mwihunge ku muhanda, mukureho imbere yacu ⟨את⟩ Utagatifu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Cyahora"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "mwihunge"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "muhanda"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "mukureho"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "imbere yacu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utagatifu wa Yisraeli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Utagatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:40.540260061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yitsaki se nabwira we ati: Udi nde wowe? Na we aravuga ati: Njye ndi umwana wawe, w'umwanta, Esavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nabwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndi nde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "w'umwanta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:01:14.829924271Z",
+  "model": "glm-5.3"
+}

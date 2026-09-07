@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ko nta Pesahi nka uyu wakorewe kuva ku iminsi ya abacamanza bacamanze ⟨את⟩ Yisraeli, no ku iminsi yose y'abami ba Yisraeli n'abami ba Yehudah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wakorewe"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "nka Pesahi uyu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kuva ku iminsi"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "ya abacamanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "bacamanze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "no ku iminsi yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "y'abami"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "n'abami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-07T14:32:56.048016855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Barazunguka bakanengutwa nk'uwabitoye, kandi ubwenge bwabo bwose bumezwe.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "Barazunguka"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "bakanengutwa"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "nk'uwabitoye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi … bwose"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "ubwenge bwabo"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "bumezwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:21.533453820Z",
+  "model": "glm-5.3"
+}

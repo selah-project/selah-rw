@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Ubutabera bwanjye burambiwe, umukiro wanjye uvuye aho, kandi amaboko yanjye azacibura amahanga; ibirwa bizategereza kuri njye, kandi ku boko bwanjye bizizera.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "burambiwe"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ubutabera bwanjye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uvuye aho"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "umukiro wanjye"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "kandi amaboko yanjye"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "azacibura"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ibirwa"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "bizategereza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi kuri"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "uboko bwanjye"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "bizizera"
+    }
+  ],
+  "timestamp": "2026-09-07T15:25:17.258182072Z",
+  "model": "glm-5.3"
+}

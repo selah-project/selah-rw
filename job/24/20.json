@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Umuda aramwibagiza; umuryi uranyeza ku mubiri we; ntibazungirwaho na rimwe; ubugome burameneka nk'igiti.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "aramwibagiza"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Umuda"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "uranyeza"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "umuryi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na rimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "bazungirwaho"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "burameneka"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "nk'igiti"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubugome"
+    }
+  ],
+  "timestamp": "2026-09-07T19:32:51.715631090Z",
+  "model": "glm-5.3"
+}

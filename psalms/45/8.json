@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Urakunda ubutabera, ukanga n'ubwangavu; ni ko Elohimu, Elohimu wawe, yagusukuyemo amavuta y'ishimye, urenganyije abafatany babawe.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "urakunda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ukanga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubwangavu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni ko (kubera)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "משחך",
+      "gloss": "yagusukuyemo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "y'ishimye"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "abafatany babawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:43.032036968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kuko iyo umaze guhanganira kutabohereza, maze ukibakomeza ubufungo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "umaze guhanganira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kutabohereza"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "maze ukibakomeza"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ubufungo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "uriho"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:07.006480338Z",
+  "model": "glm-5.3"
+}

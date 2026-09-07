@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kandi ntibazinjire gureba mu akanya gato ⟨את⟩ ibyiru, bagapfa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibazinjire"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazinjire"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gureba"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "mu akanya gato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyiru"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ibyiru"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "bagapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:50.886270344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abami bo isi n'abatuza isi yose ntibari bemera ko umwanzi n'indashi yaza mu marembo ya Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bari bemera"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bo isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'abatuza"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuza"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "n'indashi"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "mu marembo ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:48:49.207491083Z",
+  "model": "glm-5.3"
+}

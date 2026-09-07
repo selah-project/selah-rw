@@ -1,0 +1,80 @@
+{
+ "tier": "glm-5.2",
+ "verse": 28,
+ "ref": "numbers 32:28",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 32,
+ "translation": "Moshe yabategekanishije ⟨את⟩ Elazari kohenu, na ⟨את⟩ Yehoshuwa umwana wa Nunu, na ⟨את⟩ ibibe by'ababyeyi by'amoko, ku bana ba Yisraeli.",
+ "tokens": [
+  {
+   "surface": "ויצו",
+   "gloss": "yabategekanishije"
+  },
+  {
+   "surface": "להם",
+   "gloss": "ku bo"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Elazari"
+  },
+  {
+   "surface": "אלעזר",
+   "gloss": "Elazari"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "Yehoshuwa"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshuwa"
+  },
+  {
+   "surface": "בן",
+   "gloss": "umwana"
+  },
+  {
+   "surface": "נון",
+   "gloss": "Nunu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ibibe"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "ibibe"
+  },
+  {
+   "surface": "אבות",
+   "gloss": "by'ababyeyi"
+  },
+  {
+   "surface": "המטות",
+   "gloss": "by'amoko"
+  },
+  {
+   "surface": "לבני",
+   "gloss": "ku bana ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  }
+ ],
+ "timestamp": "2026-09-07T21:22:35.050360106Z",
+ "model": "glm-5.3"
+}

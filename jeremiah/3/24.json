@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze iby'isoni byariye ⟨את⟩ umurimo w'abakurambere bacu kuva mu buke curu bwacu: ⟨את⟩ intare zabo, na ⟨את⟩ inka zabo, ⟨את⟩ abahungu babo, na ⟨את⟩ abakobwa babo.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "maze iby'isoni"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "byariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurimo w'abakurambere bacu"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "w'abakurambere bacu"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "kuva mu buke curu bwacu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intare zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "intare zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inka zabo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "inka zabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu babo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "abahungu babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakobwa babo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "abakobwa babo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:42:10.781119184Z",
+  "model": "glm-5.3"
+}

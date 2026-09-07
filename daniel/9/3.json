@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Nashyize ⟨את⟩ ubururi bwanjye ku Adonayi, Elohimu, kugira ngo nsabe itege n'ibisaba imbabara, mu nzara, mu kariso no mu vumbi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Nashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubururi bwanjye"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubururi bwanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kugira ngo nsabe"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "itege"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "n'ibisaba imbabara"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "mu nzara"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "mu kariso"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "no mu vumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:09:40.782785134Z",
+  "model": "glm-5.3"
+}

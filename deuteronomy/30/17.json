@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Iyo umutima wawe wazeye kandi utumva, maze urimbuka, maze ubamira ibindi mana ukazikorera —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "wazeye"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi uta-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tumva"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "maze urimbuka"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "maze ubamira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ibindi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ukazikorera"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:57.880821686Z",
+  "model": "glm-5.3"
+}

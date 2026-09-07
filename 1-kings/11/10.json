@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi yamutegetse ku byo kintu ngo atagende iyoboka izindi mana, ariko ntiyubahirije ⟨את⟩ ibyo Yahwe yategetse.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "yamutegetse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kugira ngo nta"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "agende"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iyoboke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "izindi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yubahirije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:07.691334851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Akazi k'abasiriri kibahenza, kuko ntibazi ukugenda kugera mu mujyi.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "k'abasiriri"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "kibahenza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta(-bazi)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukugenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:03.984182713Z",
+  "model": "glm-5.3"
+}

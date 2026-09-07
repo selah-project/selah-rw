@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Ab'ababi bateye umwezi kuva mu nda; bazimiye kuva mu mumbabazi, bavuga ibinyoma.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "bateye umwezi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ab'ababi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuva mu nda"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "bazimiye"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuva mu mumbabazi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "bavuga"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ibinyoma"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:05.517796852Z",
+  "model": "glm-5.3"
+}

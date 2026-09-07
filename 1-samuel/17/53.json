@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abana ba Yisraeli basubutse mu gukurikira Abafilisiti, maze barasarira ⟨את⟩ amatenti yabo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "basubutse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "mu gukurikira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "maze barasarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatenti yabo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "amatenti yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:44:28.413932186Z",
+  "model": "glm-5.3"
+}

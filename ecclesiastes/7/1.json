@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Izina ni byiza kurusha mavuta meza, kandi umunsi w'urupfu ni wo mwiza kurusha umunsi w'ibyavukiye.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kurusha mavuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "kandi umunsi"
+    },
+    {
+      "surface": "המות",
+      "gloss": "w'urupfu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kurusha umunsi"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "w'ibyavukiye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:24.049707848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze Moshe aza, arabhamagara abakuru b'ubwoko, ashyingira imbere yabo ⟨את⟩ amajambo yose aya, na Yahwe yamutegetse.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "arabhamagara"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "abakuru b'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashyingira"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbere yabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo yose aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamutegetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:14.791253658Z",
+  "model": "glm-5.3"
+}

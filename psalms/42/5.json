@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ibi nibibuka, kandi Nefeshi yanjye ndayipoma kuri jye: ko nari mose mu muryango w'abantu, mbibobotora kugeza mu nzu ya Elohimu, mu ijwi ry'iraturiro n'iryo shimwe, hamwe n'umuryango utambira.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "nibibuka"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "kandi ndayipoma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "nari mose"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "mu muryango w'abantu"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "mbibobotora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ry'iraturiro"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "n'iryo shimwe"
+    },
+    {
+      "surface": "המון",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "utambira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:45.786260031Z",
+  "model": "glm-5.3"
+}

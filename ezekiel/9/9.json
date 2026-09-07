@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 9:9",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yarabwiye ari mbwira ati: Icyaha cy'inzu ya Yisraeli na Yehuda ni kinini cyane cyane; isi yuzuyemo amaraso, n'umujyi wuzuye kugwaragwarika; kuko bavuga bati: Yahwe yahasize ⟨את⟩ isi, kandi nta Yahwe ureba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ari mbwira"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kinini"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yaruzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "n'umujyi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "wuzuye"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kugwaragwarika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bavuga bati"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "yahasize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ureba"
+    }
+  ],
+  "timestamp": "2026-09-07T16:47:04.880598935Z",
+  "model": "glm-5.3"
+}

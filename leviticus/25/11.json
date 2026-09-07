@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yobelu ni yo, umwaka wa mirongo itanu uzaba muri mwe; ntimuzabiba, kandi ntimuzatesa ⟨את⟩ ibikura byayo ubwabyo, kandi ntimuzatora ⟨את⟩ imizabibu yayo idafashwe.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Yobelu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wa mirongo itanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimuzabiba"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntimuzatesa"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikura byayo ubwabyo"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "ibikura byayo ubwabyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntimuzatora"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imizabibu yayo idafashwe"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "imizabibu yayo idafashwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:15.068992569Z",
+  "model": "glm-5.3"
+}

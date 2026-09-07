@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Yahwe azateka iteka ryose, Elohimu wawe, Tsiyoni, ku bwoko n'ubwoko. Nimusingize Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "azateka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku bwoko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ubwoko"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:11.778299916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 3:36",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umva, Elohimu wacu: twahindutse ikitema ← reba: twari twayobewe. Subiza isoni zabo ku mutwe wabo, maze uha abo bantu ubwenosha mu gihugu cy'ubwatimu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "twayobewe"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ikitema"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "Subiza"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "isoni zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "mutwe wabo"
+    },
+    {
+      "surface": "ותנם",
+      "gloss": "uha abo bantu"
+    },
+    {
+      "surface": "לבזה",
+      "gloss": "ubwenosha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "cy'ubwatimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:22:02.062383890Z",
+  "model": "glm-5.3"
+}

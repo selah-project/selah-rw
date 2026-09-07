@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Nefeshi y'umubbi iharanira ibibi; umugenzane we ntiyahabwa impuhwe mu maso ye.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "y'umubbi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "iharanira"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "yahabwa impuhwe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umugenzane we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:10:34.010670572Z",
+  "model": "glm-5.3"
+}

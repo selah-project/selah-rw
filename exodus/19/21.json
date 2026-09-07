@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 19:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe yarabwiye Moshe ati: Manura, uhe abantu itegeko, batazirenga kugera kwa Yahwe ngo babone, maze abenshi mu bo baragwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "manura"
+    },
+    {
+      "surface": "העד",
+      "gloss": "uhe itegeko"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "batazi"
+    },
+    {
+      "surface": "יהרסו",
+      "gloss": "kurenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kugera kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngo babone"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "maze baragwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mu bo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abenshi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:15.031400760Z",
+  "model": "glm-5.3"
+}

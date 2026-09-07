@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 74:4",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 74,
+ "translation": "Abansi bawe barasakuje mu rutare rw'amatora ryawe; bashyize ibimenyetso byabo mu bimenyetso.",
+ "tokens": [
+  {
+   "surface": "שאגו",
+   "gloss": "barasakuje"
+  },
+  {
+   "surface": "צרריך",
+   "gloss": "Abansi bawe"
+  },
+  {
+   "surface": "בקרב",
+   "gloss": "mu rutare"
+  },
+  {
+   "surface": "מועדך",
+   "gloss": "rw'amatora ryawe"
+  },
+  {
+   "surface": "שמו",
+   "gloss": "bashyize"
+  },
+  {
+   "surface": "אותתם",
+   "gloss": "ibimenyetso byabo"
+  },
+  {
+   "surface": "אתות",
+   "gloss": "mu bimenyetso"
+  }
+ ],
+ "timestamp": "2026-09-07T18:32:52.078428585Z",
+ "model": "glm-5.3"
+}

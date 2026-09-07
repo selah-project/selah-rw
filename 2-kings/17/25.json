@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Mu ntangiriro y'aho batuuraga aho, nti batinya ⟨את⟩ Yahwe, bityo Yahwe yohereje muri bo ⟨את⟩ ingwe, maze zirimo kubica muri bo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mu ntangiriro"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "y'aho"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "baturaga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "batinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingwe"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "ingwe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze zirimo"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kubica"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:27:21.720070831Z",
+  "model": "glm-5.3"
+}

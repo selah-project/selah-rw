@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "N'abana b'abantu n'abana b'ingego, hamwe umukungu n'umukene.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ingego"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "umukungu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umukene"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:00.737078689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Habaye ku muhanda, mu burobyi, Yahwe aramusanitse na we, ashakisha kumwica.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ku muhanda"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "mu burobyi"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "aramusanitse na we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ashakisha"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kumwica"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:45.645825033Z",
+  "model": "glm-5.3"
+}

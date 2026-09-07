@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko umuhungu ahemiye se, umukobwa azamutse mu nyina, umukazana akomeza nyirasenge we; abansi b'umuntu ni abantu b'inzu ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "ahemiye"
+    },
+    {
+      "surface": "אב",
+      "gloss": "se"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "azamutse"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mu nyina"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "umukazana"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "nyirasenge we"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abansi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "b'umuntu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "b'inzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:50:52.192579933Z",
+  "model": "glm-5.3"
+}

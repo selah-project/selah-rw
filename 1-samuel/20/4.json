@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yehonatanu abwira Dawidi ati: Iki nefeshi yawe izavuga, nkagukoreraho?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira ati"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "izavuga"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshi yawe"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nkagukoreraho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gukoreraho"
+    }
+  ],
+  "timestamp": "2026-09-07T12:41:10.906231493Z",
+  "model": "glm-5.3"
+}

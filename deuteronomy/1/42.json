@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Yahwe yanabwiye ati: Babwira uti: Ntimuzamuke, kandi ntimurwane, kandi sinjye muri mwe, mutazatsindwa imbere y'abansi banyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yanabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "babwira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "muzamuke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntimu-"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "rwane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "sinjye"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "muta-"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "zatsindwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "abansi banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:33.981901226Z",
+  "model": "glm-5.3"
+}

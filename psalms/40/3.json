@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze yanzamuye mu kombo rw'urusaku, mu bikwi by'ibumba ryo mu mavuta, maze yashyize amaguru yanjye ku rutare, yemeje intambwe zanjye.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Maze yanzamuye"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "mu kombo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "rw'urusaku"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mu bikwi"
+    },
+    {
+      "surface": "היון",
+      "gloss": "by'ibumba ryo mu mavuta"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "maze yashyize"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "rutare"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "amaguru yanjye"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "yemeje"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "intambwe zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:35.141546089Z",
+  "model": "glm-5.3"
+}

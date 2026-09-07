@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ni nde muri mwe wumva ibi? Witondere, agumvise ibyaza nyuma y'ibi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "wumva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "witondere"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "agumvise"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ibyaza nyuma y'ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:34.704092909Z",
+  "model": "glm-5.3"
+}

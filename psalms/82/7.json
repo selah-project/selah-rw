@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Mu by'ukuri, muzapfa nka Adamu, muzagwa nk'umwe mu batware.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "nka Adamu"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "muzapfa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "muzagwa nk'umwe"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mu batware"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "muzagwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:31.210998389Z",
+  "model": "glm-5.3"
+}

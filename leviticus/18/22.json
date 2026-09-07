@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kandi na ⟨את⟩ gabasa nturyamane mu gitanda cy'umugore; ibyinya ni cyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gabasa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gabasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ryamane"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mu gitanda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "cy'umugore"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ibyinya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:11.141989212Z",
+  "model": "glm-5.3"
+}

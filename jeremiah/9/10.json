@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze nzashyira ⟨את⟩ Yerushalayimu mu macanga, urwibutso rwa inyenge; na ⟨את⟩ imidugudu ya Yehuda ndazana ubutayu, nta muturage.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Maze nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "mu macanga"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "urwibutso rwa"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "inyenge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imidugudu ya Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndazana"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "muturage"
+    }
+  ],
+  "timestamp": "2026-09-07T15:50:32.665315927Z",
+  "model": "glm-5.3"
+}

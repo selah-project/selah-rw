@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ku buseke navuze ko ari ⟨ni⟩ ubwanka; kandi ku muneero — iki ni iki cyakora?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ku buseke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ubwanka"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "kandi ku muneero"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cyakora"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:07.145243890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi umupanga uzamanira mu midugudu ye, uzazimya utubari twawo, maze urarye abayituyemo, kubera ingamba zabo ubwabyo.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "uzamanira"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "mu midugudu ye"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "uzazimya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "utubari twawo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "urarye"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "kubera ingamba zabo ubwabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:42:07.031655857Z",
+  "model": "glm-5.3"
+}

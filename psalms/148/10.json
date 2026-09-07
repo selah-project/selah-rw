@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 148,
+  "translation": "Inyamaswa n'amatungo yose, ibikururuka n'inyoni z'amababa.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … yose"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "amatungo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ibikururuka"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "n'inyoni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "z'amababa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:41.754407429Z",
+  "model": "glm-5.3"
+}

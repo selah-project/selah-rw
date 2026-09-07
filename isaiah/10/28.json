@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Aza ku Ayi, anyura mu Miguroni, ku Mikimashi ashinga ibikoresho bye.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "anyura"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "mu Miguroni"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "ku Mikimashi"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "ashinga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho bye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:58.174043889Z",
+  "model": "glm-5.3"
+}

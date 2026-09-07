@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Moshe na Aharoni bakoze uko Yahwe yategetse ⟨את⟩ bo; uko nyine bakoze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko nyine"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:31.044197972Z",
+  "model": "glm-5.3"
+}

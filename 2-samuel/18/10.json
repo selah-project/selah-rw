@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umuntu umwe yarabonye maze abwira Yoabu ati: Rabuka, nabonye ⟨את⟩ Avshalomu aziritse ku giti.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rabuka"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomu"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "aziritse"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ku giti"
+    }
+  ],
+  "timestamp": "2026-09-07T13:16:27.146088411Z",
+  "model": "glm-5.3"
+}

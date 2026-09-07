@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Baragera mu murwa w'ingabo wa Yisraeli; Yisraeli naravutse arahaguruka, bakubita ⟨את⟩ Mowabu, baratsemba barohamo; barayinjira muri we, bakomeza gukubita ⟨את⟩ Mowabu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baragera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "murwa w'ingabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "arahaguruka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mowabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "baratsemba"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "barohamo"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "barayinjira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri we"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "bakomeza gukubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mowabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:24.017606009Z",
+  "model": "glm-5.3"
+}

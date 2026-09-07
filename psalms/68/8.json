@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Elohimu, mu kugenda kwawe imbere y'ubwoko bwe, mu kugendera kwawe mu bindabinda — Selahi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mu kugenda kwawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "mu kugendera kwawe"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mu bindabinda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:57.611538572Z",
+  "model": "glm-5.3"
+}

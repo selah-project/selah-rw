@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Naomiyi afata ⟨את⟩ umwana, aramushyira mu gituuye cye, aramurera nk'umwe w'abana be.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "aramushyira"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "mu gituuye cye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "aramurera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "nk'umwe w'abana be"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:14.292150284Z",
+  "model": "glm-5.3"
+}

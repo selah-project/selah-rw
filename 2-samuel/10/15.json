@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Aramu babonye ko batsindwe imbere ya Yisraeli, barahuriye hamwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "batsindwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "barahuriye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:08:27.301919385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ibyo byose bitagifite urubabi n'ibilo mu mazi — sheketi ⟨ni⟩ cyo kuri mwe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bitagifite"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kitagifite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku byo"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "urubabi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "n'ibilo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheketi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:58.040681467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Banahaye ⟨את⟩ Kiryat-Arba, umubyeyi wa Anoki — ⟪ni⟫ Hevronu (Heburoni) — mu misozi ya Yehuda, na ⟨את⟩ uturere twayo (imigezi y'amatungo) two hirya no hino.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banahaye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "umubyeyi wa"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anoki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronu (Heburoni)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu misozi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uturere twayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uturere twayo (imigezi y'amatungo)"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "two hirya no hino"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:33.654411082Z",
+  "model": "glm-5.3"
+}

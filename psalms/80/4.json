@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Elohimu, tugarukire, kandi isura yawe imurike, turokokwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tugarukire"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "kandi ... imurike"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "isura yawe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "turokokwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.400432879Z",
+  "model": "glm-5.3"
+}

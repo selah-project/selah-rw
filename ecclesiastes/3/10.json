@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Naboneye ⟨את⟩ urugamba Elohimu yahaye abana b'abantu ngo bakorere muri rwo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Naboneye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugamba"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "urugamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "b'abantu"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "bakorere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri rwo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:21.029618949Z",
+  "model": "glm-5.3"
+}

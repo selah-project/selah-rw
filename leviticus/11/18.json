@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ hatinshemeti, na ⟨את⟩ hakaati, na ⟨את⟩ harahami",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hatinshemeti"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "hatinshemeti ⟨inyoni⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hakaati"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "hakaati ⟨inyoni⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "harahami"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "harahami ⟨inyoni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:52.457864856Z",
+  "model": "glm-5.3"
+}

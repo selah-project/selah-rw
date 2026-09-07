@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kubw'ibyo nta muntu uzaba ku wowe uwakanda umugozi w'ipima mu rwangani, mu itaba rwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kubw'ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "uwakanda"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "umugozi w'ipima"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "mu rwangani"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu itaba rwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:47:20.136157108Z",
+  "model": "glm-5.3"
+}

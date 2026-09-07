@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Baravuga bishyira hanze ubwibone; bose bakora ibibi bishingikiriza.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Baravuga bishyira hanze"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ubwibone"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "bishingikiriza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:36.595836951Z",
+  "model": "glm-5.3"
+}

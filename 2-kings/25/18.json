@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze umutware w'abatabaji afata ⟨את⟩ Serayah, kohenu umukuru, na ⟨את⟩ Tsefanyahu, kohenu wa kabiri, na ⟨את⟩ abagabo batatu barinzi urugi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "w'abatabaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abagabo batatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abarinzi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "urugi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:47.951845241Z",
+  "model": "glm-5.3"
+}

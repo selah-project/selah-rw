@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Muririmbire Yahwe utuye Tsiyoni (Siyoni), mumenyeshe mu mahanga ibikorwa bye.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Muririmbire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "mumenyeshe"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ibikorwa bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:39.699303692Z",
+  "model": "glm-5.3"
+}

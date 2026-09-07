@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ko nta ijambo riri ku rurimi rwanjye — reba, Yahwe, urazi ryo yose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ku rurimi rwanjye"
+    },
+    {
+      "surface": "הן",
+      "gloss": "reba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "urazi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ryo yose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:47.248669593Z",
+  "model": "glm-5.3"
+}

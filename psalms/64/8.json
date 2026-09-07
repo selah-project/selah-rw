@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Maze Elohimu arabitura umwambi, bitunguranye; ibikomere byabo nibyo byabaye.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "arabitura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "umwambi"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "bitunguranye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byabaye"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ibikomere byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:33.728967826Z",
+  "model": "glm-5.3"
+}

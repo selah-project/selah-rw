@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Uyu ni urugero rwawe, umugabane w'ipima ryawe ⟨את⟩ ivuye kuri jye, agira ati Yahwe: kuko wibagiwe ⟨את⟩ jye, maze wizingiro mu bubeshi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "urugero rwawe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "umugabane"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "w'ipima ryawe"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩",
+      "marks": "ivuye kuri jye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "wibagiwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "jye (Yahwe)"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "maze wizingiro"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "mu bubeshi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:52:56.715436391Z",
+  "model": "glm-5.3"
+}

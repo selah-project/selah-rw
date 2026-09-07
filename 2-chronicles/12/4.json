@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze yafata ⟨את⟩ imigi y'ibirindiro iya Yuda, maze ageza kwa Yerushalayimu (Yerusalemu).",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Maze yafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "y'ibirindiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "maze ageza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kwa Yerushalayimu (Yerusalemu)"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:44.182567877Z",
+  "model": "glm-5.3"
+}

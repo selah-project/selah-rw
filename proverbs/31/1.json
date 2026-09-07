@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Amagambo ya Lemuwelu, umwami — umutwaro yigishijwe na nyina.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amagambo"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuwelu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "משא",
+      "gloss": "umutwaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨amagambo⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "yigishijwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "na nyina"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:56.551171585Z",
+  "model": "glm-5.3"
+}

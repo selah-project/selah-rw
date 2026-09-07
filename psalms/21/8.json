@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko umwami yizera muri Yahwe, no muri hesedi y'Elyoni; nta cyo azigera ahindagurika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yizera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "no muri hesedi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "y'Elyoni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "azigera ahindagurika"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:13.390542169Z",
+  "model": "glm-5.3"
+}

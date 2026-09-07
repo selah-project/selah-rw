@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Yaakovu nagiye mu nzira ye, maze intumwa za Elohimu ziramutsanganira.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagiye"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "mu nzira ye"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ziramutsanganira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "za Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:07:24.232039336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 3:8",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze nabonye ko, kubera impamvu zose z'ubuhakana bwa Yisraeli byasambanyije, namwoherereye maze nahaye ⟨את⟩ itangazo ryo kumutandukanya; ariko itema Yehuda, mushiki we, ntiyatininye — yagiye na nayo yasambanye.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Maze nabonye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "impamvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "נאפה",
+      "gloss": "byasambanyije"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "ubuhakana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "namwoherereye"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "maze nahaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itangazo ryo kumutandukanya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "itangazo"
+    },
+    {
+      "surface": "כריתתיה",
+      "gloss": "ryo kumutandukanya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yatininye"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "itema"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "mushiki we"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "ותזן",
+      "gloss": "yasambanye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:40:17.590602801Z",
+  "model": "glm-5.3"
+}

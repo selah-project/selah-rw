@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Maze Yisraeli yagira umugisha ⟨את⟩ Yosefu, avuga ati: Elohimu abakurambere banjye bari bagendanaga imbere ye — Avrahamu na Yitsaki; Elohimu wampagariye ⟨את⟩ injye kuva kera kwanjye kugeza uyu munsi —",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yagira umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababanjye"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "bagendanaga"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "abakurambere banjye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "na Yitsaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "wampagariye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "injye"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "kuva kera kwanjye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:27.721733885Z",
+  "model": "glm-5.3"
+}

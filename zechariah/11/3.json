@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ijwi ry'agahinda k'abarisa, kuko ikiremereza cyabo cyatsenwe; ijwi ry'uruguma rw'intare nto, kuko ikuzo rya Yorudani ryatsenwe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ijwi"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "ry'agahinda"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "k'abarisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "cyatsenwe"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "ikiremereza cyabo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "ry'uruguma"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "rw'intare nto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ryatsenwe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "rya Yorudani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:00:58.566776961Z",
+  "model": "glm-5.3"
+}

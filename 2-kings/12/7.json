@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Mu myaka makumyabiri n'ishatu y'ubwami bwa Yehoashu, abakohenu nta bakomeje ⟨את⟩ ibyacitse by'inzu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Hashize"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mu myaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "n'ishatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "y'ubwami bwa"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "bakomeje"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyacitse"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ibyacitse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "by'inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:20:58.433355598Z",
+  "model": "glm-5.3"
+}

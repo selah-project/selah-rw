@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ku munsi w'igitambo cyanyu kiziriwe, no ku munsi ukurikira; ibisigaye kugeza ku munsi wa gatatu bizahishwa mu muriro.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "w'igitambo cyanyu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kiziriwe"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "no ku munsi ukurikira"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bizahishwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:38.027250583Z",
+  "model": "glm-5.3"
+}

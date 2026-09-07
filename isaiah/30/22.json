@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Muzira inyuma ⟨את⟩ urudomo rw'amashusho yavuye mu ifeza yawe na ⟨את⟩ urudomo rw'agashusho kavuye mu zahabu yawe; muzabasukura nk'ikirure, muzabwira urwo rushusho muti: Sohokera.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "muzira inyuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urudomo rw'amashusho yavuye mu ifeza yawe"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "urudomo"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "rw'amashusho yavuye"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "mu ifeza yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urudomo rw'agashusho kavuye mu zahabu yawe"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "urudomo"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "rw'agashusho kavuye"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "mu zahabu yawe"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "muzabasukura"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ikirure"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Sohokera"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "muzabwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "urwo rushusho"
+    }
+  ],
+  "timestamp": "2026-09-07T15:07:26.267932137Z",
+  "model": "glm-5.3"
+}

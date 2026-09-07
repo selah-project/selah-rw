@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yehonatani yaha umuhungu wiwe ⟨את⟩ ibikoresho bye, maze amubwira ati: Gyenda, izana mu mujyi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoresho bye"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho bye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wiwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gyenda"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "izana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:48:40.841507863Z",
+  "model": "glm-5.3"
+}

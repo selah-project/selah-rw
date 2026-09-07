@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi nanone ⟨את⟩ urunyeganyega Yahwe Elohimu wawe azarungika muri bo, kugeza ibisigaye n'ibihishye imbere yawe bizahitwa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi nanone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urunyeganyega"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "urunyeganyega"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "azarungika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bizahitwa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "n'ibihishye"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "imbere yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:35.798163534Z",
+  "model": "glm-5.3"
+}

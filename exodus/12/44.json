@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Na buri musazi w'umuntu w'aguwe ifaranga, uramwambaza ⟨את⟩ we, ubwo ararya muri iryo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "musazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "w'aguwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifaranga"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "uramwambaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (umusazi w'aguwe)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ararya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri iryo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:29.124490281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Darakiza, Yahwe, ko umwesedi yarahenze, ko abizera b'imbere barabuye mu bana b'abantu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Darakiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yarahenze"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "umwesedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "barabuye"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "abizera b'imbere"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:01.001962293Z",
+  "model": "glm-5.3"
+}

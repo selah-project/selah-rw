@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Byose birategereje wowe, ngo uhe ifunguro mu gihe cyacyo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Byose"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "birategereje"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo uhe"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ifunguro"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "mu gihe cyacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:18.344041923Z",
+  "model": "glm-5.3"
+}

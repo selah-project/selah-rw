@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Avrahamu (Aburahamu) yongeye, maze atwara umugore, izina rye ni Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yongeye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze atwara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:58.027252908Z",
+  "model": "glm-5.3"
+}

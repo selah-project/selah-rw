@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ntuzatinye bo, kuko Yahwe, Elohimu wawe, ari mu gite cyawe — Eli munini kandi utinyinwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "zatinye"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mu gite cyawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kandi utinyinwa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:34.684137991Z",
+  "model": "glm-5.3"
+}

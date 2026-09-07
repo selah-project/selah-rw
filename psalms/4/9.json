@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mu Shalomu ⟨amahoro⟩ nzaryama hamwe kandi ndyoze; kuko wowe, Yahwe, wenyine, mu bwite ⟨ni⟩ we uransigira amahoro.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "mu Shalomu ⟨amahoro⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nzaryama"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "kandi ndyoze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mu bwite"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "uransigira amahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:03.765424735Z",
+  "model": "glm-5.3"
+}

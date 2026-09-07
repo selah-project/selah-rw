@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Njye ubwanjye nzasenza ⟨את⟩ isi, n'abansi banyu batuye muri yo bazayirenza amaso.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "nzasenza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Njye ubwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "bazayirenza amaso"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "abansi banyu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:42.566035319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yaakovu (Yakobo) yatuye mu gihugu cy'ubutahuke bwa se, mu gihugu cya Kenaani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yatuye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "cy'ubutahuke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bwa se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T08:14:02.665541845Z",
+  "model": "glm-5.3"
+}

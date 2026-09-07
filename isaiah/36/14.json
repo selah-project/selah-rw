@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ati umwami: Ntimwemere ko Hizikiyahu yababeshya, kuko ntashobora kubakiza ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yabeshya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kubakiza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:13:05.825868967Z",
+  "model": "glm-5.3"
+}

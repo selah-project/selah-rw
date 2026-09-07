@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Abirukana, aca amahoro; inzira n'ibirenge bye ntayinjiraho.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Abirukana"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "aca"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "n'ibirenge bye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "yinjiraho"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:59.369445381Z",
+  "model": "glm-5.3"
+}

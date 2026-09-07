@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi nzasubiza intoki yanjye ku wawe, ndatsukura nk'umunyu ibyondo byawe, ndakuraho ibidendezwe byawe byose.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "Kandi nzasubiza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "ndatsukura"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "nk'umunyu"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "ibyondo byawe"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "ndakuraho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "ibidendezwe byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:40.130655625Z",
+  "model": "glm-5.3"
+}

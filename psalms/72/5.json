@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Bazagutinya hamwe n'izuba, no mbere y'ukwezi, umubyari w'ibyari.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "bazagutinya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe n'"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "no mbere y'"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "umubyari"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "w'ibyari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:28.411917469Z",
+  "model": "glm-5.3"
+}

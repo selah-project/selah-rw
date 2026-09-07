@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Kuki, Yahwe, uzenya Nefeshi yanjye? Uhisha uruhanga rwawe nturunditse kuri njye.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "uzenya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Uhisha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nturunditse kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:50.085315678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Muri Yerushalayimu naho barimo abakomoka mu bantu ba Yehuda, mu bantu ba Binyaminu, mu bantu ba Efrayimu na ba Menashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "muri Yerushalayimu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "barimo batuye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "abakomoka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ba Binyaminu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ba Efrayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na ba Menashe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:03.077413749Z",
+  "model": "glm-5.3"
+}

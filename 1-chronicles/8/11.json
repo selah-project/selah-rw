@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kandi na Kuhushimu yabyaye ⟨את⟩ Avituvu na ⟨את⟩ Elpahali.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Kandi na Kuhushimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituvu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elpahali"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpahali"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:44.262419195Z",
+  "model": "glm-5.3"
+}

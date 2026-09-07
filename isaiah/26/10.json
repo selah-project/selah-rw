@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Umwugaye agihebwa ubugingo, ntiyiga ubungabunga; mu gihugu cy'ubwiburize akoresha ikarengane, atibasha kureba icubahiro cya Yahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "agihebwa ubugingo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwugaye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "למד",
+      "gloss": "yiga"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubungabunga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "cy'ubwiburize"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "akoresha ikarengane"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "atibasha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "icubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:15.804200234Z",
+  "model": "glm-5.3"
+}

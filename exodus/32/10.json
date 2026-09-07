@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "None ubu ureka njye, uburakari bwanjye bwakaze kuri bo, maze ndabazirikana; maze nzakora ⟨את⟩ wowe ⟨uri⟩ igihugu kinini.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ureka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "bwakaze"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "uburakari bwanjye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ndabazirikana"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "igihugu kinini"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kinini"
+    }
+  ],
+  "timestamp": "2026-09-07T09:12:30.303250097Z",
+  "model": "glm-5.3"
+}

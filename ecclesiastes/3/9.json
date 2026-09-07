@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ni iki inyungu ukozi afite mu byo we ahina?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ukozi"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mu byo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ahina"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:21.029389013Z",
+  "model": "glm-5.3"
+}

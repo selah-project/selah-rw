@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nabonye abahemukeye maze narakuyemo, kuko ijambo ryawe ntibarigeze babika.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "abahemukeye"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "narakuyemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "babika"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:44.324640669Z",
+  "model": "glm-5.3"
+}

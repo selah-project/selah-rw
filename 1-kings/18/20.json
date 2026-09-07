@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ahabu yarohereje mu bana bore ba Yisraeli, maze arabakoranya ⟨את⟩ abahanuzi ku musozi wa Karmeli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarohereje"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu bana bore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "maze arabakoranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanuzi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "wa Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:57:17.837881582Z",
+  "model": "glm-5.3"
+}

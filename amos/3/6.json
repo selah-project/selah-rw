@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Iyo ihembe ryavuzwe mu mujyi, abantu ntibatinya? Iko ikibi kiba mu mujyi, Yahwe ntiyakoze?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ryavuzwe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ihembe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntibatinya"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "batinya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Iko"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kiba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:39:02.847284912Z",
+  "model": "glm-5.3"
+}

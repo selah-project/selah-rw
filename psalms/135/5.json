@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Ko nanzi ko Yahwe ⟨ni⟩ munini, kandi Adonayi wacu hejuru y'imana zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nanzi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "kandi Adonayi wacu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hejuru y'imana zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana zose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.498473437Z",
+  "model": "glm-5.3"
+}

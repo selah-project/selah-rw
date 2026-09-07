@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 23:22",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "N'iyo mpamvu, Eholiba, uko Adonayi Yahwe avuze: Raba, ndazamuye ⟨את⟩ abo wakundaga bakurwanya, ⟨את⟩ abo Nefeshi yawe yirengagije uwo, maze mbakuzanira bakugereho mu mpande zose.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "N'iyo mpamvu"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Eholiba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "utya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ndazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo wakundaga"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "abo wakundaga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bakurwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "yirengagije"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshi yawe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "והבאתים",
+      "gloss": "maze mbakuzanira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bakugereho"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "mu mpande zose"
+    }
+  ],
+  "timestamp": "2026-09-07T21:49:10.217413136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe yarumvise ⟨את⟩ ijwi ry'amagambo yanyu, arakaze, arahiye ati:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yarumvise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ry'amagambo yanyu"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "arakaze"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "rahiye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T10:45:01.297194282Z",
+  "model": "glm-5.3"
+}

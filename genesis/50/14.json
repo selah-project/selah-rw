@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Yozefu (Yozefu) yasubiye i Mitsrayimu (Egiputa), we n'abavandimwe be n'abazamukiye hamwe na ⟨את⟩ we ngo bashyingure ⟨את⟩ se be, nyuma yo kumushyingura ⟨את⟩ se be.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yozefu"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "n'abavandimwe be"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'abantu bose"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "abazamukiye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hamwe na ⟨את⟩ we"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ngo bashyingure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se be"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se be"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "yo kumushyingura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se be"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se be"
+    }
+  ],
+  "timestamp": "2026-09-07T08:32:31.901696558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Nk'uko iburasirazuba kiri kure y'iburengero, ni ko yarakuye ivyo turi ⟨את⟩ ibicumuro byacu.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "nk'uburebure bwo kure"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "iburasirazuba"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "y'iburengero"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "yarakuye kure"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ivyo turi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibicumuro byacu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ibicumuro byacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:46.047795289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Iminsi y'umugaragu wawe ni ingahe? Ni ryari uzakora urubanza ku bangukurikira?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ingahe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Iminsi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "y'umugaragu wawe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Ni ryari"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "ku bangukurikira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:01.701198180Z",
+  "model": "glm-5.3"
+}

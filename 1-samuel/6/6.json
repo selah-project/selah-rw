@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi ni ikihe gituma muremereza ⟨את⟩ imitima yanyu, nk'uko Mitsrayimu na Paro baremereze ⟨את⟩ imitima yabo? Ese nk'uko yagiriye nabi muri bo, ntibarekuye maze bagenda?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "kandi ni ikihe gituma"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "muremereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imitima yanyu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "imitima yanyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "baremereze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "na Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imitima yabo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "imitima yabo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ese"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "yagiriye nabi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ntibarekuye"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "maze bagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:43.811265394Z",
+  "model": "glm-5.3"
+}

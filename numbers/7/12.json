@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umuntu w'i mbere wazanye ⟨את⟩ korubani ye ni Nahashoni mwene Aminadabu, uwo mu muryango wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨Ni⟩ uko"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "wazanye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "w'i mbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korubani ye"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korubani ye"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahashoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "uwo mu muryango wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:47.008193612Z",
+  "model": "glm-5.3"
+}

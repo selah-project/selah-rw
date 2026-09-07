@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi buri nkono y'ibumba, iyo kimwe muri ibyo cyagwa mu ndani yayo, byose biri mu ndani yayo birasibye, kandi muzavunika na ⟨את⟩ iyo nkono.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kandi buri"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nkono"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "y'ibumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "cyagwa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ndani yayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "mu ndani yawyayo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "birasibye"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩",
+      "marks": "iyo nkono"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "muzayivunika"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:32.728615178Z",
+  "model": "glm-5.3"
+}

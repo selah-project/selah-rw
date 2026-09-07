@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Aya ni abahungu ba Shemu, ku muryango wabo, ku rurimi rwabo, mu gihugu cyabo, ku gihugu cyabo ⟨ni⟩ ubwami bwabo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ku rurimi rwabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mu bihugu byabo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ku mahanga yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:50.162717096Z",
+  "model": "glm-5.3"
+}

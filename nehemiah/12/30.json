@@ -1,0 +1,56 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "nehemiah 12:30",
+ "book": "nehemiah",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Abaherezi (abakohenu) n'Abalevi barisukuye, maze barasukura ⟨את⟩ abantu na ⟨את⟩ amarembo na ⟨את⟩ urukoba.",
+ "tokens": [
+  {
+   "surface": "ויטהרו",
+   "gloss": "barisukuye"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "Abaherezi (abakohenu)"
+  },
+  {
+   "surface": "והלוים",
+   "gloss": "n'Abalevi"
+  },
+  {
+   "surface": "ויטהרו",
+   "gloss": "barasukura"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abantu"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "amarembo"
+  },
+  {
+   "surface": "השערים",
+   "gloss": "amarembo"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "urukoba"
+  },
+  {
+   "surface": "החומה",
+   "gloss": "urukoba"
+  }
+ ],
+ "timestamp": "2026-09-07T20:27:40.973579532Z",
+ "model": "glm-5.3"
+}

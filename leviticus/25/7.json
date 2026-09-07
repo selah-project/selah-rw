@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "N'ibikoko byawe binini, n'inyamaswa zi mu gihugu cyawe: umusaruro wacyo wose uzaba ⟨ni⟩ ibiryo.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "N'ibikoko byawe binini"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "n'inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "mu gihugu cyawe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzaba ⟨ni⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "umusaruro wacyo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ibiryo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:00.787669363Z",
+  "model": "glm-5.3"
+}

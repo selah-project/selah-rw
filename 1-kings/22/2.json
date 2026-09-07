@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Mu mwaka wa gatatu, Yehoshafati umwami w'i Yehuda yamanutse k'umwami w'i Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨biba byabaye⟩"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka wa"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "gatatu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:03:26.154421280Z",
+  "model": "glm-5.3"
+}

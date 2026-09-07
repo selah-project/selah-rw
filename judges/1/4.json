@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yehuda arazamuka, maze Yahwe atanga ⟨את⟩ umukanani n'Abaperizi mu ntoki zabo; barabashye i Bezeki — ibihumbi cumi b'abantu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "arazamuka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze atanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umukanani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "n'Abaperizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mu ntoki zabo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "barabashye"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezeki"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:48:55.990470119Z",
+  "model": "glm-5.3"
+}

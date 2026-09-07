@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Niba ari umugore, igiciro cyawe kizaba shekeli mirongo itatu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari we"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "igiciro cyawe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:53.055646361Z",
+  "model": "glm-5.3"
+}

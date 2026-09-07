@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ngaho reba, iminsi izaza, amagambo ya Yahwe: kandi nzasinya na ⟨את⟩ inzu ya Yisraeli na ⟨את⟩ inzu ya Yehuda beriti nshya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ngaho reba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "izaza"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amagambo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "kandi nzasinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nshya"
+    }
+  ],
+  "timestamp": "2026-09-07T16:13:34.202283728Z",
+  "model": "glm-5.3"
+}

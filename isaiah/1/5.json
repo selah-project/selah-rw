@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ku iki mukomeze gukubishwa? Muzongera mwigomeka; umutwe wose urwaye, umutima wose urwaye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "mukomeze gukubishwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "komeze"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "muzongera"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "mwigomeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "urwaye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'umutima wose"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "urwaye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:41.700826489Z",
+  "model": "glm-5.3"
+}

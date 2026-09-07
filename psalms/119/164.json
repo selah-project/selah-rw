@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Inshuro ndindwi ku munsi nkuramye, kubw'amategeko y'ubutunganye bwawe.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "inshuro ndindwi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "nkuramye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "y'ubutunganye bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:07.724866340Z",
+  "model": "glm-5.3"
+}

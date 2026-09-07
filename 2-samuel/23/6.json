@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ababeliyali bose bakorerwa nk'urubabi rwarurwanye, kuko nta mukuza ibafatwa.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "ababeliyali"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "nk'urubabi"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "rwarurwanye"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mukuza"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ibafatwa"
+    }
+  ],
+  "timestamp": "2026-09-07T13:24:49.218679648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ese ntibazi bose, abakora ibibi, abariya abantu banjye barariye umugati; Yahwe ntibamhamagara.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ntibazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "abariya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "barariye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bamhamagara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:15.210050566Z",
+  "model": "glm-5.3"
+}

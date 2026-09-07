@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Yaratumye ibimenyetso n'ibitangaza hagati yawe, Mitsrayimu, ku Paro no kubakozi be bose.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yaratumye"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ibimenyetso"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "n'ibitangaza"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "hagati yawe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ku Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bakozi be bose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:37.714059176Z",
+  "model": "glm-5.3"
+}

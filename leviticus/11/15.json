@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "⟨את⟩ Igicungiri cyose, uko bwoko bwayo bwose.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Igicungiri cyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Igicungiri"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "uko bwoko bwayo bwose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:19.785967997Z",
+  "model": "glm-5.3"
+}

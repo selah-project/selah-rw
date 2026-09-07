@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Shakisha Yahwe n'ingufu ze; mushakire uruhanga rwe iteka ryose.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Shakisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "n'ingufu ze"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "mushakire"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uruhanga rwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:53.629235332Z",
+  "model": "glm-5.3"
+}

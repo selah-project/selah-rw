@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "⟨את⟩ isanduku na ⟨את⟩ utubari two, ⟨את⟩ uruhushya, na ⟨את⟩ urwibavu rw'ikirago.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "utubari two"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "utubari two"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhushya"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "uruhushya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urwibavu rw'ikirago"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "urwibavu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "rw'ikirago"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:34.330955987Z",
+  "model": "glm-5.3"
+}

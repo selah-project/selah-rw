@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yehoshuwa yaravuze ati: Muri ibi muzamenya ko Eli mzima ari muri mwe, kandi ko azahorisha burundu, azabakuraho imbere yanyu ⟨את⟩ Abakenani na ⟨את⟩ Abahiti na ⟨את⟩ Abahivi na ⟨את⟩ Abaperizi na ⟨את⟩ Abagirigashi, n'Abemori n'Abayebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Muri ibi"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "muzamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mzima"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ari muri mwe"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "azahorisha"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "burundu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "azabakuraho imbere yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abakenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Abakenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abahiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Abahiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abahivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Abahivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abaperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Abaperizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abagirigashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Abagirigashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "n'Abemori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "n'Abayebusi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:22:18.825819117Z",
+  "model": "glm-5.3"
+}

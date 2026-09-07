@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Elohimu arabwira Moshe ati: Ndi uwo ndi ⟨uye⟩. Maze arabwira ati: Uko uzabwira abana ba Yisraeli uti: Ndi ⟨uye⟩ yaratanze njye iwanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze arabwira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndi ⟨uye⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzabwira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ndi ⟨uye⟩"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "yaratanze njye"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "iwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:55.324364677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Noneho, rwose ni ukuri ko njye ndi umukiza; ariko hari n'undi mukiza uri hafi kurusha njye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "noneho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "rwose ni ukuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "umukiza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ariko hari n'"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mukiza"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "uri hafi kurusha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kurusha njye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:10.267298961Z",
+  "model": "glm-5.3"
+}

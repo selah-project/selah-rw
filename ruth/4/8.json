@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Umuvandimwe yaravuze kuri Boazi ati: «Igura wowe.» Maze yakurwamo inkweto ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "umuvandimwe"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "kuri Boazi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "igura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "yakurwamo"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "inkweto ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:45:34.124080109Z",
+  "model": "glm-5.3"
+}

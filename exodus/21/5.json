@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo umugaragu avuze mu kuri ati: Nakunze ⟨את⟩ shebuja wanjye, ⟨את⟩ umugore wanjye na ⟨את⟩ abahungu banjye; sinzigera sohoka nk'uwigenga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "guseka (kw'ijambo)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Nakunze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shebuja wanjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore wanjye"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "umugore wanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu banjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu banjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "sinzigera sohoka"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "nk'uwigenga"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:30.891471845Z",
+  "model": "glm-5.3"
+}

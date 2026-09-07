@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Nuko bahinduye ⟨את⟩ icubahiro cyabo, bashyira mu ishusho y'inka rya ibyatsi.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Nuko bahinduye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icubahiro cyabo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "icubahiro cyabo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "mu ishusho"
+    },
+    {
+      "surface": "שור",
+      "gloss": "y'inka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "rya"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:49.883263600Z",
+  "model": "glm-5.3"
+}

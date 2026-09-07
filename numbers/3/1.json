@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ibi ni amasekuruza ya Aharoni na Moshe, ku munsi Yahwe yabwiye ⟨את⟩ Moshe ku musozi wa Sinayi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "amasekuruza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:53.607959411Z",
+  "model": "glm-5.3"
+}

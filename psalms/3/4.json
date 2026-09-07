@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ariko wowe, Yahwe, ⟨ni⟩ ingabo yanjye, ikirengaho umurinzi; ubwiza bwanjye, ukazamura umutwe wanjye.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ikirengaho umurinzi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ubwiza bwanjye"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ukazamura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umutwe wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:56.974449015Z",
+  "model": "glm-5.3"
+}

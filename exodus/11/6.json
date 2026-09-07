@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Hazo haba urwenego rukomeye mu gihugu cya Mitsrayimu cose, nk'uko na mbere ntibyari byabaye, na nk'uko ntibizongera kubaho.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "hazohaba"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "urwenego"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "rukomeye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... cose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "byari byabaye"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "na nk'ibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bizongera"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:09.681335817Z",
+  "model": "glm-5.3"
+}

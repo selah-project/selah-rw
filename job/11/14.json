@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 11:14",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Niba ibibi biri mu ntoki zawe, ubyure kure, kandi ubuhemu ntibuture mu mahema yawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "הרחיקהו",
+      "gloss": "ubyure kure"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi... nti-"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "buture"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "mu mahema yawe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:47.609924780Z",
+  "model": "glm-5.3"
+}

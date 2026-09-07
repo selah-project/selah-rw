@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Nabwiye abahayari nti: Ntimuhayari; kandi nababi nti: Ntimuzamure inyozi.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nabwiye"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "abahayari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "ntimuhayari"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "nababi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ntimuzamure"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "inyozi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:49.596593453Z",
+  "model": "glm-5.3"
+}

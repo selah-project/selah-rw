@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Iya Dawidi. Yahwe, urutare rwanjye, yashimwe — we uwigisha intoki zanjye urugamba, n'iminonko yanjye intambara.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yashimwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "we uwigisha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki zanjye"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "urugamba"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "iminonko yanjye"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.158615027Z",
+  "model": "glm-5.3"
+}

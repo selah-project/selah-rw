@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ku uwo munsi nzazamura ⟨את⟩ urwuri rwa Dawidi rwarasizwe, kandi nzakingira ⟨את⟩ ibyari byaryo, maze ibyangiritse nzazamura, kandi nzacyubaka nku mu minsi y'iteka iherahey.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nzazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwuri rwa Dawidi"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "urwuri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "rwa Dawidi"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "rwarasizwe"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "kandi nzakingira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyari byaryo"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "ibyari byaryo"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "ibyangiritse"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nzazamura"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "kandi nzacyubaka"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nku mu minsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka iherahey"
+    }
+  ],
+  "timestamp": "2026-09-07T17:42:33.243143903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "deuteronomy 1:3",
+ "book": "deuteronomy",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Maze mu mwaka wa mirongo ine, mu kwezi gwa cumi na rimwe, ku wa mbere w'ukwezi, Moshe (Mose) yavugiye abana ba Yisraeli, uko byose Yahwe yamutegetse ⟨את⟩ we kuri bo:",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "Maze"
+  },
+  {
+   "surface": "בארבעים",
+   "gloss": "mu mwaka wa mirongo ine"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "⟨mwaka⟩"
+  },
+  {
+   "surface": "בעשתי",
+   "gloss": "mu kwezi gwa"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "cumi na"
+  },
+  {
+   "surface": "חדש",
+   "gloss": "rimwe"
+  },
+  {
+   "surface": "באחד",
+   "gloss": "ku wa mbere"
+  },
+  {
+   "surface": "לחדש",
+   "gloss": "w'ukwezi"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "yavugiye"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe (Mose)"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "uko byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "אשר"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yamutegetse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "kuri bo"
+  },
+  {
+   "surface": "אלהם",
+   "gloss": "kuri bo"
+  }
+ ],
+ "timestamp": "2026-09-07T10:46:54.451673496Z",
+ "model": "glm-5.3"
+}

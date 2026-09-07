@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mwe muzahaguruka mu mwikwe, mukwature ⟨את⟩ umujyi, kandi Yahwe, Elohimu wanyu, azawuha mu biganza byanyu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "muzahaguruka"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "mu mwikwe"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "mukwature"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "azawuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mu biganza byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:28:25.231516300Z",
+  "model": "glm-5.3"
+}

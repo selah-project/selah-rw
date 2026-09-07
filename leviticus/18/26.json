@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Mwe mukurikize ⟨את⟩ amabwiriza yanjye na ⟨את⟩ amategeko yanjye, kandi mukore na kimwe mu bibazo bibi ibi, n'uwavukiye mu gihugu n'umuntu w'ahungere utuye muri mwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mukurikize"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza yanjye"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "amabwiriza yanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi mukore na kimwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu bibazo byose"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "bibazo bibi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "n'uwavukiye mu gihugu"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "n'umuntu w'ahungere"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:04.366831566Z",
+  "model": "glm-5.3"
+}

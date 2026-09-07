@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ariko ⟨ni⟩ ubwoko ntibwagaruye kuri we wabiteye, na ⟨את⟩ Yahwe Tsevaoti ntibashakishe.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bwagaruye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "we wabiteye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "bashakishe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:25.820461885Z",
+  "model": "glm-5.3"
+}

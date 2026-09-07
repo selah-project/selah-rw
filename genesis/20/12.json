@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi mu by'ukuri ni mushiki wanjye ⟨ni⟩ umukobwa wa data, ariko atari umukobwa wa mama; maze yabaye njye umugore.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mushiki wanjye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa data"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "wa mama"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "umugore"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:52.717586627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ese ⟨ntibyaza⟩? Iyo wakoze neza, ⟨ni⟩ ko uzakirwa; ariko iyo utakoze neza, icyaha kigwingiriye ku muryango; agashake kawo kari kuri wowe, ariko wowe uracyaza kugacunga.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ese"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "wakoze neza"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "uzakirwa ⟨uko umutwe uzamukana⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ariko iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "utakoze"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "kirimo kugwingiriya"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "kari kuri wowe"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "agashake kawo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ariko wowe"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "uracyaza kugacunga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kawo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:15.225263190Z",
+  "model": "glm-5.3"
+}

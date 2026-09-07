@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "isaiah 33:3",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 33,
+ "translation": "Ku ijwi ry'urubumbabumba amahanga yarahunze; ku kuzamara kwawe ibihugu yarasanusanutse.",
+ "tokens": [
+  {
+   "surface": "מקול",
+   "gloss": "Ku ijwi"
+  },
+  {
+   "surface": "המון",
+   "gloss": "ry'urubumbabumba"
+  },
+  {
+   "surface": "נדדו",
+   "gloss": "yarahunze"
+  },
+  {
+   "surface": "עמים",
+   "gloss": "amahanga"
+  },
+  {
+   "surface": "מרוממתך",
+   "gloss": "ku kuzamara kwawe"
+  },
+  {
+   "surface": "נפצו",
+   "gloss": "yarasanusanutse"
+  },
+  {
+   "surface": "גוים",
+   "gloss": "ibihugu"
+  }
+ ],
+ "timestamp": "2026-09-07T15:07:42.925379908Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ariko wowe, Yahwe, unzi, umunire, maze ugerageza umutima wanjye ⟨את⟩ nawe. Barurukana nka intama zo kubagirwa, maze ubatandukanya ku munsi w'icana.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "unzi"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "umunire"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "maze ugerageza"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "umutima wanjye"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Barurukana"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "nka intama"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "zo kubagirwa"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "maze ubatandukanya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "w'icana"
+    }
+  ],
+  "timestamp": "2026-09-07T21:43:36.031535994Z",
+  "model": "glm-5.3"
+}

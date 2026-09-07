@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Arampama ati: Mwana w'umuntu, ⟨את⟩ ibyo ubona sya, sya ⟨את⟩ urudushye uru, uzinde ujye uvuga ku nzu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Arampama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo ubona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "sya"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "sya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urudushye"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "urudushye"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uzinde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uvuge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:46:48.501317831Z",
+  "model": "glm-5.3"
+}

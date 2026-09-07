@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Imbere ya Yahwe, kuko yazye kwahana isi; azahana isi yose mu bwiza, n'amahanga mu kuri.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yazye"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kwahana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "azahana"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mu bwiza"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "n'amahanga"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "mu kuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:14.184729039Z",
+  "model": "glm-5.3"
+}

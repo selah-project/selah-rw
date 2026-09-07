@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "⟨את⟩ isanduku ry'ubuhamya na ⟨את⟩ impinga zaryo na ⟨את⟩ Kaporreti (uruhu rw'impuhwe).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku ry'ubuhamya"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ry'ubuhamya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impinga zaryo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "impinga zaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kaporreti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporreti"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:01.948598836Z",
+  "model": "glm-5.3"
+}

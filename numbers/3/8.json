@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bakurikire ⟨את⟩ ibikoresho byose by'ihema ryo guhuriramo na ⟨את⟩ inshingano y'abana ba Yisraeli, bakore ⟨את⟩ umurimo wa Mishikani.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bakurikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoresho byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ryo guhuriramo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "inshingano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bakore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurimo wa Mishikani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishikani"
+    }
+  ],
+  "timestamp": "2026-09-07T10:00:39.676926285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Muri wowe turatera abanzi bacu; mu izina ryawe ducishamo abatuvangiye.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Muri wowe"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "abanzi bacu"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "turatera"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "ducishamo"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "abatuvangiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.393316188Z",
+  "model": "glm-5.3"
+}

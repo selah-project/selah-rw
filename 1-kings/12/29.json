@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze ashinga ⟨את⟩ ikimwe i Beiteli, na ⟨את⟩ ikimwe ashize i Dani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikimwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ikimwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beiteli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikimwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ikimwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "i Dani"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:27.869952265Z",
+  "model": "glm-5.3"
+}

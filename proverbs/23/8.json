@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Icye wariye cy'umugati uzacyabura, kandi amagambo yawe meza uzayapfusha.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "igice cyawe cy'umugati"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "wariye"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "uzabura"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "uzayapfusha"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "amagambo yawe"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:35.921088750Z",
+  "model": "glm-5.3"
+}

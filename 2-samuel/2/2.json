@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Dawidi na yazamukiye ahantu hamwe, na abagore be babiri na bazamukiye: Ahinowamu wa Yizreeli, na Avigayili, umugore wa Navalu uwa Karmeli.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na yazamukiye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ahantu hamwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinowamu"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "wa Yizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "na Avigayili"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalu"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "uwa Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:59:36.725333932Z",
+  "model": "glm-5.3"
+}

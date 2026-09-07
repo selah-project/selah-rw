@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Nano aha, uboko bwawe buranyobora, kandi uburyo bwawe burampfata.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "uboko bwawe"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "buranyobora"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "burampfata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "uburyo bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:23.582290086Z",
+  "model": "glm-5.3"
+}

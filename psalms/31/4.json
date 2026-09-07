@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Koko wowe ⟨ni⟩ urutare rwanjye n'icyumba cyanjye; kandi kubw'izina ryawe unyobore, unyangire inzira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "n'icyumba cyanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "kandi kubw'"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "unyobore"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "unyangire inzira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:01.828226427Z",
+  "model": "glm-5.3"
+}

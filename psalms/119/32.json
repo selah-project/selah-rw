@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Inzira y'ibitegeko byawe nziruka, kuko uragura umutima wanjye.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "y'ibitegeko byawe"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "nziruka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "uragura"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:41.431275101Z",
+  "model": "glm-5.3"
+}

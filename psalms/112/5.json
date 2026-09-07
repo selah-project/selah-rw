@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Ni byiza ku muntu ugabana impuhwe kandi utanga ingwate: yatunganya ibyawe bye mu butabera.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ugabana impuhwe"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "kandi utanga ingwate"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "yatunganya"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ibyawe bye"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu butabera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:22.001024403Z",
+  "model": "glm-5.3"
+}

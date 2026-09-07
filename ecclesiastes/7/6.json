@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kuko nka ijwi ry'ibyatsi munsi y'urubyi, ni ko iseke ry'isazi; na ibi ni ubusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "nka ijwi"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ry'ibyatsi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "y'urubyi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "iseke"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ry'isazi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:05.605616496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Wowe, wowe ⟨ni⟩ we gutinywa; nande ashobora guhagarara imbere yawe kuva rimwe uburakari bwawe?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "gutinywa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nande"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ashobora guhagarara"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kuva rimwe"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uburakari bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:13.800458430Z",
+  "model": "glm-5.3"
+}

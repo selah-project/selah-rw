@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Kandi utampangiye mu ntoki z'umwanzi; wahagije ibirenge byanjye mu mwanya mugari.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi nta"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "utampangiye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "z'umwanzi"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "wahagije"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "mu mwanya mugari"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ibirenge byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:58.626407547Z",
+  "model": "glm-5.3"
+}

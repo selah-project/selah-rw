@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Umugore aravuga ati: ⟨את⟩ Nde nzazamurira? Aravuga ati: ⟨את⟩ Shemueli — muzamurira iwanjye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nzazamurira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe\/iwawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "muzamurira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:51:13.287479244Z",
+  "model": "glm-5.3"
+}

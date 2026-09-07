@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Umugaragu arashyira ⟨את⟩ intoki ye munsi y'uruno rwa Avrahamu shebuja we, maze arahiye we ku ijambo riri uku.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "arashyira"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "uruno"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "shebuja we"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "arahiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "riri uku"
+    }
+  ],
+  "timestamp": "2026-09-07T07:53:54.062149104Z",
+  "model": "glm-5.3"
+}

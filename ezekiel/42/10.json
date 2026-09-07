@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Mu bugari bw'urukuta rw'ikibuga, ku cyerekezo cy'iburasirazuba, imbere y'igice gitandukanyijwe n'imbere y'ubwubatsi, hari amashumba.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "mu bugari"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "bw'urukuta"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "rw'ikibuga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ku cyerekezo"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "cy'iburasirazuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "y'igice gitandukanyijwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "y'ubwubatsi"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "amashumba"
+    }
+  ],
+  "timestamp": "2026-09-07T17:19:44.371763185Z",
+  "model": "glm-5.3"
+}

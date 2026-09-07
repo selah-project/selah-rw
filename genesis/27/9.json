@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "genesis 27:9",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 27,
+ "translation": "Genda, ndaguze, ku bitungo, maze uzane mbere iyo ibyene by'ibihene byeza bibiri, maze ndakore ⟨את⟩ bo ngaha ibiribwa bikundwa ho se wawe, uko yakundaga.",
+ "tokens": [
+  {
+   "surface": "לך",
+   "gloss": "Genda"
+  },
+  {
+   "surface": "נא",
+   "gloss": "ndaguze"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "הצאן",
+   "gloss": "bitungo"
+  },
+  {
+   "surface": "וקח",
+   "gloss": "maze uzane"
+  },
+  {
+   "surface": "לי",
+   "gloss": "mbere"
+  },
+  {
+   "surface": "משם",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "שני",
+   "gloss": "bibiri"
+  },
+  {
+   "surface": "גדיי",
+   "gloss": "ibyene"
+  },
+  {
+   "surface": "עזים",
+   "gloss": "by'ibihene"
+  },
+  {
+   "surface": "טבים",
+   "gloss": "byeza"
+  },
+  {
+   "surface": "ואעשה",
+   "gloss": "maze ndakore"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibyene (byo kurya)"
+  },
+  {
+   "surface": "מטעמים",
+   "gloss": "ibiribwa bikundwa ho"
+  },
+  {
+   "surface": "לאביך",
+   "gloss": "se wawe"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "uko"
+  },
+  {
+   "surface": "אהב",
+   "gloss": "yakundaga"
+  }
+ ],
+ "timestamp": "2026-09-07T08:00:35.771017708Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Tegereza — nategereje Yahwe, maze yunze kuri njye, maze yarumvise urusigu rwanjye.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Tegereza"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nategereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "maze yunze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "maze yarumvise"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "urusigu rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:35.141344161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ni Shabati y'ihumurizwa amateka ku mubyi wanyu, mukagira inzara ⟨את⟩ mitima yanyu; ku cyumweru cy'ukwezi, mu mugoroba, kuva mu mugoroba kugera mu mugoroba, muzahumuriza Shabati yanyu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "y'ihumurizwa amateka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku mubyi wanyu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mukagira inzara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitima yanyu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mitima yanyu ⟨nefeshi zanyu⟩"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ku cyumweru cy'"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu mugoroba"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kuva mu mugoroba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mu mugoroba"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "muzahumuriza"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabati yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:45.079153345Z",
+  "model": "glm-5.3"
+}

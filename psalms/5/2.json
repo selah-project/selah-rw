@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Amagambo yanjye, Yahwe, yumva neza; sosobanura urwenya rwanjye.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Amagambo yanjye"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "yumva neza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "sosobanura"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "urwenya rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:05.499301147Z",
+  "model": "glm-5.3"
+}

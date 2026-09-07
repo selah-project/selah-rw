@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ego ntumvise mu kure? ⟨את⟩ ibyo nakoze mu minsi y'ibera, maze nubakiye; none nabyazanye, bigasigara kuba urwibumba, imigi ibihomeye ibiherereye ingabo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ego"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ntumvise"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "mu kure"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "y'ibera"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "maze nubakiye"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "nabyazanye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "bigasigara"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "kuba urwibumba"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "urwibumba"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "ibiherereye"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ibihomeye ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:29:47.988805863Z",
+  "model": "glm-5.3"
+}

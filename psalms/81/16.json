@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Abanzi b'i Yahwe bamubeshyera, ariko ibihe byabo biguma ⟨bITEKA⟩.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Abanzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "b'i Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bamubeshyera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "biguma"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ibihe byabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:16.989228516Z",
+  "model": "glm-5.3"
+}

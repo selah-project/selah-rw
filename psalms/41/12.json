@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ku bw'iyi nzi ko wankundiye, ko umwanzi wanjye nta cyo aturetse ku bwanjye.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ku bw'iyi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "wankundiye"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "aturetse"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "umwanzi wanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:33.489008513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Yahwe yadukwibukije: we azaha umugisha, azaha umugisha ⟨את⟩ inzu ya Yisraeli, azaha umugisha ⟨את⟩ inzu y'Aharoni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "yadukwibukije"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "azaha umugisha"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "azaha umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "azaha umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu y'Aharoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "y'Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:14.771535916Z",
+  "model": "glm-5.3"
+}

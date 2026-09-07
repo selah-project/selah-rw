@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ni iki, umwana wanjye? Na ni iki, umwana w'inda yanjye? Na ni iki, umwana w'ibyarahiwe byanjye?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na ni iki"
+    },
+    {
+      "surface": "בר",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "w'inda yanjye"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na ni iki"
+    },
+    {
+      "surface": "בר",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "w'ibyarahiwe byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:17:56.551540028Z",
+  "model": "glm-5.3"
+}

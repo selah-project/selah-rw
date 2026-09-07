@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Maze areka Mishikani ya Shilo, ihema yari atuye mu bantu.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "maze areka"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ya Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yari atuye"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mu bantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:46.015266756Z",
+  "model": "glm-5.3"
+}

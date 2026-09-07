@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Jye nzagaragaza ubutunganye bwawe na ⟨את⟩ ibikorwa byawe, ariko ntibizakugirira akamaro.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jye"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nzagaragaza"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutunganye bwawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikorwa byawe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta-"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "bizakugirira akamaro"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:33.113415620Z",
+  "model": "glm-5.3"
+}

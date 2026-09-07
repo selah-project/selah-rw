@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Abanyabugenderi mu kibaya c'a Baka (kibaya c'amarira) bakigira isoko, kandi imvura y'ibanjirije igashyira ho imigisha.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Abanyabugenderi"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "mu kibaya"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "c'a Baka (kibaya c'amarira)"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "isoko"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "bakigira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "imigisha"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "igashyira ho"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "imvura y'ibanjirije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:05.056507680Z",
+  "model": "glm-5.3"
+}

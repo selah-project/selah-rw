@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nyuma y'ibyo bintu, mu kwihishura kw'umujinya w'umwami Achashveroshu, yibukiwe ⟨את⟩ Vashti, na ⟨את⟩ ibyo yakoze, na ⟨את⟩ ibyo byafatwaho umwanzuro kuri we.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Nyuma y'"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ibyo bintu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "mu kwihishura kw'"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "umujinya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "w'umwami"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yibukiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyo yakoze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyo byafatwaho umwanzuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "byafatwaho umwanzuro"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:58:36.471939004Z",
+  "model": "glm-5.3"
+}

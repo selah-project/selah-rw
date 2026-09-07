@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abagabo ba Yisraeli basohotse mu Mitsipa, barubutse ⟨את⟩ Abafilisiti, barabakubise kugeza munsi ya Bete-Kari.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "basohotse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Abagabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitsipa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "barubutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abafilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "barabakubise"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku Bete"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kari"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:01.574290070Z",
+  "model": "glm-5.3"
+}

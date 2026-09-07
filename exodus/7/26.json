@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Maze Yahwe yaravuze kuri Moshe ati: Injira kwa Paro, maze umubwire ati: Uko Yahwe yavuze ati: Sohora ⟨את⟩ abantu banjye bagakorera njye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "umubwire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sohora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "bagakorera njye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:12.087425969Z",
+  "model": "glm-5.3"
+}

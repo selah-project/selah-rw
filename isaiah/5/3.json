@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "None raba, mwebwe abaturage b'i Yerushalayimu n'abagabo b'i Yahuda: nimuncire urubanza, ndabasaba, hagati yanjye na umurima wanjye w'imizabibu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None raba"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abaturage"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "b'i Yerushalayimu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'abagabo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "b'i Yahuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "nimuncire urubanza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndabasaba"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "umurima wanjye w'imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:03.708113539Z",
+  "model": "glm-5.3"
+}

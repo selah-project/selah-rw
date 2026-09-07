@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 24:2",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 24,
+ "translation": "Maze bizaba nk'uko rubanda, ni ko kohenu; nk'uko umugaragu, ni ko shebuja we; nk'uko umukecuru, ni ko nyirinzu we; nk'uko ugura, ni ko ugurisha; nk'uko wenda, ni ko wendwa; nk'uko noshi, ni ko uwukenyerejwe mu byo muri we.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "Maze bizaba"
+  },
+  {
+   "surface": "כעם",
+   "gloss": "nk'uko rubanda"
+  },
+  {
+   "surface": "ככהן",
+   "gloss": "ni ko kohenu"
+  },
+  {
+   "surface": "כעבד",
+   "gloss": "nk'uko umugaragu"
+  },
+  {
+   "surface": "כאדניו",
+   "gloss": "ni ko shebuja we"
+  },
+  {
+   "surface": "כשפחה",
+   "gloss": "nk'uko umukecuru"
+  },
+  {
+   "surface": "כגברתה",
+   "gloss": "ni ko nyirinzu we"
+  },
+  {
+   "surface": "כקונה",
+   "gloss": "nk'uko ugura"
+  },
+  {
+   "surface": "כמוכר",
+   "gloss": "ni ko ugurisha"
+  },
+  {
+   "surface": "כמלוה",
+   "gloss": "nk'uko wenda"
+  },
+  {
+   "surface": "כלוה",
+   "gloss": "ni ko wendwa"
+  },
+  {
+   "surface": "כנשה",
+   "gloss": "nk'uko noshi"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "nk'uko"
+  },
+  {
+   "surface": "נשא",
+   "gloss": "wukenyereza"
+  },
+  {
+   "surface": "בו",
+   "gloss": "mu byo muri we"
+  }
+ ],
+ "timestamp": "2026-09-07T15:02:01.767917217Z",
+ "model": "glm-5.3"
+}

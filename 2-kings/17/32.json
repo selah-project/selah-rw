@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Baratinya ⟨את⟩ Yahwe, kandi bakoreraho abakohenu mu muntu wabo, abakohenu b'ibimoteri, barakorera mu nzu z'ibimoteri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bara-"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "baratinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bakoreraho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakoreraho"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "mu muntu wabo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "במות",
+      "gloss": "b'ibimoteri"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bara-"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "barakorera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "barakorera"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "z'ibimoteri"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:46.464417346Z",
+  "model": "glm-5.3"
+}

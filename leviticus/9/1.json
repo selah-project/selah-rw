@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Byabaye ku munsi wa munani, Moshe yahamagaye Aharoni n'abahungu be n'abakuru b'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Byabaye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wa munani"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "n'abakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T22:40:44.206454079Z",
+  "model": "glm-5.3"
+}

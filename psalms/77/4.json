@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Nibuka Elohimu, maze ndakubiseho amaganya; nsingira, maze mwuka wanjye uravunika. Selahi.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Nibuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "maze ndakubiseho amaganya"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nsingira"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "maze uravunika"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mwuka wanjye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:16.662833803Z",
+  "model": "glm-5.3"
+}

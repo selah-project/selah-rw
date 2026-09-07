@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "psalms 119:19",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 119,
+ "translation": "Umunyamahanga ni njye ⟨ku⟩ isi; ntihishire ibitegeko byawe uva kuri njye.",
+ "tokens": [
+  {
+   "surface": "גר",
+   "gloss": "Umunyamahanga"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ni njye"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "ku isi"
+  },
+  {
+   "surface": "אל",
+   "gloss": "nti-"
+  },
+  {
+   "surface": "תסתר",
+   "gloss": "hishire"
+  },
+  {
+   "surface": "ממני",
+   "gloss": "uva kuri njye"
+  },
+  {
+   "surface": "מצותיך",
+   "gloss": "ibitegeko byawe"
+  }
+ ],
+ "timestamp": "2026-09-07T18:49:01.405050675Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Iminsi ya Terachi yabaye imyaka amajana abiri n'atanu (205); maze Terachi yapfuye i Harani.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi ya"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "n'atanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "amajana abiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "i Harani"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:39.085770301Z",
+  "model": "glm-5.3"
+}

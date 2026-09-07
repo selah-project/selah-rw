@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Narekewe umugamba kandi natsinzwe kugera cyane; naradutse ku bw'ihungabana rya mutima wanjye.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Narekewe umugamba"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "kandi natsinzwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "naradutse"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ku bw'ihungabana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:49.723317353Z",
+  "model": "glm-5.3"
+}

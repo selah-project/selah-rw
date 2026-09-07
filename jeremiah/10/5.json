@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nk'igiti cya tomari cyumwe n'umyuga ni ibyo bimeze: ntibivuga; bazakirwa kandi bimwe bitewe, kuko ntibitambura. Ntimuzatinye ibyo; kuko nta bibi bashobora gukora, kandi nta byo bafite bwo gukora icyiza.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "nk'igiti cya tomari"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "cyumwe n'umyuga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni ibyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntibivuga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ntibivuga"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "bazakirwa"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "bimwe bitewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "bitambura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muzatinye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bikora ibibi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "gukora icyiza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta byo bafite"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kuri ibyo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:48:08.789730693Z",
+  "model": "glm-5.3"
+}

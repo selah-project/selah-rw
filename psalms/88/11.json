@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Ese kuri abapfuye urakora ibitangaza? Ese Refaimu bazazuka bakazaguhamagara? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ese kuri abapfuye"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "urakora"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ese"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimu"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bazazuka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bakazaguhamagara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:51.915954381Z",
+  "model": "glm-5.3"
+}

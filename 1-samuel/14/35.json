@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze Shauli yarubakiye igicaniro kwa Yahwe; ⟨את⟩ ni cyo yatangiraga kubaka igicaniro kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yarubakiye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ni cyo yatangiraga kubaka"
+    },
+    {
+      "surface": "החל",
+      "gloss": "yatangiraga"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kubaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:31:07.540081168Z",
+  "model": "glm-5.3"
+}

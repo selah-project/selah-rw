@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 70,
+  "translation": "Basubire kubera ingaruka y'isoni yabo abavuga bati: Heha, heha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Basubire"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ingaruka"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "y'isoni yabo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abavuga"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:02.404506191Z",
+  "model": "glm-5.3"
+}

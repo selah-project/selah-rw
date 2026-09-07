@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe yari kumwe na Yehoshuwa, kuko yagenze mu nzira za Dawidi (Dawidi) se zo hambere, kandi ntiyashakishaga ibigirwamana bya Baali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kumwe na"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yagenze"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mu nzira za"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi (Dawidi)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "zo hambere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti…"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yashakishaga"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ibigirwamana bya Baali"
+    }
+  ],
+  "timestamp": "2026-09-07T20:54:24.692110809Z",
+  "model": "glm-5.3"
+}

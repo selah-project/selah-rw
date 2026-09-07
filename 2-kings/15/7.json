@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Azaryahu aryamye n'abavyeyi be, baramuvunze ⟨את⟩ we n'abavyeyi be mu mujyi wa Dawidi; Yotamu umwana we aragira ingoma mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "aryamye"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abavyeyi be"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "baramuvunze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abavyeyi be"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "aragira ingoma"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:24.588459792Z",
+  "model": "glm-5.3"
+}

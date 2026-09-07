@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Amazi yayo ayurura, ateteka; imisozi iragwiza mu ruhare rwayo. Selahi.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ayurura"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ateteka"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "amazi yayo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "iragwiza"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "mu ruhare rwayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:29.574737644Z",
+  "model": "glm-5.3"
+}

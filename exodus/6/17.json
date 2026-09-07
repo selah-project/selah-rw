@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Abahungu ba Gershoni: Libuni na Shimhi, ku muryango wabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershoni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libuni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Shimhi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:34.120528801Z",
+  "model": "glm-5.3"
+}

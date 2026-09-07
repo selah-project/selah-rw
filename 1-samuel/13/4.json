@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Naho Yisraeli yose yamaze kumva iti: Shauli yaravuye ⟨את⟩ ikigo cya Filisiti, kandi Yisraeli yarahesheje nabi mu maso ya Filisiti; maze abantu baratujwe iyo munsi ya Shauli, i Giligali.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "yamaze kumva"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yaravuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikigo cya Filisiti"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ikigo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "cya Filisiti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "yarahesheje nabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mu maso ya Filisiti"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "baratujwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "iyo munsi ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "i Giligali"
+    }
+  ],
+  "timestamp": "2026-09-07T12:32:55.146565679Z",
+  "model": "glm-5.3"
+}

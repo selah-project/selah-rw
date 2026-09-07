@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 30:24",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Kandi ni nde wakumva ibyanyu ku jambo iri? Koko uko umugabane w'umanjiye mu ntambara, ni nako umugabane w'icaye ku bizenga; hamwe baratagabana.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "wakumva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ibyanyu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "uko umugabane"
+    },
+    {
+      "surface": "הירד",
+      "gloss": "w'umanjiye"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu ntambara"
+    },
+    {
+      "surface": "וכחלק",
+      "gloss": "ni nako umugabane"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "w'icaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "bizenga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "יחלקו",
+      "gloss": "baratagabana"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:18.695746536Z",
+  "model": "glm-5.3"
+}

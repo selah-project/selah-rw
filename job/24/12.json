@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 24:12",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Mu muji abantu bararira, kandi nefeshi y'abakomitse ititira; kandi Elowa ntashyiraho ubupfu.",
+  "tokens": [
+    {
+      "surface": "מעיר",
+      "gloss": "mu muji"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ינאקו",
+      "gloss": "bararira"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kandi nefeshi"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "y'abakomitse"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "ititira"
+    },
+    {
+      "surface": "ואלוה",
+      "gloss": "kandi Elowa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ashyiraho"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ubupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:32:47.707843581Z",
+  "model": "glm-5.3"
+}

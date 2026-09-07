@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yaravuze ati: Koko, ⟨את⟩ indama zebe zirindwi uzazifata ku ntoki zanjye, kugira ngo zibe kuri njye ubuhamya ko nacukuye ⟨את⟩ uru rwobo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yaravuze ati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indama zebe zirindwi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zirindwi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "indama zebe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzazifata"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ku ntoki zanjye"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "nacukuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uru rwobo"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "uru rwobo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:05.611765861Z",
+  "model": "glm-5.3"
+}

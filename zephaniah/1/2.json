@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nzakurikuraho byose ku maso y'isi, ivumu rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "nzaku"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rikuraho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ivumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:56:00.884628397Z",
+  "model": "glm-5.3"
+}

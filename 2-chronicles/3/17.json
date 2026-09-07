@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze yagize hejuru ⟨את⟩ ingizi ku mbere ya ⟨hekali⟩, imwe ku iburyo n'imwe ku ibumoso; maze yaita izina ry'iyo ku iburyo Yakini, n'izina ry'iyo ku ibumoso Boazi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Maze yagize hejuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingizi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ingizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨hekali⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ku iburyo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "n'imwe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ku ibumoso"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maze yaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ry'iyo ku iburyo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakini"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "n'izina"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ry'iyo ku ibumoso"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:47:11.619670436Z",
+  "model": "glm-5.3"
+}

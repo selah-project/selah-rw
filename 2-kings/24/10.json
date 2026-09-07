@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Mu gihe icyo abagaragu ba Nevukadnetsari, umwami wa Baveli, bazamukiye Yerushalayimu, maze umujyi winjira mu muzingo.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bazamukiye"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ba Nevukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baveli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "maze winjira"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mu muzingo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:34:52.239072125Z",
+  "model": "glm-5.3"
+}

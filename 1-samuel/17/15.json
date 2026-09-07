@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Dawidi yajyaga akagaruka kwa Shauli, kuragira ⟨את⟩ uruyenzi rwa se i Beti-Lehemu.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yajyaga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "akagaruka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kuragira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruyenzi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uruyenzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rwa se"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:38:36.348198929Z",
+  "model": "glm-5.3"
+}

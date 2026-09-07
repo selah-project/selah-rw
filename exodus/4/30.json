@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Aharoni yavuze ⟨את⟩ amagambo yose Yahwe yari yabwiye Moshe, maze bakora ibimenyetso imbere y'amaso y'ubwoko.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨amagambo⟩ yari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ibimenyetso"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "y'ubwoko"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:09.192436517Z",
+  "model": "glm-5.3"
+}

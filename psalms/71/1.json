@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Muri wowe, Yahwe, narahungiye; nticerwe ubusa iteka ryose.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Muri wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "narahungiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nticerwe ubusa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:34.033413577Z",
+  "model": "glm-5.3"
+}

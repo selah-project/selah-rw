@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Shauli yaramufashe ku uwo munsi, ati yemerera kugaruka mu nzu ya se.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "yaramufashe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "yemerera"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kugaruka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-07T12:42:07.499388918Z",
+  "model": "glm-5.3"
+}

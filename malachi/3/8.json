@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ese umuntu ashobora kwiba Elohimu? Nyamara mwe muri kuyiba ⟨את⟩ njye. Mwe mukavuga muti: Twakuyibye iki? Umusaruro w'ikumi n'igitunga.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Ese ashobora kwiba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nyamara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "muri kuyiba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mukavuga muti"
+    },
+    {
+      "surface": "במה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "Twakuyibye"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "Umusaruro w'ikumi"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "n'igitunga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:07.337612107Z",
+  "model": "glm-5.3"
+}

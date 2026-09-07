@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kuko ⟨את⟩ isi yose uko ureba, nzayiguha wowe, n'urubyaro rwawe, kugeza ubuziraherezo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ureba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nzayiguha wowe"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nzayiguha"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "n'urubyaro rwawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ubuziraherezo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:50.313356897Z",
+  "model": "glm-5.3"
+}

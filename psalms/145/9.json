@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ni⟩ neza ku bose, kandi impuhwe ze ziri ku bikorwa bye byose.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bose"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "kandi impuhwe ze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ziri ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "bikorwa bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:51.313183179Z",
+  "model": "glm-5.3"
+}

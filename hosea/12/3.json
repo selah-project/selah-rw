@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe arafite urubanza na Yehuda, kandi ku Yaakovu azohereza igihano ku buryo bwe, ku mikorere ye azamuha.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "arafite urubanza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "azohereza igihano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ku buryo bwe"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "ku mikorere ye"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "azamuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(ku we)"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:27.497508504Z",
+  "model": "glm-5.3"
+}

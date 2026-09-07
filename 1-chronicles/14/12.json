@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bareka ahaho ⟨את⟩ imana zabo, Dawidi na aravuze, maze zasrubwa mu muriro.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "bareka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ahaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imana zabo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "imana zabo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na aravuze"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "maze zasrubwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:33.610332524Z",
+  "model": "glm-5.3"
+}

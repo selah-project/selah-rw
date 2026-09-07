@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Ahubwo ibigomeko byanjye njye ndabyizi, kandi icyaha cyanjye gihoraho imbere yanjye iteka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ahubwo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ibigomeko byanjye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndabyizi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "kandi icyaha cyanjye"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:27.593748946Z",
+  "model": "glm-5.3"
+}

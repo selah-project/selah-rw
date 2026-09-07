@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Maze navuze nti: Ni nde wampa umupaparo nk'uw'isa? Ndapuruka, mpuma amahoro.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Maze navuze nti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wampa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨njye⟩"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "umupaparo"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "nk'uw'isa"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Ndapuruka"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "mpuma amahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:48.321530708Z",
+  "model": "glm-5.3"
+}

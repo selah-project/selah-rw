@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 8:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Uzanyuramo n'uburakari n'inzara; maze iyo ashabye, akurakara, azivira umwami we n'imana ye, maze areba hejuru.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "uzanyuramo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri iyo"
+    },
+    {
+      "surface": "נקשה",
+      "gloss": "n'uburakari"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "n'inzara"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ⟨bizaba⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ashabye"
+    },
+    {
+      "surface": "והתקצף",
+      "gloss": "akurakara"
+    },
+    {
+      "surface": "וקלל",
+      "gloss": "azivira"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "umwami we"
+    },
+    {
+      "surface": "ובאלהיו",
+      "gloss": "n'imana ye"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "maze areba"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:32.890614202Z",
+  "model": "glm-5.3"
+}

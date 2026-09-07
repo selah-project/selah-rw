@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Uzakora ku gikoni ibiringo by'izahabu bibiri, maze ushyire ⟨את⟩ ibiringo bibiri ku mpera zombi z'igikoni.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzakora"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "gikoni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ibiringo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "by'izahabu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "maze ushyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiringo bibiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "ibiringo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zombi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mpera"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "z'igikoni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:10:35.116455802Z",
+  "model": "glm-5.3"
+}

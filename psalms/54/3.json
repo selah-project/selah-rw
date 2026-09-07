@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Elohimu, mu izina ryawe unkingire, kandi mu ngufu zawe unteere ubutabera.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "unkingire"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "kandi mu ngufu zawe"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "unteere ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:46.871644588Z",
+  "model": "glm-5.3"
+}

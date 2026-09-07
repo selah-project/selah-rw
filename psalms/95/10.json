@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Imyaka mirongo ine narahunutse n'iri kinyejana, maze mvuga nti: Ni abantu b'imutima iyobye, na bo ntibazi inzira zanjye.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "narahunutse"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "n'iri kinyejana"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "maze mvuga nti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Ni abantu"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "iyobye"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "b'imutima"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:04.759808531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze yakaniye ku cyo ubushuhe bw'ibirungo, uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "yakaniye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku cyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ubushuhe"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "bw'ibirungo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:46.004927689Z",
+  "model": "glm-5.3"
+}

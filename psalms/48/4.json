@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Elohimu mu bisenge byayo aramenyekana ⟨nka⟩ urwitiriro.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "mu bisenge byayo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "aramenyekana"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "⟨nka⟩ urwitiriro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:25.358341846Z",
+  "model": "glm-5.3"
+}

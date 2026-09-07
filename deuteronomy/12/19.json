@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Iritondere wowe, kugira ngo utazureka ⟨את⟩ uLevi, mu minsi yawe yose, mu gitaka cyawe.",
+  "tokens": [
+    {
+      "surface": "הִשָּׁ֣מֶר",
+      "gloss": "iritondere"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "kugira ngo utaz—"
+    },
+    {
+      "surface": "תַּעֲזֹ֖ב",
+      "gloss": "ureka"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "uLevi"
+    },
+    {
+      "surface": "הַלֵּוִ֑י",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "יָמֶ֖יךָ",
+      "gloss": "mu minsi yawe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אַדְמָתֶֽךָ",
+      "gloss": "gitaka cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:29.044932985Z",
+  "model": "glm-5.3"
+}

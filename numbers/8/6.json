@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "numbers 8:6",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Fata ⟨את⟩ abalevi mu hagati rw'abana ba Yisraeli, maze ubasukure.",
+ "tokens": [
+  {
+   "surface": "קח",
+   "gloss": "Fata"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abalevi"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "abalevi"
+  },
+  {
+   "surface": "מתוך",
+   "gloss": "mu hagati rw'"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli"
+  },
+  {
+   "surface": "וטהרת",
+   "gloss": "maze ubasukure"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "abalevi"
+  }
+ ],
+ "timestamp": "2026-09-07T10:08:36.068267767Z",
+ "model": "glm-5.3"
+}

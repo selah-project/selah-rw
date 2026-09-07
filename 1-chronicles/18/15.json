@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yowabu mwene Tseruyah yari ku ngabo, na Yehoshafatu mwene Ahiludi akaba umwanditsi w'ibyibutsa.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (mutware wa)"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafatu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahiludi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "umwanditsi w'ibyibutsa"
+    }
+  ],
+  "timestamp": "2026-09-07T20:39:27.511136817Z",
+  "model": "glm-5.3"
+}

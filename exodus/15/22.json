@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Moshe yarongoye ⟨את⟩ Yisraeli ava mu nyanja ya Suphu; barasetse mu butayu bwa Shuru, bagendeye iminsi itatu mu butayu, ariko amazi ntibatashye.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yarongoye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mu nyanja ya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suphu"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "barasetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "butayu bwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shuru"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bagendeye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "batashye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:33.622996611Z",
+  "model": "glm-5.3"
+}

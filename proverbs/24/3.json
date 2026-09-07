@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Mu bwenge inzu yubakwa, mu kumenya ishingwa.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "mu bwenge"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yubakwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "mu kumenya"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ishingwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:14:12.646841962Z",
+  "model": "glm-5.3"
+}

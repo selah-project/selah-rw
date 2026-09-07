@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yashyize ⟨את⟩ imiriko mu kirere cy'ijuru ngo imurikire ku isi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "imiriko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "mu kirere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cy'ijuru"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ngo imurikire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:46.831990167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyo umurinda utanze ku banzi bawe, uzirinde jambo ryose ribi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "utanze"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "umurinda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "banzi bawe"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "uzirinde"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ribi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:18.160551198Z",
+  "model": "glm-5.3"
+}

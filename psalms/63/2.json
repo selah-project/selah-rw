@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Elohimu, wowe ⟨ni⟩ Eli wanjye; nkiri mu gitondo ndagushakisha; Nefeshi yanjye yagize inyota yawe, umubiri wanjye wagukeneye cyane, mu gihugu cy'ubukeru n'ubunebwe, nta mazi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "nkiri mu gitondo ndagushakisha"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "yagize inyota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "wagukeneye cyane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugukenewe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "umubiri wanjye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "cy'ubukeru"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "n'ubunebwe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:03.221802399Z",
+  "model": "glm-5.3"
+}

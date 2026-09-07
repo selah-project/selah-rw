@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ntimukureho ⟨את⟩ umuryango w'amashyaka ya Kehati mu rwagati rw'Abalevi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "mukureho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuryango"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "w'amashyaka"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ya Kehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu rwagati rw'"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:50.885854056Z",
+  "model": "glm-5.3"
+}

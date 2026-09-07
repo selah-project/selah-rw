@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Bwira itumanwa yose ry'abana ba Yisraeli, ubabwire ukoze: Mube abatagatifu, kuko ndi utagatifu, njye Yahwe Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "itumanwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire ukoze"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ubabwire (ku bo)"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "abatagatifu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mube"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:45:16.011344157Z",
+  "model": "glm-5.3"
+}

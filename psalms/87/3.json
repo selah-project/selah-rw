@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 87,
+  "translation": "Ibintu by'agaciro biravugwa kuri wowe, wowe umujyi wa Elohimu. Selahi.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ibintu by'agaciro"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "biravugwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:30.432429380Z",
+  "model": "glm-5.3"
+}

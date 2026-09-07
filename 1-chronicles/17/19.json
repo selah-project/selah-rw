@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe, kubw'umugaragu wawe no ku mutima wawe, wakoze ⟨את⟩ ubukuru bwose ibi, kugira ngo umenekishe ⟨את⟩ ibyakomeye byose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "no ku mutima wawe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukuru bwose ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ubukuru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "kugira ngo umenekishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyakomeye byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "ibyakomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:05.937658575Z",
+  "model": "glm-5.3"
+}

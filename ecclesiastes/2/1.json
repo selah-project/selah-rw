@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Njyewe navuze mu mutima wanjye nti: Njana, ndagerageze ⟨ngo⟩ umunezero, kandi urebe mu byiza — maze uko nabyo ari ⟨ni⟩ ubusa.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "njana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ngo⟩"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ndagerageze"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "umuneero"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kandi urebe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mu byiza"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze uko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:07.145014652Z",
+  "model": "glm-5.3"
+}

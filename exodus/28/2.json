@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ukore imezu y'ubutagatifu kuri Aharoni munshyawe, ku cyubahiro no ku kwiza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ukore"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imezu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "y'ubutagatifu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kuri Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "munshyawe"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ku cyubahiro"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "no ku kwiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:57.470377183Z",
+  "model": "glm-5.3"
+}

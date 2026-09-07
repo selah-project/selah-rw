@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ibyo Onani yakoreye byari bibi mu maso ya Yahwe, maze yamwicye na we ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "byari bibi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yamwicye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Onani)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:16:02.786473953Z",
+  "model": "glm-5.3"
+}

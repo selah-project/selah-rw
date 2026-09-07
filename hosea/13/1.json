@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Iyo Efurayimu yavugaga, habaho iririmbazi; we yaravuzwe mu Yisraeli, ariko yakoze icyaha muri Baalu maze arapfuye.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Iyo… yavugaga"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "iririmbazi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yaravuzwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "yakoze icyaha"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "muri Baalu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:35.148017266Z",
+  "model": "glm-5.3"
+}

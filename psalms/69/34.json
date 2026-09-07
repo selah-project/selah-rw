@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Se Yahwe yumva abakene, kandi ⟨את⟩ abafungwe be ntabwo agize intozi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "abakene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abafungwe be"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "abafungwe be"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "agize intozi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:33.909996448Z",
+  "model": "glm-5.3"
+}

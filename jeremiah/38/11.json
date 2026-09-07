@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 38:11",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Eved-Meleki yafashe ⟨את⟩ abantu mu biganza bye, yinjiye mu nzu y'umwami, hasi y'ibigega, maze afata muri ibyo imyambaro myakuwe n'amasakabu, abimanurira hasi kuri Yirmeyahu mu iboru mu migozi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Meleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu biganza bye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ya"
+    },
+    {
+      "surface": "האוצר",
+      "gloss": "ibigega"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "בלוי",
+      "gloss": "imyambaro myakuwe"
+    },
+    {
+      "surface": "הסחבות",
+      "gloss": "amasakabu"
+    },
+    {
+      "surface": "ובלוי",
+      "gloss": "n'imyambaro"
+    },
+    {
+      "surface": "מלחים",
+      "gloss": "ya sakabu"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "abimanurira hasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "iboru"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "mu migozi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:22:39.220339149Z",
+  "model": "glm-5.3"
+}

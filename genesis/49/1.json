@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Yaakovu yahamagaye abahungu be, maze aravuga ati: Muhuzwe, kugira ngo mbabwire ⟨את⟩ ibyo bizabaho ⟨את⟩ mwe mu bihe by'imperuka y'iminsi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Muhuzwe"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "kugira ngo mbabwire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bizabaho"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bizakubaho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mu bihe bya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imperuka y'iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:32:34.631532130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "na ⟨את⟩ impyiko ebyiri, na ⟨את⟩ ibinure biherereye ho — ibi biri ku myanya y'ibyumbyi — na ⟨את⟩ igice cya nyuma cy'ibyanga kiri hejuru y'urwibara, ku impyiko: we azacyakuraho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko ebyiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "biherereye ho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi biri ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "myanya y'ibyumbyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igice cya nyuma cy'ibyanga"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "igice cya nyuma cy'ibyanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "urwibara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "azacyakuraho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:10.117173946Z",
+  "model": "glm-5.3"
+}

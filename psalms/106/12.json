@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Nuko bemera amajambo ye, bararirimba isingo rye.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bemera"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "amajambo ye"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bararirimba"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "isingo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:21.676581432Z",
+  "model": "glm-5.3"
+}

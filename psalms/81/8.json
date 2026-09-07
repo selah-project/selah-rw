@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Mu bihe bikomeye wahamagaye, maze nagukijije; mu ibanga ry'inkuba nakubisubije, ku mazi ya Meriba nakugerageje. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Mu bihe bikomeye"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wahamagaye"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "nagukijije"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "nakubisubije"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ry'inkuba"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "nakugerageje"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:38.884298494Z",
+  "model": "glm-5.3"
+}

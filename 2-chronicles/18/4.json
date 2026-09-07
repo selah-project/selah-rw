@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yehoshuwa abwira umwami w'Yisraeli ati: «Saba uyu munsi ⟨את⟩ ijwi rya Yahwe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bwiye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nasabye⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi rya Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:56:01.062650336Z",
+  "model": "glm-5.3"
+}

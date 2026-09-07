@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Zaburi rya Asafu: Elohimu yagize ijambo mu nama ya Eli, mu myanya y'imana aratosora.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "rya Asafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "yagize ijambo"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mu nama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu myanya y'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "aratosora"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:28.671148348Z",
+  "model": "glm-5.3"
+}

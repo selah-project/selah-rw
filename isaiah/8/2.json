@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze nahirikana abahamya nyabyo kuri njye: ⟨את⟩ Uriyahu kohenu ⟨umupadiri⟩, na ⟨את⟩ Zekharyahu mwene wa Yevarekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "maze nahirikana abahamya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "abahamya"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "nyabyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyahu"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu ⟨umupadiri⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zekharyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yevarekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:44:59.836534181Z",
+  "model": "glm-5.3"
+}

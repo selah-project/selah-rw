@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ku bana ba Yosefu: ku Efrayimu, Eliyashama umwana wa Amiyuhudi; ku Menashe, Gamaliyeli umwana wa Pedahutsuri.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ku bana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ba Yosefu"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ku Efrayimu"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliyashama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amiyuhudi"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ku Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamaliyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahutsuri"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:49.419355931Z",
+  "model": "glm-5.3"
+}

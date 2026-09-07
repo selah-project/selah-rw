@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Abarera ibyatsi ku matungo, n'ibimera ku kazi k'umuntu, ngo asohore umugati mu isi.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Abarera"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ku matungo"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "n'ibimera"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ku kazi kwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngo asohore"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:15.708622206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ndetse wasubije ubusharire b'inkori ye, kandi ntimwasigaye ahagaze mu ntambara.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ndetse"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "wasubije"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ubusharire"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "b'inkori ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntimwasigaye"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "ahagaze"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu ntambara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:06.115241041Z",
+  "model": "glm-5.3"
+}

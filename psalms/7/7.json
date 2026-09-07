@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Vuka, Yahwe, mu basha yawe, izwe hejuru mu kurakara kw'abatwara iyanga; maze nukore ho inkwi, ko warenganyije itegeko.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mu basha yawe"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "izwe hejuru"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "mu kurakara kw'"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abatwara iyanga"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "nukore ho inkwi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "warenganyije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:17.479447723Z",
+  "model": "glm-5.3"
+}

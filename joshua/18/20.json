@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "joshua 18:20",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Na Yorudani ni wo uhuza ⟨את⟩ ku mbibi z'iburasirazuba. Uyu ni umurage w'abana ba Benjamini, ku ntera zawo zose zihururaho, mu miryango yabo.",
+ "tokens": [
+  {
+   "surface": "והירדן",
+   "gloss": "Na Yorudani"
+  },
+  {
+   "surface": "יגבל",
+   "gloss": "uhuza"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "umupaka (wa Benjamini)"
+  },
+  {
+   "surface": "לפאת",
+   "gloss": "ku mbibi za"
+  },
+  {
+   "surface": "קדמה",
+   "gloss": "iburasirazuba"
+  },
+  {
+   "surface": "זאת",
+   "gloss": "uyu ni"
+  },
+  {
+   "surface": "נחלת",
+   "gloss": "umurage"
+  },
+  {
+   "surface": "בני",
+   "gloss": "w'abana"
+  },
+  {
+   "surface": "בנימן",
+   "gloss": "ba Benjamini"
+  },
+  {
+   "surface": "לגבולתיה",
+   "gloss": "ku ntera zawo"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "zihururaho"
+  },
+  {
+   "surface": "למשפחתם",
+   "gloss": "mu miryango yabo"
+  }
+ ],
+ "timestamp": "2026-09-07T11:39:16.941967773Z",
+ "model": "glm-5.3"
+}

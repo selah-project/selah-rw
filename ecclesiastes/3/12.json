@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Nzi ko nta cyiza muri bo, uretse kunezerwa no gukora ibyiza mu mibereho ye.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Nzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cyiza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uretse"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kunezerwa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "no gukora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "mu mibereho ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:21.029942830Z",
+  "model": "glm-5.3"
+}

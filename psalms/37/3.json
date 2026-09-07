@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Twize kuri Yahwe, ukore icyiza; uture mu gihugu, unkomeze ubudahemuka.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Twize"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "uture"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "unkomeze"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ubudahemuka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:33.397042041Z",
+  "model": "glm-5.3"
+}

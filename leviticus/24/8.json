@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ku munsi wa Shabati, ku munsi wa Shabati, azayatunganya imbere ya Yahwe iteka; ibi biva kuri ⟨את⟩ abana ba Yisraeli, beriti y'iteka.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "azayatunganya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "biva kuri ⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:52.638211656Z",
+  "model": "glm-5.3"
+}

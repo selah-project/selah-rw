@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Njye naravuze nti: mu guhagarika kw'iminsi yanjye nzaza ku muryango wa Sheoli; nakurwaho umwijire w'imyaka yanjye.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "naravuze"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "mu guhagarika"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kw'iminsi yanjye"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "nzaza"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Sheoli"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "nakurwaho"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "umwijire"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "w'imyaka yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:09:19.546229175Z",
+  "model": "glm-5.3"
+}

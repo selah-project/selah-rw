@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Nk'impyisi mu bizarimbyi, ibyo nabi yawe, Yisraeli, ari byo.",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "Nk'impyisi"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "mu bizarimbyi"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "nabi yawe (abanavi bawe)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ari byo (byari bimeze)"
+    }
+  ],
+  "timestamp": "2026-09-07T16:50:04.403083765Z",
+  "model": "glm-5.3"
+}

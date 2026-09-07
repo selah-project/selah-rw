@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Umunsi ukurikira Yahwe yakora ⟨את⟩ icyo gikorwa, maze amatungo yose ya Mitsrayimu yapfuye; mu matungo ya bene Yisraeli nta na rimwe yapfuye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo gikorwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gikorwa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "umunsi ukurikira"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "amatungo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "mu matungo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:50.470094106Z",
+  "model": "glm-5.3"
+}

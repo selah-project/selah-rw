@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Iyaba inzira zanjye ⟨ziba⟩ zegerejwe neza kubahiriza amategeko yawe!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Iyaba"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ziba zegerejwe neza"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira zanjye"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kubahiriza"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:59.530333727Z",
+  "model": "glm-5.3"
+}

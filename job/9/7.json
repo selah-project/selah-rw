@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ubwira izuba ntirizere, kandi inyenyeri arazifunga.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Ubwira"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "rizere"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "kandi (ku)"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "inyenyeri"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "arazifunga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:22:14.234383554Z",
+  "model": "glm-5.3"
+}

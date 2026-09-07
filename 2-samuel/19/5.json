@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze umwami we yahishe ⟨את⟩ amaso ye, maze umwami yaravuze ako ijwi rihanitse ⟨ati⟩: Umwana wanjye, Avishalomu, Avishalomu, umwana wanjye, umwana wanjye!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "maze umwami we"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "yahishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "maze yaravuze ako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rihanitse ⟨ati⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:22:13.644361103Z",
+  "model": "glm-5.3"
+}

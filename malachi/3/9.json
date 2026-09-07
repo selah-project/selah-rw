@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "malachi 3:9",
+ "book": "malachi",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Muri imvumo mwaravumwe, kandi mwe muri kunsimbura ⟨את⟩ njye, mwe — igihugu cyose.",
+ "tokens": [
+  {
+   "surface": "במארה",
+   "gloss": "mu mvumo"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "נארים",
+   "gloss": "mwaravumwe"
+  },
+  {
+   "surface": "ואתי",
+   "gloss": "⟨את⟩ njye",
+   "marks": "njye (Yahwe)"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "קבעים",
+   "gloss": "munsimbura"
+  },
+  {
+   "surface": "הגוי",
+   "gloss": "igihugu"
+  },
+  {
+   "surface": "כלו",
+   "gloss": "cyose"
+  }
+ ],
+ "timestamp": "2026-09-07T18:06:09.311843529Z",
+ "model": "glm-5.3"
+}

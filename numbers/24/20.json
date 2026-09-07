@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Yabonye ⟨את⟩ Amaleki, maze azamura umusozo we, aravuga ati: Amaleki ⟨ni⟩ itangiriro ry'amahanga, ariko iherezo rye ⟨ni⟩ kurimbuka iteka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "umusozo we"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "itangiriro ry'"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "iherezo rye"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kurimbuka"
+    }
+  ],
+  "timestamp": "2026-09-07T10:29:39.404205999Z",
+  "model": "glm-5.3"
+}

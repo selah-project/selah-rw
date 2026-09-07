@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Akazi kari kwanira k'akazi kose ko kukora ⟨את⟩, kandi hasigaye byinshi.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kari"
+    },
+    {
+      "surface": "דים",
+      "gloss": "kwanira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kose"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "k'akazi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ko kukora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "k'akazi"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "kandi hasigaye byinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:45.718506411Z",
+  "model": "glm-5.3"
+}

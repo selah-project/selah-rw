@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ abubama hejuru y'inzu — ingabo z'ijuru; na ⟨את⟩ abubama, abarahira muri Yahwe, no abarahira muri Malkamu ⟨umwami wabo⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abubama"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "abubama"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ingobo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abubama"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "abubama"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "abarahira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "no abarahira"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "muri Malkamu ⟨umwami wabo⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T21:53:26.191658523Z",
+  "model": "glm-5.3"
+}

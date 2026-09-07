@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Mitsrayimu yishimiye mu kuva kwabo, kubera ko uburozi bwabo bwaguye kuri bo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "yishimiye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "mu kuva kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "bwaguye"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "uburozi bwabo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:52.723135469Z",
+  "model": "glm-5.3"
+}

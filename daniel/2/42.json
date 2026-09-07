@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi nko ku ntoki z'ibirenge — mu byo icyuma, mu byo ibumba — igice cy'ubwami kizaba gikomeye, n'igice kizaba cyamenetse.",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "Kandi nko ku ntoki"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "z'ibirenge"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "mu byo"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "n'andi mu byo"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "ibumba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "igice"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "cy'ubwami"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "gikomeye"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "n'andi"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "cyamenetse"
+    }
+  ],
+  "timestamp": "2026-09-07T20:07:07.832579985Z",
+  "model": "glm-5.3"
+}

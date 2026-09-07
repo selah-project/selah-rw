@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "⟨את⟩ Haqeini na ⟨את⟩ haQenizi na ⟨את⟩ haQademoni",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haqeini"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "haqeini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haQenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "haQenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haQademoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "haQademoni"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:31.082376632Z",
+  "model": "glm-5.3"
+}

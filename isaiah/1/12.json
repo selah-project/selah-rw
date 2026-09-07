@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ko mwaza kungaragarira imbere yanjye, ni nde wabisabye ibi mu maboko yanyu, ko mukandagiza urubuga rwanjye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mwaza kuza"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kungaragarira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "wabisabye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "mu maboko yanyu"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "kukandagiza"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "urubuga rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:16.691628364Z",
+  "model": "glm-5.3"
+}

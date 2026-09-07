@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Ubujugunywe bubabeho; bajye manuka bazima bageze mu Sheoli, kuko ibibi biri mu kubaho kwabo, mu gitugu cyabo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Ubujugunywe"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "bubabeho"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bajye manuka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bazima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "mu kubaho kwabo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "mu gitugu cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:28.056180256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ariko niba iri jambo riba ari ukuri — nta bimenyetso by'ubusugi byabonetse ku mukobwa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko niba"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "היה",
+      "gloss": "riba ari"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iri jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "byabonetse"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ibimenyetso by'ubusugi"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ku mukobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:14.558505109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze Elohimu arabona ⟨את⟩ abana ba Yisraeli, kandi Elohimu arabamenya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "arabamenya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:09.721228089Z",
+  "model": "glm-5.3"
+}

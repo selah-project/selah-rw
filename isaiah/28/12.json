@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Uwo yababwiye ati: Iyi ni mahumurizo — nimuhumurize umunaniwe — kandi iyi ni umutuzo; ariko baranze kumva.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "babwiye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ni mahumurizo"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "nimuhumurize"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "umunaniwe"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "kandi iyi"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "ni umutuzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "baranze"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kumva"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:18.356085581Z",
+  "model": "glm-5.3"
+}

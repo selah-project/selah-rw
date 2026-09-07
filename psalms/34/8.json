@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Umutumwa wa Yahwe aterera iburyo n'ibumoso abamutinya, arabakiza.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "aterera"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Umutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iburyo n'ibumoso"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "abamutinya"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "arabakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:09.461337884Z",
+  "model": "glm-5.3"
+}

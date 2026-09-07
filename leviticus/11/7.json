@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את]] haziri (ingurube), kiko iratandukanya umunwa w'ikirenge kandi iracitse umunwa w'ikirenge mu byombi, ariko ntirazanura ubwatsi bw'igitigu — irafiteme ibyaha muri mwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haziri"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "haziri (ingurube)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiko"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "iratandukanya"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "umunwa w'ikirenge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "kandi iracitse"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "umwatsi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "w'ikirenge"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ariko iri"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ubwatsi bw'igitigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "razanura"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "irafiteme ibyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:40.861929258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 8:5",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Bavuga bati: Ryari ukwezi kuzakoresha tugurishe ibyatsi? N'umunsi wa Shabati turekure ingano — kugira ngo tugabanye efayihu ⟨no⟩ tuongere shekeli, tukayobye imizani y'uburiginyi?",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "bavuga bati"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kuzakoresha"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "ונשבירה",
+      "gloss": "tugurishe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "n'umunsi wa Shabati"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "turekure"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ingano"
+    },
+    {
+      "surface": "להקטין",
+      "gloss": "kugira ngo tugabanye"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efayihu"
+    },
+    {
+      "surface": "ולהגדיל",
+      "gloss": "no tuongere"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "ולעות",
+      "gloss": "tukayobye"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "imizani"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "y'uburiginyi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:42:54.301324734Z",
+  "model": "glm-5.3"
+}

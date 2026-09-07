@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Imibare y'ibyaha yaremereye kurunda njye; ibyangizi byacu wowe urazitwikira.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "imibare y'"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "yaremereye"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kurunda njye"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ibyangizi byacu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "urazitwikira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.320365665Z",
+  "model": "glm-5.3"
+}

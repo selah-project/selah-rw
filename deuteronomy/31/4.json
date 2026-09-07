@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Kandi Yahwe azabakora nk'uko yakoze ku Siyhoni na kwa Ogu, abami b'Abemori, no mu butaka bwabo — abo yahonyye ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Kandi azakora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ku Siyhoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na kwa Ogu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami b'"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "no mu butaka bwabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "yahonyye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (Siyhoni na Ogu)"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:44.962535362Z",
+  "model": "glm-5.3"
+}

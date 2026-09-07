@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Ni akahe gaciro hesedi yawe, Elohimu! Bityo abana b'abantu bashobeka mu gicucu cy'amababa yawe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni akahe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "gaciro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Bityo abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mu gicucu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cy'amababa yawe"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "bashobeka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:55.848362547Z",
+  "model": "glm-5.3"
+}

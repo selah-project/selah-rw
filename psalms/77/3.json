@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Mu munsi w'icyago cyanjye, Adonayi nashakishe; ibiganjye byanjye ijoro byagutse, kandi ntibyareka ⟨kubyagira⟩; Nefeshi yanjye yanze konswa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "w'icyago cyanjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nashakishe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ibiganjye byanjye"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "byagutse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibyareka"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "⟨kubyagira⟩"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "yanze"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "konswa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:16.662138266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ukuguru kurayatora, amaguru y'umukene n'ingoro z'abakene.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "kurayatora"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukuguru"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "amaguru y'"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ingoro z'"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "abakene"
+    }
+  ],
+  "timestamp": "2026-09-07T14:58:24.970836741Z",
+  "model": "glm-5.3"
+}

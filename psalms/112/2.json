@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Umugome mu isi uzaba urubare rwe; umuryango w'indahemuka uzahirirwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Umugome"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "urubare rwe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "w'indahemuka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uzahirirwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:47.458922715Z",
+  "model": "glm-5.3"
+}

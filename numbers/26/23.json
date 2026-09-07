@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 26:23",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abana ba Yissaskari ku muryango wabo: Tola, umuryango w'aba-Tolai; Puwa, umuryango w'aba-Puni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango w'aba-"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "Tolai"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "Puwa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango w'aba-"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "Puni"
+    }
+  ],
+  "timestamp": "2026-09-07T10:28:27.657369080Z",
+  "model": "glm-5.3"
+}

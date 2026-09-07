@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ahubwo ahantu Yahwe azatoranyemo mu rumwe mu bwoko bwawe, aho uzazamuye ibitambo ry'umuriro ryawe, kandi aho uzakora ibyo byose jyewe ntegetsa wawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "azatoranyemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mu rumwe"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "ubwoko bwawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "uzazamuye"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ibitambo ry'umuriro ryawe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "kandi aho"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyo byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ntegetsa wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:59:26.895412557Z",
+  "model": "glm-5.3"
+}

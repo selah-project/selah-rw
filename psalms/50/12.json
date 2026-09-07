@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ndarangwa n'inzara, sinzakubwira; amahere yo, isi ni iyanjye n'ibyuzuye icyo aricyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ndarangwa n'inzara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sinza"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kubwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amahere yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni iyanjye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "n'ibyuzuye icyo aricyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:22.128410270Z",
+  "model": "glm-5.3"
+}

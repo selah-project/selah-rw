@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Aharoni azashyira kuri izo mbogo ebyiri amahitamo: igihitamo kimwe kuri Yahwe, n'igihitamo kimwe kuri Azazeli.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "azashyira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "mbogo"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "amahitamo"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "igihitamo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "n'igihitamo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kuri Azazeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:18.144620993Z",
+  "model": "glm-5.3"
+}

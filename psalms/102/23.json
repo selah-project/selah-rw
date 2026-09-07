@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Mu guhurira kw'amahanga hamwe, n'ibwami, ngo byose bikorere ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "mu guhurira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "n'ibwami"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngo byose bikorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:48.421628005Z",
+  "model": "glm-5.3"
+}

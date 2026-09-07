@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Niba ko uragira umwangonyi ari we — Elowa —; n'abagabo b'amaraso, nimunkure kuri njye!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "niba ko"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "uragira"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elowa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangonyi"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "n'abagabo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "b'amaraso"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "nimunkure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:30.457811891Z",
+  "model": "glm-5.3"
+}

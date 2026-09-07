@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Dawidi yaraririye n'abakurambere be, maze avundwa mu mujyi wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yaraririye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abakurambere be"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "maze avundwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:11.708600168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ko amatsi menshi abana ba Yisraeli bazatumbera nta umwami, nta umutware, nta igicaniro, nta umusingi, nta efodu na Terafimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bazatumbera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "umusingi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodu ⟨agakweto k'umuhamya⟩"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "na Terafimu ⟨ibigirwamana⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:31.659651934Z",
+  "model": "glm-5.3"
+}

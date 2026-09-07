@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yarabereye ⟨את⟩ injira y'umujyi, maze baratsinze ⟨את⟩ umujyi bakoresheje intwaro, na ⟨את⟩ uwo muntu na ⟨את⟩ umuryango we wose barabarohereje.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "yarabereye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "injira y'umujyi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "y'umujyi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "baratsinze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bakoresheje"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "intwaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uwo muntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umuryango we wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "umuryango we"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "barabarohereje"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:46.597647891Z",
+  "model": "glm-5.3"
+}

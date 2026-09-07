@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ni nde uyu, umwami w'icyubahiro? Yahwe, inkazi kandi intwari; Yahwe, intwari y'intambara.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "w'icyubahiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "inkazi"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "kandi intwari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "intwari"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "y'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:15.651403467Z",
+  "model": "glm-5.3"
+}

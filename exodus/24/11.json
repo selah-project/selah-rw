@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Kandi ku ntoronyi b'abana b'i Yisraeli ntiyashyize intoki ye; baraboneye ⟨את⟩ Elohimu, maze bafungura banwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ntoronyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'i Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "baraboneye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "bafungura"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "banwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:07.022982734Z",
+  "model": "glm-5.3"
+}

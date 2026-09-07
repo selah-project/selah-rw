@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yehonatani yakuyemo ⟨את⟩ igitambaro cyari kuri we, maze aha Dawidi, ndetse n'imyambaro ye yose, no ku muhoro we, no ku muta we, no ku mumvano we.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "yakuyemo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitambaro"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "igitambaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "n'imyambaro ye yose"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndetse no ku"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "muhoro we"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "muta we"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "mumvano we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:42:07.499765953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yahinduye ⟨את⟩ amazi yabo abyigize amaraso, maze yapfize ⟨את⟩ amafi yabo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Yahinduye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazi yabo"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "amazi yabo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "abyigize amaraso"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maze yapfize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafi yabo"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "amafi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:11.849780854Z",
+  "model": "glm-5.3"
+}

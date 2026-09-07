@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "exodus 31:15",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 31,
+ "translation": "Ku minsi itandatu imirimo izakorwa, ariko ku wa munani (wa karindwi) ni Shabati, ihumekero ry'agaciro, igitagatifu cya Yahwe; ukoza imirimo ku wa Shabati azapfa rwose.",
+ "tokens": [
+  {
+   "surface": "ששת",
+   "gloss": "ku minsi itandatu"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "minsi"
+  },
+  {
+   "surface": "יעשה",
+   "gloss": "izakorwa"
+  },
+  {
+   "surface": "מלאכה",
+   "gloss": "imirimo"
+  },
+  {
+   "surface": "וביום",
+   "gloss": "ku wa munani"
+  },
+  {
+   "surface": "השביעי",
+   "gloss": "wa karindwi"
+  },
+  {
+   "surface": "שבת",
+   "gloss": "Shabati"
+  },
+  {
+   "surface": "שבתון",
+   "gloss": "ihumekero ry'agaciro"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "igitagatifu"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "cya Yahwe"
+  },
+  {
+   "surface": "כל",
+   "gloss": "u"
+  },
+  {
+   "surface": "העשה",
+   "gloss": "koza"
+  },
+  {
+   "surface": "מלאכה",
+   "gloss": "imirimo"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "ku"
+  },
+  {
+   "surface": "השבת",
+   "gloss": "wa Shabati"
+  },
+  {
+   "surface": "מות",
+   "gloss": "urupfu"
+  },
+  {
+   "surface": "יומת",
+   "gloss": "azapfa rwose"
+  }
+ ],
+ "timestamp": "2026-09-07T09:08:09.741558834Z",
+ "model": "glm-5.3"
+}

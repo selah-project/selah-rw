@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze izuba rizira ryinjiye, na we arazimbuka, hanyuma ararya mu byiru; kuko indyo ye ⟨ni⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "rizira ryinjiye"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na we arazimbuka"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "hanyuma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ararya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "byiru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "indyo ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ wo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:05.399483278Z",
+  "model": "glm-5.3"
+}

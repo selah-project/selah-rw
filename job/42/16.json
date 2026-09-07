@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Nyuma y'ibi Iyobu yagumyeho imyaka ijana na mirongo ine, maze abona ⟨את⟩ abahungu be na ⟨את⟩ abahungu b'abahungu be — ibisekuruza bine.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yagumyeho"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mirongo ine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu b'abahungu be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu b'"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bine"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ibisekuruza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:41:04.598221646Z",
+  "model": "glm-5.3"
+}

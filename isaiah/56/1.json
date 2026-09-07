@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Uko Yahwe yavuze ati: Mukurikize ubutabera, mukore ubutunganye; kuko ubokizi bwanjye bugiye kuza, kandi ubutunganye bwanjye bugiye kugaragara.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mukurikize"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ubutunganye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "bugiye kuza"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ubokizi bwanjye"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuza"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ubutunganye bwanjye"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "kugaragara"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:07.939315950Z",
+  "model": "glm-5.3"
+}

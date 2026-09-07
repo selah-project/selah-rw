@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Bazajyana intama zabo n'inka zabo bajya gushakisha ⟨את⟩ Yahwe, ariko ntibazabona; yarahungiye kuri bo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "intama zabo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "n'inka zabo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazajya"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "gushakisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntibazabona"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ntibazabona"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "yarahungiye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:24.448784459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Nzigisha abahemu inzira zawe, kandi abanyabyaha bazagaruka iwawe.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Nzigisha"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "abahemu"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "inzira zawe"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "kandi abanyabyaha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bazagaruka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:46.529395010Z",
+  "model": "glm-5.3"
+}

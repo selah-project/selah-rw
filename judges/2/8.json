@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yehoshuwa mwene Nunu, umukozi wa Yahwe, na none yapfuye afite imyaka ijana n'icumi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "na none yapfuye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umukozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "afite"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "imyaka ijana"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "n'icumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:41.921554480Z",
+  "model": "glm-5.3"
+}

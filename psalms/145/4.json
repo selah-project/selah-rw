@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ikinyuranyo kizasingiza ibikorwa byawe ku kindi kinyuranyo, maze inkwarisho zawe zizamenyekanisha.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Ikinyuranyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ku kindi kinyuranyo"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "kizasingiza"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "maze inkwarisho zawe"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "zizamenyekanisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:27.476976175Z",
+  "model": "glm-5.3"
+}

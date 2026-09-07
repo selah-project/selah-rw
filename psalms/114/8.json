@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 114,
+  "translation": "⟨Uwo⟩ wahinduye urutare mu kiyuzi cy'amazi, urutare rw'akare mu isoko y'amazi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "wahinduye"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "urutare"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "kiyuzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "urutare rw'akare"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "mu isoko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:33.937336149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Bamwise ⟨את⟩ Nefeshi yose iri muri yo bakoresha umumaro, barayirimbuye; nta na kimwe gifite umuhumyi cyagumye, na ⟨את⟩ Hatsori barawotse mu muriro.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Bamwise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bakoresha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umumaro"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "barayirimbuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "cyagumye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "gifite umuhumyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatsori"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsori"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "barawotse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:42.543974334Z",
+  "model": "glm-5.3"
+}

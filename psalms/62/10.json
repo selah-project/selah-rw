@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Ahubwo abana b'abantu ⟨ni⟩ ubusa, n'abana b'abagabo ⟨ni⟩ ubinyoma; iyo bishyizwe mu menzere bazamuka, ari bo hamye ni ubwo ubusa kurusha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ahubwo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ubinyoma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mu menzere"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ari bo"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ubusa kurusha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:01.658820986Z",
+  "model": "glm-5.3"
+}

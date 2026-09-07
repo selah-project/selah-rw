@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Kuko ubuzima bwanjye bwarangiye mu gituntu, n'imyaka yanjye mu kunyura; imbaraga zanjye zarashobotse kubera ibyaha byanjye, n'amagufwa yanjye yaroroye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bwarangiye"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "mu gituntu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "n'imyaka yanjye"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "mu kunyura"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "zarashobotse"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "kubera ibyaha byanjye"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "n'amagufwa yanjye"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "yaroroye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:58.627100430Z",
+  "model": "glm-5.3"
+}

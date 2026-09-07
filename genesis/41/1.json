@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Impera y'imyaka ibiri y'iminsi irangiye, maze Paro yararose; dore yahagaze ku ruzi ⟨Yeoru⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bimaze"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "impera"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "y'imyaka ibiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "y'iminsi"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "maze Paro"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "yararose"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dore"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "uruzi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:19:24.376389551Z",
+  "model": "glm-5.3"
+}

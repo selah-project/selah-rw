@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi niba korubani ye ari mu rwunge rw'amatungo — mu ntama cyangwa mu bihene — ngo yatsekwe olaha ⟨urusengero rwose⟩: ingabo kitagira ikibazo azazanire.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kandi niba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "rwunge rw'amatungo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korubani ye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ntama"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bihene"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ngo yatsekwe olaha ⟨urusengero rwose⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kitagira ikibazo"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "azazanire"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:20.819307266Z",
+  "model": "glm-5.3"
+}

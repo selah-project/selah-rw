@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Barasabiye kuri Yahwe, maze ashyira umwijima hagati yanyu no hagati y'Abanyamitsrayimu, azana ⟨את⟩ inyanja ku bo, arabarakinga; amaso yanyu yabonye ⟨את⟩ ibyo nakoze mu Mitsrayimu; muratura mu ubutayu iminsi myinshi.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Barasabiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashyira"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "hagati yanyu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Abanyamitsrayimu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "abarakinga"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amaso yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "muratura"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu ubutayu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "myinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:22.226793132Z",
+  "model": "glm-5.3"
+}

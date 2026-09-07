@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kandi buri rwambaro na buri ruhu ibiri hasohokamo intanga, buri kimwe kirakesha mu mazi, kikaba ⟨igidende⟩ kugeza nimugoroba.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kandi buri"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "rwambaro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ruhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hasohokamo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "isohoka ry'"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "intanga"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "kirakesha"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "kikaba igidende"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nimugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:45:49.230512710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umutungo w'umukungu ni igisagara cye cy'ingufu, uburimbazi bw'abakene ni ubukene bwabo.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Umutungo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "w'umukungu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "igisagara"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "cy'ingufu cye"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "uburimbazi"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "bw'abakene"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ubukene bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:40.051714417Z",
+  "model": "glm-5.3"
+}

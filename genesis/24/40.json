@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 24:40",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Naza mbwira nti: Yahwe, amo njye ndimo ngenda imbere ye, azohereza intumwa ye ⟨את⟩ nawe, akazatunganya inzira yawe, maze uzatore umugore ku mwana wanje mu muryango wanje no mu nzu ya data.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naza mbwira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amo"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "njye ndimo ngenda"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "מלאכו",
+      "gloss": "intumwa ye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "uri kumwe nawe"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "akazatunganya"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "maze uzatore"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku mwana wanje"
+    },
+    {
+      "surface": "ממשפחתי",
+      "gloss": "mu muryango wanje"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "no mu nzu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya data"
+    }
+  ],
+  "timestamp": "2026-09-07T07:55:46.187278790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ku mutwazi w'indirimbo, ku bana ba Korahi, indirimbo y'inyigisho (maskili).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mutwazi w'indirimbo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "indirimbo y'inyigisho (maskili)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.395438839Z",
+  "model": "glm-5.3"
+}

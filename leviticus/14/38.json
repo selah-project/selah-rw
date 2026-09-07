@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "maze kohenu ava mu nzu ajya ku muryango w'inzu, maze afunga ⟨את⟩ inzu iminsi irindwi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "maze kohenu ava"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muryango"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "maze afunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:28.185676809Z",
+  "model": "glm-5.3"
+}

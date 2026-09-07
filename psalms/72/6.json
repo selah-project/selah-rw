@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 72:6",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 72,
+ "translation": "Azamanuka nk'imvura ku byatsi byahinduwe, nk'imvya nyinshi isukira isi.",
+ "tokens": [
+  {
+   "surface": "ירד",
+   "gloss": "azamanuka"
+  },
+  {
+   "surface": "כמטר",
+   "gloss": "nk'imvura"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "גז",
+   "gloss": "byatsi byahinduwe"
+  },
+  {
+   "surface": "כרביבים",
+   "gloss": "nk'imvya nyinshi"
+  },
+  {
+   "surface": "זרזיף",
+   "gloss": "isukira"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "isi"
+  }
+ ],
+ "timestamp": "2026-09-07T22:32:37.809205607Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Mahoro ku bakurikiza ubutabera, bakora gukiranura buri gihe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahoro"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ku bakurikiza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "gukiranura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:07.453625615Z",
+  "model": "glm-5.3"
+}

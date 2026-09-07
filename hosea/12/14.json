@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kuri umuhanuzi Yahwe yazamuye ⟨את⟩ Yisraeli mu Mitsrayimu, no kuri umuhanuzi yarindwe.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "kuri umuhanuzi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "no kuri umuhanuzi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "yarindwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:23.284082428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Abanshikira banjye n'abansi banjye ni benshi; ariko ntiyigeze nainge ku byemezo byawe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abanshikira banjye"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "n'abansi banjye"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "ku byemezo byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "sinigeze nainge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:44.322886463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Nanjye narabatoye, nanakomeye amaboko yabo, ariko kuri jye baratekereza ibibi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nanjye"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "narabatoye"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "nanakomeye"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "amaboko yabo"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "baratekereza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:59.990660094Z",
+  "model": "glm-5.3"
+}

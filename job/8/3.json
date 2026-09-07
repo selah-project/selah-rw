@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Hashoboka ko Eli asambanyira urubanza? Cyangwa ko Shadayi (Ushoborabyose) asambanyira ubutabera?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "asambanyira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa ko"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "asambanyira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutabera"
+    }
+  ],
+  "timestamp": "2026-09-07T19:21:35.091390709Z",
+  "model": "glm-5.3"
+}

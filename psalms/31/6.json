@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Mu ntoki zawe ndashyira umwuka wanjye; wansohoye ⟨את⟩ njye, Yahwe, Eli w'ukuri.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ndashyira"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "wansohoye"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "w'ukuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:27.807781142Z",
+  "model": "glm-5.3"
+}

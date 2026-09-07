@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Mu gihe Samuweli yazamuye igicaniro, Abafilisiti bageze ku rugamba ku Yisraeli; maze Yahwe yarakubise inkuba n'ijwi rihanitse ku munsi uwo ku Abafilisiti, arabahamye, baratsindwa imbere ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweli"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "yazamuye"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "bageze"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku rugamba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ku Yisraeli"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "yarakubise inkuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'ijwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rihanitse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "arabahamye"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "baratsindwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:01.574043929Z",
+  "model": "glm-5.3"
+}

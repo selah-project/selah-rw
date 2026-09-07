@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Cumi na tan amaboko hejuru ni ho amazi yarongeye, maze yishe imisozi.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "yarongeye"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "maze yishe"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "imisozi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:20.538201007Z",
+  "model": "glm-5.3"
+}

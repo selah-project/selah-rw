@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Dawidi yongeye kongera ⟨את⟩ abatoranwa bose mu Yisraeli — ibihumbi mirongo itatu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yongeye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kongera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abatoranwa bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "abatoranwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n'amabihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:33:06.579113131Z",
+  "model": "glm-5.3"
+}

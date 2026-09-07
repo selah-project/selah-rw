@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kandi iyo mutitaza amategeko yanjye, kandi iyo nefeshi yanyu yankanira ⟨את⟩ imanza yanjye, mu kubirekaho gukora ⟨את⟩ amabwiriza yanjye yose, mu guca ⟨את⟩ Beriti yanjye ⟨isezerano⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "mutitaza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imanza yanjye"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imanza yanjye"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "yankanira"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nefeshi yanyu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mu kubirekaho"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza yanjye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amabwiriza yanjye"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "mu guca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beriti yanjye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beriti yanjye ⟨isezerano⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:10.941566896Z",
+  "model": "glm-5.3"
+}

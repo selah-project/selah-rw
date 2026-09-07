@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze umwami yabasubije gikomeye, maze umwami Rehavamu yareka ⟨את⟩ inama y'abakuru.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "yabasubije"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gikomeye"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "yareka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inama y'abakuru"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "inama"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "y'abakuru"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:42.484281676Z",
+  "model": "glm-5.3"
+}

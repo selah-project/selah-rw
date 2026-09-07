@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ijwi ryanjye rijya kwa Elohimu, kandi ndarira; ijwi ryanjye rijya kwa Elohimu, kandi aratega ugutwi ku iwanjye.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "kandi ndarira"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "kandi aratega ugutwi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ku iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:16.661400891Z",
+  "model": "glm-5.3"
+}

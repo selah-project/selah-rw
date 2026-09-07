@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yababwiye nk'inama y'abato, ati: Se wanjye yaremereye ⟨את⟩ urubariro rwanyu, njye nzongera ku murubariro wanyu; se wanjye yahanuye ⟨את⟩ mwe n'amaboko, njye ndaza kubahanisha ⟨את⟩ mwe n'iskoropiyoni.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yababwiye"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bati (kuri bo)"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "nk'inama"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "y'abato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "yaremereye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubariro rwanyu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "urubariro rwanyu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "nzongera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "murubariro wanyu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "yahanuye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "n'amaboko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndaza kubahanisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "n'iskoropiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:07.019062615Z",
+  "model": "glm-5.3"
+}

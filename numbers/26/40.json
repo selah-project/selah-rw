@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abahungu ba Bela bari Arudi na Naamani; kwa Arudi, umuryango wa Arudayi; kwa Naamani, umuryango wa Naamanayi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Arudi"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "na Naamani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Arudayi"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "kwa Naamani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Naamanayi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:32.473903505Z",
+  "model": "glm-5.3"
+}

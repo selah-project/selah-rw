@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze ababori baza baramanyakira; Moshe azamuka arabakiza, aranashyiririsha amazi ⟨את⟩ intama zabo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ababori"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "baramanyakira"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "arabakiza"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "aranashyiririsha amazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "intama zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:33:11.630315717Z",
+  "model": "glm-5.3"
+}

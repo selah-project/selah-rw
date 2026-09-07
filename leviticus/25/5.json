@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "⟨את⟩ ibyatsi bikurikira ku bw'umusaruro wawe ntubibaze, na ⟨את⟩ imizabibu y'umurima wawe udasaruje ntuyibaze; umwaka wa Shabatoni uzaba ⟨ni⟩ uw'ubutaka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyatsi bikurikira"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ibyatsi bikurikira"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ku bw'umusaruro wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "-bibaze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imizabibu"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "imizabibu ya"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "umurima wawe udasaruje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "-yibaze"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umwaka wa"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabatoni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzaba ⟨ni⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "uw'ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:00.787118340Z",
+  "model": "glm-5.3"
+}

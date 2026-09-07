@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kuri ejo hazaza, iyo umwana wawe kukubaza ati: Ni iki ibyemejwe, n'ibyifatizo, n'ibyahanwe Yahwe Elohimu wacu yategetse ⟨את⟩ mwebwe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "kukubaza"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umwana wawe"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Kuri ejo hazaza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ibyemejwe"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "n'ibyifatizo"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "n'ibyahanwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:50:08.313107309Z",
+  "model": "glm-5.3"
+}

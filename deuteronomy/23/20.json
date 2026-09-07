@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntuzaha umuvandimwe wawe inyungu — inyungu y'ifeza, inyungu y'ibiribwa, inyungu ya buri kintu cyatangwaho inyungu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "zaha inyungu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "umuvandimwe wawe"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "y'ibiribwa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inyungu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya buri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kintu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "cyatangwaho inyungu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:45.264875343Z",
+  "model": "glm-5.3"
+}

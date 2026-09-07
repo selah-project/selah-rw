@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yashyizeho umuhamya i Yaakovu, na Tora ashize mu Yisraeli, ibye yategetse ⟨את⟩ abakurambere bacu, ngo babimenyeshe abana babo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yashyizeho"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "umuhamya"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Yaakovu"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "na Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakurambere bacu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ngo babimenyeshe"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "abana babo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:06.645130805Z",
+  "model": "glm-5.3"
+}

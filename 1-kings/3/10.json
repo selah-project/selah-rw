@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ijambo ryo rari ribyiza mu maso ya Adonayi, ko Shelomo yasabye ⟨את⟩ ijambo ryo.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "byari byiza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo ryo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo ryo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "riyo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:32.797230070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Intama n'inka, zose, ndetse n'inyamaswa z'ishyamba;",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Intama"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "n'inka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zose"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "z'ishyamba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:29.597334021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Koko umuntu uwo ari we wose avuma ⟨את⟩ se na ⟨את⟩ nyina, urupfu azapfiswa ⟨ni⟩ uko: se na nyina yabivumye; amaraso ye aribe kuri we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uwo ari we wose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "avuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azapfiswa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na nyina"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "yabivumye"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "amaraso ye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:36.235657767Z",
+  "model": "glm-5.3"
+}

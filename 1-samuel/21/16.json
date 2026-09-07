@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Mbura abasazi jye, ko mwazanye ⟨את⟩ uwu kugira yigire umusazi imbere yanjye? Uwu araza mu inzu yanjye?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Mbura"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "abasazi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "mwazanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "kugira yigire umusazi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Uwu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "araza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "inzu yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:55.254453716Z",
+  "model": "glm-5.3"
+}

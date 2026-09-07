@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Ndaguhamagara, ariko ntunditaba; ndahagaze, ariko unyereba.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ndaguhamagara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "nditaba"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ndahagaze"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "unyereba"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T19:35:27.627789998Z",
+  "model": "glm-5.3"
+}

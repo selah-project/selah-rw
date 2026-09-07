@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "2-chronicles 3:10",
+ "book": "2-chronicles",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Maze mu nzu y'ubutagatifu bw'ibitagatifu yakoreye kerubimu ebyiri, igikorwa cy'ibishusho, maze barazishyirirwaho ⟨את⟩ bo zahabu.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "Maze yakoreye"
+  },
+  {
+   "surface": "בבית",
+   "gloss": "mu nzu"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "y'ubutagatifu"
+  },
+  {
+   "surface": "הקדשים",
+   "gloss": "bw'ibitagatifu"
+  },
+  {
+   "surface": "כרובים",
+   "gloss": "kerubimu"
+  },
+  {
+   "surface": "שנים",
+   "gloss": "ebyiri"
+  },
+  {
+   "surface": "מעשה",
+   "gloss": "igikorwa"
+  },
+  {
+   "surface": "צעצעים",
+   "gloss": "cy'ibishusho"
+  },
+  {
+   "surface": "ויצפו",
+   "gloss": "maze barazishyirirwaho"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "kerubimu"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "zahabu"
+  }
+ ],
+ "timestamp": "2026-09-07T20:48:05.774530700Z",
+ "model": "glm-5.3"
+}

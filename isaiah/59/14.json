@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ubutabera bwarungiwe inyuma, ubutunganye buhagaze kure; kuko ukuri kwananirwa mu muhana, kandi ubungane ntibushobora kwinjira.",
+  "tokens": [
+    {
+      "surface": "והסג",
+      "gloss": "bwarungiwe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ubutunganye"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "buhagaze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "kwananirwa"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "mu muhana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "ubungane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "-shobora"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwinjira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:41:16.280922012Z",
+  "model": "glm-5.3"
+}

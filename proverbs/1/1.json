@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Imigani ya Shelomo (Salomo), umwana wa Dawidi, umwami w'Yisraeli (Isirayeli):",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "imigani"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:06.920498521Z",
+  "model": "glm-5.3"
+}

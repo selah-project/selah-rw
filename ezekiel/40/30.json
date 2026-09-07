@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ibisenge ku mpande zose: urebure amafe makumyabiri na tanu, mu bugari amafe tanu.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ibisenge"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zose"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urebure"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tanu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makumyabiri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amafe"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mu bugari"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amafe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:10.113013026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze yatambitse anakunyuza ubani ku nkombe z'ibitambo, no ku misozi, no munsi y'igiti cyose cyibisi.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "yatambitse"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "anakunyuza ubani"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ku nkombe z'ibitambo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "misozi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "no munsi ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "y'igiti"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "cyibisi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:27:01.686335385Z",
+  "model": "glm-5.3"
+}

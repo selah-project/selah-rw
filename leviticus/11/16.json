@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ Batu ya Yaanahu, na ⟨את⟩ Tahumasi, na ⟨את⟩ Shahafu, na ⟨את⟩ Netsi, uko bwoko bwayo bwose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Batu ya Yaanahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Batu"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ya Yaanahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tahumasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahumasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shahafu"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shahafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Netsi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Netsi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "uko bwoko bwayo bwose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:19.786164617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Amaso yawe azareba umwami mu bwiza bwe; azabona igihugu cya kure cyane.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "mu bwiza bwe"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "azareba"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "azabona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "cya kure cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T15:05:09.355735535Z",
+  "model": "glm-5.3"
+}

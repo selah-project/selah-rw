@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Nzamama ku nzu yera yawe, maze nkagushima ⟨את⟩ izina ryawe ku bw'hesedi yawe no ku bw'ukuri kwawe; kuko ijambo ryawe wagize nkuru hejuru y'izina ryawe byose.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Nzamama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "inzu yera"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yerawe (ubutagatifu bwawe)"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "maze nkagushima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina ryawe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku bw'"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ukuri kwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "wagize nkuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:09.691013725Z",
+  "model": "glm-5.3"
+}

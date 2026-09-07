@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Kandi ⟨את⟩ inyama y'inka na ⟨את⟩ uruhu rwayo na ⟨את⟩ byo yasohoye uzaziteka mu muriro hanze y'ikambi; icyaha ni cyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyama y'inka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "y'inka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhu rwayo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "uruhu rwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byo yasohoye"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "byo yasohoye"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "uzaziteka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'ikambi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:58.237097665Z",
+  "model": "glm-5.3"
+}

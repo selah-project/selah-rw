@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Abami bose bazubamira iwe, amahanga yose na bamukorera.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "bazubamira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "na bamukorera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:22.167119789Z",
+  "model": "glm-5.3"
+}

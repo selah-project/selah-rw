@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "2-kings 14:20",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Baramwibikiye ⟨את⟩ we ku mafarashi, arazikwa i Yerushalayimu hamwe n'abakurambere be mu mujyi wa Dawidi.",
+ "tokens": [
+  {
+   "surface": "וישאו",
+   "gloss": "baramwibikiye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "we (Amatsiyahu)"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "הסוסים",
+   "gloss": "amafarashi"
+  },
+  {
+   "surface": "ויקבר",
+   "gloss": "arazikwa"
+  },
+  {
+   "surface": "בירושלם",
+   "gloss": "i Yerushalayimu"
+  },
+  {
+   "surface": "עם",
+   "gloss": "hamwe na"
+  },
+  {
+   "surface": "אבתיו",
+   "gloss": "abakurambere be"
+  },
+  {
+   "surface": "בעיר",
+   "gloss": "mu mujyi"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawidi"
+  }
+ ],
+ "timestamp": "2026-09-07T21:38:04.235635274Z",
+ "model": "glm-5.3"
+}

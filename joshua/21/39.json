@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Heshiboni na ⟨את⟩ ubwatsi bwayo, ⟨את⟩ Yazeyiri na ⟨את⟩ ubwatsi bwayo — muri byose imigi ine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshiboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshiboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwatsi bwayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ubwatsi bwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazeyiri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeyiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwatsi bwayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ubwatsi bwayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "muri byose"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:21.069130924Z",
+  "model": "glm-5.3"
+}

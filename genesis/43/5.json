@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Kandi iyo utwo wohoherereza ⟨את⟩ umusore, ntiduzimanha; kuko umuntu yabwira twe ati: Ntimuzabona uburore bwanjye, keretse umuvandimwe wanyu ari ⟨את⟩ kumwe nanyu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "utwo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wohoherereza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "tuzimanha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwira"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "muzabona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburore"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "keretse"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umuvandimwe wanyu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kumwe nanyu",
+      "marks": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:25:24.212585918Z",
+  "model": "glm-5.3"
+}

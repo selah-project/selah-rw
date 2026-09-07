@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umugore yafashe ⟨את⟩ abagabo babiri, abahishe, maze aravuga ati: Ni ko, abagabo baje iwanjye, ariko sinzi aho bakomoka.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo babiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "abahishe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baje"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sinzi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "aho bakomoka"
+    },
+    {
+      "surface": "המה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T11:25:15.134186320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "numbers 8:15",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": " Nyuma y'ibyo Abalevi bazinjira bakora umurimo w'⟨את⟩ ihema ry'itanganiriro, maze uzayisukura, maze uzazungusha ⟨את⟩ bo nk'impanuro ya kuzungusha.",
+ "tokens": [
+  {
+   "surface": "ואחרי",
+   "gloss": "nyuma"
+  },
+  {
+   "surface": "כן",
+   "gloss": "y'ibyo"
+  },
+  {
+   "surface": "יבאו",
+   "gloss": "bazinjira"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "Abalevi"
+  },
+  {
+   "surface": "לעבד",
+   "gloss": "bakora umurimo wa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ihema ry'itanganiriro"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "ihema"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "ry'itanganiriro"
+  },
+  {
+   "surface": "וטהרת",
+   "gloss": "maze uzayisukura"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "Abalevi"
+  },
+  {
+   "surface": "והנפת",
+   "gloss": "maze uzazungusha"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "Abalevi"
+  },
+  {
+   "surface": "תנופה",
+   "gloss": "impanuro ya kuzungusha (tenufa)"
+  }
+ ],
+ "timestamp": "2026-09-07T10:09:43.106609679Z",
+ "model": "glm-5.3"
+}

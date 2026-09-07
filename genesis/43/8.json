@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Yehudahu aravuga na Yisraeli se we, ati: Ohereza umusore ⟨את⟩ kumwe nanjye, maze tuzamuke tugende, tubeho ntitupfe — twe, na wowe na abana bacu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umusore"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kumwe nanjye",
+      "marks": "umusore"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "tuzamuke"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tugende"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "tubeho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "tupfe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "abana bacu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:25:24.214796436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "psalms 107:18",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 107,
+ "translation": "Nefeshi yabo yakangiye byose biryo, maze bageze kugeza ku milango y'urupfu.",
+ "tokens": [
+  {
+   "surface": "כל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "אכל",
+   "gloss": "biryo"
+  },
+  {
+   "surface": "תתעב",
+   "gloss": "yakangiye"
+  },
+  {
+   "surface": "נפשם",
+   "gloss": "Nefeshi yabo"
+  },
+  {
+   "surface": "ויגיעו",
+   "gloss": "maze bageze"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "שערי",
+   "gloss": "ku milango"
+  },
+  {
+   "surface": "מות",
+   "gloss": "y'urupfu"
+  }
+ ],
+ "timestamp": "2026-09-07T21:58:07.180595294Z",
+ "model": "glm-5.3"
+}

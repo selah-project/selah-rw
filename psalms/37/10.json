@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Kandi none hari gato, umwangiza nta ho ari; urebye neza ahantu yiwe, ntibiba aho.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Kandi none"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hari gato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta ho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangiza"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "urebye neza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ahantu yiwe"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ntibiba aho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:01.776596677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Vana mu maso y'umujijuke, kandi ntuzamenye iminwa y'ubumenyi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "y'umujijuke (w'…)"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "umujijuke"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "-zamenye"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "iminwa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "y'ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:31.357665501Z",
+  "model": "glm-5.3"
+}

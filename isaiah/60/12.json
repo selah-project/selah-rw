@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Kuko igihugu n'ubwami ibida bikugaragira bizahita; n'ibihugu bizazirikana burundu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "n'ubwami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bida"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "bikugaragira"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bizahita"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "n'ibihugu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "byuzura"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "bizazirikana"
+    }
+  ],
+  "timestamp": "2026-09-07T15:30:33.456494166Z",
+  "model": "glm-5.3"
+}

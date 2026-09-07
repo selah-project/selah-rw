@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Iwawe, wowe ubusa, nahanye, nakoze ibibi mu maso yawe; kugira ngo ube intunganye mu majwi yawe, ube nta cyaha mu rubanza rwawe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Iwawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wowe ubusa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nahanye"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "nakoze ibibi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ube intunganye"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mu majwi yawe"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ube nta cyaha"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "mu rubanza rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:27.595995995Z",
+  "model": "glm-5.3"
+}

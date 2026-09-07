@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Abavandimwe be barimo kumwishimira; aho se we yarabibitsi ⟨את⟩ ijambo.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "barimo kumwishimira"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "aho se we"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yarabibitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:16.440425149Z",
+  "model": "glm-5.3"
+}

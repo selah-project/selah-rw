@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Paro yabonye ko hari ihumure, aremereje ⟨את⟩ umutima we, ntiyumvise iyo — uko Yahwe yari yabivuze.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ihumure"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "aremereje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima we"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabivuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:09.434640446Z",
+  "model": "glm-5.3"
+}

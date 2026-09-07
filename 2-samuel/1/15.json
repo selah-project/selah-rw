@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dawidi yahamagaye umwe mu basore, maze aravuga ati: Yegera, umukoreho. Na we aramwiteye, maze apfa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "mu basore"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "גש",
+      "gloss": "yegera"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "umukoreho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "aramwiteye"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "apfa"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:51.854978458Z",
+  "model": "glm-5.3"
+}

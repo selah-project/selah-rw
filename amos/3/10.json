@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi ntibazi gukora ibitunganye, ni ukuvuga kwa Yahwe — abitunga ubugome n'ubujurire mu magomero yabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi ntibazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ibitunganye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ni ukuvuga kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "abitunga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubugome"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "n'ubujurire"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "mu magomero yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:55.720437599Z",
+  "model": "glm-5.3"
+}

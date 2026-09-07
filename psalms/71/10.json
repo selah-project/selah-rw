@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Kuko banzi banjye baravuze kunjye; n'abakereye nefeshi yanjye barafatanije umugambi hamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banzi banjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kunjye"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "n'abakereye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "barafatanije umugambi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:53.795057306Z",
+  "model": "glm-5.3"
+}

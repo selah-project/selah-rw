@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 34,
+ "ref": "leviticus 19:34",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 19,
+ "translation": "Nka uwavukiyi muri mwe azaba kuri mwe umunyamahanga utuye ⟨את⟩ mwe; kandi uramukunde we nka wowe ubwawe, kuko mwari abanyamahanga mu gihugu cya Mitsrayimu — njye ndi Yahwe, Elohimu wanyu.",
+ "tokens": [
+  {
+   "surface": "כאזרח",
+   "gloss": "Nka uwavukiyi"
+  },
+  {
+   "surface": "מכם",
+   "gloss": "muri mwe"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "azaba"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "kuri mwe"
+  },
+  {
+   "surface": "הגר",
+   "gloss": "umunyamahanga"
+  },
+  {
+   "surface": "הגר",
+   "gloss": "utuye"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "utuye (umunyamahanga utuye iyo)"
+  },
+  {
+   "surface": "ואהבת",
+   "gloss": "kandi uramukunde"
+  },
+  {
+   "surface": "לו",
+   "gloss": "we"
+  },
+  {
+   "surface": "כמוך",
+   "gloss": "nka wowe ubwawe"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "גרים",
+   "gloss": "abanyamahanga"
+  },
+  {
+   "surface": "הייתם",
+   "gloss": "mwari"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "mu gihugu"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "cya Mitsrayimu"
+  },
+  {
+   "surface": "אני",
+   "gloss": "njye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimu wanyu"
+  }
+ ],
+ "timestamp": "2026-09-07T21:17:49.433499195Z",
+ "model": "glm-5.3"
+}

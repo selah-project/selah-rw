@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi bazizinga muri wowe bazi izina ryawe, ko ntwarashyize ku ruhande abakurondera, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "bazizinga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "warashyize ku ruhande"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "abakurondera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:39.699172799Z",
+  "model": "glm-5.3"
+}

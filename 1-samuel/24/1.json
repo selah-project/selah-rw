@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Dawidi yazamukiye avuye aho, aratura mu bitare by'Eyni Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yazamukiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avuye aho"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aratura"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "mu bitare"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eyni"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:48:59.860213015Z",
+  "model": "glm-5.3"
+}

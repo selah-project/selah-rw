@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Moshe aravuga ati: Nimurye uyu munsi, kuko uyu munsi Shabati ⟨ni⟩ kwa Yahwe; uyu munsi ntimumushobora kubona mu murima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze aravuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Nimurye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "mushobora kubona"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:55.049647436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Arufakashadi abaho imyaka itanu na mirongo itatu, maze yabyaye ⟨את⟩ Shelah.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Maze Arufakashadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "abaho"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:39.054211072Z",
+  "model": "glm-5.3"
+}

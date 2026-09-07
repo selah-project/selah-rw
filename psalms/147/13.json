@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Kuko yaniniye amanaza y'umuryango wawe, yagiriye imigisha abana bawe mu bugari bwawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yaniniye"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "amanaza"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "y'umuryango wawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yagiriye imigisha"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abana bawe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mu bugari bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:19.990727941Z",
+  "model": "glm-5.3"
+}

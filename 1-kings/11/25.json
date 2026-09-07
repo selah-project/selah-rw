@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yari umwanzi wa Yisraeli mu minsi yose ya Shelomo, hamwe na ⟨את⟩ ububi bwa Hadadi; yarakangutse n'Yisraeli, maze ateka mu Aramu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yari"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ububi bwa Hadadi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "yarakangutse"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "n'Yisraeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ateka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:03.210584610Z",
+  "model": "glm-5.3"
+}

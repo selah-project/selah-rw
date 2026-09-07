@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Na bo ntibazi ko Yosefu yumva, ko umuhinduzi ari hagati yabo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "umuhinduzi"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "hagati yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:29.572134951Z",
+  "model": "glm-5.3"
+}

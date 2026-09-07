@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Cheremu cyose cyibwirijwe mu bantu nticyatizwa; urupfa azarupfa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Cheremu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyibwirijwe"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "cyibwirijwe ⟨cy'ibwiriza⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "cyatizwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azarupfa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:56:18.730833103Z",
+  "model": "glm-5.3"
+}

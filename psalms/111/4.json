@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Urwibutso yakoze rw'ibitangaza bye; Yahwe ⟨ni⟩ umunyababazi kandi umunyampuhwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Urwibutso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "rw'ibitangaza bye"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "umunyababazi"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "kandi umunyampuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:11.554537457Z",
+  "model": "glm-5.3"
+}

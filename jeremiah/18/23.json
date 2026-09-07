@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 18:23",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ariko wowe, Yahwe, umenya ⟨את⟩ inama yabo yose yo kunicisha urupfu kurwanya; ntuzishyireho ibyaha byabo, kandi ibicumuro byabo ntuzasibe kure y'imbere yawe; ahubwo bame barundutse imbere yawe, mu gihe cy'uburakari bwawe ukore kuri bo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inama yabo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עצתם",
+      "gloss": "inama yabo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kurwanya"
+    },
+    {
+      "surface": "למות",
+      "gloss": "yo kunicisha urupfu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "zishyireho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ibyaha byabo"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "n'ibicumuro byabo"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "kure y'imbere yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תמחי",
+      "gloss": "zasibe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ahubwo bame"
+    },
+    {
+      "surface": "מכשלים",
+      "gloss": "barundutse"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cy'uburakari bwawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:58:50.833818043Z",
+  "model": "glm-5.3"
+}

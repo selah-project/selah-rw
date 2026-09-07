@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Shauli na we yasukuye ⟨את⟩ icumu aravuga ati: Nakubita Dawidi ngo ame ku rwambi. Maze Dawidi yihungiye ku maso ye inshuro ebyiri.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "yasukuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icumu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "icumu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Nakubita"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "ngo ame ku rwambi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yihungiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ku maso ye"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "inshuro ebyiri"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:34.651222111Z",
+  "model": "glm-5.3"
+}

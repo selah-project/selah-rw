@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "N'uko yakoze ku bagore be bose bo mu mahanga, batambira batwikira ubani, bakorera imana zabo.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "N'uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku... bose"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bagore be"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "bo mu mahanga"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "batwikira ubani"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "bakorera"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "imana zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:45:52.292246526Z",
+  "model": "glm-5.3"
+}

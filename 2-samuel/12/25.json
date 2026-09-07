@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze ⟨we⟩ yatumye mu ntoki za Natani (navi, umuhanuzi), maze yahise yita ⟨את⟩ izina rye Yedidyah (yakundwa na Yahwe), kubw'impamvu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yatumye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi (umuhanuzi)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yahise yita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah (yakundwa na Yahwe)"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kubw'impamvu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:00.743536617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yagishijwe wowe mu kwinjira kwawe, yagishijwe n'wowe mu gusohoka kwawe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yagishijwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "mu kwinjira kwawe"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "yagishijwe n'"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mu gusohoka kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:13:12.226657689Z",
+  "model": "glm-5.3"
+}

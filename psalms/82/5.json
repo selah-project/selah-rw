@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Ntibazi, kandi ntibasobanukirwa; mu mwijima baragenda; imishingi yose y'isi izatereranka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "basobanukirwa"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "baragenda"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "izatereranka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "imishingi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:31.210560171Z",
+  "model": "glm-5.3"
+}

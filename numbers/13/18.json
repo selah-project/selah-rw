@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "murebe ⟨את⟩ igihugu icyo ari cyo, na ⟨את⟩ abantu batuye ho — ni abanyamaboko cyangwa abanyakenge? Ni bake cyangwa benshi?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo ari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu batuye ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "abanyamaboko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "abanyakenge"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "bake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "benshi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:14:56.628828742Z",
+  "model": "glm-5.3"
+}

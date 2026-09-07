@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze Yahwe azabahe imbere yanyu, kandi muzabakorere uko mu itegeko ryose ndabategekanije ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "azabahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muzabakorere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko mu byose"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "itegeko ryose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndabategekanije"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:07.126751769Z",
+  "model": "glm-5.3"
+}

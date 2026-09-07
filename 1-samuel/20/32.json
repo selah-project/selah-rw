@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yehonatani na we yishuye ⟨את⟩ Shauli se, maze aramubwira ati: Kuki yagombwa kwicwa? Iki cyakoze?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na we yishuye"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yagombwa kwicwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cyakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T12:42:55.161523814Z",
+  "model": "glm-5.3"
+}

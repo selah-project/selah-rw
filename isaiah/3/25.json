@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "isaiah 3:25",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Abagabo bawe bazagwa bishwe n'icyo aryo, n'ubuhanga bawe mu ntambara.",
+ "tokens": [
+  {
+   "surface": "מתיך",
+   "gloss": "abagabo bawe"
+  },
+  {
+   "surface": "בחרב",
+   "gloss": "bishwe n'icyo aryo"
+  },
+  {
+   "surface": "יפלו",
+   "gloss": "bazagwa"
+  },
+  {
+   "surface": "וגבורתך",
+   "gloss": "n'ubuhanga bawe"
+  },
+  {
+   "surface": "במלחמה",
+   "gloss": "mu ntambara"
+  }
+ ],
+ "timestamp": "2026-09-07T14:40:20.572364556Z",
+ "model": "glm-5.3"
+}

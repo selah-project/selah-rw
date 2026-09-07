@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze abakuru b'Yisraeli bose baraza, n'Abalevi batwita ⟨את⟩ Sanduku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baraza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru b'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "batwita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Sanduku"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:26.084536729Z",
+  "model": "glm-5.3"
+}

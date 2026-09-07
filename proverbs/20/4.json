@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kubera icyo gihe cy'ubukonje umunyantege nke natahinga; azasaba mu gihe cy'umusaruro, ariko nta na kimwe.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Kubera icyo gihe cy'ubukonje"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "umunyantege nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "tahinga"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "azasaba"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "mu gihe cy'umusaruro"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ariko nta na kimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:24.167082954Z",
+  "model": "glm-5.3"
+}

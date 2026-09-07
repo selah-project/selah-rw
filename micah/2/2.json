@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Barishima imirima bayatura, n'amazu bayafata; barasa umugabo n'inzu ye, umuntu n'umurage we.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Barishima"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "imirima"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "bayatura"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "n'amazu"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "bayafata"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "barasa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "n'inzu ye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "n'umurage we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:52:16.997812203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Hesedi yawe, Yahwe, yuzuye isi; unyigishe amategeko yawe.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "unyigishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:56.521245991Z",
+  "model": "glm-5.3"
+}

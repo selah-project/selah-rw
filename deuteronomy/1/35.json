@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nta na umuntu umwe mu bantu aba, mu ibisekuruza bibi uyu, uzabona ⟨את⟩ isi nziza iyo ndahiye ⟨ngo ndembe⟩ ababyeyi banyu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nta na"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "azabona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu umwe"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "mu ibisekuruza"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndahiye"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo ndembe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ababyeyi banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:45:01.297350041Z",
+  "model": "glm-5.3"
+}

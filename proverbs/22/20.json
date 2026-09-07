@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ese nandikiye ku wowe ⟨inshuro eshatu⟩ mu nama n'ubumenyi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "nandikiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "inshuro eshatu"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "mu nama"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "n'ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:12:11.297780429Z",
+  "model": "glm-5.3"
+}

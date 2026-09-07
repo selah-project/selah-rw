@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Icumbuko riri kure y'ababi, kuko amategeko yawe batayasabye.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "y'ababi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Icumbuko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "batayasabye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:21.847526230Z",
+  "model": "glm-5.3"
+}

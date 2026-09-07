@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Utwazi w'ibikoresho bye yarabonye ko Shauli yapfuye, maze na we yaguye ku cyohe, nawe yapfuye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "utwazi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho bye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yaguye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "icyohe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:10.556672404Z",
+  "model": "glm-5.3"
+}

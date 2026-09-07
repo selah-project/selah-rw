@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yaguye ku birenge yiwe, aravuga ati: Ndagusabye, njye, shebuja wanjye, icyaha ⟨kiribe⟩ kuri njye; umujakazi wawe na avuge mu matwi yawe, maze umve ⟨את⟩ amagambo y'umujakazi wawe.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "yaguye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "birenge yiwe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndagusabye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "העון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "umujakazi wawe avuge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "umujakazi wawe"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "mu matwi yawe"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "maze umve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "umujakazi wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:47:23.065819095Z",
+  "model": "glm-5.3"
+}

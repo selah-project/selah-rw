@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "ijisho mu mwanya w'ijisho, iryinyo mu mwanya w'iryinyo, ukuboko mu mwanya w'ukuboko, ukuguru mu mwanya w'ukuguru.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya w'"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iryinyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya w'"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iryinyo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya w'"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukuguru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya w'"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukuguru"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:38.094001400Z",
+  "model": "glm-5.3"
+}

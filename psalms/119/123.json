@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Amaso yanjye yashize ⟨no kwitegerea⟩ ugukiza kwawe, n'ijambo ry'ubutungane bwawe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amaso yanjye"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yashize ⟨no kwitegerea⟩"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ugukiza kwawe"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "n'ijambo ry'"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ubutungane bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:51.429062834Z",
+  "model": "glm-5.3"
+}

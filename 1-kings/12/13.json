@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze umwami yabyanze ⟨את⟩ abantu ikibi, arabireka ⟨את⟩ inama y'abazehe bamuhanuye.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yabyanze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "arabireka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inama"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "inama"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "y'abazehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "bamuhanuye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:07.018607282Z",
+  "model": "glm-5.3"
+}

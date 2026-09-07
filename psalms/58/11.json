@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Uwugira ubutaha azishima ko abonye igihano; amaguru ye azayogesha mu maraso y'inkozi z'ibibi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "azishima"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "uwugira ubutaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "abonye"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "amaguru ye"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "azayogesha"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "y'inkozi z'ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:43.863266258Z",
+  "model": "glm-5.3"
+}

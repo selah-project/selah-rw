@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abahungu b'abahungu ni ikamba ry'abakuru bakuze; kandi ubwiza bw'abahungu ni ababyeyi babo.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ikamba"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ry'abakuru bakuze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abahungu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "kandi ubwiza"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bw'abahungu"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ni ababyeyi babo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:30.151213630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe Elohimu yafashe ⟨את⟩ umuntu, amushyira mu busitani wa Edeni, kuyamura ⟨no⟩ kurinda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "amushyira"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mu busitani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "kuyamura"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "no kurinda"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.543300781Z",
+  "model": "glm-5.3"
+}

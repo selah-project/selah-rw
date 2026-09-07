@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Avrahamu yakijije mu gitondo ku mwanya aho yagize ariho ⟨את⟩ imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yakijije"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yagize ariho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ariho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere ya Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:48:52.621690990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Sheoli n'Abadoni ntibashobora kwuzura, n'amaso y'umuntu ntashobora kwuzura.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "n'Abadoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "bashobora kwuzura"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "n'amaso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "shobora kwuzura"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:40.610903485Z",
+  "model": "glm-5.3"
+}

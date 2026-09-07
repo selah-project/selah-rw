@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Elohimu wanjye, muri wowe nyizeye; nti⟨nkundire⟩ kuvirwa isoni, ntabanebwe abanzi banjye ku bwawe.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nyizeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "kuvirwa isoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "banebwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:46.868999738Z",
+  "model": "glm-5.3"
+}

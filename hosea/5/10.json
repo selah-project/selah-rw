@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abatware ba Yehuda bahaye nka ⟨abasunika⟩ umupaka; ku bo nzatema nk'amazi umujinya wanjye.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "bahaye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "nka abasunika"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umupaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "nzatema"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nk'amazi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "umujinya wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:22.859060246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Mu gitondo irabya kandi ihinduka; nimugoroba icibwa kandi ima.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Mu gitondo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "irabya"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "kandi ihinduka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "icibwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "kandi ima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:25.316272501Z",
+  "model": "glm-5.3"
+}

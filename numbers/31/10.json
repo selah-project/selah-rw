@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ imidugudu yabo yose mu baturage babo, na ⟨את⟩ ibyumba byabo byose barabyibitse mu muriyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imidugudu yabo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "imidugudu yabo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "mu baturage babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyumba byabo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ibyumba byabo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "barabyibitse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriyo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:42.332326259Z",
+  "model": "glm-5.3"
+}

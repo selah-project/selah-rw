@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Eli wanjye, Eli wanjye, kuki uransize? Urakure k'ukurihwanguko kwanjye, n'amajambo y'urubururo rwanjye.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "uransize"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "urakure"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "k'ukurihwanguko kwanjye"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "n'amajambo ya"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "urubururo rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.709518799Z",
+  "model": "glm-5.3"
+}

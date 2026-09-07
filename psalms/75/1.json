@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Ku mutware w'abahanzi: Al-Tashheti ⟨ntuyisibe⟩. Zaburi ya Asafu, indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutware w'abahanzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Tashheti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:46.089623069Z",
+  "model": "glm-5.3"
+}

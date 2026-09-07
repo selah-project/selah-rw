@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Niba uwubyariye ari kumwe na cyo, ntagishishyura; niba ari umushaharwa, kizanye n'umushahara wacyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "uwubyariye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ari kumwe na cyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gishishyura"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "umushaharwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kizanye"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "n'umushahara wacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:30.185734005Z",
+  "model": "glm-5.3"
+}

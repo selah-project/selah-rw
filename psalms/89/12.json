@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ijuru ni iryawe, si na yo ni iyawe; isi yose n'ibyuzuyemo — ni wowe ubishyizeho umusingi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ni iryawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni iyawe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "n'ibyuzuyemo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ni wowe"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ubishyizeho umusingi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:29.219949384Z",
+  "model": "glm-5.3"
+}

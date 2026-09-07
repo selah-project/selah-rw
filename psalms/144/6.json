@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Zana inkuba maze ubatanyange, ohereza intumbi zawe maze ubahumanye.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "inkuba"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "maze ubatanyange"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "intumbi zawe"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "maze ubahumanye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.266945023Z",
+  "model": "glm-5.3"
+}

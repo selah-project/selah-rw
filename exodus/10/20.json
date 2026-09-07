@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yahwe yokomeje ⟨את⟩ umutima wa Paro, atoherereza ⟨את⟩ abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yokomeje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ato"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "oherereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:24.888141292Z",
+  "model": "glm-5.3"
+}

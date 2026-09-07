@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yeredi (Yaredi) yabaho imyaka ijana rumwe na mirongo itandatu n'ibiri, maze yabyaye ⟨את⟩ Hanoki (Yaredi).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabaho"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "n'ibiri"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mirongo itandatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "n'ijana rumwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoki"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:31.871953022Z",
+  "model": "glm-5.3"
+}

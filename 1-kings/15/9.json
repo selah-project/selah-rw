@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Mu mwaka wa kabiri mu icumi wa Yaravamu, umwami wa Yisraeli, Asa yagize ubwami ng'umwami wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Mu mwaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wa kabiri mu icumu"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "wa Yaravamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T13:51:41.196355106Z",
+  "model": "glm-5.3"
+}

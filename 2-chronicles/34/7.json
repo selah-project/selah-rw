@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Maze yasesenguye ⟨את⟩ ibicaniro na ⟨את⟩ Ashera, kandi ibishusho yacitse ⟨ku ntete nto cyane⟩, kandi ibigirwamana byose yabyaze hasi mu ubutaka bwose bwa Yisraeli, maze yasubiye i Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "maze yasesenguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibicaniro"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ibicaniro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "kandi ibishusho"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "ku ntete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi ... byose"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "yabyaze hasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka bwose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maze yasubiye"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:05:53.260510299Z",
+  "model": "glm-5.3"
+}

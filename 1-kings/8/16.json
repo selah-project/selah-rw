@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kuva ku munsi nakoze ⟨את⟩ abantu banjye ⟨את⟩ Yisraeli ika basohoka i Mitsrayimu, ntinahisemo umujyi umwe mu miryango yose ya Yisraeli yo kubakiraho inzu, ngo izina ryanjye ribeho; ariko nahisemo Dawidi yo kuba ku bantu banjye Abisirayeli.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kuva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nakoze... ika basohoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nahisemo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "umujyi umwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu miryango yose"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yo kubakiraho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngo... ribeho"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ribeho"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "ariko nahisemo"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "yo kuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Abisirayeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:40:45.554589983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe yarasigiye ⟨את⟩ amahanga aya, atayabora vuba, kandi ntiyanzuje mu ntoki za Yehoshuwa.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "yarasigiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahanga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ata-"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "yabora"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yanzuje"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "za Yehoshuwa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:45:55.807574736Z",
+  "model": "glm-5.3"
+}

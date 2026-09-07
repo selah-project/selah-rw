@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Barabyibika ⟨את⟩ ⟨byo⟩ kugeza mu gitondo, uko Moshe yategetse; ntiyananutse nabi, kandi nta zasazi zari muri byo.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "barabyibika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "byo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "yananutse nabi"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "kandi zasazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri byo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:00.352159834Z",
+  "model": "glm-5.3"
+}

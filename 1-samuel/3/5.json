@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yarutse ajya kwa Eli, aramubwira ati: Ndi hano, kuko wampamaye je. Eli aramubwira ati: Ntabwo nampamagaje; subira, ryama. Nuko aragenda arasinzira.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "yarutse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ndi hano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wampamaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nampamagaje"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "subira"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ryama"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "arasinzira"
+    }
+  ],
+  "timestamp": "2026-09-07T12:23:40.199602659Z",
+  "model": "glm-5.3"
+}

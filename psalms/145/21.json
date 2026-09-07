@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Inkuru nziza ya Yahwe izavugwa n'akanwa kanjye, kandi ibyanda byose bizahamagara izina rye ryera, iteka ry'iteka.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "inkuru nziza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "izavugwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akanwa kanjye"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "kandi bizahamagara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ibyanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ryera"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ry'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:03.517727238Z",
+  "model": "glm-5.3"
+}

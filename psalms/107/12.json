@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Maze agabanyisha n'agahinda umutima wabo; baraturutse, kandi nta ⟨uwafasha⟩.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Maze agabanyisha"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "n'agahinda"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "umutima wabo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "baraturutse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "uwafasha"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:13.625863244Z",
+  "model": "glm-5.3"
+}

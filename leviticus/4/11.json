@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "na ⟨את⟩ uruhu rw'inkazi, na ⟨את⟩ ibirori byayo byose — hamwe n'umutwe wayo n'amaguru yayo — ndetse na mara yayo n'imyanda yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "rw'inkazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibirori byayo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ibirori byayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe n'"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe wayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "amaguru yayo"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "mara yayo"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "imyanda yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:10.117814513Z",
+  "model": "glm-5.3"
+}

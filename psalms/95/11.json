@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Ni ko ndahiye mu bwibane bwanjye nti: ntibazaza mu mahoro yanjye ⟨bayanze⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndahiye"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mu bwibane bwanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ntibazaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mahoro yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:04.760679311Z",
+  "model": "glm-5.3"
+}

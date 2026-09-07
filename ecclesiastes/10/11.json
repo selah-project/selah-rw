@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "ecclesiastes 10:11",
+ "book": "ecclesiastes",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Niba inzoka iruma itarogewe, nta nyungu ku murwayi w'ururimi.",
+ "tokens": [
+  {
+   "surface": "אם",
+   "gloss": "Niba"
+  },
+  {
+   "surface": "ישך",
+   "gloss": "iruma"
+  },
+  {
+   "surface": "הנחש",
+   "gloss": "inzoka"
+  },
+  {
+   "surface": "בלוא",
+   "gloss": "ita-"
+  },
+  {
+   "surface": "לחש",
+   "gloss": "rogejwe n'uburozi"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "kandi nta"
+  },
+  {
+   "surface": "יתרון",
+   "gloss": "inyungu"
+  },
+  {
+   "surface": "לבעל",
+   "gloss": "ku murwayi wa"
+  },
+  {
+   "surface": "הלשון",
+   "gloss": "ururimi"
+  }
+ ],
+ "timestamp": "2026-09-07T19:54:12.483147399Z",
+ "model": "glm-5.3"
+}

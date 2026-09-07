@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 110,
+  "translation": "Yahwe yarahiye, kandi ntazigera ahindura, ati: Wowe uri kohenu w'iteka, mu nzira ya Malkitsedeki.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "yarahiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "zigera ahindura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "uri kohenu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "w'iteka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu nzira ya"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mu nzira ya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeki"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:38.434979160Z",
+  "model": "glm-5.3"
+}

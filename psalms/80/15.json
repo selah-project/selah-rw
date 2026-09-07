@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Elohimu Tsevaoti, subira ⟨tugiye⟩, reba mu ijuru maze urebe, hashye iki giti c'umzabibu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "subira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨tugiye⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "reba"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "urebe"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "hashye"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "giti c'umzabibu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:43.202691258Z",
+  "model": "glm-5.3"
+}

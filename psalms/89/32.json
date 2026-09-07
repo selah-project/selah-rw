@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Niba barumira ibyategetswe njanjye, kandi ibitegeko byanjye ntibabungabunga,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ibyategetswe njanjye"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "barumira"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kandi ibitegeko byanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "babungabunga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:40.445788672Z",
+  "model": "glm-5.3"
+}

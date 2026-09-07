@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abana ba Peretsi ⟨ni⟩: kwa Hetseroni, umuryango w'aba-Hetseroni; kwa Hamulu, umuryango w'aba-Hamulu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "kwa Hetseroni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango w'aba-"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Hetseroni"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "kwa Hamulu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango w'aba-"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Hamulu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:28:27.656682693Z",
+  "model": "glm-5.3"
+}

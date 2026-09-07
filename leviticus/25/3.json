@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Imyaka itandatu uraza umurima wawe, n'imyaka itandatu uratemba urubuto rwawe, maze usarure ⟨את⟩ umusaruro wayo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Imyaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uraza"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "umurima wawe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "n'imyaka itandatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "uratemba"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "urubuto rwawe"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "maze usarure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusaruro wayo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "umusaruro wayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:25.000707208Z",
+  "model": "glm-5.3"
+}

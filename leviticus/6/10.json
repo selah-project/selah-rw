@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ntibisaruwe ifite imirasire; igice cyabo nahaye ⟨את⟩ mu myanka yanjye ibicanwa; ni igitagatifu cy'ibitagatifu, nk'ikorani ry'icyaha no ya bwibwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bisaruwe"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ifite imirasire"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "igice cyabo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mu myanka yanjye ibicanwa"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mu myanka yanjye ibicanwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cy'ibitagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "nk'ikorani ry'icyaha"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "no ya bwibwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:10.572409412Z",
+  "model": "glm-5.3"
+}

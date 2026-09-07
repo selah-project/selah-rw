@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Unyigishe, Yahwe, inzira y'amategeko yawe, maze nzayibika kugeza ku mpera.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Unyigishe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "y'amategeko yawe"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "maze nzayibika"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kugeza ku mpera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:24.461722046Z",
+  "model": "glm-5.3"
+}

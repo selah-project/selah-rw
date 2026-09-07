@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "leviticus 8:10",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Moshe amaze gufata ⟨את⟩ amavuta yo gusiga, agasaseridota ⟨את⟩ Mishikani (urusengero) ⟨את⟩ na ⟨את⟩ byose biri muri yo, abyagatiriza ubutagatifu.",
+ "tokens": [
+  {
+   "surface": "ויקח",
+   "gloss": "amaze gufata"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amavuta"
+  },
+  {
+   "surface": "שמן",
+   "gloss": "amavuta"
+  },
+  {
+   "surface": "המשחה",
+   "gloss": "yo gusiga"
+  },
+  {
+   "surface": "וימשח",
+   "gloss": "agasaseridota"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Mishikani"
+  },
+  {
+   "surface": "המשכן",
+   "gloss": "Mishikani (urusengero)"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩"
+  },
+  {
+   "surface": "כל",
+   "gloss": "byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "biri"
+  },
+  {
+   "surface": "בו",
+   "gloss": "muri yo"
+  },
+  {
+   "surface": "ויקדש",
+   "gloss": "abyagatiriza ubutagatifu"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩"
+  }
+ ],
+ "timestamp": "2026-09-07T09:31:58.159710702Z",
+ "model": "glm-5.3"
+}

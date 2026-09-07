@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Yisuka ku misozi ivuye mu byumba bye byo hejuru; ku rubuto rw'ibyo wakoze isi irasaturwa.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Yisuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ku misozi"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "mu byumba bye byo hejuru"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ku rubuto rw'"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibyo wakoze"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "irasaturwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:15.707381028Z",
+  "model": "glm-5.3"
+}

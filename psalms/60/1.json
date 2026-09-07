@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Ku wunyobora, ku rusengero rwa Shushan Eduti, miktamu ya Dawidi, kwigisha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku wunyobora"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduti"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktamu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kwigisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.757461955Z",
+  "model": "glm-5.3"
+}

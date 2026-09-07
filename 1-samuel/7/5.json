@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Shemuweli na Shemuweli aravuze ati: Mukoranye Yisraeli yose ⟨את⟩ i Mitsipa, kandi ndzasabira kuri mwe kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Mukoranye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "i Mitsipa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "kandi ndzasabira"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:26:48.200560258Z",
+  "model": "glm-5.3"
+}

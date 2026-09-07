@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ibidende byose bizazamuka, imisozi igahwanduka, ibishanga n'imisozi migufi bigahwandukaho, amabuye anyeganyega ajya mahoro, amahame akungahaye ajya mu bwatsi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ibidende"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "bizazamuka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "imisozi igahwanduka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "imisozi migufi"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "bigahwandukaho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "amabuye anyeganyega"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ajya mahoro"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "amahame akungahaye"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "ajya mu bwatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:14.479286498Z",
+  "model": "glm-5.3"
+}

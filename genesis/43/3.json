@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Yehudha (Yuda) yaramubwiye ati: Iri uhamya, umuntu yaduhaye ubuhamya ati: Ntimuzabona amaso yanjye, mutari kumwe n'umuvandimwe wanyu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaramubwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha (Yuda)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "העד",
+      "gloss": "yaduhaye"
+    },
+    {
+      "surface": "העד",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "duhaye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "muzabona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mutari"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umuvandimwe wanyu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kumwe nanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:40.213727602Z",
+  "model": "glm-5.3"
+}

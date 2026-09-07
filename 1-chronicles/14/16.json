@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Dawidi none yakora uko Elohimu yamutegetse, maze barahose ⟨את⟩ imfuruka y'Abapelishti, uva mu Gibehoni kugera mu Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamutegetse"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "barahose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imfuruka y'Abapelishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "imfuruka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "y'Abapelishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "uva mu Gibehoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "mu Gezera"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:52.415670513Z",
+  "model": "glm-5.3"
+}

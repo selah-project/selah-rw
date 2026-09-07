@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "n'ibiribwa byo ku mmeza ye, n'ubwicaro bw'abagaragu be, n'ubwahagaze bw'abakozi be, n'imyambaro yabo, n'ibinyobwa bye, n'ibitambo bye ibi yazamura mu nzu ya Yahwe; kandi nta hagize undi mwuka muri we.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "n'ibiribwa"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "byo ku mmeza ye"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "n'ubwicaro"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bw'abagaragu be"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "n'ubwahagaze"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "bw'abakozi be"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "n'imyambaro yabo"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "n'ibinyobwa bye"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "n'ibitambo bye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yazamura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hagize"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri we"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "undi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mwuka"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:12.173274190Z",
+  "model": "glm-5.3"
+}

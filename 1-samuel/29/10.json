@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "None ubuke mu gitondo, wawe n'abagaragu ba shebuja wawe baje ⟨את⟩ nawe; mubuke mu gitondo, imurikire, mugire umugendo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ubuke"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "n'abagaragu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ba shebuja wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baje"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "abagaragu ba shebuja wawe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "mubuke"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "imurikire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "banyure"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mugire umugendo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:51:06.454036545Z",
+  "model": "glm-5.3"
+}

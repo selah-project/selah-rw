@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Nk'imyotsi iguruka, niko bazagurukwa; nk'uruba runyagarije imbere y'umuriro, n'inkozi z'ibaha zirazimira imbe y'Elohimu.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "nk'uko iguruka"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "imyotsi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "iguruka"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "nk'uko runyagarije"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "uruba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zirazimira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "inkozi z'ibaha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:05.268647936Z",
+  "model": "glm-5.3"
+}

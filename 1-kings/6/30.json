@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze yashyizeho ⟨את⟩ urwatsi rw'inzu zahabu — mu ndemu no hanze.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "urwatsi"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "urwatsi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "yashyizeho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "mu ndemu"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "no hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T13:36:41.222863108Z",
+  "model": "glm-5.3"
+}

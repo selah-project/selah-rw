@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "zechariah 10:9",
+ "book": "zechariah",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Nzababiba mu mahanga, no mu bihugu biri kure bazankumbura, bazabaho na ⟨את⟩ abana babo, bagaruke.",
+ "tokens": [
+  {
+   "surface": "ואזרעם",
+   "gloss": "nzababiba"
+  },
+  {
+   "surface": "בעמים",
+   "gloss": "mu mahanga"
+  },
+  {
+   "surface": "ובמרחקים",
+   "gloss": "no mu bihugu biri kure"
+  },
+  {
+   "surface": "יזכרוני",
+   "gloss": "bazankumbura"
+  },
+  {
+   "surface": "וחיו",
+   "gloss": "bazabaho"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abana babo"
+  },
+  {
+   "surface": "בניהם",
+   "gloss": "abana babo"
+  },
+  {
+   "surface": "ושבו",
+   "gloss": "bagaruke"
+  }
+ ],
+ "timestamp": "2026-09-07T18:01:11.422691465Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Hamwe bimwe abansi banjye bose barungikitiriza ku njye; ku njye bagambanira n'ibibi ku njye.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "hamwe bimwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "barungikitiriza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bagambanira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n'ibibi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:41.598035274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Uko Yaakovu (Yakobo) yinjiraga muri Mitsrayimu, abakurambere banyu baratsembagira bashingikiriza Yahwe; Yahwe na we yarungikiye ⟨את⟩ Moshe (Mose) na ⟨את⟩ Aharoni (Aroni), batuma bakoherereza ⟨את⟩ abakurambere banyu bava muri Mitsrayimu, bamaze babashyira mu kibanza iki.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yinjiraga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "muri Mitsrayimu"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "baratsembagira"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bashingikiriza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yarungikiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "batuma bakoherereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakurambere banyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "abakurambere banyu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "bava muri Mitsrayimu"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "bamaze babashyira"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu kibanza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:43.657153374Z",
+  "model": "glm-5.3"
+}

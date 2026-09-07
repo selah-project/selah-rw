@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Kuko ⟨ni⟩ itegeko rya Yisraeli, icyemezo cya Elohimu wa Yaakovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "חק",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "rya Yisraeli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "icyemezo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "cya Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:38.882979509Z",
+  "model": "glm-5.3"
+}

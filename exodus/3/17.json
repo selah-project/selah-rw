@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "exodus 3:17",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": "Maze navuze nti: Nakuzamura ⟨את⟩ mwe mu bubabare bwa Mitsrayimu, mu gihugu cya Abakenaani, na Abahiti, na Abemori, na Amaperizi, na Abahivi, na Abayebusi, mu gihugu gihwema amata n'ubuki.",
+ "tokens": [
+  {
+   "surface": "ואמר",
+   "gloss": "Maze navuze"
+  },
+  {
+   "surface": "אעלה",
+   "gloss": "Nakuzamura"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mu bubabare bwa Mitsrayimu"
+  },
+  {
+   "surface": "מעני",
+   "gloss": "mu bubabare"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "bwa Mitsrayimu"
+  },
+  {
+   "surface": "אל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "gihugu"
+  },
+  {
+   "surface": "הכנעני",
+   "gloss": "cya Abakenaani"
+  },
+  {
+   "surface": "והחתי",
+   "gloss": "na Abahiti"
+  },
+  {
+   "surface": "והאמרי",
+   "gloss": "na Abemori"
+  },
+  {
+   "surface": "והפרזי",
+   "gloss": "na Amaperizi"
+  },
+  {
+   "surface": "והחוי",
+   "gloss": "na Abahivi"
+  },
+  {
+   "surface": "והיבוסי",
+   "gloss": "na Abayebusi"
+  },
+  {
+   "surface": "אל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "gihugu"
+  },
+  {
+   "surface": "זבת",
+   "gloss": "gihwema"
+  },
+  {
+   "surface": "חלב",
+   "gloss": "amata"
+  },
+  {
+   "surface": "ודבש",
+   "gloss": "n'ubuki"
+  }
+ ],
+ "timestamp": "2026-09-07T08:39:02.052188328Z",
+ "model": "glm-5.3"
+}

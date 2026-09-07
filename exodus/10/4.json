@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kuko niba wowe wanga kwohereza ⟨את⟩ abantu banjye, raba: njye ejo nzana inishi mu mipaka yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kwohereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "raba njye"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nzana"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ejo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "inishi"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "mu mipaka yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:52.258190437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Mwe noneho mukome, kandi amaboko yanyu ntibarebuke, kuko hari igihembo ⟨ku⟩ ibikorwa byanyu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mwe noneho"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "mukome"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "bibarebuke"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "amaboko yanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "igihembo"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "ku bikorwa byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:03.710122973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Igihe cyo kurira, n'igihe cyo gutseka; igihe cyo gusefura, n'igihe cyo kubyina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "cyo kurira"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "cyo gutseka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "cyo gusefura"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "cyo kubyina"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:32.513279111Z",
+  "model": "glm-5.3"
+}

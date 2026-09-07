@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ibyaha by'ubukuri bwanjye n'ibigomeko byanjye ntuzibuke; uko hesedi yawe imeze, unyibuke wowe, kubera ineza yawe, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "by'ubukuri bwanjye"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "n'ibigomeko byanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "zibuke"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "uko hesedi yawe imeze"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "unyibuke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨n-⟩ (unyi-)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ineza yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:24.674171552Z",
+  "model": "glm-5.3"
+}

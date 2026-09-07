@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ukwezi uku kuri mwe ni umutwe w'amezi; ni ukwezi kwa mbere kuri mwe mu byeza by'umwaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ukwezi uku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "w'amezi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "kwa mbere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "mu byeza"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "by'umwaka"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:38.442755798Z",
+  "model": "glm-5.3"
+}

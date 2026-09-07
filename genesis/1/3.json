@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Elohimu yaravuze ati: Uhabeho umurimo; maze haboraga umurimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yaravuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Uhabeho"
+    },
+    {
+      "surface": "אור",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze haboraga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "umurimo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:39.002445033Z",
+  "model": "glm-5.3"
+}

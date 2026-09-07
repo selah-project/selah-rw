@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Bakagenda mu mategeko y'amahanga ivyo Yahwe yakuyeho imbere y'abana ba Yisraeli, n'ivyo abami ba Yisraeli bakoze.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bakagenda"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "mu mategeko"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "y'amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivyo"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "yakuyeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "n'abami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:30.048011908Z",
+  "model": "glm-5.3"
+}

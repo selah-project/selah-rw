@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Kandi mu hesedi yawe urandurure abansi banjye, urazire babi bafatiye nefeshi yanjye; kuko njye ndi umugaragu wawe.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "mu hesedi yawe"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "urandurure"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "urazire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "babi"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "bafatiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:03.259051761Z",
+  "model": "glm-5.3"
+}

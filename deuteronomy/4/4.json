@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Mwe mwari mafatanye na Yahwe, Elohimu wanyu, mweho muriho, uyu munsi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "mwari mafatanye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "muriho"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "mweho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:58.270737698Z",
+  "model": "glm-5.3"
+}

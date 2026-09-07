@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze uzagera kuri abakohenu, Abelevi, no kuri uyo mucamanza azaba mu minsi iyo, urabaza, maze bakamenyesha iyo ⟨את⟩ ijambo ry'urubanza.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uzagera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abelevi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "urabaza"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "bakamenyesha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo ry'urubanza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ry'urubanza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:03.217234962Z",
+  "model": "glm-5.3"
+}

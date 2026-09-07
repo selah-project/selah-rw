@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ariko we akiri kuvuga, dore Yonatani, umwana w'Evyataru umukoheni, aje. Adoniyahu aramwibwira ati: Injira, kuko uri umuntu w'ingufu kandi utangaza inkuru nziza.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "akiri"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kuvuga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dore"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyataru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umukoheni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramwibwira ati"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "w'ingufu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "utangaza inkuru nziza"
+    }
+  ],
+  "timestamp": "2026-09-07T13:28:40.935414014Z",
+  "model": "glm-5.3"
+}

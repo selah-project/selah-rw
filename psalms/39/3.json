@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Nacyuye amaboko, nahererekana; nahaguma n'icyiza, maze agahinda kanjye karavumbutse.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nacyuye amaboko"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nahererekana"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "nahaguma"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "n'icyiza"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "agahinda kanjye"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "karavumbutse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:42.508203301Z",
+  "model": "glm-5.3"
+}

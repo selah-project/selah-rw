@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Barimburwe mu Eni-Dori, bameze nk'ifumbire ku isi.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Barimburwe"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "mu Eni-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dori"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bameze nk'"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ifumbire"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:15.394215617Z",
+  "model": "glm-5.3"
+}

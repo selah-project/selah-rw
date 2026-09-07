@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Nashakishije ⟨את⟩ Yahwe, maze yanjeje, akansibotse mu bwatinyi bwanjye bwose.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Nashakishije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "yanjeje"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mu ... bwose"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ubwatinyi bwanjye"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "yansibotse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:09.460302401Z",
+  "model": "glm-5.3"
+}

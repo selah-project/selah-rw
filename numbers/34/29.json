@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Aba ni bo Yahwe yategetse kugabanya urubyero ⟨את⟩ abana ba Yisraeli mu gihugu cya Kenaani.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "kugabanya urubyero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T10:39:47.161638527Z",
+  "model": "glm-5.3"
+}

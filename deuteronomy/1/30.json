@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yahwe, Elohimu wanyu, we ugenda imbere yanyu — ni we uzarwanira kuri mwe, nk'uko byose yakoreye ⟨את⟩ namwe muri Mitsrayimu (Egiputa) imbere y'amaso yanyu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "uzarwanira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nk'uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ namwe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muri Mitsrayimu"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "imbere y'amaso yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:56.525284192Z",
+  "model": "glm-5.3"
+}

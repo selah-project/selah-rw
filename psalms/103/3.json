@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Ubahanisha ibyaha byawe byose, akanakiza indwara zawe zose.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Ubahanisha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "… byose"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "ibyaha byawe"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "akanakiza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "… zose"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "indwara zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:34.268936748Z",
+  "model": "glm-5.3"
+}

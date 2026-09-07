@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Mwe rero, numve ijambo rya Yahwe, mwe bahunganyijwe bose nabohereje i Yerushalayimu, nzira i Bavelu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mwe rero"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "numve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "abahunganyijwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nabohereje"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "i Bavelu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:12:36.514313468Z",
+  "model": "glm-5.3"
+}

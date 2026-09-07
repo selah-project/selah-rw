@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe yarabwiye Satani ati: Raba, we ari mu ntoki zawe; ariko gusa ⟨את⟩ Nefeshi ye ⟨(ubuzima bwe)⟩ urinde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Raba, we"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ariko gusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi ye (ubuzima bwe)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshi ye ⟨(ubuzima bwe)⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "urinde"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:37.751988328Z",
+  "model": "glm-5.3"
+}

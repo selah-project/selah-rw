@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ubutunzi b'ubwangavu ntibwunguka; ariko ubutungane buroroshya mu rupfu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "bwunguka"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ubutunzi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bw'ubwangavu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ariko ubutungane"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "buroroshya"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mu rupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:20.891057544Z",
+  "model": "glm-5.3"
+}

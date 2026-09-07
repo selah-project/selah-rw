@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Nuko barazinduka barahirira mu mwijima muto, bareka ⟨את⟩ amahema yabo na ⟨את⟩ amafarasi yabo na ⟨את⟩ indogobe zabo — urubatiro uko rwari ruri — maze barahirira k'ubuzima bwabo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "barazinduka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "barahirira"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "mu mwijima muto"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "bareka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahema yabo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "amahema yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amafarasi yabo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "amafarasi yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indogobe zabo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "indogobe zabo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "urubatiro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "rwari ruri"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "barahirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k'"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ubuzima bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:11:52.720769144Z",
+  "model": "glm-5.3"
+}

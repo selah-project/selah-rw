@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Shemueli yavuze ⟨את⟩ amajambo yose ya Yahwe kuri abaturage basaba iwe ⟨את⟩ umwami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abaturage"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:07.037836025Z",
+  "model": "glm-5.3"
+}

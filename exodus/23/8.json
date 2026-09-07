@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kandi urungo ntuzakira, kuko urungo rubusha ababona, rukanagura amajambo y'abatunganye.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Kandi urungo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "zuhakira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "urungo"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "rubusha"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "ababona"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "rukanagura"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "y'abatunganye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:05.702264326Z",
+  "model": "glm-5.3"
+}

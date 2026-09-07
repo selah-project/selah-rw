@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Mwe rero muzitwa kohenu ya Yahwe; abagaragu b'Elohimu wacu ni ko bazabwira; umutungo w'amahanga muzurya, mu gicucu cyabo muzikundisha.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mwe rero"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "muzitwa"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "b'Elohimu wacu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bazabwira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umutungo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "w'amahanga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzurya"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "mu gicucu cyabo"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "muzikundisha"
+    }
+  ],
+  "timestamp": "2026-09-07T15:32:40.339054823Z",
+  "model": "glm-5.3"
+}

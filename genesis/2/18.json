@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe Elohimu yaravuze ati: Si byiza umuntu kuba wenyine; nzakora kuri we umufasha ungana na we.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umufasha"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ungana na we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:56.010460338Z",
+  "model": "glm-5.3"
+}

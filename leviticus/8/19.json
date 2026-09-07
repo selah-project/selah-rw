@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yishe; maze Moshe asekanze ⟨את⟩ amaraso ku ntarara hose.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Yishe"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "asekanze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ntarara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "hose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:35:03.725349054Z",
+  "model": "glm-5.3"
+}

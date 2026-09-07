@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Kuko yavunitse amarembo y'umuringa, n'imfungurwa z'icyuma yarazicitse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yavunitse"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "amarembo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "y'umuringa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "n'imfungurwa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "z'icyuma"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "yarazicitse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:39.930189839Z",
+  "model": "glm-5.3"
+}

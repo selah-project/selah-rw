@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Barwawe n'isoni abo bagabanya ibishusho byo kubandwa, abiyivuga mu mana z'ibwatsi; imana zose ziramukwe we.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Barwawe n'isoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "abose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abo bagabanya… byo kubandwa"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ibishusho"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "abiyivuga"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "mu mana z'ibwatsi"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ziramukwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:30.011820650Z",
+  "model": "glm-5.3"
+}

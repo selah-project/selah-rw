@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Abami aba bose bahuriye hamwe, baza barahagaze hamwe ku mazi ya Meromu, ngo barwane na Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "bahuriye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "barahagaze"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ya Meromu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngo barwane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:35:15.520357506Z",
+  "model": "glm-5.3"
+}

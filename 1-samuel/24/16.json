@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Yahwe abe nka umucamanza, acire urubanza hagati yanjye no hagati yawe, abirebe, arengane ⟨את⟩ urubanza rwanjye, maze ancireho urubanza mu ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "abe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "nka umucamanza"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "acire urubanza"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hagati yanjye"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "no hagati yawe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abirebe"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "arengane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubanza rwanjye"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "urubanza rwanjye"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "maze ancireho urubanza"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mu ntoki zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:46:34.298257840Z",
+  "model": "glm-5.3"
+}

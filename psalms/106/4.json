@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Unyibuke, Yahwe, mu kwishimirwa kwawe k'abawe mu bantu bawe; unsure mu kurokoka kwawe.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Unyibuke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "mu kwishimirwa kwawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "k'abawe mu bantu bawe"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "unsure"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mu kurokoka kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:07.454724167Z",
+  "model": "glm-5.3"
+}

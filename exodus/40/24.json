@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ashyize ⟨את⟩ urumuri mu ihema ry'itanganirwa, igihuye n'imesa, ku ruhande rw'Mishkani mu majyepfo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urumuri"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "itanganirwa"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "igihuye na"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ruhande"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "mu majyepfo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:38.347929942Z",
+  "model": "glm-5.3"
+}

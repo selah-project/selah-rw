@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abatabazi benshi batashe urubuto rwanjye, bateruye ⟨את⟩ umurima wanjye; bashyize ⟨את⟩ umurima wanjye w'agaciro mu butayu budaheze.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "abatabazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "batashe"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "urubuto rwanjye"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "bateruye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurima wanjye"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "umurima wanjye"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurima wanjye w'agaciro"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "w'agaciro"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "budaheze"
+    }
+  ],
+  "timestamp": "2026-09-07T15:54:24.694152249Z",
+  "model": "glm-5.3"
+}

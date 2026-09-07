@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Unhisha mu bwibge bw'abakora ibibi, mu rwangwe rw'abakora inabi.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Unhisha"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "mu bwibge"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bw'abakora ibibi"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "mu rwangwe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "rw'abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "inabi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.614671943Z",
+  "model": "glm-5.3"
+}

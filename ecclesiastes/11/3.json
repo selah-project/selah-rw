@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Niba ibicu byuzuye, imvura ikagwa ku isi; kandi niba igiti cigwa mu majyepfo cyangwa mu majyaruguru, aho igiti cikwgira ni ho kizaba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "imvura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ikagwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi niba"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cikwgira"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "mu majyepfo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa niba"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "mu majyaruguru"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "igiti cikwgira"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni ho"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "kizaba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:55.723348548Z",
+  "model": "glm-5.3"
+}

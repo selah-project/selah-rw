@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Umurimo wose w'ubudega ntimuzawukora, muzazane igitanganwa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "w'ubudega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "muzazane"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igitanganwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:54:04.786684856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "z'imana z'ibihugu ibikikije mwe, ibiri hafi ya mwe cyangwa ibiri kure na mwe, kuva ku mpera y'isi kugera ku mpera y'isi.",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "z'imana z'"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ibihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "kibikije mwe"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ibiri hafi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ya mwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "ibiri kure"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "na mwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuva ku mpera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:02:30.680283537Z",
+  "model": "glm-5.3"
+}

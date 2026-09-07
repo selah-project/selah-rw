@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Umuryango wawe watuye urwo; mu bwiza bwawe wategekuye ku nkene, Elohimu.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "umuryango wawe"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "watuye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "urwo"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "wategekuye"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "mu bwiza bwawe"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ku nkene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:14.518365867Z",
+  "model": "glm-5.3"
+}

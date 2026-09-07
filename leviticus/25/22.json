@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Muzasasira ⟨את⟩ umwaka wa munani, murya mu musaruro wa ashize kugeza mu mwaka wa cyenda; kugeza uko umusaruro wayo uje, murya wa ashize.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "muzasasira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwaka"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "wa munani"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "murya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "umusaruro"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "wa ashize"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "wa cyenda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "uko uje"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "umusaruro wayo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "murya"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "wa ashize"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:45.441316224Z",
+  "model": "glm-5.3"
+}

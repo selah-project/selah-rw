@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Ni nde wazahaguruka kuri jyane na bakora bibi? Ni nde wazahagarara kuri jyane n'abakora ubuhemu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "wazahaguruka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abakora bibi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "wazahagarara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:06.493246664Z",
+  "model": "glm-5.3"
+}

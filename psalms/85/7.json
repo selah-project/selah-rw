@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Ese ntibyo wowe uzagaruka uzatuzura ubuzima, maze abawe bazishimira wowe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese ntibyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uzagaruka"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "uzatuzura ubuzima"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "maze abawe"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bazishimira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:30.628313739Z",
+  "model": "glm-5.3"
+}

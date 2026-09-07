@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umunwa we wuzuye umuvumo n'uburigi n'ubugome; munsi y'ururimi rwe hari uburibwa n'ibibi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "umuvumo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "umunwa we"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wuzuye"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "n'uburigi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "n'ubugome"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "y'ururimi rwe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "uburibwa"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "n'ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:14.026153924Z",
+  "model": "glm-5.3"
+}

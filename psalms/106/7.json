@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Abakurambere bacu i Mitsrayimu batumvise ibitangaza byawe, ntibibutse ⟨את⟩ ubwinshi bw'hesedi zawe, bakagomeka ku nyanja, ku nyanja ya Sufu.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "batumvise"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bibutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwinshi bw'hesedi zawe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ubwinshi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedi zawe"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "bakagomeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ku nyanja ya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:27.253504912Z",
+  "model": "glm-5.3"
+}

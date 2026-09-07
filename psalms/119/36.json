@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Unyereze umutima wanjye ku ibyemezo byawe, kandi ntuyunereze ku nyungu y'ubuhemu.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Unyereze"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nyungu y'ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:24.466976351Z",
+  "model": "glm-5.3"
+}

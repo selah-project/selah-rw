@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Wateye umwanya imbere yiwe, ikakura imizi yiwe, ikuzuza isi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "wateye umwanya"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "imbere yiwe"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ikakura imizi"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "imizi yiwe"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ikuzuza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:42.455880405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 93,
+  "translation": "Ibyabereye byawe byemejwe cyane; kwera ni byo bikwiriye inzu yawe, Yahwe we, ku mduduro w'imyaka.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ibyabereye byawe"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "byemejwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "inzu yawe"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bikwiriye"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kwera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ku mduduro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "w'imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:37.381281178Z",
+  "model": "glm-5.3"
+}

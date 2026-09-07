@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Aharoni yaragororose ⟨את⟩ intoki ye ku mazi ya Mitsrayimu, maze igikeri yazamutse yazuye ⟨את⟩ isi ya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "yaragororose"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "yazamutse"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "igikeri"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "yazuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:03.273421861Z",
+  "model": "glm-5.3"
+}

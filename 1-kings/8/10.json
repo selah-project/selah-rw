@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze igihe abaherezi basohotse mu gitagatifu, urubu rwuzuye ⟨את⟩ inzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze igihe"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "basohotse"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "urubu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "rwuzuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:05.680943188Z",
+  "model": "glm-5.3"
+}

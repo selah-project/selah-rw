@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 5:17",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Pilishtimu bumvise ko bakanwe ⟨את⟩ Dawidi ngo abe umwabi ku Yisraeli, maze abapirisiti bose bazira kujya gushaka ⟨את⟩ Dawidi; Dawidi yumvise, aramanuka ajera urwibatsi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilishtimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "bakanwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngo abe umwabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bazira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abapirisiti"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kujya gushaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "aramanuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajera"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "urwibatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:02:55.883987486Z",
+  "model": "glm-5.3"
+}

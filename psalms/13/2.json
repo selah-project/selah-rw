@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kugeza luku, Yahwe, uransibagirwa ⟨iteka⟩? Kugeza luku urahisha ⟨את⟩ amaso yawe ku njye?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "luku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "uransibagirwa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "⟨iteka⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "luku"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "urahisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ku njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:01.024597207Z",
+  "model": "glm-5.3"
+}

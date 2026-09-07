@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Shauli yahamagaye ⟨את⟩ abantu, ababara i Telaimi: amagana abiri n'ibihumbi ijana abagendera ku kirenge, n'ibihumbi icumi ⟨ni⟩ ⟨את⟩ abagabo ba Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ababara"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "i Telaimi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amagana abiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n'ibihumbi ijana"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "abagendera ku kirenge"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "n'ibihumbi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo ba Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T12:36:54.191108644Z",
+  "model": "glm-5.3"
+}

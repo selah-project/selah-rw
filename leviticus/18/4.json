@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "⟨את⟩ amateko yanjye mukore, kandi ⟨את⟩ amabwiriza yanjye mubungabunge, mugende muri byo: njye ⟨ni⟩ Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amateko yanjye"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "amateko yanjye"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amabwiriza yanjye"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "amabwiriza yanjye"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mubungabunge"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mugende"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:37.548167089Z",
+  "model": "glm-5.3"
+}

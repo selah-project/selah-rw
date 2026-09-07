@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "umwana wa Mikaeli (Mikaeli), umwana wa Baaseya (Baaseya), umwana wa Malkiya (Malakiya)",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "wa Mikaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "wa Baaseya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "wa Malkiya"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:19.529182557Z",
+  "model": "glm-5.3"
+}

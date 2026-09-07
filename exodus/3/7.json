@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe yaravuze ati: Rwose nabonye ⟨את⟩ ihungabana ry'abantu banjye bari mu Mitsrayimu (Egiputa), kandi ndumva na ⟨את⟩ urubogambo rwabo kubera abategetsi b'imirimo babo, kuko ndazi ⟨את⟩ amarume yabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihungabana"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ihungabana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urubogambo rwabo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "urubogambo rwabo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndumva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "abategetsi b'imirimo babo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amarume yabo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "amarume yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:56.724499810Z",
+  "model": "glm-5.3"
+}

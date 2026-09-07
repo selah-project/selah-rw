@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi ntimureke muri byo kimwe gasigara kugeza mu gitondo; n'icyo gisigaye muri byo kugeza mu gitondo mukibyake mu muriro.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntimureke"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "gasigara"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "n'icyo gisigaye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "mukibyake"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:11.186444860Z",
+  "model": "glm-5.3"
+}

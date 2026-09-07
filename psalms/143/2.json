@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Kandi ntiwinjire mu rurubanza ⟨את⟩ umugaragu wawe; kuko nta muntu uriho uzaba intunganye imbere yawe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti..."
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "winjire"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu rurubanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugaragu wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta..."
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "uzaba intunganye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uriho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:46.320340325Z",
+  "model": "glm-5.3"
+}

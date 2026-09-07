@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Iyaba nari nazi aho namubona, maze ndamutsukura kugeza ku ntebe ye.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iyaba nde"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nari nazi"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "maze namubona"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndamutsukura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "ntebe ye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:31:32.674683106Z",
+  "model": "glm-5.3"
+}

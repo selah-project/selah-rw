@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Baravuze ku Elohimu, bati: Eli ashobora gutegura imeza mu butayu?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ku Elohimu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "gutegura"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "imeza"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:01.567586783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yahwe ⟨ni⟩ munini, kandi arasingizwa cyane mu mujyi w'Elohimu wacu, umusozi w'ubutagatifu bwe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "kandi arasingizwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "w'Elohimu wacu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "w'ubutagatifu bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:25.357809611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yisraeli yibagiwe ⟨את⟩ Uwaremye we maze ubaka inzu nkuru, na Yehuda wongereye imijyi ibirindiro-bikomeye; ariko njye ndazohereza umuriro mu mijyi yabo, kandi uzasenya inzu z'ubwami yabo.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "yibagiwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uwaremye we"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Uwaremye we"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "maze ubaka"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "inzu nkuru"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wongereye"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ibirindiro-bikomeye"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndazohereza"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "mu mijyi yabo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uzasenya"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "inzu z'ubwami yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:36.583070953Z",
+  "model": "glm-5.3"
+}

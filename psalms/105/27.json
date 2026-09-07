@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Barashyize muri bo amagambo y'ibimenyetso bye n'ibitangaza mu gihugu cya Hamu.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Barashyize"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo y'"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ibimenyetso bye"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "n'ibitangaza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:35.311657640Z",
+  "model": "glm-5.3"
+}

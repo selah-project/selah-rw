@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kuko ntabizi ibizaba; kandi igihe bizaba, nde uzabimubwira?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ntabizi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "(azi)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ib"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uzabimubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(we)"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:54.592611399Z",
+  "model": "glm-5.3"
+}

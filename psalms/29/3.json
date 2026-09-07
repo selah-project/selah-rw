@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Ijwi rya Yahwe riri hejuru y'amazi; Eli w'icubahiro yaratumye inkuba; Yahwe ari hejuru y'amazi menshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "riri hejuru"
+    },
+    {
+      "surface": "המים",
+      "gloss": "y'amazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "w'icubahiro"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "yaratumye inkuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ari hejuru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'amazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:20.089774728Z",
+  "model": "glm-5.3"
+}

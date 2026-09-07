@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nabyiboneye njye ko ubwenge bufite umwitanzo hejuru y'ubujijure, nk'umwitanzo w'urumuri hejuru y'umwijima.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "nabyiboneye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "ko haba"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "umwitanzo"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ubujijure"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "nk'umwitanzo"
+    },
+    {
+      "surface": "האור",
+      "gloss": "w'urumuri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "umwijima"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:55.554532512Z",
+  "model": "glm-5.3"
+}

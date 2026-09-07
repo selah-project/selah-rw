@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yashyizeho umuyaga w'iburasirazuba mu ijuru, maze mu ntwaro ye yayoboye umuyaga w'amajyepfo.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Yashyizeho"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "umuyaga w'iburasirazuba"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "maze yayoboye"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "mu ntwaro ye"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "umuyaga w'amajyepfo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:29.983617266Z",
+  "model": "glm-5.3"
+}

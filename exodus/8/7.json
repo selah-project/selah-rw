@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ibikeri rirakurwamo iwanjye no mu nzu zawe, no kuri basuku bawe no ku bantu bawe; mu ruzi gusa ni ho ziguma.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "zirakurwamo"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ibikeri"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "no mu nzu zawe"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "no kuri basuku bawe"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "no ku bantu bawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mu ruzi"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ziguma"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:01.791973873Z",
+  "model": "glm-5.3"
+}

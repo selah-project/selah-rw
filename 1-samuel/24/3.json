@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Shauli afata abagabo ibihumbi bitatu batoranijwe mu Yisraeli yose, agende ashaka ⟨את⟩ Dawidi n'abagabo be ku mpande z'ibitare by'ibyamera.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "bitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "batoranijwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu … yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agende"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ashaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "n'abagabo be"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mpande za"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ibitare"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "by'ibyamera"
+    }
+  ],
+  "timestamp": "2026-09-07T12:48:59.860920705Z",
+  "model": "glm-5.3"
+}

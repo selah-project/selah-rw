@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ese nkore ⟨ni⟩ ngafata ⟨את⟩ ingano yanjye na ⟨את⟩ amazi yanjye na ⟨את⟩ inyama nasize ngo nzinare abakata ibyatsi, maze nkore ⟨ni⟩ nkazizaha abantu ntazi ko bava hehe?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "nkore ⟨ni⟩ ngafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingano yanjye"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ingano yanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "amazi yanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "inyama nasize"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "nasize"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "abakata ibyatsi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "maze nkore ⟨ni⟩ nkazizaha"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ntazi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bava"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hehe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:10.506829289Z",
+  "model": "glm-5.3"
+}

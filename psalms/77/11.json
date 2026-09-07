@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Maze navuze nti: Uburwayi bwanjye ni bwo ⟨ni⟩ — imyaka y'iburyo bw'Elyoni.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "maze navuze nti"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "uburwayi bwanjye"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni bwo"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "y'iburyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "bw'Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:23.249327553Z",
+  "model": "glm-5.3"
+}

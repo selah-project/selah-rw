@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi inzu iyo njye ndi kubaka ni nini, kuko Elohimu wacu ari umunini kurusha imana zose.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Kandi inzu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "ndi kubaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ari umunini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "imana zose"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:51.902330225Z",
+  "model": "glm-5.3"
+}

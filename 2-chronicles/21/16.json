@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yahwe yateye ku Yehoramu ⟨את⟩ umwuka w'abaFilishti n'⟨את⟩ wa baArabu bari ku rubando rw'abaKushi.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "yateye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwuka w'abaFilishti n'abaArabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "w'abaFilishti"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "n'abaArabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku rubando rw'"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rubando"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "abaKushi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:57:28.140089724Z",
+  "model": "glm-5.3"
+}

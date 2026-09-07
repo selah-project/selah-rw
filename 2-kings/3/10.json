@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umwami wa Yisraeli yaravuze ati: Ee! ko Yahwe yaguhiye abami batatu aba, kubaha ⟨את⟩ mu ntoko za Mowabu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ee!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yaguhiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kubaha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mu ntoko za Mowabu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "za Mowabu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:05:28.899924675Z",
+  "model": "glm-5.3"
+}

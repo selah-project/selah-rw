@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ikibi gikurikiriza abanyabyaha, kandi ibyiza bihemba ⟨את⟩ abenekuri.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "abanyabyaha"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "gikurikiriza"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kandi ⟨את⟩",
+      "marks": "abenekuri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abenekuri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bihemba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:06:36.603119005Z",
+  "model": "glm-5.3"
+}

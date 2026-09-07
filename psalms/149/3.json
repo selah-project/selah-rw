@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Basizingize izina rye mu mbyino; mu ngoma y'ibiganza n'inanga bakine bamuririmbira.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Basizingize"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "mu mbyino"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "mu ngoma y'ibiganza"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "n'inanga"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bakine bamuririmbira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bamuririmbira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:58.662784680Z",
+  "model": "glm-5.3"
+}

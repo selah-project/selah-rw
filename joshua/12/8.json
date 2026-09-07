@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "ku misozi, no mu bishanga, no mu gasozi ka Araba, no ku mpande z'imisozi, no mu butayu, no mu majyepfo — ⟨aho hatuye⟩ aba Hititi, aba Emori, aba Kenaani, aba Perizi, aba Hivi, n'aba Yevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "ku misozi"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "no mu bishanga"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "no mu gasozi ka Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "no ku mpande z'imisozi"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "no mu butayu"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "no mu majyepfo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "aba Hititi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "aba Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "aba Kenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "aba Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "aba Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "n'aba Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:34:06.274658768Z",
+  "model": "glm-5.3"
+}

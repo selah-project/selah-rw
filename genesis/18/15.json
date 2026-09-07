@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze Sarahi arahakana ati: Ndatsekeye, kuko yari atinya. Maze we aravuga ati: Oya, ahubwo watsekeye.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Maze Sarahi arahakana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nda... (nta)"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "tsekeye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yari atinya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze we aravuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Oya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "watsekeye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:47:19.713621808Z",
+  "model": "glm-5.3"
+}

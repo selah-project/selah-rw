@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Barwenwe banaruwe hamwe abashaka ubuzima bwanjye kubuzimisa; basubire inyuma banagihwe abifuriza ibibi bwanjye.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Barwenwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "banaruwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abashaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "kubuzimisa"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "basubire"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "banagihwe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "abifuriza"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ibibi bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:32.114275079Z",
+  "model": "glm-5.3"
+}

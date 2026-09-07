@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nefeshi yanjye iri mu ntoki zanjye ihoraho, ariko Tora yawe ntiyahise ndayibagirwa.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "iri mu ntoki zanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ihoraho"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ariko Tora yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndayibagirwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:00.502524782Z",
+  "model": "glm-5.3"
+}

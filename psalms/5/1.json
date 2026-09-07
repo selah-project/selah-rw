@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ku mukuru w'abacuranza, ku Nechiloti ⟨ibyuma byo guhumuriza⟩; indirimbo ya Dawidi (Dawidi).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mukuru w'abacuranza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nechiloti ⟨ibyuma byo guhumuriza⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi (Dawidi)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:05.498616296Z",
+  "model": "glm-5.3"
+}

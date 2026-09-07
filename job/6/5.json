@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ese indogobwi y'ishyamba iraseka ku cyatsi? Cyangwa inka irira ku bwatsi bwayo?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "ese iraseka"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "indogobwi y'ishyamba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "cyatsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "irira"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "bwatsi bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:22:34.204897079Z",
+  "model": "glm-5.3"
+}

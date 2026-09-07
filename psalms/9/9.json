@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi we azacira urubanze ⟨isi⟩ mu tsedeki, azacira amahanga itegeko mu bwituzo.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Kandi we"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "azacira urubanze"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mu tsedeki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "azacira itegeko"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "mu bwituzo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:39.698823703Z",
+  "model": "glm-5.3"
+}

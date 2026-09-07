@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Huru yabyaye ⟨את⟩ Uri; Uri yabyaye ⟨את⟩ Betsaleli.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Huru"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsaleli"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:06.814400179Z",
+  "model": "glm-5.3"
+}

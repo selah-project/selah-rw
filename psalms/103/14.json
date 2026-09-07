@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Kuko we azi imiterere yacu; yibuka ko turi ivu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "imiterere yacu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yibuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "turi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:16.454881256Z",
+  "model": "glm-5.3"
+}

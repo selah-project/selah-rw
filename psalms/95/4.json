@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 95,
+  "translation": "Uwo mu ntoki ze ari umutekere w'isi, kandi iby'imisozi miremire ari ibye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Uwo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ze"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "umutekere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "w'isi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "kandi iby'imisozi miremire"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ari ibye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:25.352863903Z",
+  "model": "glm-5.3"
+}

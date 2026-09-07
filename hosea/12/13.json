@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yaakovu (Yakobo) yarungiye mu gihugu cya Aramu, maze Yisraeli yatabiye umugore, no ku mugore yaragiranye intama.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "yarungiye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "yatabiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "no ku mugore"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yaragiranye intama"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:23.283809676Z",
+  "model": "glm-5.3"
+}

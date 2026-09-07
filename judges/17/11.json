@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Levyi yiyemeje gutura ⟨את⟩ uwo muntu, maze uwo muto yabaye iwe nk'umwe mu bahungu be.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "yiyemeje"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levyi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gutura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo muntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze yabaye"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "uwo muto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "nk'umwe"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "mu bahungu be"
+    }
+  ],
+  "timestamp": "2026-09-07T12:13:02.143934494Z",
+  "model": "glm-5.3"
+}

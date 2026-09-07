@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Arababaza ati: Ni uwuhe munezi cy'umuntu wazamutse guhura na mwe, maze akabwira mwe ⟨את⟩ aya majambo?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Arababaza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni uwuhe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "munezi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "cy'umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wazamutse"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "guhura na mwe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "maze akabwira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aya majambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "aya majambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:36:33.378986084Z",
+  "model": "glm-5.3"
+}

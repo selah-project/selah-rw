@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Banyuze ⟨את⟩ Yardeni, baracyuye i Aroeri, ku iburyo ry'umujyi uri hagati mu kibaya cya Gadi, maze bajya kuri Yaazeyri.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "banyuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "baracyuye"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "i Aroeri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ku iburyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ry'umujyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati mu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kibaya"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "cya Gadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maze bajya kuri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazeyri"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:11.520386645Z",
+  "model": "glm-5.3"
+}

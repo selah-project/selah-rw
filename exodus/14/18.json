@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze Abamitsrayimu bazamenya ko njye ⟨ni⟩ Yahwe, igihe ndashimirwa mu Paro, ku ngorofabo ze no ku bagendera ku farashi be.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "maze bazamenya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Abamitsrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "igihe ndashimirwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mu Paro"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ku ngorofabo ze"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "no ku bagendera ku farashi be"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:18.465049917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Nuko ishyirahamwe ryose ry'abahungu ba Yisraeli ryasohotse imbere ya Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ryasohotse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ishyirahamwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:40.917910284Z",
+  "model": "glm-5.3"
+}

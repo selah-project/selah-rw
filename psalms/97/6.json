@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Amajuru yagaragaje ubutungane bwe, maze amoko yose yabonye icyubahiro cye.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "yagaragaje"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Amajuru"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ubutungane bwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "maze yabonye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:30.011652878Z",
+  "model": "glm-5.3"
+}

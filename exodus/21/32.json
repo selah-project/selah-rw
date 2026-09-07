@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo inka yakuye umugaragu cyangwa umuja, azaha shekeli mirongo itatu z'ifeza shebuja we, maze inka iraribwa amabuye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "yakuye"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "umuja"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "z'ifeza"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "azaha"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "shebuja we"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "maze inka"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "iraribwa amabuye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:07.187985212Z",
+  "model": "glm-5.3"
+}

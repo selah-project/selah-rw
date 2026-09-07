@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze abakuru b'uwo mujyi bakure ⟨את⟩ uwo mugabo, bamuhanisha ⟨את⟩ igihano.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Maze bakure"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru b'"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugabo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo mugabo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "bamuhanisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (uwo mugabo)"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:14.558215593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Wowe uzarenge uyu munsi ⟨את⟩ umupaka wa Mowabu, ⟨את⟩ Ari:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uzarenge"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupaka wa Mowabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umupaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Mowabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ari"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:59.182610199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Ijwi rya Yahwe rurata inyotsi z'umuriro.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "rurata"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "inyotsi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "z'umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:35.089221978Z",
+  "model": "glm-5.3"
+}

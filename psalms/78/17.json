@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "psalms 78:17",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 78,
+ "translation": "Banongereye kandi icyaha ku we, kwigomeka kuri Elyoni mu butayu.",
+ "tokens": [
+  {
+   "surface": "ויוסיפו",
+   "gloss": "banongereye"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "kandi"
+  },
+  {
+   "surface": "לחטא",
+   "gloss": "icyaha"
+  },
+  {
+   "surface": "לו",
+   "gloss": "ku we"
+  },
+  {
+   "surface": "למרות",
+   "gloss": "kwigomeka"
+  },
+  {
+   "surface": "עליון",
+   "gloss": "Elyoni"
+  },
+  {
+   "surface": "בציה",
+   "gloss": "mu butayu"
+  }
+ ],
+ "timestamp": "2026-09-07T18:32:01.567123138Z",
+ "model": "glm-5.3"
+}

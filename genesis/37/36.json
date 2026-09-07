@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Abamadani bamaguye ⟨את⟩ we i Mitsrayimu (Egiputa), bamuhaye Potifaru, umugaragu wa Paro, umutware w'abatabaji.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Abamadani"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "bamaguye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "bamuhaye Potifaru"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "w'abatabaji"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:06.365525970Z",
+  "model": "glm-5.3"
+}

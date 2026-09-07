@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kubw'ibyo, mu mahanga nzagushima, Yahwe, kandi izina ryawe nzariririmba.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nzagushima wowe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "kuri izina ryawe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nzariririmba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:17.569099385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Mushyire imitima yanyu ku matazu yayo, mugende mu ngoro zayo; kugira ngo mubwire ababyeyi bazaza.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "Mushyire"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "imitima yanyu"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "ku matazu yayo"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "mugende"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "mu ngoro zayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "mubwire"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "bazaza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:05.830501088Z",
+  "model": "glm-5.3"
+}

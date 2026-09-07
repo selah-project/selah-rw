@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Meonotayi yabye ⟨את⟩ Ofera, maze Serayah yabye ⟨את⟩ Yoabu, se w'ikibaya cy'abahanga, kuko abahanga ⟨ni⟩ bo bariho.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Meonotayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofera"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofera"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "maze Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "w'ikibaya"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "cy'abahanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abahanga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bariho"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:09.552729678Z",
+  "model": "glm-5.3"
+}

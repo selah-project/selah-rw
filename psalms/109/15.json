@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Ibihare imbere ya Yahwe burigihe, kandi aravanire mu isi ubwibuke bwabo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ibihare"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "burigihe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kandi aravanire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ubwibuke bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:14.401118971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Ngo banagije inama n'umutima hamwe; kurugo yawe ibirerane barashyiraho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngo"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "banagije inama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n'umutima"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kurugo yawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ibirerane"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "barashyiraho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.849492408Z",
+  "model": "glm-5.3"
+}

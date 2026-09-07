@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Abaja baragera, bo n'abana babo, barubama.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "baragera"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "abaja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "n'abana babo"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "barubama"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:05.488118385Z",
+  "model": "glm-5.3"
+}

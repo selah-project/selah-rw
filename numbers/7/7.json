@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "⟨את⟩ inyifari ebyiri n'⟨את⟩ ing'ombe enye yahaye abana ba Gershoni, uko umurimo wabo ubimeze.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyifari ebyiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "inyifari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "ing'ombe enye"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ing'ombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "uko ubimeze"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "umurimo wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:03:19.776622931Z",
+  "model": "glm-5.3"
+}

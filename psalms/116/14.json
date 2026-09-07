@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Ibyemezo byanjye kwa Yahwe ndazitura, noneka, mbere y'abantu be bose.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ibyemezo byanjye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndazitura"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "noneka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "y'abantu be bose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:41.232980005Z",
+  "model": "glm-5.3"
+}

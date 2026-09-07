@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "kugira ngo ashobore kuguha uyu munsi iwe ubwe, abantu be, kandi iwe akabe iwawe Elohimu, nko yaguvugiye, no nko yarahiriye ababyeyi bawe — Avrahamu (Aburahamu), Yitsaki (Isaka) na Yaakovu (Yakobo).",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ashobore kuguha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe ubwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi iwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaguvugiye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "no nko"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yarahiriye"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ababyeyi bawe"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsaki (Isaka)"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Yaakovu (Yakobo)"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:10.480554812Z",
+  "model": "glm-5.3"
+}

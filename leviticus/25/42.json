@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "kuko abagaragu banjye ni bo, nkohera ⟨את⟩ bo mu gihugu cya Mitsrayimu (Egiputa); ntibagurishwa mu gucurwa nk'umugaragu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu banjye"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nkohera"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nkohera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "bagurishwa"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "mu gucurwa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nk'umugaragu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:19.151427349Z",
+  "model": "glm-5.3"
+}

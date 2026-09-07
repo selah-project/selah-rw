@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "isaiah 41:4",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 41,
+ "translation": "Ndinde yakoze kandi yarangije, ahamagariza ibisekuruza ku ntangiriro? Njye, Yahwe, Uwa mbere, na ⟨את⟩ ibya nyuma njye ⟨ni⟩ we.",
+ "tokens": [
+  {
+   "surface": "מי",
+   "gloss": "Ndinde"
+  },
+  {
+   "surface": "פעל",
+   "gloss": "yakoze"
+  },
+  {
+   "surface": "ועשה",
+   "gloss": "kandi yarangije"
+  },
+  {
+   "surface": "קרא",
+   "gloss": "ahamagariza"
+  },
+  {
+   "surface": "הדרות",
+   "gloss": "ibisekuruza"
+  },
+  {
+   "surface": "מראש",
+   "gloss": "ku ntangiriro"
+  },
+  {
+   "surface": "אני",
+   "gloss": "Njye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ראשון",
+   "gloss": "Uwa mbere"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ibya nyuma"
+  },
+  {
+   "surface": "אחרנים",
+   "gloss": "ibya nyuma"
+  },
+  {
+   "surface": "אני",
+   "gloss": "njye"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "we"
+  }
+ ],
+ "timestamp": "2026-09-07T15:17:59.369841415Z",
+ "model": "glm-5.3"
+}

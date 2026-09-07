@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Batanye ⟨את⟩ mibiri y'abagaragu bawe kubarya inyoni z'ijuru, umubiri w'abahesi bawe n'inyamaswa z'isi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "batanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibiri y'abagaragu bawe"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mibiri y'ibyapfu bya"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kubarya"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "inyoni za"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri w'"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "abahesi bawe"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "inyamaswa za"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:51.553765827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Isi yanyu yahindutse ubutayu; imidugudu yanyu yatsindijwe n'umuriro; ubutaka bwanyu, abanyamahanga baburyarya imbere yanyu ⟨את⟩ iyo, maze ihinduka ubutayu nk'iko porwa n'abanyamahanga.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "isi yanyu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "imidugudu yanyu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "yatsindijwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "n'umuriro"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ubutaka bwanyu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abanyamahanga"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "baburyarya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (ubutaka)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "nk'iko porwa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "n'abanyamahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:41.701349575Z",
+  "model": "glm-5.3"
+}

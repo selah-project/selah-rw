@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Reba, namaze guhamagara ku izina Bitsaleli (Bezaleli), umwana w'Uri, umwana wa Huri, mu muryango wa Yehudha:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "namaze guhamagara"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ku izina"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Bitsaleli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "w'Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "חור",
+      "gloss": "wa Huri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:09:21.020413320Z",
+  "model": "glm-5.3"
+}

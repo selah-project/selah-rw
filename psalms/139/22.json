@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ubwanzi bukomeye kuri iherezo nabahereweho; bameze nk'abanzi banjye",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "kuri iherezo"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ubwanzi"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nabahereweho"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "nk'abanzi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bameze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:22.107174300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Ntiyahutuye umuntu kubakandamiza, anahanisha abami kubera bo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntiya-"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "-hutuye"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "kubakandamiza"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "anahanisha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kubera bo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:02.059439706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Shauli nawe yohereje ⟨את⟩ intumwa zigende kureba ⟨את⟩ Dawidi, abwira ngo: Nimwuzuzange ⟨את⟩ we mu gitanda, muzanire iwanjye, ngo bamwice.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intumwa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Nimwuzuzange"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "mu gitanda"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "mu gitanda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "ngo bamwice"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:17.623442469Z",
+  "model": "glm-5.3"
+}

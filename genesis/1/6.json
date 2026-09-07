@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yaravuze ati: Ikirere ⟨kirihari⟩ hagati mu mazi, kikaba gitandukanya amazi n'amazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kirihari"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ikirere"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati mu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kikaba"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "gitandukanya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨hagati ya⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "n'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:44.961274317Z",
+  "model": "glm-5.3"
+}

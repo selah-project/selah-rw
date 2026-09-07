@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Yababu ry'abungeri barimo kurimbaza no kugabanya ⟨את⟩ intama z'ubwatsi bwanjye, amagambo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yababu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ry'abungeri"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "barimo kurimbaza"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "no kugabanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "z'ubwatsi bwanjye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amagambo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:02:34.252483903Z",
+  "model": "glm-5.3"
+}

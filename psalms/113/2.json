@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Izina rya Yahwe rihabe ryizirikwe, kuva none kugeza iteka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rihabe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ryizirikwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuva none"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:37.839212253Z",
+  "model": "glm-5.3"
+}

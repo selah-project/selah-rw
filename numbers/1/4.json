@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi na ⟨את⟩ wowe hazaba umuntu buri wese ku bwoko, umuntu umutwe w'inzu y'imiryango ya se — ni we.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "na ⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hazaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ku bwoko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "y'imiryango ya se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:20:12.076412421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "N'imbaraga z'ibikorwa byawe bibabaza bazazivuga, n'ubukuru bwawe nzabwiriza.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "n'imbaraga z'"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ibikorwa byawe bibabaza"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bazazivuga"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "n'ubukuru bwawe"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "nzabwiriza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:57.714595265Z",
+  "model": "glm-5.3"
+}

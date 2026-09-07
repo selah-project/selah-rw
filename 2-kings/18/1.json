@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Byabaye mu mwaka wa gatatu wa Hoshua (Hoshea) mwene Elah, umwami w'Yisraeli, Hizikiyah mwene Ahazi, umwami wa Yehudah, yagize ubwami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Byabaye"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "wa Hoshua (Hoshea)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:29.978362761Z",
+  "model": "glm-5.3"
+}

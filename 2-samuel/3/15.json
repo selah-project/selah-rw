@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ishi-Bosheti na yatumye, aramutora kuri umugabo — aturutse kwa Paltiyeli, umwana wa Layishi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yatumye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishi-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "aramutora"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "aturutse kwa"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Layishi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:00:03.708712954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Ihisha, kuraho ibabaza ryawe ku njye; n'iyo nganzo y'iganza ryawe narazimiye.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ihisha, kuraho"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ibabaza ryawe"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "n'iyo nganzo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "y'iganza ryawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye (nar-)"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "narazimiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:08.577213555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "⟨את⟩ intama imwe uzayitambira mu gitondo, na ⟨את⟩ intama iya kabiri uzayitambira mu nimugoroba.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama imwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "intama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzayitambira"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "intama iya kabiri"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "intama"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iya kabiri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzayitambira"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mu nimugoroba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:31.471770798Z",
+  "model": "glm-5.3"
+}

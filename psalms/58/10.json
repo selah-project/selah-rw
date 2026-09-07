@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Mbere y'ibisa byanyu bimenya icyinya, ⌈we⌉ azabihererekana nka umuyaga, ubumashi n'uburakari byose.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "mbere y'"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bimenya"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "ibisa byanyu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "icyinya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ubumashi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "azabihererekana n'umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:43.861791439Z",
+  "model": "glm-5.3"
+}

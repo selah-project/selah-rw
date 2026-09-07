@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bityo Yahwe Elohimu yamuhise atumye akimuka mu busitani bw'Edeni, ngo akore ⟨את⟩ ubutaka bwo hasi, aho yavuye (bakuweho).",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "yamuhise atumye akimuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mu busitani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "bw'Edeni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngo akore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwo hasi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ubutaka bwo hasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bakuweho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "yavuye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:24.388026255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Paro yarakaje abaja be, maze ashyira ⟨את⟩ jye mu kigo mu nzu y'umutware w'abatabaji — ⟨את⟩ jye na ⟨את⟩ umutware w'abacuranzi b'umugati.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "yarakaje"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abaja be"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ashyira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jye"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mu kigo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "y'umutware"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "w'abatabaji"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "jye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutware w'abacuranzi b'umugati"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "w'abacuranzi b'umugati"
+    }
+  ],
+  "timestamp": "2026-09-07T08:19:40.688968519Z",
+  "model": "glm-5.3"
+}

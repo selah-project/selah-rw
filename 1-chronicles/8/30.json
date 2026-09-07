@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Abagore be bavise abahungu b'ibanze Avdonu, na Tsuri, na Kishi, na Baali, na Nadavu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "b'ibanze"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdonu"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na Tsuri"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "na Kishi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na Baali"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "na Nadavu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:45.535480510Z",
+  "model": "glm-5.3"
+}

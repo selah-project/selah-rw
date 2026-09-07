@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Mu bwiza bw'abagororotsi umujwi ⟨ni⟩... umujyi urakunda, maze mu guhonya ababi hari urwiwe rw'ineza.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "mu bwiza"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bw'abagororotsi"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "urakunda"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "maze mu guhonya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "hari urwiwe rw'ineza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:51.886055204Z",
+  "model": "glm-5.3"
+}

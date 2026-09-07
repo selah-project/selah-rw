@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yehuda yabwiye Onani ati: Jya k'umugore wa musaza wawe, ⟨kora inshingano z'ubumwe bwa muryango⟩ ⟨את⟩ we, maze uzubake urubyaro rwa musaza wawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "musaza wawe"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "⟨kora inshingano z'ubumwe bwa muryango⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "zubake"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "musaza wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:15:24.425795043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "maze Yahwe akuraho kure ⟨את⟩ abantu, ibyasigiweho bikaba byinshi mu gihugu hose.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "akuraho kure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "bikaba byinshi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ibyasigiweho nyinshi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hagati mu gihugu hose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:42:48.878050150Z",
+  "model": "glm-5.3"
+}

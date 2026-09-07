@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Barakoze ⟨את⟩ umunsi mukuru w'amahema (Sukotu) uko byanditswe, n'ibitambo by'umuriro, umunsi ku munsi, ku bw'umubare, uko imitegeko igena — ijambo ry'umunsi ku munsi wacyo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Barakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi mukuru w'amahema (Sukotu)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umunsi mukuru"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "w'amahema (Sukotu)"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "uko byanditswe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "n'ibitambo by'umuriro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ku bw'umubare"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "uko imitegeko igena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ry'umunsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ku munsi wacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:16:37.267375688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Umva, ubwoko banjye, maze nguvuga; Yisraeli, maze nkumenyesha iby'urubanza kuri wowe: Elohimu, Elohimu wawe, ⟨ni⟩ njye.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ubwoko banjye"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "maze nguvuga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "maze nkumenyesha iby'urubanza"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:08.745929530Z",
+  "model": "glm-5.3"
+}

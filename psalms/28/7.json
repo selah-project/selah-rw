@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yahwe ni imbaraga zanjye n'urwibazwa rwanjye; iyo umutima wanjye wariringiyeho, maze nakiriye ubufasha: umutima wanjye uranezerwa, kandi n'indirimbo yanjye ndamushimira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "n'urwibazwa rwanjye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "waringiyeho"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "maze nakiriye ubufasha"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "uranezerwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "kandi n'indirimbo yanjye"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ndamushimira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:21.313425562Z",
+  "model": "glm-5.3"
+}

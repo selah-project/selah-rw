@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Dore ko ibyemezo bye byose biri imbere yanjye, kandi amategeko ye ntabwo nshyira kure kuri njye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ibyemezo bye"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "imbere yanjye"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "kandi amategeko ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nshyira kure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:46.329039957Z",
+  "model": "glm-5.3"
+}

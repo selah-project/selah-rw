@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nibyo ni ko amategeko yawe yose ndemeza ko ari mahwame; inzira y'ububabi yose nzanka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bivuze ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuri byose"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ndemeza ko ari mahwame"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "y'ububabi"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nzanka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:35.434089587Z",
+  "model": "glm-5.3"
+}

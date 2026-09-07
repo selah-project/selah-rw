@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yahwe Tsevaoti yarahiye ati: Mu by'ukuri, nk'uko natekereje ni ko byagenze, kandi nk'uko nafashe umugambi, ni ko kizahagarara.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "yarahiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ati ko⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mu by'ukuri ⟨nta na kimwe kizahinduka⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "natekereje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byagenze"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "kandi nk'uko"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "nafashe umugambi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni ko icyo⟩"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kizahagarara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:04.626551730Z",
+  "model": "glm-5.3"
+}

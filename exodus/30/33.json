@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umuntu wakorera rokahwe iyo nka yo, cyangwa uko ari we wahesha umutungo muri yo ku utazwi, azavanyweho mu bantu be.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko ari we"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "wakorera rokahwe"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "nka yo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "cyangwa uko ari we"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wahesha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זר",
+      "gloss": "utazwi"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "azavanyweho"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "mu bantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:04.300161492Z",
+  "model": "glm-5.3"
+}

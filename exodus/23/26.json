@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntibazaba uwupfusha abana n'uwutavya mu gihugu cyanyu; ⟨את⟩ umubare w'iminsi yanyu nzawuzura.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntibazaba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bazaba"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "uwupfusha abana"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "n'uwutavya"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "mu gihugu cyanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubare w'iminsi yanyu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "w'iminsi yanyu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "nzawuzura"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:21.713780873Z",
+  "model": "glm-5.3"
+}

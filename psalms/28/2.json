@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Umva ijwi ry'ibanza ryanjye, mu gihe ndakuvunika kuri wowe, mu gihe nzamura ibiganza byanjye ku rwibutso rwawe rw'urwandasiro.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi ry'"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ibanza ryanjye"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "mu gihe ndakuvunika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "mu gihe nzamura"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ibiganza byanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "rwibutso rwawe rw'"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "urwandasiro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:35.365119582Z",
+  "model": "glm-5.3"
+}

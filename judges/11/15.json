@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "yaramubwiye ati: Uko Yiftahi yavuze ati: Yisraeli ntiyafashe ⟨את⟩ igihugu cya Mowabu, na ⟨את⟩ igihugu cy'abana b'Ammonu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mu-"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Mowabu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihugu cy'abana b'Ammonu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:08:11.446724843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ubwere b'umukobwa w'umuhungu wawe cyangwa ubwere b'umukobwa w'umukobwa wawe — ntuzagaragaze ubwe bwabo, kuko ubwe bwawe ni ubwo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubwere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umuhungu wawe"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "umukobwa wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "zagaragaze"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ubwe bwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ubwe bwawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ni ubwo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:52.362678385Z",
+  "model": "glm-5.3"
+}

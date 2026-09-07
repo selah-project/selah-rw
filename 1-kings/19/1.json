@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ahabu yabwiye Izaveli ⟨את⟩ ibyose Eliyahu yakoze, na ⟨את⟩ ibyose yakoze ubwo yishe ⟨את⟩ abanavi bose n'umupanga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izaveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ibyose) Eliyahu yakoze"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ibyose) yishe"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanavi bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abanavi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'umupanga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:00:19.360807042Z",
+  "model": "glm-5.3"
+}

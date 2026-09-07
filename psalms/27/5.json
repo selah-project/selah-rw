@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kuko arampisha mu ihema rye ku munsi w'ibibi; mu ibanga ry'ihema rye arahisha; ku rutare arazamuraho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "arampisha"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "w'ibibi"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "arahisha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ry'ihema rye"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ku rutare"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "arazamuraho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:01.196149199Z",
+  "model": "glm-5.3"
+}

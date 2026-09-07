@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Ntibazakorera mu buhume, kandi ntibazara mu bwoba; ko urubyaro rwo mu bashimirwa na Yahwe ni rwo, n'urubyaro rwabo rukaba hamwe na bo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "bazakorera"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "mu buhume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bazara"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "mu bwoba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "abashimirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "n'urubyaro rwabo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe na bo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:22.415181434Z",
+  "model": "glm-5.3"
+}

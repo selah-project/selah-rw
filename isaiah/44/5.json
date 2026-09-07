@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Uyu azavuga ati: kwa Yahwe nime; n'uyu azahamagarizwa mu izina rya Yaakovu; n'uyu azandika ku kiganza cye ati: kwa Yahwe, kandi azizwa izina rya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nime"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "n'uyu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "azahamagarizwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mu izina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "rya Yaakovu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "n'uyu"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "azandika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ku kiganza cye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "kandi mu izina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rya Yisraeli"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "azizwa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:41.740843022Z",
+  "model": "glm-5.3"
+}

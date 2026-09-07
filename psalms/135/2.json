@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Abahagaze mu nzu ya Yahwe, mu mbuga z'inzu ya Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "abahagaze"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "mu mbuga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:17.042463911Z",
+  "model": "glm-5.3"
+}

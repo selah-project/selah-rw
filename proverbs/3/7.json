@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ntuba umunyabwenge mu maso yawe; tinya Yahwe ⟨את⟩, kandi unakure ibibi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ube"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "kandi unakure"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:40.321525321Z",
+  "model": "glm-5.3"
+}

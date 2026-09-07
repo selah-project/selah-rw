@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze ihembe ryanyu rirohama nk'irohama ry'akanyugunyugu; nk'ibimuga by'enesensi barayiterera iryamwo.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Maze ... rirohama"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "ihembe ryanyu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "irohama"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ry'akanyugunyugu"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "nk'ibimuga"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "by'enesensi"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "barayiterera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iryamwo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:07:42.925593291Z",
+  "model": "glm-5.3"
+}

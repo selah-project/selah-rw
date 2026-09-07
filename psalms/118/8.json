@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Ni byiza guhungira kwa Yahwe kurusha kwizingira umuntu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "guhungira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kurusha kwizingira"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:31.933372298Z",
+  "model": "glm-5.3"
+}

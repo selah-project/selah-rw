@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Yerushalayimu, sesenga ⟨את⟩ Yahwe; Tsiyoni, rhimba Elohimu wawe.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "sesenga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "rhimba"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.586450930Z",
+  "model": "glm-5.3"
+}

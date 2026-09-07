@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Muragaze, kandi ntimukore icyaha; muvuge mu mitima yanyu, ku byari byanyu, mube mute. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Muragaze"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntimukore"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "muvuge"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "mu mitima yanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "byari byanyu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "mube mute"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:19.421552755Z",
+  "model": "glm-5.3"
+}

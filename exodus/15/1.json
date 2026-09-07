@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Hanyuma Moshe n'abana ba Yisraeli baririmbye ⟨את⟩ indirimbo iyi kwa Yahwe, baravuze bati: Nduririmba kwa Yahwe, kuko aremeje cyane; ⟨את⟩ ifarashi n'uwuyikoresha yayivanze mu nyanja.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Hanyuma"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "baririmbye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "n'abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indirimbo iyi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "Nduririmba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "aremeje"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ifarashi"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "n'uwuyikoresha"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yayivanze"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mu nyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:21.873093054Z",
+  "model": "glm-5.3"
+}

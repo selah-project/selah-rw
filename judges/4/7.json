@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze nzakwandutsa iwe, ku ruzi Kishoni, ⟨את⟩ Sisera, umutware w'ingabo za Yavini, na ⟨את⟩ amagare ye na ⟨את⟩ abenshi be; maze ndaguha mu ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "maze nzakwandutsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ruzi"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "w'ingabo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "za Yavini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagare ye"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "amagare ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abenshi be"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "abenshi be"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "maze ndaguha"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:54:30.081218089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nabwiye umumalayika uvugana na njye nti: Ibi ni ibiki?maze yampishije ati: Ibi ni amarembe yasanzeye ⟨את⟩ Yehuda, ⟨את⟩ Yisraeli, na Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ku)"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "uvugana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na njye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yampishije"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "(njye)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "amarembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(a)"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "yasanzeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:59:25.867730189Z",
+  "model": "glm-5.3"
+}

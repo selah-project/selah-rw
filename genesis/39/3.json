@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Shebuja we yarabonye ko Yahwe ari kumwe ⟨את⟩ ye, kandi byose uko we akora, Yahwe abihushaho mu biganza ye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Shebuja we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kumwe na ye (Yosefu)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "abihushaho"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu biganza ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:57.440401478Z",
+  "model": "glm-5.3"
+}

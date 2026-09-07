@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Njye, kuri Elohimu nzahamagara, na Yahwe aransiga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nzahamagara"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "aransiga"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:19.176756296Z",
+  "model": "glm-5.3"
+}

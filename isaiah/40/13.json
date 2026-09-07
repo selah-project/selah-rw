@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ni nde wagenzuye ⟨את⟩ umwuka wa Yahwe? N'umuntu w'inama ze ni nde wamumenyesheje?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "wagenzuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwuka wa Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'umuntu"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "inama ze"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "wamumenyesheje"
+    }
+  ],
+  "timestamp": "2026-09-07T15:14:59.129422296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Iyo umujura abonetse mu kwankera, akabitwa akapfa, nta maraso kuri we.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "mu kwankera"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "abonetse"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "umujura"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akabitwa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akapfa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "amaraso"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:28.252148837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Muzarya ibiribwa byashize kera bikize, kandi muzazana hanze ibyashize mu gihe ibishya bigeza.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "byashize"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "byashize kera bikize"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "n'ibyashize"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ibishya"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "muzazana hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:31.429185979Z",
+  "model": "glm-5.3"
+}

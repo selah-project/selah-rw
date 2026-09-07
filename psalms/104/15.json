@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Kandi umuvinyo wishimisha umutima w'umuntu, ngo amurikire amaso n'amavuta, kandi umugati urashyigikira umutima w'umuntu.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Kandi umuvinyo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "wishimisha"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima wa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "ngo amurikire"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "kandi umugati"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima w'"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "urashyigikira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:15.709496061Z",
+  "model": "glm-5.3"
+}

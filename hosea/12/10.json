@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ariko jye ndi Yahwe, Elohimu wawe, kuva mu gihugu cya Mitsrayimu; ndacyura nanone mu mahema ⟨y'inkambi⟩, nk'iminsi y'umukoro ⟨w'iteka⟩.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ariko jye ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuva mu gihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ndacyura"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "mu mahema"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nk'iminsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "y'umukoro"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:09.754861688Z",
+  "model": "glm-5.3"
+}

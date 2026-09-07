@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Barazingiye hamwe, barahunze; ntibashoboye kurinda umutsindiro, maze nefishi yabo yagiye mu nkomo.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "barahunze"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "barazingiye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashoboye"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "kurinda"
+    },
+    {
+      "surface": "משא",
+      "gloss": "umutsindiro"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "nefishi yabo"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "mu nkomo"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "yagiye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:21:32.123460953Z",
+  "model": "glm-5.3"
+}

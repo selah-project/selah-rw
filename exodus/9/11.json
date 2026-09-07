@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Abahigi ntibashobora guhagara imbere ya Moshe kubera ibisebe, kuko ibisebe byari ku bo bahigi no ku banya Mitsrayimu bose.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bashobora"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abahigi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "guhagara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ibisebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byari"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ibisebe"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "ku bo bahigi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku banya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu bose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:40:47.339827903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 23:17",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Bavuga buri gihe ku bansi be bati: Yahwe yaravuze — 'Shalomu nzaba ihari iyo mwe'; kandi ku buri mugenda mu bugomeki b'umutima we bavuga bati: 'Nta kibi kizaza ku mwe.'",
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "bavuga buri gihe"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "bati"
+    },
+    {
+      "surface": "למנאצי",
+      "gloss": "ku bansi be"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nzaba ihari"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iyo mwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi ku buri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mugenda"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "mu bugomeki"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "b'umutima we"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bavuga bati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kizaza"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kibi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:42:59.161188599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Nk'izina ryawe, Elohimu, ni ko ikuzo rye riherereye ku mpera z'isi; ubutungane bwuzuye iburyo bye.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Nk'izina ryawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ikuzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "mpera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "z'isi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "bwuzuye"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:21.902575199Z",
+  "model": "glm-5.3"
+}

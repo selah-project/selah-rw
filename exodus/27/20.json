@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi wowe uzategeka ⟨את⟩ abana ba Yisraeli, maze bakuzanire iwawe amavuta ya olive yejeruye, ya kugobeka, ku itara, gutuma akazimu kazamuke iteka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kandi wowe"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "uzategeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "maze bakuzanire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya olive"
+    },
+    {
+      "surface": "זך",
+      "gloss": "yejeruye"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ya kugobeka"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ku itara"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "gutuma ... kazamuke"
+    },
+    {
+      "surface": "נר",
+      "gloss": "akazimu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:57.239632538Z",
+  "model": "glm-5.3"
+}

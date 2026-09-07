@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze Moshe yatumye imbere ⟨את⟩ Aharoni na ⟨את⟩ abahungu be, arabatesha ⟨את⟩ bo mu mazi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yatumye imbere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "arabatesha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "Aharoni n'abahungu be"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:36:07.572736521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko Yerushalayimu yarangiritse, na Yehudah yaguye; kuko ururimi rwabo n'ibikorwa byabo biri kuri Yahwe, bakanura amaso y'icyubahiro cye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "yarangiritse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yaguye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ururimi rwabo"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "n'ibikorwa byabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biri kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "bakanura"
+    },
+    {
+      "surface": "עני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "y'icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:06.151527561Z",
+  "model": "glm-5.3"
+}

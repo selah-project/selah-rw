@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ntabwe azacika intege na nta yakorwaho nabi, kugeza ashyinguye urubanza mu isi; kandi ku Tora ye ibirwa bazategereza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "azacika intege"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "yakorwaho nabi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ashyinguye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "na ku Tora ye"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ibirwa"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "bazategereza"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:47.118981911Z",
+  "model": "glm-5.3"
+}

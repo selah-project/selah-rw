@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 137,
+  "translation": "Kuko aho abatwagye basabye amagambo y'indirimbo, n'abatuntuye basabye umunezero, bati: «Muririmbira mu ndirimbo za Tsiyoni.»",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שֶׁאֱלוּנוּ",
+      "gloss": "basabye"
+    },
+    {
+      "surface": "שׁוֹבֵינוּ",
+      "gloss": "abatwagye"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "y'indirimbo"
+    },
+    {
+      "surface": "וְתוֹלָלֵינוּ",
+      "gloss": "n'abatuntuye"
+    },
+    {
+      "surface": "שִׂמְחָה",
+      "gloss": "umunezero"
+    },
+    {
+      "surface": "שִׁירוּ",
+      "gloss": "muririmbira"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "muturirimbira"
+    },
+    {
+      "surface": "מִשִּׁיר",
+      "gloss": "mu ndirimbo"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "za Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:50.562412618Z",
+  "model": "glm-5.3"
+}

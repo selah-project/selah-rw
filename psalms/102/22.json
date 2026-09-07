@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Kugira ngo bamenyeshe izina rya Yahwe muri Tsiyoni, n'icyubahiro cye muri Yerushalayimu;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "kugira ngo bamenyeshe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "muri Tsiyoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "n'icyubahiro cye"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muri Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:09.669456409Z",
+  "model": "glm-5.3"
+}

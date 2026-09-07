@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "genesis 35:13",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 35,
+ "translation": "Maze Elohimu yazamutse ku Yaakovu, mu mwamba ho yavuganiye ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "ויעל",
+   "gloss": "yazamutse"
+  },
+  {
+   "surface": "מעליו",
+   "gloss": "ku Yaakovu"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "במקום",
+   "gloss": "mu mwamba"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ho"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "yavuganiye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "Yaakovu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:12:52.649312264Z",
+ "model": "glm-5.3"
+}

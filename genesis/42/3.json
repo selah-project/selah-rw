@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Abavandimwe ba Yosefu cumi baragiye hasi kugura imfungurwa muri Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "baragiye hasi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abavandimwe ba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kugura"
+    },
+    {
+      "surface": "בר",
+      "gloss": "imfungurwa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muri Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:51.082798983Z",
+  "model": "glm-5.3"
+}

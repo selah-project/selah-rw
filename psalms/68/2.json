@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Elohimu yazahaguruka, abanzi be bazasasarangana, banzi be bakirimbuka i mbere ye.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "yazahaguruka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "bazasasarangana"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "abanzi be"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "bakirimbuka"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "abanci be"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "i mbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:05.267452993Z",
+  "model": "glm-5.3"
+}

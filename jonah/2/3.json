@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Aravuga ati: Nahiye kubera ibyago nari mfite, kwa Yahwe, nuko arampemura; mu nda ya Sheoli nahise ndihamagara, maze wumvise ijwi ryanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahise ndihamagara"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "kubera ibyago"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nari mfite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "arampemura"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Sheoli"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nahamagaye"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wumvise"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:13.867497449Z",
+  "model": "glm-5.3"
+}

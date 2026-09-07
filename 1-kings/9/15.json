@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Iyi ni inkuru y'umusoro uwo umwami Shelomo (Salomo) wazanye ngo abyare ⟨את⟩ inzu ya Yahwe, na ⟨את⟩ inzu ye, na ⟨את⟩ Milu, na ⟨את⟩ urukuba rwa Yerushalayimu, na ⟨את⟩ Hatsori, na ⟨את⟩ Megido, na ⟨את⟩ Gezeri.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ni inkuru"
+    },
+    {
+      "surface": "המס",
+      "gloss": "y'umusoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wazanye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngo abyare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Milu"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urukuba rwa Yerushalayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urukuba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "rwa Yerushalayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatsori"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Megido"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:53.085506051Z",
+  "model": "glm-5.3"
+}

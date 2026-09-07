@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze izina rye rikorerwa mu Yisraeli: Inzu y'uwakuywe urwara.",
+  "tokens": [
+    {
+      "surface": "וְנִקְרָ֥א",
+      "gloss": "maze rikorerwa"
+    },
+    {
+      "surface": "שְׁמ֖וֹ",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "בֵּ֖ית",
+      "gloss": "Inzu"
+    },
+    {
+      "surface": "חֲל֥וּץ",
+      "gloss": "y'uwakuywe"
+    },
+    {
+      "surface": "הַנָּֽעַל",
+      "gloss": "urwara"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:12.569837186Z",
+  "model": "glm-5.3"
+}

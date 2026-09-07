@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ amavuta yo kubohoha na ⟨את⟩ umutsutsu w'impumuro ⟨yw'iminyunyu⟩ bw'urusengero; uko byose nabitegetse, ni byo bazakora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta yo kubohoha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yo kubohoha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutsutsu w'impumuro"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "umutsutsu"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "w'impumuro ⟨yw'iminyunyu⟩"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "bw'urusengero"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nabitegetse"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bazakora"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:13.150090483Z",
+  "model": "glm-5.3"
+}

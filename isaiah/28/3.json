@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ikamba ry'ubwibone ry'abanyobye b'Efrayimu bizariramirwa ku birenge.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "ku birenge"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "bizariramirwa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ikamba"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ry'ubwibone"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "ry'abanyobye"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "b'Efrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:02:55.835822635Z",
+  "model": "glm-5.3"
+}

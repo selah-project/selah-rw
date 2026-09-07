@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Eli azumva maze arabasubiza, we wemeje kera — Selah; abo ntacyo mpinduka bagira, kandi ntibatinya Elohimu.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "maze arabasubiza"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "we wemeje"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kera"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mpinduka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "batinya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:17.697480536Z",
+  "model": "glm-5.3"
+}

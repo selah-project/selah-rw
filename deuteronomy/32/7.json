@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Ibuke iminsi y'iha mbere; tekereza imyaka y'ibisekuru na y'ibisekuru; saba so wawe, kandi azakubwira; n'abakuru bawe, kandi bakubwire we.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ibuke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iha mbere"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "tekereza"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "y'ibisekuru"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na y'ibisekuru"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "so wawe"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "kandi azakubwira"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "abakuru bawe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "kandi bakubwire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:37.385550906Z",
+  "model": "glm-5.3"
+}

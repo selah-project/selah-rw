@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Kuko ⟨ni⟩ byiza umunsi umwe mu rugo rwawe kurusha igihumbi; nahisemo guhagarara ku rutyango mu nzu ya Elohimu wanjye, kurusha gutura mu mahema ry'ibyaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ni⟩ byiza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "umuwe mu rugo rwawe"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "kurusha igihumbi"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nahisemo"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "guhagarara ku rutyango"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "gutura"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mu mahema"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ry'ibyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:34.943090587Z",
+  "model": "glm-5.3"
+}

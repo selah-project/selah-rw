@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Ntunkureho mu gihe cy'ubusaza; iyo imbaraga zanjye zizarangira, ntuntireho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "unkureho"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ubusaza"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "iyo ... zizarangira"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "imbaraga zanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ntuntireho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:53.793296323Z",
+  "model": "glm-5.3"
+}

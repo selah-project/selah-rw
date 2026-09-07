@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Emerza iby'ubushake byo mu kanwa yanjye, nyabyibili, Yahwe, kandi unyigishe imiburibuse yawe.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "iby'ubushake"
+    },
+    {
+      "surface": "פי",
+      "gloss": "byo mu kanwa yanjye"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "Emerza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyabyibili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "kandi imiburibuse yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "unyigishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:14.116801105Z",
+  "model": "glm-5.3"
+}

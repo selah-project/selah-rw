@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Yahwe Elohimu Tsevaoti, tugarukire; umurikire ubuso bwawe, turokorwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tugarukire"
+    },
+    {
+      "surface": "האר",
+      "gloss": "umurikire"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bwawe"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "turokorwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:35.649192098Z",
+  "model": "glm-5.3"
+}

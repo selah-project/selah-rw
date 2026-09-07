@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 101:7",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 101,
+ "translation": "Ntihatura mu nzu yanjye ukora ubuyusi; uvuga ibinyoma ntihagarara imbere y'amaso yanjye.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "nti-"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "atatura"
+  },
+  {
+   "surface": "בקרב",
+   "gloss": "mu"
+  },
+  {
+   "surface": "ביתי",
+   "gloss": "nzu yanjye"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ukora"
+  },
+  {
+   "surface": "רמיה",
+   "gloss": "ubuyusi"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "uvuga"
+  },
+  {
+   "surface": "שקרים",
+   "gloss": "ibinyoma"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti-"
+  },
+  {
+   "surface": "יכון",
+   "gloss": "atuma hagashira"
+  },
+  {
+   "surface": "לנגד",
+   "gloss": "imbere"
+  },
+  {
+   "surface": "עיני",
+   "gloss": "y'amaso yanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:43:18.802693877Z",
+ "model": "glm-5.3"
+}

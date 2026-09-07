@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Cheveri yabyaye ⟨את⟩ Yafleti na ⟨את⟩ Shomeri na ⟨את⟩ Hotamu na ⟨את⟩ Shuwa umwashiki wabo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Cheveri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafleti"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yafleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shomeri"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hotamu"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shuwa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shuwa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "umwashiki wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:34:01.011293156Z",
+  "model": "glm-5.3"
+}

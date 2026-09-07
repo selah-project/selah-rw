@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abagabo bose mu bakohenu bazabirya; mu mwanya utagatifu hazarywa; utagatifu nyagatifu ni cyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mu bakohenu"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bazabirya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu mwanya"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hazarywa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nyagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:19.226938839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "kuko ku gihe cy'umunsi, ku munsi ku munsi, bazaza kwa Dawidi bamufashije, kugeza zihise ingabo nkuru nk'ingabo z'Elohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ku gihe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "cy'umunsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi ku munsi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "bamufashije"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "nk'ingabo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "z'Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:23.090967984Z",
+  "model": "glm-5.3"
+}

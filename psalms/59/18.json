@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ubushake bwanjye, i wowe nzimbaza, kuko Elohimu ⟨ni⟩ itare ryanjye, Elohimu w'hesedi yanjye.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Ubushake bwanjye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i wowe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nzimbaza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "itare ryanjye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "w'hesedi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:52.329188788Z",
+  "model": "glm-5.3"
+}

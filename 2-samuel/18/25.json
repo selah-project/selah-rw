@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Umurinzi yaguhamagaye abwira umwami; maze umwami aravuga ati: Niba ari we wenyine, amakuru meza ari mu kanwa ye. Nuko aragenda ari kugenda araregereza.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yaguhamagaye"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "amakuru meza"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mu kanwa ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ari kugenda"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "araregereza"
+    }
+  ],
+  "timestamp": "2026-09-07T13:17:13.111692326Z",
+  "model": "glm-5.3"
+}

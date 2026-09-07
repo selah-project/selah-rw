@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze azana mu zevahi rya shelamim icy'umuriro rya Yahwe: ⟨את⟩ ivuta rihisha ⟨את⟩ imbyo, na ⟨את⟩ ivuta ryose riri ku mbyo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Maze azana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mu zevahi rya"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "icy'umuriro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "rya Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ivuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "rihisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbyo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "imbyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ivuta ryose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ivuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mbyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:52.964019035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Ni nde bwanjye mu ijuru? Kandi wowe, nta wundi nifuje mu isi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bwanjye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "kandi wowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nifuje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:12.778193940Z",
+  "model": "glm-5.3"
+}

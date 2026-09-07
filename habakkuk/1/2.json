@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kugeza ryari, Yahwe, ndasaba kandi ntumva? Ndarira ubugome iyo kuri wewe, kandi nturokora?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndasaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nt"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndarira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iyo kuri wewe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubugome"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "kandi nt"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "urokora"
+    }
+  ],
+  "timestamp": "2026-09-07T17:52:44.345703491Z",
+  "model": "glm-5.3"
+}

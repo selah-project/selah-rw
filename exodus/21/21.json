@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Gusa iyo ⟨yo⟩ ahagaze umunsi cyangwa ibyumunsi, ntihemberwa, kuko ari feza ⟨ni⟩ ye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ibyumunsi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ahagaze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "hemberwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "feza ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:38.093162469Z",
+  "model": "glm-5.3"
+}

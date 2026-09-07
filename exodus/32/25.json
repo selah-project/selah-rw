@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Moshe yarebye ⟨את⟩ abantu ko basanutse, kuko Aharoni yabasanutse ngo babe urwibazo mu bahanganira babo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "basanutse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "yabasanutse"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "ngo babe urwibazo"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "mu bahanganira babo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:15:24.221416422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "1-samuel 30:3",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 30,
+ "translation": "Dawidi n'abantu be bageze kuri umujyi, rwose urasye mu muriro; abagore babo, abahungu babo n'abakobwa babo barafashwe.",
+ "tokens": [
+  {
+   "surface": "ויבא",
+   "gloss": "bageze"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawidi"
+  },
+  {
+   "surface": "ואנשיו",
+   "gloss": "n'abantu be"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "umujyi"
+  },
+  {
+   "surface": "והנה",
+   "gloss": "rwose"
+  },
+  {
+   "surface": "שרופה",
+   "gloss": "urasye"
+  },
+  {
+   "surface": "באש",
+   "gloss": "mu muriro"
+  },
+  {
+   "surface": "ונשיהם",
+   "gloss": "abagore babo"
+  },
+  {
+   "surface": "ובניהם",
+   "gloss": "abahungu babo"
+  },
+  {
+   "surface": "ובנתיהם",
+   "gloss": "abakobwa babo"
+  },
+  {
+   "surface": "נשבו",
+   "gloss": "barafashwe"
+  }
+ ],
+ "timestamp": "2026-09-07T12:54:05.283919769Z",
+ "model": "glm-5.3"
+}

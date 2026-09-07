@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "jeremiah 29:12",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 29,
+ "translation": "Muzahamagara ⟨את⟩ njye, muzagenda muzasenga munsinka, maze numva kuri mwe.",
+ "tokens": [
+  {
+   "surface": "וקראתם",
+   "gloss": "muzahamagara"
+  },
+  {
+   "surface": "אתי",
+   "gloss": "⟨את⟩ njye",
+   "marks": "njye"
+  },
+  {
+   "surface": "והלכתם",
+   "gloss": "muzagenda"
+  },
+  {
+   "surface": "והתפללתם",
+   "gloss": "muzasenga"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "munsinka"
+  },
+  {
+   "surface": "ושמעתי",
+   "gloss": "maze numva"
+  },
+  {
+   "surface": "אליכם",
+   "gloss": "kuri mwe"
+  }
+ ],
+ "timestamp": "2026-09-07T16:09:48.344097255Z",
+ "model": "glm-5.3"
+}

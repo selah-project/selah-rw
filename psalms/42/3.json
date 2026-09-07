@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Nefeshi yanjye yihanganije inyota kuri Elohimu, kuri Eli w'ubuzima: ndaza ryari, mbona uburanga bwa Elohimu?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "yihanganije inyota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuri Elohimu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kuri Eli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "w'ubuzima"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndaza"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mbona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bwa Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:27.405371659Z",
+  "model": "glm-5.3"
+}

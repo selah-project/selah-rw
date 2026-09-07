@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ku gabo kugeza ku gore mwohereze inyuma y'ikampinga mwohereze; batavandise ⟨את⟩ ikampinga yabo amo njye nituye muri bo.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "ku gabo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ku gore"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "mwohereze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'ikampinga"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "mwohereze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "vandise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikampinga yabo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ikampinga yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nituye"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "muri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:05.942957485Z",
+  "model": "glm-5.3"
+}

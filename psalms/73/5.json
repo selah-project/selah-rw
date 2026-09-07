@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Mu byago by'abantu ntibari, mu bantu ntibagira ibabaro.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "mu byago bya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ntibari"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "bagira ibabaro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:08.590397373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yatumye umugenda abantu be nk'intara, arabayobye nk'urukumbi rw'intara mu butayu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yatumye umugenda"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "nk'intara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "arabayobye"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "nk'urukumbi rw'intara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:04.643276124Z",
+  "model": "glm-5.3"
+}

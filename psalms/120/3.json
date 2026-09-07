@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Ni iki kizaguha iwe, n'iki kikongererwa iwe, ururimi rw'ubugari?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kizaguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "n'iki"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "kikongererwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "rw'ubugari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:12.908547925Z",
+  "model": "glm-5.3"
+}

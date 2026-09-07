@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Paro umwami wa Mitsrayimu (Egiputa) yarazamutse, yarafashe ⟨את⟩ Gezeri, yarayicanse mu muriro, na ⟨את⟩ umukanani wari utuye mu mujyi yamwiciye, maze ayihaye umuheko umukobwa we, umugore wa Shelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yarazamutse"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yarafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "yarayicanse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umukanani wari utuye mu mujyi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umukanani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wari utuye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yamwiciye"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "maze ayihaye"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "umuheko"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "umukobwa we"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:53.085948251Z",
+  "model": "glm-5.3"
+}

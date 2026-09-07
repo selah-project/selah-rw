@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Iyo abagororotsi biyongereye, abantu bishimira; kandi iyo umunyabyaha ategeka, abantu bimpinza.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "iyo ... biyongereye"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abagororotsi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bishimira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "kandi iyo ... ategeka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umunyabyaha"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "bimpinza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:54.344255474Z",
+  "model": "glm-5.3"
+}

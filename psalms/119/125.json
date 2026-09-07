@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Jye ⟨ni⟩ umugaragu wawe: mpanye ubwenge, kandi nzamenye ibyangombwa byawe.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mpanye ubwenge"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "kandi nzamenye"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ibyangombwa byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:35.428487863Z",
+  "model": "glm-5.3"
+}

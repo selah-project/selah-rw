@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Urwibisho bashyize ku ngendo zanjye; Nefeshi yanjye yubitse; icyobo baracyuye imbanze yanjye, maze ni bo baguye mu cyo. Selahi.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "urwibisho"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "ku ngendo zanjye"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "yubitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "baracyuye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbanze yanjye"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "icyobo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "baraguye"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mu cyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:38.039738409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Icungure, Elohimu, ⟨את⟩ Yisraeli (Isirayeli), mu byago bye byose.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Icungure"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu ... byose"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "byago bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:05.609697931Z",
+  "model": "glm-5.3"
+}

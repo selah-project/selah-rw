@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze bigiwe kuri wewe, umaze kubyumva, ukore ubushakashatsi neza; maze urebe: niby'ukuri, ikintu cyemejwe, ko iki kiyirukirwa cyakozwe mu Yisraeli —",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "bigiwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "umaze kubyumva"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ukore ubushakashatsi"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "neza"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze urebe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iby'ukuri"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "cyemejwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ikintu"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "cyakozwe"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "kiyirukirwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:07:15.957078820Z",
+  "model": "glm-5.3"
+}

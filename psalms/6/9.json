@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Muvaho kuri njye, mwe abakora ibibi bose; kuko Yahwe yazwi ijwi ry'irira ryanjye.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Muvaho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ry'irira ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:19.385125317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "⟨paamoni⟩ y'zahabu na ⟨rimon⟩, ⟨paamoni⟩ y'zahabu na ⟨rimon⟩, ku mpera z'umwenda ku mpande zose.",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "paamoni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "rimon"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "paamoni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "rimon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "mpera"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "z'umwenda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:10:59.740209740Z",
+  "model": "glm-5.3"
+}

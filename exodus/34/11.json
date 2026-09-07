@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Cira ubwenge wowe ku byo njye nguhishuriya uyu munsi; urabe, njye ndakurera imbere yawe ⟨את⟩ Abemori, Abakenaani, Abahiti, Abarizi, Abahiwi, n'Abayebusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Cira ubwenge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo njye nguhishuriya uyu munsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nguhishuriya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "urabe, njye"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ndakurera"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abemori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Abakenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Abahiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Abarizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Abahiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "n'Abayebusi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:14:11.470486389Z",
+  "model": "glm-5.3"
+}

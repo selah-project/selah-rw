@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ku mwunganizi, indirimbo ya Dawidi, umugaragu wa Yahwe, wavuze kwa Yahwe ⟨את⟩ amagambo y'iyi ndirimbo, mu munsi Yahwe yamurokotse ⟨את⟩ we mu ntoki z'abanzi be bose no mu biganza bya Shauli (Sawuli).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mwunganizi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "umugaragu wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "y'indirimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "yamurokotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (Dawidi)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mu ntoki z'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "abanzi be"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "no mu biganza bya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:01.087741999Z",
+  "model": "glm-5.3"
+}

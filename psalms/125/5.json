@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 125,
+  "translation": "Ari ba bandi bahindukira ku nzira zabo zigendagendereko, Yahwe azabayobora ⟨את⟩ abakora ikibi; Shalomu ku Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Ari ba bandi bahindukira"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ku nzira zabo zigendagendereko"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "azabayobora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakora ikibi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:17.188289719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Mubwire Elohimu: Ibyo ukora ni iby'ubwoba bwinshi! Kubera ubwinshi bw'imbaraga zawe, abanzi bawe bazigera bagakwikiriza ububeshyi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mubwire"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "…"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ni iby'ubwoba bwinshi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibyo ukora"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kubera ubwinshi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imbaraga zawe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bazigera bagakwikiriza ububeshyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:21.351024810Z",
+  "model": "glm-5.3"
+}

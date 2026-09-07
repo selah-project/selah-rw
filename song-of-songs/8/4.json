@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Narasabiye ⟨את⟩ mwe, inabibonera iyo abakobwa ba Yerushalayimu: ibihe mwazukisha, ibihe mwarura ⟨את⟩ urukundo, mbere y'ako rushimye?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "narasabiye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe, inabibonera iyo abakobwa ba Yerushalayimu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "inabibonera iyo abakobwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ibihe"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "mwazukisha"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ibihe"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "mwarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urukundo"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "urukundo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mbere y'ako"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "rushimye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:44:24.620754666Z",
+  "model": "glm-5.3"
+}

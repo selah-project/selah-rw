@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Na ⟨את⟩ Hori mu misozi yabo ya Seiri, kugera kuri Eli-Parani iri ku butayu bwagati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "mu misozi yabo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "butayu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:00.919051304Z",
+  "model": "glm-5.3"
+}

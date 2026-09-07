@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ibyo wakoze, nanjye ncecekutse; wibwiraga ko njye nzaba nk'uri wowe; nzaguha inka kandi nzabishyira imbere y'amaso yawe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "nanjye ncecekutse"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "wibwiraga"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nzaba"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nk'uri wowe"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "nzaguha inka"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "nzabishyira imbere"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "y'amaso yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:07.455322990Z",
+  "model": "glm-5.3"
+}

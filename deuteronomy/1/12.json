@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nate ndatwara ubwanjye wenyine umutwaro wanyu n'ibitwaro byanyu n'amacakubiri yanyu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Nate"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndatwara"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ubwanjye wenyine"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "umutwaro wanyu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "n'ibitwaro byanyu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "n'amacakubiri yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:43:24.843063850Z",
+  "model": "glm-5.3"
+}

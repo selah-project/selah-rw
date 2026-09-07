@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Maze yandukura amcyo mu kibanza gihembahiye, arankiza kuko yagiranaga ineza na njye.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "yandukura"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "mu kibanza gihembahiye"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "arankiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yagiranaga ineza"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:39.746969315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ hakosi, na ⟨את⟩ hashalahi, na ⟨את⟩ hayanashuphu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hakosi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "hakosi ⟨inyoni⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hashalahi"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "hashalahi ⟨inyoni⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hayanashuphu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "hayanashuphu ⟨inyoni⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:52.457574082Z",
+  "model": "glm-5.3"
+}

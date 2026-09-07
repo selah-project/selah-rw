@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze bafata ⟨את⟩ amagufwa yabo, bayashyingura munsi y'igiti cya esheri i Yaveshi, maze bafunga iminsi irindwi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Maze bafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa yabo"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "amagufwa yabo"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bayashyingura"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "igiti cya esheri"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "i Yaveshi"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "maze bafunga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:56:14.960293213Z",
+  "model": "glm-5.3"
+}

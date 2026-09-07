@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Hushayi na we aravuze ati: «Wowe uzi ⟨את⟩ se wawe na ⟨את⟩ abantu be — ko ni intwari, kandi bahenze mu Nefeshi yabo, nk'imvubu y'ibibari byayo mu murima; na se wawe ni umuntu w'intambara, kandi ntabwo azigera ahita ijoro ⟨את⟩ ⟨mu⟩ bantu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hushayi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se wawe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "se wawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu be"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "intwari"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "bahenze"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi yabo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "nk'imvubu"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "y'ibibari byayo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "na se wawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "w'intambara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "azigera ahita ijoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨mu⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:13:50.736014266Z",
+  "model": "glm-5.3"
+}

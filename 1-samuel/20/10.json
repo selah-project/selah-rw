@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Dawidi yaravuze kuri Yehonatanu ati: Nde uzambwira, cyangwa iki da wawe azishuraho bikaze?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uzambwira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "azishuraho"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "da wawe"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "bikaze"
+    }
+  ],
+  "timestamp": "2026-09-07T12:39:49.036635383Z",
+  "model": "glm-5.3"
+}

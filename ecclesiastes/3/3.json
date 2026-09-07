@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Igihe cyo kwica, n'igihe cyo kuravura; igihe cyo kugwa, n'igihe cyo kubaka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "cyo kwica"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "cyo kuravura"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "cyo kugwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "cyo kubaka"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:32.512212894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Ibyo nasezeranye kwa Yahwe nzakoresha, none ⟨imbere⟩ y'abantu be bose.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ibyo nasezeranye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nzakoresha"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "⟨imbere⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "none"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "y'… bose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:10.056978640Z",
+  "model": "glm-5.3"
+}

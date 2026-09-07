@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo inka y'umuntu igongera ⟨את⟩ inka ya mugenzi we ikapfa, bazagurisha ⟨את⟩ inka ihari, bacakemura ⟨את⟩ ifeza yayo, kandi ⟨את⟩ iyapfuwe bayikemuraho.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "igongera"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka ya mugenzi we"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ya mugenzi we"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ikapfa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "bazagurisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka ihari"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ihari"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "bacakemura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza yayo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ifeza yayo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyapfuwe"
+    },
+    {
+      "surface": "המת",
+      "gloss": "iyapfuwe"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "bayikemuraho"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:38.946308945Z",
+  "model": "glm-5.3"
+}

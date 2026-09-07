@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Amagambo ya Koheleti, umwana wa Dawidi, umwami i Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amagambo"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:40.807266791Z",
+  "model": "glm-5.3"
+}

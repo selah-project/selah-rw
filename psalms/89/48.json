@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Wibuke njye ubuzima ngufi ngeze; ni mu buwa utwaremye abana bose b'abantu?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wibuke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ubuzima ngufi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "utwaremye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:27.023679804Z",
+  "model": "glm-5.3"
+}

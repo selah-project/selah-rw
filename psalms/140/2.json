@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Unkize, Yahwe, mu muntu mubi; unkure mu muntu w'inkabi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Unkize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mubi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "w'inkabi"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "unkure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:41.804330765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Maze yayizeye ⟨את⟩ zahabu yatunganye, yakoreraho zeri (umurongo w'izenga) rya zahabu ku mpande zose.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "yayizeye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yayizeye (imeza)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yatunganye"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku yo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zeri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:36.633158225Z",
+  "model": "glm-5.3"
+}

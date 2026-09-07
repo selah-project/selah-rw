@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ntimuzagerageze ⟨את⟩ Yahwe, Elohimu wanyu, uko mwaragerageje i Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "muzagerageza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "mwaragerageje"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "i Massa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:59.688056745Z",
+  "model": "glm-5.3"
+}

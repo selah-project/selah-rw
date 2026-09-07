@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Kugira ngo icyubahiro cyo cyakuzimbira kandi nticyahamera: Yahwe, Elohimu wanjye, mbere y'iteka nzagushima ⟨ndakuzera⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kugira ngo"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "cyakuzimbira"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nticyahamera"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "cyahamera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mbere y'iteka"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nzagushima ⟨ndakuzera⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:54.241678439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Mazatembatsa amahanga mu mujinya wanjye, mazibwira mu burakari bwanjye, mazimurira ku isi amaraso yabo.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "mazatembatsa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mu mujinya wanjye"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "mazibwira"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "mu burakari bwanjye"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "mazimurira"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "amaraso yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:32:02.597020450Z",
+  "model": "glm-5.3"
+}

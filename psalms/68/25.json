@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Barabona indendo zawe, Elohimu, indendo z'Eli wanjye, umwami wanjye, mu gitagatifu.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Barabona"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "indendo zawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "indendo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "z'Eli wanjye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu gitagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:31.299967825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Iyo ugenda, intambwe yawe ntiyazagabana; kandi iyo uriruka, ntuzakoragura.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Iyo ugenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yazagabana"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "intambwe yawe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "uriruka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "zakoragura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:52.921818008Z",
+  "model": "glm-5.3"
+}

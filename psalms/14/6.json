@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Inama y'umukene mwayisweriye, kuko Yahwe ⟨ni⟩ we ubuhungiro bwe.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "inama"
+    },
+    {
+      "surface": "עני",
+      "gloss": "y'umukene"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "mwayisweriye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "ubuhungiro bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:18.858397888Z",
+  "model": "glm-5.3"
+}

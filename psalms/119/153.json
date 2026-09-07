@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Reba ihungabana ryanjye, unkindure, kuko Tora yawe ntiyari ntekwibagira.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ihungabana ryanjye"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "unkindure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ntiyari ntekwibagira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:21.843866251Z",
+  "model": "glm-5.3"
+}

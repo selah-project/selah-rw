@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abahungu ba Hami: Kushi, na Mitsrayimu, Puti, na Kenahani.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hami"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayimu"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Puti"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "na Kenahani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:28:50.803879137Z",
+  "model": "glm-5.3"
+}

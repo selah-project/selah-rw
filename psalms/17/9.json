@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ku bw'ababi beza barandetse, abanzi banjye mu nefeshi bazingiye kuri njye.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "beza"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "barandetse"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mu nefeshi"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "bazingiye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:03.274456684Z",
+  "model": "glm-5.3"
+}

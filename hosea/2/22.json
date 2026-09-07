@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Nzamurashyingiriza kuri jye mu kwizera; maze uzamenya ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "nzamurashyingiriza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "mu kwizera"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "uzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:27.421148017Z",
+  "model": "glm-5.3"
+}

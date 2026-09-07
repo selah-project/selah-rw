@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ igicaniro cy'itangwa ⟨ritangazwa hose n'umuriro⟩, na ⟨את⟩ ibikoresho byacyo byose, na ⟨את⟩ urwogero na ⟨את⟩ ishyigikiro rye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "itangwa ⟨ritangazwa hose n'umuriro⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byacyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urwogero"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "urwogero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ishyigikiro rye"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ishyigikiro rye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:13.149607421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Yashekesheje ⟨את⟩ abaherezi bose bo ku misozi igiheye bari aho ku nterabigwi, ashyushye ⟨את⟩ amagufa y'abantu ku zo, maze asubira i Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "yashekesheje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaherezi bose bo ku misoji igiheye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bo ku misoji igiheye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari aho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "nterabigwi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ashyushye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufa y'abantu"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'abantu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "asubira"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:34:48.902047211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Irinde ⟨את⟩ umunsi wa Shabati mu kuyigira igitagatifu, nko Yahwe Elohimu wawe yagutegetse.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Irinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi wa Shabati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "mu kuyigira igitagatifu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "yagutegetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:48:58.434359118Z",
+  "model": "glm-5.3"
+}

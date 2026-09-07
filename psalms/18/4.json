@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ndahamagara Yahwe, uwitabiwe ikuzo, maze nkiva ku banshi banjye nkirokoka.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "uwitabiwe ikuzo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "Ndahamagara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "maze nkiva ku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "nkirokoka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:01.089684516Z",
+  "model": "glm-5.3"
+}

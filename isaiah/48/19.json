@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Urubare rwawe rwakaba nk'umucanga, urubyaro rw'inda yawe nk'imitsi yaryo; izina ryawo ntirwazirurwa kandi ntirwasibanganywa imbere yan jye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rwakaba"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "nk'umucanga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "Urubare rwawe"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "rw'inda yawe"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "nk'imitsi yaryo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiri"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "rwazirurwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "rwasibanganywa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina ryawo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere yan jye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:21:51.090624551Z",
+  "model": "glm-5.3"
+}

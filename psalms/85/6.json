@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Ese mu iteka ryose urarakara uri kuri twebwe? Ese uburakari bwawe ukomeza ku bisekuruza n'ibisekuruza?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Ese mu iteka ryose"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "urarakara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uri kuri twebwe"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ukomeza"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku bisekuruza"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ibisekuruza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:30.628133115Z",
+  "model": "glm-5.3"
+}

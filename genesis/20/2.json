@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Avrahamu yaravuze ku Sarahi (Sara) umugore we ati: Ni murumuna wanjeweaza we. Abimeleke (Abimeleki), umwami wa Gerara, yaratumye maze afata ⟨את⟩ Sarahi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahi (Sara)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "murumuna wanjye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yaratumye"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke (Abimeleki)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "wa Gerara"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarahi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:52:29.861522589Z",
+  "model": "glm-5.3"
+}

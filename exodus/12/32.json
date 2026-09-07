@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "N'intama zanyu n'inka zanyu muzifate, nko mwabivuze, mujye; mukazadusuha n'⟨את⟩ njye ubwanyine.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "N'"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "intama zanyu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "inka zanyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "muzifate"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "mwabivuze"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mujye"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "mukazadusuha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ njye",
+      "marks": "njye (Paro)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:29.485151795Z",
+  "model": "glm-5.3"
+}

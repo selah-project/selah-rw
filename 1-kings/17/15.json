@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yagiye yakora uko Eliyahu yari yaravuze; bararya we na we n'inzu ye iminsi.",
+  "tokens": [
+    {
+      "surface": "ו תלך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu yaravuze"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "bararya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we (Eliyahu)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "n'inzu ye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:05.666904553Z",
+  "model": "glm-5.3"
+}

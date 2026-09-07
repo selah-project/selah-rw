@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "m'Elohimu turahimbaza mu munsi wose, kandi izina ryawe turashimira iteka ryose. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "m'Elohimu"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "turahimbaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mu munsi"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "kandi izina ryawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "turashimira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:38.765051384Z",
+  "model": "glm-5.3"
+}

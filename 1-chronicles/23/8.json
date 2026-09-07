@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Abana ba Ladanu: umukuru ⟨ni⟩ Yehieli, na Zetamu, na Yoweli — ⟨batatu⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ladanu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yehieli"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "na Zetamu"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "na Yoweli"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "batatu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:04.555276532Z",
+  "model": "glm-5.3"
+}

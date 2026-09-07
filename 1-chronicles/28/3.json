@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ariko Elohimu yabwiye kanjye ati: Ntuzubake inzu y'izina ryanjye, kuko wowe uri umuntu w'intambara, kandi wasohoye amaraso.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Ariko Elohimu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ntu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "zubake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "y'izina ryanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "w'intambara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "wasohoye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:46:56.019779330Z",
+  "model": "glm-5.3"
+}

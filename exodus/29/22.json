@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzakuramo ku ruguri (inguri) ibimba n'umurizo w'ibimba, na ⟨את⟩ ibimba bicinga ⟨את⟩ inyemu, na ⟨את⟩ agace k'umwijima, na ⟨את⟩ impyiko ebyiri, na ⟨את⟩ ibimba biri ku zo, na ⟨את⟩ ukuguru kw'iburyo — kuko ni uruguri rwo gushyirwaho mu murimo (rw'itangwa rya kohenu).",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Uzakuramo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ruguri"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibimba"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "n'umurizo w'ibimba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimba bicinga inyemu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibimba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "bicinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyemu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inyemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agace k'umwijima"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "agace"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "k'umwijima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "impyiko ebyiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ebyiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimba biri ku zo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ku zo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukuguru kw'iburyo"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ukuguru"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kw'iburyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "איל",
+      "gloss": "uruguri"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "rwo gushyirwaho mu murimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:08:28.147091121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Shalumu yabyaye ⟨את⟩ Hilkiyah, maze Hilkiyah yabyaye ⟨את⟩ Azarayah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shalumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "maze Hilkiyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarayah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayah"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:53.171266803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 100,
+  "translation": "Injira mu milango ye mu mushima, mu bibanza bye mu gusingiza; mushime, mukuze izina rye.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Injira"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "mu milango ye"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mu mushima"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "mu bibanza bye"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "mu gusingiza"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mushime"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mukuze"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:47.532358574Z",
+  "model": "glm-5.3"
+}

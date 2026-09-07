@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Na ⟨את⟩ umutungo wabo wose, na ⟨את⟩ urubyaro rwabo rwose, na ⟨את⟩ abagore babo baratwara ku bucakara, barabiba, na ⟨את⟩ byose biri mu nzu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutungo wabo wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "umutungo wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urubyaro rwabo rwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "urubyaro rwabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abagore babo"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "abagore babo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "baratwara ku bucakara"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "barabiba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose biri mu nzu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:45.810209467Z",
+  "model": "glm-5.3"
+}

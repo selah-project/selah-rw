@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "N'abahungu ba Kehati: Amuramu, Yitsari, Cheburuni na Uzieli; imyaka y'ubuzima bwa Kehati yari imyaka ijana rumwe n'imirongo itatu n'atandatu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "N'abahungu ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amuramu"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitsari"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Cheburuni"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Uzieli"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "imyaka y'"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "n'imirongo itatu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ijana rumwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:34.120933216Z",
+  "model": "glm-5.3"
+}

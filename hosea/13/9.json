@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Yisraeli, ubwangizi bwawe ni ubwawe; ariko umufasha wawe ni njye ⟨gusa⟩.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ubwangizi bwawe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "mu kugufasha kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:23.139255465Z",
+  "model": "glm-5.3"
+}

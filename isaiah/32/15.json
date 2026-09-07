@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "isaiah 32:15",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 32,
+ "translation": "kugeza umwuka udutswitsweho uturutse mu ma-juru hejuru, maze ubutayu buhabwe ⟨agace ka⟩ umurima w'imbuto, na karmelo ibarwe nk'ishyamba.",
+ "tokens": [
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "יערה",
+   "gloss": "udutswitsweho"
+  },
+  {
+   "surface": "עלינו",
+   "gloss": "udutswitsweho"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "umwuka"
+  },
+  {
+   "surface": "ממרום",
+   "gloss": "mu ma-juru hejuru"
+  },
+  {
+   "surface": "והיה",
+   "gloss": "maze"
+  },
+  {
+   "surface": "מדבר",
+   "gloss": "ubutayu"
+  },
+  {
+   "surface": "לכרמל",
+   "gloss": "umurima w'imbuto"
+  },
+  {
+   "surface": "וכרמל",
+   "gloss": "karmelo"
+  },
+  {
+   "surface": "ליער",
+   "gloss": "ishyamba"
+  },
+  {
+   "surface": "יחשב",
+   "gloss": "ibarwe"
+  }
+ ],
+ "timestamp": "2026-09-07T15:03:22.544341014Z",
+ "model": "glm-5.3"
+}

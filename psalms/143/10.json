@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Yigisha kugira icyo ushimisha, kuko wowe Eli wanjye; umwuka wawe ni mwiza, ukanreyereza mu gihugu cy'ubworohezi.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Yigisha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kugira"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "icyo ushimisha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eli wanjye"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "umwuka wawe"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ni mwiza"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ukanreyereza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "cy'ubworohezi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:03.255241960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Kuko wowe Elohimu, urwibazi rwanjye ⟨uri⟩; kuki waransibye? Kuki ndagenda n'agahinda, mu guhohotwa n'umwanzi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "urwibazi rwanjye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "waransibye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "n'agahinda"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndagenda"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "mu guhohotwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n'umwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:23.463542218Z",
+  "model": "glm-5.3"
+}

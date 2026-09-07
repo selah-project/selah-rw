@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Uzandike ku mabuye ⟨את⟩ amajambo yose ya Tora aha, ubyandike neza cyane.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "uzandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aha"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ubyandike"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "neza cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T11:09:44.186283072Z",
+  "model": "glm-5.3"
+}

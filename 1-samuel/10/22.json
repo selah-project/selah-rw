@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Barongeye kubaza kwa Yahwe bati: Haki, hari undi muntu uje hano? Yahwe aravuga ati: Reba, we yihishe mu bikoresho.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "barongeye kubaza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "uje"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hari undi"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "yihishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "bikoresho"
+    }
+  ],
+  "timestamp": "2026-09-07T12:28:36.221653109Z",
+  "model": "glm-5.3"
+}

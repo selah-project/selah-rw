@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abagenzi be mu mwezi wayo ⟨ni⟩ intare zihuruma; abacamanza be ⟨ni⟩ ingwe z'ijoro, ntibagize itsinzi mu gitondo.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Abagenzi be"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mu mwezi wayo"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "intare"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "zihuruma"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "abacamanza be"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "ingwe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "z'ijoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "bagize itsinzi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mu gitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:55:28.853307659Z",
+  "model": "glm-5.3"
+}

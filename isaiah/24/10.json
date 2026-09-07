@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Umujyi w'ubusa wamenetse; inzu yose yifunze ku kwinjira.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "wamenetse"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "w'ubusa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "yifunze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ku kwinjira"
+    }
+  ],
+  "timestamp": "2026-09-07T14:58:18.525275329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nawe we yari afite amarira mu Nefeshi, maze yasenga kuri Yahwe, arira arira cyane.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Nawe we"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "yari afite amarira"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "maze yasenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "arira"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "arira cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T21:29:13.802752187Z",
+  "model": "glm-5.3"
+}

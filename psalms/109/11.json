@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Umwenda w'inyungu agire urwego ku byo yafite byose, kandi abanyamahanga bibe icyo barimo umurimo we.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "agire urwego"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "umwenda w'inyungu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byo byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yafite"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "kandi bibe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abanyamahanga"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "umurimo we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:26.483393423Z",
+  "model": "glm-5.3"
+}

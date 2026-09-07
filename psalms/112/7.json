@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Amakuru mabi ntayatinya; umutima we uhagaze neza, yiringiye kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "amakuru"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "atinya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "uhagaze neza"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yiringiye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:22.001479874Z",
+  "model": "glm-5.3"
+}

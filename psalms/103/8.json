@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Yahwe ni we unyurwa impuhwe kandi utanga ingabire, ntaguhita akasahura, kandi afite hesedi nyinshi ⟨(urukundo rutagira umupaka)⟩.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "unyurwa impuhwe"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "kandi utanga ingabire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ntaguhita"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "akasahura"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kandi afite ... nyinshi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:34.297229095Z",
+  "model": "glm-5.3"
+}

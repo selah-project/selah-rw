@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ntushobora gutamba ⟨את⟩ Paseka mu rimwe mu marembo yawe, aho Yahwe Elohimu wawe aguha kuwowe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ushobora"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "gutamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mu rimwe"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "mu marembo yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwowe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:02:00.202899801Z",
+  "model": "glm-5.3"
+}

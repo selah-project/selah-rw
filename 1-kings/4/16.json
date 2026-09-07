@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Baana, umwana wa Hushayi, mu Asheri no mu Alothi.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "wa Hushayi"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mu Asheri"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "no mu Alothi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:29:47.793413462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Se ko mu bwenge bwinshi hari agahinda kanini; kandi wahinduye ubumenyi azahinduza na mbindi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se ko"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu bwinshi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kanini"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "agahinda"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "kandi azahinduza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "azahinduza"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "imbindi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:02:40.417374968Z",
+  "model": "glm-5.3"
+}

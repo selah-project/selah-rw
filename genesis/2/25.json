@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "maze bombi baba batambitse — umuntu n'ugore be — kandi nta bashomerwa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maze baba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bombi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "batambitse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "n'ugore be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "bashomerwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:30:39.624931791Z",
+  "model": "glm-5.3"
+}

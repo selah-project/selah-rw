@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "genesis 46:2",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 46,
+ "translation": "Elohimu yaravugiye na Yisraeli mu byerekwa by'ijoro, ati: Yaakovu! Yaakovu! (Yakobo) Nuko aravuga ati: Ndahari.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "yaravugiye"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "לישראל",
+   "gloss": "na Yisraeli"
+  },
+  {
+   "surface": "במראת",
+   "gloss": "mu byerekwa"
+  },
+  {
+   "surface": "הלילה",
+   "gloss": "ijoro"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "ati"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovu"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovu"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga ati"
+  },
+  {
+   "surface": "הנני",
+   "gloss": "Ndahari"
+  }
+ ],
+ "timestamp": "2026-09-07T08:27:51.642545663Z",
+ "model": "glm-5.3"
+}

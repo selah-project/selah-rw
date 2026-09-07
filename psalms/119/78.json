@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Bashweho isoni abishyira hejuru, kuko banshushanyije ubwirasi; njye nditekereza ibitegeko byawe.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bashweho isoni"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "abishyira hejuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubwirasi"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "banshushanyije"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "nditekereza"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "ibitegeko byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:32.636795983Z",
+  "model": "glm-5.3"
+}

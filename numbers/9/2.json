@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kandi abana ba Yisraeli bakore ⟨את⟩ Paseka mu gihe cyacyo cyagenwe",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "bakore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "mu gihe cyacyo cyagenwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:10:55.708251053Z",
+  "model": "glm-5.3"
+}

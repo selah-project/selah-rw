@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yamanutse arebe ⟨את⟩ umujyi na ⟨את⟩ inzu ndende abana b'abantu bariyubakiye.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "arebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ndende"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "inzu ndende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bariyubakiye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:18.683621118Z",
+  "model": "glm-5.3"
+}

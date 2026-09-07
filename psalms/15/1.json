@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Igihangurwa cya Dawidi. Yahwe, ni nde waba mu ihema ryawe? Ni nde utuye ku musozi wera wawe?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Igihangurwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cya Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "waba"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mu ihema ryawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wera wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:27.978011552Z",
+  "model": "glm-5.3"
+}

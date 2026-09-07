@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "⟨את⟩ intama zabo na ⟨את⟩ inka zabo na ⟨את⟩ indogobi zabo na ⟨את⟩ ibiri mu muduga na ⟨את⟩ ibiri mu murima barabyafata.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "intama zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inka zabo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "inka zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indogobi zabo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "indogobi zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiri mu muduga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu muduga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibiri mu murima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "barabyafata"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:23.263796702Z",
+  "model": "glm-5.3"
+}

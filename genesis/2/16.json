@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Yahwe Elohimu yategetse ku umuntu ⟨ati⟩: Mu giti cyose cy'ubusitani urazarya ⟨kurya⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "giti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "cy'ubusitani"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "urazarya"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.545624028Z",
+  "model": "glm-5.3"
+}

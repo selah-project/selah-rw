@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yacereketse kandi ⟨ni⟩ indwi andi iminsi, maze aratuma ⟨את⟩ iyoni, ntiyongera kugaruka iwe na gito.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "yacereketse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "aratuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyoni"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "iyoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "yongera"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kugaruka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na gito"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:54.243867900Z",
+  "model": "glm-5.3"
+}

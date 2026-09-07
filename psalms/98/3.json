@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 98,
+  "translation": "Yibutse hesedi ye n'ukwikiraniza kwe ku rugo rwa Yisraeli; imeze y'isi yose yabonye ⟨את⟩ ukurokora kwa Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yibutse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "n'ukwikiraniza kwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku rugo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rwa Yisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "imeze y'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukurokora kwa Elohimu wacu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ukurokora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kwa Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:18.628371188Z",
+  "model": "glm-5.3"
+}

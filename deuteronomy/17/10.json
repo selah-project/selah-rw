@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze uzakora ku bw'ijwi ry'ijambo bazakubwira, uva mu mwanya uwo Yahwe yatoranyije; maze uzirinde gukora byose bazakurongoza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ry'ijambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "bazakubwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uva"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mu mwanya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "yatoranyije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uzirinde"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "bazakurongoza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:03.217495002Z",
+  "model": "glm-5.3"
+}

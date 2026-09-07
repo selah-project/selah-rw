@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Mushimire Yahwe, intumwa ze — inkazi z'imbaraga, zakora ijambo rye — kumva ijwi ry'ijambo rye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mushimire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "intumwa ze"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "inkazi z'"
+    },
+    {
+      "surface": "כח",
+      "gloss": "imbaraga"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "zakora"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ijwi ry'"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijambo rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:02.037261942Z",
+  "model": "glm-5.3"
+}

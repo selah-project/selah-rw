@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yosefu yasohoye ⟨את⟩ abo mu ibivi bye, maze yubamye ku buranga bwe, hasi ku isi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yasohoye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "ibivi bye"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yubamye"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ku buranga bwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hasi ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:15.034776754Z",
+  "model": "glm-5.3"
+}

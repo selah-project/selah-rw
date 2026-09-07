@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "⟨את⟩ imbeho na ⟨את⟩ ibikoresho byayo byose na ⟨את⟩ umugati w'imbere.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbeho"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imbeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikoresho byayo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umugati w'imbere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "w'imbere"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:01.948908677Z",
+  "model": "glm-5.3"
+}

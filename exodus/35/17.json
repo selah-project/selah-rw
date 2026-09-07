@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "⟨את⟩ ibyambaro by'urubariro, ⟨את⟩ inkingi zacyo na ⟨את⟩ ibibanze byacyo, na ⟨את⟩ uruhombo rw'umuryango w'urubariro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyambaro by'urubariro"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ibyambaro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "urubariro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkingi zacyo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "inkingi zacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibibanze byacyo"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ibibanze byacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uruhombo rw'umuryango w'urubariro"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "uruhombo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "urubariro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:40.917184504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Warafashe ibirindiro by'amaso yanjye; naraharanitse, kandi ntavuga.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Warafashe"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ibirindiro"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "naraharanitse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vuga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:21.743674368Z",
+  "model": "glm-5.3"
+}

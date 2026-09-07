@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Ku munsi naguhamagaje, uransubije, maze uranshishikariye mu nefeshi yanjye imbaraga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "naguhamagaje"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "uransubije"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "uranshishikariye"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mu nefeshi yanjye"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbaraga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:09.691224593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Igihe cy'imineke cyarenze, uruyuki rwarangiye, ariko twebwe ntidukijijwe.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "cyarenze"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "igihe cy'imineke"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "rwarangiye"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "uruyuki"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ariko twebwe"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "dukijijwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:49:38.842861075Z",
+  "model": "glm-5.3"
+}

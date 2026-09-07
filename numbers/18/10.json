@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Mu kodeshi y'ibikodeshi muzayirya; abagabo bose bazayirya ⟨את⟩; kodeshi izaba ari ibyawe.",
+  "tokens": [
+    {
+      "surface": "בְּקֹדֶשׁ",
+      "gloss": "Mu kodeshi"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "y'ibikodeshi"
+    },
+    {
+      "surface": "תֹּאכֲלֶנּוּ",
+      "gloss": "muzayirya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "bazayirya"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "kodeshi"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "kodeshi"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "izaba ari"
+    },
+    {
+      "surface": "לָּךְ",
+      "gloss": "ibyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:21:34.452960398Z",
+  "model": "glm-5.3"
+}

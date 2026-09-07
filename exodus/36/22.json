@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Nshinge ebyiri ku ibaho rimwe, zihuzejwe imwe ku iyindi; niko byakorewe ku ibaho zose za Mishkani.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ebiri"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "Nshinge"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "ku ibaho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "zihuzejwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iyindi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "byakorewe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku zose"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "ibaho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "za Mishkani"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:18.921329351Z",
+  "model": "glm-5.3"
+}

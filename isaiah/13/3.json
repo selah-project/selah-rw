@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Jye nategetse abatoranyi banjye, ndetse nahamagaye intwari zanjye ku bubi bwanjye, abishimira icyubahiro cyanjye.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jye"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nategetse"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "abatoranyi banjye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndetse"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahamagaye"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "intwari zanjye"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ku bubi bwanjye"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "abishimira"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "icyubahiro cyanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:39.902436021Z",
+  "model": "glm-5.3"
+}

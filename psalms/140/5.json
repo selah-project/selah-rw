@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 140,
+  "translation": "Munyange, Yahwe, mu biganza by'umwangizi; mu muntu w'inkare ndinde; a batekereje kunaniza intambwe zanjye.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Munyange"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mu biganza by'"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangizi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "w'inkare"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ndinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "batekereje"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "kunaniza"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "intambwe zanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:21.012526155Z",
+  "model": "glm-5.3"
+}

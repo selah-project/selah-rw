@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Amanywa ni rwawe, nanone ijoro ni rwawe; wome wateganyije urumuri n'izuba.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ni rwawe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Amanywa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni rwawe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wome"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "wateganyije"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "n'izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:22.891952253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 4:5",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Kohenu wawahashyawe (Mashiyah) na we azafata mu maraso y'urubyimba, maze azayitwiza ⟨את⟩ we mu ihema ry'itumanaho.",
+ "tokens": [
+  {
+   "surface": "ולקח",
+   "gloss": "azafata"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "המשיח",
+   "gloss": "wawahashyawe (Mashiyah)"
+  },
+  {
+   "surface": "מדם",
+   "gloss": "mu maraso"
+  },
+  {
+   "surface": "הפר",
+   "gloss": "ry'urubyimba"
+  },
+  {
+   "surface": "והביא",
+   "gloss": "azayitwiza"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "mu ihema ry'itumanaho"
+  },
+  {
+   "surface": "אל",
+   "gloss": "mu"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "ihema"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "ry'itumanaho"
+  }
+ ],
+ "timestamp": "2026-09-07T09:29:36.289562926Z",
+ "model": "glm-5.3"
+}

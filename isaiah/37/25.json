@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "isaiah 37:25",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 37,
+ "translation": "Njye nahembuye maze ndanywa amazi, kandi n'urwagasi rw'ibirenge byanjye nkoroshya imigezi yose ya Mitsrayimu.",
+ "tokens": [
+  {
+   "surface": "אני",
+   "gloss": "Njye"
+  },
+  {
+   "surface": "קרתי",
+   "gloss": "nahembuye"
+  },
+  {
+   "surface": "ושתיתי",
+   "gloss": "maze ndanywa"
+  },
+  {
+   "surface": "מים",
+   "gloss": "amazi"
+  },
+  {
+   "surface": "ואחרב",
+   "gloss": "maze nkoroshya"
+  },
+  {
+   "surface": "בכף",
+   "gloss": "k'urwagasi"
+  },
+  {
+   "surface": "פעמי",
+   "gloss": "rw'ibirenge byanjye"
+  },
+  {
+   "surface": "כל",
+   "gloss": "yose"
+  },
+  {
+   "surface": "יארי",
+   "gloss": "imigezi"
+  },
+  {
+   "surface": "מצור",
+   "gloss": "ya Mitsrayimu"
+  }
+ ],
+ "timestamp": "2026-09-07T21:40:17.381215833Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Waremye ijuru n'isi, ⟨את⟩ ibiyaga na ⟨את⟩ byose biri muri byo; urinda ukuri iteka.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Waremye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiyaga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ibiyaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose biri muri byo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "urinda"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukuri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:57.903239486Z",
+  "model": "glm-5.3"
+}

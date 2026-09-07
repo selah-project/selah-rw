@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abapulisiti bahise bakoranya ⟨את⟩ ingabo zabo ngo barwane intambara, maze bakoranyijwe i Sokohu iri muri Yehudha, barashiye hagati ya Sokohu na Azekahu, ku Efesi-Damimu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "bakoranya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abapulisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingabo zabo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ingabo zabo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ngo barwane intambara"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "bakoranyijwe"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokohu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "muri Yehudha"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "barashiye"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokohu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati ya"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekahu"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Efesi-Damimu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:39:14.429723824Z",
+  "model": "glm-5.3"
+}

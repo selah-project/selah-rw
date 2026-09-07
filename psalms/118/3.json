@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 118,
+  "translation": "Inzu ya Aharoni (Aroni) none ivuge ko hesedi ye ihoraho ku iteka.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ivuge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "none"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:37.207149002Z",
+  "model": "glm-5.3"
+}

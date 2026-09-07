@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Bafata ⟨את⟩ ibirungu byabo na ⟨את⟩ umutungo wabo baharaniye mu gihugu cya Kenaani, maze binjira i Mitsrayimu — Yaakovu n'urubyaro rwe rwose hamwe na ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibirungu byabo"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ibirungu byabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutungo wabo"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "umutungo wabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "baharaniye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "binjira"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "n'urubyaro rwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:28:52.425449726Z",
+  "model": "glm-5.3"
+}

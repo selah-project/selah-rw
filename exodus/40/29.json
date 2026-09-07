@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze ashira na ⟨את⟩ igicaniro cy'ibiratwa ku muryango wa Mishkani, ihema ry'uhuuriraho, maze atambagiza hejuru yacyo ⟨את⟩ ibiratwa na ⟨את⟩ ikorwa, uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'ibiratwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "wa Mishkani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'uhuuriraho"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "atambagiza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hejuru yacyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiratwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ibiratwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ikorwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:39.043548732Z",
+  "model": "glm-5.3"
+}

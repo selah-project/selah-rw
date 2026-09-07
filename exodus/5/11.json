@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mwe, mujye mwifatemwo ibyatsi aho mubisanga, kuko nta na kimwe mu bikorwa byanyu cyagabanyijwe.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mujye"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mwifatemwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwifashisho (guhuza)"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ibyatsi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "mubisanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "cyagabanyijwe"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "mu bikorwa byanyu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na kimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:33.558184035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "maze yaramuhesheje ubwami ku Gilyadi, na ku Ashuri, na ku Yizreeli, ku Efereyimu na ku Binyaminu, no ku Yisraeli yose.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "yaramuhesheje ubwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilyadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ku"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ku"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ku"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yose"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:14.965743301Z",
+  "model": "glm-5.3"
+}

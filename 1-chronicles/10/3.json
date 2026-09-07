@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze intambara yagoye Shauli cyane, abapfunda b'umwumba baramubonye, maze arakomerwa n'abapfunda.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yagoye cyane"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "baramubonye"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "abapfunda"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "b'umwumba"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "arakomerwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "abapfunda"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:42.504762961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "bityo amazi yari yaradusekereye, uruzi rwari rwarenze ku nefeshi yacu.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "bityo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "yari yaradusekereye"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "uruzi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "rwari rwarenze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshi yacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.232720588Z",
+  "model": "glm-5.3"
+}

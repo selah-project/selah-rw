@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Nagolosheje umutima wanjye ngo nkorohoze amategeko yawe ku iteka, kugeza ku mpera.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "Nagolosheje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngo nkorohoze"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kugeza ku mpera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:00.507994704Z",
+  "model": "glm-5.3"
+}

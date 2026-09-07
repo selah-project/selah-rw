@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Basabe icyubahiro Yahwe hesedi ye, n'ibitangaza bye ku bana b'abantu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "basabe icyubahiro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "n'ibitangaza bye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:39.930034290Z",
+  "model": "glm-5.3"
+}

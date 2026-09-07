@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "⟨את⟩ uhe yigisha ubumenyi, na ⟨את⟩ uhe amurwanya asobanura ijambo ryo kwumvikana? Ni abavananwe n'amata, abakuwe ku bibundu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "uhe"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yigisha"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ubumenyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "uhe"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "asobanura"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ijambo ryo kwumvikana"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "abavananwe"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "n'amata"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "abakuwe"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ku bibundu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:18.355245112Z",
+  "model": "glm-5.3"
+}

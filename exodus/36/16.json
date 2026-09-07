@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Maze afatanya ⟨את⟩ ibyambaro bitanu ubwabyo, na ⟨את⟩ ibyambaro bitandatu ubwabyo.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Maze afatanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyambaro bitanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "bitanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ibyambaro"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ubwabyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyambaro bitandatu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "bitandatu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ibyambaro"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ubwabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:33.524575559Z",
+  "model": "glm-5.3"
+}

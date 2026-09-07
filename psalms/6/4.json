@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi Nefeshi yanjye yashidikaniye cyane; ariko wowe, Yahwe, kugeza iki?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "kandi Nefeshi yanjye"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "yashidikaniye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:51.940143555Z",
+  "model": "glm-5.3"
+}

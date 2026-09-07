@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Tora ya Elohimu wiwe iri mu mutima wiwe; intambwe ze ntizizigera.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu wiwe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima wiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "zizigera"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "intambwe ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:17.476881730Z",
+  "model": "glm-5.3"
+}

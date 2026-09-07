@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ni byiza kuri njye ko nanyujijwe, kugira ngo ngiga ibyategetse byawe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nanyujijwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ngiga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ibyategetse byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:25.788724681Z",
+  "model": "glm-5.3"
+}

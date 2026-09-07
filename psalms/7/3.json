@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kugira ngo atampfurukize nka intare nefeshi yanjye, atayandagure, kandi nta umukiza ariho.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "atampfurukize"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "nka intare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "atayandagure"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta… ariho"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "umukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:53.610713917Z",
+  "model": "glm-5.3"
+}

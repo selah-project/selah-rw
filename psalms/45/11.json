@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Umva, dukobwa, reba, unogere ugutwi kwawe; unibagire ubwoko bwawe n'urugo rya se wawe.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukobwa"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "reba"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "unogere"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "unibagire"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ubwoko bwawe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "n'urugo rya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "se wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:43.936104235Z",
+  "model": "glm-5.3"
+}

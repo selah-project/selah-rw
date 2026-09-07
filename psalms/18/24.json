@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "kandi nabaye umutunganye kumwe na We, kandi nikingiye ku cyaha cyanjye.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "kandi nabaye"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "umutunganye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na We"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "kandi nikingiye"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ku cyaha cyanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:46.330325702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Abanyisraeli bahaye Abaleviyi, mu byo bahawe ⟨nk'idekwe⟩ bwabo, uko ijambo rya Yahwe ryavuye mu kanwa — ⟨את⟩ iyo mijyi hamwe na ⟨את⟩ ibyanya byazo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bahaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Abaleviyi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "mu byo bahawe bwabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ruvuye mu kanwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo mijyi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "iyo mijyi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byazo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ibyanya byazo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:42:32.060207230Z",
+  "model": "glm-5.3"
+}

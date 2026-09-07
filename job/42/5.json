@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Mu kumva kw'ugutwi nakumvise wowe, none ubu iso yanjye irakubona.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Mu kumva"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ugutwi"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nakumvise wowe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none ubu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso yanjye"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "irakubona"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:27.183221628Z",
+  "model": "glm-5.3"
+}

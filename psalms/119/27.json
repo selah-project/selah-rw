@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Unmenyeshe inzira y'amabwiriza yawe, maze nzirikane ku bitangaje byawe.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "y'amabwiriza yawe"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "unmenyeshe"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "maze nzirikane"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "ku bitangaje byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:52.145539226Z",
+  "model": "glm-5.3"
+}

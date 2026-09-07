@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Hizikiyahu yasabye imbere ya Yahwe, ati: Yahwe, Elohimu wa Yisraeli, utuye ku kerubimu, ni wowe wonyine Elohimu mu bwami bwose bya isi; wowe waremye ⟨את⟩ ijuru na ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ku kerubimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niwowe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wonyine"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mu bwami"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bya isi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waremye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:28.365524512Z",
+  "model": "glm-5.3"
+}

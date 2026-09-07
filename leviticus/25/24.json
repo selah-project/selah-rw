@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi mu isi yose y'ubutunzi benu, mwaha ubusubizwa ku isi.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "kandi mu ... yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "y'ubutunzi benu"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ubusubizwa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mwaha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:45.441799775Z",
+  "model": "glm-5.3"
+}

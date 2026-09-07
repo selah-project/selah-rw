@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Yahwe ⟨ni⟩ umugabane wanjye; navuze ko nakwita ku majambo yawe.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "umugabane wanjye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ko nakwita ku"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "majambo yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:14.393080298Z",
+  "model": "glm-5.3"
+}

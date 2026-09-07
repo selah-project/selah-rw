@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Kuko imyanda nka umugati nariye, iminywa yanjye kandi n'amarira nnavanze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "imyanda"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "nka umugati"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "nariye"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "iminywa yanjye"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "n'amarira"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nnavanze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:34.722010993Z",
+  "model": "glm-5.3"
+}

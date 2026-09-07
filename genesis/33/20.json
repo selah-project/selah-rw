@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze yashyiraho icyo aha igicaniro, hanyuma aricyita Eli, Elohimu w'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "yashyiraho icyo aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "aricyita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:08:10.608327692Z",
+  "model": "glm-5.3"
+}

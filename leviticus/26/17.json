@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "leviticus 26:17",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 26,
+ "translation": "Kandi nzashyira amaso yanjye ku mwe, muzatsindwa imbere y'abansi banyu, ababankunda babanzi bazabategeka, muziruka nta w'ibakurikira ⟨את⟩ mwe.",
+ "tokens": [
+  {
+   "surface": "ונתתי",
+   "gloss": "nzashyira"
+  },
+  {
+   "surface": "פני",
+   "gloss": "amaso yanjye"
+  },
+  {
+   "surface": "בכם",
+   "gloss": "ku mwe"
+  },
+  {
+   "surface": "ונגפתם",
+   "gloss": "muzatsindwa"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere y'"
+  },
+  {
+   "surface": "איביכם",
+   "gloss": "abansi banyu"
+  },
+  {
+   "surface": "ורדו",
+   "gloss": "bazabategeka"
+  },
+  {
+   "surface": "בכם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "שנאיכם",
+   "gloss": "ababankunda babanzi"
+  },
+  {
+   "surface": "ונסתם",
+   "gloss": "muziruka"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "nta"
+  },
+  {
+   "surface": "רדף",
+   "gloss": "w'ibakurikira"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "murwe"
+  }
+ ],
+ "timestamp": "2026-09-07T09:56:38.549781265Z",
+ "model": "glm-5.3"
+}

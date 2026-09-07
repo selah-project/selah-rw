@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "psalms 144:12",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 144,
+ "translation": "Uko abahungu bacu nk'ibiti byatewe bikura mu bucece bwabo, n'abakobwa bacu nk'amabuye y'impande, atemywe mu shusho y'urusengero.",
+ "tokens": [
+  {
+   "surface": "אשר",
+   "gloss": "Uko"
+  },
+  {
+   "surface": "בנינו",
+   "gloss": "abahungu bacu"
+  },
+  {
+   "surface": "כנטעים",
+   "gloss": "nk'ibiti byatewe"
+  },
+  {
+   "surface": "מגדלים",
+   "gloss": "bikura"
+  },
+  {
+   "surface": "בנעוריהם",
+   "gloss": "mu bucece bwabo"
+  },
+  {
+   "surface": "בנותינו",
+   "gloss": "n'abakobwa bacu"
+  },
+  {
+   "surface": "כזוית",
+   "gloss": "nk'amabuye y'impande"
+  },
+  {
+   "surface": "מחטבות",
+   "gloss": "atemywe"
+  },
+  {
+   "surface": "תבנית",
+   "gloss": "mu shusho"
+  },
+  {
+   "surface": "היכל",
+   "gloss": "y'urusengero"
+  }
+ ],
+ "timestamp": "2026-09-07T18:58:09.625537830Z",
+ "model": "glm-5.3"
+}

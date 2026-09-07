@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Koko udashaka igicaniro, sinariha; igitambo cy'umuriro ntubishimisha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "udashaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "sinariha"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "igitambo cy'umuriro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ubishimisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:43.399228587Z",
+  "model": "glm-5.3"
+}

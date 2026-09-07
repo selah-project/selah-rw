@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Iyo wabonye umujura, ukamwirukana umwe na we, kandi wa mugenzi w'abasambanyi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wabonye"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "umujura"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ukamwirukana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umwe na we"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi wa mugenzi w'"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "abasambanyi"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:19.486432328Z",
+  "model": "glm-5.3"
+}

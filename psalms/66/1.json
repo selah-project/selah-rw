@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Ku mukuru w'abacuranzi — indirimbo, umuziki. Terurira Elohimu amajwi, isi yose.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mukuru w'abacuranzi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuziki"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "terurira… amajwi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:21.346358470Z",
+  "model": "glm-5.3"
+}

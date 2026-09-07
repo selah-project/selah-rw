@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Byabaye mu gihe Izabeli yica ⟨את⟩ abahanuzi ba Yahwe, Ovadyahu yafashe abahanuzi ijana, abyihishamo mirongo itanu abantu mu mwobo, maze abaha imigati n'amazi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Byabaye mu gihe"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "yica"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanuzi ba Yahwe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "abyihishamo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mu mwobo"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "maze abaha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "n'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:55:34.323399890Z",
+  "model": "glm-5.3"
+}

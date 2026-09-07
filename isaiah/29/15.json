@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yeho! Bafuka imibere mu guhisha ubwitegerezi bwa Yahwe, maze ibikorwa byabo bikorwa mu mwijima, maze baravuga bati: Ni nde uduhora, na ni nde utubizi?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yeho!"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "bafuka imibere"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "mu guhisha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ubwitegerezi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ibikorwa byabo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuga bati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "uduhora"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ni nde"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "utubizi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:39.918509605Z",
+  "model": "glm-5.3"
+}

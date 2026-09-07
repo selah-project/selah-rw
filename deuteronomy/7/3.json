@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi ntuzirikane na bo imyanya y'ubukwe: umukobwa wawe ntuwuhe umuhungu we, kandi umukobwa we ntuwumwe umuhungu wawe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "uzirikane imyanya y'ubukwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "umukobwa wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ntuwuhe"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "kandi umukobwa we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ntuwumwe"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "umuhungu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:51:32.502632014Z",
+  "model": "glm-5.3"
+}

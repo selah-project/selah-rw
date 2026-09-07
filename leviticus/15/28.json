@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 28,
+ "ref": "leviticus 15:28",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 15,
+ "translation": "Iyo yisukuyeho koze kwayo, maze ibaze ku nshuro ye iminsi irindwi, hanyuma nyuma y'ibyo izaba isukuye.",
+ "tokens": [
+  {
+   "surface": "ואם",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "טהרה",
+   "gloss": "yisukuyeho"
+  },
+  {
+   "surface": "מזובה",
+   "gloss": "koze kwayo"
+  },
+  {
+   "surface": "וספרה",
+   "gloss": "maze ibaze"
+  },
+  {
+   "surface": "לה",
+   "gloss": "ku nshuro ye"
+  },
+  {
+   "surface": "שבעת",
+   "gloss": "irindwi"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "iminsi"
+  },
+  {
+   "surface": "ואחר",
+   "gloss": "nyuma y'ibyo"
+  },
+  {
+   "surface": "תטהר",
+   "gloss": "izaba isukuye"
+  }
+ ],
+ "timestamp": "2026-09-07T21:18:01.766915737Z",
+ "model": "glm-5.3"
+}

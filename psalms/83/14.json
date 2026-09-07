@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Elohayi we, bashyire nk'igatego, nk'intete imbere y'umuyaga.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohayi"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "bashyire"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "nk'igatego"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "nk'intete"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:33.498940332Z",
+  "model": "glm-5.3"
+}

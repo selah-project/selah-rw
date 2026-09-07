@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Kuko ntabwo bavuga Shalomu; ahubwo ku mahumurize y'isi, amagambo y'uburyo barabatekereje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bavuga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ahubwo ku"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "mahumurize"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "y'uburyo"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "barabatekereje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:13.457179092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Elohimu yaraguje Noahi (Noa) n'abahungu be, maze ababwira ati: Mubyare, mwiyongere, mujwire ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yaraguje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noahi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi (Noa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze ababwira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Mubyare"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mwiyongere"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mujwire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:47.251925964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Asa yinjije ⟨את⟩ ibintu byera bya se n'ibye byerewe mu nzu ya Yahwe: ifeza, zahabu n'ibikoresho.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibintu byera bya se"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ibintu byera"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bya se"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "n'ibye byerewe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "n'ibikoresho"
+    }
+  ],
+  "timestamp": "2026-09-07T13:52:37.619369645Z",
+  "model": "glm-5.3"
+}

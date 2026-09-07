@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Manyisha uko kubara iminsi yacu, maze tugire umutima w'ubwenge.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "kubara"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iminsi yacu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "manyisha"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "maze tugire"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "w'ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.645455348Z",
+  "model": "glm-5.3"
+}

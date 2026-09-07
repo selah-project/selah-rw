@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Yahwe, umva igisabisho cyanjye, kandi ubwirire bwanjye buze ku wawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "umva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "igisabisho cyanjye"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "kandi ubwirire bwanjye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "buze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:58.967455823Z",
+  "model": "glm-5.3"
+}

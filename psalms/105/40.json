@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Basabye, maze yazanye shalavu ⟨inyoni ziturumbuka⟩, kandi umugati w'ijuru yarabashyigiye.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "basabye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "maze yazanye"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "shalavu"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "kandi umugati"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "w'ijuru"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "yarabashyigiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:52.723616435Z",
+  "model": "glm-5.3"
+}

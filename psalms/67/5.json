@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 67,
+  "translation": "Amahanga yishime kandi bararire impundu, ko uzacira amoko urubanza mu butungane, maze amahanga mu isi uzayobora. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "yishime"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "kandi bararire impundu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "uzacira urubanza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amoko"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "mu butungane"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "maze amahanga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "uzayobora"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:43.919148206Z",
+  "model": "glm-5.3"
+}

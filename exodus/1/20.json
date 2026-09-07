@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yakoze neza ku babyeyi, abantu bariyongera, bakanomekara cyane.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yakoze neza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ku babyeyi"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "bariyongera"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "bakanomekara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:08.696282819Z",
+  "model": "glm-5.3"
+}

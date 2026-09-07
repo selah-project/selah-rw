@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze umutima wawe ukazamuka, maze urakibagirwa ⟨את⟩ Yahwe, Elohimu wawe, ukuvanye mu gihugu cya Mitsrayimu (Egiputa), mu nzu y'ubucakara.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ukazamuka"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "maze urakibagirwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ukuvanye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ubucakara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:22:34.413393044Z",
+  "model": "glm-5.3"
+}

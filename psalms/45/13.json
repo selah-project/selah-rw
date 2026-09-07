@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "N'umukobwa wa Tsori azaza n'impengeho; abakire b'ubwoko bazasaba uruhanga rwawe.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "n'umukobwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wa Tsori"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "n'impengeho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "bazasaba"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "abakire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "b'ubwoko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:31.113838635Z",
+  "model": "glm-5.3"
+}

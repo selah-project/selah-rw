@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yahwe, mu gitondo uzumva ijwi ryanjye; mu gitondo nzategura ⟨isengesho ryanjye⟩ iwawe, maze ndategereza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uzumva"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "nzategura ⟨isengesho ryanjye⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "maze ndategereza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:05.500307574Z",
+  "model": "glm-5.3"
+}

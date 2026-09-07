@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Avramu aravuga ati: Reba, uri nta mbuto utanzi, kandi reba, umwana w'inzu yanjye ni we uzansimbura ⟨את⟩ njye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "uri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "utanze"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbuto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kandi reba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "inzu yanjwe"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "uzansimbura"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:44:57.673714768Z",
+  "model": "glm-5.3"
+}

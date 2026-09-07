@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Nuko Yahwe yakijije ku wo munsi ⟨את⟩ Yisraeli, maze intambara yarenze ⟨את⟩ ikuze rya Beti-Avuni.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Nuko yakijije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuwo munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "maze intambara"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yarenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Avuni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avuni"
+    }
+  ],
+  "timestamp": "2026-09-07T12:35:46.587129276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ndagushima Yahwe mu mutima wanjye wose; ndasigura ibitangaza byawe byose.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndagushima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mutima wanjye"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndasigura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:10.428373643Z",
+  "model": "glm-5.3"
+}

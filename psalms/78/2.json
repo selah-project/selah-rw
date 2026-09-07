@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ndazafungura mu ngero icanwa ryanjye, ndazavuga imvugo z'ibanga ibya kera.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ndazafungura"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "mu ngero"
+    },
+    {
+      "surface": "פי",
+      "gloss": "icanwa ryanjye"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ndazavuga (nk'amaziba)"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "imvugo z'ibanga"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ibya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:43.477843338Z",
+  "model": "glm-5.3"
+}

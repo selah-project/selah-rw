@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ni byiza ko ufata iyi, kandi n'iyi ndi ntukayireke ⟨את⟩ iganja ryawe; kuko utinya Elohimu azasohoka ⟨את⟩ byose.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ni byiza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ufata"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iyi ndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntuka"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "yireke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iganja ryawe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iganja ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "utinya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "azasohoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "byose"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:16.043065952Z",
+  "model": "glm-5.3"
+}

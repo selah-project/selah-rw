@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Gucamanza impunzi n'umunyantege-nke, ⟨kugira ngo⟩ umuntu wo mu isi ntiyongere gutera ubwoba.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "gucamanza"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "impunzi"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "n'umunyantege-nke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ntiyongere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "gutera ubwoba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:26.459148563Z",
+  "model": "glm-5.3"
+}

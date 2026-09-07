@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Banibagije ibikorwa bye n'ibitangaza bye yaberekanije.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Banibagije"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ibikorwa bye"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "n'ibitangaza bye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "yaberekanije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:33.358484570Z",
+  "model": "glm-5.3"
+}

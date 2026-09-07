@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 137:2",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 137,
+ "translation": "Ku biti bya alamu mu bitongo byayo twahanuye inanga zacu.",
+ "tokens": [
+  {
+   "surface": "עַל",
+   "gloss": "ku"
+  },
+  {
+   "surface": "עֲרָבִים",
+   "gloss": "ibiti bya alamu"
+  },
+  {
+   "surface": "בְּתוֹכָהּ",
+   "gloss": "mu bitongo byayo"
+  },
+  {
+   "surface": "תָּלִינוּ",
+   "gloss": "twahanuye"
+  },
+  {
+   "surface": "כנרותינו",
+   "gloss": "inanga zacu"
+  }
+ ],
+ "timestamp": "2026-09-07T18:55:50.560716734Z",
+ "model": "glm-5.3"
+}

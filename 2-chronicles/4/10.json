@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze yashyize ⟨את⟩ inyanja ku ruhande rw'iburyo, iburasirazuba, imuho y'amajyepho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "rw'iburyo"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "iburasirazuba"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "imuho"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "y'amajyepho"
+    }
+  ],
+  "timestamp": "2026-09-07T20:47:47.809240491Z",
+  "model": "glm-5.3"
+}

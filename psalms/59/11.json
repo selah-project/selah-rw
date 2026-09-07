@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Elohimu wa hesedi yanjye arazibanza; Elohimu arabanderekera abashikiye bwanjye.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yanjye"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "arazibanza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "arabanderekera"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "abashikiye bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:11.085610676Z",
+  "model": "glm-5.3"
+}

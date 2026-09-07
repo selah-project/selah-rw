@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Urukundo rwawe ni rwande cyane, mushikiwanjye, umugore wanjye! Urukundo rwawe kurusha umuvinyo, kandi impumuro y'imavuta yawe kurusha ubwatsi bwose bw'impumuro!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ni rwande cyange"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ni rwande"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "urukundo rwawe"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mushikiwanjye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "umugore wanjye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni byiza cyange"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "urukundo rwawe"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "umuvinyo"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "kandi impumuro"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "y'imavuta yawe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha... byose"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ubwatsi bwose bw'impumuro"
+    }
+  ],
+  "timestamp": "2026-09-07T19:41:44.921598591Z",
+  "model": "glm-5.3"
+}

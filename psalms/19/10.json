@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ubwoba bwa Yahwe ni ubweru, buhagara iteka ryose; imyanzuro ya Yahwe ni ukuri, ikorwa intunganye hamwe.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ni ubweru"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "buhagara"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iteka ryose"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imyanzuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ni ukuri"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ikorwa intunganye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:53.323926931Z",
+  "model": "glm-5.3"
+}

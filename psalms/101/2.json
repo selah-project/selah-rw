@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Nzita (kwerekera ubwenge) ku nzira y'ubungiranite; ryari uza iwanjye? Nzagendagenda mu itotosa ry'umutima wanjye, mu rwagati rw'inzu yanjye.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Nzita (kwerekera ubwenge)"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ku nzira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "y'ubungiranite"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Nzagendagenda"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "mu itotosa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ry'umutima wanjye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu rwagati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rw'inzu yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:48.292159966Z",
+  "model": "glm-5.3"
+}

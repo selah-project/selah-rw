@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yahwe yibukije ⟨את⟩ Sara uko yari yavuze, maze Yahwe yakoreye Sara uko yari yakivugeye.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Maze Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yibukije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yari yavuze"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yakivugeye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:52.784562919Z",
+  "model": "glm-5.3"
+}

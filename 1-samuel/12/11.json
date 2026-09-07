@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yarunganye ⟨את⟩ Yerubbaalu, na ⟨את⟩ Bedani, na ⟨את⟩ Yiftahi, na ⟨את⟩ Shemuweli, yanarokora ⟨את⟩ mwe mu nkono y'ibansi banyu zibahereye, mukaba mutuye mu mahoro.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarunganye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaalu"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bedani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yiftahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "yanarokora"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu nkono ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ibansi banyu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "zibahereye"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "mukaba mutuye"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mu mahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:35.070552612Z",
+  "model": "glm-5.3"
+}

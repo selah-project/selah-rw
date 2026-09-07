@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kurusha abakurambere nabonye ubwenge, koko nabahirije amabwiriza yawe.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kurusha abakurambere"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nabonye ubwenge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nabahirije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:58.306098100Z",
+  "model": "glm-5.3"
+}

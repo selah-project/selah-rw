@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abatware b'a Paro baramubonye ⟨את⟩, maze baramusingiza ⟨את⟩ kwa Paro; nuko umugore ajyanwa mu nzu ya Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "baramubonye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (umugore)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "baramusingiza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kwa Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "nuko ajyanwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:55.439539939Z",
+  "model": "glm-5.3"
+}

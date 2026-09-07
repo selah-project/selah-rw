@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu giturutse muri yo ⟨harimo⟩ ishusho y'inyamaswa z'ubuzima enye; kandi ibi ni uko zimeze: ishusho y'umuntu ni yo zifite.",
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "mu giturutse muri yo"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "ishusho"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "enye"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "z'ubuzima"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kandi ibi"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "uko zimeze"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "ishusho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "ni yo zifite"
+    }
+  ],
+  "timestamp": "2026-09-07T16:38:57.775789555Z",
+  "model": "glm-5.3"
+}

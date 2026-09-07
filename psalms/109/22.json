@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Kuko njye ndi umugabanijwe n'umukene, kandi umutima wanjye uravunitse mu mubiri wanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umugabanijwe"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye ndi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "kandi umutima wanjye"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "uravunitse"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mu mubiri wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:38.623723616Z",
+  "model": "glm-5.3"
+}

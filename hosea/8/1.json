@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Shofaru ⟨ni⟩ ku kanwa kawe; nk'urusenge ku nzu ya Yahwe, kuko barenze beriti yanjye, no kuri Tora yanjye bakoze icyaha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "kanwa kawe"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Shofaru"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "urusenge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "barenze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanjye"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bakoze icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T17:33:27.295789227Z",
+  "model": "glm-5.3"
+}

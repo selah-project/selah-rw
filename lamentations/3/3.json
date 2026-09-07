@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Rwose ni njwe yiboneyeho; ihindura intoki yiwe ku mugaragaro umunsi wose.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ni njye yiboneyeho"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ihindura…ku mugaragaro"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ihindura"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki yiwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:48:00.715395911Z",
+  "model": "glm-5.3"
+}

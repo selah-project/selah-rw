@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Natekereza ngo menye ibi, ariko ni ingorabahizi mu maso yanjye.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Natekereza"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngo menye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ingorabahizi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:46.446335558Z",
+  "model": "glm-5.3"
+}

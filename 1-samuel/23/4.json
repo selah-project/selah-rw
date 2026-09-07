@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi nanongeyeho gucya kwa Yahwe, maze Yahwe Yanamushubije na Yaranavuze ati: Zana kandi umanuke i Keila, kuko jewe ndazaha ⟨את⟩ aba Pelishti mu ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "nanongeyeho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "gucya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "Yanamushubije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na Yaranavuze"
+    },
+    {
+      "surface": "קום",
+      "gloss": "zana"
+    },
+    {
+      "surface": "רד",
+      "gloss": "umanuke"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jewe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndazaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aba Pelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "aba Pelishti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:48:04.681276533Z",
+  "model": "glm-5.3"
+}

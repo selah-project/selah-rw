@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Abana b'Yisraeli ababonetse barakoze ⟨את⟩ Pesachi mu gihe icyo gihe, na ⟨את⟩ umunsi mukuru w'ibyumvu by'imitobe iminsi irindwi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "barakoze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ababonetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesachi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesachi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umunsi mukuru"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umunsi mukuru"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "w'ibyumvu by'imitobe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:05:42.610485371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Mu gusakara kwanjye, n'umwana w'igisa ryanjye: ibyo numvise ku ⟨את⟩ Yahwe Tsevaoti, Elohimu wa Yisraeli, narabyo nabibwiye mwe.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Mu gusakara kwanjye"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "n'umwana"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "w'igisa ryanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ibyo numvise"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku ⟨את⟩",
+      "marks": "Yahwe Tsevaoti, Elohimu wa Yisraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "narabyo nabibwiye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:52:59.514657751Z",
+  "model": "glm-5.3"
+}

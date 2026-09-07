@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "⟨Yahwe⟩ yakoze ukwezi ku mikolo iteganyijwe; izuba rizi neza aho rizenguruka.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "ku mikolo iteganyijwe"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "rizi neza"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "aho rizenguruka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:02.898930444Z",
+  "model": "glm-5.3"
+}

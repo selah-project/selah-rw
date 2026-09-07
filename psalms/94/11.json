@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Yahwe azi ibitekerezo by'umuntu, ko ari ⟨ubusa⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ibitekerezo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "by'umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:50.786873150Z",
+  "model": "glm-5.3"
+}

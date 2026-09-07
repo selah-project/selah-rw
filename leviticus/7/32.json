@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ ukuguru kw'iburyo muhaye kohenu ⟨ni⟩ terumu mu bitambo byanyu by'amahoro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukuguru kw'iburyo"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ukuguru"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kw'iburyo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muhaye"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mu bitambo"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "byanyu by'amahoro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:30.023602815Z",
+  "model": "glm-5.3"
+}

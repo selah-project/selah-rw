@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Dawidi yaratiye ⟨את⟩ Yahwe ku uwo munsi, maze aravuga ati: Ni gute isanduku ya Yahwe izinjira iwanjye?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yaratiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku uwo munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ni gute"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "izinjira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T23:02:00.029756992Z",
+  "model": "glm-5.3"
+}

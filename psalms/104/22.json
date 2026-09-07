@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Izuba rirasohoka, ziratoroka, zigahungira mu bice byazo byo kurara zikararara.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "rirasohoka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ziratoroka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "zigahungira"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "mu bice byazo byo kurara"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "zikararara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:39.374647501Z",
+  "model": "glm-5.3"
+}

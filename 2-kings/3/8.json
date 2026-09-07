@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze avuga ati: Ni iyihe nzira tuzazamuraho? Maze avuga ati: Inzira y'ubutayu bwa Edomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ni iyihe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tuzazamuraho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Inzira ya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "bwa Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:05:43.049816233Z",
+  "model": "glm-5.3"
+}

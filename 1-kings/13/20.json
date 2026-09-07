@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze bo babiri bicaye ku imeza, haba ijambo rya Yahwe kuri uwo muhanuzi wamugaruriye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "bicaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "uwo muhanuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "wamugaruriye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:03.054078452Z",
+  "model": "glm-5.3"
+}

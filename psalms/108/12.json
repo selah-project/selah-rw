@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Ese si ibyo, Elohimu, wadutandukanyije, kandi ntiwasohoka na rimwe, Elohimu, hamwe n'ingabo zacu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese si ibyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wadutandukanyije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti... na rimwe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wasohoka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "hamwe n'ingabo zacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:16.857818815Z",
+  "model": "glm-5.3"
+}

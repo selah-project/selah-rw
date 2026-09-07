@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ku munsi uwo Adonayi azakuraho ⟨את⟩ ubwiza bw'indilinga z'amaguru, n'imikufi y'umutwe, n'ibimenyetso nk'ukwezi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "azakuraho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwiza"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ubwiza"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "indilinga z'amaguru"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "n'imikufi y'umutwe"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "n'ibimenyetso nk'ukwezi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:48.243190729Z",
+  "model": "glm-5.3"
+}

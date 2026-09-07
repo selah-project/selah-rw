@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-samuel 14:47",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Shauli yarasize ubwami ku Yisraeli, maze arwananye ku mpande zose ku bansi be be: mu Moabu, mu batabwa b'Ammonu, mu Edomu, mu bakuru b'i Tsubahu, no mu Bafilisiti; kandi aho yerekejeho hose yabakomeretse.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "yarasize"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "arwananye"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "bansi be be bose"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "mu Moabu"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "mu batabwa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonu"
+    },
+    {
+      "surface": "ובאדום",
+      "gloss": "mu Edomu"
+    },
+    {
+      "surface": "ובמלכי",
+      "gloss": "mu bakuru"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsubahu"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "mu Bafilisiti"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ahantu hose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "yerekejeho"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "yabakomeretse"
+    }
+  ],
+  "timestamp": "2026-09-07T12:34:49.258103737Z",
+  "model": "glm-5.3"
+}

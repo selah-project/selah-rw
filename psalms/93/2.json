@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 93,
+  "translation": "Kuva kera intebe yawe ihagaze neza; wowe uri kuva mu iteka.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ihagaze neza"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "intebe yawe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kuva kera"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe uri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:43.968955506Z",
+  "model": "glm-5.3"
+}

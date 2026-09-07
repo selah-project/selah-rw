@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Adonayi Yahwe yafunguye ugutwi ⟨kuri njye⟩, nanjye ntinagomeye, kandi inyuma ntinasubiye.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yafunguye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kuri njye⟩"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ugutwi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "nagomeye"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "nsubiye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:28:03.152420229Z",
+  "model": "glm-5.3"
+}

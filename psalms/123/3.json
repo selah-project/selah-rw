@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 123,
+  "translation": "Tugirire impuhwe, Yahwe, tugirire impuhwe, kuko twaruzwe cyane n'ubwishyu.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Tugirire impuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "tugirire impuhwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "twaruzwe"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "n'ubwishyu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:21.237506788Z",
+  "model": "glm-5.3"
+}

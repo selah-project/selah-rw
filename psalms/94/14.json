@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Koko Yahwe ntazatana abantu be, kandi imfungurwa ye ntazayireka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "azatana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "kandi imfungurwa ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yareka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:06.492969303Z",
+  "model": "glm-5.3"
+}

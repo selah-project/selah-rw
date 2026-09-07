@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Abategetsi bawe bose baratunganye barahunze, bafashwe n'abapfunda ⟨ba⟩ reme ⟨ibyuma⟩ byo guhiga; abo bwitoneze hose barafashwe hamwe, barahunze bari kure cyane.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "abategetsi bawe"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "barahunze"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "baratunganye"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "n'abapfunda ⟨ba⟩reme ⟨ibyuma⟩ byo guhiga"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "barafashwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hose"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "abo bwitoneze"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "barafashwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure cyane"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "barahunze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:39:25.994612990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Yigisha, Yahwe, inzira yawe; unayobore mu nzira igororotse kubera abansi banjye.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Yigisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira yawe"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "unayobore"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "igororotse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "abansi banjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:48.475555971Z",
+  "model": "glm-5.3"
+}

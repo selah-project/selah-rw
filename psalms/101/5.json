@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Uwumenesha mu bwisire inshuti ye, uwo ndahanagiza ⟨את⟩; uwufite amaso y'ibyiri n'umutima munini — uwo ⟨את⟩ ntinshobora kuwumwihanganira.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "uwumenesha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu bwisire"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "inshuti ye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "uwo (uwumenesha)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndahanagiza"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "y'ibyiri"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "n'umutima munini"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uwo (uwufite amaso y'ibyiri)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nshobora kuwumwihanganira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:18.799027685Z",
+  "model": "glm-5.3"
+}

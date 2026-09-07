@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yarabonekera Avrahamu, maze aramubwira ati: Ku rubyaro rwawe nzaha ⟨את⟩ uyu gihugu. Hanyuma aho arubwubaka igicaniro cya Yahwe, We yari yaramuboneye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonekera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "ku rubyaro rwawe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyu gihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "arubwubaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cya Yahwe"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "yari yaramuboneye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:15.344275621Z",
+  "model": "glm-5.3"
+}

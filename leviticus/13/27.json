@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kohenu amurebe ku munsi wa karindwi: ni ko raragaze kwaragaza cyane mu ruhu, kohenu amenye ko yanduye ⟨את⟩: igikoma cya tsaraati ni ryo.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "amurebe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "raragaze"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "kwaragaza cyane"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mu ruhu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "amenye ko yanduye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "igikoma"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cya tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ryo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:40:05.849685777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yaravuze ati: ⟨את⟩ abavandimwe banjye njye ndabashaka. Mumbwira ⟨ngo⟩, bari hehe barisha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abavandimwe banjye"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abavandimwe banjye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ndabashaka"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "mumbwira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ngo⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(nzira)mbwira"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "barisha"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:26.762358809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Sinatinya ibihumbi by'abantu ⟨abo⟩ bari ku mpande zose barashyizeho kuri njye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndatinya"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨abo⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "barashyizeho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:58.935943567Z",
+  "model": "glm-5.3"
+}

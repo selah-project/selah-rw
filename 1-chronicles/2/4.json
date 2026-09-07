@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Na Tamari, muramukazi we, yavutsa kuri we ⟨את⟩ Paretisi na ⟨את⟩ Zerahi. Abahungu ba Yehudah bose ⟨ni⟩ batanu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Na Tamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "muramukazi we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yavutsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paretisi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Paretisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zerahi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "batanu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:11.650281835Z",
+  "model": "glm-5.3"
+}

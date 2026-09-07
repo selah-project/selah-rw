@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Hesedi yanjye nta nzakuraho iwe, na nta ndasibanganya mu kwizera kwanjye.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Hesedi yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "nzakuraho"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "ndasibanganya"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "mu kwizera kwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:31.595852402Z",
+  "model": "glm-5.3"
+}

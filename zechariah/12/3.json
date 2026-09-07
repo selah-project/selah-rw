@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 12:3",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kandi bizaba ⟨ni⟩ ku munsi ubwo: njye ndashyira ⟨את⟩ Yerushalayimu ibare ry'umuzigo ku bw'amahanga yose; abayirenza bazacibwa ibice, kandi amahanga yose y'isi bazateranira ku bw'iyo Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kandi bizaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "njye ndashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ibare"
+    },
+    {
+      "surface": "מעמסה",
+      "gloss": "ry'umuzigo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku bw'amahanga yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עמסיה",
+      "gloss": "abayirenza"
+    },
+    {
+      "surface": "שרוט",
+      "gloss": "bazacibwa"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "ibice"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "kandi bazateranira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku bw'iyo Yerushalayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:02:21.221475786Z",
+  "model": "glm-5.3"
+}

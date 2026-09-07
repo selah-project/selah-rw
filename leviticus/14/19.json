@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu azakora ⟨את⟩ icosomwa cy'icyaha, maze abesuze uwo wezwa ku byo yari yigaruriye; nyuma azatembagiza ⟨את⟩ icosomwa ry'umurimo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icosomwa cy'icyaha"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "icosomwa cy'icyaha"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "abesuze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "uwo wezwa"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ku byo yari yigaruriye"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "azatembagiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icosomwa ry'umurimo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "icosomwa ry'umurimo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:41.019503227Z",
+  "model": "glm-5.3"
+}

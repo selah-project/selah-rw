@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Raba, iminsi igiye kuza, maze nzatsemba ⟨את⟩ ukuboko kwawe na ⟨את⟩ ukuboko kw'inzu ya se wawe, ngo itagihari umusaza mu nzu yawe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "igiye kuza"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "maze nzatsemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwawe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukuboko kw'inzu ya se wawe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ukuboko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kw'inzu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya se wawe"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ngo itagihari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "umusaza"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mu nzu yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:22:10.661559153Z",
+  "model": "glm-5.3"
+}

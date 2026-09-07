@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Aravuze ati: Mumva rero, inzu ya Dawidi — ni byoroheje ku mwe guhumanyiza abantu, kuko muzahumanyiza ndetse ⟨את⟩ Elohimu wanjye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mumva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rero"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ni byoroheje"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "guhumanyiza"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "muzahumanyiza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu wanjye"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:42:05.780743484Z",
+  "model": "glm-5.3"
+}

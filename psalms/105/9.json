@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Iyo yaciriye ⟨את⟩ Avrahamu (Aburahamu) ⟨isezerano⟩, n'indahiro ye kwa Yitsaki (Isaka),",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yaciriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "n'indahiro ye"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kwa Yitsaki (Isaka)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:49.537857592Z",
+  "model": "glm-5.3"
+}

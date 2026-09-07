@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Arabyara inda, abyara umuhungu, maze ahamagara ⟨את⟩ izina rye Eri.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "arabyara inda"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ahamagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina rye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Eri"
+    }
+  ],
+  "timestamp": "2026-09-07T08:16:25.968550609Z",
+  "model": "glm-5.3"
+}

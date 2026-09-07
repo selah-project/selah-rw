@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yaakovu araba Raheli, maze azamuye ⟨את⟩ ijwi rye ararira.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "araba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "azamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi rye"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ararira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:01:38.568498600Z",
+  "model": "glm-5.3"
+}

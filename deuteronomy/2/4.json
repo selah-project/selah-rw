@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi ⟨את⟩ abantu ubitege uti: Mwe muraza kwinjira mu ruhande rw'abavandimwe banyu, abana b'Esavu, batuye muri Seiri; bazatinya mwe; bityo mwitondere cyane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ubitege"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "muraza kwinjira"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "mu ruhande"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "rw'abavandimwe banyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "b'Esavu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "muri Seiri"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bazatinya"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mwitondere"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:38.916726275Z",
+  "model": "glm-5.3"
+}

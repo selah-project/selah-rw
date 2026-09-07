@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Barabyesheye Moshe mu cyari, na Aharoni utagatifu wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "barabyesheye"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mu cyari"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "utagatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:38.677094058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Uhite ureba niba hari inzira y'agahinda muri njye, maze unyanze mu nzira itagira iherezo",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "uhite ureba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "y'agahinda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muri njye"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "unyanze"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "itagira iherezo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:22.107656942Z",
+  "model": "glm-5.3"
+}

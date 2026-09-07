@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ibintu byanjye byera wabitaye agaciro, na ⟨את⟩ Shabati zanjye wazisembabyeho.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ibintu byanjye byera"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wabitaye agaciro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shabati zanjye"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabati zanjye"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wazisembabyeho"
+    }
+  ],
+  "timestamp": "2026-09-07T16:59:45.601395717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "umwami wa Livinaha, umwe; umwami wa Adulami, umwe",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "wa Livinaha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "wa Adulami"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:32:21.224804474Z",
+  "model": "glm-5.3"
+}

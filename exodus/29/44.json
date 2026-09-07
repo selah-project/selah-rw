@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Nzatagatisha ⟨את⟩ ihema ry'ihurirano na ⟨את⟩ igicaniro; na ⟨את⟩ Aharoni na ⟨את⟩ abahungu be nzabatagatisha ngo babere abakohenu iwanjye.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "nzatagatisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema ry'ihurirano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihurirano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "nzabatagatisha"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ngo babere abakohenu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:03.868538844Z",
+  "model": "glm-5.3"
+}

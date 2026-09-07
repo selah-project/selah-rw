@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Mbere y'uko imisozi ivuka, no mbere y'uko utemya isi n'isi yabayeho, kuva mu iteka kugera mu iteka, wowe uri Eli.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Mbere y'uko"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "zivuka"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "utemya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "n'isi yabayeho"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "kuva mu iteka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:16.731325639Z",
+  "model": "glm-5.3"
+}

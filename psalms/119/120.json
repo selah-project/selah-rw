@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ibyari byanjye biratetanya kubera ubwoba bwawe, kandi imibango yawe ndatinya.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "biratetanya"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "kubera ubwoba bwawe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Ibyari byanjye"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "kandi imibango yawe"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ndatinya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:03.704521770Z",
+  "model": "glm-5.3"
+}

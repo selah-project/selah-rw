@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 100,
+  "translation": "Koko rero Yahwe ⟨ni⟩ umwiza; hesedi ye iri ho ku iteka, kandi ukwizera kwe kugeza umubyeyi n'umubyeyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko rero"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "umwiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kandi kugeza"
+    },
+    {
+      "surface": "דר",
+      "gloss": "umubyeyi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'umubyeyi"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ukwizera kwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:12.490378279Z",
+  "model": "glm-5.3"
+}

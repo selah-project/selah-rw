@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Kugira ngo bimenyishe abahungu b'abantu imbaraga ze, n'icyubahiro cy'ubwiza cy'ubwami bwe.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "kugira ngo bimenyishe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abahungu b'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "imbaraga ze"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "n'icyubahiro"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "cy'ubwiza"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "cy'ubwami bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:51.314579349Z",
+  "model": "glm-5.3"
+}

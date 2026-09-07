@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ibi ni byo tuzakora kuri bo: tubahoze ⟨את⟩ abo, kandi ntibe kuri twe uburakari kubera indahiro iyo twarahiye kuri bo.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tukore"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "tubahoze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "indahiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "twarahiye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:26:26.176435618Z",
+  "model": "glm-5.3"
+}

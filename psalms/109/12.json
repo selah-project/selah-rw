@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Ntagihorane uduta hesedi kuri we, kandi ntagihorane ugira impuhwe ku mpfubyi ze.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ihorane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "משך",
+      "gloss": "uduta"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ihorane"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ugira impuhwe"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ku mpfubyi ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:26.483526900Z",
+  "model": "glm-5.3"
+}

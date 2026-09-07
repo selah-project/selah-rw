@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "⟨את⟩ igicaniro cy'ibitambo, na ⟨את⟩ urubariro rw'ikipinga ruhawe, ⟨את⟩ imbaho zawo, na ⟨את⟩ ibikoresho byabyo byose, ⟨את⟩ umuvumbo na ⟨את⟩ ishingiro ryawo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'ibitambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urubariro"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "urubariro"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "rw'ikipinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruhawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨cyo ufite⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaho zawo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "imbaho zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuvumbo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umuvumbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ishingiro ryawo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ishingiro ryawo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:30.332529797Z",
+  "model": "glm-5.3"
+}

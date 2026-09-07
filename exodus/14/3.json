@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Paro azavuga ku bahungu ba Yisraeli ati: Bo barabatse mu gihugu, ubutayu warafunze kuribo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "azavuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "barabatse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "warafunze"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuribo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ubutayu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:52.650492978Z",
+  "model": "glm-5.3"
+}

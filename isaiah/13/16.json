@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Abana bato babo bazamenagurwa imbere y'amaso yabo; amazu yabo bazayasaruwa, abagore babo bakazanyazwa.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "abana bato babo"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "bazamenagurwa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "imbere y'amaso yabo"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "bazayasaruwa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "amazu yabo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "abagore babo"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "bakazanyazwa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:03.471375734Z",
+  "model": "glm-5.3"
+}

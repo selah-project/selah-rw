@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ese ntibo bazakwigisha, bakubwira, kandi mu mutima wabo bakivamo amagambo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese ntibo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "bazakwigisha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakubwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "kandi mu mutima wabo"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "bakivamo"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "amagambo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:20:35.471144023Z",
+  "model": "glm-5.3"
+}

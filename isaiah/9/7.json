@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ijambo Adonayi yohereje mu gihugu cya Yaakovu ⟨Yakobo⟩, maze ryaguye mu Yisraeli.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mu gihugu cya Yaakovu"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "maze ryaguye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:51:10.649660399Z",
+  "model": "glm-5.3"
+}

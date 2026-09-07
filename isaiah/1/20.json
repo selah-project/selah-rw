@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ariko iyo mudahanganwa kandi mugariganya, umupanga muzarya; koko iteka? kuko akanwa ka Yahwe kavuze.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "mudahanganwa"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "kandi mugariganya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akanwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kavuze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:38:48.200409806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Mu icyo gihe amaso y'abarema azafungurwa, n'amatwi y'abatumva azafungurwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mu icyo gihe"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "azafungurwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "y'abarema"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "n'amatwi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "y'abatumva"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "azafungurwa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:10.983001920Z",
+  "model": "glm-5.3"
+}

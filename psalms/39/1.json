@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Ku mwanzi w'umuziki, kuri Yedutunu; umuririmbo wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mwanzi w'umuziki"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kuri Yedutunu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuririmbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:42.507639775Z",
+  "model": "glm-5.3"
+}

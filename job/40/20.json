@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Mu by'ukuri imisozi izana iwe ibiribwa, aho inyamaswa zose zo mu gasozi zikinira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "בול",
+      "gloss": "ibiribwa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "izana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi zose"
+    },
+    {
+      "surface": "חית",
+      "gloss": "inyamaswa za"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mu gasozi"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "zikinira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T19:40:06.231439792Z",
+  "model": "glm-5.3"
+}

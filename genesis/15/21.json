@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "na ⟨את⟩ Abaemori, na ⟨את⟩ Abakenaani, na ⟨את⟩ Abagirugashi, na ⟨את⟩ Abayevusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abaemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abaemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abakenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Abakenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abagirugashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Abagirugashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abayevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Abayevusi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:42.984025106Z",
+  "model": "glm-5.3"
+}

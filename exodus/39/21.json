@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Maze barafunga ⟨את⟩ Hosheni ⟨ibereko⟩ ku mpinga zaryo ku mpinga z'epoda, mu mugozi wa tekheleti ⟨ubururu⟩, kugira ngo Hosheni ihagare hejuru y'umukoyi w'epoda, kandi Hosheni ntizimukure ku epoda, uko Yahwe yategetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "barafunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hosheni"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "ku mpinga zaryo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "impinga"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epoda"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "mu mugozi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "wa tekheleti"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kugira ngo ihagare"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "umukoyi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epoda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "izimukure"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hosheni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epoda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:47.606498263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "No kugira ngo usobanurire mu matwi y'umwana wawe no uw'umwana wawe ⟨את⟩ ibyo nakoze mu Mitsrayimu na ⟨את⟩ ibimenyetso byanjye nashyize muri byo, kandi mumenye ko njye ⟨ni⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "No kugira ngo"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "usobanurire"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mu matwi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "y'umwana wawe"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "no umwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "w'umwana we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo nakoze mu Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimenyetso byanjye"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ibimenyetso byanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mumenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:43:52.257688586Z",
+  "model": "glm-5.3"
+}

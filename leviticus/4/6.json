@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kohenu azabyubya ⟨את⟩ urutoki rwe mu maraso, maze azasesengura mu maraso inshuro zindwi imbere ya Yahwe, ⟨את⟩ imbere ya paroketi y'ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "azabyubya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urutoki rwe"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "urutoki rwe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mu maraso"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "azasesengura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zindwi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "inshuro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere ya paroketi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroketi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:36.290027968Z",
+  "model": "glm-5.3"
+}

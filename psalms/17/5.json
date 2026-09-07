@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Intambwe zanjye ziyobewe mu nzira zawe; ibirenge byanjye ntibizagwa.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ziyobewe"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "intambwe zanjye"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "mu nzira zawe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "bizagwa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ibirenge byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:40.320189250Z",
+  "model": "glm-5.3"
+}

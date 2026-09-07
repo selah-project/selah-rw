@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Yahwe ashigikira bose baguye, kandi azamura bose bahunze intetsa.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ashigikira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "baguye"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "kandi azamura"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "bahunze intetsa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:15.062984223Z",
+  "model": "glm-5.3"
+}

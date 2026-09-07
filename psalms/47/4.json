@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Ashyira hasi amahanga yacu mu bwami, n'amoko hasi y'ibirenge byacu.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ashyira hasi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "hasi yacu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "n'amoko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ya"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ibirenge byacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:30.347862341Z",
+  "model": "glm-5.3"
+}

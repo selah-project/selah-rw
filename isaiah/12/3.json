@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze muzatera amazi mu byishimo mu masoko y'ubokuzi.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "Maze muzatera"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "mu byishimo"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "mu masoko y'"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ubokuzi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:14.947005048Z",
+  "model": "glm-5.3"
+}

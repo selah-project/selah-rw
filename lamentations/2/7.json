@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Adonayi yarekanye igitigiri cye, yananiranye urusengero rwe, atanze urukuba rw'inzu z'ubwami zayo mu nkumbo z'umwanzi; bansaniye ijwi mu nzu ya Yahwe nk'umunsi w'isabukuru.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "yarekanye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "igitigiri cye"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "yananiranye"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "urusengero rwe"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "atanze"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu nkumbo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "z'umwanzi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urukuba rw'"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "inzu z'ubwami zayo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bansaniye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nk'umunsi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "w'isabukuru"
+    }
+  ],
+  "timestamp": "2026-09-07T19:49:45.497292999Z",
+  "model": "glm-5.3"
+}

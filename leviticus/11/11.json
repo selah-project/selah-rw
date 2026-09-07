@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi sheketi zizaba kuri mwe: umubiri wazo ntimumurye, na ⟨את⟩ imirambo yabo muzayiranga sheketi.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "kandi sheketi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zizaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "umubiri wazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "murye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirambo yabo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "imirambo yabo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "muzayiranga sheketi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:58.040491553Z",
+  "model": "glm-5.3"
+}

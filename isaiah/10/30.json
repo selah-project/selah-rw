@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kwerurisha ijwi ryawe, we muryamukaza wa Galimu; umwirikize, Layisha; we mukeneha wa Anatotu.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "kwerurisha ijwi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ijwi ryawe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "muryamukaza"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "wa Galimu"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "umwirikize"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layisha"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "mukeneha"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "wa Anatotu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:05.773224655Z",
+  "model": "glm-5.3"
+}

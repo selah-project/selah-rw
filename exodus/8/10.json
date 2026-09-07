@@ -1,0 +1,38 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 8:10",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "Barazunze ⟨את⟩ bo ⟨את⟩ uturare uturare, maze isi yatangiye kunuka.",
+ "tokens": [
+  {
+   "surface": "ויצברו",
+   "gloss": "barazunze"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "uturare uturare"
+  },
+  {
+   "surface": "חמרם",
+   "gloss": "uturare"
+  },
+  {
+   "surface": "חמרם",
+   "gloss": "uturare"
+  },
+  {
+   "surface": "ותבאש",
+   "gloss": "yatangiye kunuka"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  }
+ ],
+ "timestamp": "2026-09-07T08:41:09.434506829Z",
+ "model": "glm-5.3"
+}

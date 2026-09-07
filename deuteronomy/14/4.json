@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Iyi ni inyamaswa murya: inka, intama y'ibiteri, n'intama y'ihene.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "murya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "intama"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "y'ibiteri"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "n'intama"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "y'ihene"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:59.426486369Z",
+  "model": "glm-5.3"
+}

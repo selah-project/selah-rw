@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Ibyungurwane by'umfungwa bizure imbere yawe; ukurikije ukomeye kw'akaboko kawe, unkure abana b'urupfu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "bizure"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "Ibyungurwane"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "by'umfungwa"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "ukurikije ukomeye"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "kw'akaboko kawe"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "unkure"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "b'urupfu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:23.726530114Z",
+  "model": "glm-5.3"
+}

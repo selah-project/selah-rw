@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Naragize nini ibikorwa byanjye; nubatse inzu njyewe; nakoreye imizabibu njyewe.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "naragize nini"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ibikorwa byanjye"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nubatse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "nakoreye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:07.145600389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Nefeshi yanjye arayisubirisha, unyobora mu nzira z'ubutungane, kubw'izina rye.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "arayisubirisha"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "unyobora"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "z'ubutungane"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubw'-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:26.007087103Z",
+  "model": "glm-5.3"
+}

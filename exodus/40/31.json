@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 31,
+ "ref": "exodus 40:31",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 40,
+ "translation": "Barasukura muri byo Moshe na Aharoni n'abahungu be ⟨את⟩ ibiganza byabo na ⟨את⟩ amaguru yabo.",
+ "tokens": [
+  {
+   "surface": "ורחצו",
+   "gloss": "barasukura"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "muri byo"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ואהרן",
+   "gloss": "na Aharoni"
+  },
+  {
+   "surface": "ובניו",
+   "gloss": "n'abahungu be"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibiganza byabo"
+  },
+  {
+   "surface": "ידיהם",
+   "gloss": "ibiganza byabo"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩"
+  },
+  {
+   "surface": "רגליהם",
+   "gloss": "amaguru yabo"
+  }
+ ],
+ "timestamp": "2026-09-07T09:22:39.044167646Z",
+ "model": "glm-5.3"
+}

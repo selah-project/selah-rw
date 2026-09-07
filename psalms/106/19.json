@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Bakora undage mu Horebu, maze bakubambye igishusho cy'agacuma.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "undage"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mu Horebu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "maze bakubambye"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "igishusho cy'agacuma"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:49.883000766Z",
+  "model": "glm-5.3"
+}

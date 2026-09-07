@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Nuko ijoro ryo arahaguruka, afata ⟨את⟩ abagore be babiri na ⟨את⟩ abaja be babiri na ⟨את⟩ abana be cumi n'umwe, anyura ⟨את⟩ umujyana wa Yaboku.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "arahaguruka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagore be babiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaja be babiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "abaja be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana be cumi n'umwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "n'umwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "anyura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyana wa Yaboku"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "umujyana"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "wa Yaboku"
+    }
+  ],
+  "timestamp": "2026-09-07T08:04:45.627210336Z",
+  "model": "glm-5.3"
+}

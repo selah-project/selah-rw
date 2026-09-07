@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "None rero, turate: urwirego rw'abana ba Yisraeli rwaragera iwanjye, kandi nabonye ⟨את⟩ ihohotera ayo abanyamitsrayimu bahoherereza ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rero"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "turate"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "urwirego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "באה",
+      "gloss": "rwaragera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihohotera"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ihohotera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abanyamitsrayimu"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "bahoherereza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:31.194593534Z",
+  "model": "glm-5.3"
+}

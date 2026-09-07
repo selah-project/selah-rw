@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yaakovu na yinjiye kwa Raheli, na yakundaga ⟨את⟩ Raheli kurusha Lea, maze yakoreye Lavanu n'imyaka irindwi n'iyindi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na yinjiye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "na yakundaga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raheli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kurusha Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "maze yakoreye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "n'iyindi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:02:40.259745377Z",
+  "model": "glm-5.3"
+}

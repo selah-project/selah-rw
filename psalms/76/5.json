@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Wowe urameshe kandi udashoboka ⟨kurusha⟩ imisozi y'ibikamate.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "urameshe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "udashoboka"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ibikamate"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:13.795574518Z",
+  "model": "glm-5.3"
+}

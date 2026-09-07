@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze Aviyamu aracyeka n'ababyeyi be, baramushyingura ⟨את⟩ mu mujyi wa Dawidi, maze umwana we Asa agira umwami mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "aracyeka"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ababyeyi be"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "baramushyingura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyamu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "agira umwami"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:28.009665992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Maze nzasakaza ⟨את⟩ Mitsrayimu (Egiputa) mu mahanga, maze nzibatantsa mu bihugu.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "Maze nzasakaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "maze nzibatantsa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mu bihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:11:00.876844413Z",
+  "model": "glm-5.3"
+}

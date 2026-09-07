@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Iminsi yanjye ⟨ni⟩ nk'igicucu cyagumye kirerire, kandi nanjye nk'ubwatsi nahehereye.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "iminsi yanjye"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "nk'igicucu"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "cyagumye kirerire"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kandi nanjye"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "nk'ubwatsi"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "nahehereye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:34.722380064Z",
+  "model": "glm-5.3"
+}

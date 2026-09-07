@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze arashyize ku munwa wanjye aravuga ati: Reba, uru ryakoranze ku minwa yawe, igicumuro cyawe cyakuyeho, n'icyaha cyawe kirasizwe.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "arashyize"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munwa wanjye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ryakoranze"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uru"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "minwa yawe"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "cyakuyeho"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "igicumuro cyawe"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "n'icyaha cyawe"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "kirasizwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:57.240242400Z",
+  "model": "glm-5.3"
+}

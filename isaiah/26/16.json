@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yahwe, mu bihe by'igikatu abantu bagusuye; baravomye isengesho rya make iyo igihano cyawe cyabageraho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe by'igikatu"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "bagusuye"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "baravomye"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "isengesho rya make"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "igihano cyawe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ku bantu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:48.440492982Z",
+  "model": "glm-5.3"
+}

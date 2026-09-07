@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "N'izina rya musaza we ⟨ni⟩ Yuvalu: we yari se wa bose bafata kinoru n'ugavi ⟨umubyimbo⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "n'izina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rya musaza we"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yuvalu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinoru"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "n'ugavi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:37.699111954Z",
+  "model": "glm-5.3"
+}

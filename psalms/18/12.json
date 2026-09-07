@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yashyize umwijima mu ihisha rye, ibikikije bye igihuru cye: umwijima w'amazi, n'ibicu bikomeye byo mu kirere.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Yashyize"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "mu ihisha rye"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ibikikije bye"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "igihuru cye"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "w'amazi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "n'ibicu bikomeye"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "byo mu kirere"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:50.322546420Z",
+  "model": "glm-5.3"
+}

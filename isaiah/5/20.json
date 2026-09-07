@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yee! Abavuga ko ikibi ari icyiza, ko icyiza ari ikibi; bashyira umwijima ku mwanya w'urumuri, n'urumuri ku mwanya w'umwijima, bashyira ibikarabyo ku mwanya w'ibyoroshye, n'ibyoroshye ku byikarabyo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yee!"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abavuga"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ko ikibi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ari icyiza"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ko icyiza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ari ikibi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "bashyira"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ku mwanya w'urumuri"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "n'urumuri"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ku mwanya w'umwijima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "bashyira"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ibikarabyo"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ku mwanya w'ibyoroshye"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "n'ibyoroshye"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ku byikarabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:43:40.377258436Z",
+  "model": "glm-5.3"
+}

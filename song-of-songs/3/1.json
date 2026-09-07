@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ku butanda bwanjye mu ijoro nashakishe ⟨את⟩ uwo Nefeshi wanjye akunda; namushakishije, ariko sinamubonye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "butanda bwanjye"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nashakishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo Nefeshi wanjye akunda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "uwo akunda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi wanjye"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "namushakishije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko si"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "sinamubonye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:42:11.085452566Z",
+  "model": "glm-5.3"
+}

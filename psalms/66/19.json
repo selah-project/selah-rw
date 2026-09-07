@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Ahubwo, rwose Elohimu yari yumvise; yategujije indwi y'isengesho ryanjye.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ahubwo, rwose"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yari yumvise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "yategujije"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "y'isengesho ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:58.289368676Z",
+  "model": "glm-5.3"
+}

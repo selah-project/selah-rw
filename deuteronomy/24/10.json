@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Iyo utije umuturanyi wawe ikintu na kimwe, ntwikijye mu nzu ye ngo ufate ingwate ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "utije"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "umuturanyi wawe"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ikimutizaho"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ntwikijye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nzu ye"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ngo ufate"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "ingwate ye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:58.078733407Z",
+  "model": "glm-5.3"
+}

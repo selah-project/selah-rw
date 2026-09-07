@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Amahanga yose, mukube ibiganza; mukangire kwa Elohimu mu ijwi rinah ⟨ijwi ryo kwishima⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mukube"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ibiganza"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mukangire"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rinah ⟨ryo kwishima⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:30.347449755Z",
+  "model": "glm-5.3"
+}

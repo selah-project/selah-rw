@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Aravuze ati: Ejo hashi. Maze aravuze ati: Bizaba nk'ijambo ryawe, kugira ngo umenye ko nta ⟨uwangana na⟩ Yahwe, Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Ejo hashi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze ati"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "nk'ijambo ryawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "umenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta ⟨uwangana na⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:01.791805262Z",
+  "model": "glm-5.3"
+}

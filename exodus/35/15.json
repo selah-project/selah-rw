@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "na ⟨את⟩ igicaniro cya igitumba, na ⟨את⟩ imbaho zawo, na ⟨את⟩ amavuta yo kukanira, na ⟨את⟩ igitumba cy'ibimembe, na ⟨את⟩ igihisho cy'umuryango, ku muryango wa Mishikani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "cya igitumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imbaho zawo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "imbaho zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yo kukanira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitumba"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "igitumba"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "cy'ibimembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igihisho"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "igihisho"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "cy'umuryango"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishikani"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:30.332210876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yaakovu arababwira ati: Abavandimwe banjye, nuturutse? Barasubiza bati: Tura i Harani (Harani).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Abavandimwe banjye"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nuturutse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Barasubiza"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "i Harani"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Tura"
+    }
+  ],
+  "timestamp": "2026-09-07T08:02:04.568957676Z",
+  "model": "glm-5.3"
+}

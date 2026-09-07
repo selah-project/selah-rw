@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abakurambere benu bari he? n'abahanuzi, bazabaho b'iteka?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "abakurambere benu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "bari he?"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "n'abahanuzi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "b'iteka"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bazabaho"
+    }
+  ],
+  "timestamp": "2026-09-07T17:57:25.338172750Z",
+  "model": "glm-5.3"
+}

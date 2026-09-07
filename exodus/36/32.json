@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 36:32",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "N'ibyuma by'ihuza bitanu ku baho bw'uruhande rwa kabiri rw'igihishu, n'ibyuma by'ihuza bitanu ku baho bw'igihishu ku ntera z'inyuma, iburengerazuba.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "n'ibyuma by'ihuza bitanu"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "ibyuma by'ihuza"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "ku baho"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "bw'uruhande"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "rw'igihishu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rwa kabiri"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "n'ibyuma by'ihuza bitanu"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "ibyuma by'ihuza"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "ku baho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "bw'igihishu"
+    },
+    {
+      "surface": "לירכתים",
+      "gloss": "ku ntera z'inyuma"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "iburengerazuba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:17:57.143757498Z",
+  "model": "glm-5.3"
+}

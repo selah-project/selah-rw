@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 9:10",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Bafata ⟨את⟩ umuyaga w'igitebo, bahagara imbere ya Paro; Moshe urwanura ⟨את⟩ we ku ijuru, maze haba ibisebe amara bitera mu bantu no mu matungo.",
+ "tokens": [
+  {
+   "surface": "ויקחו",
+   "gloss": "bafata"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umuyaga"
+  },
+  {
+   "surface": "פיח",
+   "gloss": "umuyaga"
+  },
+  {
+   "surface": "הכבשן",
+   "gloss": "w'igitebo"
+  },
+  {
+   "surface": "ויעמדו",
+   "gloss": "bahagara"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere ya"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paro"
+  },
+  {
+   "surface": "ויזרק",
+   "gloss": "urwanura"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "urwo (umuyaga)"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "השמימה",
+   "gloss": "ku ijuru"
+  },
+  {
+   "surface": "ויהי",
+   "gloss": "maze haba"
+  },
+  {
+   "surface": "שחין",
+   "gloss": "ibisebe"
+  },
+  {
+   "surface": "אבעבעת",
+   "gloss": "amara"
+  },
+  {
+   "surface": "פרח",
+   "gloss": "bitera"
+  },
+  {
+   "surface": "באדם",
+   "gloss": "mu bantu"
+  },
+  {
+   "surface": "ובבהמה",
+   "gloss": "no mu matungo"
+  }
+ ],
+ "timestamp": "2026-09-07T08:40:47.339662715Z",
+ "model": "glm-5.3"
+}

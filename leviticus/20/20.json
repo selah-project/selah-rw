@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi umuntu uko waryamye na ⟨את⟩ nyirasenge we: isoni rya nishyi we yarahishuye; icyaha cyabo bazacyitwara; bazapfa batagira abana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kandi umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "waryamye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyirasenge we"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "na nyirasenge we"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "rya nishyi we"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yarahishuye"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "icyaha cyabo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bazacyitwara"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "batagira abana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bazapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:35.989829578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi abami bariciriye hose baganira ibyaha jyowe; umuja wawe yibanda ku mategeko yawe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bariciriye hose"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ibyaha jyowe"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "baganira"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "yibanda"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ku mategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:48.317014668Z",
+  "model": "glm-5.3"
+}

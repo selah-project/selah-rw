@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "kugira ngo mutandukanye hagati y'igitagatifu n'ibisanzwe, no hagati y'ibirumwa n'ibisukuye.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "kugira ngo mutandukanye"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati y'igitagatifu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ibisanzwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ibirumwa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ibisukuye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:35.399817354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Nakoje Beriti ⟨isezerano⟩ n'untoranyi wanjye; ndahiye Dawidi umugaragu wanjye.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Nakoje"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beriti ⟨isezerano⟩"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "n'untoranyi wanjye"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndahiye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:03.561343368Z",
+  "model": "glm-5.3"
+}

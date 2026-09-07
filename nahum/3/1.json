@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yabaye igihe cy'urubanza! Umujyi w'amaraso, wose urimo ububeshi n'ivangura; imbabazi zitidakora.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yabaye igihe cy'urubanza!"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "wose"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ububeshi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ivangura"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "urimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "zidahura"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "imbabazi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:51:48.542622286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Umuplisiti yaza mu gitondo no mu mugoroba, ahagara iminsi mirongo ine.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaza"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "umuplisiti"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "no mu mugoroba"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ahagara"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo ine"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:38:36.348403860Z",
+  "model": "glm-5.3"
+}

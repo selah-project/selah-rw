@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ukamubwira uti: Yahwe, Elohimu w'Abeburani, yantumye nguhitereje ngo: Sohokesha ⟨את⟩ abantu banjye, bagukorere mu butayu; maze reba, ntiwumvise kugeza ubu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ukamubwira uti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uriwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "w'Abeburani"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "yantumye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nguhitereje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sohokesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "bagukorere"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze reba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "-wumvise"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ubu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:00.500076274Z",
+  "model": "glm-5.3"
+}

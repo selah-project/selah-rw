@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Agasanduku k'Elohimu ke{g}umiye na inzu ya Ovedi-Edomu mu nzu ye, amezi atatu, maze Yahwe yagize umugisha ⟨את⟩ inzu ya Ovedi-Edomu na ⟨את⟩ byose bibaye ibye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kegumiye (kagumye)"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "agasanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "k'Elohimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ovedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amezi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yagize umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Ovedi-Edomu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ovedi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose bibaye ibye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bibaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ibye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:37:05.377045144Z",
+  "model": "glm-5.3"
+}

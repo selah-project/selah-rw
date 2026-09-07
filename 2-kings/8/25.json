@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mu mwaka wa cumi na kabiri wa Yoramu, umwana w'Ahavu, umwami w'Yisraeli, Ahaziyahu, umwana wa Yehoramu, umwami w'Yehudah, yagize ubwami.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mu mwaka"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "wa Yoramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "w'Ahavu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "wa Yehoramu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "w'Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:05.046555091Z",
+  "model": "glm-5.3"
+}

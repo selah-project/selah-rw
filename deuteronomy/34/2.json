@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Na ⟨את⟩ ubwara bwa Naftali bwose, na ⟨את⟩ ubutaka bwa Efureyimu na bwa Menashe, na ⟨את⟩ ubutaka bwa Yehuda bwose, kugera ku nyanja y'i nyuma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwara bwa Naftali bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubutaka bwa Efureyimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efureyimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubutaka bwa Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "y'i nyuma"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:14.978124183Z",
+  "model": "glm-5.3"
+}

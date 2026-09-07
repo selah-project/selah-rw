@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Yosefu yabwiye abavandimwe be ati: Njye ndi ndiye gupfa; kandi Elohimu azibukura ⟨את⟩ mwese by'ukuri, kandi azazamurisha ⟨את⟩ mwese mu gihugu hano, ajye mu gihugu yasezeranyije Avrahamu (Aburahamu), Yitsaki (Isaka) na Yaakovu (Yakobo).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ndi ndiye gupfa"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "kandi Elohimu"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "azibukura"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "by'ukuri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwese"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "azazamurisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwese"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajye mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yasezeranyije"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:35.844361255Z",
+  "model": "glm-5.3"
+}

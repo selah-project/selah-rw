@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe, tugirire impuhwe; twareze iwawe. Ube ikiganza cyabo buri mu gitondo, nan'ubukizi bwacu mu gihe cy'ikarishyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "tugirire impuhwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "twareze"
+    },
+    {
+      "surface": "היה",
+      "gloss": "Ube"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ikiganza cyabo"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "buri mu gitondo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nan'"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ubukizi bwacu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "cy'ikarishyo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:07:42.925158284Z",
+  "model": "glm-5.3"
+}

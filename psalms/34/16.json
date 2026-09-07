@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Amaso ya Yahwe ari ku bagatizu, n'amatwi ye ku guhamagara kwabo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abagatizu"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "n'amatwi ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "guhamagara kwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:33.522646090Z",
+  "model": "glm-5.3"
+}

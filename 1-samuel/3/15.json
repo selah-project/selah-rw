@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Shemueli aryamye kugeza mu gitondo, maze afunguye ⟨את⟩ imiryango y'inzu ya Yahwe; Shemueli yari atinya kugaragaza ⟨את⟩ icyerekezo kuri Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "aryamye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "maze afunguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiryango"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "y'inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yari atinya"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "kugaragaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyerekezo"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "icyerekezo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:41.324533091Z",
+  "model": "glm-5.3"
+}

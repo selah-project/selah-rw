@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Waha bo ubwami n'amahanga, ubagabanyije ku mpande; baratunga ⟨את⟩ ubutaka bwa Sihoni, na ⟨את⟩ ubutaka bw'umwami wa Heshiboni, na ⟨את⟩ ubutaka bwa Ogu, umwami wa Bashani.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "waha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "n'amahanga"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "ubagabanyije"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ku mpande"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "baratunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwa Sihoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bw'umwami wa"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshiboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "bwa Ogu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:25:16.432510114Z",
+  "model": "glm-5.3"
+}

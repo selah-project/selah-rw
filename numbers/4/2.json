@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Zamura ⟨את⟩ umutwe w'abana ba Kehati mu myanya y'abana ba Levi, mu muryango yabo, mu nzu ya bakurambere babo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Zamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu myanya y'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mu muryango yabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bakurambere babo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:25.805122043Z",
+  "model": "glm-5.3"
+}

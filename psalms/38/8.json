@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Kuko ibyuma byanjye byuzuye ⟨umuriro⟩ urwaye, kandi nta buzima ⟨buzuye⟩ mu mubiri wanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ibyuma byanjye"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "umuriro urwaye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "buzima"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "mu mubiri wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:06.770257390Z",
+  "model": "glm-5.3"
+}

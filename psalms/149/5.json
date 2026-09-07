@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 149,
+  "translation": "Abahesedi barakina cyane mu cyubahiro, baririmba ku bitanda byabo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "barakina cyane"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "abahesedi"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "mu cyubahiro"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baririmba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ibitanda byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.841185109Z",
+  "model": "glm-5.3"
+}

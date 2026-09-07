@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 22:15",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Urinda inzira y'iteka abantu b'ibyogo banyetse?",
+  "tokens": [
+    {
+      "surface": "הארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'iteka"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "urinda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "banyetse"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "און",
+      "gloss": "b'ibyogo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:30:37.399729988Z",
+  "model": "glm-5.3"
+}

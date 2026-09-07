@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe yaje, yahagaze, ahamagara ugeze ho ugeze ho ati: Shemueli (Samweli)! Shemueli (Samweli)! Shemueli (Samweli) nahejeje avuga ati: Vuga, kandi umugaragu wawe yumva.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "yahagaze"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ahamagara"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "ugeze ho"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ugeze ho"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli (Samweli)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli (Samweli)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nahejeje avuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli (Samweli)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:23:33.883371520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko umunyagikwire ni ikindyisha kwa Yahwe, ariko ibanga rye ⟨ni⟩ na ⟨את⟩ abayoboke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ikindyisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "umunyagikwire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abayoboke"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abayoboke"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ibanga rye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:01:21.008702010Z",
+  "model": "glm-5.3"
+}

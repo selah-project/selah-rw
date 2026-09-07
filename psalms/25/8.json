@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yahwe ⟨ni⟩ ineza kandi igororutsye; ni cyo mpamvu yigisha abanyabyaha mu nzira.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "inezako"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kandi igororutsye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni cyo (icyo\/)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mpamvu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yigisha"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "abanyabyaha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:24.676161914Z",
+  "model": "glm-5.3"
+}

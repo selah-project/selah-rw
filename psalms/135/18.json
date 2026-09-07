@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Nka bo bazabe ababakoreye, n'abizeraga bose bazabe nka bo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "nka bo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazabe"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ababakoreye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ab'"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bizeraga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:11.621685734Z",
+  "model": "glm-5.3"
+}

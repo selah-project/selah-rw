@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze abana ba Yisraeli (ba Isirayeli) binjira mu hagati y'inyanja ku butaka bwakaye, maze amazi yabaye urukoba kuri bo ku iburyo bwabo no ku ibumoso bwabo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "binjira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu hagati"
+    },
+    {
+      "surface": "הים",
+      "gloss": "y'inyanja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ku butaka bwakaye"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "maze amazi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "urukoba"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "ku iburyo bwabo"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "no ku ibumoso bwabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:35.634106201Z",
+  "model": "glm-5.3"
+}

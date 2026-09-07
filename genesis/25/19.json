@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi aya ni amasekuruza ya Yitsaki, umwana wa Avrahamu: Avrahamu yabyaye ⟨את⟩ Yitsaki.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kandi aya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ni amasekuruza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ya Yitsaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    }
+  ],
+  "timestamp": "2026-09-07T07:56:45.825669807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Elohimu, umva isabwa ryanjye; twikurikirane amagambo y'akanwa kanjye.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isabwa ryanjye"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "twikurikirane"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "y'akanwa kanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:46.873042087Z",
+  "model": "glm-5.3"
+}

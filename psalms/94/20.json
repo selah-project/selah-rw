@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Ese intebe y'ibyago ishobora kujyanana na wowe, cyangwa iyo uri kubyumba n'ubugome mu itegeko?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ishobora kujyanana na wowe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "intebe"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "y'ibyago"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "iyo uri kubyumba"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "n'ubugome"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חק",
+      "gloss": "itegeko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:26.742173428Z",
+  "model": "glm-5.3"
+}

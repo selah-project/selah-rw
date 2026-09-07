@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze abami batanu aba bararonse, bararahishe mu rwobo i Makeda.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "bararonse"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "batanu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "bararahishe"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mu rwobo"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "i Makeda"
+    }
+  ],
+  "timestamp": "2026-09-07T11:30:10.989150050Z",
+  "model": "glm-5.3"
+}

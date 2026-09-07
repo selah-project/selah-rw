@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Muhimishe Yahwe, ko ⟨ari⟩ mwiza, ko ku iteka ⟨ni⟩ hesedi ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Muhimishe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:26.432402437Z",
+  "model": "glm-5.3"
+}

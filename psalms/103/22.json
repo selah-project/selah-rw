@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Musingize Yahwe, iby'akora byose, mu tunwa twose tw'ubutegetsi bwe; Nefeshi yanjye, usingize ⟨את⟩ Yahwe!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "iby'akora"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu tunwa twose"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "twinshuro (twaremwe n'aho)"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "tw'ubutegetsi bwe"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "usingize"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:35.475746420Z",
+  "model": "glm-5.3"
+}

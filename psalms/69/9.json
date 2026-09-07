@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Nahindutse umunyamahanga ku bavandimwe, n'utamenyekana ku bana ba nyina.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "umunyamahanga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahindutse"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ku bavandimwe"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "n'utamenyekana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku bana"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ba nyina"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.427731624Z",
+  "model": "glm-5.3"
+}

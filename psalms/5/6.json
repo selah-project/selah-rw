@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ab'inkomangaha ntibazahagarara imbere y'amaso yawe; uranka abakora ibitunga bose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "bazahagarara"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ab'inkomangaha"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "uranka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibitunga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:13.210811730Z",
+  "model": "glm-5.3"
+}

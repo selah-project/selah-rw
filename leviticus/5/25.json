@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Azana kwa Yahwe na ⟨את⟩ icyaha cye: intama y'ingabo itavanzemo, mu rwungo rw'intama, mu igenzura ryawe, nk'⟨ashamu (ikatano ry'icyaha)⟩, kwa kohenu ⟨(umuherezi)⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icyaha cye"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "icyaha cye"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "azana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "intama y'ingabo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "itavanzemo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "urwungo rw'intama"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "mu igenzura ryawe"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "nk'⟨ashamu (ikatano ry'icyaha)⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu ⟨(umuherezi)⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:55.241582004Z",
+  "model": "glm-5.3"
+}

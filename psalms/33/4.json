@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Kuko ijambo rya Yahwe ⟨ni⟩ ridahuye, n'ibikorwa byaryo byose mu kwizera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ridahuye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ibikorwa byaryo byose"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ibikorwa byaryo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "mu kwizera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:08.438410716Z",
+  "model": "glm-5.3"
+}

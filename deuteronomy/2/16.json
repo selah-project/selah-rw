@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Hanyuma igihe abagabo b'intambara bose bari barangiye gupfa, bava mu bwoko bw'abantu —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Hanyuma igihe... byagenze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "bari barangiye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "b'intambara"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gupfa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "bava mu Rwanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bw'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:09.422682400Z",
+  "model": "glm-5.3"
+}

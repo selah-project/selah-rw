@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Umwana we w'umukobwa ni Sheera we — ni we wubakiye ⟨את⟩ Bethi-Horoni rya hasi na ⟨את⟩ rya hejuru, na ⟨את⟩ Uzzeni-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "umwana we w'umukobwa"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "wubakiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Bethi-Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "rya hasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rya hejuru"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "rya hejuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Uzzeni-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzeni"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:57.935250806Z",
+  "model": "glm-5.3"
+}

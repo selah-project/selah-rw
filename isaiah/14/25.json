@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kugira ngo Ashuru yororwe mu gihugu cyanjye, no ku misozi yanjye amenwe: maze uruyuko rwe rukava kuri bo, n'umutsindo wwe ukava ku rutugu rwabo.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "kugira ngo yororwe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "mu gihugu cyanjye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "misozi yanjye"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "amenwe"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "rukava"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "uruyuko rwe"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "n'umutsindo wwe ukava"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ku rutugu"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "rwabo (yanduranye)"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:36.503843398Z",
+  "model": "glm-5.3"
+}

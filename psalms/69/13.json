@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Abatuye ku irembo banavugisha iby'⟨את⟩ njye, maze njyewe ndahindurwa ⟨את⟩ indirimbo y'abanywi b'inzoga ikomeye.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "banavugisha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iby'njye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ku irembo"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "maze ndahindurwa indirimbo"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "y'abanywi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "inzoga ikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T23:08:54.144713101Z",
+  "model": "glm-5.3"
+}

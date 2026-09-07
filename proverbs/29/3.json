@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Umuntu ukunda ubwenge yishimirisha se; n'uwitumanaho n'abakarishya asenya umutungo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ukunda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yishimirisha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "n'uwitumanaho"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "abakarishya"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "asenya"
+    },
+    {
+      "surface": "הון",
+      "gloss": "umutungo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:54.344407112Z",
+  "model": "glm-5.3"
+}

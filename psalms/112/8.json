@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Umutima we uhagaze: ntazatinya, kugeza aho areba abansi be.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "uhagaze"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "azatinya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "areba"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "abansi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:22.001687180Z",
+  "model": "glm-5.3"
+}

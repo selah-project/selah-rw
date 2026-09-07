@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "igice cya kumi, igice cya kumi, muzakora ku ntama imwe, ku ntama zirindwi.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "igice cya kumi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "igice cya kumi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ku ntama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ku ntama zirindwi"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ntama zirindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:32:48.143149400Z",
+  "model": "glm-5.3"
+}

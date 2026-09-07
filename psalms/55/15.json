@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Uwo twari kumwe turironza ⟨ibanga⟩ rimwe, mu nzu ya Elohimu tugenda mu itsinda.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Uwo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "twari kumwe"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "turironza"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨ibanga⟩ rimwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohimu"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "tugenda"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "mu itsinda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:28.054882778Z",
+  "model": "glm-5.3"
+}

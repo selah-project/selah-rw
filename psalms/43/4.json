@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Maze nzajye kuri ibicanwa bya Elohimu, kuri Eli, umunezero w'ishimo ryanjye; maze nkuruhuke na kinanda, Elohimu, Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Maze nzajye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ibicanwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "umunezero"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "w'ishimo ryanjye"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "maze nkuruhuke"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinanda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:23.466498913Z",
+  "model": "glm-5.3"
+}

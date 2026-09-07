@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Maze Yitsaki arababwira ati: Kuki ari mwe mje kwa njye, nyamara mwantuje ⟨את⟩ njye, mukandohereje ⟨את⟩ kuri mwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze ... arababwira ati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mje"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa njye"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ari mwe"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "mwantuje"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "mukandohereje"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ kuri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:16.777767350Z",
+  "model": "glm-5.3"
+}

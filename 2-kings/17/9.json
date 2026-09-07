@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 17:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abana b'Yisraeli bahishe ibintu bitari byo kuri Yahwe, Elohimu wabo, maze bajyeho bakunda ⟨ibimburabuturo⟩ mu mudugudu wose wabo, kuva ku munara w'abarinzi kugera ku mujyi uhingejwe.",
+  "tokens": [
+    {
+      "surface": "ויחפאו",
+      "gloss": "bahishe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ibintu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bitari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bi-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "byo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "maze bajyeho bakunda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ibyo ngombwa⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ibimburabuturo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…wose"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mudugudu wabo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kuva ku munara"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "w'abarinzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ku mujyi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "uhingejwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:33.593452078Z",
+  "model": "glm-5.3"
+}

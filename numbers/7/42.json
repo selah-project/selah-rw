@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ku munsi wa gatandatu, umutware w'abana ba Gadi, Eliyasafu umwana wa Deuweli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi wa"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "gatandatu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "w'abana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eliyasafu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuweli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:52.986346630Z",
+  "model": "glm-5.3"
+}

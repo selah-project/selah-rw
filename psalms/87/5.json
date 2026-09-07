@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 87,
+  "translation": "Kuri Tsiyoni bizo bivugwa ko umuntu n'umuntu yavutse muri yo, kandi we — Elyoni — nizo ahyizeyo.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "kuri Tsiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bizo bivugwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'umuntu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yavutse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi we"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "nizo ahyizeyo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:01.475330110Z",
+  "model": "glm-5.3"
+}

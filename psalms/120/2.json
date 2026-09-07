@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Yahwe, rokira Nefeshi yanjye mu menyo y'ibinyoma, n'ururimi rw'ubugari.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "rokira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "mu menyo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "y'ibinyoma"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "n'ururimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "rw'ubugari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:12.906727644Z",
+  "model": "glm-5.3"
+}

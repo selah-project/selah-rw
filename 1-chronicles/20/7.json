@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Aherereje ⟨את⟩ Yisraeli, maze Yehonatani mwene Shimea, murumuna wa Dawidi, yamwishe.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Aherereje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "yamwishe"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "murumuna wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:21.276461170Z",
+  "model": "glm-5.3"
+}

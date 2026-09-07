@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Hataki niko aramutso aragenda kuri Mordokayi, ku kibuga c'umujyi kiri imbere y'umuryango w'umwami.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "aramutso aragenda"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "kibuga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "c'umujyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "שער",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "w'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T19:59:23.947796542Z",
+  "model": "glm-5.3"
+}

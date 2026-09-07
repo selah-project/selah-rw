@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze Moshe yaravuze ku bana ba Yisraeli yo gukora Paseka",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yo gukora"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    }
+  ],
+  "timestamp": "2026-09-07T10:10:55.708656585Z",
+  "model": "glm-5.3"
+}

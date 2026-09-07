@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Mu Gibonu Yahwe yagaragaye kuri Shelomu (Shelomo) mu ndoto y'ijoro, maze Elohimu yavuze ⟨ati⟩: Saba icyo nkuzahaye wowe.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Mu Gibonu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomu (Shelomo)"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "mu ndoto"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "y'ijoro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yavuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Saba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nkuzahaye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:31.013600472Z",
+  "model": "glm-5.3"
+}

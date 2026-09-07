@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Vehotsadaki na we yagiye mu buhamyi, mu gihe Yahwe yoherejeho ⟨את⟩ Yehuda na ⟨את⟩ Yerushalayimu mu ntoko za Nevukadnetsari.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Vehotsadaki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "mu buhamyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsari"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:43.282705406Z",
+  "model": "glm-5.3"
+}

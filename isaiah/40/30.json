@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Abasore baragwa bakananira, amahigi kugwingira bararemba.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "baragwa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "abasore"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "bakananira"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "amahigi"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "kugwingira"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bararemba"
+    }
+  ],
+  "timestamp": "2026-09-07T15:14:35.603457463Z",
+  "model": "glm-5.3"
+}

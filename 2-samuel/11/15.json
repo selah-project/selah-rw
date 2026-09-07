@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yanditse mu ibaruwa ati: Mushyire ⟨את⟩ Uriyah mu rwego rw'imbere y'urugamba rukomeye, mugasubira inyuma mukurikije umugongo wiwe, maze ⟨ni⟩ azahwa, ⟨ni⟩ apfe.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yanditse"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu ibaruwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Mushyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu rwego"
+    },
+    {
+      "surface": "מול",
+      "gloss": "rw'imbere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "y'imbere ya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "urugamba"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "rukomeye"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mugasubira inyuma"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "mukurikije umugongo wiwe"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "azahwa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "apfe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:13.998465511Z",
+  "model": "glm-5.3"
+}

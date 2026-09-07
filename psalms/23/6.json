@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Mu by'ukuri ibyiza na hesedi bizankurikira iminsi yose y'ubuzima bwanjye, kandi nzahorera mu nzu ya Yahwe kuri ⟨iminsi⟩ irekire.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "na hesedi"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "bizankurikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aminsi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima bwanjye"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "kandi nzahorera"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "kuri irekire"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:10.863519550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze Yaakovu (Yakobo) azamuka, ashyira ⟨את⟩ abahungu be n'⟨את⟩ abagore be ku ngamiya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "abagore be"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abagore be"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamiya"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:26.636297128Z",
+  "model": "glm-5.3"
+}

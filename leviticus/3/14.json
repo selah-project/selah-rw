@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "maze atanga mu byo igitangwa cye, igitangwa cy'umuriro kwa Yahwe: ⟨את⟩ ibinure bikwikiza ⟨את⟩ ibya mu nda, na ⟨את⟩ ibinure byose ari ku bya mu nda.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "atanga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mu byo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "igitangwa cye"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igitangwa cy'umuriro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "bikwikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibya mu nda"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ibya mu nda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibinure byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ibya mu nda"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:28.170398268Z",
+  "model": "glm-5.3"
+}

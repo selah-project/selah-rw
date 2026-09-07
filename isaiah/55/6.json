@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Mushakishe Yahwe ari igihe aboneka; mukamuhamagarire ari hafi.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Mushakishe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "ari igihe aboneka"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "mukamuhamagarire"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ari"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "hafi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:25:46.864350759Z",
+  "model": "glm-5.3"
+}

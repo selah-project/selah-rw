@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 138,
+  "translation": "Yahwe, abami bose bo mu isi bazagushima, kuko bumvise amagambo y'akanwa yawe.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bazagushima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "by'isi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "y'akanwa yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:09.691396277Z",
+  "model": "glm-5.3"
+}

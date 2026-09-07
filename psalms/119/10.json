@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "N'umutima wanjye wose ndagusabiye; ntunyobye amategeko yawe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "n'… wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ndagusabiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "-nyobye"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "amategeko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:04.228174926Z",
+  "model": "glm-5.3"
+}

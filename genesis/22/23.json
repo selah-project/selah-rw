@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Na Betueli (Betueli) yabyaye ⟨את⟩ Rivka (Rivka). Aya umunani ni aba Milkah (Milkah) yabyaye kwa Nahori (Nahori), umuvandimwe wa Avrahamu (Avrahamu).",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Na Betueli"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "uminani\/umunani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ni aba… yabyaye"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkah"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "kwa Nahori"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umuvandimwe wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:54.070177231Z",
+  "model": "glm-5.3"
+}

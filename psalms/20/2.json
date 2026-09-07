@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yahwe yaraguze ku munsi w'agahinda; izina rya Elohimu rya Yaakovu rirakuzamure.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "yaraguze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "w'agahinda"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "rirakuzamure"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "rya Elohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "rya Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:14.392759066Z",
+  "model": "glm-5.3"
+}

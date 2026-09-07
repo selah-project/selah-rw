@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Aramu i mbere, n'Abafirisiti inyuma, bararya ⟨את⟩ Yisraeli akanwa kabyuzuye. Nyuma y'ibyo byose uburakari bwe ntibwarahindutse, kandi ukuboko kwe kiracyarahagaze.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "i mbere"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "n'Abafirisiti"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "bararya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kabyuzuye"
+    },
+    {
+      "surface": "פה",
+      "gloss": "akanwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Nyuma y'ibyo byose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שב",
+      "gloss": "byahindutse"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uburakari bwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kiracyarahagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:25.820336579Z",
+  "model": "glm-5.3"
+}

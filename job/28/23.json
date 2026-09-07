@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Elohimu yobye inzira yaryo, kandi we azi ⟨את⟩ ahantu haryo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "yobye"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "inzira yaryo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kandi we"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahantu haryo"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ahantu haryo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:32:20.757618218Z",
+  "model": "glm-5.3"
+}

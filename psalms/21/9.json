@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ikiganza cyawe kizabonera abanzi bawe bose; iburyo bwawe kizabonera abankurikiziye bawe.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "kizabonera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ikiganza cyawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi bawe"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iburyo bwawe"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kizabonera"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "abankurikiziye bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:22.861924705Z",
+  "model": "glm-5.3"
+}

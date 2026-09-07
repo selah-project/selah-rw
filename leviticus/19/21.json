@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Maze azana ⟨את⟩ icyaha cye kwa Yahwe, ku muryango w'ihema ry'ihuriro — intama y'ingabo nk'igikorwa cy'icyaha.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Maze azana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyaha cye"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "icyaha cye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'ihuriro"
+    },
+    {
+      "surface": "איל",
+      "gloss": "intama y'ingabo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "igikorwa cy'icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:11.586003984Z",
+  "model": "glm-5.3"
+}

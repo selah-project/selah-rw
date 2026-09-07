@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ijambo ribi rya Beliyali riramutsweho iwe; n'uko yari yaryamye nta cyo yongera kuzamura.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ijambo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ribi rya Beliyali"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "riramutsweho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "n'uko"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yari yaryamye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "cyo yongera"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kuzamura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:33.488396514Z",
+  "model": "glm-5.3"
+}

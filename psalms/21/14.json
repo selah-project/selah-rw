@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Zamuka, Yahwe, mu mbaraga zawe; tuzaririmbira kandi tuzagusingiza ingufu zawe.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "mu mbaraga zawe"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "tuzaririmbira"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "kandi tuzagusingiza"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ingufu zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:07.149001316Z",
+  "model": "glm-5.3"
+}

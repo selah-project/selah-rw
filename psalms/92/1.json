@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Umuziki, indirimbo, ku munsi wa Shabati.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Umuziki"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:57.995475657Z",
+  "model": "glm-5.3"
+}

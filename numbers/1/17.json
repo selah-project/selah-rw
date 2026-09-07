@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Moshe na Aharoni barafata ⟨את⟩ abantu aba batoranijwe mu mazina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "barafata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "batoranijwe"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "mu mazina"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:44.357437023Z",
+  "model": "glm-5.3"
+}

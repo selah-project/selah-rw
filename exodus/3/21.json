@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi nzaha ⟨את⟩ ubuntu b'abantu aba mu maso y'i Mitsrayimu; maze igihe muzagenda, mutazagenda ubusa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Kandi nzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuntu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "muzagenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "muta-"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "-zagenda"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:18.091670416Z",
+  "model": "glm-5.3"
+}

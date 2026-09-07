@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Ihutira mu bufasha bwanjye, Adonayi, ukiza kwanjye!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Ihutira"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mu bufasha bwanjye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ukiza kwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:38.379111831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yisraeli (Isirayeli) yinjiye Mitsrayimu (Egiputa), Yaakovu (Yakobo) na we yabaye umushyitsi mu gihugu cya Hamu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakovu na we"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yabaye umushyitsi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "cya Hamu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:14.567877902Z",
+  "model": "glm-5.3"
+}

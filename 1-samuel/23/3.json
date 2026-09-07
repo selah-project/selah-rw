@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Abagabo b'a Dawidi barabwiye kuri we bati: Ngira iryo, dore twe turatinya apa mu Yehudah; noneho ese tuzagenda i Keila kuri ingabo z'aba Pelishti?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "barabwiye"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo b'a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngira iryo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "turatinya"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rake"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuzagenda"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "i Keila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "z'aba Pelishti"
+    }
+  ],
+  "timestamp": "2026-09-07T12:48:04.681096677Z",
+  "model": "glm-5.3"
+}

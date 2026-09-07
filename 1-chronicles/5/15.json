@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ahi, umwana wa Avdiyeli, umwana wa Guni, we yari umutware w'inzu y'abase.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdiyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutware (umutwe)"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "w'inzu y'a"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "abase"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:47.327450397Z",
+  "model": "glm-5.3"
+}

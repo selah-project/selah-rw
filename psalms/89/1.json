@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Igishisha cya Eytani wa Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Igishisha"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "cya Eytani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "wa Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:03.558496414Z",
+  "model": "glm-5.3"
+}

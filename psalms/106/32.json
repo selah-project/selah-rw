@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Barakatifu kugeza ku mazi ya Meriba, bityo byagenze nabi ku Moshe kubera iyo nkomoko.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "barakatifu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kugeza ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "byagenze nabi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ku Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "kubera iyo nkomoko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:08.054254489Z",
+  "model": "glm-5.3"
+}

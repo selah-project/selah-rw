@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ese isi yose ntiri imbere yawe? Yitandukanye, ndagusemba, na njye: niba uriya ibumoso, njye nzagenda iburyo; kandi niba uriya iburyo, njye nzagenda ibumoso.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Yitandukanye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagusemba"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na njye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ibumoso"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "kandi njye iburyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi niba"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "nanjye ibumoso"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:27.220627033Z",
+  "model": "glm-5.3"
+}

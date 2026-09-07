@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Ibintu bitangaje mu gihugu cya Hamu, n'ibintu bitera ubwoba ku kiyaga cya Sufu.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "ibintu bitangaje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "cya Hamu"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ibintu bitera ubwoba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kiyaga"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:29.912252611Z",
+  "model": "glm-5.3"
+}

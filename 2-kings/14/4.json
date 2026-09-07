@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ariko ibimoteri ntibatse: abantu bakigaragira ibitambo bakakanura ubushyi ku bimoteri.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ariko"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ibimoteri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "batse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baki-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "bagirisha ibitambo"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "bakakanura ubushyi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ku bimoteri"
+    }
+  ],
+  "timestamp": "2026-09-07T14:19:54.505612235Z",
+  "model": "glm-5.3"
+}

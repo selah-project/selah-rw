@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Azaba nk'umukozi w'umworo, nk'umuturutse hanze, i kwa wowe; azakora i kwa wowe kugera ku mwaka w'Yobeli (Yubile).",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "nk'umukozi w'umworo"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "nk'umuturutse hanze"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i kwa wowe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ku mwaka w'"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobeli"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "i kwa wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:52:02.842310534Z",
+  "model": "glm-5.3"
+}

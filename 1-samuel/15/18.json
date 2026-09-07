@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Yahwe yawohereje mu nzira, maze aravuga ati: Vaa, urimbure ⟨את⟩ ababyaha — ⟨את⟩ Amaleki — maze unyarwane na bo kugeza ubwo urabazimbuye ⟨את⟩ bo.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "yawohereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Vaa"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "urimbure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababyaha"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ababyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "maze unyarwane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "urabazimbuye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo (Abanyamaleki)"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:31.963216886Z",
+  "model": "glm-5.3"
+}

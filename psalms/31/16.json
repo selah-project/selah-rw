@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ibihe byanjye biri mu ntoki zawe; unkingire mu ntoki z'abansi banjuye — abansi banjye — n'abampurikana.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "mu ntoki zawe"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "ibihe byanjye"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "unkingire"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abansi banjuye"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "n'abampurikana"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:40.553935996Z",
+  "model": "glm-5.3"
+}

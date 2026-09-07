@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Ariko njye ndi burundi hamwe na wewe; wafashe ⟨mu⟩ ikiganza cyanjye cy'iburyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "burundi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe na wewe"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "wafashe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨mu⟩ ikiganza"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "cyanjye cy'iburyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:03.126432423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Kuko mu muriyo Yahwe azacira urubanza, kandi mu mbabaru ze ⟨את⟩ abantu bose; benshi bazaba ari abahawe ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "azacira urubanza"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "kandi mu mbabaru ze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "benshi bazaba"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "abahawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:39:27.183487055Z",
+  "model": "glm-5.3"
+}

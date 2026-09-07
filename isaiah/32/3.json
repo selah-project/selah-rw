@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Amaso y'ababona ntazigera kureba cyane, n'amatwi y'umva azayumvira.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "zizigera kureba cyane"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Amaso"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "y'ababona"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "n'amatwi"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "y'umva"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "azayumvira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:04:01.846183758Z",
+  "model": "glm-5.3"
+}

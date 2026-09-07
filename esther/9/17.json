@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "esther 9:17",
+ "book": "esther",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Ku wa cumi n'atatu w'ukwezi kwa Adaru, bari bararuhutse ku wa kane na cumi muri uwo, maze bagira ⟨את⟩ we ⟨את⟩ umunsi w'ibirori n'umunezero.",
+ "tokens": [
+  {
+   "surface": "ביום",
+   "gloss": "Ku wa"
+  },
+  {
+   "surface": "שלשה",
+   "gloss": "cumi n'atatu"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "cumi n'atatu"
+  },
+  {
+   "surface": "לחדש",
+   "gloss": "w'ukwezi"
+  },
+  {
+   "surface": "אדר",
+   "gloss": "kwa Adaru"
+  },
+  {
+   "surface": "ונוח",
+   "gloss": "bari bararuhutse"
+  },
+  {
+   "surface": "בארבעה",
+   "gloss": "ku wa kane na cumi"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "cumi"
+  },
+  {
+   "surface": "בו",
+   "gloss": "muri uwo"
+  },
+  {
+   "surface": "ועשה",
+   "gloss": "maze bagira"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "umunsi"
+  },
+  {
+   "surface": "יום",
+   "gloss": "umunsi"
+  },
+  {
+   "surface": "משתה",
+   "gloss": "w'ibirori"
+  },
+  {
+   "surface": "ושמחה",
+   "gloss": "n'umunezero"
+  }
+ ],
+ "timestamp": "2026-09-07T20:01:28.883868812Z",
+ "model": "glm-5.3"
+}

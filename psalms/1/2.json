@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ahubwo umunezero we uri mu Tora ya Yahwe, no mu Tora ye yiyumvira amanywa n'ijoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mu Tora ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "umunezero we"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "no mu Tora ye"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "yiyumvira"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amanywa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:06:49.473145029Z",
+  "model": "glm-5.3"
+}

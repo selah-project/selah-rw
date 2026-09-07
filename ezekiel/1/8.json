@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibiganza by'umuntu biri hasi y'amababa yabo, ku mpande enye zabo; kandi amaso yabo n'amababa yabo ku bane.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ibiganza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "by'umuntu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "biri hasi ya"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "amababa yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "mpande enye"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "zabo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "kandi amaso yabo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "n'amababa yabo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ku bane"
+    }
+  ],
+  "timestamp": "2026-09-07T16:38:57.776441857Z",
+  "model": "glm-5.3"
+}

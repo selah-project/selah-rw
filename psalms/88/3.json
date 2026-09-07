@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Igasire imbere yawe isengesho ryanjye; uneme ugutwi kwawe ku kuririmba kwanjye.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Igasire"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "uneme"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ku kuririmba kwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:52.771966694Z",
+  "model": "glm-5.3"
+}

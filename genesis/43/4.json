@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Niba uri utuma ⟨את⟩ umuvandimwe wacu ⟨את⟩ natwe, tuzamanuka tugurire ibiribwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "uri"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "utuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuvandimwe wacu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "umuvandimwe wacu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "natwe"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tuzamanuka"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "tugurire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ibiribwa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:40.214364467Z",
+  "model": "glm-5.3"
+}

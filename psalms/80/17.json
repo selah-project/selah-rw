@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Yaswejwe n'umuriro, yacibwe; ku gankwe y'uburuhu bwawe barapfa.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "yaswejwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'umuriro"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "yacibwe"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "ku gankwe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "y'uburuhu bwawe"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "barapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:41.386168022Z",
+  "model": "glm-5.3"
+}

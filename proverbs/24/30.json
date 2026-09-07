@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Nanyuze ku murima w'umunyentezi, no ku murima w'imizabibu w'umuntu utagira umutima.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "unyentezi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "nanyuze"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "w'imizabibu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "utagira"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:06.830331950Z",
+  "model": "glm-5.3"
+}

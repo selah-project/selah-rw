@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ese kwinganiza mu ijambo kitatunga, n'amagambo nta kamaro abafitiye?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "kwinganiza"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mu ijambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "kitatunga"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "n'amagambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "kamaro"
+    },
+    {
+      "surface": "בם",
+      "gloss": "abafitiye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:28:25.823932175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "1-kings 22:7",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 22,
+ "translation": "Yehoshuwa (Yosuwa) yaravuze ati: Ese nta undi navi wa Yahwe uhari ngaha, tugire twamureba?",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "yaravuze"
+  },
+  {
+   "surface": "יהושפט",
+   "gloss": "Yehoshuwa"
+  },
+  {
+   "surface": "האין",
+   "gloss": "ese nta"
+  },
+  {
+   "surface": "פה",
+   "gloss": "ngaha"
+  },
+  {
+   "surface": "נביא",
+   "gloss": "navi"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "wa Yahwe"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "undi"
+  },
+  {
+   "surface": "וְנִדְרְשָׁה",
+   "gloss": "tugire twamureba"
+  },
+  {
+   "surface": "מאותו",
+   "gloss": "⟨את⟩ kuri we",
+   "marks": "we (muri make: מן+אתו, atari ikimenyetso ⟨את⟩ cy'icyerekezo)"
+  }
+ ],
+ "timestamp": "2026-09-07T21:36:10.794926887Z",
+ "model": "glm-5.3"
+}

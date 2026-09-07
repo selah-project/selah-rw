@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Igifarasi ni ibinyoma ngo ryarokore, kandi mu bwinshi bw'ingufu zaryo ntituranesha.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ibinyoma"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "igifarasi"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ngo ryarokore"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "kandi mu bwinshi"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "bw'ingufu zaryo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ntituranesha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:34.165216056Z",
+  "model": "glm-5.3"
+}

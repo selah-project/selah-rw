@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ibyo byababaje Yonah — ibiba bikomeye — maze arakara cyane.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "byababaje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibiba"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "bikomeye"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "arakara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:55.980492683Z",
+  "model": "glm-5.3"
+}

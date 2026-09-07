@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Mu gitondo tera ⟨את⟩ imbuto yawe, no ku mugoroba ntuhagarike ukuboko kwawe; kuko nta uzi ni iki cyazamerwa, iki cyangwa iki, nanomba byombi bikimwe ari byiza.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Mu gitondo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbuto yawe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbuto yawe"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "no ku mugoroba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "uhagarike"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "cyazamerwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nanomba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "byombi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bikimwe"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ari byiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:12.281648582Z",
+  "model": "glm-5.3"
+}

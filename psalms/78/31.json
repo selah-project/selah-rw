@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Maze uburakari bw'Elohimu bwazamutse kuri bo, yarica abagome babo, n'urubyiruko rwa Yisraeli yarabashesheje.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "maze uburakari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bw'Elohimu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bwazamutse"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "yarica"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "abagome babo"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "n'urubyiruko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rwa Yisraeli"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "yarabashesheje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:05.328216465Z",
+  "model": "glm-5.3"
+}

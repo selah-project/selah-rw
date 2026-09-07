@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Kuko njye ndi Yahwe, Elohimu wawe, Mutagatifu wa Yisraeli, umukiza wawe; nahaye Mitsrayimu (Mitsrayimu) nk'igiciro cyawe, Kushu (Etiyopiya) na Seba (Saba) mu mwanya wawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mutagatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "umukiza wawe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "igiciro cyawe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Mitsrayimu)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushu (Etiyopiya)"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Seba (Saba)"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "mu mwanya wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:42.261044047Z",
+  "model": "glm-5.3"
+}

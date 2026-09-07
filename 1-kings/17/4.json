@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Kandi uzanywa amazi mu ruzi; na ⟨את⟩ ibikona nategetse ngo bikungahre aho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kandi uzaba"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "amazi mu ruzi"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "unywa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikona"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ibikona"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nategetse"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ngo bikungahre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T13:55:15.471125877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze yohereje ⟨את⟩ abasore b'abahungu ba Yisraeli, bazamuriye ibitangwa by'umuriro, banatangere ibitangwa by'amahoro kwa Yahwe — inka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Maze yohereje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasore b'abahungu ba Yisraeli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abasore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bazamuriye"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ibitangwa by'umuriro"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "banatangere"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ibitangwa"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "by'amahoro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "inka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:25.827318496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Icyifuzo cy'umutima we umuhaye, kandi ibyo urubyara rwe bimusabye ntubyanganije. Selahi.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Icyifuzo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "cy'umutima we"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "umuhaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "kandi ibyo bimusabye"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "urubyara rwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "byanganije"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:48.926034274Z",
+  "model": "glm-5.3"
+}

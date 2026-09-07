@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Na none yarategetse na ⟨את⟩ uwa kabiri, na ⟨את⟩ uwa gatatu, na ⟨את⟩ abakurikira inrangida, ati: Uku ni uko muzavuga mu kubona ⟨את⟩ Esavu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yarategetse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na none"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwa kabiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "uwa kabiri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwa gatatu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uwa gatatu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakurikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abajya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "inrangida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "uku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ni uko"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "muzavuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu kubona"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "iyo mubona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:57.542167452Z",
+  "model": "glm-5.3"
+}

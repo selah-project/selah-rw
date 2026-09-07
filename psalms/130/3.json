@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Yah, iyo utabuza ibyaha, Adonayi, nde wakwihagarara?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "utabuza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "wakwihagarara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:40.760633552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Paro yaravuze ati: Dore, ubu abantu b'ubutaka benshi, kandi mureka ⟨את⟩ mu ntwaro zabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "b'ubutaka"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "kandi mureka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mu ntwaro zabo"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ntwaro zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:16.845413853Z",
+  "model": "glm-5.3"
+}

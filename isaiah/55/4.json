@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Rabuka, namuhaye kuba umuhamya ku mahanga, umukuru n'umutware ku mahanga.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rabuka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umuhamya"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ku mahanga"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "namuhaye"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "n'umutware"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ku mahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T15:27:04.981070482Z",
+  "model": "glm-5.3"
+}

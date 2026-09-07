@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yabaye ijambo rya Yahwe kuri Yonah ku nshuro ya kabiri, rivuga ngo:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yabaye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ku nshuro ya kabiri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rivuga ngo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:21.624723152Z",
+  "model": "glm-5.3"
+}

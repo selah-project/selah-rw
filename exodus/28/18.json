@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Na mugace k'umurongo wa kabiri: nofeku, sapiri na yaholomu.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "kandi umurongo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "nofeku"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapiri"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "na yaholomu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:04:36.480316410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kandi ku bagaragu no ku baja, mu minsi iyo, nzashuka ⟨את⟩ umwuka wanjye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bagaragu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "baja"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "nzashuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwuka wanjye"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:05.141242549Z",
+  "model": "glm-5.3"
+}

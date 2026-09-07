@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ntibakore karuhara ku mutwe wabo, n'uruhande rw'imbwa yabo ntibarashe, kandi mu mubiri wabo ntibare itara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "bakore"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "karuhara"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ku mutwe wabo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "n'uruhande"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "rw'imbwa yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "barashe"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "kandi mu mubiri wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "bare"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "itara"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:20.272410675Z",
+  "model": "glm-5.3"
+}

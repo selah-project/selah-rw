@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze Avrahamu yahaye Yitsaki ⟨את⟩ byose bifiteye uko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maze... yahaye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose bifiteye uko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bifiteye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsaki"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:44.749611424Z",
+  "model": "glm-5.3"
+}

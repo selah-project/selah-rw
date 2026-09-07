@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "numbers 26:3",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 26,
+ "translation": "Moshe n'Elazari kohenu baravuze ⟨את⟩ bo mu bishanga bya Mowabu, ku Yarudeni, i Yeriho, bati:",
+ "tokens": [
+  {
+   "surface": "וידבר",
+   "gloss": "baravuze"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ואלעזר",
+   "gloss": "n'Elazari"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "iyo muryango (abahungu ba Yisraeli)"
+  },
+  {
+   "surface": "בערבת",
+   "gloss": "mu bishanga bya"
+  },
+  {
+   "surface": "מואב",
+   "gloss": "Mowabu"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "ירדן",
+   "gloss": "Yarudeni"
+  },
+  {
+   "surface": "ירחו",
+   "gloss": "i Yeriho"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "bati"
+  }
+ ],
+ "timestamp": "2026-09-07T10:30:26.054302717Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abantu bafata ⟨את⟩ imigati yabo itari ifumbiye, inkoro zabo zifungwanye mu mpuzu zabo ku ntoki zabo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigati yabo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "imigati yabo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "itari (bitaraba)"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ifumbiye (kuvura)"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "inkoro zabo"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zifungwanye"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "mu mpuzu zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ntoki zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:47:46.409428109Z",
+  "model": "glm-5.3"
+}

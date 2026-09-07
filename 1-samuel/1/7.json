@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Uko yakoraga umwaka mu mwaka; buri uko ⟨Hana⟩ yazamukaga mu nzu ya Yahwe, ni bwo ⟨umwanzi we⟩ yamuteshaga agasama; ⟨Hana⟩ yariraga, kandi ntarya.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakoraga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "buri uko"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "yazamukaga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni bwo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "yamuteshaga agasama"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "yariraga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "rya"
+    }
+  ],
+  "timestamp": "2026-09-07T12:19:46.017631054Z",
+  "model": "glm-5.3"
+}

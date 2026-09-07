@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Iyo kurywa rwose biriwe ku munsi wa gatatu, ibihebye ni cyo; ntibizakirizwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "kurywa rwose"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "biriwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa gatatu"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ibihebye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bizakirizwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:38.027456213Z",
+  "model": "glm-5.3"
+}

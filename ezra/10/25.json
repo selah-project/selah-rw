@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "No mu b'i Yisraeli, mu bahungu ba Paroshi: Ramiyah, na Yiziyah, na Malkiyah, na Miyaminu, na Elazari, na Malkiyah, na Benayah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "no mu b'i Yisraeli"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bahungu ba"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroshi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramiyah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "na Yiziyah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkiyah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "na Miyaminu"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Elazari"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkiyah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "na Benayah"
+    }
+  ],
+  "timestamp": "2026-09-07T20:18:07.909152992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Narabuze inzira nk'intama yabuze; shakisha umugaragu wawe, kuko ibwirizwa byawe ntindibagiwe.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "narabuze inzira"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "nk'intama"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yabuze"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "shakisha"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ibwirizwa byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:29.352402935Z",
+  "model": "glm-5.3"
+}

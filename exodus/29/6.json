@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzashyira ⟨את⟩ ikamba ry'umutwe ku mutwe we, maze uzashira ⟨את⟩ ikamba y'ubutagatifu ku kamba ry'umutwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ikamba ry'umutwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umutwe we"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "maze uzashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikamba y'ubutagatifu"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ikamba y'ubutagatifu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'ubutagatifu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ikamba ry'umutwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:38.630087408Z",
+  "model": "glm-5.3"
+}

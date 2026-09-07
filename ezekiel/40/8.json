@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze apima ⟨את⟩ urwibiraro rwo muryango rukorera mu nzu — urwabya rumwe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "apima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwibiraro rwo muryango"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "urwibiraro"
+    },
+    {
+      "surface": "השער",
+      "gloss": "rwo muryango"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "rukorera mu nzu"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "urwabya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rumwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:21:17.615924696Z",
+  "model": "glm-5.3"
+}

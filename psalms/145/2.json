@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Buri munsi nzakahiriza, kandi nzasingiza izina ryawe mu iteka ridashira.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Buri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "nzakahiriza"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "kandi nzasingiza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ridashira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:27.476457142Z",
+  "model": "glm-5.3"
+}

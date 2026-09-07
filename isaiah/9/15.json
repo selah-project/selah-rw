@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kuko abayobora aba bantu bari kuyobya, n'abayobotse nabo bari kuriwe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "abayobora"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aba bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "bayobya"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "n'abayobotse"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "bariwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:50:30.167521723Z",
+  "model": "glm-5.3"
+}

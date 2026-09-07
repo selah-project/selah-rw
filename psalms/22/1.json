@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ku w'utunganya ⟨indirimbo⟩, ku bw'Aijelethi Hashahari ⟨Impyisi y'igitondo⟩; mizemo rya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku w'utunganya ⟨indirimbo⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bwa"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aijelethi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Hashahari ⟨Impyisi y'igitondo⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizemo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.709128214Z",
+  "model": "glm-5.3"
+}

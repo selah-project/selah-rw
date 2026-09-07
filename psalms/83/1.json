@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Icicaro cy'uruhushya — indirimbo, umuhamiriza w'indirimbo, wa Asafu (Asafe).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuhamiriza w'indirimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafu (Asafe)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.963238950Z",
+  "model": "glm-5.3"
+}

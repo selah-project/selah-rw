@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Ko njye iyo mfata igihe cyagenwe, njye ubwanjye nzacakira mu bungane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "iyo mfata"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "igihe cyagenwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye ubwanjye"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "mu bungane"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nzacakira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:46.090313577Z",
+  "model": "glm-5.3"
+}

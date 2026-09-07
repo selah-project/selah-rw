@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ndaguha umugisha abaguha umugisha, n'abagutura ndabavuma; muri wowe imiryango yose y'isi izahabwa umugisha.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Ndaguha umugisha"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "abaguha umugisha"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "n'abagutura"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ndabavuma"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "izahabwa umugisha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:01.998730336Z",
+  "model": "glm-5.3"
+}

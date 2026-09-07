@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Yahwe, wanyereje isi yawe; wasubize ubwatimbu bwa Yaakovu.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "wanyereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "isi yawe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wasubize"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ubwatimbu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bwa Yaakovu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:26.593171176Z",
+  "model": "glm-5.3"
+}

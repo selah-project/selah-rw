@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ahari gusa umubyeyi we uri hafi ye ⟨ni⟩: nyina, se we, umwana we, umukobwa we, na murumuna we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ahari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "umubyeyi we"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "uri hafi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "umukobwa we"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na murumuna we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:10.407072531Z",
+  "model": "glm-5.3"
+}

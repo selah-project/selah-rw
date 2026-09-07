@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Bashwe n'isoni, bagasubire inyuma, abansi bose ba Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bashwe n'isoni"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "bagasubire"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abansi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.435056047Z",
+  "model": "glm-5.3"
+}

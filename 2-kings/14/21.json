@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Abantu bose b'i Yehuda bafashe ⟨את⟩ Azarayahu, uri umwana w'imyaka mirongo itandatu n'ine, maze bamwese kuba umwami ⟨את⟩ mu mwanya wa se Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bafashe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarayahu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uri (na we)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mirongo itandatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ine (cumi)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "bamwese kuba umwami"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Azarayahu)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:20:46.013131985Z",
+  "model": "glm-5.3"
+}

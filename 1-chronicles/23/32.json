@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "maze barinde ⟨את⟩ inshingano z'ihema ry'itumanaho na ⟨את⟩ inshingano z'ahantu nyabubaha, ndetse n'inshingano z'abahungu ba Aharoni abavandimwe babo, mu murimo w'inzu ya Yahwe",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "maze barinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inshingano z'ihema ry'itumanaho"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "inshingano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "z'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inshingano z'ahuntu nyabubaha"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "inshingano"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "z'ahantu nyabubaha"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ndetse n'inshingano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "z'abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharoni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abavandimwe babo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "mu murimo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "w'inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:43:26.500107557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Uruziko kwa Yahwe, kuko yakoze ibitangaza mu hesedi ye ⟨kuri njye⟩, mu mujyi w'igitero.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Uruziko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "yakoze ibitangaza"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "mu hesedi ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "w'igitero"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:51.750547558Z",
+  "model": "glm-5.3"
+}

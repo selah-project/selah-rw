@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Simbuka, Elohimu, urwane urubanza rwawe; uibuke guseveranya kwawe kiva kwa mushenzi ku munsi wose.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simbuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "urwane"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "urubanza rwawe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "uibuke"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "guseveranya kwawe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kiva"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mushenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:38.906557460Z",
+  "model": "glm-5.3"
+}

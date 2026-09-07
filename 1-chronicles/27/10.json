@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Uwa karindwi, ku kwezi kya karindwi, ni Helesi wa Peloni, mu bana ba Efureyimu; ku mugabane wawe hari ibihumbi makumyabiri n'ine.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "Uwa karindwi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ku kwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kya karindwi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helesi"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "wa Peloni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efureyimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "mugabane wawe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "n'ine"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:44:08.720488076Z",
+  "model": "glm-5.3"
+}

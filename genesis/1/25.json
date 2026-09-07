@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yaremye ⟨את⟩ inyamaswa z'isi ku bwoko bwazo, na ⟨את⟩ ibikoko ku bwoko bwabyo, na ⟨את⟩ ibikururuka byose by'ubutaka ku bwoko bwabyo; Elohimu yarabonye ko ari byiza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyamaswa z'isi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "z'isi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ku bwoko bwazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoko"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ibikoko"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ku bwoko bwabyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikururuka byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ibikururuka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "by'ubutaka"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ku bwoko bwabyo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ni⟩ byiza"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:20.964840851Z",
+  "model": "glm-5.3"
+}

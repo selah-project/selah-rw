@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kora ubwawe urwato rw'ibiti bya goferu; amadoda urakora ⟨את⟩ urwato, maze uruhurira ⟨את⟩ imbere n'hanze mu kofere.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "urwato"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "bya goferu"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "urakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwato"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "urwato"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "maze uruhurira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "urwato"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "n'hanze"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "mu kofere"
+    }
+  ],
+  "timestamp": "2026-09-07T07:39:26.782824714Z",
+  "model": "glm-5.3"
+}

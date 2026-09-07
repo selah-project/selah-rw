@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umukobwa wa Paro yabwiye we ati: Ugende. Maze inkumi igenda, ihamagara ⟨את⟩ nyina w'umwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "we"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Umukobwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Ugende"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "maze igenda"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ihamagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyina w'umwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "w'umwana"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:18.531277792Z",
+  "model": "glm-5.3"
+}

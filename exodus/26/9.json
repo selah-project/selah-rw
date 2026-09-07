@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Uzanahuze ⟨את⟩ amashaji atanu wenyine, na ⟨את⟩ amashaji atandatu wenyine; maze udubye ⟨את⟩ umushaji wa gatandatu kuri imbere y'urwegera rw'ihema.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "uzanahuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amashaji atanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "amashaji"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amashaji atandatu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "amashaji"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "maze udubye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umushaji"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "umushaji"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wa gatandatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מול",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "y'urwegera"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:59.778783135Z",
+  "model": "glm-5.3"
+}

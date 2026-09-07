@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ese haba ubuhemu ku rurimi rwanjye, cyangwa se umunwa wanjye ntiutanze ibyaha?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ese haba"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ku rurimi rwanjye"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "cyangwa se"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "umunwa wanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "utanze"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ibyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:21:05.836286344Z",
+  "model": "glm-5.3"
+}

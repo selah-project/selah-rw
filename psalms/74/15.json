@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Wome waguyeje isoko n'urwoba; wome waratomeje imigezi etani.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wome"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "waguyeje"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "isoko"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "n'urwoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wome"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "waratomeje"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imigezi"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "etani (idashira)"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:22.891256228Z",
+  "model": "glm-5.3"
+}

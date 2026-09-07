@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Haguruka, Yahwe we; umuntu ntagombe kugira ububasha; amahanga acirwe urubanza imbere y'amaso yawe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Haguruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntagombe"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "kugira ububasha"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "acirwe urubanza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "y'amaso yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:09.665523895Z",
+  "model": "glm-5.3"
+}

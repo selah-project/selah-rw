@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Mu kanya gato namanikiriza abanzi babo, nkugarurira intoki yanjye ku babariza babo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Mu kanya gato"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "abanzi babo"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "namanikiriza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ku babariza babo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nkugarurira"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:16.989065213Z",
+  "model": "glm-5.3"
+}

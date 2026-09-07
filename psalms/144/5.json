@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Yahwe, tanguza amajuru yawe maze ugashira, ugakoraho imisozi ihotswe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tanguza"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "amajuru yawe"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "maze ugashira"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ugakoraho"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ihotswe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:17.266633296Z",
+  "model": "glm-5.3"
+}

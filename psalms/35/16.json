@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Mu bahakanyi bakerereza mu birori, baragresheje amenyo yabo ku nkomango zanjye.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "Mu bahakanyi"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "bakerereza"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "mu birori"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "baragresheje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku nkomango zanjye"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "amenyo yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:51.334456266Z",
+  "model": "glm-5.3"
+}

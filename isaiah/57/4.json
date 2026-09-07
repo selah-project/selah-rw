@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Ni nde mukorerera ibyishimo? Ni nde mwagura kanwa mutureba? Ese ntimwe abana b'ibyaha, urubyaro rw'ububeshi?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "mukorerera ibyishimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "mwagura"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kanwa"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "mutureba"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ururimi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ntimwe"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro rw'"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ububeshi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:16.663404926Z",
+  "model": "glm-5.3"
+}

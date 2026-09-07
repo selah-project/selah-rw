@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Byarangiye ibisabirizo bya Dawidi, umwana wa Yishayi.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Byarangiye"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ibisabirizo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:42.512433444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ukoresha urumuri rw'amaso yawe ku mugaragu wawe, maze unhigishe ⟨את⟩ amabwiriza yawe.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "amaso yawe"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Ukoresha urumuri"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ku mugaragu wawe"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "maze unhigishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabwiriza yawe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amabwiriza yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:30.381012761Z",
+  "model": "glm-5.3"
+}

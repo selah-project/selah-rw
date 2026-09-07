@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Uzanashyire ⟨את⟩ kipurere ku isanduku y'ubuhamya, mu rwatiro rw'Ibyera.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ushyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kipurere"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kipurere ⟨ahantu h'ukwivuza⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "y'ubuhamya"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mu rwatiro"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "rw'Ibyera"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:18.672009377Z",
+  "model": "glm-5.3"
+}

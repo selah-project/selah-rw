@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Uranyamenyesha inzira y'ubuzima: ubwuzu bw'ishimo ni ⟨את⟩ imbere yawe, ibyiza ku iburyo ryawe — iteka.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Uranyamenyesha"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "y'ubuzima"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ubwuzu"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "bw'ishimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere yawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ku iburyo ryawe"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:31.013320227Z",
+  "model": "glm-5.3"
+}

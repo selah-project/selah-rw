@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kimera gusa azambuka umugaragu wawe ⟨את⟩ Yorudani hamwe n'⟨את⟩ umwami; kandi ni ikihe cyatumye umwami ampemba igihembo ngiki?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Kimera gusa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "azambuka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kandi ni ikihe cyatumye"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ampemba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "igihembo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngiki"
+    }
+  ],
+  "timestamp": "2026-09-07T13:17:00.665254071Z",
+  "model": "glm-5.3"
+}

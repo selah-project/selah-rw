@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Abana b'a Efuremu, bashyizeho ngo barase umuyundo, bagarutse inyuma ku munsi w'intambara.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuremu"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "bashyizeho"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "barase"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umuyundo"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "bagarutse inyuma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "w'intambara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:33.354466342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Icyo kintu cyari ikibi mu maso ya Elohimu, maze yakubise ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "cyari ikibi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku byerekeye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "maze yakubise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:40:10.669497194Z",
+  "model": "glm-5.3"
+}

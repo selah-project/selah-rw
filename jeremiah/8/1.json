@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mu gihe icyo, irihamwe rya Yahwe, bazavana ⟨את⟩ amagufwa y'abami ba Yehuda, na ⟨את⟩ amagufwa y'abatware be, na ⟨את⟩ amagufwa y'abaherezi, na ⟨את⟩ amagufwa y'abahanuzi, na ⟨את⟩ amagufwa y'abatuye Yerushalayimu, mu mva zabo.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "irihamwe rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "bazavana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "y'abami ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "y'abatware be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "y'abaherezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "y'abahanuzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "y'abatuye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "mu mva zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:50:00.400112650Z",
+  "model": "glm-5.3"
+}

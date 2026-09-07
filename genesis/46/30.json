@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Yisraeli yabwiye Yosefu ati: Ubu nzipfa, nyuma yo kureba ⟨את⟩ uburanga bwawe, ko uracyariho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "nzipfa ubu"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "uyu mwanya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma yo"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburanga bwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburanga bwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "uracyariho"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uriho"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:36.199172877Z",
+  "model": "glm-5.3"
+}

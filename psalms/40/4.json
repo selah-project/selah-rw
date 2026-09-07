@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze yashyize mu kanwa kwanjye indirimbo nishya, ugushima ku Elohimu wacu; abenshi bazabona, maze bagatinya, maze bakizera Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Maze yashyize"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mu kanwa kwanjye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nishya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ugushima"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ku Elohimu wacu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazabona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abenshi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "maze bagatinya"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "maze bakizera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:35.141738308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "leviticus 2:12",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 2,
+ "translation": "Korubani y'ibyanza muzabizanira ⟨את⟩ bo kwa Yahwe, ariko ku igicaniro ntibazamukaho nk'impumuro nziza.",
+ "tokens": [
+  {
+   "surface": "קרבן",
+   "gloss": "Korubani"
+  },
+  {
+   "surface": "ראשית",
+   "gloss": "y'ibyanza"
+  },
+  {
+   "surface": "תקריבו",
+   "gloss": "muzabizanira"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "ibyanya by'ibyanza"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "kwa Yahwe"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "ariko ku"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "igicaniro"
+  },
+  {
+   "surface": "לא",
+   "gloss": "ntibazamukaho"
+  },
+  {
+   "surface": "יעלו",
+   "gloss": "bazamukaho"
+  },
+  {
+   "surface": "לריח",
+   "gloss": "nk'impumuro"
+  },
+  {
+   "surface": "ניחח",
+   "gloss": "nziza"
+  }
+ ],
+ "timestamp": "2026-09-07T09:23:50.787012590Z",
+ "model": "glm-5.3"
+}

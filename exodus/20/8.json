@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Urukumbere umunsi ⟨את⟩ wa Shabati, mu kumuha ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Urukumbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi wa Shabati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "mu kumuha ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:45.128190560Z",
+  "model": "glm-5.3"
+}

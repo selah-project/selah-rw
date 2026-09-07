@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Abatuye i Yaveshi ya Giladi bumvise ⟨את⟩ ibyo abaFilishti bakoze ku Shauli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iby'"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "i Yaveshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ku Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:03.429816483Z",
+  "model": "glm-5.3"
+}

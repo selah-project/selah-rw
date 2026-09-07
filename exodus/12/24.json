@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Muzirikane ⟨את⟩ iri jambo nk'itegeko ku mwe no ku bahungu banyu, iteka ryose.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "muzirikane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iri jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "nk'itegeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "no ku bahungu banyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:38.543598905Z",
+  "model": "glm-5.3"
+}

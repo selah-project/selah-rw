@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze ajyana ⟨את⟩ bo, baza ku Yardeni, bakagwatura ibiti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ajyana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "abahamwe b'abahanzi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ku Yardeni"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "bakagwatura"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ibiti"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:24.777339128Z",
+  "model": "glm-5.3"
+}

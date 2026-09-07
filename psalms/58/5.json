@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Uburozi bwabo nk'ubwite bw'uburozi bw'inzoka, nk'inshoshi ihema irema ukumva kwiwe.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "uburozi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bwabo"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "nk'ubwite"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "uburozi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "inshoshi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "irema"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ukumva kwiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:22.616862191Z",
+  "model": "glm-5.3"
+}

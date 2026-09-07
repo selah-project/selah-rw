@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Ku mutware w'abahanzi, mizimuri rya Dawidi, indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mutware w'abahanzi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimuri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.316282199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Ku wa cyenda mu kwezi, imiriho yagaragaye muri uwo mujyi, nta miguha yari ihari abantu b'isi.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Ku wa cyenda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "imiriho"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muri uwo mujyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari ihari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "miguha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "b'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:38:13.439763783Z",
+  "model": "glm-5.3"
+}

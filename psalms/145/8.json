@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ni⟩ umeza kandi unagira impuhwe, adahita kurakara, afite hesedi nini.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "umeza"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "unagira impuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "adahita"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kurakara"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "nini"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:57.714998421Z",
+  "model": "glm-5.3"
+}

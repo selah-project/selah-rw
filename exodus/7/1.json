@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe yabwiye Moshe (Mose) ati: Reba, nakwiriye kuba imana kwa Paro, maze Aharoni, musaza wawe, azaba navi wawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nakwiriye kuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "maze Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "musaza wawe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "navi wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:39:16.677288281Z",
+  "model": "glm-5.3"
+}

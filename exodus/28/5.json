@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Maze bo bakure ⟨את⟩ zahabu, na ⟨את⟩ tekeleti ⟨ubururu⟩, na ⟨את⟩ argamani ⟨umutuku-umurabura⟩, na ⟨את⟩ tola'ati ya shani ⟨umutuku wijimye⟩, na ⟨את⟩ sheshi ⟨umwenda mwiza w'umweru⟩.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "maze bo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bakure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tekeleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeleti ⟨ubururu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "argamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamani ⟨umutuku-umurabura⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tola'ati ya shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'ati"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shani ⟨umutuku wijimye⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sheshi"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshi ⟨umwenda mwiza w'umweru⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T09:05:32.405805100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Bazakoranywa — koranywa rw'abafungwa mu urwobo — bazafungwa muri igereza, nyuma y'iminsi myinshi bazasurwa.",
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "bazakoranywa"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "⟨koranywa⟩"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "abafungwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "urwobo"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "bazafungwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "muri"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "igereza"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "nyuma y'ubwinshi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bw'iminsi"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "bazasurwa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:58:27.129469708Z",
+  "model": "glm-5.3"
+}

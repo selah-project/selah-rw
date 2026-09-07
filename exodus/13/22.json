@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Nkingi y'ibicu ntiyimukaga amanywa, na nkingi y'umuriro ntiyimukaga ijoro, mu rwego imbere y'abantu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "yimukaga"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "nkingi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "y'ibicu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amanywa"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "na nkingi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "y'umuriro"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "y'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:45:47.910817190Z",
+  "model": "glm-5.3"
+}

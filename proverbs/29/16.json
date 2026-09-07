@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Iyo ababi biyongera, ibyaha biriyongera; ariko abatunganye bazabona ntandaro yabo.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Iyo... biyongera"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "biriyongera"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ibyaha"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ariko abatunganye"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "ku ntandaro yabo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazabona"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:38.823396652Z",
+  "model": "glm-5.3"
+}

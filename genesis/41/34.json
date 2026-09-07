@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Paro yakore, maze ashyirange abaperekidzi ku isi, ate igice cya kane cya ⟨את⟩ isi ya Mitsrayimu mu myaka irindwi y'ubugira.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "yakore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ashyirange"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "abaperekidzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ate igice cya kane cya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ya Mitsrayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "mu irindwi ry'"
+    },
+    {
+      "surface": "שני",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ubugira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:44.057383860Z",
+  "model": "glm-5.3"
+}

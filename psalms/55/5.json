@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Umutima wanjye udindiza mu ntumwa yanjye, maze ubwoba bw'urupfu burahise kuri njye.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Umutima wanjye"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "udindiza"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mu ntumwa yanjye"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "maze ubwoba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bw'urupfu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "burahise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:48.318166526Z",
+  "model": "glm-5.3"
+}

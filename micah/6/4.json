@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kuko nakuyobye mu gihugu cya Mitsrayimu (Egiputa), nakuvuyemo mu nzu y'abacakara nakurokoye; nakoherereje imbere yawe ⟨את⟩ Moshe (Mose), Aharoni na Miriyamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "nakuyobye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "nakuvuyemo mu nzu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "y'abacakara"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "nakurokoye"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "nakoherereje"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miriyamu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:52:12.420228726Z",
+  "model": "glm-5.3"
+}

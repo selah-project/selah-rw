@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 125,
+  "translation": "Uruhimbi rwo kuzamuka. Abizera muri Yahwe ⟨ni⟩ nk'urutare rwa Tsiyoni — ntirwo ruhinduka, rwazigama iteka ryose.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Uruhimbi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "rwo kuzamuka"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "abizera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "nk'urutare"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ruhinduka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rwazigama"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.815485233Z",
+  "model": "glm-5.3"
+}

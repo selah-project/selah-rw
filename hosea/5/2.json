@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abangomyi banabyuye mu bwicanyi; ariko njye ⟨ni⟩ umwanirizi wabo bose.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "mu bwicanyi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "abangomyi"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "banabyuye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "umwanirizi"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "wabo bose"
+    }
+  ],
+  "timestamp": "2026-09-07T21:51:24.536088440Z",
+  "model": "glm-5.3"
+}

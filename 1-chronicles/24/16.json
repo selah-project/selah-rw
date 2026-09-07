@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Icumi rya cyenda kuri Pitahiyah, ikiro makumyabiri kuri Yehezekeli",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "kuri Pitahiyah"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "cyenda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "kuri Yehezekeli"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "makumyabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:41:57.952839441Z",
+  "model": "glm-5.3"
+}

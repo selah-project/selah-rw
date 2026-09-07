@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ababariwe bo, kuri umuryango wa Zevuluni, ⟨ni⟩ indwi na mirongo itanu ibihumbi n'amajana ane.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ababariwe bo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kuri umuryango wa"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuluni"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana ane"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:49.516941012Z",
+  "model": "glm-5.3"
+}

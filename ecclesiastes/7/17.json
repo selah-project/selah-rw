@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ntukakore ibibi cyane, kandi ntukabe ijigura; kuki wazapfa kitaraza igihe cyawe?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntuka"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "kore ibibi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntuka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ube"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ijigura"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wazapfa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "kitaraza"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "igihe cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:16.042774132Z",
+  "model": "glm-5.3"
+}

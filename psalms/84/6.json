@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Inkumuzi y'umuntu ubushake bwe buri muri wowe, inzira zihera mu mitima yabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Inkumuzi y'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ubushake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨bwe⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "buri muri wewe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mu mitima yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:05.055509849Z",
+  "model": "glm-5.3"
+}

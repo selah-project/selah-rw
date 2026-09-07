@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Byose Yahwe yashakaga, byakoze mu ijuru no mu isi, mu nyanja no mu byose by'ibihombye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yashakaga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ashaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "byakoze"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "no mu isi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu nyanja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "no mu byose"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "by'ibihombye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.500180217Z",
+  "model": "glm-5.3"
+}

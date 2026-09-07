@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe azamenyekana i Mitsrayimu, maze Mitsrayimu izamenya ⟨את⟩ Yahwe ku munsi ubwo, bazatamba ibicurwa n'ibitambyo, maze bagahira isezerano kwa Yahwe bakarubyaza.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "azamenyekana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "i Mitsrayimu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "maze bazamenya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "bazatamba"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ibicurwa"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "n'ibitambyo"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "bagahira"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isezerano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "bakarubyaza"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:08.648171066Z",
+  "model": "glm-5.3"
+}

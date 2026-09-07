@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Zirikana ⟨na⟩ njye, ko nk'ibumba wakoze, maze mu ivu uzasubiza.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Zirikana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩ njye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "nk'ibumba"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maze mu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "uzasubiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:25:08.107639519Z",
+  "model": "glm-5.3"
+}

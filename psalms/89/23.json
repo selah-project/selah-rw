@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Umutyanko nta⟨azigera⟩ amutwara, kandi umwana w'ubugome nta⟨azigera⟩ amuhemba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "azigera amutwara ⟨(kusaba ikimenyetso cy'umutungo)⟩"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umutyanko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "−mu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kandi umwana wa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubugome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "azigera amuhemba"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:39.182124530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Imirongo y'ipima yaguye ianjye mu bice nziza; ndetse urubyaro rwanjye rufite ubwiza kuri njye.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Imirongo y'ipima"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "yaguye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ianjye"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "mu bice nziza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndetse"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "rufite ubwiza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.694684579Z",
+  "model": "glm-5.3"
+}

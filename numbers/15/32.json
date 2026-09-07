@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Abana ba Yisraeli bari mu butayu, maze basanga umuntu urakusanya inkwi ku munsi wa Shabati.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "maze basanga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "urakusanya"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "inkwi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    }
+  ],
+  "timestamp": "2026-09-07T10:20:37.259233954Z",
+  "model": "glm-5.3"
+}

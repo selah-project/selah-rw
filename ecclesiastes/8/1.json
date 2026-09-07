@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Ni nde nk'umunyabwenge? Kandi ni nde uzi ibisobanuro by'ijambo? Ubwenge bw'umuntu bumurika ibitaro bye, kandi imbaraga z'ibitaro bye zihinduka.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "nk'umunyabwenge"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kandi ni nde"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ibisobanuro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "by'ijambo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bw'umuntu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "bumurika"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ibitaro bye"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kandi imbaraga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "z'ibitaro bye"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "zihinduka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:53.844614893Z",
+  "model": "glm-5.3"
+}

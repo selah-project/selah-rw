@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Barimbwe ku bw'impamvu y'isoni ryabo abavuga bati kanjye: Heha! Heha!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Barimbwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "impamvu"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "y'isoni ryabo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abavuga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanjye"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha!"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:32.114434680Z",
+  "model": "glm-5.3"
+}

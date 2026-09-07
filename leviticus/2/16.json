@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze kohenu atwikishe ⟨את⟩ urwibutso rwayo, mu ntete zayo no mu mavuta yayo, hamwe na libani yayo yose — igitangwa cy'umuriro kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Maze atwikishe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwibutso rwayo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "urwibutso rwayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mu ntete zayo"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "no mu mavuta yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "libani yayo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igitangwa cy'umuriro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:07.668013236Z",
+  "model": "glm-5.3"
+}

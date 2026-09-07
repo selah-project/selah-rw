@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Dawidi n'abantu bari kumwe na ⟨את⟩ we bararyambye ⟨את⟩ ijwi ryabo barira, kugeza igihe ata mbaraga zari muri bo zo kurira.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bararyambye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "n'abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kumwe na ⟨את⟩ we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi ryabo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ijwi ryabo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "barira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mbaraga"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "zo kurira"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:05.284111359Z",
+  "model": "glm-5.3"
+}

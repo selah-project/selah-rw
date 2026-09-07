@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Yosefu yatungishije ⟨את⟩ se na ⟨את⟩ abavandimwe be na ⟨את⟩ inzu yose ya se, umugati ku bw'ibyana.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "yatungishije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ibyana"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:52.470918690Z",
+  "model": "glm-5.3"
+}

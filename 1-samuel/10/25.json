@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Shemuweli yarabwiye abantu ⟨את⟩ itegeko ry'ubwami, maze aryandika mu gitabo maze abishyira imbere ya Yahwe; Shemuweli nawe yarahunze ⟨את⟩ abantu bose, buri muntu ajya mu nzu ye.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itegeko ry'ubwami"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ry'ubwami"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "maze aryandika"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "maze abishyira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nawe yarahunze"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ajya mu nzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:28:26.328482625Z",
+  "model": "glm-5.3"
+}

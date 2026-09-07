@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "abakuru b'umujyi we bazohereza, bamufata ⟨את⟩ we aho, bamuha ⟨את⟩ we mu ntoki z'umurwananyi w'amaraso, maze arapfa.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "bazohereza"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "b'umujyi we"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "bamufata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (bafata)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bamuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (umuha)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "z'umurwananyi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:05:01.200942690Z",
+  "model": "glm-5.3"
+}

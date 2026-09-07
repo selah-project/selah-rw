@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Akimaatsu na we yabyaye ⟨את⟩ Azaryahu, maze Azaryahu yabyaye ⟨את⟩ Yohanani.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Akimaatsu na we"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryahu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "maze Azaryahu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yohanani"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:39.693741301Z",
+  "model": "glm-5.3"
+}

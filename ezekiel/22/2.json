@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi wowe, mwana w'umuntu, uravuga urubanza? Uravuga urubanza ⟨את⟩ umujyi w'amaraso? Umumenyeshe ⟨את⟩ ibyaha byose bidakundwa byayo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kandi wowe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "uravuga urubanza?"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "uravunga urubanza?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umujyi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "w'amaraso"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "Umumenyeshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyaha byose bidakundwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ibyaha bidakundwa byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:49:24.881111407Z",
+  "model": "glm-5.3"
+}

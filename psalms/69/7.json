@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Adonayi Yahwe Tsevaoti, kureka abategereje wewe bashomerwe isoni ku bwanjye; kureka abashakisha wewe bavunwe ku bwanjye, Elohimu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kureka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bashomerwe isoni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku bwanjye"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "abategereje wewe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti ⟨ingabo⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kureka"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "bavunwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ku bwanjye"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "abashakisha wewe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:46.386628630Z",
+  "model": "glm-5.3"
+}

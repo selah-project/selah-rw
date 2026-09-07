@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Ku munyabinjiro mu njana z'ibyiciro, igisobanuro cyingenzi cya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku munyabinjiro"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "mu njana z'ibyiciro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "igisobanuro cyingenzi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:54.795173805Z",
+  "model": "glm-5.3"
+}

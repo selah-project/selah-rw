@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Mwana wanjye, bika amagambo yanjye, n'amategeko yanjye ubibike ⟨את⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanjye"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bika"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amagambo yanjye"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "n'amategeko yanjye"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ubibike"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "amategeko"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:08.148627954Z",
+  "model": "glm-5.3"
+}

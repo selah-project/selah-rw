@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Yabashikanye na bo, maze ababwira ⟨את⟩ amagambo aya.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Yabashikanye na bo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:35.737146368Z",
+  "model": "glm-5.3"
+}

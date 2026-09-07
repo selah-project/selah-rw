@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze baravuga bati: Iyi ni amaraso! Abami bahise baratsiriwe batakanye, umuntu yaragize ⟨את⟩ mugenzi we ikindi; none se, muri Mowabu, mujye mu byagwa!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "bahise"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "baratsiriwe batakanye"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yaragize ikindi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mugenzi we"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mugenzi we"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none se"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "mujye mu byagwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:10:59.771462896Z",
+  "model": "glm-5.3"
+}

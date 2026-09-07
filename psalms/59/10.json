@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Imbaraga zanjye, kuri wowe nzarindira, kuko Elohimu ⟨ni⟩ urutare rwanjye.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Imbaraga zanjye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "nzarindira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "urutare rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:11.084544112Z",
+  "model": "glm-5.3"
+}

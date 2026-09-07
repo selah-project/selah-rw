@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze kohenu amaze kureba, aramubona ko: seeti yera mu gihu, kandi iyo seeti yarahinduye umusatsi muweru, kandi hari inyama y'ubuzima muri iyo seeti.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "amaze kureba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "aramubona ko"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "seeti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "yera"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mu gihu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iyo seeti"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "yarahinduye"
+    },
+    {
+      "surface": "שער",
+      "gloss": "umusatsi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "muweru"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "inyama y'ubuzima"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "חי",
+      "gloss": "y'ubuzima"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "muri iyo seeti"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:18.952204328Z",
+  "model": "glm-5.3"
+}

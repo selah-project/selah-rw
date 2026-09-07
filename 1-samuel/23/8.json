@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Shauli (Sawuli) yahamagaye ⟨את⟩ abantu bose ku rugamba, ngo bakereke i Keila, bajye gushingikiriza na Dawidi n'abagabo be.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli (Sawuli)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku rugamba"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ngo bakereke"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "bajye gushingikiriza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "abagabo be"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:59.499583979Z",
+  "model": "glm-5.3"
+}

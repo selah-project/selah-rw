@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Iyo mijyi yose yari imijyi mikomeye ⟨yarubatswe⟩, ifite urubibi rurekure, amarembo n'umwungo; hari kandi imijyi itagira urubibi, myingi cyane.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mijyi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "yari imijyi mikomeye ⟨yarubatswe⟩"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "urubibi"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "rurekure"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "amarembo"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "n'umwungo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "hari kandi"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "itagira urubibi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "myingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T10:45:33.636011010Z",
+  "model": "glm-5.3"
+}

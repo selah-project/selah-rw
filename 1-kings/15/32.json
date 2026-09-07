@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kandi hari intambara hagati ya Asa na hagati ya Basha, umwami wa Yisraeli, mu minsi yabo yose.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Kandi intambara"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mu minsi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:33.537281479Z",
+  "model": "glm-5.3"
+}

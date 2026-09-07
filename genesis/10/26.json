@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yokutani yabyaye ⟨את⟩ Almodadu na ⟨את⟩ Shelefu na ⟨את⟩ Hatsarmavetu na ⟨את⟩ Yerah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yokutani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadu"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatsarmavetu"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavetu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerah"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:28.891492677Z",
+  "model": "glm-5.3"
+}

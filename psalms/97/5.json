@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Imisozi yahindutse nka donagi imbere ya Yahwe, imbere y'Adonayi w'isi yose.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Imisozi"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "nka donagi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "w'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:30.011393746Z",
+  "model": "glm-5.3"
+}

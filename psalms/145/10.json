@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ibikorwa byawe byose bizagushima, Yahwe we, kandi abahesedi bawe bazaguha umugisha.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bizagushima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "kandi abahesedi bawe"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bazaguha umugisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:51.313798181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ese umuntu afitiye Eli akamaro, ko umwicukumbufi afitiye akamaro iwe?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "afitiye akamaro"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "afitiye akamaro"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umwicukumbufi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:31:21.830770702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Nuko umurimo wose wa Mishikani ⟨imbari⟩ y'ihema ry'itaramo warangiye; maze abana ba Yisraeli bakora uko byose Yahwe yategetse ⟨את⟩ Moshe — ni ko bakoze.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "warangiye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itaramo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:10.323897917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "ko mwe muzi ⟨את⟩ uko twari tutableye mu gihugu cya Mitsrayimu (Egiputa), na ⟨את⟩ uko twanyuranye mu rwagati rw'amahanga mwanyuranye —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "muzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uko twari tutableye mu Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "twari tutableye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uko twanyuranye mu rwagati rw'amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "twanyuranye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu rwagati rwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "mwanyuranye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:39.532600361Z",
+  "model": "glm-5.3"
+}

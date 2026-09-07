@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Uwantukuwe wanjye, ntikundire ko; nuko naguye, ariko nzamuka; n'iyo ndi mu kijime, Yahwe ⟨ni⟩ umuriro wanjye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "kundire"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "Uwantukuwe wanjye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nuko"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "naguye"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "nzamuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'iyo"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mu kijime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:50:52.195872239Z",
+  "model": "glm-5.3"
+}

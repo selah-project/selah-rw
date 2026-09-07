@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Kandi na nde mwandegera dute, kandi mbe nk'undi? avuze Utagatifu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kandi na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mwandegera dute"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "mbe nk'undi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Utagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:20.103090458Z",
+  "model": "glm-5.3"
+}

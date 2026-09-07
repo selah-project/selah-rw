@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Emori bihemberi barashekeye ⟨את⟩ abana ba Danu ku gasozi, kuko bataramuhwemo kumanura mu igishanga.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "barashekeye"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Danu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danu"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ku gasozi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bataramuhwemo (batarekaga)"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kumanura"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "mu igishanga"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:41.433575846Z",
+  "model": "glm-5.3"
+}

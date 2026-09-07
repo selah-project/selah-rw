@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kugira ngo utarya ukwizira, maze ubake amazu meza ukatuye muri yo.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kugira ngo uta-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "urya"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ukwizira"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "meza"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ubake"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ukatuye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:35.458833243Z",
+  "model": "glm-5.3"
+}

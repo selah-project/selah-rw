@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Mukore ⟨את⟩ turi kumwe, muture; isi izabe imbere yanyu; mugume muri yo, mukore ubucuruzi muri yo, muyifatireho.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ turi kumwe"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "muture"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kandi isi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izabe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "mugume"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "mukore ubucuruzi muri yo"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "muyifatireho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:59.207740601Z",
+  "model": "glm-5.3"
+}

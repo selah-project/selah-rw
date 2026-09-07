@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Nijimye, ariko ndeza, abakobwa ba Yerushalayimu (Yerusalemu); nka amahema ya Kedari, nk'amashami ya Shelomo (Salomo).",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Nijimye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "ariko ndeza"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayimu (Yerusalemu)"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "nka amahema"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ya Kedari"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "nk'amashami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo (Salomo)"
+    }
+  ],
+  "timestamp": "2026-09-07T19:43:19.027919722Z",
+  "model": "glm-5.3"
+}

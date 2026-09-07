@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Amahanga arumva arateterezwa; inyandaro zafashe abatuye Palesheti.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "arumva"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "arateterezwa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "inyandaro"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "zafashe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Palesheti"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:29.380583317Z",
+  "model": "glm-5.3"
+}

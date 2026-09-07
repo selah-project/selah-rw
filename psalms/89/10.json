@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Wowe urategeka ubwicyo bw'amazi y'inyanja; iyo hejuru y'ibaruwa byayo, wowe urazitura.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "urategeka"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ubwicyo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bw'amazi y'inyanja"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "iyo hejuru"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "y'ibaruwa byayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "urazitura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:29.218868924Z",
+  "model": "glm-5.3"
+}

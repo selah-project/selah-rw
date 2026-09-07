@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kandi Amnoni yari afite inshuti, izina rye Yonadabu, umwana wa Shimaha umuvandimwe wa Dawidi; kandi Yonadabu yari umuntu w'ubwenge bwinini cyane.",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "inshuti"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "wa Shimaha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umuvandimwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "kandi Yonadabu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bwinini cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T13:10:51.925146002Z",
+  "model": "glm-5.3"
+}

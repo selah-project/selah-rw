@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kuko Yisraeli yigometse nka inka yigometse; none raza Yahwe yazarenge nka intama mu kibuga gihambaye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "nka inka"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "yigometse"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "yigometse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none raza"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "yazarenge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "nka intama"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "mu kibuga gihambaye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:30.145859934Z",
+  "model": "glm-5.3"
+}

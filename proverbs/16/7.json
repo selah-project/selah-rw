@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Iyo inzira z'umuntu zishimisha Yahwe, n'abansi be arabashyiraho amahoro na ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "iyo... zishimisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "z'umuntu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'... na"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "abansi be"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "arabashyiraho amahoro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:14.805465064Z",
+  "model": "glm-5.3"
+}

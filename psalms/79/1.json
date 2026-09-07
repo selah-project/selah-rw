@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Icumurimbo rya Asafu. Elohimu, amahanga yinjiye mu murage wawe, barumye ⟨את⟩ heikali iera ryawe, barashyize ⟨את⟩ Yerushalayimu mu mavunyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Icumurimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "rya Asafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "mu murage wawe"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "barumye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heikali iera ryawe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikali"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iera ryawe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "barashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "mu mavunyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:51.552436155Z",
+  "model": "glm-5.3"
+}

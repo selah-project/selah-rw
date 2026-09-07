@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi uzashyira ku imeza umugati w'imbere, imbere yanjye, iteka.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "w'imbere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T09:04:18.029081866Z",
+  "model": "glm-5.3"
+}

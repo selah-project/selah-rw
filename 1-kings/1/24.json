@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "1-kings 1:24",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Natani aravuga ati: Shebuja wanjye, umwami, wowe ni wowe wavuze ko Adoniyahu azahabwe ubwami nyuma yanjye, kandi ko we azayicara ku ntebe yanjwe y'ubwami?",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga ati"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "Natani"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "Shebuja wanjye"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "אמרת",
+   "gloss": "wavuze"
+  },
+  {
+   "surface": "אדניהו",
+   "gloss": "Adoniyahu"
+  },
+  {
+   "surface": "ימלך",
+   "gloss": "azahabwe ubwami"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "nyuma yanjye"
+  },
+  {
+   "surface": "והוא",
+   "gloss": "kandi ko we"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "azayicara"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "כסאי",
+   "gloss": "ntebe yanjye y'ubwami"
+  }
+ ],
+ "timestamp": "2026-09-07T21:34:20.549789347Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 42:10",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 42,
+ "translation": "Barabwira we bati: Oya, databuja wacu; abagaragu bawe baraza ⟨ni⟩ kugura ibiribwa.",
+ "tokens": [
+  {
+   "surface": "ויאמרו",
+   "gloss": "barabwira"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "kuri we"
+  },
+  {
+   "surface": "לא",
+   "gloss": "Oya"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "databuja wacu"
+  },
+  {
+   "surface": "ועבדיך",
+   "gloss": "abagaragu bawe"
+  },
+  {
+   "surface": "באו",
+   "gloss": "baraza"
+  },
+  {
+   "surface": "לשבר",
+   "gloss": "kugura"
+  },
+  {
+   "surface": "אכל",
+   "gloss": "ibiribwa"
+  }
+ ],
+ "timestamp": "2026-09-07T08:21:18.967349752Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Nimuze mushyire hejuru indirimbo, mukore ingoma, inanga nziza hamwe n'⟨inanga nini⟩.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "mushyire hejuru"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "inanga"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "⟨inanga nini⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:45.058690394Z",
+  "model": "glm-5.3"
+}

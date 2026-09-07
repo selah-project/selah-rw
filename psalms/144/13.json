@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "Ibigega byacu byuzuye, bibyaza ingano ku bwoko; intama zacu ziyongera ku bihumbi no mu bihumbi byinshi mu muhanda wacu.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "Ibigega byacu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "bibyaza"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "ingano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זן",
+      "gloss": "bwoko"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "intama zacu"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "ziyongera ku bihumbi"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "no mu bihumbi byinshi"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "mu muhanda wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:37.169640070Z",
+  "model": "glm-5.3"
+}

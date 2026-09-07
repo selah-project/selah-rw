@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi iyo minchah y'inkono ni korubani yawe: ifu nziza y'ingano iyakorwa n'amavuta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "inkono"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korubani yawe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifu nziza y'ingano"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "iyakorwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:12.234432162Z",
+  "model": "glm-5.3"
+}

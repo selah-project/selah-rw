@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ararindira mu ihisho nk'intare mu gisenge; ararindira gufata umukene; arafata umukene mu kumuranura mu rusika rwe.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "Ararindira"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "mu ihisho"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "nk'intare"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mu gisenge"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ararindira"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "gufata"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "arafata"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "mu kumuranura"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "mu rusika rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:52.841605593Z",
+  "model": "glm-5.3"
+}

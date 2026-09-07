@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ku buryo bw'umubare uko muzakora, ni ko muzakora kuri buri kimwe, ku buryo bw'umubare wabyo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Ku buryo bw'umubare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kuri buri kimwe"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ku buryo bw'umubare wabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:29.301367573Z",
+  "model": "glm-5.3"
+}

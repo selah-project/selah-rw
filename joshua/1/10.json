@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yehoshuwa yarategetse ⟨את⟩ abategetsi b'abaturage, ati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yarategetse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abategetsi b'abaturage"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "abategetsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "b'abaturage"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T11:23:12.541511568Z",
+  "model": "glm-5.3"
+}

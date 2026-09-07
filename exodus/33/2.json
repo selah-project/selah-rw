@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Kandi nzohereza imbere yawe umutumwa, kandi nkuraho ⟨את⟩ Abakenaani, Abemori, Abaheti, Abiperizi, Abihivi n'Abayebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "nkuraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abakenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Abakenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abemori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Abaheti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Abiperizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Abihivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Abayebusi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:52.975430400Z",
+  "model": "glm-5.3"
+}

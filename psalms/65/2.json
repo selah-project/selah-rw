@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Iwawe, amahoro ⟨ni⟩ ikuziza, Elohimu, muri Tsiyoni; kandi iwawe ibyahirwe bizazirwaho.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ikuziza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "muri Tsiyoni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "n'iwawe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bizazirwaho"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ibyahirwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:30.317618023Z",
+  "model": "glm-5.3"
+}

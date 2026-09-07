@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Musingize Yahwe, ingabo ziwe zose; abasare be, bakora iby'ishimirwe rye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Musingize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "ingabo ziwe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abasare be"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "iby'ishimirwe rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:35.475313299Z",
+  "model": "glm-5.3"
+}

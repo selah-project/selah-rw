@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze ndazakora muri wewe ⟨את⟩ ibyo ntakoze, na ⟨את⟩ ibyo ntazakora inkuru yabyo nanone, kubera ibyurirane byawe byose.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Maze ndazakora"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "inkuru yabyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ibyurirane byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:43:41.533123228Z",
+  "model": "glm-5.3"
+}

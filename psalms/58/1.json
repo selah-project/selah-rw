@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Ku umutunzi w'umuziki. Ntibazwe. Zaburi ya Dawidi, mikhtamu ⟨igihangano cyanditswe⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku umutunzi w'umuziki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nti"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bazwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtamu ⟨igihangano cyanditswe⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:58.181417955Z",
+  "model": "glm-5.3"
+}

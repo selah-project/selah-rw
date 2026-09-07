@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Kuko imbere yawe ⟨ni⟩ isoko ry'ubuzima; mu rumuri rwawe tuzabona urumuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "isoko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ry'ubuzima"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "mu rumuri rwawe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tuzabona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "urumuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:01.293981817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Yarabwiye Yehoshafati ati: Uzagenda ⟨את⟩ nanjye mu ntambara iya Ramotu ya Giladi? Yehoshafati na we nabwiye umwami w'i Yisraeli ati: Nka wowe ndi, abantu banjye nka bawe, amafarashi yanjye nka ayawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Uzagenda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nanjye"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mu ntambara"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "iya Ramotu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Giladi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na we nabwiye"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'i Yisraeli"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "nka wowe ndi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nka wowe"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "abantu banjye nka"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "amafarashi yanjye nka"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "ayawe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:03:26.155085314Z",
+  "model": "glm-5.3"
+}

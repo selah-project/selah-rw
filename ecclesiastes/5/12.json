@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Harimo ikibi gikaze ndabonye hasi y'izuba: umutunga ubitswe ku mwiture, ariko ku bibi bye.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "harimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "gikaze"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndabonye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "umutunga"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ubitswe"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ku mwiture wawo"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "ku bibi bye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:28.468540622Z",
+  "model": "glm-5.3"
+}

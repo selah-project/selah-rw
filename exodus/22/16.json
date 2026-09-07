@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Niba se we yemeje kwanga kumuha iwe, azapima ifeza nk'inkwano z'inkumi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "yemeje"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "kwanga"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "se we"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "kumuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "azapima"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "nk'inkwano"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "z'inkumi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:30.186467607Z",
+  "model": "glm-5.3"
+}

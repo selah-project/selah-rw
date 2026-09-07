@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Njye ni njye umugabo wabonye umubabaro mu rumvi ry'uburakari bwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabonye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umubabaro"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "mu rumvi ry'"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "uburakari bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:48:00.715079644Z",
+  "model": "glm-5.3"
+}

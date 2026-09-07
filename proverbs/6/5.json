@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kwikiza nka gazeli mu ntoki, kandi nk'inyoni mu ntoki z'umuteki w'inyoni.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Kwikiza"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "nka gazeli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "kandi nk'inyoni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "z'umuteki w'inyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:42.580448165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "⟨We⟩ yahinduye umutima wabo ngo babangire abantu be, ngo bigirire ubugeni ku baja be.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "yahinduye"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "umutima wabo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ngo babangire"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ngo bigirire ubugeni"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "ku baja be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:35.311165219Z",
+  "model": "glm-5.3"
+}

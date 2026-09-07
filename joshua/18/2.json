@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Byasigaye mu bana ba Yisraeli abo batagabanyije ⟨את⟩ umurage wabo: imiryango irindwi.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "byasigaye"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mu bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "batagabanyije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage wabo"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "umurage wabo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "imiryango"
+    }
+  ],
+  "timestamp": "2026-09-07T11:39:15.437819071Z",
+  "model": "glm-5.3"
+}

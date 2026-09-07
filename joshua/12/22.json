@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umwami wa Kedeshi, umwe; umwami wa Yokneamu wa Karmeli, umwe.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa Kedeshi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "wa Yokneamu"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "wa Karmeli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:32:28.182868052Z",
+  "model": "glm-5.3"
+}

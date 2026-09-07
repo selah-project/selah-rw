@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Ibiri nzasabye kuva kuri ⟨את⟩ wowe; ntuzibihakire mbere y'uko ndapfa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nsabye"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kuva kuri ⟨את⟩ wowe",
+      "marks": "wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "zibihakire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "(ku) njye"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:16:32.315319243Z",
+  "model": "glm-5.3"
+}

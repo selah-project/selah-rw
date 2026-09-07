@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yehoshuwa (Yosuwa), umwami w'Yehudha, yasubiye mu nzu ye mu mahoro, i Yerushalayimu (Yerusalemu).",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "w'Yehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mu mahoro"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T22:08:15.605196333Z",
+  "model": "glm-5.3"
+}

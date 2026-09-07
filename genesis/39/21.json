@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Yahwe yari ⟨את⟩ Yosefu, yashyiraho hesedi kuri we, maze amuha icyubahiro mu maso y'umutware w'inzu y'igifungo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yashyiraho"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "amuha"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "y'igifungo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:15:42.124449132Z",
+  "model": "glm-5.3"
+}

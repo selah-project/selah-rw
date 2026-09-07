@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Baratuye bakazamuka ku musozi, bakagera kugeza ku kibaya cya Eshikolu, maze bakasuzuma ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "baratuye"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bakazamuka"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bakagera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ku kibaya"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "cya Eshikolu"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "bakasuzuma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:32.317976034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ashyire intoki ye ku mutwe w'iyo hene y'ingabo, maze ayice ⟨את⟩ mu mwanya aho bica ⟨את⟩ igitangirwa cyo gutwikwa imbere ya Yahwe; igitangirwa cy'icyaha ni cyo.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ashyire"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "w'iyo hene y'ingabo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ayice"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo hene"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mu mwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "bica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitangirwa cyo gutwikwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igitangirwa cyo gutwikwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "igitangirwa cy'icyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:30.690454426Z",
+  "model": "glm-5.3"
+}

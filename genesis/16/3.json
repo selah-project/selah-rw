@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Sarayi, umugore w'Avrahamu, yafashe ⟨את⟩ Hagari Um-Mitsrayimu, umujakazi we, imyaka icumi irangiye Avrahamu atuye mu gihugu cya Kenaanu, maze yahaye ⟨את⟩ we Avrahamu umugabo we, kuri we umugore.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagari"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Um-Mitsrayimu"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "umujakazi we"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "irangiye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "atuye"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umugabo we"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "umugore"
+    }
+  ],
+  "timestamp": "2026-09-07T07:47:42.027282614Z",
+  "model": "glm-5.3"
+}

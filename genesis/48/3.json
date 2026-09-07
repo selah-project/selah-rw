@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yaakovu abwira Yosefu ati: Eli Shadayi (El Shadayi, Imana Yihanganitse) yagaragaye kuri njye i Luzi, mu gihugu cya Kenakani, maze yampaye ⟨את⟩ umugisha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "i Luzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenakani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yampaye umugisha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ je",
+      "marks": "umugisha (je)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:31:03.856215757Z",
+  "model": "glm-5.3"
+}

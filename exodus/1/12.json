@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "exodus 1:12",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Ariko uko bari barimo kumugiraho ibyaga, ni ko ubu bwa Banyarwanda bwiyongeraga kandi bwagendaga kwaguka; barabababariye mu mitima yabo bati none ibi birenze urubanza ku bana ba Yisraeli (Isirayeli).",
+ "tokens": [
+  {
+   "surface": "וכאשר",
+   "gloss": "ariko uko"
+  },
+  {
+   "surface": "יענו",
+   "gloss": "barimo kumugiraho ibyaga"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "ubu bwa Banyarwanda"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ni ko"
+  },
+  {
+   "surface": "ירבה",
+   "gloss": "bwiyongeraga"
+  },
+  {
+   "surface": "וכן",
+   "gloss": "kandi"
+  },
+  {
+   "surface": "יפרץ",
+   "gloss": "bwagendaga kwaguka"
+  },
+  {
+   "surface": "ויקצו",
+   "gloss": "barabababariye mu mitima yabo"
+  },
+  {
+   "surface": "מפני",
+   "gloss": "kubera"
+  },
+  {
+   "surface": "בני",
+   "gloss": "abana ba"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Yisraeli (Isirayeli)"
+  }
+ ],
+ "timestamp": "2026-09-07T08:33:00.613169403Z",
+ "model": "glm-5.3"
+}

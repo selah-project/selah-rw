@@ -1,0 +1,94 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "jeremiah 5:5",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Nzagenda njye ⟨njye⟩ kuri abakuru maze ndabwire ⟨את⟩ bo; muriuko bo bazi inzira ya Yahwe n'umutego wa Elohimu wabo; ariko bo hamwe baravunye ⟨את⟩ umudombedombe, bananutse ⟨את⟩ imbyigo.",
+ "tokens": [
+  {
+   "surface": "אלכה",
+   "gloss": "nzagenda"
+  },
+  {
+   "surface": "לי",
+   "gloss": "⟨njye⟩"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "הגדלים",
+   "gloss": "abakuru"
+  },
+  {
+   "surface": "ואדברה",
+   "gloss": "maze ndabwire"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "abakuru"
+  },
+  {
+   "surface": "כי",
+   "gloss": "muriuko"
+  },
+  {
+   "surface": "המה",
+   "gloss": "bo"
+  },
+  {
+   "surface": "ידעו",
+   "gloss": "bazi"
+  },
+  {
+   "surface": "דרך",
+   "gloss": "inzira"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "משפט",
+   "gloss": "umutego"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimu wabo"
+  },
+  {
+   "surface": "אך",
+   "gloss": "ariko"
+  },
+  {
+   "surface": "המה",
+   "gloss": "bo"
+  },
+  {
+   "surface": "יחדו",
+   "gloss": "hamwe"
+  },
+  {
+   "surface": "שברו",
+   "gloss": "baravunye"
+  },
+  {
+   "surface": "על",
+   "gloss": "umudombedombe"
+  },
+  {
+   "surface": "נתקו",
+   "gloss": "bananutse"
+  },
+  {
+   "surface": "מוסרות",
+   "gloss": "imbyigo"
+  }
+ ],
+ "timestamp": "2026-09-07T15:45:23.177330807Z",
+ "model": "glm-5.3"
+}

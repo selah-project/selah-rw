@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Gutwikisha ku giciro cya gutwikisha, urugomba ku giciro cy'urugomba, uruhara ku giciro cy'uruhara.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "gutwikisha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ku giciro cya"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "gutwikisha"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "urugomba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ku giciro cya"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "urugomba"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ku giciro cya"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "uruhara"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:39.047118222Z",
+  "model": "glm-5.3"
+}

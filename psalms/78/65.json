@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Adonayi nuko yaribye nk'uwiriye, nk'ingwe arurutse kubw'umuvinyo.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "nuko yaribye"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "nk'uwiriye"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "nk'ingwe"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "arurutse"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kubw'umuvinyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:33:57.119191704Z",
+  "model": "glm-5.3"
+}

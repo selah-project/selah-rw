@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "numbers 13:3",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 13,
+ "translation": "Moshe arabohereza ⟨את⟩ bo mu izina rya Yahwe, ava mu butayu bwa Paran; bose ni abagabo, batware b'abana ba Yisraeli, ni bo ubwabo.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "arabohereza"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "abagabo"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ממדבר",
+   "gloss": "mu butayu bwa"
+  },
+  {
+   "surface": "פארן",
+   "gloss": "Paran"
+  },
+  {
+   "surface": "על",
+   "gloss": "mu izina"
+  },
+  {
+   "surface": "פי",
+   "gloss": "rya"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "כלם",
+   "gloss": "bose"
+  },
+  {
+   "surface": "אנשים",
+   "gloss": "abagabo"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "batware"
+  },
+  {
+   "surface": "בני",
+   "gloss": "b'abana"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "ba Yisraeli"
+  },
+  {
+   "surface": "המה",
+   "gloss": "ni bo ubwabo"
+  }
+ ],
+ "timestamp": "2026-09-07T10:13:51.950925655Z",
+ "model": "glm-5.3"
+}

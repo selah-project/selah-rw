@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "umwana wa Avishua, umwana wa Pinehasi, umwana wa Elazari, umwana wa Aharoni, umukohenu w'ibanze",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umukohenu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "w'ibanze"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:04.183904358Z",
+  "model": "glm-5.3"
+}

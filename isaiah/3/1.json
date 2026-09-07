@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ko dore Adonayi, Yahwe Tsevaoti, azasesa mu Yerushalayimu no mu Yehudha igikiriro n'inkoni y'igikiriro — igikiriro cyose cy'umugati n'igikiriro cyose cy'amazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dore"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "azasesa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "no mu Yehudha"
+    },
+    {
+      "surface": "משען",
+      "gloss": "igikiriro"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "n'inkoni y'igikiriro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "משען",
+      "gloss": "igikiriro"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cy'umugati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'icyo cyose"
+    },
+    {
+      "surface": "משען",
+      "gloss": "igikiriro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "cy'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:23.206860378Z",
+  "model": "glm-5.3"
+}

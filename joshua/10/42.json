@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ abami bose aba, na ⟨את⟩ ubutaka bwabo, Yehoshuwa yafashe inshuro imwe, kuko Yahwe, Elohimu wa Yisraeli, yarwanitse ku bw'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "abami bose aba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubutaka bwabo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ubutaka bwabo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "inshuro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yarwanitse"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku bw'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:21.894691376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Hazaba ko iyo Abamitsrayimu babonye ⟨את⟩ wowe, bakavuga bati: Uyu ni umugore we; bazanshira ⟨את⟩ jye, na ⟨את⟩ wowe bazakurinda ubuzima.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Hazaba ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Abamitsrayimu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bakavuga"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Uyu ⟨ni⟩"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "bazanshira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ jye",
+      "marks": "jye"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "na ⟨את⟩ wowe",
+      "marks": "wowe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bazakurinda ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:35.349698542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi nanjye nashyizeho ⟨את⟩ beriti yanjye ⟨את⟩ bo, ngo mbahabire ⟨את⟩ igihugu cya Kenaani, ⟨את⟩ igihugu cy'ubucuru bwabo, aho bari abacuru.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kandi nanjye"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "nashyizeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti yanjye"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yanjye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mbahabire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Kenaani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cy'ubucuru bwabo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "cy'ubucuru bwabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "bari abacuru"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:38:45.550108685Z",
+  "model": "glm-5.3"
+}

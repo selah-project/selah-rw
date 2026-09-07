@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kubera iki, Yahwe, uhagara kure, mu bihe by'ibyago uhisha?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "uhagara"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "uhisha"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "mu bihe"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "by'ibyago"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:00.285648043Z",
+  "model": "glm-5.3"
+}

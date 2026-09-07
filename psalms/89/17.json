@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Mu izina ryawe bazishimira umunsi wose, kandi mu butungane bwawe bazazamuka.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "bazishimira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "kandi mu butungane bwawe"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bazazamuka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:51.185414903Z",
+  "model": "glm-5.3"
+}

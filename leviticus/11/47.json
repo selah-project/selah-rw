@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "kugira ngo hatandukirwe hakiri hagati y'ibidakware n'ibisukuye, hagati y'inyamaswa iribwa n'inyamaswa itaribwa.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "kugira ngo hatandukirwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ibidakware"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ibisukuye"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "iribwa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no hagati ya"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "inyamaswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "iribwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:30.658838474Z",
+  "model": "glm-5.3"
+}

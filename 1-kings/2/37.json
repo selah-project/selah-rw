@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 37,
+ "ref": "1-kings 2:37",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 2,
+ "translation": "Kandi bizaba ko ku munsi uzakuva aho maze uzarenza ⟨את⟩ uruzi rwa Kidroni, menya neza ko rwose uzapfa: amaraso yawe azaba ku mutwe wawe.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "bizaba ko"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "ku munsi"
+  },
+  {
+   "surface": "צאתך",
+   "gloss": "uzakuva aho"
+  },
+  {
+   "surface": "ועברת",
+   "gloss": "maze uzarenza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "uruzi rwa Kidroni"
+  },
+  {
+   "surface": "נחל",
+   "gloss": "uruzi"
+  },
+  {
+   "surface": "קדרון",
+   "gloss": "rwa Kidroni"
+  },
+  {
+   "surface": "ידע",
+   "gloss": "menya"
+  },
+  {
+   "surface": "תדע",
+   "gloss": "neza"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "מות",
+   "gloss": "rwose uzapfa"
+  },
+  {
+   "surface": "תמות",
+   "gloss": "uzapfa"
+  },
+  {
+   "surface": "דמך",
+   "gloss": "amaraso yawe"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "azaba"
+  },
+  {
+   "surface": "בראשך",
+   "gloss": "ku mutwe wawe"
+  }
+ ],
+ "timestamp": "2026-09-07T13:29:42.355901087Z",
+ "model": "glm-5.3"
+}

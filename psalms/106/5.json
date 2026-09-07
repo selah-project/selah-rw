@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Kugira ngo ndabone icyiza cy'abatoranyi bawe, nkunezerwe mu byishimo by'igihugu cyawe, kandi mfate icyubahiro hamwe n'umurage wawe.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "kugira ngo ndabone"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "icyiza cya"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "abatoranyi bawe"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "kugira ngo nkunezerwe"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "mu byishimo bya"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "igihugu cyawe"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "kugira ngo mfate icyubahiro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "umurage wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:27.252755734Z",
+  "model": "glm-5.3"
+}

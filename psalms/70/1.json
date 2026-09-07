@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 70,
+  "translation": "K'umuyobozi w'indirimbo, kwa Dawidi, kwibutsa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "K'umuyobozi w'indirimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Dawidi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "kwibutsa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:02.400044573Z",
+  "model": "glm-5.3"
+}

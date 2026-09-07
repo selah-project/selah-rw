@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yavuze ati: Ese ni byiza gukara kuri wowe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yavuze ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Ese ni byiza"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gukara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:55.981377085Z",
+  "model": "glm-5.3"
+}

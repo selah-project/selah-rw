@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Tamari yagiye mu nzu ya Amnoni murumuna we, we araritse; yafashe ⟨את⟩ ifu, ayitevye, yakuye mu maso ye ibilebya, ayitekeye ⟨את⟩ ibilebya.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "murumuna we"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "araritse"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifu"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ayitevye"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "yakuye ibilebya"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mu maso ye"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ayitekeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibilebya"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "ibilebya"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:24.169349696Z",
+  "model": "glm-5.3"
+}

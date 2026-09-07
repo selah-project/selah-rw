@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Elohimu ari mu gati cyayo, ntigitererana; Elohimu azayifasha mu guhinduka kw'igitondo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ari mu gati cyayo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "gitererana"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "azayifasha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "mu guhinduka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kw'igitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:50.645033959Z",
+  "model": "glm-5.3"
+}

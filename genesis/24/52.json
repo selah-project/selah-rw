@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze igihe umugaragu w'Avrahamu yumvise ⟨את⟩ amajambo yabo, yagize itoto kugera hasi imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze igihe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "w'Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo yabo"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "amajambo yabo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yagize itoto"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kugera hasi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "imbere ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:56:49.271031205Z",
+  "model": "glm-5.3"
+}

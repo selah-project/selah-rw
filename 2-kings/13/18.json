@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze aravuga ati: Fata imyambi. Maze arayafata. Maze aravuga ku mwami wa Yisraeli ati: Rimbitsa isi. Maze ararimbitsa incuro eshatu, maze arahagarara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze aravuga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Fata"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "imyambi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "arayafata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku mwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Rimbitsa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ararimbitsa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "eshatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "incuro"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "arahagarara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:29.605794101Z",
+  "model": "glm-5.3"
+}

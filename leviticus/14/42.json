@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Bazafata andi mabuye bazashyira mu mwanya w'ayo mabuye, kandi azafata undi butaka, azasasa ⟨את⟩ inzu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "bazafata"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabuye"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "andi"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "bazashyira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mwanya w'"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ayo mabuye"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "kandi undi butaka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "undi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "azasasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:05.475155388Z",
+  "model": "glm-5.3"
+}

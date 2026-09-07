@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umutagatifu: ko ni we uzanira ⟨את⟩ umugati w'Elohimu wawe; azabe umutagatifu iwawe; koko jye ndi umutagatifu, jyane Yahwe, ubatagatisha.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Umutagatifu:"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugati"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "w'Elohimu wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "uzanira"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "umutagatifu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "umutagatifu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jyane Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ubatagatisha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:20.273156571Z",
+  "model": "glm-5.3"
+}

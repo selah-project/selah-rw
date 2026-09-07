@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Ku mugaragazi; Ntukangize. Zaburi ya Dawidi; Mikitamu; igihe yahunzaga imbere ya Shauli (Sawuli), mu rwobo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mugaragazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "kangize"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikitamu"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "igihe yahunzaga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mu rwobo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:36.858533094Z",
+  "model": "glm-5.3"
+}

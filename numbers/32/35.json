@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Na ⟨את⟩ Ataroti ya Shofani, na ⟨את⟩ Yazeri, na Yogevaha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ataroti ya Shofani"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ataroti"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ya Shofani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "na Yogevaha"
+    }
+  ],
+  "timestamp": "2026-09-07T10:38:19.448800596Z",
+  "model": "glm-5.3"
+}

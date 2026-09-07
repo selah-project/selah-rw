@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Inzira y'ukuri nahisemo; amanza yawe nashyize imbere yanjye.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "y'ukuri"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nahisemo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "amanza yawe"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nashyize imbere"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:41.429139182Z",
+  "model": "glm-5.3"
+}

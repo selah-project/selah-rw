@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yirimeyahu arababwira ati: Uko ni ko muzavuga kuri Tsidiqiyahu",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira ati"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimeyahu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko ni ko"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "muzavuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidiqiyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:02:12.575403427Z",
+  "model": "glm-5.3"
+}

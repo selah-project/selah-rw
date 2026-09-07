@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Everi yabayeho imyaka ine n'imirongo itatu, hanyuma abyara ⟨את⟩ Pelegi (Falegi).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "n'imirongo itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "hanyuma abyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:25.383633946Z",
+  "model": "glm-5.3"
+}

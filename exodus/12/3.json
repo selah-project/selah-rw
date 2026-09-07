@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Babwire itorero rya Yisraeli ryonse, mubwire ati: Ku wa cumi w'ukwezi kuno buri muntu atorane intama ku bw'urugo rw'isekuruza, intama ku rugo.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Babwire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "itorero rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mubwire ati"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Ku wa cumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "w'ukwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "atorane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buryi muntu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "intama"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku rw'o"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "urugo rw'isekuruza"
+    },
+    {
+      "surface": "שה",
+      "gloss": "intama"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku rugo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:38.442914979Z",
+  "model": "glm-5.3"
+}

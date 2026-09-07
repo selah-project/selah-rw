@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Ni nde ⟨ni⟩ umuntu wifuriza ubuzima, ukunda iminsi myinshi, kugira ngo abone icyiza?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "wifuriza"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ukunda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi myinshi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kugira ngo abone"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:33.522140048Z",
+  "model": "glm-5.3"
+}

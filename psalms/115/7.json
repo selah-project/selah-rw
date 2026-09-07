@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Ibiganza byabo, ariko ntibimenya gukorera; ibirenge byabo, ariko ntibimenya kugenda; ntibivugisha mu njoro yabo.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ibiganza byabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "bimenya gukorera"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ibirenge byabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bimenya kugenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "bivugisha"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "mu njoro yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:46.029220195Z",
+  "model": "glm-5.3"
+}

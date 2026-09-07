@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kubera iki wavuze ko umurumuna ⟨ni⟩ we, maze mfata ⟨את⟩ we njye kugira umugore? None raba umugore wawe: mufate, ugende.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kubera iki"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "umurumuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ we"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mfata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (Sarayi)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kugira umugore"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "raba"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umugore wawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mufate"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ugende"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:58.342179429Z",
+  "model": "glm-5.3"
+}

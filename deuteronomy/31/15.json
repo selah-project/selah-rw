@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yahwe yagaragaraye mu ihema, mu nguti y'ibyicu; maze inguti y'icyicu ihagaze ku irembo ry'ihema.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yagaragaraye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mu nguti"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "y'ibyicu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ihagaze"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "inguti"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "y'icyicu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "irembo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ry'ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:41.949226854Z",
+  "model": "glm-5.3"
+}

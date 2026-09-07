@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Cyangwa Nefeshi iyo yarahiye, yunigiye ku minwe ko yakora bibi cyangwa ko yakora byiza — ku byo muntu yunigiye mu ihiye byose — maze ibihishwa kuri we, na we azi, akagira icyaha mu byumwe muri ibi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Cyangwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "yarahiye"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "yunigiye"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "ku minwe"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ko yakora bibi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ko yakora byiza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "yunigiye"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "mu ihiye"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "maze ibihishwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "akagira icyaha"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "mu byumwe"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "muri ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:30:19.079632028Z",
+  "model": "glm-5.3"
+}

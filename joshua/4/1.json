@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Igihe ubwoko bwose bwarangirije kwambuka ⟨את⟩ Yardeni, Yahwe yabwiye Yehoshuwa ati",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ubaye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "barangirije"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ubwoko"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "kwambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T11:24:37.556808316Z",
+  "model": "glm-5.3"
+}

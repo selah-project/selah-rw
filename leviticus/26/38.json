@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Muzaherereka mu mahanga, maze igihugu cy'abanzi banyu kizarya ⟨את⟩ mwebwe.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "muzaherereka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kizarya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwebwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "cy'abanzi banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:37.249581646Z",
+  "model": "glm-5.3"
+}

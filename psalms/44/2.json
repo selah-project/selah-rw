@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Elohimu, mu matwi yacu twumvise; abakurambere bacu baradubwiye igikorwa wakoze mu minsi yabo, mu minsi y'ibyaha byashize.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "mu matwi yacu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "twumvise"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "baradubwiye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tugiye"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "mu minsi yabo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu minsi ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ibyaha byashize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.395676947Z",
+  "model": "glm-5.3"
+}

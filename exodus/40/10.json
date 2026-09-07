@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uboshe ⟨את⟩ igicaniro cy'isadaka icanwa na ⟨את⟩ ibikoresho byaryo byose, utangize ⟨את⟩ igicaniro, kandi igicaniro kizaba ubutagatifu bwa kurushaho.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uboshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cy'isadaka icanwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byaryo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byaryo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "utangize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kandi kizaba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ubutagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bwa kurushaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:27.743266101Z",
+  "model": "glm-5.3"
+}

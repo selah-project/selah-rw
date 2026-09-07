@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Kuko yatuye ugutwi kwe kuri njye, kandi mu minsi yanjye nzamuhamagara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "yatuye"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ugutwi kwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "kandi mu minsi yanjye"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nzamuhamagara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:45.640760578Z",
+  "model": "glm-5.3"
+}

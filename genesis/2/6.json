@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze ubuhehere bwazamutse mu isi, maze bwohehesha ⟨את⟩ ubuso bwose bw'ubutaka.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ubuhehere"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bwazamutse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "maze bwohehesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bw'ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:03.496250778Z",
+  "model": "glm-5.3"
+}

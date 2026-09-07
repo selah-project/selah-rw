@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ni umuntu wa mahoro wanjye, we nizeyeho, uri kurya imbuguto yanjye, we nyene yaragaragaje ikirenge ku bwanjye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "wa mahoro wanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nizeyeho"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "uri kurya"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "imbuguto yanjye"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "yaragaragaje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku bwanjye"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ikirenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:33.488666473Z",
+  "model": "glm-5.3"
+}

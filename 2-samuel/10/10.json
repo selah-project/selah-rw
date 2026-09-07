@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze ⟨את⟩ iwisigaye ry'abantu aha mu ntoki za Avishayi mwishywa we, maze ashira mu murongo w'intambara guhura n'abana b'Amonu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iwisigaye ry'abantu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "iwisigaye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ry'abantu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "za Avishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mwishywa we"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ashira mu murongo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "guhura n'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "b'Amonu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:06:44.636747154Z",
+  "model": "glm-5.3"
+}

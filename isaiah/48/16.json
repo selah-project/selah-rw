@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 48:16",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Nimungeregeraho, mwumve ibi: si mu ibanga nabivuzaga kuva mu ntangiriro; kuva mu gihe cyo kubaho kwabyo, njye ndariyo. None, Adonayi Yahwe yanatumye, n'uruhindo rwe.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "nimungeregeraho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mwumve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuva mu ntangiriro"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nabivuzaga"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kuva mu gihe"
+    },
+    {
+      "surface": "היותה",
+      "gloss": "cyo kubaho kwabyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "icyo gihe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "yanatumye"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "n'uruhindo rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:20:54.329918827Z",
+  "model": "glm-5.3"
+}

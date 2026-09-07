@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Shemueli yakoze ⟨את⟩ ibyo Yahwe yari yavuze, maze yinjiri mu Betlechemu, maze abakuru b'umujyi baratetema bamuhuye, aravuze ati: Ni amahoro ko uje?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo Yahwe yari yavuze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yari yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "maze yinjiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlechemu"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "baratetema"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "b'umujyi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "bamuhuye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ni amahoro"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ko uje"
+    }
+  ],
+  "timestamp": "2026-09-07T12:37:24.174485276Z",
+  "model": "glm-5.3"
+}

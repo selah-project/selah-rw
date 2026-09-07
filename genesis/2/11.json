@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "genesis 2:11",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 2,
+ "translation": "Izina ry'imwe ni Pishoni: ni iryo ruzenguruka ⟨את⟩ ubutaka bwose bwa Havila, aho habonekamo zahabu.",
+ "tokens": [
+  {
+   "surface": "שם",
+   "gloss": "izina"
+  },
+  {
+   "surface": "האחד",
+   "gloss": "ry'imwe"
+  },
+  {
+   "surface": "פישון",
+   "gloss": "Pishoni"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ni iryo"
+  },
+  {
+   "surface": "הסבב",
+   "gloss": "ruzenguruka"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ubutaka bwose bwa Havila"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bwose"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "ubutaka"
+  },
+  {
+   "surface": "החוילה",
+   "gloss": "bwa Havila"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "aho"
+  },
+  {
+   "surface": "שם",
+   "gloss": "habonekamo"
+  },
+  {
+   "surface": "הזהב",
+   "gloss": "zahabu"
+  }
+ ],
+ "timestamp": "2026-09-07T07:31:45.425483033Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Kivtsayimu n'ibyaro byayo, na ⟨את⟩ Bethi-Horoni n'ibyaro byayo — imijyi ine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kivtsayimu"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyaro byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyaro byayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:01.395307607Z",
+  "model": "glm-5.3"
+}

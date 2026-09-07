@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Minchah ya Yehuda na Yerushalayimu izakundwa na Yahwe, nko mu minsi y'Olamu nko mu myaka yabanjirije.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "izakundwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Minchah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nko mu minsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "y'Olamu"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "nko mu myaka"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "yabanjirije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:50.783949683Z",
+  "model": "glm-5.3"
+}

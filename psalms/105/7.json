@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Ni we Yahwe, Elohimu wacu; amategeko ye ali ku isi yose.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku ... yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "amategeko ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:01.419130784Z",
+  "model": "glm-5.3"
+}

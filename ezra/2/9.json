@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Zakayi, amajana indwi na mirongo itandatu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Zakayi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mirongo itandatu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:13:57.195565184Z",
+  "model": "glm-5.3"
+}

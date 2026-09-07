@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Labani arabwira ati: Ntibikorwa ko mu gihugu cyacu, guha umukobwa muto imbere y'ukurambere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira ati"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nti-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bikorwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "mu gihugu cyacu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "guha"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "umukobwa muto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ukurambere"
+    }
+  ],
+  "timestamp": "2026-09-07T08:03:01.415413532Z",
+  "model": "glm-5.3"
+}

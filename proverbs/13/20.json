@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ugenda ⟨את⟩ abahanga arabaho ubwenge; ariko ujyana n'abata arabazimira.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "abahanga"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "arabaho ubwenge"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ujyana"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "abata"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "arabazimira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:13.415204088Z",
+  "model": "glm-5.3"
+}

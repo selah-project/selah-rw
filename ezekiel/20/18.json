@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "ezekiel 20:18",
+ "book": "ezekiel",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Maze mbwira abana babo mu butayu nti: Mu ntegeko z'abakurambere banyu ntimuzagenda, na ⟨את⟩ imanza zabo ntimuzifate, kandi ntimuyivune ibigirwamana byabo.",
+ "tokens": [
+  {
+   "surface": "וָאֹמַר",
+   "gloss": "mbwira"
+  },
+  {
+   "surface": "אֶל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "בְּנֵיהֶם",
+   "gloss": "abana babo"
+  },
+  {
+   "surface": "בַּמִּדְבָּר",
+   "gloss": "mu butayu"
+  },
+  {
+   "surface": "בחוקי",
+   "gloss": "mu ntegeko za"
+  },
+  {
+   "surface": "אבותיכם",
+   "gloss": "abakurambere banyu"
+  },
+  {
+   "surface": "אַל",
+   "gloss": "ntimu-"
+  },
+  {
+   "surface": "תֵלֵכוּ",
+   "gloss": "zagenda"
+  },
+  {
+   "surface": "וְאֶת",
+   "gloss": "na ⟨את⟩",
+   "marks": "imanja zabo"
+  },
+  {
+   "surface": "מִשְׁפְּטֵיהֶם",
+   "gloss": "imanja zabo"
+  },
+  {
+   "surface": "אַל",
+   "gloss": "ntimu-"
+  },
+  {
+   "surface": "תִּשְׁמֹרוּ",
+   "gloss": "zifate"
+  },
+  {
+   "surface": "וּבְגִלּוּלֵיהֶם",
+   "gloss": "mu bigirwamana byabo"
+  },
+  {
+   "surface": "אַל",
+   "gloss": "ntimu-"
+  },
+  {
+   "surface": "תִּטַּמָּאוּ",
+   "gloss": "yivune"
+  }
+ ],
+ "timestamp": "2026-09-07T16:59:31.232479256Z",
+ "model": "glm-5.3"
+}

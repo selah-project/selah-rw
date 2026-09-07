@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ntimukore nk'ibyo twikorera hano uyu munsi, umuntu wese ibyo agomba imbere y'amaso ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntimukore"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ntimukore"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "nk'ibyo ... byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "twikorera"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dukora"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu wese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyo ... byose"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "agomba"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "imbere y'amaso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T10:59:10.907418894Z",
+  "model": "glm-5.3"
+}

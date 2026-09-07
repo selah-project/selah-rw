@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Kuko uko ni ko Yahwe yaravuze: ubwatowe bw'inkazi buzakurwaho, n'ibyafatwe n'umwangazi bizakiranwa; na ⟨את⟩ abahwanye nawe ni njye nzahwana, kandi na ⟨את⟩ abana bawe ni njye ndazura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "−⟨no⟩"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ubwatowe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bw'inkazi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "buzakurwaho"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "n'ibyafatwe"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "n'umwangazi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bizakiranwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahwanye nawe"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "abahwanye nawe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nzahwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana bawe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abana bawe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ndazura"
+    }
+  ],
+  "timestamp": "2026-09-07T15:25:00.926925595Z",
+  "model": "glm-5.3"
+}

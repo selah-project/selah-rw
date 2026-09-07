@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "No mu ntuga y'umuryango wa Menashshe ⟨את⟩ Taanaku na ⟨את⟩ ibyanya byayo, na ⟨את⟩ Gath-Rimonu na ⟨את⟩ ibyanya byayo; imidugudu ibiri.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "No mu ntuga"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "y'umuryango"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "wa Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanaku"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyanya byayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gath-Rimonu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ibyanya byayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ibiri"
+    }
+  ],
+  "timestamp": "2026-09-07T11:42:14.025263227Z",
+  "model": "glm-5.3"
+}

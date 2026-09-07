@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Kugeza hehe, Yahwe? Urakaze ku iteka? Ubwibone bwawe buzayaka nka umuriro.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "urakaze"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "buzayaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ubwibone bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:46.815146497Z",
+  "model": "glm-5.3"
+}

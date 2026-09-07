@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Adonayi Yahwe azaza ⟨kuri njye⟩; ⟨kubera⟩ iko ntinashyizeho isoni, ⟨kubera⟩ iko nashyize ido ryanjye nk'urutare rw'urubaya, kandi nazi ko nta nzasoniwa.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "kandi Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kuri njye⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kubera⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "nashyizeho isoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kubera⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iko"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ido ryanjye"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "nk'urutare rw'urubaya"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "kandi nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nzasoniwa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:28:03.153897844Z",
+  "model": "glm-5.3"
+}

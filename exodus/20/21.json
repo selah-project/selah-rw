@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "exodus 20:21",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Abantu bahagaze kure, Moshe na we yegereje umwijima mwinshi aho Elohimu yari.",
+ "tokens": [
+  {
+   "surface": "ויעמד",
+   "gloss": "bahagaze"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "מרחק",
+   "gloss": "kure"
+  },
+  {
+   "surface": "ומשה",
+   "gloss": "Moshe na we"
+  },
+  {
+   "surface": "נגש",
+   "gloss": "yegereje"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "הערפל",
+   "gloss": "umwijima mwinshi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "aho"
+  },
+  {
+   "surface": "שם",
+   "gloss": "ahari"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohimu"
+  }
+ ],
+ "timestamp": "2026-09-07T08:52:26.862040386Z",
+ "model": "glm-5.3"
+}

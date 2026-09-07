@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Ibi bizo handikwa ku muryango w'abazaza nyuma, kandi abantu bazaremwa bazasingiza Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "bizo handikwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ku muryango w'"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "abazaza nyuma"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi abantu"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "bazaremwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "bazasingiza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:31.889951948Z",
+  "model": "glm-5.3"
+}

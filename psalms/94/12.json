@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Umuneza ⟨ni⟩ uko, umugabo uwo wehanura, Yah, kandi kuri Tora yawe umwigisha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Umuneza"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "wehanura"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "kuri Tora yawe"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "umwigisha"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:50.788534320Z",
+  "model": "glm-5.3"
+}

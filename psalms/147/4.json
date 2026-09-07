@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Arabara umubare w'inyenyeri; ku zose araziraha amazina.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "arabara"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "w'inyenyeri"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ku zose"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "araziraha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:41.348921101Z",
+  "model": "glm-5.3"
+}

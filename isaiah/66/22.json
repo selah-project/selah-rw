@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Kuko uko ijuru rishya n'isi nshya jye nkora bizahorananga imbanzirikwa yanjye — amagambo ya Yahwe — uko ni ko urubyaro rwanyu n'izina ryanyu bizahorananga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "rishya"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nshya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nkora"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bizahorananga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbanzirikwa yanjye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amagambo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko ni ko"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bizahorananga"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "urubyaro rwanyu"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "n'izina ryanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:38:01.664415249Z",
+  "model": "glm-5.3"
+}

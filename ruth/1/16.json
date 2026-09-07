@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Rutu yaravuze ati: Ntunkangurire ngo ndakureke, ngo ngarukire inyuma yawe; kuko ku aho uzagenda, nzagenda, no aho uzaturika, nzaturika: ubwoko bwawe ⟨ni⟩ ubwoko bwanjye, na Elohimu yawe ⟨ni⟩ Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rutu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "-nkangurire"
+    },
+    {
+      "surface": "בי",
+      "gloss": "njye (-n-)"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "ngo ndakureke"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ngo ngarukire"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "inyuma yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "uzagenda"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "no aho"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "uzaturika"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "nzaturika"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ubwoko bwawe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ubwoko bwanjye"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "na Elohimu yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:46:39.435019884Z",
+  "model": "glm-5.3"
+}

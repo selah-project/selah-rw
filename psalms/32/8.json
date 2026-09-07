@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Nzakwigisha kandi nzakuyobora mu nzira uzagenda; nzagira inama, amaso yanjye aba ku wewe.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Nzakwigisha"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "nzakuyobora"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uzagenda"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "nzagira inama"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wewe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:43.392027794Z",
+  "model": "glm-5.3"
+}

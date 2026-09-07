@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ amabuye cumi na babiri ayo bafata mu Yardeni, Yehoshuwa yayashyize ahagaze mu Gilgali.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amabuye cumi na babiri"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "cumi na babiri ⟨(ibiri)⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "yashyize ahagaze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "mu Gilgali"
+    }
+  ],
+  "timestamp": "2026-09-07T11:22:14.183390130Z",
+  "model": "glm-5.3"
+}

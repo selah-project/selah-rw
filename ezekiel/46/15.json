@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Bazakora ⟨את⟩ uruhinja n'⟨את⟩ igitambo cy'ifu n'⟨את⟩ amavuta mu gitondo ku gitondo — igitambo cy'umuriro kitagira umunsi kigarukaho.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Bazakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhinja"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "uruhinja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "igitambo cy'ifu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "igitambo cy'ifu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ku gitondo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "igitambo cy'umuriro"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kitagira umunsi kigarukaho"
+    }
+  ],
+  "timestamp": "2026-09-07T17:25:52.370864254Z",
+  "model": "glm-5.3"
+}

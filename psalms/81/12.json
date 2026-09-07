@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Ariko abantu banjye ntibumvise ijwi ryanjye, kandi Yisraeli ntiyemeye jewe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ariko nta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kandi Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yemeye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:12.023310642Z",
+  "model": "glm-5.3"
+}

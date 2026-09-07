@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Ihunge ikibi, ukore icyiza; shakisha Shalomu (amahoro) maze uracyakurikire.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Ihunge"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ukore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "shakisha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "uracyakurikire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:33.522507863Z",
+  "model": "glm-5.3"
+}

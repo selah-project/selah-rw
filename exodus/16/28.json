@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Yahwe yaravuze kuri Moshe ati: Kugeza ryari murahakana kubahiriza amategeko yanjye na Tora yanjye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "murahakana"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kubahiriza"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amategeko yanjye"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na Tora yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:14.644298951Z",
+  "model": "glm-5.3"
+}

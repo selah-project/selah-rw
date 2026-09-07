@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ko Yisraeli yari umwana, namukundaga, mu Mitsrayimu nahamagara umwana wanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "namukundaga"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nahamagara"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "umwana wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:29.658253779Z",
+  "model": "glm-5.3"
+}

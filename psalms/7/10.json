@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Nyamuneka, ikibi cy'abakuri kihagare, kandi utunganye ugume washyizweho; kandi muhuza imitima n'impyiko Elohimu, umutunganye.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "kihagare"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyamuneka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cy'abakuri"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ugume washyizweho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "utunganye"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "muhuza"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "imitima"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "n'impyiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:24.535846628Z",
+  "model": "glm-5.3"
+}

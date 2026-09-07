@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Mu munsi mwiza ube mwiza, no mu munsi mubi urebe: Elohimu yakoreye ⟨את⟩ iki impambera y'iri, kugira ngo umuntu ntabashe kubona na kimwe nyuma ye.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mu munsi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ube"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mu bwiza"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "no mu munsi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mubi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "urebe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "impambera y'"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "impamvu ya"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "abashe kubona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma ye"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na kimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:24.043081795Z",
+  "model": "glm-5.3"
+}

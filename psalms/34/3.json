@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Mu Yahwe ko nefeshi yanjye iravuga ikuzo; abanyabujambaro bumvise bakanishimira.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Mu Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "iravuga ikuzo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abanyabujambaro"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bakanishimira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:37.439244558Z",
+  "model": "glm-5.3"
+}

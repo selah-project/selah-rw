@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mumve rwose ⟨את⟩ ibi Yahwe avuga: Haguruka, koresha urubanza ⟨את⟩ imisozi, maze imirambi ikumve ijwi ryawe.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Haguruka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "koresha urubanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imisozi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "ikumve"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "imirambi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ijwi ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:52:12.419373101Z",
+  "model": "glm-5.3"
+}

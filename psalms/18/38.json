@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ndikurikira abanzi banjye maze ndabatsinda, kandi ntindutse kugeza bahindukiye.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ndikurikira"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "maze ndabatsinda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ntindutse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "bahindukiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:07.506296675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Uyu munsi Yahwe Elohimu wawe agutegeka gukora ⟨את⟩ ibyitegeko bi na ⟨את⟩ imitegeko n'imyanzuro; maze uzayibike kandi uzayikore ⟨את⟩ ibyo mu mutima wawe wose no mu nefeshi yawe yose.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "agutegeka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyitegeko bi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ibyitegeko bi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imitegeko n'imyanzuro"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imitegeko n'imyanzuro"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "maze uzayibike"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "kandi uzayikore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ibyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu wose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mutima wawe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu wose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshi yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:11:43.899208593Z",
+  "model": "glm-5.3"
+}

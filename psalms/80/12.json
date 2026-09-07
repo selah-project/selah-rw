@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Yatumye amashami yayo kugeza mu nyanja, no ku mugezi yateye ibishishwa byayo.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "yatumye"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "amashami yayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mu nyanja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mugezi"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ibishishwa byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:33.714963537Z",
+  "model": "glm-5.3"
+}

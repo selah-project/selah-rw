@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Ni nde uzanyira mu mudugudu w'ibirindi? Ni nde unyobora kugera i Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "uzanyira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mu mudugudu"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "w'ibirindi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "unyobora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "i Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:12.092673248Z",
+  "model": "glm-5.3"
+}

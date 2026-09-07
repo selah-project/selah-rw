@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kandi ndinzi bwanjye mu kibaya cy'igicucu cy'urupfu, ntabwo ndinya ikibi, kuko wowe uri kumwe nanjye: inkingi yawe n'umugati wawe — ni byo banshishikaza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bwanjye"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndinzi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mu kibaya"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "cy'igicucu cy'urupfu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndinya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uri kumwe nanjye"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "inkingi yawe"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "n'umugati wawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni byo"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "banshishikaza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:26.007400786Z",
+  "model": "glm-5.3"
+}

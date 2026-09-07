@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuko wowe si Eli ukunda ububi; n'ububi ntibazaguma kuri wowe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ukunda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "bazaguma kuri wowe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ububi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:13.209749914Z",
+  "model": "glm-5.3"
+}

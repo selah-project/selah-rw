@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Barateguye ⟨את⟩ impano kugeza Yosefu yinjira saa sita, kuko bari bumvise ko ari ho bazarya umugati.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "barateguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impano"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "yinjira"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "saa sita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ari ho"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bazarya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:31.949194693Z",
+  "model": "glm-5.3"
+}

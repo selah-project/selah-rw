@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Umumalayika wa Yahwe yarabwiye kuri we ati: Nzongera kongera ⟨את⟩ urubyaro rwawe, kandi ntibizabarwa kubw'ubwingi byo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kongera"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nzongera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubyaro rwawe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubyaro rwawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zabarwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kubw'ubwingi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:07.577689858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Inshuro eshatu mu mwaka, abagabo bawe bose bazereke ⟨את⟩ ubuso bwa Adonayi Yahwe, Elohimu wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "eshatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Inshuro"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bazereke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "abagabo bawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bwa Adonayi Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "bwa Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T09:13:17.631806714Z",
+  "model": "glm-5.3"
+}

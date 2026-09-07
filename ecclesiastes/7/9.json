@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ntuhutire mu roho yawe kurakara, koko umujinya mu gituza cy'abapfapusya ni ho uruhukira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "hutire"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "mu roho yawe"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "kurakara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "umujinya"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "mu gituza"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "cy'abapfapusya"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "uruhukira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:10.109729717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Abana ba Yisraeli baciye batuye mu gitugu cya Kenaani, cya Heti, cya Emori, cya Perizi, cya Hivi na cya Yevusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu gitugu cya"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Heti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "cya Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "cya Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "cya Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na cya Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:21.560969922Z",
+  "model": "glm-5.3"
+}

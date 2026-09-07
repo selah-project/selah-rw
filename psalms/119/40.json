@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Raba, mpendezeho amabwiriza yawe; mu butungane bwawe mpana ubuzima.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "mpendezeho"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mu butungane bwawe"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mpana ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:04.404536630Z",
+  "model": "glm-5.3"
+}

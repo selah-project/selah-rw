@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Koko urubanza ruzagaruka ku butungane, kandi nyuma rwayo ab'imitima myiza bose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "rizagaruka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "kandi nyuma rwayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "imyiza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "imitima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:06.493116470Z",
+  "model": "glm-5.3"
+}

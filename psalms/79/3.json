@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Barasize amaraso yabo nka amazi inkiko yose ya Yerushalayimu, nta wabazika.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "barasize"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "amaraso yabo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nka amazi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "inkiko yose ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "wabazika"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:51.554502849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ese abantu babiri bagendana umpende batanze?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "bagendana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abantu babiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "umpende"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kitari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "batanze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:31.585857036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "psalms 104:11",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 104,
+ "translation": "Izanywesha inyamaswa zose zo mu murima; indogori z'ishyamba zitatura umunyisho wazo.",
+ "tokens": [
+  {
+   "surface": "ישקו",
+   "gloss": "izanywesha"
+  },
+  {
+   "surface": "כל",
+   "gloss": "zose"
+  },
+  {
+   "surface": "חיתו",
+   "gloss": "inyamaswa zo"
+  },
+  {
+   "surface": "שדי",
+   "gloss": "mu murima"
+  },
+  {
+   "surface": "ישברו",
+   "gloss": "zitatura"
+  },
+  {
+   "surface": "פראים",
+   "gloss": "indogori z'ishyamba"
+  },
+  {
+   "surface": "צמאם",
+   "gloss": "umunyisho wazo"
+  }
+ ],
+ "timestamp": "2026-09-07T18:41:57.261240257Z",
+ "model": "glm-5.3"
+}

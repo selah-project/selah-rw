@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 1:1",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ijwi rya Yahwe ryagejejwe kwa Tsefanyahu, umwana wa Kushiyu, umwana wa Gedalayahu, umwana wa Amarayahu, umwana wa Hizikiyahu, mu gihe cya Yoshiyahu umwana wa Amonu, umwami w'igihugu cya Yehuda.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryagejejwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "(ryagejejwe)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "Kushiyu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedalayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu gihe cya"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-07T17:56:00.884080447Z",
+  "model": "glm-5.3"
+}

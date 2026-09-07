@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yahwe yaravugiye kuri Moshe (Mose) ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravugiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T10:06:18.183100112Z",
+  "model": "glm-5.3"
+}

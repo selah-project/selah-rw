@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Mu rusengero rwawe ruri hejuru ya Yerushalayimu (Yerusalemu), abami bazakuzanira impano.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Mu rusengero rwawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bazazana"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "שי",
+      "gloss": "impano"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:49.996518022Z",
+  "model": "glm-5.3"
+}

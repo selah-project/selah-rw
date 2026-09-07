@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Impyisi ze zaaye isi yose; isi yabibonye, irahinda.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "zaaye urumuri"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "impyisi ze"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "yabibonye"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "irahinda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:52.546729470Z",
+  "model": "glm-5.3"
+}

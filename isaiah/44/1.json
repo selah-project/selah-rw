@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "None ubu umva, Yaakovu umugaragu wanjye, na Yisraeli namusemo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisraeli"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nahisemo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-mu-"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:03.865377896Z",
+  "model": "glm-5.3"
+}

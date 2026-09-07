@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 15:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze yabwiye Avurahamu (Aburahamu) ati: Umenye mu kumenya ko urubyaro rwe azaba umunyamahanga mu gihugu atari cyabo, bazababarunga bakababaza ⟨את⟩ bo, imyaka amajana ane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avurahamu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mu kumenya"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "umenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umunyamahanga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "azaba"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urubyaro rwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cyabo"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "bazababarunga"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "bakababaza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (urubyaro rwe)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "y'imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:34.464582668Z",
+  "model": "glm-5.3"
+}

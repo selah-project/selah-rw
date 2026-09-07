@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ntushake ubwiza bwayo mu mutima wawe, kandi ntiyakure ku bishishi bye by'amaso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ushake (kuncuza)"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ubwiza bwayo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mu mutima wawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "yakure"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "ku bishishi bye by'amaso"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:30.203764064Z",
+  "model": "glm-5.3"
+}

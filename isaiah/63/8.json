@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Yaravuze ati: Ni abantu banjye, ni bo — abahungu ntibarya ibinyoma; maze aba umukiza wabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "barya ibinyoma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze aba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "umukiza"
+    }
+  ],
+  "timestamp": "2026-09-07T15:32:02.597306753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Amajambo ya Yiremyahu (Yirimiya), umwana wa Hilikiyahu, mu baherezi bari i Anatoti, mu gihugu cya Binyamini.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amajambo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilikiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baherezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "i Anatoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    }
+  ],
+  "timestamp": "2026-09-07T15:39:17.642946729Z",
+  "model": "glm-5.3"
+}

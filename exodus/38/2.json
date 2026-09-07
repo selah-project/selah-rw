@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "exodus 38:2",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 38,
+ "translation": "Yakoze amahembe yacyo ku mfuruka zacyo z'ine; amahembe yacyo yari muri cyo; aranashe ⟨את⟩ we ⟨את⟩ umuringa.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "Yakoze"
+  },
+  {
+   "surface": "קרנתיו",
+   "gloss": "amahembe yacyo"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "ארבע",
+   "gloss": "ine"
+  },
+  {
+   "surface": "פנתיו",
+   "gloss": "mfuruka zacyo"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "muri cyo"
+  },
+  {
+   "surface": "היו",
+   "gloss": "yari"
+  },
+  {
+   "surface": "קרנתיו",
+   "gloss": "amahembe yacyo"
+  },
+  {
+   "surface": "ויצף",
+   "gloss": "aranashe"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "igicaniro (umuringa wo kunyuraho)"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "umuringa"
+  }
+ ],
+ "timestamp": "2026-09-07T09:21:08.425630560Z",
+ "model": "glm-5.3"
+}

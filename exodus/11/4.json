@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Moshe (Mose) yaravuze ati: Uko ari ko Yahwe avuga: mu gice cy'ijoro njye ndasohoka mo mu Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Uko ari ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "mu gice cy'"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ijoro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ndasohoka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:06.116805513Z",
+  "model": "glm-5.3"
+}

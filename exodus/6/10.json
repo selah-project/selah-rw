@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Yahwe yabwira Moshe ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yabwira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:08.610134332Z",
+  "model": "glm-5.3"
+}

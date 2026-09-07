@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Ntibavuge mu mutima wabo ati: He! ⟨ni⟩ Nefeshi yacu; ntibavuge bati: Tumaze kumuvinga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bavuge"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mutima wabo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshi yacu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bavuge"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "tumaze kumuvinga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:26.697195465Z",
+  "model": "glm-5.3"
+}

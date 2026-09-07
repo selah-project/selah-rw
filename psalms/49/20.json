@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "azasanga ⟨umuryango⟩ w'abakurambere be; iteka ridashira ntibazabona ⟨uru rumuri⟩.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "azasanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨kuri⟩"
+    },
+    {
+      "surface": "דור",
+      "gloss": "⟨umuryango⟩"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "w'abakurambere be"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ridashira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazabona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨uru rumuri⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:00.591259447Z",
+  "model": "glm-5.3"
+}

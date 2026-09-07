@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze umuntu yunamira, umuntu yigwa hasi; kandi ntuzazamura ⟨ba bandi⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "maze yunamira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "yigwa hasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nt-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uzazamura"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bandi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:35:56.376618714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 134,
+  "translation": "Yahwe akuguhe umugisha avuye i Tsiyoni, We uremye amajuru n'isi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "akuguhe umugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "avuye i Tsiyoni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "uremye"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amajuru"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "n'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:53.925338482Z",
+  "model": "glm-5.3"
+}

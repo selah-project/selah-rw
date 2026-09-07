@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze abantu baravuga bati Shemuweli we: Ni nde wavuze ati Shauli yategeka twe? Muzatange abo bagabo, tuzabica.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "baravuga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yategeka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "muzatange"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abo bagabo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "tuzabica"
+    }
+  ],
+  "timestamp": "2026-09-07T12:28:55.535548739Z",
+  "model": "glm-5.3"
+}

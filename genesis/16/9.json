@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Umumalayika wa Yahwe yarabwiye kuri we ati: Subira kwa shebuja wawe, unyweho ibande munsi y'ibiganza bye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "subira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "shebuja wawe"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "unyweho ibande"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ibiganza bye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:07.575259465Z",
+  "model": "glm-5.3"
+}

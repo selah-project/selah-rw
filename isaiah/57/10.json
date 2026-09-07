@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Kubw'ubwinshi bw'inzira zawe waragijwe, ariko ntiwavuze nti: ntabuha; ubuzima b'ukuboko kwawe wabonye, ni cyo mpamvu ntaguye.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "kubw'ubwinshi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "inzira zawe"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "waragijwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ntabuha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ubuzima"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "k'ukuboko kwawe"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wabonye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni cyo mpamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "waguye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:29:33.112981031Z",
+  "model": "glm-5.3"
+}

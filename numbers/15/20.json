@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ibya mbere w'ifu yanyu — umugati — muzazamura nk'iterumah, uko muzamura iterumah y'ahantu ho gusakaza ⟨goren⟩, ni ko muzazamura ⟨את⟩ iyi terumah.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ibya mbere"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "w'ifu yanyu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "muzazamura"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "nk'iterumah"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "uko muzamura iterumah ya"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ahuntu ho gusakaza ⟨goren⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "muzazamura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iyi terumah",
+      "marks": "iyi terumah"
+    }
+  ],
+  "timestamp": "2026-09-07T10:20:20.167823475Z",
+  "model": "glm-5.3"
+}

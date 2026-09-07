@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kuko Yahwe yari yabonye ⟨את⟩ ububabaro bwa Yisraeli ko ari bwa bikaje cyane, kandi nta uwafunzwe nta na uwatowe, kandi nta umutabazi wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yari yabonye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububabaro bwa Yisraeli"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ububabaro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bwa Yisraeli"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bwa bikaje"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "uwafunzwe"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "nta na"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "uwatowe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umutabazi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:09.774717525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Habaye ko, abantu batangira kwiyongera ku maso y'isi, maze n'abakobwa barukwa bo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "החל",
+      "gloss": "batangira"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kwiyongera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "barukwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:11.829500476Z",
+  "model": "glm-5.3"
+}

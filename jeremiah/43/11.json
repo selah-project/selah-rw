@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Azaza arakubita ⟨את⟩ igihugu cya Mitsrayimu: abagenewe urupfu n'urupfu, abagenewe ubucakara n'ubucakara, abagenewe urupanga n'urupanga.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Azaza"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "arakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu cya Mitsrayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abagenewe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "n'urupfu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "abagenewe"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ubucakara"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "n'ubucakara"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "abagenewe"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "urupanga"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "n'urupanga"
+    }
+  ],
+  "timestamp": "2026-09-07T16:27:08.378317647Z",
+  "model": "glm-5.3"
+}

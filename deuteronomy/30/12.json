@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Ntiri mu ijuru, ngo uvuge uti: Ni nde uzazamungira mu ijuru, ayizane kuri twe, atume tumva ⟨את⟩, kandi tuyireho?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntiri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo uvuge uti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uzazamungira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mu ijuru"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ayizane"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "atume tumva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kandi tuyireho"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "kandi tuyireho"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:19.253496556Z",
+  "model": "glm-5.3"
+}

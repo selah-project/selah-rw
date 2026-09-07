@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umugabo we arabyumva aracyugira amarebe iwe, atamubujije ⟨את⟩; amasezerano ye yose arahagaza, kandi urubingo rwose yahuriye ku Nefeshi ye rurahagara.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "arabyumva"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umugabo we"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "aracyugira amarebe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "abujije"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "atamubujije"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "arahagaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "amasezerano ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'urubingo rwose"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "urubingo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "yahuriye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "Nefeshi ye"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "rurahagara"
+    }
+  ],
+  "timestamp": "2026-09-07T10:37:36.399519705Z",
+  "model": "glm-5.3"
+}

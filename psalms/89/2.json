@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Hesedi za Yahwe mu iteka ryose ni izo ndimbaho; ku muryango n'umuryango nzamenyesha ukwizera kwawe mu kanjye.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mu iteka ryose"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndimbaho"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'umuryango"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "nzamenyesha"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukwizera kwawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mu kanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:03.559497667Z",
+  "model": "glm-5.3"
+}

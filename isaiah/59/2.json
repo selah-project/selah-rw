@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 59:2",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 59,
+ "translation": "Ahubwo ibicumuro byanyu byabaye ibyatandukanyije hagati yanyu n'Elohimu yanyu, kandi ibyaha byanyu byahishe ⟨את⟩ amaso aturutse kuri mwe, mu kwumva.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "אם",
+   "gloss": "ahubwo"
+  },
+  {
+   "surface": "עונתיכם",
+   "gloss": "ibicumuro byanyu"
+  },
+  {
+   "surface": "היו",
+   "gloss": "byabaye"
+  },
+  {
+   "surface": "מבדלים",
+   "gloss": "ibyatandukanyije"
+  },
+  {
+   "surface": "בינכם",
+   "gloss": "hagati yanyu"
+  },
+  {
+   "surface": "לבין",
+   "gloss": "n'"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimu yanyu"
+  },
+  {
+   "surface": "וחטאותיכם",
+   "gloss": "kandi ibyaha byanyu"
+  },
+  {
+   "surface": "הסתירו",
+   "gloss": "byahishe"
+  },
+  {
+   "surface": "פנים",
+   "gloss": "amaso"
+  },
+  {
+   "surface": "מכם",
+   "gloss": "kuri mwe",
+   "marks": "amaso"
+  },
+  {
+   "surface": "משמוע",
+   "gloss": "mu kwumva"
+  }
+ ],
+ "timestamp": "2026-09-07T15:33:17.005111058Z",
+ "model": "glm-5.3"
+}

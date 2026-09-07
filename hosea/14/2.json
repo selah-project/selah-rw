@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Subira, Yisraeli, kwa Yahwe Elohimu wawe, kuko wahanaguwe n'icyaha cyawe.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Subira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "wahanaguwe"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "n'icyaha cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:56.905807573Z",
+  "model": "glm-5.3"
+}

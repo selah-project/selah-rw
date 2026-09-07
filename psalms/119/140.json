@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ijambo ryawe ryorohewe cyane, kandi umugaragu wawe rirayikunda.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "ryorohewe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Ijambo ryawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rirayikunda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:32.474512388Z",
+  "model": "glm-5.3"
+}

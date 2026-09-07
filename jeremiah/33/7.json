@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Maze nzagarura ⟨את⟩ amahirwe ya Yahuda na ⟨את⟩ amahirwe ya Yisraeli, kandi nzazubaka nk'uko byari mbere.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Maze nzagarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahirwe ya Yahuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "amahirwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amahirwe ya Yisraeli"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "amahirwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "kandi nzazubaka"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "nk'uko byari mbere"
+    }
+  ],
+  "timestamp": "2026-09-07T16:15:40.911007452Z",
+  "model": "glm-5.3"
+}

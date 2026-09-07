@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Bibiri bibiri byinjiye kwa Noahi, mu mwato, ingabo n'ingore, nko Elohimu yategetse ⟨את⟩ Noahi.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "באו",
+      "gloss": "byinjiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "umwato"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingabo"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "n'ingore"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noahi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:54.115527934Z",
+  "model": "glm-5.3"
+}

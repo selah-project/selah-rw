@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kwicara kwawe kiri hagati mu bwenzi; mu bwenzi bahakanye kumenya ⟨את⟩, ibwiriza rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "kwicara kwawe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mu bwenzi"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "mu bwenzi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bahakanye"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kumenya"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "kumenya (אותי ifite imfungugwa -י 'njye')"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ibwiriza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:49:54.766729089Z",
+  "model": "glm-5.3"
+}

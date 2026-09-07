@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Yacitse ⟨את⟩ ibishusho, agize ⟨את⟩ ibiti by'Ashera, maze yuzuye ⟨את⟩ aho ari ho amagufwa y'abantu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Yacitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibishusho"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ibishusho"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "agize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiti by'Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ibiti by'Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aho ari ho"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "aho ari ho"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amagufwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:35:39.655353263Z",
+  "model": "glm-5.3"
+}

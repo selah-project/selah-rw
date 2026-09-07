@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Baravuze mu mutima wabo bati: Turabanyarire u rumwe; barashye byose ahantu ho kwihuriraho h'Eli mu gihugu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Baravuze"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mutima wabo"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "Turabanyarire"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "u rumwe"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "barashye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ahantu ho kwihuriraho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:39.338194895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Bamuhanitse ⟨את⟩ Hamani ku giti yari yateguriye kuri Mordekayi, maze uburakari bw'umwami burarahuye.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "bamuhanitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yari yateguriye"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuri Mordekayi"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "maze uburakari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bw'umwami"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "burarahuye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:00:33.863653517Z",
+  "model": "glm-5.3"
+}

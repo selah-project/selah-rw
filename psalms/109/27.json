@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Bamenye ko iyi ari intoki yawe: wowe, Yahwe, ni wowe wabikoze.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Bamenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wabikoze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:30.400572228Z",
+  "model": "glm-5.3"
+}

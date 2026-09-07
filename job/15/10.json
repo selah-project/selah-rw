@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Na umukuru w'imyaka na umukuru cyane ari natwe — bararenza se wawe imyaka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שב",
+      "gloss": "umukuru w'imyaka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "umukuru cyane"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ari natwe"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "bararenza"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "se wawe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:27:30.533113922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Inzara yabaye mu isi, uretse inzara ya mbere yari mu gihe c'Avrahamu (Aburahamu); Yitsaki (Isaka) arahaguruka ajya kwa Avimeleki, umwami w'Abapilisiti, i Gerara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yabaye"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "uretse"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "arahaguruka ajya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abapilisiti"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "i Gerara"
+    }
+  ],
+  "timestamp": "2026-09-07T07:58:21.755177276Z",
+  "model": "glm-5.3"
+}

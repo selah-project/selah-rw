@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Barashyuhe bose nk'igikanu, barariye ⟨את⟩ abacamanza babo; abami babo bose baraguye; nta n'umwe mu bose uhamagara Yahanze.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "barashyuhe"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "nk'igikanu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "barariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abacamanza babo"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "abacamanza babo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "abami babo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "baraguye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta n'umwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "uhamagara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu bose"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Yahanze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:02.081834557Z",
+  "model": "glm-5.3"
+}

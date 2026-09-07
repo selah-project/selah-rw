@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ubutungane bw'ibyemezo byawe ni bw'iteka; nyigisha ubwenge, maze ndebe kandi nzaho.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ubutungane"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bw'ibyemezo byawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ni bw'iteka"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "nyigisha ubwenge"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "maze nzaho"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:41.871700903Z",
+  "model": "glm-5.3"
+}

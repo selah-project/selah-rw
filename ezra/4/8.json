@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Rehumu, umutware w'ubwenge, na Shimushayi umuhanditsi, baranditse ibaruwa imwe ku Yerushalayimu, kuri Artahshashta umwami, bagira bati.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehumu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "umutware wa"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "na Shimushayi"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "umuhanditsi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "baranditse"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "ibaruwa"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "kuri Artahshashta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "bagira bati"
+    }
+  ],
+  "timestamp": "2026-09-07T20:16:27.105659914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzafata ⟨את⟩ imyambaro, maze umwambarisha ⟨את⟩ Aharoni ⟨את⟩ ikoti, na ⟨את⟩ umwenda w'efodu, na ⟨את⟩ efodu, na ⟨את⟩ hosheni, maze umufata n'uruhu rworodwe rw'efodu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "maze umwambarishisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikoti"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ikoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwenda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "w'efodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "efodu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheni"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "uzamufatiriza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "n'uruhu rworodwe"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "rw'efodu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:38.629829743Z",
+  "model": "glm-5.3"
+}

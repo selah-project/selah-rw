@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ubwoko bwemeye, bumva ko Yahwe yagiye gutembera ⟨את⟩ abana ba Yisraeli, ko yabonye ⟨את⟩ ububabare bwabo, maze barara, bubama.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "bwemeye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ubwoko"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "bumva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yagiye gutembera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na ko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububabare bwabo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ububabare bwabo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "barara"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bubama"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:09.192660098Z",
+  "model": "glm-5.3"
+}

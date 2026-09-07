@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kohenu azamura mu impano ⟨את⟩ urwibutso rwayo, maze aziriyaka ku igicaniro — igitungwa cy'umuriro, impumuro nziza kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "azamura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "impano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwibutso rwayo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "urwibutso rwayo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "aziriyaka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku igicaniro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igitungwa cy'umuriro"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "impumuro"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:50.786224297Z",
+  "model": "glm-5.3"
+}

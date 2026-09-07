@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe yaravuze kuri Menashu no ku bantu be, ariko ntibyumvise.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bantu be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "byumvise"
+    }
+  ],
+  "timestamp": "2026-09-07T21:02:33.766033747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko ⟨את⟩ uwo Yahwe yakunda ⟨ni⟩ we aramwubura, nk'uko se ⟨את⟩ umwana yishimira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "yakunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "aramwubura"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "kandi nka se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "yishimira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:00.372564551Z",
+  "model": "glm-5.3"
+}

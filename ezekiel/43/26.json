@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "ezekiel 43:26",
+ "book": "ezekiel",
+ "lang": "rw",
+ "chapter": 43,
+ "translation": "Mu minsi irindwi bazakiza ⟨את⟩ igicaniro maze baracyeza ⟨את⟩ we, maze baruzuza intoki zaryo.",
+ "tokens": [
+  {
+   "surface": "שבעת",
+   "gloss": "irindwi"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "iminsi"
+  },
+  {
+   "surface": "יכפרו",
+   "gloss": "bazakiza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "igicaniro"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "igicaniro"
+  },
+  {
+   "surface": "וטהרו",
+   "gloss": "maze baracyeza"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "igicaniro"
+  },
+  {
+   "surface": "ומלאו",
+   "gloss": "maze baruzuza"
+  },
+  {
+   "surface": "ידו",
+   "gloss": "intoki zaryo"
+  }
+ ],
+ "timestamp": "2026-09-07T17:24:12.831319486Z",
+ "model": "glm-5.3"
+}

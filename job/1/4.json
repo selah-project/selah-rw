@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abahungu be bajyaga bakoroha uruhuri mu nzu ya buri muntu ku munsi we, bakayera bahamagara bashiki be batatu kurya kunywa kumwe na bo.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "bajyaga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "bakoroha"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "uruhuri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya buri muntu"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ku munsi we"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "bakayera"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "bahamagara"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "batatu"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "bashiki be"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "kunywa"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "kumwe na bo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:22.638443357Z",
+  "model": "glm-5.3"
+}

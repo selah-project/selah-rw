@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Nakina mu isi ye yose, kandi ineza yanjye iriho ⟨את⟩ abana b'abantu.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "nakina"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "mu isi yose"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "isi ye"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "kandi ineza yanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana b'abantu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:04.171074204Z",
+  "model": "glm-5.3"
+}

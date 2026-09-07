@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ku muhanyuzi, wa Dawidi: Umujiji yavuze mu mutima we ati: nta Elohimu; barumye, bakoze ibikorwa bikaze — nta ukora icyiza.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku muhanyuzi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "umujiji"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mutima we"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "barumye"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "bakoze ibikorwa bikaze"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:23.114842336Z",
+  "model": "glm-5.3"
+}

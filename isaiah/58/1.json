@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 58,
+  "translation": "Hamagara mu muhogo, ntuzibaze; nka shofari zamangaze ijwi ryawe, maze ubamenyeshe abantu banjye umworozi wabo, n'inzu ya Yaakovu ibyaha byabo.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Hamagara"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "mu muhogo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "zibaze"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "nka shofari"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "zamangaze"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ijwi ryawe"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "maze ubamenyeshe"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "umworozi wabo"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "n'inzu ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ibyaha byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:42:37.387601028Z",
+  "model": "glm-5.3"
+}

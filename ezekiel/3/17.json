@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umwana w'umuntu, umurinzi nakaguhiye ku nzu ya Yisraeli; maze uzumva ijambo rivuye mu kanjye, ukaburira ⟨את⟩ abo ku bwanjye.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Umwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nakaguhiye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "maze uzumva"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "mu kanjye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "ukaburira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abo (inzu ya Yisraeli)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ku bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T16:44:18.842538921Z",
+  "model": "glm-5.3"
+}

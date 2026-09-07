@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 76,
+  "translation": "Aho yacitse urumuri rw'umwambi w'akabari, umudashyi, n'icyohe, n'intambara. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "urumuri rw'umwambi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "w'akabari"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "umudashyi"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "n'icyohe"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "n'intambara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:01.245561210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Moshe abwira abantu ati: Ntimutinye, kuko Elohimu yaje kugira ngo aberagera ⟨את⟩ mwe, no kugira ngo ubwoba bwe bube imbere y'amaso yanyu, mutazaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ati (ku)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mutinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "aberagera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "no kugira ngo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bube"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ubwoba bwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "maso yanyu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ntibihave ko"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mutazaha"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:42.903186210Z",
+  "model": "glm-5.3"
+}

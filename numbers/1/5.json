@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi aya ni amazina y'abagabo bazahagara ⟨את⟩ muri mwe: kwa Reubeni (Rubeni), Elitsuru mutwa wa Shedeuru.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kandi aya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "y'abagabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bazahagara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "muri mwe"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kwa Reubeni (Rubeni)"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsuru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mutwa wa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeuru"
+    }
+  ],
+  "timestamp": "2026-09-07T09:55:32.473737801Z",
+  "model": "glm-5.3"
+}

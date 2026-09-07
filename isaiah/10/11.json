@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Eti nkouko nakoreye Shomeroni n'ibigirwamana byayo, ni ko nzakora i Yerushalayimu n'ibishushanyo byayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nkouko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoreye"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "n'ibigirwamana byayo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "n'ibishushanyo byayo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:37.295437311Z",
+  "model": "glm-5.3"
+}

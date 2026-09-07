@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Jye navuze mu bwihutse bwanjye: abantu bose ni abeshyi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "mu bwihutse bwanjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ni abeshyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:18.563980302Z",
+  "model": "glm-5.3"
+}

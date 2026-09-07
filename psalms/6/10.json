@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yazwi ikibazo cyanjye; isengesho ryanjye Yahwe azakira.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ikibazo cyanjye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengesho ryanjye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azakira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:19.385449268Z",
+  "model": "glm-5.3"
+}

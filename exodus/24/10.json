@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Bakanagara ⟨את⟩ Elohimu w'i Yisraeli; hasi ku bitaro bye hari nk'igikorwa cy'umweru wa safire, no nk'imiterere y'ijuru mu kubuntu bwacyo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bakanagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu w'i Yisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'i Yisraeli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ku bitaro bye"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "nk'igikorwa"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "cy'umweru"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "wa safire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "no nk'imiterere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'ijuru"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "mu kubuntu bwacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:07.022353622Z",
+  "model": "glm-5.3"
+}

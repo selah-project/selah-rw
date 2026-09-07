@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yahwe, Elohimu wawe, ni we uzambuka imbere yawe; ni we uzahonya ⟨את⟩ ibi bihugu imbere yawe, maze uzabitunga; Yehoshuwa (Yosuwa) ni we uzambuka imbere yawe, nk'uko Yahwe yavuze.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uzambuka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "uzahonya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibi bihugu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ibihugu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "maze uzabitunga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa (Yosuwa)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uzambuka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:44.962404260Z",
+  "model": "glm-5.3"
+}

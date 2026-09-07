@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Icyiciro cya cumi mushyiraho ⟨את⟩ umusaruro wose w'imbuto zanyu, umurima uhava, umwaka ku mwaka.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "icyiciro cya cumi"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "mushyiraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusaruro wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "umusaruro"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "w'imbuto zanyu"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "uhava"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ku mwaka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:15.258327396Z",
+  "model": "glm-5.3"
+}

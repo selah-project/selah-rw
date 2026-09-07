@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Muruvange shofaru (umunwa w'ihene) ku kwezi gishya, ku kwezi kuzuye, ku munsi w'ibirori byacu.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "muvange"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ku kwezi gishya"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofaru"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ku kwezi kuzuye"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "w'ibirori byacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:45.059291355Z",
+  "model": "glm-5.3"
+}

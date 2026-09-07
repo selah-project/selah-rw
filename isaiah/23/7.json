@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ese iyi ni yo mujye kubona ijana ryiza? Mu minsi yashize yari imbere, yari iri kera ibaye imbere; amaguru ye yayoheje kure, ajya kwiguma nk'umunya mahanga.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe\/mujye"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "ijana ryiza"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mu minsi ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "yashize"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "kera ibaye imbere"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "yayoheje"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "amaguru ye"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "kwiguma nk'umunya mahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T14:59:07.423639826Z",
+  "model": "glm-5.3"
+}

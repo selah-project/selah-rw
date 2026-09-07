@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yasubanye inyuma yiwe, maze afata ⟨את⟩ apari y'inka, maze yayitema, akoresha ibikoresho by'inka atek'inyama, maze aha abantu, maze barya; hanyuma yahaguruka, aracyikurikira Eliyahu, maze amufasha.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Yasubanye inyuma yiwe"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "inyuma yiwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apari y'inka"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "apari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "y'inka"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "maze yayitema"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "maze akoresha ibikoresho by'"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "yateka"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "maze barya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "hanyuma yahaguruka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "aracyenda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "maze amufasha"
+    }
+  ],
+  "timestamp": "2026-09-07T13:56:16.356820170Z",
+  "model": "glm-5.3"
+}

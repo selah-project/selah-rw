@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 112,
+  "translation": "Kuri ubwiteka ntazahwingira; intungane izaba urwibutso rw'iteka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ubwiteka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "azahwingira"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "urwibutso rw'"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "intungane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:22.001264466Z",
+  "model": "glm-5.3"
+}

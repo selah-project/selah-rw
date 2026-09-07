@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 23:5",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 23,
+ "translation": "Utegura imbere yanjye imbeho imbere y'abansi banjye; wanditse umutwe wanjye amavuta; ikirahuri cyanjye cyuzuye.",
+ "tokens": [
+  {
+   "surface": "תערך",
+   "gloss": "Utegura"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere yanjye"
+  },
+  {
+   "surface": "שלחן",
+   "gloss": "imbeho"
+  },
+  {
+   "surface": "נגד",
+   "gloss": "imbere ya"
+  },
+  {
+   "surface": "צררי",
+   "gloss": "abansi banjye"
+  },
+  {
+   "surface": "דשנת",
+   "gloss": "wanditse"
+  },
+  {
+   "surface": "בשמן",
+   "gloss": "amavuta"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "umutwe wanjye"
+  },
+  {
+   "surface": "כוסי",
+   "gloss": "ikirahuri cyanjye"
+  },
+  {
+   "surface": "רויה",
+   "gloss": "cyuzuye"
+  }
+ ],
+ "timestamp": "2026-09-07T18:13:10.861408352Z",
+ "model": "glm-5.3"
+}

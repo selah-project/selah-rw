@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Eli yarhamagaye ⟨את⟩ Shemueli, aravuga ⟨ati⟩: Shemueli, umwana wanjye. Na we aravuga ⟨ati⟩: Ndi hano.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yarhamagaye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ⟨ati⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ⟨ati⟩"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndi hano"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:41.324743400Z",
+  "model": "glm-5.3"
+}

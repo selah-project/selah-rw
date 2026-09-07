@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo yakuye umuhungu cyangwa umukobwa, uru rubanze nirwo ruzamukorerwe.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Iyo yakuye umuhungu cyangwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "yakuye"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "yakuye"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "n'urubanze"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uru"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruzamukorerwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:07.187340316Z",
+  "model": "glm-5.3"
+}

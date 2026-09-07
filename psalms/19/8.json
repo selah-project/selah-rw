@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Tora ya Yahwe iratunganye, ihindura Nefeshi; ubuhamya bwa Yahwe bwizewe, bubwira umworozi ubwenge.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "iratunganye"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ihindura"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ubuhamya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bwizewe"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bubwira... ubwenge"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "umworozi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:42.532042131Z",
+  "model": "glm-5.3"
+}

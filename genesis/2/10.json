@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "N'uruzi ruzaga mu Edeni rwoherereza ⟨את⟩ ubusitani; maze ruva ho rutandukana, rihindukira imitwe ine.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "n'uruzi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ruzaga"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "mu Edeni"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kunywisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubusitani"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ubusitani"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "maze ruva ho"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "rutandukana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "rihindukira"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "imitwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:45.422601990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "nahum 1:12",
+ "book": "nahum",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Uko ni ko Yahwe yaravuze: n'aba ari intwari kandi benshi uko, na noneho barashebwe maze ararenza; nakutoteye ntinzogutotera ubutaha.",
+ "tokens": [
+  {
+   "surface": "כה",
+   "gloss": "Uko ni ko"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "yaravuze"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אם",
+   "gloss": "n'aba"
+  },
+  {
+   "surface": "שלמים",
+   "gloss": "ari intwari"
+  },
+  {
+   "surface": "וכן",
+   "gloss": "kandi"
+  },
+  {
+   "surface": "רבים",
+   "gloss": "benshi"
+  },
+  {
+   "surface": "וכן",
+   "gloss": "uko na noneho"
+  },
+  {
+   "surface": "נגזו",
+   "gloss": "barashebwe"
+  },
+  {
+   "surface": "ועבר",
+   "gloss": "maze ararenza"
+  },
+  {
+   "surface": "וענתך",
+   "gloss": "nakutoteye"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "אענך",
+   "gloss": "nzogutotera"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "ubutaha"
+  }
+ ],
+ "timestamp": "2026-09-07T17:50:12.772765380Z",
+ "model": "glm-5.3"
+}

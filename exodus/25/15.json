@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Mu mahuri ya aroni imyanya iba; ntibazivamo muri yo.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "mu mahuri"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "iba"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "imyanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "bazivamo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:06.462470468Z",
+  "model": "glm-5.3"
+}

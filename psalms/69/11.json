@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Nararira mu itara rya Nefeshi yanjye, maze ibyo biba ibyivumo ryanjye.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "nararira"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "mu itara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "maze ibyo biba"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ibyivumo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rianjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.429660869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Reba, abyeyeho ibibi, aracyara ubugome, maze abyara ububeshi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "abyeyeho"
+    },
+    {
+      "surface": "און",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "aracyara"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubugome"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ububeshi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:17.750663619Z",
+  "model": "glm-5.3"
+}

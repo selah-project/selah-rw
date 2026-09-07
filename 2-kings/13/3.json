@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Uburakari bwa Yahwe bwarashye ku Yisraeli, maze abaha mu ntoko za Hazaeli umwami w'Aramu, no mu ntoko za Ben-Hadadi umwana wa Hazaeli, iminsi yose.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bwarashye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ku Yisraeli"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "abaha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoko"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "no mu ntoko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:22:57.555261606Z",
+  "model": "glm-5.3"
+}

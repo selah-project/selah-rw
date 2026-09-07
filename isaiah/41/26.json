@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 41:26",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ninde wabwiye ku ntangiriro twamenye, cyangwa na mbere y'ibyo tuvuge ko ari umutunganye? Nta na umwe ubwira, nta na umwe umenyesha, nta na umwe yumva amagambo yanyu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ninde"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "wabwiye"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ku ntangiriro"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "twamenye"
+    },
+    {
+      "surface": "ומלפנים",
+      "gloss": "na mbere y'ibyo"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "tuvuge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ko ari umutunganye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nta na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ubwira"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nta na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "umenyesha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nta na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "אמריכם",
+      "gloss": "amagambo yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:18:01.514434004Z",
+  "model": "glm-5.3"
+}

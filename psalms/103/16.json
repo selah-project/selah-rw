@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Kuko umuyaga uzahita ko, ntagihari; kandi ahantu yawo ntikazakimenya na none.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "uzahita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ntagihari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kimenya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na none"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ahantu yawo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:16.455227626Z",
+  "model": "glm-5.3"
+}

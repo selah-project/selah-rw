@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Dore aba nkozi z'ibibi, n'abaruhukye buri gihe, baragaburiye ubutunzi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nkozi z'ibibi"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "n'abaruhukye"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "baragaburiye"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubutunzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:53.761832083Z",
+  "model": "glm-5.3"
+}

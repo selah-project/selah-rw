@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Yahwe arubaka Yerushalayimu; abatotswe b'Yisraeli arabakoranya.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "arubaka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "abatotswe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "arabakoranya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:41.348531216Z",
+  "model": "glm-5.3"
+}

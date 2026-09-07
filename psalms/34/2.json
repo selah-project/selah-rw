@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Ndakuzeho ⟨את⟩ Yahwe buri gihe; inkuzizo ye iteka iri mu kanjye.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ndakuzeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "inkuzizo ye"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mu kanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:37.439101162Z",
+  "model": "glm-5.3"
+}

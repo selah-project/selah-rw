@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Azarayah yabyaye ⟨את⟩ Amarayah, maze Amarayah yabyaye ⟨את⟩ Akitubu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarayah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarayah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "maze Amarayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitubu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:30:53.170851003Z",
+  "model": "glm-5.3"
+}

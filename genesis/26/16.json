@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Avimelehi (Abimelehi) yabwiye ati ku Yitsaki (Isaka): Va kuva turi, ko urakomeye cyane kurusha twe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye ati"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "kuva turi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "urakomeye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kurusha twe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T07:59:21.679401842Z",
+  "model": "glm-5.3"
+}

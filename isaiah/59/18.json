@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 59:18",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ku buryo bw'ibikorwa bye ni ko azishyura: uburakari ku ndi zi be, igihano ku banzi be; ku birwa azishyura igihano.",
+  "tokens": [
+    {
+      "surface": "כעל",
+      "gloss": "ku buryo bw'"
+    },
+    {
+      "surface": "גמלות",
+      "gloss": "ibikorwa bye"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "azishyura"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "uburakari"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "ku ndi zi be"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ku banzi be"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "ku birwa"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "igihano"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "azishyura"
+    }
+  ],
+  "timestamp": "2026-09-07T15:31:26.888691734Z",
+  "model": "glm-5.3"
+}

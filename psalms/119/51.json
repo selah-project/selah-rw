@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Abantu b'ibyigome barantebereje cyane cyane, ariko sinzi nyahuurizwa ku Tora yawe.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Abantu b'ibyigome"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "barantebereje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane cyane"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ku Tora yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sinzi"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "nyahuurizwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:39.724596254Z",
+  "model": "glm-5.3"
+}

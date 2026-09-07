@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Njye, njye ⟨ni⟩ we uhanagura ibiguhe byawe ku bw'iwange, n'ibyaha byawe ntazibuke.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "uhanagura"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "ibiguhe byawe"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ku bw'iwange"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "n'ibyaha byawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "zibuke"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:30.618718239Z",
+  "model": "glm-5.3"
+}

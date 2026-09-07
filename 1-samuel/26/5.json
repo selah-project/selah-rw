@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 26:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Dawidi (Davide) yarukiye ajya mu mwanya Shauli (Sawuli) yari yagabutse aho; Dawiti arabona ⟨את⟩ umwanya Shauli yari yaryamye aho, na Avneri umwana wa Neri, umutware w'ingabo ze; Shauli yari yaryamye mu muzenguruko, abantu bagabutse izamu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yarukiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ajya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "umwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "yagabutse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "arabona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwanya"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "umwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yari yaryamye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "na Avneri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Neri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "w'ingabo ze"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yari yaryamye"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "mu muzenguruko"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "bagabutse"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "izamu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:55:26.888942191Z",
+  "model": "glm-5.3"
+}

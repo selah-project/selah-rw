@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi ntimuzarye uwese amaraso mu mibavu yanyu yose, y'inyoni no y'inyamaswa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kandi uwese"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "zarye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mibavu yanyu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "y'inyoni"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "no y'inyamaswa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:43.641644499Z",
+  "model": "glm-5.3"
+}

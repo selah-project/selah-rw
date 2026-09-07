@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Iya Dawidi. Yahwe ⟨ni⟩ umurikazi wanjye n'umukiza wanjye — ndatinya nde? Yahwe ⟨ni⟩ urwibazo rw'ubuzima bwanjye — ndakanga iki?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "umurikazi wanjye"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "n'umukiza wanjye"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndatinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "urwibazo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rw'ubuzima bwanjye"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ndakanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:09.528472643Z",
+  "model": "glm-5.3"
+}

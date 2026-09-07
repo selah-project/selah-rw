@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Inyoni z'imibyeyi zizanaga imwe none z'inyama mu gitondo, n'imwe none z'inyama mu joro, maze mu kuzimu akanyweraga amazi.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "inyoni z'imibyeyi"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "zizanaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imwe none"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imwe none"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "n'inyama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "n'imwe none"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "z'inyama"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu joro"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "maze mu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kuzimu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "akanyweraga amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:51:04.390248280Z",
+  "model": "glm-5.3"
+}

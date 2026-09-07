@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "daniel 12:9",
+ "book": "daniel",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Maze aravuga ati: Genda, Daniyeli, kuko amagambo afunganye kandi arwinge, kugeza igihe cy'impera.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga"
+  },
+  {
+   "surface": "לך",
+   "gloss": "genda"
+  },
+  {
+   "surface": "דניאל",
+   "gloss": "Daniyeli"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kuko"
+  },
+  {
+   "surface": "סתמים",
+   "gloss": "afunganye"
+  },
+  {
+   "surface": "וחתמים",
+   "gloss": "arwinge"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "amagambo"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "עת",
+   "gloss": "igihe"
+  },
+  {
+   "surface": "קץ",
+   "gloss": "cy'impera"
+  }
+ ],
+ "timestamp": "2026-09-07T22:05:12.511010464Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 129,
+  "translation": "Babe nk'ubwatsi hejuru y'amazu, iyo butakize gusohoka bunegeje.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nk'ubwatsi"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "hejuru y'amazu"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "iyo butakize"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "gusohoka"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "bunegeje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.436694028Z",
+  "model": "glm-5.3"
+}

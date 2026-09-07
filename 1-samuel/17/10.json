@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Umufilisiti yaravuze ati: Njye nshyize umubahato ⟨את⟩ ku mbaho z'ingabo za Yisraeli uyu munsi; muntere umugabo, turwane hamwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Umufilisiti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "nshyize umubahato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaho z'ingabo"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "imbaho z'ingabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "muntere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "turwane"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:38:18.564473950Z",
+  "model": "glm-5.3"
+}

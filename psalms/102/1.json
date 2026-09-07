@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Igisabisho cy'umuhombo, mu gihe yugarijwe, kandi agasesekura ibyiyumvo bye imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Igisabisho"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cy'umuhombo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "yugarijwe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "agasesekura"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ibyiyumvo bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:58.966794513Z",
+  "model": "glm-5.3"
+}

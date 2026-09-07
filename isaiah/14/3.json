@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze bizaba ku munsi Yahwe atanga uruhuko iwe — ku ngorabahizi yawe no ku gihombo cyawe, no ku mirimo myaka wakorwagamo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "atanga uruhuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "ku ngorabahizi yawe"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "no ku gihombo cyawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "imirimo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "myaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wakorwagamo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wakorewe"
+    },
+    {
+      "surface": "בך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T14:50:24.013388051Z",
+  "model": "glm-5.3"
+}

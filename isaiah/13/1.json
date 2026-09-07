@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umuzigo wa Baveli, uwo Yeshayahu umuhungu w'Amotsi yabonye.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umuzigo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "w'Amotsi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:49:39.901731962Z",
+  "model": "glm-5.3"
+}

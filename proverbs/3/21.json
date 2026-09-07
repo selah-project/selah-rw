@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Mwana wanjye, ibyo ntibivengutse ku maso yawe; rinda tushiyah n'ubwenge.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "ntibivengutse"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "ku maso yawe"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "rinda"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "tushiyah"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "n'ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:43.993586205Z",
+  "model": "glm-5.3"
+}

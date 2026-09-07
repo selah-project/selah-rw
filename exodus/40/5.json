@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uzashyire ⟨את⟩ igicaniro cya zahabu cy'ububabiro imbere y'igipapu cy'ibyangamibye, maze ushyire ⟨את⟩ uruhisho rw'umuryango rwa Mishkani ⟨ihema ry'Imana⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicaniro cya zahabu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cya zahabu"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "cy'ububabiro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igipapu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cy'ibyangamibye"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "maze ushyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhisho rw'umuryango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "uruhisho"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "rw'umuryango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "rwa Mishkani"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:58.760693636Z",
+  "model": "glm-5.3"
+}

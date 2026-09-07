@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Iyo urahinga ⟨את⟩ gitaka, ntirizongera gutanga imbaraga zaryo kuri wowe; uzaba umunyagenda n'umunyamugendo mu isi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "urahinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gitaka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "gitaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntiri-"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "zongera"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gutanga"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "imbaraga zaryo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "נע",
+      "gloss": "umunyagenda"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "n'umunyamugendo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzaba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:38.016741334Z",
+  "model": "glm-5.3"
+}

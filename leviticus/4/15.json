@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Abakuru b'umuryango bakorerere ⟨את⟩ intoki zabo ku mutwe w'inka imbere ya Yahwe, maze arayica ⟨את⟩ inka imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "bakorerere"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Abakuru"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "b'umuryango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "w'inka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "maze arayica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:27:46.343481777Z",
+  "model": "glm-5.3"
+}

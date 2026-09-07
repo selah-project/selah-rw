@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kandi Eifa, umugore wa kabiri wa Kalebu, yabyaye ⟨את⟩ Haranu na ⟨את⟩ Motsa na ⟨את⟩ Gazezu; kandi Haranu yabyaye ⟨את⟩ Gazezu.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Kandi Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "umugore wa kabiri"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "wa Kalebu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haranu"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gazezu"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezu"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "kandi Haranu"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazezu"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:53.948861666Z",
+  "model": "glm-5.3"
+}

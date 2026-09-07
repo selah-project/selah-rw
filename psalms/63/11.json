@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Barasohorwa ku ntoki z'urubahu; bazaba umugabane w'ibigu.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Barasohorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ntoki z'urubahu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "urubahu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "umugabane"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "w'ibigu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazaba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:45.630497119Z",
+  "model": "glm-5.3"
+}

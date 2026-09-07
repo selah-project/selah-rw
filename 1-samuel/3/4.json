@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe yahamagaye kuri Shemuweli, nawe aravuga ati: Ndandi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndandi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:22:28.953965248Z",
+  "model": "glm-5.3"
+}

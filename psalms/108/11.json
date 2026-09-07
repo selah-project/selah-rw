@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Ni nde uzanyira mu mudugudu w'ingabo? Ni nde unyobora kugeza Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "uzanyira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mu mudugudu"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "w'ingabo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nde"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "unyobora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:16.857655512Z",
+  "model": "glm-5.3"
+}

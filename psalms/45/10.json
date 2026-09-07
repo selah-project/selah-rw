@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Abana b'abami bari mu bakundwa bawe b'agaciro; umwamikazi ni uhagaze ku buryo bwawe, mu zahabu ya Ofiri.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "mu bakundwa bawe b'agaciro"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ni uhagaze"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "umwamikazi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ku buryo bwawe"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "mu zahabu ya"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofiri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:43.935867314Z",
+  "model": "glm-5.3"
+}

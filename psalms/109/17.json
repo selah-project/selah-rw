@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 109,
+  "translation": "Yarakundaga kwipfuza ibyago, ibyago bimwibukiye; ntiyashakaga umugisha, umugisha wamurenganyirijwe.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "yarakundaga"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kwipfuza ibyago"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "bimwibukiye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yashakaga"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "wamurenganyirijwe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:18.073991274Z",
+  "model": "glm-5.3"
+}

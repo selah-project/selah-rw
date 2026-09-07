@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Shalomu raba kuri abakunda Tora yawe, kandi urwibazo ntiruri kuri bo.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "raba"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kuri abakunda"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi ntiruri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "urwibazo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:21.304763310Z",
+  "model": "glm-5.3"
+}

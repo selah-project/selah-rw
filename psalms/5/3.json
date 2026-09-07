@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Tega ugotwi ku ijwi ry'uruseke rwanjye, umwami wanjye n'Elohimu wanjye, kuri wowe njyewe ndasenga.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Tega ugotwi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ry'uruseke rwanjye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "n'Elohimu wanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "njyewe ndasenga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:05.499801183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Njye rero, mu bwinshi bwa hesedi yawe, nzinjira mu nzu yawe; nzubama ngana ku rusengero rwawe rwera, mu gutinya wowe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "njye rero"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu bwinshi bwa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nzinjira"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "nzubama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngana ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "rusengero"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "rwawe rwera"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "mu gutinya wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:13.212777229Z",
+  "model": "glm-5.3"
+}

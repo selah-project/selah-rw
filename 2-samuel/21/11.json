@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze Dawidi amenywa ⟨את⟩ ibyo Ritsipaha umukobwa wa Ayah, umugore wa kabiri wa Shauli, yakoreye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "byabwiwe \/ yamenywe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritsipaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa wa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ayah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "umugore wa kabiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:20:35.249828093Z",
+  "model": "glm-5.3"
+}

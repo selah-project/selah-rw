@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ariko umukuru w'abahanzi b'ibinyobwa ntiyibutse ⟨את⟩ Yosefu, aramwibagira.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti… ariko"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ntiyibutse"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "w'abahanzi b'ibinyobwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "aramwibagira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:14:59.594879100Z",
+  "model": "glm-5.3"
+}

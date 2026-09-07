@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Ngwino, ndazamuye ku bo ⟨את⟩ aba-Madaye, abo ifeza ntibayibarira, kandi zahabu ntibayishimira.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ngwino"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ndazamuye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ku bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aba-Madaye"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "aba-Madaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bayibarira"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kandi zahabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "bayishimira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri iyo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:31.712626338Z",
+  "model": "glm-5.3"
+}

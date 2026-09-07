@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 99,
+  "translation": "Yahwe Elohimu wacu, wowe warabasubije, Eli wababarira wari kuri bo, ariko warahanuye ku bikorwa byabo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "warabasubije"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wababarira"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ariko warahanuye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ibikorwa byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:42:46.981248490Z",
+  "model": "glm-5.3"
+}

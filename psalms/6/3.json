@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yehangana umpuhwe, Yahwe, kuko njye narembye; unkingire, Yahwe, kuko amagufwa yanjye yashidikaniye.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Yehangana umpuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "narembye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "unkingire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "yashidikaniye"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amagufwa yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:51.939962092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ibitaro byabo bigire ubusa, mu hema zabo nta muturagi abe.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "bigire"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "Ibitaro byabo"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mu hema zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "abe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "muturagi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:42.674345565Z",
+  "model": "glm-5.3"
+}

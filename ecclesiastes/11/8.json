@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kuko iyo umuntu azabaho imyaka myinshi, muri byose yose anezerwe, kandi yibuke ⟨את⟩ iminsi ya mwijima, kuko izaba myinshi; ibyo bizaza byose ni ububare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "myinshi"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "azabaho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "muri byose yose"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "anezerwe"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "kandi yibuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iminsi ya mwijima"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ya mwijima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "myinshi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ibyo bizaza"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ububare"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:12.281961426Z",
+  "model": "glm-5.3"
+}

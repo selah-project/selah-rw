@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "isaiah 33:7",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 33,
+ "translation": "Dore, intwari zirotse hanze; intumwa z'amahoro zirira bikaze.",
+ "tokens": [
+  {
+   "surface": "הן",
+   "gloss": "dore"
+  },
+  {
+   "surface": "אראלם",
+   "gloss": "intwari"
+  },
+  {
+   "surface": "צעקו",
+   "gloss": "zirotse"
+  },
+  {
+   "surface": "חצה",
+   "gloss": "hanze"
+  },
+  {
+   "surface": "מלאכי",
+   "gloss": "intumwa"
+  },
+  {
+   "surface": "שלום",
+   "gloss": "amahoro"
+  },
+  {
+   "surface": "מר",
+   "gloss": "bikaze"
+  },
+  {
+   "surface": "יבכיון",
+   "gloss": "zirira"
+  }
+ ],
+ "timestamp": "2026-09-07T15:03:47.492503995Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Yosefu abwira abavandimwe be ati: Munyegere kuri njye, ndabasaba. Baranyegereje, maze aravuze ati: Njye ndi Yosefu, umuvandimwe wanyu, uwo mwagurishije ⟨את⟩ njye muri Mitsrayimu (Egiputa).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Munyegere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndabasaba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Baranyegereje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umuvandimwe wanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mwagurishije"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mwagurishije ⟨את⟩ njye"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "muri Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:44.709530010Z",
+  "model": "glm-5.3"
+}

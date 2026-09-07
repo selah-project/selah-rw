@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Avimeleke yaravuze ati: Reba, ubutaka bwanjye buri imbere yawe; icyiza mu maso yawe, tutura.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Reba"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ubutaka bwanjye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "buri imbere yawe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tutura"
+    }
+  ],
+  "timestamp": "2026-09-07T07:51:20.121679432Z",
+  "model": "glm-5.3"
+}

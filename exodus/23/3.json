@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kandi umukene ntumufatire neza mu rurwanyi rwe.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "kandi umukene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "mufatire neza"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "mu rurwanyi rwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:08.108812786Z",
+  "model": "glm-5.3"
+}

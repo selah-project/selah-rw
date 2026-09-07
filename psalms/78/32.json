@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Mu ibi byose baracyaha, kandi ntibemeye ibitangaza bye.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "baracyaha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baracya-"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "-bemeye"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ibitangaza bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:05.328369989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abahungu ba Shimoni kw'imiryango yabo: kwa Nemuweli, umuryango w'Abanemuweli; kwa Yamini, umuryango w'Abayamini; kwa Yakini, umuryango w'Abayakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kw'imiryango yabo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "kwa Nemuweli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Abanemuweli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kwa Yamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Abayamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "kwa Yakini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Abayakini"
+    }
+  ],
+  "timestamp": "2026-09-07T10:29:39.266330122Z",
+  "model": "glm-5.3"
+}

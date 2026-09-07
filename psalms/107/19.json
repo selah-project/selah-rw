@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Baraza bahamagara Yahwe mu bihe bikomeye byabo; mu ngorabahizi zabo arabakiza.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "baraza bahamagara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "byabo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "mu ngorabahizi zabo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "arabakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:42.597321276Z",
+  "model": "glm-5.3"
+}

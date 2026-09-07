@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 75,
+  "translation": "Kuko Elohimu ⟨ni⟩ we umucamanza: uwo amanura, na uwo azamura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "amanura"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na uwo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "azamura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:49.597227314Z",
+  "model": "glm-5.3"
+}

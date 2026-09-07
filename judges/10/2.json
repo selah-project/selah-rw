@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Hanyuma acamanza ⟨את⟩ Yisraeli imyaka makumyabiri n'itatu, arapfa, arazikwa i Shamiri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Hanyuma acamanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "n'itatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "arazikwa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "i Shamiri"
+    }
+  ],
+  "timestamp": "2026-09-07T12:00:08.272515547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Na ⟨את⟩ Basemathi umukobwa wa Yishmaeli, mushiki wa Nevayoti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Basemathi"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemathi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaeli"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mushiki"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayoti"
+    }
+  ],
+  "timestamp": "2026-09-07T08:11:50.403150783Z",
+  "model": "glm-5.3"
+}

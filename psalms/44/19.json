@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Umutima wacu ntiwagarutse inyuma, n'intambwe zacu ntitwayobye mu nzira yawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "wagarutse"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "umutima wacu"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ntitwayobye"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "intambwe zacu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "nzira yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.663945282Z",
+  "model": "glm-5.3"
+}

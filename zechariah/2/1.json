@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Natoroye ⟨את⟩ amaso yanjye, maze mbona — raba none: amarembe enye.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Natoroye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso yanjye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndabona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "raba none"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "enye"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "amarembe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:59:25.865878057Z",
+  "model": "glm-5.3"
+}

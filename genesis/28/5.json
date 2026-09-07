@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yitsaki yohereje ⟨את⟩ Yaakovu, maze ajya i Padani-Aramu, kwa Lavani, umwana wa Betueli mu Aramu, umuvandimwe wa Rivka, nyina wa Yaakovu na Esavu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "maze ajya"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "i Padani"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aramu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betueli"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "mu Aramu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umuvandimwe wa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na Esavu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:51.035325653Z",
+  "model": "glm-5.3"
+}

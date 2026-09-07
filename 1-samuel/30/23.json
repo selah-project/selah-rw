@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "1-samuel 30:23",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 30,
+ "translation": "Dawidi aravuga ati: Ntimukore icyo, abavandimwe; ibi ⟨את⟩ ibi Yahwe yadutanye, nawe yaradukingiye ⟨את⟩, maze yatanze ⟨את⟩ umugambwe waje kuri twe mu ntoki zacu.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "aravuga"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "Dawidi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "תעשו",
+   "gloss": "mukore"
+  },
+  {
+   "surface": "כן",
+   "gloss": "icyo"
+  },
+  {
+   "surface": "אחי",
+   "gloss": "abavandimwe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ibi"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "yadutanye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "וישמר",
+   "gloss": "yaradukingiye"
+  },
+  {
+   "surface": "אתנו",
+   "gloss": "⟨את⟩"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "yatanze"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umugambwe"
+  },
+  {
+   "surface": "הגדוד",
+   "gloss": "umugambwe"
+  },
+  {
+   "surface": "הבא",
+   "gloss": "waje"
+  },
+  {
+   "surface": "עלינו",
+   "gloss": "kuri twe"
+  },
+  {
+   "surface": "בידנו",
+   "gloss": "mu ntoki zacu"
+  }
+ ],
+ "timestamp": "2026-09-07T12:54:18.695479790Z",
+ "model": "glm-5.3"
+}

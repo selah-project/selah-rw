@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "kuko Kayini azihwa inshuro ndwi, ariko Lemeke ⟨ni⟩ inshuro mirongo irindwi n'indwi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "inshuro ndwi"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "azihwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "na Lemeke"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "n'ndwi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:37.706304646Z",
+  "model": "glm-5.3"
+}

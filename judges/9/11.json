@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ifigu na yo yababwiye iti: Nakureka ⟨את⟩ uburyo bwanjye na ⟨את⟩ umusaruro wanjye mwiza, maze njyenda kunyegereza ku biti?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yababwiye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "ifigu"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "nakureka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uburyo bwanjye"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "uburyo bwanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "umusaruro wanjye"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "maze njyenda"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "kunyegereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ibiti"
+    }
+  ],
+  "timestamp": "2026-09-07T11:57:15.870583870Z",
+  "model": "glm-5.3"
+}

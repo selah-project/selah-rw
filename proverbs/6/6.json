@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Genda ku ntoka, wunebwa; reba imigenda yayo maze ube umunyabwenge.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Genda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "nyenzi ntoya ⟨ntoka⟩"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wunebwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "imigenda yayo"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "maze ube umunyabwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:42.580824780Z",
+  "model": "glm-5.3"
+}

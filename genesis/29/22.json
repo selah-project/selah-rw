@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Maze Lavanu yahuriye ⟨את⟩ abagabo bose b'icyo gihugu, maze yakoze irori.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "yahuriye"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "b'icyo gihugu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "maze yakoze"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "irori"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:06.417792163Z",
+  "model": "glm-5.3"
+}

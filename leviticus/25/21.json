@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi nategeka ⟨את⟩ umugisha wanjye ku mwe mu mwaka wa gatandatu, maze ukore ⟨את⟩ umusaruro w'imyaka itatu.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "kandi nategeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugisha wanjye"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "umugisha wanjye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku mwe"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wa gatandatu"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "maze ukore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusaruro"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "umusaruro"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "w'imyaka"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "itatu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:45.440773513Z",
+  "model": "glm-5.3"
+}

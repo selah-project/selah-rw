@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Ugusenga kwa Moshe (Mose), umugabo w'Elohimu. Adonayi, wowe wari urugo rwacu mu kinyejana n'ikinyejana.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ugusenga"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moshe (Mose)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "urugo (aho tuba)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rwacu"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "mu kinyejana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ikinyejana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:16.730847537Z",
+  "model": "glm-5.3"
+}

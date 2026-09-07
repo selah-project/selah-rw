@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Mwe rwo, abasize Yahwe, abibagiye ⟨את⟩ umusozi wanjye utagatifu, mutegeka ameza kuri Gadi, muzuzisha umuvinyo uvangiwe kuri Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mwe rwo"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "abasize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "abibagiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusozi wanjye utagatifu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "utagatifu wanjye"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "mutegeka"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "kuri Gadi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ameza"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "muzuzisha"
+    },
+    {
+      "surface": "למני",
+      "gloss": "kuri Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "umuvinyo uvangiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:46.571632791Z",
+  "model": "glm-5.3"
+}

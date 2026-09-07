@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yaravuze ati: Amazi yo munsi y'ijuru yikoranywe ku ahantu hamwe, maze ubutaka bwo gumye bugaragare; nuko huba uko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "yikoranywe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'ijuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "maze bugaragare"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ubutaka bwo gumye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nuko huba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uko"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:02.154677738Z",
+  "model": "glm-5.3"
+}

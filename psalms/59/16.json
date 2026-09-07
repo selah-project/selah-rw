@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Bo bararimbuka bashaka ibiryo; iyo batashyitse, basindire ijoro.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Bo"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "bararimbuka"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bashaka ibiryo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "batashyitse"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "basindire ijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:19.437038539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze yashyize imbere ⟨את⟩ igicanwa, maze yarigize uko amategeko abiteganya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yashyize imbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igicanwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igicanwa"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "yarigize"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "uko amategeko abiteganya"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:21.918012190Z",
+  "model": "glm-5.3"
+}

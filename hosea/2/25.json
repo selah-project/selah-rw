@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze nzibahera mu isi kuri jye, nzibabarira ⟨את⟩ iyo yitwa Lo-Ruhamah (itavugwaga impuhwe), maze nzibwira iyo yitwa Lo-Ami (atari abantu banjye) nditi: Wowe ⟨ni⟩ abantu banjye, na we azavuga ati: Elohimu wanjye.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "nzibahera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "nzibabarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo yitwa Lo-Ruhamah (itavugwaga impuhwe)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (itavugwaga impuhwe)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "nzibwira"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "iyo yitwa Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami (atari abantu banjye)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "azavuga ati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:27:41.790692115Z",
+  "model": "glm-5.3"
+}

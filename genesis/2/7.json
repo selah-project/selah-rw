@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze Yahwe Elohimu yaremye ⟨את⟩ umuntu ivumbi ry'ubutaka, maze yahumekishije mu mazuru ye umwuka w'ubuzima, maze umuntu uhindutse Nefeshi imaze.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivumbi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "maze yahumekishije"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mu mazuru ye"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "w'ubuzima"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze … uhindutse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "imaze"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:03.497989337Z",
+  "model": "glm-5.3"
+}

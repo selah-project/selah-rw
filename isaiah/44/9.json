@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Abashushoyi b'igishushanyo bose ni ubusa, n'ibyishimo byabo ntibyazunganira; n'abahamya babo ni bo — batazabona kandi batazamenya — kugira ngo bisonze.",
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "abashushoyi b'igishushanyo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "n'ibyishimo byabo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "byazunganira"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "n'abahamya babo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazabona"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazamenya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bisonze"
+    }
+  ],
+  "timestamp": "2026-09-07T15:19:09.587256432Z",
+  "model": "glm-5.3"
+}

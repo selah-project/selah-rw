@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze umwami yategetse ⟨את⟩ Hilkiyah kohenu, na ⟨את⟩ Ahikamu umwana wa Shafani (Shafani), na ⟨את⟩ Akubori umwana wa Mikhayah, na ⟨את⟩ Shafani umwanditsi, na ⟨את⟩ Asayah umugaragu w'umwami, ati",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Maze ... yategetse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ahikamu"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "wa Shafani (Shafani)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akubori"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akubori"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "wa Mikhayah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shafani"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafani"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "umwanditsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Asayah"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "w'umwami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T22:31:33.216671500Z",
+  "model": "glm-5.3"
+}

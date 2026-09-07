@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Ku gihembero cyawe biriruka; ku ijwi ry'inkuba yawe bihutira kuyiruka.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "gihembero cyawe"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "biriruka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "inkuba yawe"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "bihutira kuyiruka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:14.462773534Z",
+  "model": "glm-5.3"
+}

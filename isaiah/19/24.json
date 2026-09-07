@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ku munsi ubwo Yisraeli izaba uwa gatatu kuri Mitsrayimu no kuri Ashuru, umugisha mu hagati y'isi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ubwo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "uwa gatatu"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kuri Mitsrayimu"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "no kuri Ashuru"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu hagati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:08.648914518Z",
+  "model": "glm-5.3"
+}

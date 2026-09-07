@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yagaragaye kuri Shelomu incuro ya kabiri, nko yagaragaye kuri we i Givoni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomu"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "incuro ya kabiri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givoni"
+    }
+  ],
+  "timestamp": "2026-09-07T13:42:38.886465612Z",
+  "model": "glm-5.3"
+}

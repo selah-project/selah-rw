@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yarabwiye Moshe ati: Paro ntazumva mwe, kugira ngo ibitangaza bye byiyongere mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "byiyongere"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ibitangaza bye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:40:23.357027081Z",
+  "model": "glm-5.3"
+}

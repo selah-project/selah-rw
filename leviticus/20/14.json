@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "N'umuntu uo yafata ⟨את⟩ umugore na ⟨את⟩ nyina we, icyaha gikomeye ni rwo; mu muriro bazacya ⟨את⟩ we na ⟨את⟩ bo, kandi icyaha gikomeye ntigihore muri mwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "N'umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugore"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina we"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "nyina we"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "icyaha gikomeye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni rwo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "bazacya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "na ⟨את⟩ bo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntigihore"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ntigihore"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "icyaha gikomeye"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:50:36.261220839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Yahwe ⟨ni⟩ umurwanyi, Yahwe ⟨ni⟩ izina rye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umurwanyi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "w'intambara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:50:21.873573322Z",
+  "model": "glm-5.3"
+}

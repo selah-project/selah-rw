@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Impero y'ibyagezweho, ibyose byumvwe: Tina ⟨את⟩ Elohimu, unshyire mu byo na ⟨את⟩ amategeko ye; kuko ibi ⟨ni⟩ byo umuntu wose.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Impero"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cy'ibyagezweho"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "byumvwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "Tinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amategeko ye"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amategeko ye"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "unshyire mu byo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byo … wose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu wose"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:45.130764736Z",
+  "model": "glm-5.3"
+}

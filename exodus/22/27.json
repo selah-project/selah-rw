@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Elohimu ntukenere, n'umuyobozi mu bantu bawe ntuzavomeyo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "kenere"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "n'umuyobozi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "mu bantu bawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "zavomeyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:56.660325419Z",
+  "model": "glm-5.3"
+}

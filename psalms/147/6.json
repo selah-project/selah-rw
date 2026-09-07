@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Yahwe yashyigikira abanyecyeza, akamanura inkozi z'ibibi kugeza ku isi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "yashyigikira"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abanyecyeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "akamanura"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "inkozi z'ibibi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ku isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:52.334836645Z",
+  "model": "glm-5.3"
+}

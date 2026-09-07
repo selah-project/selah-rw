@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Uravuze uti: ni gusa ijambo ry'iminwa! ⟨ni⟩ ubugeni n'imbaraga by'intambara. None ubu, wizeye nde, ko wagometse kuri njye?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "uravuze"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ry'iminwa"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ubugeni"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "n'imbaraga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "by'intambara"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none ubu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "wizeye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "wagometse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:29.752759946Z",
+  "model": "glm-5.3"
+}

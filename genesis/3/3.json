@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ariko ku mbuto y'igiti kiri hagati mu busitani, Elohimu yaravuze ati: Ntimuzirye, kandi ntimukoreho, kugira ngo mutapfe.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Ariko ku mbuto ya"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati muri"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "busitani"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzirye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mukoreho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "mutapfe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:35:13.872184684Z",
+  "model": "glm-5.3"
+}

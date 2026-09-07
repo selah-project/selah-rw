@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Jewe ndishimye kuri ijambo ryawe, nk'uwabonye umutungo mwinshi.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ndishimye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "nk'uwabonye"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "umutungo (rpfa)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mwinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:07.721725323Z",
+  "model": "glm-5.3"
+}

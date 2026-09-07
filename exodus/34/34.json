@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Iyo Moshe yinjiraga imbere ya Yahwe kugira ngo avuge na ⟨את⟩ We, yakuraho ⟨את⟩ umwenda kugeza aho asohoka; maze asohoka, ajya abwira abana ba Yisraeli ⟨את⟩ ibyo yategetse.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "yinjiraga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kugira ngo avuge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "yakuraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwenda"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "umwenda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza aho"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "gusohoka kwe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "asohoka"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "yategetse"
+    }
+  ],
+  "timestamp": "2026-09-07T09:14:16.558702904Z",
+  "model": "glm-5.3"
+}

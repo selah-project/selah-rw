@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Yagize inzira y'uburakari bwe; ntiyahwihwize Nefeshi yabo ku rupfu, ariko n'ubuzima bwabo yaratanze ku mburabuzi.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "yagize"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "y'uburakari bwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "yahwihwize"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ku rupfu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "Nefeshi yabo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "n'ubuzima bwabo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku mburabuzi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "yaratanze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:04.642875272Z",
+  "model": "glm-5.3"
+}

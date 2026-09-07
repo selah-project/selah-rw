@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ntibazashyikirwa n'isoni mu gihe cy'ikibi, mu minsi y'inzara bazashyitwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntiba"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bazashyikirwa n'isoni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cy'ikibi"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "y'inzara"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bazashyitwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:21.064946085Z",
+  "model": "glm-5.3"
+}

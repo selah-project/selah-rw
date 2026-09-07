@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Urubibi rwabo rwari Helkati, na Hali, na Beteni, na Akshafu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rwari"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "urububi rwabo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkati"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "na Hali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "na Beteni"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "na Akshafu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:40:31.826124376Z",
+  "model": "glm-5.3"
+}

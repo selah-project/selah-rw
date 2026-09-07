@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Subiza jye ishimo y'agakiza kawe, kandi umwuka w'ubutore unshyigikire.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Subiza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ishimo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "y'agakiza kawe"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kandi umwuka"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "w'ubutore"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "unshyigikire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:46.527642549Z",
+  "model": "glm-5.3"
+}

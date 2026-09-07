@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Ibyo twumvise kandi tunabiizi, n'abakurambere bacu barabitubwiye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ibyo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "twumvise"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "tunabiizi"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "barabitubwiye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:43.478709581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kohenu arareba ⟨את⟩ umubiri ibisi, aramutangaza ko adasukuye: umubiri ibisi ni udasukuye — ni tsaraati.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "arareba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umubiri ibisi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ibisi"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "aramutangaza ko adasukuye"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ibisi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ni udasukuye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:03.309374178Z",
+  "model": "glm-5.3"
+}

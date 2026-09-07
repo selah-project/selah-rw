@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Eliysha na we amubwira ati: Nkore iki kuri wowe? Mpubwire: ni iki w'ufite mu nzu? Yishura ati: Nta na kimwe umuja wawe afite mu nzu, uretse isahani y'amavuta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliysha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nkore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "mpubwire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "w'ufite"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "uri ufite"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yishura"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta na kimwe"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uretse ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "isahani y'amavuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:10.076987683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Mwana w'umuntu, hanura iby'abanavi b'a Yisraeli bahanura, maze ubwire abahanura mu mutima wabo ati: Umva ijwi rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "hanura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iby'a- (ku)"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "abanavi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'a Yisraeli"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "bahanura"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "maze ubwire"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "abahanura"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "mu mutima wabo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Umva (mumve)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:50:04.402745984Z",
+  "model": "glm-5.3"
+}

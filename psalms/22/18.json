@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ndashobora kubara amagufwa yanjye yose; bo baraba maze bakareba ineza ⟨bampenetshe⟩.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Ndashobora kubara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "amagufwa yanjye"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "baraba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bakareba ineza"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨bampenetshe⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:43.273255324Z",
+  "model": "glm-5.3"
+}

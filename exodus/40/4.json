@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uzazana ⟨את⟩ imeza, maze uzatekanya ⟨את⟩ imiterere yayo; uzazana na ⟨את⟩ Menorah, maze uzazamura ⟨את⟩ amatara yayo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "uzazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "uzatekanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiterere yayo"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "imiterere yayo"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "uzazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menorah"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "uzazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatara yayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amatara yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:55.178650904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe yarabwiye Gideoni ati: Abantu baracyari benshi; manura ⟨את⟩ bo ku mazi, nzabagerageza ku bwawe ho. Maze uwo nzamubwira kuri wewe nti Uyu azagendera ⟨את⟩ na wewe, we azagendera ⟨את⟩ na wewe; na buri uwo nzamubwira kuri wewe nti Uyu ntagendera kumwe na wewe, we ntagendera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideoni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baracyari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "manura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (abantu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "ואצרפנו",
+      "gloss": "nzabagerageza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku bwawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nzamubwira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Uyu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagendera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na wewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagendera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na wewe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na buri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nzamubwira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Uyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagendera"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kumwe na wewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagendera"
+    }
+  ],
+  "timestamp": "2026-09-07T21:29:43.319868792Z",
+  "model": "glm-5.3"
+}

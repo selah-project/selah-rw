@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umuryango wose hamwe nk'umwe: myriade ine ⟨ibihumbi makumyabiri n'ibiri⟩ n'amajana atatu na mirongo itandatu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "hamwe nk'umwe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "myriade ⟨ibihumbi cumi⟩"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n'ibihumbi bibiri"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "na mirongo itandatu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:16:30.053634885Z",
+  "model": "glm-5.3"
+}

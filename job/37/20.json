@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ese cyaba cyamenyeshwa ko ndi mvuga? Umuntu aravuga agasemwa rwose.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "cyaba cyamenyeshwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndi mvuga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "agasemwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:37:50.151121047Z",
+  "model": "glm-5.3"
+}

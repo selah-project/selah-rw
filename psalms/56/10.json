@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 56,
+  "translation": "Ubwa neza, ku munsi ndamuramagara, abanzi banjye bazasubira inyuma; ibi ndabizi, ko Elohimu ari iwanjye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ubwa neza"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bazasubira"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndamuramagara"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndabizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ari iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:57.141583860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "N'ibitero byabo: ifufe y'ingano yavangiye mu mavuta, ibice icumu bitatu k'ingore, ibice icumu bibiri k'intama nkuru.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "N'ibitero byabo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifufe y'ingano"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yavangiye"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mu mavuta"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bitatu"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ibice icumu"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "k'ingore"
+    },
+    {
+      "surface": "שני",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ibice icumu"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "k'intama nkuru"
+    }
+  ],
+  "timestamp": "2026-09-07T10:34:09.370968422Z",
+  "model": "glm-5.3"
+}

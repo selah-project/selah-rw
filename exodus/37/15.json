@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yakoreye ⟨את⟩ ibiti by'ibiti bya shitimu, maze ashinguye ⟨את⟩ zahabu, kugira gutwara ⟨את⟩ imeza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiti"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ashinguye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kugira gutwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    }
+  ],
+  "timestamp": "2026-09-07T09:19:48.154740272Z",
+  "model": "glm-5.3"
+}

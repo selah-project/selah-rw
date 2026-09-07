@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Koko Yahwe yagaruye ⟨את⟩ icyubahiro cya Yaakovu, nk'icyubahiro cya Yisraeli, kuko abatseka batsekatse, kandi amashami yabo y'imizabibu barimoze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yagaruye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyubahiro"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "nk'icyubahiro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "abatseka"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "batsekatse"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "kandi amashami yabo y'imizabibu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "barimoze"
+    }
+  ],
+  "timestamp": "2026-09-07T21:52:40.017064539Z",
+  "model": "glm-5.3"
+}

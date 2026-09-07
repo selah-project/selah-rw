@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yehuda yohereje ⟨את⟩ urubyara rw'ihene mu nkono ya inshuti ye w'i Adulamu, ngo iyakire ikimenyetso mu nkono y'umugore, ntiyayisanga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urubyara rw'ihene"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "urubyara"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "rw'ihene"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu nkono"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "inshuti ye"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "w'i Adulamu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ngo iyakire"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu nkono"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "y'umugore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "yayisanga"
+    }
+  ],
+  "timestamp": "2026-09-07T08:17:38.187017139Z",
+  "model": "glm-5.3"
+}

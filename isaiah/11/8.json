@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Umwana wonsa azakina ku rwunge rw'inzoka nkare, kandi umwana wakuwe ku mabeere azashyira intoki ye mu rwunge rw'inzoka y'umugera.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "azakina"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "Umwana wonsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חר",
+      "gloss": "rwunge"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "rw'inzoka nkare"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "rwunge"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "rw'inzoka y'umugera"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "wakuwe ku mabeere"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "azashyira"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:59.659027047Z",
+  "model": "glm-5.3"
+}

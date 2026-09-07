@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Kubw'i Dawidi umugaragu wawe, ntuzasubize inyuma uruhara rwa Mashiyah wawe.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kubw'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uzasubize inyuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "rwa Mashiyah wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:43.409804413Z",
+  "model": "glm-5.3"
+}

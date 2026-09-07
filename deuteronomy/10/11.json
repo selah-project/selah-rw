@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze Yahwe yabwiye ati njye: Haguruka, ugende, utange urugendo mbere y'abantu, maze binjire bakayisature ⟨את⟩ igihugu nahaye ku se babo ngo mbahere bo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze yabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ati njye"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Haguruka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugende"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "utange urugendo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere y'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "maze binjire"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "bakayisature"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'icyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ku se babo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngo mbahere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:54:16.543352183Z",
+  "model": "glm-5.3"
+}

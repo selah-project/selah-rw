@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze ku munsi wa karindwi, bamwe mu bantu basohotse ngo basarure, ariko ntibabonye na kimwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "basohotse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu (bamwe mu bantu)"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ngo basarure"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "babonye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:14.644034301Z",
+  "model": "glm-5.3"
+}

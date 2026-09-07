@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Bararira kuri Yahwe mu bihe bikomeye byabo, maze abakiza mu mikorere yabo y'agahinda.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Bararira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "byabo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "mu mikorere yabo y'agahinda"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "abakiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:20.400028698Z",
+  "model": "glm-5.3"
+}

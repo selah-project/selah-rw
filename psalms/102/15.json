@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Kuko abagaragu bawe bakundisha ⟨את⟩ amabuye yayo, na ⟨את⟩ ivu ryayo bararyoherereza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "bakundisha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabuye yayo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "amabuye yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ivu ryayo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ivu ryayo"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "bararyoherereza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:50.367039373Z",
+  "model": "glm-5.3"
+}

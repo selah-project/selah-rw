@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 91:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 91,
+ "translation": "Kubera ko we azakurokora ku rubabi rw'umuhigi w'inyoni, n'indwara ikaze yica.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "Kubera ko"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "we"
+  },
+  {
+   "surface": "יצילך",
+   "gloss": "azakurokora"
+  },
+  {
+   "surface": "מפח",
+   "gloss": "ku rubabi rw'"
+  },
+  {
+   "surface": "יקוש",
+   "gloss": "umuhigi w'inyoni"
+  },
+  {
+   "surface": "מדבר",
+   "gloss": "k'indwara"
+  },
+  {
+   "surface": "הוות",
+   "gloss": "ikaze yica"
+  }
+ ],
+ "timestamp": "2026-09-07T18:41:03.076324858Z",
+ "model": "glm-5.3"
+}

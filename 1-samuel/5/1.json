@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abafilisiti barafashe ⟨את⟩ isanduku rya Elohimu, barazanye mu Ebeni-ha-Ezeri (Eveni-ezeri) ugana Ashidodi (Ashidodi).",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Abafilisiti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "barafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "barazanye"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "mu Ebeni"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashidodi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:26:03.858970047Z",
+  "model": "glm-5.3"
+}

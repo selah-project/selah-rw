@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Musabe Shalomu ya Yerushalayimu (Yerusalemu); abo bayikunda bararahye.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Musabe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "bararahye"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "abo bayikunda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.916631282Z",
+  "model": "glm-5.3"
+}

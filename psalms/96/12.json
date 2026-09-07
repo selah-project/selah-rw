@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Umurima ukome kwishima cyane n'ibiriho byose; muri icyo gihe ibiti byose by'ishyamba bizaririmbira.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ukome kwishima cyane"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Umurima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ibyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biriho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uriho \/ muri we"
+    },
+    {
+      "surface": "אז",
+      "gloss": "muri icyo gihe"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bizaririmbira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti bya"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ishyamba"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:57.810152467Z",
+  "model": "glm-5.3"
+}

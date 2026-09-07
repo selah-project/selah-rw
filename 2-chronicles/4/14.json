@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yakoze ⟨את⟩ ibishingiro, maze yakoze ⟨את⟩ imivure yo ku bibishingiro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibishingiro"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ibishingiro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imivure"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "imivure"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bibishingiro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:48:48.155231188Z",
+  "model": "glm-5.3"
+}

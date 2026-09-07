@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mukorere ⟨את⟩ Yahwe mu gutinya, munezerwe mu kuguguza.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "mukorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "mu gutinya"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "munezerwe"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "mu kuguguza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:01.119333984Z",
+  "model": "glm-5.3"
+}

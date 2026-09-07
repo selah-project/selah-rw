@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Amaso yanjwe yagabanyije kubera amakuba; ndaguhamagara, Yahwe, ku buri munsi, maze ntegura ibiganza byanjye iwawe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjwe"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "yagabanyije"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "עני",
+      "gloss": "amakuba"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndaguhamagara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku buri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ntegura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ibiganza byanjwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:51.915234960Z",
+  "model": "glm-5.3"
+}

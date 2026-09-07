@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Igikorwa cyawe kigaragare ku bagaragu bawe, n'ubwiza bwawe ku bana babo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kigaragare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bagaragu bawe"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Igikorwa cyawe"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "n'ubwiza bwawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana babo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:13.205447412Z",
+  "model": "glm-5.3"
+}

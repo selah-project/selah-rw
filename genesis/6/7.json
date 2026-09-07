@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yaravuze ati: Nzacya ⟨את⟩ umuntu naremye ku gasozi ku maso y'isi, kuva ku muntu kugera ku matungo, kugera ku biligime n'inkuru y'ijuru, kuko nihanganiye ko narebye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Nzacya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naremye"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "naremye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku gasozi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ku maso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuva ku muntu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ku matungo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ku biligime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "n'kugera"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ku nkuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'ijuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nagize impungenge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "narebye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:09.068224682Z",
+  "model": "glm-5.3"
+}

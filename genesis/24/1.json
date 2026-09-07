@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Avrahamu (Aburahamu) yarazeze, yinjiye mu iminsi, maze Yahwe yarahesheje icego ⟨את⟩ Avrahamu mu byose.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avrahamu (Aburahamu)"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yarazeze"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mu iminsi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maze Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yarahesheje icego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    }
+  ],
+  "timestamp": "2026-09-07T07:53:25.582643271Z",
+  "model": "glm-5.3"
+}

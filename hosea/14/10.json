@@ -1,0 +1,77 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "hosea 14:10",
+ "book": "hosea",
+ "lang": "rw",
+ "chapter": 14,
+ "translation": "Ni nde umunyabwenge, yumve ibi; nde umusobanuzi, abimenye; koko, inzira za Yahwe ni izigororotse, abatunganye bagenda murizo, abanyabyaha bakagwagamo.",
+ "tokens": [
+  {
+   "surface": "מי",
+   "gloss": "Ni nde"
+  },
+  {
+   "surface": "חכם",
+   "gloss": "umunyabwenge"
+  },
+  {
+   "surface": "ויבן",
+   "gloss": "yumve"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "ibi"
+  },
+  {
+   "surface": "נבון",
+   "gloss": "umusobanuzi"
+  },
+  {
+   "surface": "וידעם",
+   "gloss": "abimenye"
+  },
+  {
+   "surface": "כי",
+   "gloss": "koko"
+  },
+  {
+   "surface": "ישרים",
+   "gloss": "izigororotse"
+  },
+  {
+   "surface": "דרכי",
+   "gloss": "inzira"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "וצדקים",
+   "gloss": "abatunganye"
+  },
+  {
+   "surface": "ילכו",
+   "gloss": "bagenda"
+  },
+  {
+   "surface": "בם",
+   "gloss": "murizo"
+  },
+  {
+   "surface": "ופשעים",
+   "gloss": "abanyabyaha"
+  },
+  {
+   "surface": "יכשלו",
+   "gloss": "bakagwagamo"
+  },
+  {
+   "surface": "בם",
+   "gloss": "murizo"
+  }
+ ],
+ "timestamp": "2026-09-07T17:32:44.324098606Z",
+ "model": "glm-5.3"
+}

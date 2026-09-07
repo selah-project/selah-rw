@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Umusozi w'Elohimu ni umusozi wa Bashani; umusozi w'ibirorero ni umusozi wa Bashani.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "w'Elohimu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "wa Bashani"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "w'ibirorero"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "wa Bashani"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:02.595225492Z",
+  "model": "glm-5.3"
+}

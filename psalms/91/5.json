@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Ntuzatinya ubwoba bw'ijoro, na n'umwambi uguruka mu manywa,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "uzatinya"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bw'ijoro"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "umwambi"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "uguruka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mu manywa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:59.671575386Z",
+  "model": "glm-5.3"
+}

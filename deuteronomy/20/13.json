@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Maze Yahwe Elohimu wawe azayiguha mu biganza byawe, maze uzakubita ⟨את⟩ abagabo bose bayo ku munwa w'umupanga.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "maze azayiguha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu biganza byawe"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "maze uzakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo bose bayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "abagabo (b'igitsina giharira)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ku munwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "w'umupanga"
+    }
+  ],
+  "timestamp": "2026-09-07T11:05:05.915037815Z",
+  "model": "glm-5.3"
+}

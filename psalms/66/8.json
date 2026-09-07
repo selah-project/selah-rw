@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Mahanga, muhe umugisha Elohimu wacu, kandi muhamagarise ijwi ry'isingiza ye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "muhe umugisha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Mahanga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "kandi muhamagarise"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ry'isingiza ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:25.656328098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yaramubwiye ati: Uja ⟨ngo⟩, reba ⟨את⟩ shalomu y'abavandimwe bawe na ⟨את⟩ shalomu y'ibitungwa, maze ungarukire ungire ubutumwa. Nuko yamwohereje mu kibaya cya Hevronu, maze yaje i Shekemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ngo⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shalomu y'abavandimwe bawe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abavandimwe bawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "shalomu y'ibitungwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ibitungwa"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "ungarukire"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ubutumwa"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "yamwohereje"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "mu kibaya cya"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "i Shekemu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:13:26.760494173Z",
+  "model": "glm-5.3"
+}

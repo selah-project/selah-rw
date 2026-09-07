@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "None rero, ngukururire ⟨את⟩ icyaha cyanjye, maze ugaruke umitse njye, maze ndikubamira Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rero"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ngukururire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ndasaba⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyaha cyanjye"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "icyaha cyanjye"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "maze ugaruke"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umitse njye"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "maze ndikubamira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:31:11.615090235Z",
+  "model": "glm-5.3"
+}

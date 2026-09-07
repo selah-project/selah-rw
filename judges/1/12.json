@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kalebu yaravuze ati: Uzakubita ⟨את⟩ Kiriyata-Seferi maze ayifata, nza kumuha ⟨את⟩ Akusa umukobwa wanjye kugira ngo abe umugore we.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "uzakubita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiriyata-Seferi"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyata"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferi"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "maze ayifata"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nza kumuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akusa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akusa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "umukobwa wanjye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kugira ngo abe umugore we"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:00.205090318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "None bazatera induru kwa Yahwe, ariko we ntazabasubiza ⟨את⟩ bo, azahisha isura ye kuri bo mu gihe icyo, uko ibikorwa byabo byagenze nabi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "None"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bazatera induru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "azasubiza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "abo bazatera induru (abayoboke b'abantu banjye)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "azahisha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "isura ye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "byagenze nabi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ibikorwa byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:52:42.813468348Z",
+  "model": "glm-5.3"
+}

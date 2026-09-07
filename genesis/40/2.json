@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Paro yarangiye ku baherekezi be babiri, ku mukuru w'abashyitsi no ku mukuru w'abakanizi.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "yarangiye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "baherekezi be"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "w'abashyitsi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "w'abakanizi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:20:00.105328654Z",
+  "model": "glm-5.3"
+}

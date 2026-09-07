@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Bagusaba amahoro, bakaguha amakate abiri, maze ufatira mu ntoki zabo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Bagusaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bakaguha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "amakate"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "maze ufata"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mu ntoki zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:32:22.381378047Z",
+  "model": "glm-5.3"
+}

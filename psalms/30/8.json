@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Yahwe, mu kwemera kwawe washyizeho ingufu ku musozi wanjye; uhishije uburava bwawe, nahitanye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "mu kwemera kwawe"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "wasyizeho"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ku musozi wanjye"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ingufu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "uhishije"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uburava bwawe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "narari"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "nahitanye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:06.078881376Z",
+  "model": "glm-5.3"
+}

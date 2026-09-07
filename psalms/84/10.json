@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Reba, Elohimu, urupinga rwacu, maze urebe uburanga bwa Mashiyah wawe.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "urupinga rwacu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "maze urebe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uburanga bwa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiyah wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:34.942921628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Mu byo turi kubahisho, mu butabera ubisubiza, wewe Elohimu w'ubwitange bwacu; ubwibatsi bwa byose impero z'isi no mu biyaga biri kure.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "mu byo turi kubahisho"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "mu butabera"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "ubisubiza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "w'ubwitange bwacu"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ubwibatsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwa byose"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "impero"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "z'isi"
+    },
+    {
+      "surface": "וים",
+      "gloss": "no mu biyaga"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "biri kure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:57.413694958Z",
+  "model": "glm-5.3"
+}

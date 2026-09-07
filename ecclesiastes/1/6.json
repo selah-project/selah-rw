@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umuyaga ugana mu majyepfo, ukizinga ku majyaruguru; uzenguruka, uzenguruka, ugenda umuyaga, kandi ku nzengo zawo usubira umuyaga.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "majyepfo"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ukizinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "majyaruguru"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "uzenguruka"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "uzenguruka"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "nzengo zawo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "usubira"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:21.198309374Z",
+  "model": "glm-5.3"
+}

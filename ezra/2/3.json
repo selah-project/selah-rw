@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Paroshi ⟨ni⟩ ibihumbi bibiri, ijana rimwe, mirongo irindwi n'ibiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abana"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ba Paroshi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi bibiri"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana rimwe"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "n'ibiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:15:01.665659810Z",
+  "model": "glm-5.3"
+}

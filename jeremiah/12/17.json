@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Iyo batarumva, nzasatura ⟨את⟩ icyo gihugu, nzacyisatura nkacyangiza — agira rero Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "barumva"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "nzasatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo gihugu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "icyo gihugu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "nzacyisatura"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "nkacyangiza"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "agira rero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:52:12.267086505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umwana w'ubwenge yumva icyigisho cya se, ariko unyeshyaka ntiyumva igihugo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Umwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "icyigisho"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cya se"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "unyeshyaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumva"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "igihugo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:07:55.618311247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Ibyo byose twebwe twabihuye, ariko ntituribagiwe wowe, kandi ntidakoze ubuhemu mu beriti yawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "twebwe twabihuye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko ntitu-"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ribagiwe wowe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntidakoze"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ubuhemu"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "mu beriti yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:36.663730014Z",
+  "model": "glm-5.3"
+}

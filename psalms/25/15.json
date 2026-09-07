@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Amaso yanjye bihoraho kwa Yahwe, kuko ni we azakura amaguru yanjye mu rwugi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amaso yanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bihoraho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "azakura"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "mu rwugi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "amaguru yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:34.519124692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Igihe Yowabu yari ayobora umujyi, yashyize ⟨את⟩ Uriyah mu mwanya wiwe yari azi ko aho hari abagabo b'ingufu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Igihe"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "yari ayobora"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wiwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yari azi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingufu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:13.998733235Z",
+  "model": "glm-5.3"
+}

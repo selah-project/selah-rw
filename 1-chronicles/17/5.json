@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Bityo ntabwo nari ntuye mu nzu kuva ku munsi ndazamuye ⟨את⟩ Yisraeli kugeza uyu munsi, ariko nari ndi kuva mu ihema kuri ihema no mu Mishkani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bityo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "nari ntuye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ndazamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nari ndi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "no mu Mishkani"
+    }
+  ],
+  "timestamp": "2026-09-07T20:41:36.926326185Z",
+  "model": "glm-5.3"
+}

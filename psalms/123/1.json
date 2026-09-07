@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 123,
+  "translation": "Indirimbo y'izamuka: kuri wowe nzamuye ⟨את⟩ ijisho ryanjye, wowe utuye mu ijuru.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'izamuka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nzamuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijisho ryanjye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijisho ryanjye"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mu ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:21.232800780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Na kwa Shemida, umuryango wa bwa Shemida; na kwa Kheferi, umuryango wa bwa Kheferi.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "Na kwa Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "wa bwa Shemida"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "na kwa Kheferi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "wa bwa Kheferi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:05.511629782Z",
+  "model": "glm-5.3"
+}

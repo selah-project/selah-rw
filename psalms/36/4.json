@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Amagambo y'akanwa ke ⟨ni⟩ ubwangizi n'ubuhemu; yarekanye kugira ubwenge no gukora neza.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amagambo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "y'akanwa ke"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubwangizi"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "n'ubuhemu"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "yarekanye"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "kugira ubwenge"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "no gukora neza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:00.776876311Z",
+  "model": "glm-5.3"
+}

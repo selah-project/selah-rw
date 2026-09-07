@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kugeza luku nzashyira inama mu nefeshi yanjye, agahinda mu mutima wanjye amanywa yose? Kugeza luku uwanzi wanjye arazamuka hejuru yanjye?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "luku"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "inama"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mu nefeshi yanjye"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "agahinda"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amanywa yose"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "luku"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "arazamuka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "uwanzi wanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hejuru yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:01.025741792Z",
+  "model": "glm-5.3"
+}

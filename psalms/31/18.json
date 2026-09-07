@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yahwe, nticingwe n'isoni, ko nakwibwiye nahuhamagaye; ab'ibibi bacwicwe n'isoni, bagumire kuri Sheoli.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nticingwe n'isoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "naguhamagaye"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bacwicwe n'isoni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ab'ibibi"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bagumire"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuri Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:42.641224127Z",
+  "model": "glm-5.3"
+}

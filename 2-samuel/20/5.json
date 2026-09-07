@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Amasa yagiye guhamagara ⟨את⟩ Yehuda, ariko yatindutse arenga igihe cyari cyagenewe icyo Dawidi yari yamuhaganije.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yagiye"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "guhamagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "yatindutse arenga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "igihe cyari cyagenewe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "yari yamuhaganije"
+    }
+  ],
+  "timestamp": "2026-09-07T13:20:42.845264172Z",
+  "model": "glm-5.3"
+}

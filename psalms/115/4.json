@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Ibigirwamana byabo ⟨ni⟩ ifeza n'zahabu, ibikorwa by'ibiganza by'abantu.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "n'zahabu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "by'ibiganza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "by'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:41.338276505Z",
+  "model": "glm-5.3"
+}

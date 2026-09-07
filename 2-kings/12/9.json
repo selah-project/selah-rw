@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abakohenu barabyiyemeje ngo batongera kwakira ifeza kuri ⟨את⟩ rubanda, na ngo batongera gusana ⟨את⟩ umwobo w'inzu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "barabyiyemeje"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ngo batongera"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kwakira"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuri ⟨את⟩",
+      "marks": "rubanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rubanda"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na ngo batongera"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gusana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwobo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "umwobo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:20:01.619697806Z",
+  "model": "glm-5.3"
+}

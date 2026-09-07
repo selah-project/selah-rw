@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kandi uzafata muri ibyo bike mu mibare, maze ufunga ⟨את⟩ mu mababa yawe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "muri ibyo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bike"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "mu mibare"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "maze ufunga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mu mababa yawe"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "mu mababa yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:46:48.911587911Z",
+  "model": "glm-5.3"
+}

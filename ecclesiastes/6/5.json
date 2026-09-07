@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Izuba ntiyigeze aribona, kandi ntabwo yazi; umutekano agira uyu kurusha uwo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yazi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "umutekano"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kurusha uwo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:12.324017682Z",
+  "model": "glm-5.3"
+}

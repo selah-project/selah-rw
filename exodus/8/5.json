@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze Moshe abwira Paro ati: Hitwaza icyubahiro ku njye — kugeza iki gihe kihe ndasabira wowe, na basuku bawe, na bantu bawe, ngo ibikeri bimwe iwanjye no mu nzu zawe, ariko zigume mu ruzi gusa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira… ati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "Hitwaza icyubahiro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "kugeza iki gihe kihe"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "ndasabira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "na basuku bawe"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "na bantu bawe"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ngo bimwe"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ibikeri"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "no mu nzu zawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ariko… gusa"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mu ruzi"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "zigume"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:01.791550251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Avrahamu yafata ⟨את⟩ Sarayi umugore we, na ⟨את⟩ Loti umwana wa murumuna we, na ⟨את⟩ umutungo wabo bwose cyo barakushe, na ⟨את⟩ Nefeshi ⟨abantu⟩ cyo bakoze muri Harani; barasohoka ngo bajye mu gihugu cya Kenaani, maze bagera mu gihugu cya Kenaani.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarayi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wa murumuna we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umutungo wabo bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "umutungo wabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "barakushe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Nefeshi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "Nefeshi ⟨abantu⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoze"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "muri Harani"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "barasohoka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngo bajye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaani"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "maze bagera"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cya Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-07T07:45:15.338532668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "Umurage ku ya Yisraeli, umugaragu we; kuko hesedi ye iriho ku iteka ryose.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku ya Yisraeli"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umugaragu we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka ryose"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:07.514555352Z",
+  "model": "glm-5.3"
+}

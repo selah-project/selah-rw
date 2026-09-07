@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yehoshuwa na ⟨את⟩ abantu yategetse ati: Ntimusekere, kandi ntimumenyeshe ⟨את⟩ ijwi ryanyu, kandi nta ijambo rizava mu kanwa yanyu, kugeza ku munsi nkubwira mwe nti Musekera — maze muzasekera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "musekere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "mumenyeshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi ryanyu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ijwi ryanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rizava"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "mu kanwa yanyu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nkubwira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "musekera"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "muzasekera"
+    }
+  ],
+  "timestamp": "2026-09-07T11:23:56.465818885Z",
+  "model": "glm-5.3"
+}

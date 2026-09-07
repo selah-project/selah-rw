@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Muvuge mu mahanga ati Yahwe yagize ubwami; kandi isi izatekwereye, ntizatumba na gato; azacira amahanga urubanza mu kuri.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Muvuge"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yagize ubwami"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "izatekwereye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti... na gato"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zatumba"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "azacira urubanza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "mu kuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:57.809841300Z",
+  "model": "glm-5.3"
+}

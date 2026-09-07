@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi yazeze kandi yuzuye iminsi, maze yagize umwami ⟨את⟩ Shelomo, umuhungu we, ku Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yazeze"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kandi yuzuye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yagize umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:37.149899736Z",
+  "model": "glm-5.3"
+}

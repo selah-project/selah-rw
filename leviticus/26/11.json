@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nzashyira Mishikani yanjye hagati yanyu, kandi Nefeshi yanjye ntiziheba ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishikani yanjye"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "hagati yanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nt-"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ziheba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe (icyerekezo cya ziheba)"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:31.429400689Z",
+  "model": "glm-5.3"
+}

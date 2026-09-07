@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Kuki njye ndatinya mu minsi y'ibi? Ibyaha byo ku birenge banjye bizengurutsa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "njye ndatinya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "y'ibi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Ibyaha"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "byo ku birenge banjye"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "bizengurutsa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:56.159646825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Ahabu mutwe wa Omri yakora ububi mu maso ya Yahwe, kurusha bose bari imbere ye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mutwe wa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bara"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:17.593615629Z",
+  "model": "glm-5.3"
+}

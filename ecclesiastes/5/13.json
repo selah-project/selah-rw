@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze uwo mutungo ubura mu kazi kibiza, maze abyara umuhungu, ariko ntacyo aba afite mu ntoki ye.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "maze ubura"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "uwo mutungo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "mu kazi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kibiza"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "maze abyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ntacyo ahari"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ye"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "icyo na kimwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:34.961545366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Elohimu, wowe uzi ubujiji banjye, n'ibyaha banjye ntibihishe kuri wewe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uzi"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ubujiji banjye"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "n'ibyaha banjye"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "bihishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:46.385076839Z",
+  "model": "glm-5.3"
+}

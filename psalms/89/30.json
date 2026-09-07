@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "psalms 89:30",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 89,
+ "translation": "Kandi nzashyira iteka urubyaro rwe, n'intebe ye nka iminsi y'ijuru.",
+ "tokens": [
+  {
+   "surface": "ושמתי",
+   "gloss": "Kandi nzashyira"
+  },
+  {
+   "surface": "לעד",
+   "gloss": "iteka"
+  },
+  {
+   "surface": "זרעו",
+   "gloss": "urubyaro rwe"
+  },
+  {
+   "surface": "וכסאו",
+   "gloss": "n'intebe ye"
+  },
+  {
+   "surface": "כימי",
+   "gloss": "nka iminsi"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "y'ijuru"
+  }
+ ],
+ "timestamp": "2026-09-07T18:37:40.445325308Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Bose binjira kuri yo ntibasubira, kandi ntibageza ku nzira z'ubuzima.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "binjira kuri yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "basubira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "bageza"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:22.157612141Z",
+  "model": "glm-5.3"
+}

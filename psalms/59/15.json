@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Basubire nimugoroba, bagurume nka imbwa, maze bazungagaze mu mujyi.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Basubire"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bagurume"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "nka imbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "bazungagaze"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:19.435378415Z",
+  "model": "glm-5.3"
+}

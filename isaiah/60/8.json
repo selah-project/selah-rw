@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Ninde aba baruta mu kirere nk'igicu, nka nkwavu zijya ku matdirishya yazo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ninde"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "nk'igicu"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "baruta mu kirere"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "nka nkwavu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zijya ku"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "matdirishya yazo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:32:16.143524546Z",
+  "model": "glm-5.3"
+}

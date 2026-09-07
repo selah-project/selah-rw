@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Moshe (Mose) yahamagiye abakuru b'Yisraeli (Isirayeli) bose, maze arababwira ati: Mukure, mufate intama ku muryango wanyu, maze mwashe Pesah.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru b'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arabwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ababwira ati"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "mukure"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "mufate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "ku muryango wanyu"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "mwashe"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    }
+  ],
+  "timestamp": "2026-09-07T08:48:38.542542819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 27,
+ "ref": "2-kings 19:27",
+ "book": "2-kings",
+ "lang": "rw",
+ "chapter": 19,
+ "translation": "Icawe no kuva hanze kwawe no kugaruka kwawe, narabyazi; na ⟨את⟩ ukwihekana kwawe kunjye.",
+ "tokens": [
+  {
+   "surface": "ושבתך",
+   "gloss": "icawe"
+  },
+  {
+   "surface": "וצאתך",
+   "gloss": "no kuva hanze kwawe"
+  },
+  {
+   "surface": "ובאך",
+   "gloss": "no kugaruka kwawe"
+  },
+  {
+   "surface": "ידעתי",
+   "gloss": "narabyazi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "ukwihekana kwawe"
+  },
+  {
+   "surface": "התרגזך",
+   "gloss": "ukwihekana kwawe"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "kunjye"
+  }
+ ],
+ "timestamp": "2026-09-07T14:29:47.989391809Z",
+ "model": "glm-5.3"
+}

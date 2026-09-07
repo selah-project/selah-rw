@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Mu gihe bari abagabo bake mu mibare, bake cyane, bakaba abashyitsi muri yo,",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Mu gihe bari"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bake mu mibare"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bake cyane"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "bakaba abashyitsi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:49.538802271Z",
+  "model": "glm-5.3"
+}

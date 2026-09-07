@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 57:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Kuko uko ni ko yavuze urefu kandi werekwa hejuru, utuye iteka, kandi wera Izina rye: mu bwere bwa hejuru no mu bwera njye nituye, kandi ndi na ⟨את⟩ upfavuye n'uwunyurwa umwuka, kugira ngo nzorohere umwuka w'abanyurwa, kandi nzorohere imitima y'apfavuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "רם",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kandi werekwa hejuru"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "utuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "kandi wera"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Izina rye"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "no mu bwera"
+    },
+    {
+      "surface": "אשכון",
+      "gloss": "njye nituye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "upfavuye (n'uwunyurwa umwuka)"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "upfavuye"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "n'uwunyurwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "kugira ngo nzorohere"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "שפלים",
+      "gloss": "w'abanyurwa"
+    },
+    {
+      "surface": "ולהחיות",
+      "gloss": "kandi nzorohere"
+    },
+    {
+      "surface": "לב",
+      "gloss": "imitima"
+    },
+    {
+      "surface": "נדכאים",
+      "gloss": "y'apfavuye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:53.172762418Z",
+  "model": "glm-5.3"
+}

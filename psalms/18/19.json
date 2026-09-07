@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Bansanganye ku munsi w'ihungabana ryange, ariko Yahwe yaba umusingi wanjye.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "bansanganye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "w'ihungabana ryange"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "umusingi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:39.745751670Z",
+  "model": "glm-5.3"
+}

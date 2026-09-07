@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Maze Moshe ajubika igicaniro, maze aruhutira izina ryaryo Yahwe-Nisi ⟨Yahwe ni ibendera ryanjye⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ajubika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "aruhutira izina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina ryaryo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:30.945605232Z",
+  "model": "glm-5.3"
+}

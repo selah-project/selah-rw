@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kayini (Kayini) yaravuze kuri Yahwe ati: Igihano cyanjye ni kinini kurusha uko cyo kwemerezwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini (Kayini)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ni kinini kurusha"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "igihano cyanjye"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "uko cyo kwemerezwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:40.904639885Z",
+  "model": "glm-5.3"
+}

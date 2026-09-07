@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Vuga ⟨n'iwewe⟩ mu matwi y'abantu, maze baze: umugabo mu ⟨את⟩ mugenzi we, n'umugore mu ⟨את⟩ mugenzi we — ibikoresho by'ifeza n'ibikoresho by'zahabu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨n'iwewe⟩"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mu matwi y'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "maze baze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mu ⟨את⟩",
+      "marks": "mugenzi we"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mugenzi we"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "n'umugore"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mu ⟨את⟩",
+      "marks": "mugenzi we"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "mugenzi we"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibikoresho by'"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "n'ibikoresho by'"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:06.116506148Z",
+  "model": "glm-5.3"
+}

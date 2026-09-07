@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Hana yasengeye maze aravuga ati: Umutima wanje wishimira muri Yahwe, uruhembe rwanjye ruzamutse muri Yahwe, umunwa wanjye waguwe ku banjye, ko nakunze kwishimira n'ubukiza bwawe.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "yasengeye"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "maze aravuga ati"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "wishimira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Umutima wanje"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ruzamutse"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "uruhembe rwanjye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muri Yahwe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "waguwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banjye ⟨abansi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "nakunze kwishimira"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "n'ubukiza bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:20:58.994154438Z",
+  "model": "glm-5.3"
+}

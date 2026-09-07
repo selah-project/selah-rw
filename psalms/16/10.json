@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kuko ntuzasibanganya nefeshi yanjye uri i Sheoli, ntuzuha uhesedi wawe kureba umwanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zasibanganya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uri i Sheoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zuha"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "uhesedi wawe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umwanda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:31.013144492Z",
+  "model": "glm-5.3"
+}

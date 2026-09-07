@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na iyi ni Tora y'ikorubani ry'icyaha: ni igitagatifu mu ibitagatifu ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "y'ikorubani ry'icyaha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "igitagatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mu ibitagatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:49.927214833Z",
+  "model": "glm-5.3"
+}

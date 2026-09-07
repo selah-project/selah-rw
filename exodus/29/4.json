@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "⟨את⟩ Aharoni na ⟨את⟩ abahungu be uzazane ku muryango w'ihema ry'itumanaho, maze uzabamesa ⟨את⟩ bo mu mazi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uzazane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "maze uzabamesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "mu mazi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu mazi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:15:45.454828804Z",
+  "model": "glm-5.3"
+}

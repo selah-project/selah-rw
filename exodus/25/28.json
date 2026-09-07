@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi uzakora ⟨את⟩ ibenda ibiti bya shitimu ⟨ibiti bifite inzara⟩, kandi uzayizinga ⟨את⟩ zahabu, kandi izatwarwa muri zo ⟨את⟩ imeza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibenda"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibenda"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ibiti bya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzayizinga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "izatwarwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri zo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:49.296829166Z",
+  "model": "glm-5.3"
+}

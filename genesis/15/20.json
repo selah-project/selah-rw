@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "na ⟨את⟩ hahiti na ⟨את⟩ haPerizi na ⟨את⟩ haRefayimu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hahiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hahiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "haPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haRefayimu"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "haRefayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:31.082664122Z",
+  "model": "glm-5.3"
+}

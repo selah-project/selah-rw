@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 96,
+  "translation": "Koko Yahwe ni umunini kandi agomba guhabwa icyubahiro cyane; ni nkatinya kurusha mana zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "uminini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "agomba guhabwa icyubahiro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nkatinya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:11.453022497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Amahanga yose wagize azaza bazubamire imbere yawe, Adonayi, bakazubaha izina ryawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Amahanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ajo⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wagize"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bazubamire imbere"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "bakazubaha"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:13.461407302Z",
+  "model": "glm-5.3"
+}

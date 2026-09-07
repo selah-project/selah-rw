@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Mu minsi yiwe intunganye izera nk'indabo, kandi ubwinshi bwa Shalomu kugeza ukwezi kutagihari.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "izera nk'indabo"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "mu minsi yiwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "intunganye"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kandi ubwinshi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kutagihari"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ukwezi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:56.854643112Z",
+  "model": "glm-5.3"
+}

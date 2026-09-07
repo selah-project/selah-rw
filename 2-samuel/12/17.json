@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abakuru b'inzu ya Dawidi bazamuka bari kuri we, bashaka kumurura ku isi, ariko ntiyabyemera, kandi ntiyariye na ⟨את⟩ bo imitsima.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "b'inzu ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "bashaka kumurura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nti"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yabyemera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "na ⟨את⟩ bo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imitsima"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:17.627589468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Iyo ibyibwe biboneka mu biganza bye ari bizima — inka, gushika ingurube, gushika ihene — inshuro ebyiri ayishyura.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "biboneka"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "biboneka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu biganza bye"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ibyibwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gushika"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ingurube"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gushika"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ihene"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ari bizima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "inshuro ebyiri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ayishyura"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:28.252627497Z",
+  "model": "glm-5.3"
+}

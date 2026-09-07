@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "maze mwarebye ⟨את⟩ ibigirwamana byabo bibi na ⟨את⟩ ibigirwamana byabo — igiti n'ibuye, ifeza na zahabu — bari kumwe na byo.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "maze mwarebye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibigirwamana byabo bibi"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ibigirwamana byabo bibi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibigirwamana byabo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "n'ibuye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na zahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bari kumwe na byo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:39.532741172Z",
+  "model": "glm-5.3"
+}

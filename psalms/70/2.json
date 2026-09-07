@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 70,
+  "translation": "Elohimu, ihutse kurokora njye; Yahwe, ihutse kunfasha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "kurokora njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kunfasha"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ihutse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:02.401610683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Mu by'ukuri, mu gashusho gusa umuntu ahagaza nko kugenda; mu by'ukuri mu bubusa barushijwe agahinda; yegeranya umutungo ariko ntabumenya uwuzawukurura.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "mu gashusho gusa"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ahagaza nko kugenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mu by'ukuri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mu bubusa"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "barushijwe agahinda"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "yegeranya umutungo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "-bumenya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "zawukurura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:55.163753702Z",
+  "model": "glm-5.3"
+}

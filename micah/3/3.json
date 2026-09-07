@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na ba bandi bariye inyama y'abantu banjye, bakurura uruhu rwabo kuri bo, bakanca na ⟨את⟩ amagufwa yabo, maze bakabitanura nk'ibiri mu isuko, nka inyama iri mu nkono.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "na ba bandi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bariye"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "y'abantu banjye"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "uruhu rwabo"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "bakurura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amagufwa yabo"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "amagufwa yabo"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "bakanca"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "bakabitanura"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nk'ibiri mu"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "isuko"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "nka inyama iri mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "nkono"
+    }
+  ],
+  "timestamp": "2026-09-07T21:52:42.811765899Z",
+  "model": "glm-5.3"
+}

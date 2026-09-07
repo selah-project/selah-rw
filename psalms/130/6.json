@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Nefishi yanjye ⟨iri⟩ kwa Adonayi ⟨kurusha⟩ abirinda b'igitondo, abirinda b'igitondo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefishi yanjye"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kwa Adonayi"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "abirinda b'igitondo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "igitondo"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "abirinda"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "igitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:53.489583749Z",
+  "model": "glm-5.3"
+}

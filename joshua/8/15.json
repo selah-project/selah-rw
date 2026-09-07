@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yehoshuwa n'Yisraeli bose bararemwe ⟨imbere yabo⟩, maze barahunyira inzira y'ubutayu.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "bararemwe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'…bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbere yabo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "maze barahunyira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "y'ubutayu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:26:00.217499540Z",
+  "model": "glm-5.3"
+}

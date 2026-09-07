@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi nzashyira ⟨את⟩ imibiri y'abapfuye y'abana ba Yisraeli (Yisraeli) imbere y'ibigirwamana byabo, maze nzasakaza ⟨את⟩ amagufwa yanyu ku mpande zose z'ibicaniro byanyu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imibiri y'abapfuye y'abana ba Yisraeli"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "imibiri y'abapfuye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ibigirwamana byabo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "nzasakaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagufwa yanyu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "amagufwa yanyu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ku mpande zose za"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ibicaniro byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:43:11.198467629Z",
+  "model": "glm-5.3"
+}

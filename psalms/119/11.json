@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu mutima wanjye nabungiye ijambo ryawe, kugira ngo nta cyaha nkora kuri wowe.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "nabungiye"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "nkora icyaha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:04.230045077Z",
+  "model": "glm-5.3"
+}

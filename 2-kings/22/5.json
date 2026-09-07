@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 22:5",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "maze baheshe mu ntoki abakora imirimo bagenewe mu nzu ya Yahwe, kandi baheshe ⟨את⟩ abakora imirimo bari mu nzu ya Yahwe, bakomeze ibyangiritse bya inzu.",
+  "tokens": [
+    {
+      "surface": "ויתנה",
+      "gloss": "maze baheshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ntoki"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "imirimo"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "bagenewe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "kandi baheshe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "abakora imirimo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abakora"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "imirimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "bakomeze"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ibyangiritse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:32:54.164122861Z",
+  "model": "glm-5.3"
+}

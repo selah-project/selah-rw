@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mwebwe, abagabo, ndabahamagara, kandi ijwi ryanjye kuri abana b'abantu.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndabahamagara"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "kandi ijwi ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "b'abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:04:32.774234735Z",
+  "model": "glm-5.3"
+}

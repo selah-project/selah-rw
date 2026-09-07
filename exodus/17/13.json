@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yehoshuwa yaratsinze ⟨את⟩ Amaleki na ⟨את⟩ ubwoko bwe b'icyoza.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "yaratsinze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwoko bwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ubwoko bwe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "b'icyoza"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "icyoza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:29.536182877Z",
+  "model": "glm-5.3"
+}

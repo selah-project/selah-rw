@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Barahuriye ⟨את⟩ abavandimwe babo, baratunganijwe, maze baza uko itegeko ry'umwami ryari — mu majambo ya Yahwe — yo gusukura inzu ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "barahuriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abavandimwe babo"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abavandimwe babo"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "baratunganijwe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "uko itegeko … ryari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ry'umwami"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "mu majambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "yo gusukura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:01:40.745536417Z",
+  "model": "glm-5.3"
+}

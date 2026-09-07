@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Inka zamenetse kandi zifite ishusho mibi zaririye ⟨את⟩ inka zirindwi zibanjirije, izinezerewe mu buntu.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "zaririye"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "inka"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "zamenetse"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "kandi zifite ishusho mibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inka zirindwi zibanjirije, izinezerewe mu buntu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zirindwi"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "inka"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "zibanjirije"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "izinezerewe mu buntu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:34.550055158Z",
+  "model": "glm-5.3"
+}

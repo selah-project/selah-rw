@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "N'umweru w'ababarurwa ry'itoro: amakikari ijana, n'ibihumbi rimwe n'amajana irindwi, na gatanu na mirongo irindwi ama-shekeli, mu shekeli y'ubutagatifu.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "n'umweru"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "w'ababarurwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ry'itoro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "amakikari"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "n'ibihumbi rimwe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n'amajana"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na gatanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mirongo irindwi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "amashekeli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "mu shekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'ubutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:16:40.514998147Z",
+  "model": "glm-5.3"
+}

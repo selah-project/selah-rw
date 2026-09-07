@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Abakurambere ba Yaveshi baramubwira bati: Dutegereze iminsi irindwi, maze tuwohereze intumwa mu mpaka zose za Yisraeli; iyo nta wazitura ⟨את⟩ turi, tuzava tuzaza ku wowe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "barabwira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bati"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Abakurambere"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ba Yaveshi"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Dutegereze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "maze tuwohereze"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "intumwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... zose"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "impaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "za Yisraeli"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "wazitura"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "turi (twe)"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "tuzava"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tuzaza ku wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:18.121774027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ubwiza bw'icyubahiro cy'ubukuru bwawe, n'amagambo y'ibitangaza byawe, nzitekereza ⟨kandi nzayavuga⟩.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ubwiza"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ubukuru bwawe"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "n'amagambo y'"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nzitekereza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:57.714281163Z",
+  "model": "glm-5.3"
+}

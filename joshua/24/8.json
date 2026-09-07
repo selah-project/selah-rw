@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Naje namazana ⟨את⟩ mwe mu gihugu cya Abahemori babaga burenze Yardenu, barwanye na ⟨את⟩ mwe; maze ndaha ⟨את⟩ bo mu biganza byanyu, muratunga ⟨את⟩ ubutaka bwabo, maze narabazimishije imbere yanyu.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "Naje namazana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu cya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abahemori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "babaga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "burenze"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "barwanye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "na ⟨את⟩ mwe",
+      "marks": ""
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndaha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "mu biganza byanyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mu biganza byanyu"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "muratunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutaka bwabo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ubutaka bwabo"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "narabazimishije"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "imbere yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:22.227021463Z",
+  "model": "glm-5.3"
+}

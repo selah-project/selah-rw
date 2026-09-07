@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Nzaba nk'imbeho ku Yisraeli (Yisraeli); azavamera nk'uruhwa, maze amizi ye azirutsa nka Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Nzaba"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "nk'imbeho"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku Yisraeli (Yisraeli)"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "azavamera"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "nk'uruhwa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "azirutsa"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "amizi ye"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nka Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-07T17:34:11.084616773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Abasuku be baramujyana mu modoka baramujyana i Yerushalayimu, maze bamuziye mu mva ye hamwe n'abakurambere be, mu mujyi wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "baramujyana (mu modoka)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Ahaziya)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasuku be"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bamuziye (mu mva)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "mu mva ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abakurambere be"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:42.051692591Z",
+  "model": "glm-5.3"
+}

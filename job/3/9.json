@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Inyenyeri z'ijoro rigiye kugwa zihishire; izitegereze umucyo, kandi nta wo; kandi ntabwo izabona ku mpome z'igitondo.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "zihishire"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "inyenyeri"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "z'ijoro rigiye kugwa"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "izitegereze"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "umucyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta wo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "izabona"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "ku mpome"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "z'igitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T22:01:06.697971519Z",
+  "model": "glm-5.3"
+}

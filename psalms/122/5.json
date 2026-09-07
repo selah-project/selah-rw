@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Kuko aha intebe zo gucira itegeko zihari, intebe z'urugo rwa Dawidi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zihari"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "intebe"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "zo gucira itegeko"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "intebe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "z'urugo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.914980380Z",
+  "model": "glm-5.3"
+}

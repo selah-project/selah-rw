@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "We utanga urubura nk'ivu ry'intama, urukwagura nk'ivu ry'imbabazi arawurasa.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "urubura"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "nk'ivu ry'intama"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "urukwagura"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "nk'ivu ry'imbabazi"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "arawurasa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:19.991967026Z",
+  "model": "glm-5.3"
+}

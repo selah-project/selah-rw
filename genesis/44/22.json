@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Twabwiye databuja wacu tuti: Umwana ntashobora gusiga ⟨את⟩ se we; iyo yasiguye ⟨את⟩ se we, arapfa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Twabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "databuja wacu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Umwana"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "gusiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se we"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "iyo yasiguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se we"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:29.459502895Z",
+  "model": "glm-5.3"
+}

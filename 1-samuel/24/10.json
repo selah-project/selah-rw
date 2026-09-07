@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Dawidi abwira Shauli ati: Kuki umva ⟨את⟩ amagambo y'abantu avuga uti: Rabara, Dawidi ashaka ibibi byawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo y'abantu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo y'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "avuga uti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rabara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ashaka"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ibibi byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:28.987986449Z",
+  "model": "glm-5.3"
+}

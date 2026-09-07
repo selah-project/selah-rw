@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Gusa ⟨את⟩ ifeza rihatanzwe mu ntoki zabo ntiribarurwa, kuko bo bakora mu kwizera.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ribarurwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ifeza (mu ntoki zabo)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "rihatanzwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ntoki zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "mu kwizera"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakora"
+    }
+  ],
+  "timestamp": "2026-09-07T14:32:54.164769365Z",
+  "model": "glm-5.3"
+}

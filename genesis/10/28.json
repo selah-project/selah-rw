@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ Ovalu na ⟨את⟩ Avimaelu na ⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ovalu"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovalu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avimaelu"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:28.899980962Z",
+  "model": "glm-5.3"
+}

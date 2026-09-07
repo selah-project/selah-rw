@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Bazaniye Moshe ⟨את⟩ Mishkani, ⟨את⟩ ihema na ⟨את⟩ ibikoresho byacyo byose: utudomo bwacyo, amabaho yacyo, imirongo yacyo, n'inkinguti zacyo, n'ibyatingiro byacyo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "bazaniye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byacyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho byacyo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "utudomo bwacyo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "amabaho yacyo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "imirongo yacyo"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "n'inkinguti zacyo"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "n'ibyatingiro byacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:24:01.947751103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "mwene Shalumu, mwene Tsadoku, mwene Ahitubu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:18.102819404Z",
+  "model": "glm-5.3"
+}

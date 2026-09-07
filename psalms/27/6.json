@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "None ubu umutwe wanjye uzamuka hejuru y'abansi banjye bampengetsa; mu ihema rye nzibiraho ibitambo by'ibyishimo; ndahira, kandi ndahira indirimbo kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "uzamuka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umutwe wanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "bampengetsa"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "nzibiraho"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "mu ihema rye"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ibitambo"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "by'ibyishimo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndahira"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kandi ndahira indirimbo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:01.196736822Z",
+  "model": "glm-5.3"
+}

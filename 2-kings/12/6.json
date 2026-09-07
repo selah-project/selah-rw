@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abakohenu bafate ku bwabo, buri wese na ⟨את⟩ abamenyi be; bo bakomeze ⟨את⟩ ibyacitse by'inzu, ku byose aho bibonekana ibyacitse.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "bafate"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku bwabo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abakohenu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abamenyi be"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "abamenyi be"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "bakomeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyacitse"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ibyacitse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "by'inzu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bibonekana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ahandi hose"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ibyacitse"
+    }
+  ],
+  "timestamp": "2026-09-07T14:20:58.433135580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Yabafata, abanyuriza ⟨את⟩ uruzi, kandi anyuriza ⟨את⟩ ibyo yari afite byose.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "yabafata"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "abanyuriza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruzi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "uruzi"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kandi anyuriza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo yari afite byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yari afite"
+    }
+  ],
+  "timestamp": "2026-09-07T08:04:45.627543157Z",
+  "model": "glm-5.3"
+}

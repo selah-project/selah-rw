@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Arasama abavandimwe be bose ararira kuri bo, nyuma y'aho abavandimwe be baravugana ⟨את⟩ na we.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "arasama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku ... bose"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ararira"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y'aho"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "baravugana"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:27:41.561394770Z",
+  "model": "glm-5.3"
+}

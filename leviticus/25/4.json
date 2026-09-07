@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Mu mwaka wa gindwi Shabati — Sabatonu ⟨ni⟩ cy'ahumye cy'isi, Shabati kwa Yahwe: umurima wawe nturawuraza, n'urubuto rwawe nturawutemba.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Mu mwaka wa"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "gindwi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabatonu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ni⟩ \/ habeho"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "cy'isi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "umurima wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntura-"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uraza"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "n'urubuto rwawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntura-"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "utemba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:25.000918216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ntugende nka umuvugabukwe mu bantu bawe; ntuhagare ku maraso y'umunyurwanda wawe; njye ndi Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gende"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "nka umuvugabukwe"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "mu bantu bawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "hagare"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דם",
+      "gloss": "maraso"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "y'umunyurwanda wawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:53.438861039Z",
+  "model": "glm-5.3"
+}

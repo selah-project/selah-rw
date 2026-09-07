@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Bahore isoni bakankebwe, abashaka nefeshi yanjye; basubire inyuma bikanandurwa, abatekereza ibibi kuri njye.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bahore isoni"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "bakankebwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abashaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "basubire"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "bikanandurwa"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "abatekereza"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ibibi kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:37.009264837Z",
+  "model": "glm-5.3"
+}

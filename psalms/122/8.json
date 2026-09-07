@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Kubera abavandimwe banjye n'inshuti zanjye, nzavuga ngira ngo: Shalomu ibeho muri wewe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kubera"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abavandimwe banjye"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "n'inshuti zanjye"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "nzavuga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngira ngo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.919098975Z",
+  "model": "glm-5.3"
+}

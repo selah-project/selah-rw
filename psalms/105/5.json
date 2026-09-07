@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Mwibuke ibitangaza bye yakoze, ibimenyetso bye n'imibanire y'akanwa ke.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "mwibuke"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ibitangaza bye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ibimenyetso bye"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "n'imibanire"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "y'akanwa ke"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:01.418554198Z",
+  "model": "glm-5.3"
+}

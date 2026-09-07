@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Warabujije umunsi mibare y'uburumbuke bwe, maze umuteye hasi n'isi intebe ye.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "warabujije umunsi mibare y'uburumbuke bwe"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "uburumbuke bwe"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "maze umuteye hasi n'isi intebe ye"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "umuteye hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:15.925453065Z",
+  "model": "glm-5.3"
+}

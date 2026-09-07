@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Ku bantu bawe barategura ubwenge bwa muhide, bakanahunikiraho ibyihishe byawe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "barategura ubwenge bwa muhide"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ubwenge bwa muhide"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "bakanahunikiraho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ibyihishe byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.964171543Z",
+  "model": "glm-5.3"
+}

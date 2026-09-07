@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bararanje mu gitondo, maze izuba ryarashe ku mazi, Moabu babonye iburyo ⟨את⟩ amazi yameje umutuku nk'amaraso.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "bararanje"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "maze izuba"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ryarashe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babonye"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "iburyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "atuku"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "nk'amaraso"
+    }
+  ],
+  "timestamp": "2026-09-07T22:11:05.072921020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Yahwe, Elohimu wanjye, nakuguhiye, maze unaravuriye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nakuguhiye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨uriye wowe⟩"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "unaravuriye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:37.081839326Z",
+  "model": "glm-5.3"
+}

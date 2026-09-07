@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Iyo afite abavandimwe nta, muzaha ⟨את⟩ umurage we abavandimwe ba se we.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "afite"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abavandimwe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "muzaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage we"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "umurage we"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "abavandimwe ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se we"
+    }
+  ],
+  "timestamp": "2026-09-07T10:32:45.893564647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Ufugura ⟨את⟩ intoki yawe, maze wuzuzisha icyifuzo cy'ibyose birimo ubuzima.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Ufugura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki yawe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "intoki yawe"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "maze wuzuzisha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cy'ibyose"
+    },
+    {
+      "surface": "חי",
+      "gloss": "birimo ubuzima"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "icyifuzo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:15.063480346Z",
+  "model": "glm-5.3"
+}

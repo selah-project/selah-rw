@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "We ureba isi, ikatetanya; agafata imisozi, ikavamo umotsi.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ureba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ikatetanya"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "agafata"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ikavamo umotsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:56.651020366Z",
+  "model": "glm-5.3"
+}

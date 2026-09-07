@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ibi ni amazina y'abahungu ba Aharoni, abaherezi bahanwe amavuta, aho intoki zabo zajujwijwe zo gukorera mu buherezi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "y'abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "bahanwe amavuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "zajujwijwe"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "zo gukorera mu buherezi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:01:53.608441286Z",
+  "model": "glm-5.3"
+}

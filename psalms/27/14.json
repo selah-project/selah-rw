@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Tegereza kuri Yahwe: komeza ngufi, kandi umutima wawe ufate imbaraga — na none tegereza kuri Yahwe!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Tegereza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "komeza ngufi"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ufate imbaraga"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "na none tegereza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:26.529367514Z",
+  "model": "glm-5.3"
+}

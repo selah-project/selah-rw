@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yishimire umusozi wa Tsiyoni, bikundane inkumi z'i Yehuda, kubera ibyemezo byawe.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Yishimire"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wa Tsiyoni"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "bikundane"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "inkumi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "z'i Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ibyemezo byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:21.902748909Z",
+  "model": "glm-5.3"
+}

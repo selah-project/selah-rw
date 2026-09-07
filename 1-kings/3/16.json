@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Icyo gihe abagore babiri bakora ubusambwa baza ku mwami, bagahaguruka imbere ye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Icyo gihe"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "baza"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "bakora ubusambwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "bagahaguruka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:30:15.660338879Z",
+  "model": "glm-5.3"
+}

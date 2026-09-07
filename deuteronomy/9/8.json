@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "No mu Horebu nuko mwaremye umugisha ⟨את⟩ Yahwe, maze Yahwe arabakazira kuri mwe ngo abatsembye ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "No mu Horebu"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "mwaremye umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "arabakazira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ngo abatsembye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:57.658729140Z",
+  "model": "glm-5.3"
+}

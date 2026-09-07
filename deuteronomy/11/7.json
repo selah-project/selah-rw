@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kuko amaso yanyu ni yo yabonye ⟨את⟩ ibikorwa byose bikomeye bya Yahwe byakoze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amaso yanyu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibikorwa byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "bikomeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "byakoze"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:02.853629892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 20:17",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yowavu yegereje kuri we, maze umugore aravuga ati: Wowe, ni wowe Yowavu? Yishuye aravuga ati: Ni njye. Aramubwira ati: Umva amagambo y'umuja wawe. Yishuye aravuga ati: Ni njye ndumva.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yegereje"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yishuye aravuga ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(kuri we)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "y'umuja wawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yishuye aravuga ati"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ndumva"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni njye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:17:38.084724889Z",
+  "model": "glm-5.3"
+}

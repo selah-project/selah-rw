@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Nzishime kandi ndanezerwe mu hesedi yawe, ko wabonye ⟨את⟩ ihungabana ryanjye, warazi mu bihe bikomeye nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Nzishime"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "kandi ndanezerwe"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "mu hesedi yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihungabana ryanjye"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ihungabana ryanjye"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "warazi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mu bihe bikomeye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:27.808213635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "jeremiah 42:4",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 42,
+ "translation": "Yirmeyahu umuhanuzi arababwira ati: Namvise; ndi ndasaba kuri Yahwe Elohimu wanyu uko mubyivuze; maze ijambo ryose Yahwe azibishuriye ⟨את⟩ mwe, ndabaribwira; ntindagire ijambo ku mwe.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "arababwira"
+  },
+  {
+   "surface": "אליהם",
+   "gloss": "kuri bo"
+  },
+  {
+   "surface": "ירמיהו",
+   "gloss": "Yirmeyahu"
+  },
+  {
+   "surface": "הנביא",
+   "gloss": "umuhanuzi"
+  },
+  {
+   "surface": "שמעתי",
+   "gloss": "namvise"
+  },
+  {
+   "surface": "הנני",
+   "gloss": "ndi ndasaba"
+  },
+  {
+   "surface": "מתפלל",
+   "gloss": "ndasaba"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimu wanyu"
+  },
+  {
+   "surface": "כדבריכם",
+   "gloss": "uko mubyivuze"
+  },
+  {
+   "surface": "והיה",
+   "gloss": "maze"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ryose"
+  },
+  {
+   "surface": "הדבר",
+   "gloss": "ijambo"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "rizo"
+  },
+  {
+   "surface": "יענה",
+   "gloss": "azibishuriye"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "אגיד",
+   "gloss": "ndabaribwira"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "mwe"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "אמנע",
+   "gloss": "ntindagire"
+  },
+  {
+   "surface": "מכם",
+   "gloss": "ku mwe"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "ijambo"
+  }
+ ],
+ "timestamp": "2026-09-07T16:24:02.887771907Z",
+ "model": "glm-5.3"
+}

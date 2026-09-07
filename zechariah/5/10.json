@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Nabwiye umumalayika wari uvugana na njye ndi uti: Ni hehe bajyana ⟨את⟩ ipfula y'ingano?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umumalayika"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wari uvugana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na njye"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ni hehe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "bajyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ipfula y'ingano"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ipfula y'ingano"
+    }
+  ],
+  "timestamp": "2026-09-07T17:57:29.429091025Z",
+  "model": "glm-5.3"
+}

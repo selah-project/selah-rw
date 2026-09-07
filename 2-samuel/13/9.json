@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze Tamari afata ⟨את⟩ igisahani, ayateka imbere ye, Amnonu aranka kurya; Amnonu aravuga ati: Bakaniye buri muntu iwanjye; maze buri muntu ava iwe.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igisahani"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "igisahani"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "ayateka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "aranka"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kurya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonu"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "bakaniye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:07:43.104634152Z",
+  "model": "glm-5.3"
+}

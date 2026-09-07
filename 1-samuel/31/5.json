@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Uwutwara ibikoresho bye yarabonye ko Shauli yapfuye, maze na we yaguye ku mupanga we arapfa hamwe na we.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "uwutwara"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ibikoresho bye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yaguye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mupanga we"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:58:29.967259419Z",
+  "model": "glm-5.3"
+}

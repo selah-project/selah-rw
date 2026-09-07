@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Bose bita izina ryanjye, kandi ngirira ubwiza: naremye, namatunganya, namara kubakora.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "bita"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "kandi ngirira ubwiza"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "naremye"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "namatunganya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "namara"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "kubakora"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:56.910405897Z",
+  "model": "glm-5.3"
+}

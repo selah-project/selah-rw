@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Nuko muri ubuzima bwanjye ndzakusingiza, mu izina ryawe ndazamaza ibiganza byanjye.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Nuko"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndzakusingiza"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "muri ubuzima bwanjye"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu izina ryawe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndazamaza"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ibiganza byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:48.163029261Z",
+  "model": "glm-5.3"
+}

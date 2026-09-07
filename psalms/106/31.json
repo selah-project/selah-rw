@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Ibyo byabazwe ko ari ubutunganya, ku muryango n'undi, unka iteka.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "byabazwe ko ari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ubutunganya"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'undi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "unka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:08.053665401Z",
+  "model": "glm-5.3"
+}

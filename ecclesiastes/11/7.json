@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Kandi urumuri ruryohe, kandi ni byiza ku maso kureba ⟨את⟩ izuba.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ruryohe"
+    },
+    {
+      "surface": "האור",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ku maso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izuba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:12.281793095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "N'abahemba ibibi ahant'icyiza baranshutiya, ku bw'uko nkurikira icyiza.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "N'abahemba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ahant'"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "baranshutiya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ku bw'uko"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "nkurikira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "icyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:38.378639875Z",
+  "model": "glm-5.3"
+}

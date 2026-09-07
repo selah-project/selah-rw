@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "1-kings 20:18",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Yaravuze ati: Niba barasohotse kuri amahoro, mubafate bazima; kandi niba barasohotse kuri intambara, mubafate bazima.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "yaravuze ati"
+  },
+  {
+   "surface": "אם",
+   "gloss": "niba"
+  },
+  {
+   "surface": "לשלום",
+   "gloss": "kuri amahoro"
+  },
+  {
+   "surface": "יצאו",
+   "gloss": "barasohotse"
+  },
+  {
+   "surface": "תפשום",
+   "gloss": "mubafate"
+  },
+  {
+   "surface": "חיים",
+   "gloss": "bazima"
+  },
+  {
+   "surface": "ואם",
+   "gloss": "kandi niba"
+  },
+  {
+   "surface": "למלחמה",
+   "gloss": "kuri intambara"
+  },
+  {
+   "surface": "יצאו",
+   "gloss": "barasohotse"
+  },
+  {
+   "surface": "חיים",
+   "gloss": "bazima"
+  },
+  {
+   "surface": "תפשום",
+   "gloss": "mubafate"
+  }
+ ],
+ "timestamp": "2026-09-07T13:59:17.345839477Z",
+ "model": "glm-5.3"
+}

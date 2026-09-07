@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "zephaniah 1:4",
+ "book": "zephaniah",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Kandi nzagororoha n'intoki yanjye kuri Yehuda no ku batuye ba Yerushalayimu bose; nzakuratura mu kibanza iki ⟨את⟩ ibisigaye bya Baalu, ⟨את⟩ izina ry'abakohenu b'ibigirwamana hamwe n'abakohenu.",
+ "tokens": [
+  {
+   "surface": "ונטיתי",
+   "gloss": "nzagororoha"
+  },
+  {
+   "surface": "ידי",
+   "gloss": "n'intoki yanjye"
+  },
+  {
+   "surface": "על",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehuda"
+  },
+  {
+   "surface": "ועל",
+   "gloss": "no ku"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "יושבי",
+   "gloss": "batuye"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "ba Yerushalayimu"
+  },
+  {
+   "surface": "והכרתי",
+   "gloss": "nzakuratura"
+  },
+  {
+   "surface": "מן",
+   "gloss": "mu"
+  },
+  {
+   "surface": "המקום",
+   "gloss": "kibanza"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "iki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ibisigaye bya Baalu"
+  },
+  {
+   "surface": "שאר",
+   "gloss": "ibisigaye"
+  },
+  {
+   "surface": "הבעל",
+   "gloss": "bya Baalu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "izina ry'abahere b'ibigirwamana"
+  },
+  {
+   "surface": "שם",
+   "gloss": "izina"
+  },
+  {
+   "surface": "הכמרים",
+   "gloss": "ry'abahere b'ibigirwamana"
+  },
+  {
+   "surface": "עם",
+   "gloss": "hamwe n'"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "abakohenu"
+  }
+ ],
+ "timestamp": "2026-09-07T17:56:00.885471938Z",
+ "model": "glm-5.3"
+}

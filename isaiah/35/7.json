@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 35:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Maze ubushuhe bwa zimuri buzaba urwobo rw'amazi, n'ubutaka bukennye amazi buzaba amasoko y'amazi; aho impyisi zaryamagamo hazamera ibyatsi, uruhande rw'ibishishwa n'ibyogori.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maze"
+    },
+    {
+      "surface": "השרב",
+      "gloss": "ubushuhe bwa zimuri"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "buzaba urwobo rw'amazi"
+    },
+    {
+      "surface": "וצמאון",
+      "gloss": "n'ubutaka bukennye amazi"
+    },
+    {
+      "surface": "למבועי",
+      "gloss": "buzaba amasoko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'amazi"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "aho"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "impyisi"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "zaryamagamo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "hazamera ibyatsi"
+    },
+    {
+      "surface": "לקנה",
+      "gloss": "uruhande rw'ibishishwa"
+    },
+    {
+      "surface": "וגמא",
+      "gloss": "n'ibyogori"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:10.983516974Z",
+  "model": "glm-5.3"
+}

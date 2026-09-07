@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 101,
+  "translation": "Amaso yanjye araba ku b'ukuri b'isi, ngo bature iwanjye; ugenda mu nzira y'ubungiranizi — we ni we unrakorera.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ku b'ukuri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngo bature"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ugenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "y'ubungiranizi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ni we unrakorera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:18.800840351Z",
+  "model": "glm-5.3"
+}

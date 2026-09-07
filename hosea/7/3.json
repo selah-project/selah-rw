@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Mu bibi byabo bakuneza umwami, no mu buhinyi bwabo bakuneza abatware.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "mu bibi byabo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bakuneza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "no mu buhinyi bwabo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abatware"
+    }
+  ],
+  "timestamp": "2026-09-07T17:31:45.062488423Z",
+  "model": "glm-5.3"
+}

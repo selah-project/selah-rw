@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Umuntu umwe wese wo mu nzu ya Yisraeli, weeza inka cyangwa intama cyangwa ihene mu nkambi, cyangwa weeza hanze y'inkambi,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu umwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wese"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wo mu nzu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "weeza"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inka"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "intama"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ihene"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mu nkambi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "weeza"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'inkambi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:12.491809649Z",
+  "model": "glm-5.3"
+}

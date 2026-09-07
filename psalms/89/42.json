@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Bamuriye byose abanyabuzira bamuhuye; yahindutse isoni mu baturanyi be.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "Bamuriye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "abanyabuzira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "mu baturanyi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:06.114624993Z",
+  "model": "glm-5.3"
+}

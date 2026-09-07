@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "maze amarembo yifungira ku muhanda, mu gihe ijwi ry'igaya riryoroheye, maze umuntu azamuka ku ijwi ry'inyoni, n'abakobwa b'indirimbo bose bakagira intege nke.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "maze ... yifungira"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "amarembo"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ku muhanda"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "mu gihe ... riryoroheye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ry'igaya"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "maze ... azamuka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ry'inyoni"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "bakagira intege nke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "b'indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:42.723522868Z",
+  "model": "glm-5.3"
+}

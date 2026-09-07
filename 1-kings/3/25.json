@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umwami yaravuze ati: Mugabanye ⟨את⟩ umwana uriho ubu mu bituby bibiri, muhe ⟨את⟩ igice kuri umwe, na ⟨את⟩ igice kuri undi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "mugabanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "uriho ubu"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mu bituby bibiri"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "muhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igice"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "igice"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kuri umwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igice"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "igice"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kuri undi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:32:13.736527195Z",
+  "model": "glm-5.3"
+}

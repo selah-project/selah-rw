@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Kandi ukuri kwawe, Elohimu, kigeza ku butumbature; uwo wakoze ibintu bikuru, Elohimu, ni nde uri nk'wewe?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Kandi ukuri kwawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kigeza"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ku butumbature"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ibintu bikuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "uri nk'wewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:27.121189941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Elohimu yabaye umwami ku mahanga; Elohimu yacitse ku ntebe y'icyubahiro cye.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "yabaye umwami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yacitse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ntebe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "y'icyubahiro cye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:53.621197860Z",
+  "model": "glm-5.3"
+}

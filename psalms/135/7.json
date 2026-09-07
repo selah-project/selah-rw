@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Uzamura ibicu ku mpera z'isi, azimya imiriyango y'imbibi y'imvura, akurura umuyaga mu bilimo bye.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "uzamura"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ibicu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "z'isi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "imbibi y'imvura"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "y'imvura"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "azimya"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "akurura"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "mu bilimo bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.501607470Z",
+  "model": "glm-5.3"
+}

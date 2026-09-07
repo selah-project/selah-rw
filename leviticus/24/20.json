@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Igicane mu mwanya w'igicane, ijisho mu mwanya ry'ijisho, iryinyo mu mwanya ry'iryinyo; uko yatanze umwuma mu muntu, ni ko bitangirwa muri we.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "igicane"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya wa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "igicane"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya ry'"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iryinyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya ry'"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iryinyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "מום",
+      "gloss": "umwuma"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mu muntu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "bitangirwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:51:40.250805571Z",
+  "model": "glm-5.3"
+}

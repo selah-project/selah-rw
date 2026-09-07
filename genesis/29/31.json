@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Yahwe yabonye ko Lea yankirwaga, na yamufunguriye ⟨את⟩ inda ye; Raheli we yari ingumba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "yankirwaga"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "na yamufunguriye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inda ye"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "inda ye"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "Raheli we"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ingumba"
+    }
+  ],
+  "timestamp": "2026-09-07T08:02:40.260232002Z",
+  "model": "glm-5.3"
+}

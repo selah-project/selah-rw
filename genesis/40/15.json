@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Koko nageterewe mu gihugu cya Abanyahiburu; kandi hano nta na kimwe nakoze ko barashyize ⟨את⟩ jye mu kizu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "guterwa"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "nageterewe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "cya Abanyahiburu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "barashyize"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mu kizu"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "mu kizu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:17:18.956705750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 24:1",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 24,
+ "translation": "Indirimbo ya Dawidi, ihariye Yahwe: isi ni iya Yahwe hamwe n'ibyuzuyemo, isi yose n'ababayeho ho.",
+ "tokens": [
+  {
+   "surface": "לדוד",
+   "gloss": "ya Dawidi"
+  },
+  {
+   "surface": "מזמור",
+   "gloss": "indirimbo"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "ihariye Yahwe"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "isi"
+  },
+  {
+   "surface": "ומלואה",
+   "gloss": "hamwe n'ibyuzuyemo"
+  },
+  {
+   "surface": "תבל",
+   "gloss": "isi yose"
+  },
+  {
+   "surface": "וישבי",
+   "gloss": "n'ababayeho"
+  },
+  {
+   "surface": "בה",
+   "gloss": "ho"
+  }
+ ],
+ "timestamp": "2026-09-07T18:14:54.878164351Z",
+ "model": "glm-5.3"
+}

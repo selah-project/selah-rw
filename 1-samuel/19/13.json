@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Mikalu yafashe ⟨את⟩ ibigirwamana maze abyishyiriye ku gitanda, na ⟨את⟩ ikariso y'ubwoya bw'ibihene abyishyiriye ku mutwe wabyo, maze abyishishije n'umwenda.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikalu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibigirwamana"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "abyishyiriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gitanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikariso y'ubwoya bw'ibihene"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ikariso"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "y'ibihene"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "abyishyiriye"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ku mutwe wabyo"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "abyishishije"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "n'umwenda"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:17.622874263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ hashapani (ishavu), kuko irazanura ubwatsi bw'igitigu, ariko ntigatandukanya umunwa w'ikirenge — irafiteme ibyaha muri mwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hashapani"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "hashapani (ishavu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "irazanura"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ubwatsi bw'igitigu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ariko umunwa w'ikirenge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "gatandukanya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "irafiteme ibyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:40.861311042Z",
+  "model": "glm-5.3"
+}

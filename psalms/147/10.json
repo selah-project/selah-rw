@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Ntagihinga mu ngufu z'ifarashi; ntagihinga mu maguru y'umuntu arishimwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "mu ngufu"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "z'ifarashi"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ntagihinga (yishimirwa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "mu maguru"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "arishimwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:31.586012850Z",
+  "model": "glm-5.3"
+}

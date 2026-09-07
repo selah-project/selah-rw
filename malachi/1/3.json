@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Esavu nkanze, nashyize ⟨את⟩ imisozi ye amacakubiri, na ⟨את⟩ umurage we ku mpyisi z'ibutayu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nkanze"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imisozi ye"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "imisozi ye"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "amacakubiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umurage we"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "umurage we"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "ku mpyisi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "z'ibutayu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:44.695165800Z",
+  "model": "glm-5.3"
+}

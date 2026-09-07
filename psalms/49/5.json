@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Nzagwikisha ugushusho kwanjye ku masheli; nzafungura ibanga ryanjye ku ndingati.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "nzagwikisha"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ku masheli"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ugushusho kwanjye"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nzafungura"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ku ndingati"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ibanga ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:56.159338031Z",
+  "model": "glm-5.3"
+}

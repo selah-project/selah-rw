@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umva, Yahwe, unyegere impuhwe; Yahwe, ba umufasha wanjye.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Umva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "unyegere impuhwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umufasha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:23.785087669Z",
+  "model": "glm-5.3"
+}

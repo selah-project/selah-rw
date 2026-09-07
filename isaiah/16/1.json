@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Nimurunge intama y'umwami w'ubutaka, ivuye muri Sela yerekeze mu butayu, kuri umusozi w'urukobwa rwa Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Nimurunge"
+    },
+    {
+      "surface": "כר",
+      "gloss": "intama"
+    },
+    {
+      "surface": "משל",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "urukobwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T14:56:35.238221280Z",
+  "model": "glm-5.3"
+}

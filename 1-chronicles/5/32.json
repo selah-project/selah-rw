@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "1-chronicles 5:32",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Maze Uzzi yabyaye ⟨את⟩ Zerachiyahu; Zerachiyahu na we yabyaye ⟨את⟩ Merayothu.",
+ "tokens": [
+  {
+   "surface": "ועזי",
+   "gloss": "Maze Uzzi"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "yabyaye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Zerachiyahu"
+  },
+  {
+   "surface": "זרחיה",
+   "gloss": "Zerachiyahu"
+  },
+  {
+   "surface": "וזרחיה",
+   "gloss": "Zerachiyahu na we"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "yabyaye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Merayothu"
+  },
+  {
+   "surface": "מריות",
+   "gloss": "Merayothu"
+  }
+ ],
+ "timestamp": "2026-09-07T20:31:48.472071746Z",
+ "model": "glm-5.3"
+}

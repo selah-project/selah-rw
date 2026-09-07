@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Igicaniro cy'ubutaka uzakora kuri jye, maze uzatambira ho ⟨את⟩ ibitamvye byawe na ⟨את⟩ ituro ryawe ry'amahoro, ⟨את⟩ intama zawe na ⟨את⟩ amako yawe; mu mahantu yose aho nzibutsa ⟨את⟩ izina ryanjye, nzaza kuri wowe maze nkaguha umugisha.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "Igicaniro"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "cy'ubutaka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "maze uzatambira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibitamvye byawe"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ibitamvye byawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ituro ryawe ry'amahoro"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "ituro ryawe ry'amahoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama zawe"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "intama zawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amako yawe"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "amako yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … yose"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "nzibutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina ryanjye"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nzaza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "maze nkaguha umugisha"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:26.863194189Z",
+  "model": "glm-5.3"
+}

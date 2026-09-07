@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Ntumarakare, Yahwe, cyane, kandi ntureke uzibuka iteka icyaha; reka, reba nyabuna — twebwe twese ⟨ni⟩ abantu bawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntumarakare"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "ntumarakare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntureke"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "uzibuka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "הן",
+      "gloss": "reka"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "reba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyabuna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "twebwe twese"
+    }
+  ],
+  "timestamp": "2026-09-07T15:33:18.206232296Z",
+  "model": "glm-5.3"
+}

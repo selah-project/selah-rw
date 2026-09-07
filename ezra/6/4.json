@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "mu mbariro eshatu y'amabuye manini, n'imbariro imwe y'urubaho rushya; maze ibiciro bihabwe biva mu nzu y'umwami.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "mu mbariro"
+    },
+    {
+      "surface": "די",
+      "gloss": "y'"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "manini"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "eshatu"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "n'imbariro"
+    },
+    {
+      "surface": "די",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אע",
+      "gloss": "y'urubaho"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "rushya"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "maze ibiciro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "biva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "bihabwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:17:58.394022397Z",
+  "model": "glm-5.3"
+}

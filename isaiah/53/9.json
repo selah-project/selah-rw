@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Bamuhaye ⟨את⟩ ababi kaburi ye, na ⟨את⟩ ukunguku mu gupfa kwe; kuko intimba ntiyakoze, kandi uburiganya ntabwo bwari mu kanwa ye.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "bamuhaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kaburi ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukunguku"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ukunguku"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "mu gupfa kwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "intimba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "uburiganya"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mu kanwa ye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:26:49.670254411Z",
+  "model": "glm-5.3"
+}

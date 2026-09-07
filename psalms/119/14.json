@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Mu nzira y'ibyemezo byawe nishimiye, nk'urw'ubutunzi bwose.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Mu nzira"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "y'ibyemezo byawe"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "nishimiye"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "nk'urw'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ubutunzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:58.726331249Z",
+  "model": "glm-5.3"
+}

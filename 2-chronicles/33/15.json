@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yakuyemo ⟨את⟩ imana z'amahanga na ⟨את⟩ igishushanyo mu nzu ya Yahwe, n'amatari yose yubatswe ku musozi wa nzu ya Yahwe no mu Yerushalayimu, abikubitisha hanze y'umujyi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yakuyemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imana z'amahanga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igishushanyo"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "igishushanyo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu nzu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'… yose"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "amatari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yubatswe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ku musozi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "no mu Yerushalayimu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "abikubitisha"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "y'umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:04:48.458042041Z",
+  "model": "glm-5.3"
+}

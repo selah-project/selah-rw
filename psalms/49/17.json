@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Ntutinye ko umuntu azahinduka umukire, ko icyubahiro cy'inzu ye cyiyongera,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "utinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "azahinduka umukire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "cyiyongera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "cy'inzu ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:00.590542118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": " ⟨Icyubahiro⟩ kuri Yahwe: uracyaza ubutabera n'urubanza; hesedi rya Yahwe ruruzuye isi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "uracyaza ⟨Icyubahiro⟩"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ubutabera"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "n'urubanza"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ruruzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:20.611494135Z",
+  "model": "glm-5.3"
+}

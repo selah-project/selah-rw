@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Zamuka, Yahwe, unkize, Elohimu wanjye, kuko waguheje ⟨את⟩ abanzi banjye bose ku tsinzi, wamenetse ameyo y'abakuru.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "unkize"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "waguheje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanzi banjye bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abanzi banjye"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ku tsinzi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amenyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wamenetse"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:58.936113854Z",
+  "model": "glm-5.3"
+}

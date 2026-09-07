@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Habaye mu gitondo, igihe iminkisha igihe igaberwaho, maze urebe, amazi azaza mu nzira ya Edomu, maze ubutaka bwuzuye ⟨את⟩ amazi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Habaye"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "iminkisha igaberwaho"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze urebe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ya Edomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "bwuzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:08:36.474347309Z",
+  "model": "glm-5.3"
+}

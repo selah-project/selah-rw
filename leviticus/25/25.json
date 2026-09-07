@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Iyo umuvandimwe wawe agabanyije umubare, maze agurishije igice cy'ubutaka bwe bwite, hanyuma ugakiranzi we uri hafi ye azaza, akagarura ⟨את⟩ ibyo byagurishijwe n'umuvandimwe we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "agabanyije umubare"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umuvandimwe wawe"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "agurishije"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "igice cy'ubutaka bwe bwite"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "ugakiranzi we"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "uri hafi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "akagarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo byagurishijwe"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ibyo byagurishijwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n'umuvandimwe we"
+    }
+  ],
+  "timestamp": "2026-09-07T09:54:24.519559473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Ko nk'umusore ubyarara ingande, ni ko abahungu bawe bazokubarara; kandi nk'umunezero w'umugabo urongora ku mukobwa arongowe, ni ko Elohimu wawe arazishimira ku wowe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "ubyarara"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "umusore"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ingande"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "bazokubarara"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abahungu bawe"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "kandi umunezero"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "w'umugabo urongora"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mukobwa arongowe"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "arazishimira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:35:26.026940334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Muzagwa n'icumu; ku mupaka w'Yisraeli nzabacira urubanza ⟨את⟩ mwe, muzamenya ko njye ⟨ni⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "n'icumu"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "muzagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mupaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nzabacira urubanza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "muzamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T16:48:22.803750253Z",
+  "model": "glm-5.3"
+}

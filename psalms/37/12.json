@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Umwangiza yubaka umugambi ku mutungani, akaninyegeza ku we amenyo yiwe.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "yubaka umugambi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangiza"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ku mutungani"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "akaninyegeza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku we"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "amenyo yiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:01.776910360Z",
+  "model": "glm-5.3"
+}

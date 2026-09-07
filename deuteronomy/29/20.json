@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Maze Yahwe azamutandukanyisha ku bibi, mu bwoka bwose bwa Yisraeli, uko imivumo yose ya Beriti wanditswe mu gitabo cya Tora iki.",
+  "tokens": [
+    {
+      "surface": "והבדילו",
+      "gloss": "Maze azamutandukanyisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ku bibi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "bwoka bwose bwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko ... yose"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "imivumo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya Beriti"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "wanditswe"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "cya Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-09-07T11:16:38.923233811Z",
+  "model": "glm-5.3"
+}

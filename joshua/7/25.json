@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yehoshuwa yaravuze ati: Ni iki watubujije? Yahwe araguca inabi ku munsi uyu. Maze Yisraeli yose yamubaze ⟨את⟩ amabuye, barashyitse ⟨את⟩ ibyo mu muriro, barongere bashyizeho ⟨את⟩ ibyo mu mabuye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "watubujije"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "araguca inabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "yamubaze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Akani)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "barashyitse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "barongere bashyizeho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "mu mabuye"
+    }
+  ],
+  "timestamp": "2026-09-07T11:27:34.416684180Z",
+  "model": "glm-5.3"
+}

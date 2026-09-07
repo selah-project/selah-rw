@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Mikali yamanuye ⟨את⟩ Dawidi mu idirishya, maze aragenda, arahunga, arakizwa.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "yamanuye"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "idirishya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "aragenda"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "arahunga"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "arakizwa"
+    }
+  ],
+  "timestamp": "2026-09-07T12:40:29.277707852Z",
+  "model": "glm-5.3"
+}

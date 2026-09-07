@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "None rera uri kuvuruwe, uva mu gitaka cyafunguye ⟨את⟩ akanwa kayo kugira ngo kameze ⟨את⟩ amaraso ya murumwa wawe mu ntoki zawe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rera"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "kuvuruwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mu gitaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨cyo⟩"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "cyafunguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akanwa kayo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "akanwa kayo"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kugira ngo kameze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso ya murumwa wawe"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya murumwa wawe"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mu ntoki zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:38.014701736Z",
+  "model": "glm-5.3"
+}

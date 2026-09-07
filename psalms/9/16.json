@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Amahanga manutse mu shimo bakoreye; mu ruhaza bahishe, ikirenge cyabo cyafashwe.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "manutse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "mu shimo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakoreye"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "mu ruhaza"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bahishe"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "cyafashwe"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ikirenge cyabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:27.058787648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uwiba umuntu akamugurisha, kandi abonetse mu ntoki ze, urupfu azapfira.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Uwiba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "akamugurisha"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "kandi abonetse"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu ntoki ze"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azapfira"
+    }
+  ],
+  "timestamp": "2026-09-07T08:57:15.033354544Z",
+  "model": "glm-5.3"
+}

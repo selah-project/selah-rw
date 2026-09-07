@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 5:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Na wowe, mwene w'umuntu, fata ubuhindi buri, iceko ry'abasazi uyifate ubwawe, maze unyuze ku mutwe wawe no ku ruhago rwawe; maze ufate ubwawe umunzani w'ipimo, maze ubagabanye.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wowe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ubuhindi"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "buri"
+    },
+    {
+      "surface": "תער",
+      "gloss": "iceko"
+    },
+    {
+      "surface": "הגלבים",
+      "gloss": "ry'abasazi"
+    },
+    {
+      "surface": "תקחנה",
+      "gloss": "uyifate"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "והעברת",
+      "gloss": "maze unyuze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "umutwe wawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "uruhago rwawe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "maze ufate"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "umunzani"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "w'ipimo"
+    },
+    {
+      "surface": "וחלקתם",
+      "gloss": "maze ubagabanye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:46:51.020314619Z",
+  "model": "glm-5.3"
+}

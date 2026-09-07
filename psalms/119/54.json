@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Amategeko yawe yabyaye indirimbo zanjye mu nzu y'ubutaha bwanjye.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "indirimbo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zanjye"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "y'ubutaha bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:28.723197706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Inkumuzi z'abatuye mu nzu yawe; buri gihe bakuzengurutsa. Selahi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Inkumuzi z'"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mu nzu yawe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "bakuzengurutsa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:05.054322174Z",
+  "model": "glm-5.3"
+}

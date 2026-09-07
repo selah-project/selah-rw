@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Arasigariza ⟨את⟩ amaso ye, abifata kugeza ubwo yicuza, maze umuntu w'Elohimu ararira.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "arasigariza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaso ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "amaso ye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "abifata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ubwo yicuza"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "maze ararira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "w'Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:14:12.727989388Z",
+  "model": "glm-5.3"
+}

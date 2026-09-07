@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ovadyahu na se njye guhura n'Ahavi, amubwira; Ahavi na se njye guhura n'Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na se njye"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "guhura na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "amubwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na se njye"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "guhura na"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:56:57.927224999Z",
+  "model": "glm-5.3"
+}

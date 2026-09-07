@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "joshua 24:30",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 24,
+ "translation": "Maze bamuhamba ⟨את⟩ we ⟨את⟩ mu mupaka w'ubusanzwe bwe, i Timunati-Serahi, iri mu misozi y'Efrayimu, mu majyaruguru y'umusozi wa Gaashi.",
+ "tokens": [
+  {
+   "surface": "ויקברו",
+   "gloss": "bamuhamba"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "we (Yehoshuwa)"
+  },
+  {
+   "surface": "בגבול",
+   "gloss": "mu mupaka"
+  },
+  {
+   "surface": "נחלתו",
+   "gloss": "w'ubusanzwe bwe"
+  },
+  {
+   "surface": "בתמנת",
+   "gloss": "i Timunati"
+  },
+  {
+   "surface": "סרח",
+   "gloss": "Serahi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "iri"
+  },
+  {
+   "surface": "בהר",
+   "gloss": "mu misozi"
+  },
+  {
+   "surface": "אפרים",
+   "gloss": "y'Efrayimu"
+  },
+  {
+   "surface": "מצפון",
+   "gloss": "mu majyaruguru"
+  },
+  {
+   "surface": "להר",
+   "gloss": "y'umusozi"
+  },
+  {
+   "surface": "געש",
+   "gloss": "wa Gaashi"
+  }
+ ],
+ "timestamp": "2026-09-07T11:47:57.072719305Z",
+ "model": "glm-5.3"
+}

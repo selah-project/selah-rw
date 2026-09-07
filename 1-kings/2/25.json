@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze umwami Shelomo abwirisha Benayahu mwene Yehoyada, maze aramukubise, akapfa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "abwirisha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku ntoki ya"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "aramukubise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T13:30:18.421404567Z",
+  "model": "glm-5.3"
+}

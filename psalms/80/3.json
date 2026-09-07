@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Imbere y'Efrayimu na Beniyamini na Menashe, ukangure ⟨את⟩ ububasha bawe, maze uze mu kurokoka kwacu.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "y'Efrayimu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Beniyamini"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ukangure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububasha bawe"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ububasha bawe"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "maze uze"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "mu kurokoka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.400098802Z",
+  "model": "glm-5.3"
+}

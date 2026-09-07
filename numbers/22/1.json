@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Abana ba Yisraeli barakinguka, baza mu bishanga bya Moabu, ku ruhande rw'a Yarudeni, imbere y'a Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "barakinguka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "mu bishanga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "bya Moabu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ku ruhande rw'"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "a Yarudeni"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "a Yeriho"
+    }
+  ],
+  "timestamp": "2026-09-07T10:26:25.291494953Z",
+  "model": "glm-5.3"
+}

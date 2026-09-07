@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Avrahamu (Aburahamu) azamutse ava imbere y'umupfu we, maze avuga n'abana ba Heti ati:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "azamutse"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ava"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "y'umupfu we"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "avuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ba Heti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T07:53:31.883806031Z",
+  "model": "glm-5.3"
+}

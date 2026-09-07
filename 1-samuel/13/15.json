@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Shemuweli yazutse, maze azamuka mu Giligali ajya i Gibeya ya Beniyamini; Shauli na we yaribaruye ⟨את⟩ abantu baboneka bari kumwe na we, nk'amajana atandatu abagabo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yazutse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligali"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniyamini"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yaribaruye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu baboneka bari kumwe na we"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "baboneka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "nk'atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:32:26.664327785Z",
+  "model": "glm-5.3"
+}

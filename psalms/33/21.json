@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Kuko umutima wacu urebye mu We; kuko ku izina rye ritagatifu twiringiye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu We"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "urebye"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "umutima wacu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ku izina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ritagatifu rye"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "twiringiye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:15:31.193175479Z",
+  "model": "glm-5.3"
+}

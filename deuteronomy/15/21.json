@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kandi iyo kibaho muri cyo igisebe — urumogi cyangwa igipfu, igisebe kibi cyose — ntuzitambire Yahwe Elohimu wawe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Kandi iyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kibaho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "מום",
+      "gloss": "igisebe"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "urumogi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "igipfu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "מום",
+      "gloss": "igisebe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "zitambire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:45.177158564Z",
+  "model": "glm-5.3"
+}

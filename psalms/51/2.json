@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Igihe Natanu (Natani) umuhanuzi yageze kuri we, nyuma yuko yayinjiye kwa Batishewa (Batisheba).",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "igihe…yageze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanu (Natani)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nyuma yuko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shewa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:17.152304502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "jeremiah 29:10",
+ "book": "jeremiah",
+ "lang": "rw",
+ "chapter": 29,
+ "translation": "Ko gutya Yahwe yaravuze: Iyo imyaka mirongo irindwi izarangira i Babiloni, nzareba ⟨את⟩ mwe, maze nzashyiraho kuri mwe ⟨את⟩ ijambo ryanjye rya mboneza, ngo ndasubize ⟨את⟩ mwe kuri ahantu hano.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "כה",
+   "gloss": "gutya"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "yaravuze"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "כי",
+   "gloss": "iyo"
+  },
+  {
+   "surface": "לפי",
+   "gloss": "ku mpera y'"
+  },
+  {
+   "surface": "מלאת",
+   "gloss": "izarangira"
+  },
+  {
+   "surface": "לבבל",
+   "gloss": "i Babiloni"
+  },
+  {
+   "surface": "שבעים",
+   "gloss": "mirongo irindwi"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "imyaka"
+  },
+  {
+   "surface": "אפקד",
+   "gloss": "nzareba"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "והקמתי",
+   "gloss": "nzashyiraho mboneza"
+  },
+  {
+   "surface": "עליכם",
+   "gloss": "kuri mwe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ijambo"
+  },
+  {
+   "surface": "דברי",
+   "gloss": "ijambo"
+  },
+  {
+   "surface": "הטוב",
+   "gloss": "rya mboneza"
+  },
+  {
+   "surface": "להשיב",
+   "gloss": "ngo ndasubize"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ mwe",
+   "marks": "mwe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "המקום",
+   "gloss": "ahantu"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "hano"
+  }
+ ],
+ "timestamp": "2026-09-07T16:09:48.343790837Z",
+ "model": "glm-5.3"
+}

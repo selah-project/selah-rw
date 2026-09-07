@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze abantu b'Yisraeli bose bahuriye kuri umwami mu birori — ni ukwezi kwa karindwi.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "bahuriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu b'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "mu birori"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "kwa karindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:26.084422878Z",
+  "model": "glm-5.3"
+}

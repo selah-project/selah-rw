@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ ibimenyetso bye na ⟨את⟩ ibyakozwe bye, byakoze mu Mitsrayimu, ku Paro (Farawo) umwami wa Mitsrayimu no ku gihugu cye cyose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimenyetso bye"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ibimenyetso bye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyakozwe bye"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ibyakozwe bye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "byakoze"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ku Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "gihugu cye cyose"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:40.773570006Z",
+  "model": "glm-5.3"
+}

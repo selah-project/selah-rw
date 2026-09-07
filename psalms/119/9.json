@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 119:9",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 119,
+ "translation": "Umusore arazitunganya ate ⟨את⟩ nzira ye? Mu kuyirinda uko ijambo ryawe ryabivuga.",
+ "tokens": [
+  {
+   "surface": "במה",
+   "gloss": "n'iki… ate"
+  },
+  {
+   "surface": "יזכה",
+   "gloss": "arazitunganya"
+  },
+  {
+   "surface": "נער",
+   "gloss": "umusore"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "nzira ye"
+  },
+  {
+   "surface": "ארחו",
+   "gloss": "nzira ye"
+  },
+  {
+   "surface": "לשמר",
+   "gloss": "mu kuyirinda"
+  },
+  {
+   "surface": "כדברך",
+   "gloss": "uko ijambo ryawe ryabivuga"
+  }
+ ],
+ "timestamp": "2026-09-07T18:50:04.226448799Z",
+ "model": "glm-5.3"
+}

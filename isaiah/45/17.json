@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Yisraeli yarokotse kwa Yahwe — umurokoke w'iteka; ntimwikaragate na ntimwishehere, kuri iteka ry'iteka.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yarokotse"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "umurokoke"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "w'iteka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "mwikaragate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nti"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "mwishehere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ry'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:59.285833153Z",
+  "model": "glm-5.3"
+}

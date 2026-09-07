@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Elohimu atuma abibasi baba mu muryango, akuramo abafungi mu kuneza; ariko abigomeye baratura mu gihugu gikaze.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "atuma baba"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "abibasi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "akuramo"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "abafungi"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "mu kuneza"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "abigomeye"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "baratura"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "mu gihugu gikaze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:57.611232292Z",
+  "model": "glm-5.3"
+}

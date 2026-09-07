@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 70,
+  "translation": "Ariko njye n'umukene n'uwipfuza; Elohimu we, ihute ungana; wowe uri umufasha wanjye n'unikiza wanjye; Yahwe we, ntutindire.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ariko njye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'uwipfuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ihute"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ungana"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "umufasha wanjye"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "n'unikiza wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tindire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:13.419601172Z",
+  "model": "glm-5.3"
+}

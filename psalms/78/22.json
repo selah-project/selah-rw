@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Kuko nti bateraniye n'Elohimu, kandi ntibizeraga mu kubakiza kwacyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bateraniye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "n'Elohimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bizeraga"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "mu kubakiza kwacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:03.285595415Z",
+  "model": "glm-5.3"
+}

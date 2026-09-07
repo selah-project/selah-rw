@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Abagabo ni be bari beza cyane kuri twe; ntibaduhesheje isoni, kandi nta na kimwe twabura iminsi yose twarimo tugenda na ⟨את⟩ bo, mu gihe twari mu murima.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "beza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "baduhesheje isoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "twabura"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na kimwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "twarimo tugenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "twari"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    }
+  ],
+  "timestamp": "2026-09-07T12:50:50.103364412Z",
+  "model": "glm-5.3"
+}

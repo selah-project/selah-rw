@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Washyizeho umupaka: nta bazarenza, nta bazagaruka gutwikira isi.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "umupaka"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "washyizeho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "bazarenza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "bazagaruka"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "gutwikira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:57.260801829Z",
+  "model": "glm-5.3"
+}

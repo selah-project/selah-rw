@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Imyumbo y'umutwazi igiye yishonga, hamwe n'ibyansi by'urwabyo.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Imyumbo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "y'umutwazi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "igiye yishonga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "n'ibyansi"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "by'urwabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:12.913572155Z",
+  "model": "glm-5.3"
+}

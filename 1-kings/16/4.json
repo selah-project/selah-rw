@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Uwapfuye muri Baasha mu mujyi, imbwa zizamurya; n'uwapfuye uw'ibye mu murima, inyoni z'ijuru zizamurya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Uwapfuye"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "muri Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizamurya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "n'uwapfuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uw'ibye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zizamurya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z'ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:59.093100234Z",
+  "model": "glm-5.3"
+}

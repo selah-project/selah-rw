@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Iyo mu mwe havuka umuhanuzi, cyangwa wibwira indoto, maze yabaha ikimenyetso cyangwa igitangaza,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "havuka"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mu mwe"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "wibwira"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "indoto"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "yabaha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "igitangaza"
+    }
+  ],
+  "timestamp": "2026-09-07T11:00:50.507592115Z",
+  "model": "glm-5.3"
+}

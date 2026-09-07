@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Umwanzi yaravuze ati «Nzakurikira, nzabashikira, nzatandukanya iminyago; nefeshi yanjye izazuye; nzasohora inkori yanjye; intoki yanjye izabazimiza.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "Nzakurikira"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "nzabashikira"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "nzatandukanya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "iminyago"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "izazuye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "nzasohora"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "inkori yanjye"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "izabazimiza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "intoki yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:49:34.982875078Z",
+  "model": "glm-5.3"
+}

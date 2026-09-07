@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nabonye jyewe nyine ⟨את⟩ ibyose by'imirimo, na ⟨את⟩ ubuhanzi bwose bw'umurimo — ko ari iryari ry'umuntu ku mugenzi we. Iki na none ni ubusa n'urugamba rw'umuyaga.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Nabonye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jyewe nyine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "by'imirimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubuhanzi bwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ubuhanzi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "bw'umurimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iryari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ry'umuntu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ku mugenzi we"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na none"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ni ubusa"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "n'urugamba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rw'umuyaga"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:33.635223895Z",
+  "model": "glm-5.3"
+}

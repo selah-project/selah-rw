@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "numbers 9:11",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "Ku kwezi kw'akabiri, ku itariki cumi na kane, bazayikora ⟨את⟩ we hagati ya nimugoroba zibiri; bazayirya hamwe n'imigati idasukuye n'ibyatsi bibi.",
+ "tokens": [
+  {
+   "surface": "בחדש",
+   "gloss": "ku kwezi"
+  },
+  {
+   "surface": "השני",
+   "gloss": "kw'akabiri"
+  },
+  {
+   "surface": "בארבעה",
+   "gloss": "cumi na"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "kane"
+  },
+  {
+   "surface": "יום",
+   "gloss": "ku itariki"
+  },
+  {
+   "surface": "בין",
+   "gloss": "hagati"
+  },
+  {
+   "surface": "הערבים",
+   "gloss": "ya nimugoroba zibiri"
+  },
+  {
+   "surface": "יעשו",
+   "gloss": "bazayikora"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "Pesahi (iyo nyama ya Pesahi)"
+  },
+  {
+   "surface": "על",
+   "gloss": "hamwe na"
+  },
+  {
+   "surface": "מצות",
+   "gloss": "imigati idasukuye"
+  },
+  {
+   "surface": "ומררים",
+   "gloss": "n'ibyatsi bibi"
+  },
+  {
+   "surface": "יאכלהו",
+   "gloss": "bazayirya"
+  }
+ ],
+ "timestamp": "2026-09-07T10:09:47.006761946Z",
+ "model": "glm-5.3"
+}

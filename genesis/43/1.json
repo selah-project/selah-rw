@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 43,
+  "translation": "Kandi inzara yari ikomeye mu gihugu.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "kandi inzara"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ikomeye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:22:40.211348892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Ihumbi ku muryango umwe, ihumbi ku muryango umwe — ku miryango yose ya Yisraeli mwohereze ingabo.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Ihumbi"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ku muryango umwe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ihumbi"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ku muryango umwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "imiryango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "mwohereze"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:38:02.250693234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Oba njye n'inyanja cyangwa tanini ⟨nini⟩, ko uhorana ingenderi kuri njye?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tanini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ushyira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ingenderi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:20:19.489037759Z",
+  "model": "glm-5.3"
+}

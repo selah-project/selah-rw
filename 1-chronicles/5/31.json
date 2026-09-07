@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 31,
+ "ref": "1-chronicles 5:31",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 5,
+ "translation": "Maze Avishua yabyaye ⟨את⟩ Bukki; Bukki na we yabyaye ⟨את⟩ Uzzi.",
+ "tokens": [
+  {
+   "surface": "ואבישוע",
+   "gloss": "Maze Avishua"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "yabyaye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Bukki"
+  },
+  {
+   "surface": "בקי",
+   "gloss": "Bukki"
+  },
+  {
+   "surface": "ובקי",
+   "gloss": "Bukki na we"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "yabyaye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Uzzi"
+  },
+  {
+   "surface": "עזי",
+   "gloss": "Uzzi"
+  }
+ ],
+ "timestamp": "2026-09-07T20:31:48.471872542Z",
+ "model": "glm-5.3"
+}

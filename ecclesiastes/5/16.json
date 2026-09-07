@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kandi iminsi ye yose arya mu mwijima, afite ubujunjume bwinshi, ndetse n'uburwayi n'uburakari.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "arya"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ubujunjume"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bwinshi"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "uburwayi bwe"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "uburakari"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:34.962093734Z",
+  "model": "glm-5.3"
+}

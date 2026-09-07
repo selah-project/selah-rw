@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Bila, Adonayi, uvane indimi zabo, kuko nabonye ihohoterer n'urujijo mu mujyi.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Bila"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "uvane"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "indimi zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ihohoterer"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "n'urujijo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:03.222693772Z",
+  "model": "glm-5.3"
+}

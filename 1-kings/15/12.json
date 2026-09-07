@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Yaneshesheje abahereza (abagabo b'imibonano mpuzabitsina) mu isi, maze akuraho ⟨את⟩ ibigirwamana byose abakurambere be byakoze.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "yaneshesheje"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "abahereza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "maze akuraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibigirwamana byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "byakoze"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abakurambere be"
+    }
+  ],
+  "timestamp": "2026-09-07T13:51:41.196981703Z",
+  "model": "glm-5.3"
+}

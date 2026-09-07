@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Umutima uhagayeho, uwurinzwe: amahoro, amahoro; kuko wizera mu wowe.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "uhagayeho"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "urinzwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amahoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mu wowe"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "wizera"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:13.119639248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ndani azi? Elohimu agarutse akanagira ikigongwe, akaureka ubujunjuke b'uburakari bwe, kandi ntidupfa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "agarutse"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "akanagira ikigongwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "akaureka"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ubujunjuke b'"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uburakari bwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "dupfa"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:06.658236428Z",
+  "model": "glm-5.3"
+}

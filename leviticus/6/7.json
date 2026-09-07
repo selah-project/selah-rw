@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Kandi iyi ⟨ni⟩ Tora y'ikorubani: abahungu ba Aharoni bazahereza ⟨את⟩ imbere ya Yahwe, imbere y'igicaniro.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kandi iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "y'ikorubani"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bazahereza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "imbere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharoni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "y'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:03.993604994Z",
+  "model": "glm-5.3"
+}

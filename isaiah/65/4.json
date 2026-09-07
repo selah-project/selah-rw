@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Abicara mu mva no mu bwavu bwabitswe bakorara; bafungura inyama y'ingurube, kandi umutobe w'ibidakemuye uri mu byuma byabo.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "abicara"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "mu mva"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "no mu bwavu bwabitswe"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "bakorara"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "bafungura"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "y'ingurube"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "n'umutobe"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "w'ibidakemuye"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "mu byuma byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:37:13.606559232Z",
+  "model": "glm-5.3"
+}

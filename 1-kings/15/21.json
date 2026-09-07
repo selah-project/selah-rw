@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Igihe Basha yari yumvise ibyo, yahagije kubaka ⟨את⟩ Rama, maze agumira i Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "igihe (yari)"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "yahagije"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kubaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agumira"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "i Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-07T13:54:23.361770506Z",
+  "model": "glm-5.3"
+}

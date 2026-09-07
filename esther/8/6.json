@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "kuko nshobora gute, kandi nkareba ikibi cyo kuzagera ⟨את⟩ abantu banjye? kandi nshobora gute, nkareba ubucimburi bw'igihugu navukiye?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nshobora gute"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nshobora"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "kandi nkareba"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo kuzagera"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kizagera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "kandi nshobora gute"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nkashobora"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "nkareba"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "ubucimburi"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "bw'igihugu navukiye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:03:33.173371804Z",
+  "model": "glm-5.3"
+}

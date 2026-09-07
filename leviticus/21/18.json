@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "kuko umuntu wese ikibazo kiri mu mubiri we ntago azagera: umuntu uretse kureba, cyangwa ubumuga bw'ikirenge, cyangwa uw'umunwa uvanzemo, cyangwa uw'igice cy'umubiri kirengeye ibisanzwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu mubiri we"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ikibazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "azagera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "uretse kureba"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ubumuga bw'ikirenge"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "uw'umunwa uvanzemo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "uw'igice cy'umubiri kirengeye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:09.830527205Z",
+  "model": "glm-5.3"
+}

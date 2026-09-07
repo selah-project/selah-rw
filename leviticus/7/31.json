@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kohenu azacukura ⟨את⟩ ibinure ku nteramiro; igikopa kizaba ik'Aharoni n'ik'abana be.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "azacukura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku nteramiro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "igikopa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "n'abana be"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:30.023471293Z",
+  "model": "glm-5.3"
+}

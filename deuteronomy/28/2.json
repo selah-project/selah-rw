@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Maze imigisha yose aya iza igusangire, ikanaguha, kuko urumva mu ijwi rya Yahwe Elohimu wawe;",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "iza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igusangire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "imigisha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "ikanaguha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "urumva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mu ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:22.870224567Z",
+  "model": "glm-5.3"
+}

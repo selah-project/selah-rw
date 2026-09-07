@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Mu kwezi kw'gatatu, mu gihe abana ba Yisraeli (Isirayeli) bavaga mu gihugu cya Mitsrayimu (Egiputa), ku uwo munsi baza mu butayu bwa Sinayi.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kw'gatatu"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "bavaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mu butayu bwa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:15.881527691Z",
+  "model": "glm-5.3"
+}

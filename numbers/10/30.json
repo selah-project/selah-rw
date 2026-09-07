@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Na we yabwiye we ati: Ntago nzagenda ⟨ahubwo⟩; mu gihugu cyanjye no aho navukiye ni ho nzagenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "igihugu cyanjye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "aho navukiye"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nzagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T10:09:27.701390653Z",
+  "model": "glm-5.3"
+}

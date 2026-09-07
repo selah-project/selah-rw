@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ abami bose b'i Tsori, na ⟨את⟩ abami bose b'i Tsidoni, na ⟨את⟩ abami b'ibirwa biri ku ruhande rw'inyanja",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abami bose b'i Tsori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "צר",
+      "gloss": "b'i Tsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abami bose b'i Tsidoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "b'i Tsidoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abami b'ibirwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abami"
+    },
+    {
+      "surface": "האי",
+      "gloss": "b'ibirwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "הים",
+      "gloss": "rw'inyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T16:03:48.366120070Z",
+  "model": "glm-5.3"
+}

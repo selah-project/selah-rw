@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 40:19",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze apima ubugari bwo ku mpera y'irembo ryo hasi, kugeza ku mpera y'icumba ry'imbere rimo — ku ntego — amafumi ijana, iburasirazuba no mu majyaruguru.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "apima"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ku mpera y'"
+    },
+    {
+      "surface": "השער",
+      "gloss": "irembo"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ryo hasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kugeza ku mpera y'"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "icumba ry'imbere"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "rimo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ku ntego"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amafumi"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "iburasirazuba"
+    },
+    {
+      "surface": "והצפון",
+      "gloss": "no mu majyaruguru"
+    }
+  ],
+  "timestamp": "2026-09-07T17:20:51.497086777Z",
+  "model": "glm-5.3"
+}

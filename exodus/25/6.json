@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "amavuta y'umuva yo gutuma itara, ibyatsi by'impumyo ku mavuta y'ubusegani, no kububanisha ibyatsi by'impumyo ⟨nziza⟩,",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "yo gutuma itara"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ibyatsi by'impumyo"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ku mavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "y'ubusegani (yo kunamiza)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "no kububanisha"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ibyatsi by'impumyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:01:03.815935150Z",
+  "model": "glm-5.3"
+}

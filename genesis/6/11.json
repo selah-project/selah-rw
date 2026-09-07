@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze isi yibazwe imbere y'Elohimu, kandi isi yuzuye ihohotera.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "yibazwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ihohotera"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:11.636527207Z",
+  "model": "glm-5.3"
+}

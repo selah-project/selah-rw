@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kubera ko nakuzamuye mu byondo, maze nkaguha ubutware ku bantu banjye ba Yisraeli, ariko wowe ugenda mu nzira ya Yarobeamu, unakoresha icyaha ⟨את⟩ abantu banjye ba Yisraeli, kugira ngo unkare mu byaha byabo:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Kubera ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "nakuzamuye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ibyondo"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "maze nkaguha"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ubutware"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "wowe ugenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yarobeamu"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "unakoresha icyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye ba Yisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "kugira ngo unkare"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "mu byaha byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:59.092531190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu azana ⟨את⟩ ikivugyito kimwe maze atoreza ⟨את⟩ ryo ashamu, na ⟨את⟩ logi y'amavuta, maze atembagiza ⟨את⟩ byose ari igitembagizo imbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "azana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikivugyito kimwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ikivugyito"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "atoreza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ryo",
+      "marks": "ashamu"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ashamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "logi y'amavuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "y'amavuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "atembagiza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ byose",
+      "marks": "igitembagizo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "igitembagizo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:24.605273822Z",
+  "model": "glm-5.3"
+}

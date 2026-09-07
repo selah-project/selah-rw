@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze Avrahamu (Aburahamu) yazamutse avuye mu Mitsrayimu (Egiputa), we n'umugore we n'ibye byose, na Loti (Looti) afitanye, yerekeza mu majyaruguru.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yazamutse"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "n'umugore we"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'ibye byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byose"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "na Loti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "afitanye"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "mu majyaruguru"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:21.954872507Z",
+  "model": "glm-5.3"
+}

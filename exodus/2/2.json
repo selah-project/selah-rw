@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umugore yatumye inda, maze abyara umuhungu; aramubona ko ari mwiza, we, aramwibika amezi atatu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "yatumye inda"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "aramubona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yamwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "aramwibika"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "amezi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:38.248922941Z",
+  "model": "glm-5.3"
+}

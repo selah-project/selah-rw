@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Umurima n'urwobo ruri muri wo byarahindutse ubwite bwa Avrahamu, nk'ubwite bwo gushyingurwamo, iva ku ⟨את⟩ abana ba Heti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "byarahindutse ubwite"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "n'urwobo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri wo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "bwa Avrahamu"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "nk'ubwite"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bwo gushyingurwamo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iva ku ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ba Heti"
+    }
+  ],
+  "timestamp": "2026-09-07T07:53:42.723960032Z",
+  "model": "glm-5.3"
+}

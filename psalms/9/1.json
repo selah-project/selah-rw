@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ku mukuru w'abacuranzi, ku Muta Labeni ⟨indirimbo yagaragajwe⟩; Zaburi ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mukuru w'abacuranzi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ku Muta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labeni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:10.427987388Z",
+  "model": "glm-5.3"
+}

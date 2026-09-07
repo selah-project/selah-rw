@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Koko, imyambi yawe yanjiye muri iwe, kandi ukuboko kwawe kwaraguye ku iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "imyambi yawe"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "yanjiye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "kwaraguye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku iwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:18.817208938Z",
+  "model": "glm-5.3"
+}

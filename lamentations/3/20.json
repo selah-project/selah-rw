@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uzibuka, uzibuka, maze nefeshi yanjye igwa hasi muri jye.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Uzibuka"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "uzibuka"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "maze igwa hasi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "muri jye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T19:47:50.038777503Z",
+  "model": "glm-5.3"
+}

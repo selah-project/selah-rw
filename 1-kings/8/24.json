@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Iyo wabitse ku mugaragu wawe Dawidi, data wanjye — ⟨את⟩ ibyo wamubwiye; ko waravuze n'akanwa kawe, maze wabyujuje n'iganza ryawe, nku uyu munsi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "wabitse"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ku mugaragu wawe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "data wanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo (ibyo wamubwiye)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wabivugiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "waravuze"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "n'akanwa kawe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "n'iganza ryawe"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "wabyujuje"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nku uyu munsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:43:14.672178689Z",
+  "model": "glm-5.3"
+}

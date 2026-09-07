@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Simama, ugende kuri Ninive, umujyi munini, maze ubwire uriwo ⟨את⟩ itangazo jye ndikuvugira kuri wowe.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Simama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "munini"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "maze ubwire"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "uriwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itangazo"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "itangazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndikuvugira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:21.625625434Z",
+  "model": "glm-5.3"
+}

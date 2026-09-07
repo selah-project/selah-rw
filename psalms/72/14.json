@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Mu bugome n'ububahane azakiza Nefeshi yabo, kandi amaraso yabo azaba agihambaye mu maso ye.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "n'ububahane"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "azakiza"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "Nefeshi yabo"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "azaba agihambaye"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "amaraso yabo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:17.518688171Z",
+  "model": "glm-5.3"
+}

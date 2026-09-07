@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Yahwe yarohereje mu bantu ⟨את⟩ hasherufimu, inzoka z'umuriro, maze zakanze ⟨את⟩ abantu, abantu benshi b'u Yisraeli barapfa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarohereje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasherufimu, inzoka z'umuriro"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "hasherufimu"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "inzoka z'umuriro"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "maze zakanze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "barapfa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "b'u Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T10:25:42.712303137Z",
+  "model": "glm-5.3"
+}

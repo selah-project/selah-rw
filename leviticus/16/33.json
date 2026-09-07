@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Azakorera ubusegani ⟨את⟩ icyumba cy'ibyiruha cy'ibitagatifu, na ⟨את⟩ ihema ry'itanganwa, n'⟨את⟩ urwatiro azakorera ubusegani; kuri abaherezi no ku bantu bose b'urubyiniro azakorera ubusegani.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "azakorera ubusegani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyumba cy'ibyiruha cy'ibitagatifu"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "icyumba cy'ibyiruha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cy'ibitagatifu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihema ry'itanganwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itanganwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "urwatiro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "urwatiro"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "azakorera ubusegani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaherezi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "b'urubyiniro"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "azakorera ubusegani"
+    }
+  ],
+  "timestamp": "2026-09-07T09:41:51.744777405Z",
+  "model": "glm-5.3"
+}

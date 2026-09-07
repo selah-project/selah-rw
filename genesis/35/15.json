@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "genesis 35:15",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 35,
+ "translation": "Maze Yaakovu yashize ⟨את⟩ izina ry'icyumba Elohimu yavuganiye ⟨את⟩ we ⟨את⟩ aho — Beiteli, inzu y'Eli.",
+ "tokens": [
+  {
+   "surface": "ויקרא",
+   "gloss": "yashize izina"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "izina"
+  },
+  {
+   "surface": "שם",
+   "gloss": "izina"
+  },
+  {
+   "surface": "המקום",
+   "gloss": "ry'icyumba"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "—"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "yavuganiye"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "Yaakovu"
+  },
+  {
+   "surface": "שם",
+   "gloss": "aho"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "בית",
+   "gloss": "inzu"
+  },
+  {
+   "surface": "אל",
+   "gloss": "y'Eli"
+  }
+ ],
+ "timestamp": "2026-09-07T08:12:52.657259670Z",
+ "model": "glm-5.3"
+}

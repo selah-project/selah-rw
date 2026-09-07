@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Abantu bose bareba ⟨את⟩ umurongo w'igicu uhagaze ku muryango w'ihema; maze abantu bose bazamuka bakanubama, buri wese ku muryango w'ihema ye.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "bareba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurongo w'igicu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "umurongo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "w'igicu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "uhagaze"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "w'ihema"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "bakanubama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "w'ihema ye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:16:17.618400693Z",
+  "model": "glm-5.3"
+}

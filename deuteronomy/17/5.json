@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Uzazana ⟨את⟩ uwo mugabo cyangwa ⟨את⟩ uwo mugore wakoze ⟨את⟩ icyo kintu kibi iki ku muryango wawe — ⟨את⟩ uwo mugabo cyangwa ⟨את⟩ uwo mugore — maze ubakurishiriza amabuye, bagapfa.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "uzazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugabo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo mugabo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugore"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "uwo mugore"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo kintu kibi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kibi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "muryango wawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugabo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo mugabo"
+    },
+    {
+      "surface": "או",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo mugore"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "uwo mugore"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "maze ubakurishiriza amabuye"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "bagapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:05:59.433462629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Ibyo amaso yanjye yari yasabye, nta na kimwe nabuhiye; nta na kimwe nakuyemo ⟨את⟩ umutima wanjye mu byishimo byose, kuko umutima wanjye wakunjye mu byose by'imihati yanjye; kandi ibi byari umugabane wanjye mu byose by'imihati yanjye.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ibyo byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "yasabye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta na kimwe"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "nabuhiye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ku byo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta na kimwe"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "nakuyemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wanjye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "by'byishimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "wakunjye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "by'imihati yanjye"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kandi ibi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byari"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "umugabane wanjye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "by'imihati yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:20.779243617Z",
+  "model": "glm-5.3"
+}

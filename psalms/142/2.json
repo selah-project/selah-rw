@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 142,
+  "translation": "Ijwi ryanjye rerekeza kwa Yahwe, ndarase; ijwi ryanjye rerekeza kwa Yahwe, ndasaba impuhwe.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ijwi ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rerekeza kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndarase"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rerekeza kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndasaba impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:20.422595271Z",
+  "model": "glm-5.3"
+}

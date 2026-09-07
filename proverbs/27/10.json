@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Inshuti yawe n'inshuti ya so wawe ntiuzibareke, kandi ntiwinjire mu nzu ya muko wawe ku munsi w'ibyago byawe; ni byiza muturanyi uri hafi kurusha muko wo kure.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "Inshuti yawe"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "n'inshuti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya so wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntiu-"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "-zareke"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "kandi mu nzu ya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "muko wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntiu-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "-winjire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi wa"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "ibyago byawe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "muturanyi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "uri hafi"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kurusha muko"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "wo kure"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:11.616548527Z",
+  "model": "glm-5.3"
+}

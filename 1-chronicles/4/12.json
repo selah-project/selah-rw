@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze Eshtonu yabyaye ⟨את⟩ Bethi-Rafa, na ⟨את⟩ Paseahu, na ⟨את⟩ Techinah, se w'Ir-Nahashu ⟨umujyi wa Nahashu⟩; aba ⟨ni⟩ abagabo ba Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Maze Eshtonu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bethi-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Paseahu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Techinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se w'"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir- ⟨umujyi wa⟩"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahashu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo ba"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:24.880748933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Moshe yategetse ⟨את⟩ abana b'a Yisraeli ku ijambo rya Yahwe, ati: Ni neza umuryango w'abana b'a Yosefu uvuga.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana b'a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "כן",
+      "gloss": "neza"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "uvuga"
+    }
+  ],
+  "timestamp": "2026-09-07T10:44:10.122457736Z",
+  "model": "glm-5.3"
+}

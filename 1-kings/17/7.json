@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Nyuma y'ibyumweru bike hashize, kuzimu kwakomeje kumva ko amazi yagabanije, kuko imvura ntiyaguye mu gihugu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nyuma hashize"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "impera ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "kuzimu kwakomeje kumva ko amazi yagabanije"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kuzimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "imvura"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:51:04.390447693Z",
+  "model": "glm-5.3"
+}

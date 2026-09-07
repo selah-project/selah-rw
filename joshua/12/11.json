@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Umwami wa Yarmutu, umwe; umwami wa Lakishu, umwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "wa Yarmutu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "wa Lakishu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:26:03.285102341Z",
+  "model": "glm-5.3"
+}

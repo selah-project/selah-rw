@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 150,
+  "translation": "Muririmbire mu kuvuga inyundo y'impamvu; muririmbire mu nanga n'indebe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "mu kuvuga inyundo y'impamvu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "nyundo y'impamvu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "mu nanga"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "n'indebe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:14.593410977Z",
+  "model": "glm-5.3"
+}

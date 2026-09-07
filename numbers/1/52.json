@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Abana ba Yisraeli barashire ibyansi, umuntu ku muryango we w'ingabo n'umuntu ku ibendera rye, mu bwoko bwa Tsevaoti.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "barashire ibyansi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "muryango we w'ingabo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'umuntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "ibendera rye"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "mu bwoko bwa Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:44.068372779Z",
+  "model": "glm-5.3"
+}

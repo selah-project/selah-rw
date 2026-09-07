@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 144,
+  "translation": "⟨Ni⟩ we uha abami iburoko, ukiza ⟨את⟩ Dawidi umugaragu we ku mupanga mubi.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "iburoko"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ukiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umugaragu we"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ku mupanga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mubi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:09.625076701Z",
+  "model": "glm-5.3"
+}

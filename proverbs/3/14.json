@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kuko inyungu zayo nziza kurusha inyungu z'ifeza, n'umusaruro wayo kurusha zahabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "inyungu zayo"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "inyungu z'"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:53.812416782Z",
+  "model": "glm-5.3"
+}

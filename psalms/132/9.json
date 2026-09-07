@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Abakohenu bawe bakwambike tsedeki, n'abahesedi bawe baririmbire.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "abakohenu bawe"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "bakwambike"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeki"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "n'abahesedi bawe"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baririmbire"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:43.408414738Z",
+  "model": "glm-5.3"
+}

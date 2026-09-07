@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze ku munsi uwo yahaye ikimenyetso, ati: Iki ⟨ni⟩ cyo ikimenyetso Yahwe yavuze: Dore igicaniro kiracibwa, maze ivu riri ku ryo riravomerwa.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ikimenyetso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "cyo ikimenyetso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "kiracibwa"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "kiravomerwa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku ryo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:50:11.346275902Z",
+  "model": "glm-5.3"
+}

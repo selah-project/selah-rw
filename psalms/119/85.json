@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ab'ubwibone barafukuye imipinga banze — ibi ntabwo ari uko Tora yawe ibivuga.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "barafukuye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "banze"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ab'ubwibone"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "imipinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo ari"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "uko Tora yawe ibivuga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:01.460633049Z",
+  "model": "glm-5.3"
+}

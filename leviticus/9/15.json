@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze yashyize imbere ⟨את⟩ Korubani ry'abantu, maze afata ⟨את⟩ semeri ry'icyaha ryo k'abantu, maze aracyasa, maze yaracyaha nk'ubwa mbere.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yashyize imbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Korubani"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "Korubani"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semeri"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "semeri"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ry'icyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "k'abantu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "aracyasa"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "yaracyaha"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "nk'ubwa mbere"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:21.917814592Z",
+  "model": "glm-5.3"
+}

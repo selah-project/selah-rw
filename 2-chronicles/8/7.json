@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Abantu bose basigaye — mu Bahiti, mu Baemori, mu Baperizi, mu Bahivi no mu Bayevusi — aho atari bo aba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "basigaye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Bahiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "no mu Baemori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "no mu Baperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "no mu Bahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "no mu Bayevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atari"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "aba Yisraeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:53:33.419773237Z",
+  "model": "glm-5.3"
+}

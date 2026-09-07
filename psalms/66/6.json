@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Yahwe yahinduye inyanja ireme ubutaka bwumye; mu ruzi bararembye ku birenge — aho twishimye muri We.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "yahinduye"
+    },
+    {
+      "surface": "ים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ubutaka bwumye"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "mu ruzi"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "bararembye"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ku birenge"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "twishimye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri We"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:25.653675867Z",
+  "model": "glm-5.3"
+}

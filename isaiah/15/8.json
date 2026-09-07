@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kuko urusaku ruzenguruye ⟨את⟩ umupaka wa Moabu; kugera Eglayimu hari urudede rwawo, no ku gisima cya Beheri-Elimi hari urudede rwawo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "ruzenguruye"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "urusaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupaka wa Moabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umupaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayimu"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "hari urudede rwawo"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "no ku gisima cya"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Beheri-Elimi"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "hari urudede rwawo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:53:53.369651412Z",
+  "model": "glm-5.3"
+}

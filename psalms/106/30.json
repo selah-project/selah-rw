@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Pinchasi nawuhagaze ayikoze icyemezo, maze icyorezo cyahagaritswe.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nawuhagaze"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchasi"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ayikoze icyemezo"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "cyahagaritswe"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "icyorezo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:08.053007862Z",
+  "model": "glm-5.3"
+}

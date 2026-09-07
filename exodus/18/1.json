@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yarumvise Yitro, kohenu wa Midiyani, umukwe wa Moshe, ⟨את⟩ byose ibyo Elohimu yakoze kuri Moshe no kuri Yisraeli, abantu be, kuko Yahwe yarasohoye ⟨את⟩ Yisraeli mu Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yarumvise"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midiyani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umukwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuri Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "no kuri Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yardasohoye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:09.821517405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Rivkah naho yafashe ⟨את⟩ imyambaro ya Esavu umwana we umukuru, imyambaro yizaza ari ⟨את⟩ kumwe na we mu nzu, maze yambika ⟨את⟩ Yaakovu umwana we muuto.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah (Rivika)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro ya Esavu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ya Esavu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "umukuru"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "yizaza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kumwe na we"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "yambika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu (Yakobo)"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "muuto"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:34.763268175Z",
+  "model": "glm-5.3"
+}

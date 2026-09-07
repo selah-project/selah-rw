@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Mu byose igihe ibyambaro byawe bibe byera, kandi amavuta ku mutwe wawe ntayakenze na gato.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bibe"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ibyambaro byawe"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "byera"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "kandi amavuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mutwe wawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "yakenze na gato"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:10.097346876Z",
+  "model": "glm-5.3"
+}

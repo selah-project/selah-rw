@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yoavu na Avishayi murumuna we baricanye Avneru, kuko yari yiciye ⟨את⟩ Asaheli murumuna wabo, i Givoni, mu ntambara.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "Avishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "murumuna we"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "baricanye"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המית",
+      "gloss": "yiciye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaheli"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaheli"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "murumuna wabo"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givoni"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu ntambara"
+    }
+  ],
+  "timestamp": "2026-09-07T13:00:57.950117496Z",
+  "model": "glm-5.3"
+}

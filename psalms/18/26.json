@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Na uw'umutima mwiza umwereka umutima mwiza; n'umuntu utunganye umwereka ubutungane.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "uw'umutima mwiza"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "umwereka umutima mwiza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "utunganye"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "umwereka ubutungane"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:29.734958518Z",
+  "model": "glm-5.3"
+}

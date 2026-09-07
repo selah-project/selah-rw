@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nyuma ya Yahwe bazagenda; araburira nk'intare, kuko we araburira, maze abana bagatsinda-bujijwe bava mu bihugu by'iburengazirwa (mu majyaruguru y'inyanja).",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Nyuma ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazagenda"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "nk'intare"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "araburira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "araburira"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "maze bagatsinda-bujijwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "bava mu majyaruguru y'inyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:15.032516692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Barakoze ⟨את⟩ efodi mu zahabu, ubururu, umutuku wijimye, umutuku w'inzoka, n'ururenda rukorwanye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Barakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ubururu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "umutuku wijimye"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "umutuku"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ururenda"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rukorwanye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:01.179939360Z",
+  "model": "glm-5.3"
+}

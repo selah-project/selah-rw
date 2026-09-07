@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Eli yumvise ⟨את⟩ ijwi ry'uruboho, maze arabaza ati: Ni iki iki gihuha cyanjyanye? Maze umuntu arihuta araza, abwira Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi ry'uruboho"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "ry'uruboho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arabaza"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ry'igihuha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cyanjyanye"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "maze umuntu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "arihuta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "araza"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:46.210532430Z",
+  "model": "glm-5.3"
+}

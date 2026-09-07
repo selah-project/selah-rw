@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Na ibi ni urubyaro rwa Esavu, se wa Edomu, mu gasozi ka Seiri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ibi"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mu gasozi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    }
+  ],
+  "timestamp": "2026-09-07T08:10:49.957771760Z",
+  "model": "glm-5.3"
+}

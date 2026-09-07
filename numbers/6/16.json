@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze kohenu azabikuraho imbere ya Yahwe, maze akore ⟨את⟩ icap rye ry'icyaha na ⟨את⟩ igitambo cye cyo gutwikwa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "maze azabikuraho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "maze akore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icap rye ry’icyaha"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "icap rye ry’icyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitambo cye cyo gutwikwa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "igitambo cye cyo gutwikwa"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:19.772563905Z",
+  "model": "glm-5.3"
+}

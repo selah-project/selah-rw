@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 124,
+  "translation": "iyo Yahwe atari yari natwe, mu gihe abantu bahagurutse batugurira:",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "iyo atari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "natwe"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "mu gihe bahagurutse"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "batugurira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:40.229623016Z",
+  "model": "glm-5.3"
+}

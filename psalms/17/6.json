@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Jewe, ndaguhamagara kuko urazisubiza, Eli; unyereke ugutwi kwawe, umva amagambo yanjye.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jewé"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndaguhamagara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "urazisubiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הט",
+      "gloss": "unyereke"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ugutwi kwawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jyé"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "amagambo yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:40.320525843Z",
+  "model": "glm-5.3"
+}

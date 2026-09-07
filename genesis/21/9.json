@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Sarahi ara-bona ⟨את⟩ umuhungu wa Hagari wo mu Mitsrayimu, we Yahaviye Avrahamu, acekera mu kanwa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "arabona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuhungu wa Hagari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umuhungu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wo mu Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "Yahaviye"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "acekera mu kanwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:50:14.724105446Z",
+  "model": "glm-5.3"
+}

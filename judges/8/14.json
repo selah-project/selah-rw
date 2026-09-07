@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yatoranye umushumba mu bantu ba Sukoti, amubaza maze umwandikira ⟨את⟩ ibategetsi ba Sukoti na ⟨את⟩ abakuru bacyo — mirongo irindwi n'abagabo irindwi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "yatoranye"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umushumba"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "mu bantu ba"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukoti"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "amubaza"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "umwandikira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibategetsi ba Sukoti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ibategetsi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ba Sukoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abakuru bacyo"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "abakuru bacyo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "n'irindwi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:59:00.843189807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Vuga kuri abana ba Yisraeli, ubabwire abo uti: mu gihe muzinjira mu isi iyo njye mbaha mwe, isi izahora ifite Shabati kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "muzinjira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mbaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "izahora ifite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:25.000431312Z",
+  "model": "glm-5.3"
+}

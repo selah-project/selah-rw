@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Umwami w'Ashuru yamwumvise iwe; umwami w'Ashuru yazamutse ku Dumamesheki, yayifashe, ayimuruye i Kiri, na ⟨את⟩ Retsini yahise.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yamwumvise"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yazamutse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dumamesheki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "yayifashe"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ayimuruye"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "i Kiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Retsini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsini"
+    },
+    {
+      "surface": "המית",
+      "gloss": "yahise"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:49.640251492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yeriho yari yafunze kandi yafunzwe kubera ibinyejana by'abana ba Yisraeli; nta wuvuga nta na w'injira.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "yafunze"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "kandi yafunzwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubera ibinyejana bya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "uvuga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "w'injira"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:31.969117436Z",
+  "model": "glm-5.3"
+}

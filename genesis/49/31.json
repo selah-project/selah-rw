@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Aho niho bamwize ⟨את⟩ Avrahamu na ⟨את⟩ Sara umugore we; aho niho bamwize ⟨את⟩ Yitsaki na ⟨את⟩ Rivika umugore we; aho niho njye nakubise ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Aho niho"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bamwize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aho niho"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bamwize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rivika"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivika"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maze aho"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "njye nakubise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-07T08:33:09.711736999Z",
+  "model": "glm-5.3"
+}

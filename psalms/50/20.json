@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ucyitse, uvuga ibibi ku mwenewanyu, uha igisebe umwana wa nyina.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ucyitse"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ku mwenewanyu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uvuga ibibi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wa nyina"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "igisebe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:19.486787082Z",
+  "model": "glm-5.3"
+}

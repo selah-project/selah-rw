@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Noah, umuntu w'ubutaka, yatangiye gutera inguri y'imizabibu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "yatangiye"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "w'ubutaka"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "gutera"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "inguri y'imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:49.120235603Z",
+  "model": "glm-5.3"
+}

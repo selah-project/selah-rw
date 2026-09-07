@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Umukiranutsi b'iteka ntahungabana; ariko abakoni b'ibibi ntibatuzamo ⟨kuri⟩ isi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "umukiranutsi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "b'iteka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hungabana"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "abakoni b'ibibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "batuzamo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:47.118451029Z",
+  "model": "glm-5.3"
+}

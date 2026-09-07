@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "N'amavuta y'imbuto y'ineza yo kwaka mu cyanya, n'ibyondo by'impumuro yo gufata umavuta yo kusiga ku mutware, no kw'icanwa ry'ibyondo by'impumuro.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "n'amavuta y'ineza"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "yo kwaka mu cyanya"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "n'ibyondo by'impumuro"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "yo gufata umavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "yo kusiga ku mutware"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "no kw'icanwa ry'ibyondo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "by'impumuro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:11:39.344368223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "ecclesiastes 4:9",
+ "book": "ecclesiastes",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Byiza ni ukuba ababiri kurusha ⟨umwe⟩, kubera ko bafite igihembo cyiza mu murimo wabo.",
+ "tokens": [
+  {
+   "surface": "טובים",
+   "gloss": "byiza"
+  },
+  {
+   "surface": "השנים",
+   "gloss": "ababiri"
+  },
+  {
+   "surface": "מן",
+   "gloss": "kurusha"
+  },
+  {
+   "surface": "האחד",
+   "gloss": "umwe"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kubera ko"
+  },
+  {
+   "surface": "יש",
+   "gloss": "bafite"
+  },
+  {
+   "surface": "להם",
+   "gloss": "babifite"
+  },
+  {
+   "surface": "שכר",
+   "gloss": "igihembo"
+  },
+  {
+   "surface": "טוב",
+   "gloss": "cyiza"
+  },
+  {
+   "surface": "בעמלם",
+   "gloss": "mu murimo wabo"
+  }
+ ],
+ "timestamp": "2026-09-07T19:52:09.550093234Z",
+ "model": "glm-5.3"
+}

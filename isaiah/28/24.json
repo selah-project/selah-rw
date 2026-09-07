@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Ese uwo muhingi ahinga uwu munsi wose ngo asasire? Ese adakaza, akenegera ubutaka bwe?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uwu munsi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ahinga"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "uwo muhingi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ngo asasire"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "adakaza"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "akenegera"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ubutaka bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:08:07.332921202Z",
+  "model": "glm-5.3"
+}

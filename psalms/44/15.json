@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Utudushyiraho kuba urugero mu mahanga, nanuka umutwe mu moko.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Utudushyiraho"
+    },
+    {
+      "surface": "משל",
+      "gloss": "urugero"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "nanuka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:21:16.573427602Z",
+  "model": "glm-5.3"
+}

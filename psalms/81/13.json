@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Narekire mu bwigomeke bw'imitima yabo, bagendera mu byifuzo byabo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Narekire"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "mu bwigomeke"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bw'imitima yabo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bagendera"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "mu byifuzo byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:16.988579986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Dawidi na atinya ⟨את⟩ Elohimu ku wo munsi, ati: Ni gute njyana iwanjye ⟨את⟩ aroni y'Elohimu?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "atinya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku wo munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Ni gute"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "njyana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "y'Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:38:01.528093245Z",
+  "model": "glm-5.3"
+}

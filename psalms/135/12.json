@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Maze aha ubutaka bwabo nk'ubusigi, ubusigi bw'Yisraeli, ubwoko bwe.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "maze aha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ubutaka bwabo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nk'ubusigi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ubusigi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bw'Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ubwoko bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:37.719508564Z",
+  "model": "glm-5.3"
+}

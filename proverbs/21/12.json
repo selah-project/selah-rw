@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Intungane iyumvisha inzu y'umubbi: abibbi barazimburiwa ku bibi byabo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "iyumvisha"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Intungane"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "y'umubbi"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "barazimburiwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abibbi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ku bibi byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:10:34.011006257Z",
+  "model": "glm-5.3"
+}

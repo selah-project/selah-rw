@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 116,
+  "translation": "Ni agaciro mu maso ya Yahwe urupfu rw'abahesedi be.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ni agaciro"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "rw'abahesedi be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:41.234308703Z",
+  "model": "glm-5.3"
+}

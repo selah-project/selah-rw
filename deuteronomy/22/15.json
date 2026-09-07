@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze se w'umukobwa n'nyina bamufata, banatura ⟨את⟩ ibimenyetso by'ubusugi bw'umukobwa, bayazana kuri abakuru b'umujyi ku muryango:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bamufata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "w'umukobwa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "n'nyina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "banatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibimenyetso by'ubusugi bw'umukobwa"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "ibimenyetso by'ubusugi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bw'umukobwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "b'umujyi"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ku muryango"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:02.550410741Z",
+  "model": "glm-5.3"
+}

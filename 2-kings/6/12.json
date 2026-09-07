@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze umwe mu bagaragu be aramubwira ati: Oya, shebuja wanjye mwami; ariko Eliyasha, navi uri mu Yisraeli, abwira mwami w'Yisraeli ⟨amajambo⟩ uko uravugira mu cyumba cyawe cyo kuryama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "mu bagaragu be"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Oya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "shebuja wanjye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliyasha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mu Yisraeli"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨amajambo⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uravugira"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "mu cyumba"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "cyawe cyo kuryama"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:25.659829667Z",
+  "model": "glm-5.3"
+}

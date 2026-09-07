@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze Moshe azamukiye ku rwego, maze igicu cyarakuye ⟨את⟩ urwego.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "azamukiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urwego"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "cyarakuye"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "igicu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwego"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urwego"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:23.567072091Z",
+  "model": "glm-5.3"
+}

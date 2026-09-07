@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Barashyize mu muriro icyubahiro cyawe; ku isi barubye Mishikani y'izina ryawe.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Barashyize"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "icyubahiro cyawe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "barubye"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "y'izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:39.337631439Z",
+  "model": "glm-5.3"
+}

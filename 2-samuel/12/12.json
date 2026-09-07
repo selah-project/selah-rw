@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Koko wabikoze mu ibanga, ariko njye nzakora ⟨את⟩ iki kintu imbere y'abaturage ba Yisraeli bose no mu maso y'iyi izuba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wabikoze"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu ibanga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ariko njye"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki kintu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iki kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "no mu maso"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "iyi izuba"
+    }
+  ],
+  "timestamp": "2026-09-07T13:08:26.091572393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kuko umwami azumva ngo akize ⟨את⟩ umuja we mu biganza by'umugabo wo ashaka kunoza ⟨את⟩ nanjye na ⟨את⟩ umwana wanjye hamwe, tukanavanywa mu murage w'Elohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "azumva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ngo akize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuja we"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "umuja we"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mu biganza bya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umugabo wo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ashaka kunoza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nanjye",
+      "marks": "nanjye na umwana wanjye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwana wanjye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "mu murage wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:11:24.838589761Z",
+  "model": "glm-5.3"
+}

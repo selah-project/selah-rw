@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Inzu y'Aharoni, muzere kwa Yahwe: ⟨ni⟩ we ubufasha bwabo n'ingabo yabo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "muzere"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ubufasha bwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "n'ingabo yabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:48:14.770609676Z",
+  "model": "glm-5.3"
+}

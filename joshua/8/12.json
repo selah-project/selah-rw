@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yafata nk'ibihumbi bitanu abantu, abashyira ⟨את⟩ bo mu ryinginya hagati ya Beti-Eli na Haayi, y'iburengerazuba bw'umujyi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafata"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "nk'ibihumbi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bitanu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "abashyira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "mu ryinginya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "y'iburengerazuba"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bw'umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:28:15.221410678Z",
+  "model": "glm-5.3"
+}

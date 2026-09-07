@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Yaramujyaniye mu heikali, maze apima ⟨את⟩ inkingi: ama gatandatu ⟨ni⟩ ubugari ku ruhande rumwe, na ama gatandatu ubugari ku ruhande rundi — ubugari bw'ihema.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "Yaramujyaniye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikali"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "maze apima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkingi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "inkingi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gatandatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ku ruhande rumwe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ama gatandatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ku ruhande rundi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ubugari bw'"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    }
+  ],
+  "timestamp": "2026-09-07T17:23:02.214592486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Kandi nzashyira amadirishya yawe mu kadakodi, n'amarembo yawe mu mabuye y'ekidahi, kandi imbibe yawe yose mu mabuye yo kwishimwa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "kandi nzashyira"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "kadakodi"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "amadirishya yawe"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "n'amarembo yawe"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "mu mabuye ya"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "ekidahi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi (yose)"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "imbibe yawe"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "mu mabuye ya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yo kwishimwa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:42:24.830574126Z",
+  "model": "glm-5.3"
+}

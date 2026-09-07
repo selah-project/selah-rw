@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Uziye ku ntoki zawe, uzandike ku rubaho rw'umutima wawe.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "uziye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ntoki zawe"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "uzandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "rubaho"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "rw'umutima wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:05:08.149234086Z",
+  "model": "glm-5.3"
+}

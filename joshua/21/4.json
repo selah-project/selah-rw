@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 21:4",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Igisoro rwasohotse ku muryango wa Kehati; maze habwira abana b'Aharoni kohenu, mu bwa Leviyi, mu muryango wa Yehuda, mu muryango wa Shimuwoni, no mu muryango wa Beniyamini, mu gisoro: imijyi cumi na gatatu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rwasohotse"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "igisoro"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ku muryango wa"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Abakehati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze habwira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana b'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bwa Leviyi"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mu muryango wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "no mu muryango wa"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "wa Shimuwoni"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "no mu muryango wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "wa Beniyamini"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "mu gisoro"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imijyi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gatatu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:42:32.060584823Z",
+  "model": "glm-5.3"
+}

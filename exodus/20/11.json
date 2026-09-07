@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kuko mu minsi itandatu Yahwe yakoze ⟨את⟩ ijuru na ⟨את⟩ isi, ⟨את⟩ inyanja na ⟨את⟩ byose biri muri byo, arahumeka ku munsi wa karindwi; ni cyo mpamvu Yahwe yaha mugisha ⟨את⟩ umunsi wa Shabati, maze arawutagatifu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "itandatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "byose biri muri byo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "arahumeka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mpamvu"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yaha mugisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunsi wa Shabati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Shabati"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "arawutagatifu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:54:07.012558784Z",
+  "model": "glm-5.3"
+}

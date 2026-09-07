@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Yarasutse amabuye kuri ⟨את⟩ Dawidi no ku ⟨את⟩ abaja bose b'umwami Dawidi; abantu bose n'intwari zose zari ku iburyo rye no ku ibumoso rye.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "yarasutse"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ku ⟨את⟩",
+      "marks": "abaja bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abaja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "b'umwami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'intwari"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "zose"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ku iburyo rye"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "no ku ibumoso rye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:13:41.801502156Z",
+  "model": "glm-5.3"
+}

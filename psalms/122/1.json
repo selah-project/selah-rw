@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 122,
+  "translation": "Indirimbo y'ibiganira, ya Dawidi. Nishimishijwe iyo bavuga bampemba bati: Mu nzu ya Yahwe ni ho duhaguruke tugere.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'ibiganira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "nishimishijwe"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "iyo bavuga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bampemba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "duhaguruke tugere"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:50.860447577Z",
+  "model": "glm-5.3"
+}

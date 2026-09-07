@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Abagabo b'abo mu Yehudha bababaza bati: Ni iki gituma muzanywe ku twebwe? Bose baracyo bati: Tuzanywe tugere ⟨את⟩ Shimshoni, tugire icyo two dwoge nka ko yakoreye twe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bababaza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ni iki gituma"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "muzanywe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ku twebwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baracyo"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "tugere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshoni"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshoni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ku twebwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tugire icyo two dwoge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nka ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:08:54.721632145Z",
+  "model": "glm-5.3"
+}

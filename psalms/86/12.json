@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Nzasingiza Adonayi, Elohimu wanjye, n'umutima wanjye wose; maze nkazubaha izina ryawe iteka ryose.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Nzasingiza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "n'umutima wanjye"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "nkazubaha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka ryose"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:13.461932828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Elohimu, n'utegereze: ntibe umwijima kuri wewe, ntuhore utunganye, kandi ntuze utekere, Eli.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "uhore utunganye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntuze"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "utekere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.963725851Z",
+  "model": "glm-5.3"
+}

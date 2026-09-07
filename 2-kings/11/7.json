@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "n'ibice bibiri muri mwe, bose basohotse ku munsi wa Shabati, barinde ⟨את⟩ umurinzi w'inzu ya Yahwe i kumbi y'umwami.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "n'ibice bibiri"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "basohotse"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabati"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "barinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurinzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "umurinzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i kumbi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:02.610524240Z",
+  "model": "glm-5.3"
+}

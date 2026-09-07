@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Maze Yaakovu avuga ati: Elohimu wa se wanjye Avrahamu (Aburahamu), n'Elohimu wa se wanjye Yitsaki (Isaka), Yahwe uvuze unte ati: Subira mu gihugu cyawe no aho wavukiye, nzakugirira neza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze avuga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "n'Elohimu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "uvuze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "unte"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Subira"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "mu gihugu cyawe"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "no aho wavukiye"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "nzakugirira neza"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:55.909867035Z",
+  "model": "glm-5.3"
+}

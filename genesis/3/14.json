@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 3:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe Elohimu yarabwiye inzoka ati: Kuko wakoze ibi, uravumewe mu nyamaswa zose zo mu rugo, no mu nyamaswa zose z'ishyamba; ku nda yawe uzagenda, kandi ivu uzarya iminsi yose y'ubuzima bwawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "uravumewe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyamaswa zose zo mu rugo"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamaswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "z'ishyamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גחנך",
+      "gloss": "nda yawe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uzagenda"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ivu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzarya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "y'ubuzima bwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:33.849839021Z",
+  "model": "glm-5.3"
+}

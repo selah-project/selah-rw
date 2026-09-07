@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Nk'uko ibyo bimeze ni ko ababikora bazaba; bose bemera muri byo bazaba nk'abo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "nk'uko ibyo bimeze"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazaba"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ababikora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bemera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri byo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:46.029379585Z",
+  "model": "glm-5.3"
+}

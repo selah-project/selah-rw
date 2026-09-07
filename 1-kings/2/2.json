@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Njye ngiye mu nzira y'isi yose; baba umunyantwari, maze ube umugabo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ngiye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "y'isi"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "baba umunyantwari"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "maze ube"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "umugabo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:22.233647224Z",
+  "model": "glm-5.3"
+}

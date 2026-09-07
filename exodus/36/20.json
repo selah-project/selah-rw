@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Maze akoza ⟨את⟩ imbaho za Mishikani mu bivuze vya Shitimu, bahagaze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maze akoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaho za Mishikani"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "imbaho"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Mishikani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mu bivuze"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "vya Shitimu"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bahagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:25.921522363Z",
+  "model": "glm-5.3"
+}

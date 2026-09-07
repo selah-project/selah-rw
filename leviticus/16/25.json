@@ -1,0 +1,34 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "leviticus 16:25",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 16,
+ "translation": "Kandi azahisha amavuta y'igitangazwa cy'icyaha ⟨את⟩ ku rutare rw'itambamo.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "amavuta y'igitangazwa cy'icyaha"
+  },
+  {
+   "surface": "חלב",
+   "gloss": "amavuta"
+  },
+  {
+   "surface": "החטאת",
+   "gloss": "igitangazwa cy'icyaha"
+  },
+  {
+   "surface": "יקטיר",
+   "gloss": "azahisha"
+  },
+  {
+   "surface": "המזבחה",
+   "gloss": "ku rutare rw'itambamo"
+  }
+ ],
+ "timestamp": "2026-09-07T09:46:28.797827764Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ese wowe ntiwazenguye kuri we, no kuri urugo rwe, no kuri ibyo afite byose, ku mpande zose? Ibikorwa by'ibiganza bye wawuhiriye, maze amatungo ye yagutse mu gihugu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "את",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "wazenguye"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "urugo rwe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "afite"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ku mpande zose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ibikorwa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "by'ibiganza bye"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "wawuhiriye"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "n'amatungo ye"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "yagutse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:19:26.736544932Z",
+  "model": "glm-5.3"
+}

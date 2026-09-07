@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Koko ijuru riri hejuru kurusha isi, ni ko imihambare yanjye iri hejuru kurusha imihambare yanyu, n'ibitekerezo byanjye hejuru kurusha ibitekerezo byanyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koko"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "riri hejuru"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kurusha isi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "iri hejuru"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "imihambare yanjye"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kurusha imihambare yanyu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "n'ibitekerezo byanjye"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kurusha ibitekerezo byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:26:42.420311708Z",
+  "model": "glm-5.3"
+}

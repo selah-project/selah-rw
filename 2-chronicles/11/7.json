@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ Beit Tsuri, na ⟨את⟩ Sokohu, na ⟨את⟩ Adulamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beit Tsuri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sokohu"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokohu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Adulamu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulamu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:51:00.777488725Z",
+  "model": "glm-5.3"
+}

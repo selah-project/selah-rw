@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kugira ngo isi idasutse ⟨את⟩ na mwe mwe mu kwandura ⟨את⟩ yo, nko yasutse ⟨את⟩ ugihugu kiri imbere yanyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "idasutse"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "idasutse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na mwe mwe"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "mu kwandura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yo (isi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nko"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "yasutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugihugu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ugihugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "imbere yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:42:04.367418700Z",
+  "model": "glm-5.3"
+}

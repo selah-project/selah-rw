@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ imyambaro ihanetswe, na ⟨את⟩ imyambaro mitagatifu iya Aharoni kohenu, na ⟨את⟩ imyambaro y'abahungu be ⟨bakoresha ubukohenu⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imyambaro ihanetswe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ihanetswe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imyambaro mitagatifu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mitagatifu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "iya Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imyambaro y'abahungu be"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "y'abahungu be"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "gukora ubukohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:13.149941220Z",
+  "model": "glm-5.3"
+}

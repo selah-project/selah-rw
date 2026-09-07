@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na mushiki we, inkumi idashakanye ihari hafi ye, itarahawe umugabo — ni we baziriraho.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "na mushiki we"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "inkumi idashakanye"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ihari hafi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ita-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "arahawe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ni we"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "baziriraho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:10.407364561Z",
+  "model": "glm-5.3"
+}

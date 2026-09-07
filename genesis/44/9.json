@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "genesis 44:9",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 44,
+ "translation": "Umwe yibwemo ⟨את⟩ we muri abaja bawe, arapfa, na twebwe tuzaba abaja ba shebuja wanjye.",
+ "tokens": [
+  {
+   "surface": "אשר",
+   "gloss": "umwe"
+  },
+  {
+   "surface": "ימצא",
+   "gloss": "yibwemo"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "umwe (mu baja bawe)"
+  },
+  {
+   "surface": "מעבדיך",
+   "gloss": "muri abaja bawe"
+  },
+  {
+   "surface": "ומת",
+   "gloss": "arapfa"
+  },
+  {
+   "surface": "וגם",
+   "gloss": "na"
+  },
+  {
+   "surface": "אנחנו",
+   "gloss": "twebwe"
+  },
+  {
+   "surface": "נהיה",
+   "gloss": "tuzaba"
+  },
+  {
+   "surface": "לאדני",
+   "gloss": "shebuja wanjye"
+  },
+  {
+   "surface": "לעבדים",
+   "gloss": "abaja"
+  }
+ ],
+ "timestamp": "2026-09-07T08:21:15.290648393Z",
+ "model": "glm-5.3"
+}

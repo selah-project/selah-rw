@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Kubera iki amahanga yagira ati: Ese imana yabo iri hehe?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yagira ati"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "איה",
+      "gloss": "iri hehe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "imana yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:41.337948225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ubwo Hadadi we, hamwe n'abantu Abaedomiyi bamwe mu bagaragu ba se, ⟨את⟩ afitanye nabo, arahungiye ajya mu Mitsrayimu; ariko Hadadi yari umuto cyane.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "arahungiye"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na bantu"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Abaedomiyi"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mu bagaragu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ba se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "afitanye nabo (hamwe na we)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ajya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umuto"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:07.579462575Z",
+  "model": "glm-5.3"
+}

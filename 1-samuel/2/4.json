@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Urwabya rw'abagabo b'ingufu rwavunze, n'abatereranye baziriye ingufu.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Urwabya"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "rw'abagabo b'ingufu"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "rwavunze"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "n'abatereranye"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "baziriye"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:20:58.995416363Z",
+  "model": "glm-5.3"
+}

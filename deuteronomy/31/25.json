@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze Moshe yategetse ⟨את⟩ Abalewi, abatera isanduku ya Beriti ya Yahwe, ati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Maze yategetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abalewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Abalewi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abatera"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya Beriti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T11:20:40.073444634Z",
+  "model": "glm-5.3"
+}

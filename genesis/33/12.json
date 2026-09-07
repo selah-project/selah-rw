@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yaravuze ati: Tuvane duke tugende, kandi nanjye nzagenda imbere yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "tuvane duke"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tugende"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "imbere yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:06:17.603562511Z",
+  "model": "glm-5.3"
+}

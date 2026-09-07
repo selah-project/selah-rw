@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe yaravugiye na Moshe ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravugiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:18:00.909463787Z",
+  "model": "glm-5.3"
+}

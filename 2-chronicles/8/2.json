@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Imijyi Huruamu yahaye Shelomo, Shelomo yubatse ⟨את⟩ iyo, maze atuye aho ⟨את⟩ abana ba Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Imijyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huruamu"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyo mijyi"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "maze atuye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:52:27.300641846Z",
+  "model": "glm-5.3"
+}

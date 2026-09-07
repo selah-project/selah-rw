@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kandi ku ruhande rwa Mishikani rw'akabiri, ku ruhande kw'amajarube, ibihimba makumi abiri.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "kandi ku ruhande"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "rwa Mishikani"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rw'akabiri"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku ruhande"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kw'amajarube"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi abiri"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ibihimba"
+    }
+  ],
+  "timestamp": "2026-09-07T09:04:27.281184534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 26:23",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Yashobye Uziyahu na se be, maze bamushyinguye ⟨את⟩ we hamwe na se be mu murima w'ubushyinguro w'abami, kuko baravuze ko yari umufite igitigura; Yotamu umwana we na yategetse mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Yashobye"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "se be"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bamushyinguye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu (we)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "se be"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mu murima"
+    },
+    {
+      "surface": "הקבורה",
+      "gloss": "w'ubushyinguro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "מצורע",
+      "gloss": "yari umufite igitigura"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko we"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T20:59:24.691836962Z",
+  "model": "glm-5.3"
+}

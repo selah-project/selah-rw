@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bityo rero uko Adonayi Yahwe yaravuze: Umwanzi azenguruye igihugu; azamanura imbaraga zawe uriho, amagomero yawe arasiburwa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bityo rero"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Umwanzi"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "azenguruye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "azamanura"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "uriho"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imbaraga zawe"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "arasiburwa"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "amagomero yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:38:55.720654963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Elasa yabyaye ⟨את⟩ Sismayi, kandi Sismayi yabyaye ⟨את⟩ Shalumu.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismayi"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismayi"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "kandi Sismayi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:43.865881735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Muri wowe, Yahwe we, narahungiye; ntipfukame n'isoni mu iteka; mu bwubahizi bwawe unyokore.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "narahungiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "npfukame n'isoni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mu bwubahizi bwawe"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "unyokore"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:10.271520436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yarabwiye Moshe ati: Injira kwa Paro, maze umubwire uti: Uko Yahwe, Elohimu w'Abieviri, abivuga ngo: ⟨את⟩ abantu banjye ohereza, bakore inkorerabugingo iwanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "injira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "maze umubwire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "abivuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu w'"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Abieviri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "bakore inkorerabugingo iwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:07.006107564Z",
+  "model": "glm-5.3"
+}

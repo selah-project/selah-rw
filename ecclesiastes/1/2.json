@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ubusa bw'ubusa, Koheleti yaravuze; ubusa bw'ubusa — byose ⟨ni⟩ ubusa.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ubusa"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "bw'ubusa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "bw'ubusa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:40.807487578Z",
+  "model": "glm-5.3"
+}

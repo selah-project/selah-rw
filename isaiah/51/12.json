@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "isaiah 51:12",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 51,
+ "translation": "Ni njye, ni njye ndi utuma umutima ushiba; ni nde wowe, waragize ubwoba ku muntu uzapfa no ku mwana w'umuntu ugomba kugirwa nk'ubwatsi?",
+ "tokens": [
+  {
+   "surface": "אנכי",
+   "gloss": "Ni njye"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ni njye"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ndi"
+  },
+  {
+   "surface": "מנחמכם",
+   "gloss": "utuma umutima ushiba"
+  },
+  {
+   "surface": "מי",
+   "gloss": "ni nde"
+  },
+  {
+   "surface": "את",
+   "gloss": "wowe"
+  },
+  {
+   "surface": "ותיראי",
+   "gloss": "waragize ubwoba"
+  },
+  {
+   "surface": "מאנוש",
+   "gloss": "ku muntu"
+  },
+  {
+   "surface": "ימות",
+   "gloss": "uzapfa"
+  },
+  {
+   "surface": "ומבן",
+   "gloss": "no ku mwana"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "w'umuntu"
+  },
+  {
+   "surface": "חציר",
+   "gloss": "nk'ubwatsi"
+  },
+  {
+   "surface": "ינתן",
+   "gloss": "ugomba kugirwa"
+  }
+ ],
+ "timestamp": "2026-09-07T15:25:10.352304714Z",
+ "model": "glm-5.3"
+}

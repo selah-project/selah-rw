@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze Adamu yamenye ⟨את⟩ Havva umugore we; nabyawe abyara ⟨את⟩ Kayini, aravuga ati: Naguze umugabo ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Maze Adamu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yamenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Havva"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havva"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "nabyawe"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "naguze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:34:10.740630381Z",
+  "model": "glm-5.3"
+}

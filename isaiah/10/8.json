@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kuko avuga ati: Ese abatware banjye ntibimwe n'abami bose hamwe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "avuga ati"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ese... nta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware banjye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bose hamwe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "n'abami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:47:15.050556450Z",
+  "model": "glm-5.3"
+}

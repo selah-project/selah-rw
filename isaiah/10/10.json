@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nkouko ukuboko kwanjye kwasanze ubwami bw'imana z'ibigirwamana n'ibishushanyo byazo — i Yerushalayimu no muri Shomeroni.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nkouko"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "kwasanze"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ukuboko kwanjye"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "ubwami bw'"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "mana z'ibigirwamana"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "n'ibishushanyo byazo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "no muri Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-07T14:46:37.295253264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 36:15",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Yahwe, Elohimu wa bababyeyi babo, yarungikaga kuri bo mu ntoki zacu abatumwa be, azamuka kare no arungika, kuko yagize impuhwe ku bantu be no ku ituye rye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarungikaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bababyeyi babo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki zacu"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "abatumwa be"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "azamuka kare"
+    },
+    {
+      "surface": "ושלוח",
+      "gloss": "no arungika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "yagize impuhwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "מעונו",
+      "gloss": "ituye rye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:06:06.354982157Z",
+  "model": "glm-5.3"
+}

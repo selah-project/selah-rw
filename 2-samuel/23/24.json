@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Asaelu, murumuna wa Yowabu, yari mu mirongo itatu; Elhanani, umwana wa Dodowu, wa Betlehema.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asaelu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "murumuna"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "wa Yowabu"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "mu mirongo itatu"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "wa Dodowu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehema"
+    }
+  ],
+  "timestamp": "2026-09-07T13:24:22.971238104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Kandi abatunganye barishima, banikundisha imbere y'Elohimu, bagahimbazwa mu bwishimo.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "abatunganye"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "barishima"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "banikundisha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "bagahimbazwa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mu bwishimo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:05.269785185Z",
+  "model": "glm-5.3"
+}

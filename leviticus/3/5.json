@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze abahungu ba Aharoni bayakira ⟨את⟩ ibi ku igitambambuga, hejuru y'igitambo cyose ari ku biti ari ku muriro — igitambo cy'umuriro, impumuro yishimisha kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "bayakira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ibi (ibinure)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku igitambambuga"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igitambo cyose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igitambo cy'umuriro"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "impumuro"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yishimisha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:38.523762333Z",
+  "model": "glm-5.3"
+}

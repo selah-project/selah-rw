@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 130,
+  "translation": "Yisraeli, yitegerezeho kuri Yahwe, kuko kwa Yahwe hari hesedi, kandi kuri we hari ukivura kunini.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "yitegerezeho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ukivura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:53.491193023Z",
+  "model": "glm-5.3"
+}

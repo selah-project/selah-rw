@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ibyuma byo ku miryango byazunnye ku ijwi ry'uhamagara, n'inzu izuye utsindi.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "byazunnye"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ibyuma"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "byo ku miryango"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ku ijwi"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "ry'uhamagara"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "n'inzu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "izuye"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "utsindi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:15.067952701Z",
+  "model": "glm-5.3"
+}

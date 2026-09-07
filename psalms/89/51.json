@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Wibuke, Adonayi, inzika z'abagaragu bawe; ndazitwara mu mutima wanjye, z'abaturage benshi bose.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wibuke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "inzika"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "z'abagaragu bawe"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "ndazitwara"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "z'abaturage"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:37.343315051Z",
+  "model": "glm-5.3"
+}

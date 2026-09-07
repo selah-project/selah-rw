@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Maze nzirikaho amazi meza, mwe mukaba mwasukurwa; mu bitotsi byanyu byose no mu bigirwamana byanyu byose, ndabasukura ⟨את⟩ mwe.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "nzirika"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho (kuri mwe)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "meza"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "mwasukurwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose bya"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "ibitotsi byanyu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "no mu byose bya"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "ibigirwamana byanyu"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "ndasukura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:49:38.002083030Z",
+  "model": "glm-5.3"
+}

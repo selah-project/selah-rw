@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Umushinga mu mutima w'umuntu ni amazi mananiye; kandi umuntu w'ubwenge ni we uzaroba.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "mananiye"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "umushinga"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mutima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kandi umuntu"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "w'ubwenge"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "uzaroba"
+    }
+  ],
+  "timestamp": "2026-09-07T21:59:07.206204090Z",
+  "model": "glm-5.3"
+}

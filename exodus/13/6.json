@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Iminsi irindwi uzarya matsoti, kandi ku munsi wa karindwi habeho umunsi mukuru (hagi) ku Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzarya"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matsoti"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "kandi ku munsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa karindwi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umunsi mukuru (hagi)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ku Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:49.545660590Z",
+  "model": "glm-5.3"
+}

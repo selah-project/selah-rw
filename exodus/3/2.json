@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze umutumwa wa Yahwe yagaragaye iwe mu rurimi rw'umuriro mu giti; abona, dore igiti gikongorwa mu muriro, ariko igiti ntigisya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yagaragaye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "mu rurimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "rw'umuriro"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dore"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "igiti"
+    },
+    {
+      "surface": "בער",
+      "gloss": "gikongorwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "ariko igiti"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "gisya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:34.342763586Z",
+  "model": "glm-5.3"
+}

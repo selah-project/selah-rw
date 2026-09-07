@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Nzashyira intoki ye ku nyanja, n'iburyo bye ku migezi.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Nzashyira"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ku nyanja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "intoki ye"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ku migezi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "n'iburyo bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:05.574367772Z",
+  "model": "glm-5.3"
+}

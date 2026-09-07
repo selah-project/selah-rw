@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yahwe azi iminsi y'abitunganye batabuze, kandi urubyiruko rwabo ruzahoraho iteka.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "y'abitunganye batabuze"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "kandi urubyiruko rwabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ruzaguma rihari"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:09.964018106Z",
+  "model": "glm-5.3"
+}

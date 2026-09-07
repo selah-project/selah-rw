@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Munvire, mwebwe abatituye mu bantu, mwebwe abajijijyi — nyamara ryari muzigera mubyaza ubwenge?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "munvire"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mwebwe abatituye"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "mwebwe abajijijyi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ryari"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "muzigera mubyaza ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:51.088300994Z",
+  "model": "glm-5.3"
+}

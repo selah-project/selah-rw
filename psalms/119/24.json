@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ibyakora ibyemezo byawe ni byo umunezero wanjyewe, ari n'abantu b'ubwenge bwanjyewe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ibyakora"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ibyemezo byawe"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "umunezero wanjyewe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "b'ubwenge bwanjyewe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:48.318301318Z",
+  "model": "glm-5.3"
+}

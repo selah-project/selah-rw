@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Umutegekanya mu bikorwa by'intoki zawe; ibyo byose washyize hasi ku birenge bye.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Umutegekanya"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "mu bikorwa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "by'intoki zawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ibyo byose"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "washyize"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ku"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ibirenge bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:07:29.597183430Z",
+  "model": "glm-5.3"
+}

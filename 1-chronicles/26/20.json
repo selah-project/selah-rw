@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abaleviyi nabo bari n'abandi: Ahiya yari ku ntungo z'inzu ya Elohimu no ku ntungo z'ibintu byerahiro.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "Abaleviyi nabo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku (kuri)"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ntungo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohimu"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "no ku ntungo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "z'ibintu byerahiro"
+    }
+  ],
+  "timestamp": "2026-09-07T20:44:00.752917230Z",
+  "model": "glm-5.3"
+}

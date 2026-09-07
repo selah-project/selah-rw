@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze abagabo b'Yisraeli bose barahuriye kwa Shelomo umwami, mu kwezi kw'Ethanimu, mu munsi mukuru — ni uko ukwezi kwa karindwi.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "barahuriye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Yisraeli"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "mu kwezi"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "kw'Ethanimu"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "mu munsi mukuru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni uko"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kwa karindwi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:41:12.898716832Z",
+  "model": "glm-5.3"
+}

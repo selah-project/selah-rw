@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Cyari kare ⟨ni⟩ cyo bahese; bahese ⟨את⟩ ⟨chosheni⟩ agakwaso k'ibere kabiri; inyuguti z'uruboko z'iburyo (izera) z'uburebure bwacyo, n'izera z'ugari bwacyo, kabiri.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "kare"
+    },
+    {
+      "surface": "היה",
+      "gloss": "cyari"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "⟨ni⟩ cyo bahese"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bahese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨chosheni⟩ agakwaso k'ibere"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨chosheni⟩ agakwaso k'ibere"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "inyuguti z'uruboko z'iburyo (izera)"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "z'uburebure bwacyo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "n'izera"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "z'ugari bwacyo"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T09:19:14.762635473Z",
+  "model": "glm-5.3"
+}

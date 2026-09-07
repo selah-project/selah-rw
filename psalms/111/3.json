@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Ikuzo n'ubwiza ⟨ni⟩ ibikorwa bye; kandi ubutungane bwe burahagaze iteka ry'iteka.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Ikuzo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "n'ubwiza"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ibikorwa bye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kandi ubutungane bwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "burahagaze"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iteka ry'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:11.554402932Z",
+  "model": "glm-5.3"
+}

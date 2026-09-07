@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 143,
+  "translation": "Nabukiye iminsi yo hambere, naribanzeho ibikorwa byawe byose; ku bikorwa by'ibiganza byawe ndibanza buhoro buhoro.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Nabukiye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "yo hambere"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "naribanzeho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ibikorwa byawe"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ku bikorwa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "by'ibiganza byawe"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ndibanza buhoro buhoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:26.037275020Z",
+  "model": "glm-5.3"
+}

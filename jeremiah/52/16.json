@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 52:16",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Ariko Nivuzaradani, umutware w'abasirikare, yasize abakene b'isi, kugira ngo babe abahinga zabibwa n'abahinga isi.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "abakene b'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "yasize"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nivuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umutware w'"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "abasirikare"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "abahinga zabibwa"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "n'abahinga isi"
+    }
+  ],
+  "timestamp": "2026-09-07T16:37:39.900267968Z",
+  "model": "glm-5.3"
+}

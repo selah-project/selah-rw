@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Uwo mu bana ba Aharoni uzana ⟨את⟩ amaraso y'amahanganwa no ⟨את⟩ ibinure — iwe ni we ubw'urwagashya rw'iburyo nk'umugabane.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "uzana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "y'amahanganwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "ibinure"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ibinure"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mu bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ba Aharoni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe ni we"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ubw'"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "urwagashya"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rw'iburyo"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "nk'umugabane"
+    }
+  ],
+  "timestamp": "2026-09-07T09:28:55.794128288Z",
+  "model": "glm-5.3"
+}

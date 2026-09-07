@@ -1,0 +1,72 @@
+{
+ "tier": "glm-5.2",
+ "verse": 41,
+ "ref": "exodus 39:41",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 39,
+ "translation": "⟨את⟩ imyambaro y'umurimo yo gukorera mu gitagatifu, ⟨את⟩ imyambaro igitagatifu rya Aharoni kohenu, na ⟨את⟩ imyambaro y'abahungu be yo kuba abaherezi.",
+ "tokens": [
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "imyambaro y'ubusaseridoti"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "imyambaro"
+  },
+  {
+   "surface": "השרד",
+   "gloss": "y'umurimo"
+  },
+  {
+   "surface": "לשרת",
+   "gloss": "yo gukorera"
+  },
+  {
+   "surface": "בקדש",
+   "gloss": "mu gitagatifu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "imyambaro igitagatifu"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "imyambaro"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "igitagatifu"
+  },
+  {
+   "surface": "לאהרן",
+   "gloss": "rya Aharoni"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "imyambaro y'abahungu be"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "imyambaro"
+  },
+  {
+   "surface": "בניו",
+   "gloss": "abahungu be"
+  },
+  {
+   "surface": "לכהן",
+   "gloss": "yo kuba abaherezi"
+  }
+ ],
+ "timestamp": "2026-09-07T09:22:10.237352527Z",
+ "model": "glm-5.3"
+}

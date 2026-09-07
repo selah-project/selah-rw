@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntimukore icyo aricyo cy'akazi: ni itegeko ry'iteka ⟨Olamu⟩ ku miryango yanyu, mu mibuvako yanyu yose.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "icyo aricyo cy'"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ry'iteka ⟨Olamu⟩"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ku miryango yanyu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mibuvako yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:45.078991090Z",
+  "model": "glm-5.3"
+}

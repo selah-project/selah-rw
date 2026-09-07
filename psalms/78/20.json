@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Raba, yar ubishye urutare amazi aratanga, inzuzi ziranyura; none ko niba ashobora gutaha umugati, ko ategura inyama ku bantu be?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yar ubishye"
+    },
+    {
+      "surface": "צור",
+      "gloss": "urutare"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "aratanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "inzuzi"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ziranyura"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "none ko niba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ashobora"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gutaha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ategura"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ku bantu be"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:01.567782424Z",
+  "model": "glm-5.3"
+}

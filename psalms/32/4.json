@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kuko amanywa n'ijoro iganza ryawe ryari rirasimba kuri njye; ubushake bwanjye warahindutse mu gihe cy'umwuma wa mpeshyi. Selahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amanywa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "n'ijoro"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ryari rirasimba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iganza ryawe"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "warahindutse"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "ubushake bwanjye"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "mu gihe cy'umwuma"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "wa mpeshyi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:22.671809089Z",
+  "model": "glm-5.3"
+}

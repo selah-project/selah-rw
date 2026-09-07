@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Abatunganye bazareba, bakatinya, bakamuseka.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bazareba"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "Abatunganye"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bakatinya"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "bamuseka ho"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "bakamuseka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:53.379307763Z",
+  "model": "glm-5.3"
+}

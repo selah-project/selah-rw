@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kandi umunyamahanga ntimuzamugome, kandi mwe muzi ⟨את⟩ nefeshi y'umunyamahanga, koko mwari abanyamahanga mu gihugu cya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Kandi umunyamahanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "muzamugome"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kandi mwe"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "muzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshi y'umunyamahanga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "y'umunyamahanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abanyamahanga"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:58:07.569526370Z",
+  "model": "glm-5.3"
+}

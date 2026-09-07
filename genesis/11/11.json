@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Shemu aguma aziho imyaka amajana atanu nyuma y'uko yabyaye ⟨את⟩ Arufakashadi, maze yabyaye abahungu n'abakobwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aguma aziho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'uko"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arufakashadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arufakashadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:41:39.051832506Z",
+  "model": "glm-5.3"
+}

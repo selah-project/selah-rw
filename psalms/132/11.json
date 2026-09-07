@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Yahwe yarahuriye Dawidi ubwizerere; ntiyazasubira ku byo, ati: Mu mbuto z'inda yawe nzashyira ku ntebe ryawe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "yarahuriye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ubwizerere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "azasubira"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ku byo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mu mbuto za"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "inda yawe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nzashyira"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ku ntebe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rywawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:43.411670793Z",
+  "model": "glm-5.3"
+}

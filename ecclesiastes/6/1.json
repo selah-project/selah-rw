@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ikibi kirahari cyo nakibona hasi y'ijuru, kandi ni cyo kiremereye ku muntu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kirahari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ikibi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakibona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kiremereye"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "muntu"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:13.783910305Z",
+  "model": "glm-5.3"
+}

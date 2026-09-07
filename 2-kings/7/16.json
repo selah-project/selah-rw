@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Abantu barasohoka bateshura ⟨את⟩ ingobo z'Aramu, maze iseya imwe y'ifarini ihinjwa ku ishekeli, amaseya abiri y'ibyori ku ishekeli, nk'ijwi rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "barasohoka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "bateshura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingobo z'Aramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ingobo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "iseya"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifarini"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ku ishekeli"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "amaseya abiri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ibyori"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ku ishekeli"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nk'ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:16:55.517808619Z",
+  "model": "glm-5.3"
+}

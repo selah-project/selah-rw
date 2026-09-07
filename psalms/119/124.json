@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ngirira n'umugaragu wawe uko hesedi yawe ⟨ibimeze⟩, unyigishire amategeko yawe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ngirira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "uko hesedi yawe"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "unyigishire"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:51.431215936Z",
+  "model": "glm-5.3"
+}

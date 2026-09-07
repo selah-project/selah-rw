@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ndanzi ishyirahamwe ry'abakora ibibi, kandi na ababi nti ndicara.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ndanzi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ishyirahamwe"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ry'abakora ibibi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ndicara"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:19.635446597Z",
+  "model": "glm-5.3"
+}

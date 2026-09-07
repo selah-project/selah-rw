@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Yehuda yaratsinzwe imbere ya Yisraeli, maze buri muntu yarirukanye yagiye ku ihema rye.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "yaratsinzwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "barirukanye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ku ihema rye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:19:23.003293679Z",
+  "model": "glm-5.3"
+}

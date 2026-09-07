@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "kugira ngo umubyare uzaza ubumenye, abana bazavuka, bazazuka bakaganiriza abana babo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ubumenye"
+    },
+    {
+      "surface": "דור",
+      "gloss": "umubyare"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "uzaza"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "bazavuka"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bazazuka"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "bakaganiriza"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "abana babo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:06.647155039Z",
+  "model": "glm-5.3"
+}

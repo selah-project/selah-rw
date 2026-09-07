@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Kuko nari ndazi ko wowe utunguranye, umugongo wawe ⟨ni⟩ uruha rw'icyuma, umutwe wawe wo hejuru ⟨ni⟩ umuringa.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Kuko nari ndazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "utunguranye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "uruha"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "icyuma"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "umugongo wawe"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "umutwe wawe wo hejuru"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "umuringa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:23:14.907097082Z",
+  "model": "glm-5.3"
+}

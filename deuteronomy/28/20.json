@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Yahwe azohereza ku wowe ⟨את⟩ umuvumo, ⟨את⟩ umudutannyi, na ⟨את⟩ igisebo, mu byose ukoherereza ukuboko kwawe uko ukora, kugeza umeneka kandi upfa vuba, kubera inkuru mbi y'ibikorwa byawe, wowe wahishe ko wansize.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuvumo"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "umuvumo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umudutannyi"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "umudutannyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igisebo"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "igisebo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ukoherereza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "umeneka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kandi kugeza"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "upfa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "רע",
+      "gloss": "inkuru mbi"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "y'ibikorwa byawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "wansize"
+    }
+  ],
+  "timestamp": "2026-09-07T11:15:44.412242072Z",
+  "model": "glm-5.3"
+}

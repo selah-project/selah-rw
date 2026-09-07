@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 67,
+  "translation": "Isi yatanze imyaka yayo; Elohimu, Elohimu wacu, aduha umugisha.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "imyaka yayo"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "aduha umugisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:43.921953821Z",
+  "model": "glm-5.3"
+}

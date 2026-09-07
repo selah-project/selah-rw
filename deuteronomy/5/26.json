@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuko nde w'umubiri wose wamvise ijwi ry'Elohimu bazima uvuga mu kati k'umuriro, nka twe, yarakomeje kubaho?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "umubiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamvise"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bazima"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "uvuga"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mu kati ka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "nka twe"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "yarakomeje kubaho"
+    }
+  ],
+  "timestamp": "2026-09-07T10:51:22.339722469Z",
+  "model": "glm-5.3"
+}

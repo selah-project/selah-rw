@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "1-samuel 8:20",
+ "book": "1-samuel",
+ "lang": "rw",
+ "chapter": 8,
+ "translation": "kugira natwe tuzabe uko amahanga yose aba, umwami wacu akadukanza, akanatunganya akaza imbere yacu, akarwana ⟨את⟩ intambara zacu.",
+ "tokens": [
+  {
+   "surface": "והיינו",
+   "gloss": "tuzabe"
+  },
+  {
+   "surface": "גם",
+   "gloss": "natwe"
+  },
+  {
+   "surface": "אנחנו",
+   "gloss": "twe ubwacu"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "uko... yose"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "amahanga"
+  },
+  {
+   "surface": "ושפטנו",
+   "gloss": "akadukanza"
+  },
+  {
+   "surface": "מלכנו",
+   "gloss": "umwami wacu"
+  },
+  {
+   "surface": "ויצא",
+   "gloss": "akaza imbere yacu"
+  },
+  {
+   "surface": "לפנינו",
+   "gloss": "imbere yacu"
+  },
+  {
+   "surface": "ונלחם",
+   "gloss": "akarwana"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "intambara zacu"
+  },
+  {
+   "surface": "מלחמתנו",
+   "gloss": "intambara zacu"
+  }
+ ],
+ "timestamp": "2026-09-07T12:23:09.355584189Z",
+ "model": "glm-5.3"
+}

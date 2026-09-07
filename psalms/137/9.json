@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 137,
+  "translation": "Urugaza ⟨ni⟩ we uzafata akananura ⟨את⟩ ibiheri byawe ku rutare.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Urugaza"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "akananura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiheri byawe"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ibiheri byawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "urutare"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:37.066743743Z",
+  "model": "glm-5.3"
+}

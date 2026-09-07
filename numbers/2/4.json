@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "n'ingabo ye n'ibarurwa ryabo ⟨ni⟩ ine na mirongo irindwi ibihumbi na gatandatu amajana atandatu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "n'ingabo ye"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "n'ibarurwa ryabo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mirongo irindwi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na gatandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana atandatu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:59:02.283784337Z",
+  "model": "glm-5.3"
+}

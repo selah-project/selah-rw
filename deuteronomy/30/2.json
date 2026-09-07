@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "maze usubire kwa Yahwe Elohimu wawe, maze umutege kure ubwiwe, uko kuri byose ntegeka uyu munsi - wowe n'ibyawe - ku mutima wawe wose no ku ubuzima bwawe bwose.",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "maze usubire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "maze utege"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ubwiwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko kuri byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ntegeka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "uyu munsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "n'ibyawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "umutima wawe wose"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ubuzima bwawe bwose"
+    }
+  ],
+  "timestamp": "2026-09-07T11:16:11.005319785Z",
+  "model": "glm-5.3"
+}

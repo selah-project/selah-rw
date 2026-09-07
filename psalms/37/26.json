@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Umunsi wose aronza kandi agurisha, kandi urubyaro rwe ni umugisha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ibyosa (wose)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "aronza"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "agurisha"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "urubyaro rwe"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "ni umugisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:09.060232622Z",
+  "model": "glm-5.3"
+}

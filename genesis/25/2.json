@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze amuvyarira ⟨את⟩ Zimurani na ⟨את⟩ Yokushani na ⟨את⟩ Medani na ⟨את⟩ Midiyani na ⟨את⟩ Yishibaku na ⟨את⟩ Shuwahi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Maze amuvyarira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amuvyarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimurani"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimurani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yokushani"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokushani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Medani"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Midiyani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yishibaku"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishibaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shuwahi"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuwahi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:58.030205349Z",
+  "model": "glm-5.3"
+}

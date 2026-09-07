@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Ijisho ryanjye rirabona iruhuruko ry'abarindiriye banjye; n'amatwi yanjye arumva kuvanwa kw'abakora ibibi bazamuka ku njye.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "rirabona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijisho ryanjye"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ry'abarindiriye banjye"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "arumva"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "n'amatwi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:56.295092511Z",
+  "model": "glm-5.3"
+}

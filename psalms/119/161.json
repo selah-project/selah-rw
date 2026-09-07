@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Abatware barangandaguye nta mpamvu, ariko umutima wanjye uratinya amajambo yawe.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "barangandaguye (baransekuriye)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nta mpamvu"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "na amajambo yawe"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "uratinya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "umutima wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:07.719732800Z",
+  "model": "glm-5.3"
+}

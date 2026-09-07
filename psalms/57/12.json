@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Zamuka, Elohimu, hejuru y'ijuru; icyubahiro cyawe kikere hejuru y'isi yose.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "icyubahiro cyawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:43.268478521Z",
+  "model": "glm-5.3"
+}

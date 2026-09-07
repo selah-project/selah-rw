@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Unyuze ku gice cy'umusozi kiri imbere y'i Araba, mu majyaruguru, maze umanuka mu Araba.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "unyuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "gice cy'umusozi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kiri imbere ya"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "mu majyaruguru"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "umanuka"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "mu Araba"
+    }
+  ],
+  "timestamp": "2026-09-07T11:39:16.941576770Z",
+  "model": "glm-5.3"
+}

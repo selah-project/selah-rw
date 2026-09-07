@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Mwishimire Yahwe mu gushima, muririmbire Elohimu wacu n'inanga.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Mwishimire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mu gushima"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muririmbire"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "n'inanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:52.335050586Z",
+  "model": "glm-5.3"
+}

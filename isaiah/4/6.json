@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kandi ihuumba rizaba urw'icumu mu manywa, mu kwirinda ubushyuhe, n'ubwishingizi n'ubwihisho, mu mbonimbwa n'imvura.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ihuumba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "rizaba"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "urw'icumu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mu manywa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mu kwirinda ubushyuhe"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "n'ubwishingizi"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "n'ubwihisho"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "mu mbonimbwa"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "n'imvura"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:53.309427963Z",
+  "model": "glm-5.3"
+}

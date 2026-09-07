@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Nzagumamo mu ihema ryawe iteka, ndahungira mu kwihisho kw'ibyaya byawe. ⟨Selahi⟩",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Nzagumamo"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mu ihema ryawe"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndahungira"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mu kwihisho"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kw'ibyaya byawe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:47.646126048Z",
+  "model": "glm-5.3"
+}

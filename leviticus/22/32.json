@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi ntimukore icyaha ku ⟨את⟩ izina ryanjye ryeranda; kandi nzatagatifuwe hagati mu bana ba Yisraeli; njye ⟨ni⟩ Yahwe utagatifuza.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "mukore icyaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izina ryanjye ryeranda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ryanjye ryeranda"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "nzatagatifuwe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "utagatifuza"
+    }
+  ],
+  "timestamp": "2026-09-07T22:41:12.608787636Z",
+  "model": "glm-5.3"
+}

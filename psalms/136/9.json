@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 136,
+  "translation": "⟨את⟩ ukwezi n'inyenyeri kugira zifate mu ijoro, kuko hesedi ye ⟨ni⟩ iteka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukwezi"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ukwezi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "n'inyenyeri"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kugira zifate"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:55.032783649Z",
+  "model": "glm-5.3"
+}

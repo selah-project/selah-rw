@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Ngaho, ijisho rya Yahwe riri kuri abamutinya, kuri abategereje hesedi ye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ngaho"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamutinya"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kuri abategereje"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesedi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:34.165476586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ijwi r'uwitura mu gihugu cy'ubutayu: Nimwitegurire inzira ya Yahwe, nimworohe inzira mu butayu, umuhanda w'Elohimu wacu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "r'uwitura"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu gihugu cy'ubutayu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "nimwitegurire"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "nimworohe"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "umuhanda"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "w'Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:15:14.478671563Z",
+  "model": "glm-5.3"
+}

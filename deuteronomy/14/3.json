@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Nturya na kimwe mu bikurwangira.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "urya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na kimwe mu ... byose"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "bikurwangira"
+    }
+  ],
+  "timestamp": "2026-09-07T10:57:59.426325931Z",
+  "model": "glm-5.3"
+}

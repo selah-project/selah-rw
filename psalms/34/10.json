@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Mutinye Yahwe ⟨את⟩, abatagatifu be; kuko abatinya we nta kibura bafite.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "mutinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "abatagatifu be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kibura"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "abatinya we bafite"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:17.055900472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Omeri na Yisraeli yose hamwe na we bazamukiye i Gibutoni, maze barazengeye ku Tirtsaha.",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "bazamukiye"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "i Gibutoni"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "barazengeye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirtsaha"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:32.855448978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ariko ijambo ry'umwami ryakomeye ku Yoabu no kubatware b'ingabo; maze Yoabu n'ibitware by'ingabo basohoke imbere y'umwami, bajye barura ⟨את⟩ abantu, ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ryakomeye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ry'umwami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "batware"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "b'ingabo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "basohoke"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "n'ibitware"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "by'ingabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "barura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:33.058551693Z",
+  "model": "glm-5.3"
+}

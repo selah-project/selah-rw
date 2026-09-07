@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Mu gihe navunitse, banezerewe banahiriye hamwe; abahezu banahiriye ku nkomango zanjye, ariko sinabimenye; baranditse kandi nta bahagaze.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "Mu gihe navunitse"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "banezerewe"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "banahiriye hamwe"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "banahiriye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku nkomango zanjye"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "abahezu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ariko nta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sinabimenye"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "baranditse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "bahagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:51.334320274Z",
+  "model": "glm-5.3"
+}

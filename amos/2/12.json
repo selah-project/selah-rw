@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Mwasuhuye ⟨את⟩ abanezirimu umuvinyo, mwareganye abahanuzi ngo mutahanuze.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "mwasuhuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abanezirimu"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "abanezirimu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "umuvinyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "mwareganye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "mutahanuze"
+    }
+  ],
+  "timestamp": "2026-09-07T17:37:21.121256968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ku mutware w'umuziki, indirimbo cya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutware w'umuziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:35.141076158Z",
+  "model": "glm-5.3"
+}

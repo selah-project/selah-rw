@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Bityo nziburanya Mitsrayimu ku Mitsrayimu, bazagwirirana barwana: umuntu n'umuvandimwe we, umuntu n'umunyurwango we, umujyi ku mujyi, ubwami ku bwami.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "nziburanya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "bazagwirirana barwana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "n'umuvandimwe we"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "n'umunyurwango we"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ku mujyi"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "ku bwami"
+    }
+  ],
+  "timestamp": "2026-09-07T14:56:46.701860372Z",
+  "model": "glm-5.3"
+}

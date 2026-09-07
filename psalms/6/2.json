@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe, ntunkanguhe mu bishyu byawe, kandi ntunigishe mu rusengo rwawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mu bishyu byawe"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "nkanguhe"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "kandi ntu-"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "mu rusengo rwawe"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "nigishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:51.939780559Z",
+  "model": "glm-5.3"
+}

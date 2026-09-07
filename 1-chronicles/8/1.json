@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Binyaminu yabyaye ⟨את⟩ Bela, imfura ye; Ashbelu ⟨ni⟩ wa kabiri, na Aharahu ⟨ni⟩ wa gatatu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyaminu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "imfura ye"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbelu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "na Aharahu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa gatatu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:39.896190153Z",
+  "model": "glm-5.3"
+}

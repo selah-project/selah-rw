@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "N'abahungu ba Gomeru: Ashikenazi (Ashikenazi), na Rifati (rifati) na Togarmahu (Togarma).",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "N'abahungu"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ba Gomeru"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashikenazi (Ashikenazi)"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "na Rifati (rifati)"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "na Togarmahu (Togarma)"
+    }
+  ],
+  "timestamp": "2026-09-07T07:39:17.871563238Z",
+  "model": "glm-5.3"
+}

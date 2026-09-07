@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 99,
+  "translation": "Nimuroromora Yahwe Elohimu wacu, muhunze ku gasozi ke gitagatifu, kuko Yahwe Elohimu wacu ⟨ni⟩ Umutagatifu.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Nimuroromora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "muhunze"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ku gasozi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ke gitagatifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Umutagatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:19.358000936Z",
+  "model": "glm-5.3"
+}

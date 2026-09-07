@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Abahungu ba Yisraeli bahaye Abaleviyi ⟨את⟩ iyo mijyi n'imirwa yayo, uko Yahwe yategetse ku nkoni ya Moshe, mu kuruhara.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bahaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Abaleviyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo mijyi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "iyo mijyi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyo mijyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imirwa yayo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "imirwa yayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ku nkoni ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "mu kuruhara"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:48.241382777Z",
+  "model": "glm-5.3"
+}

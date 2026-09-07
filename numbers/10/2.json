@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kora ubwawe amapipa abiri y'ifeza; ⟨ivyakozwe mu ntoki⟩ uzabikora ⟨את⟩ yazo; maze azaba iwawe yo guhamagara ihuriro no gutuma ⟨את⟩ imishinga igenda.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ubwawe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "amapipa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ivyakozwe mu ntoki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzabikora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yazo",
+      "marks": "amapipa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "maze azaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "yo guhamagara"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ihuriro"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "no gutuma…igenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imishinga"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "imishinga"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:33.372188433Z",
+  "model": "glm-5.3"
+}

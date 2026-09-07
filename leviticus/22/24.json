@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Icyahumutse, icyatumicwe, icyacukuuwe, cyangwa icyatemewe — ntimuzanire kwa Yahwe, kandi mu gihugu cyanyu ntimuzakore ibyo.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "icyahumutse"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "icyatumicwe"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "icyacukuuwe"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "icyangwa icyatemewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "muzanire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "mu gihugu cyanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzakore ibyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:09.503536543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Kuko ibitekerezo byanjye si ibitekerezo byanyu, kandi n'inzira zanyu si inzira zanjye, amagambo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ibitekerezo byanjye"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ibitekerezo byanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta... si"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "inzira zanyu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "inzira zanjye"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amagambo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:25:46.864645863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Umutware wa mirongo itanu, n'uwemerewe uruhara, n'umujyanama, n'umunyabwenge w'abahanzi b'ubuhanga, n'umunyabwenge w'amarirane.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "Umutware"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa mirongo itanu"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "n'uwemerewe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "uruhara"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "n'umujyanama"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "n'umunyabwenge"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "w'abahanzi b'ubuhanga"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "n'umunyabwenge"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "w'amarirane"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:23.207580642Z",
+  "model": "glm-5.3"
+}

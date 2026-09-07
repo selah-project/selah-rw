@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze ashya ⟨את⟩ inzu ya Yahwe na ⟨את⟩ inzu y'umwami, na ⟨את⟩ amazu yose ya Yerushalayimu; na ⟨את⟩ inzu ndende yose ayashyize mu muriro.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "Maze ashya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu y'umwami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amazu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ndende yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ndende"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ayashyize"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:35:42.030870719Z",
+  "model": "glm-5.3"
+}

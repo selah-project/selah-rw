@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ibaruwa yagejeje ku mwami w'Yisraeli iti: \"None, iyo iyi baruwa yagejeje iwawe, reba, nakoherereje iwawe ⟨את⟩ Naamani, umugaragu wanjye, ngo ukamukize umwuma we.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yagejeje"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ibaruwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "igihe yagejeje"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ibaruwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "reba"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nakoherereje"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamani"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ukamukize"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "umwuma we"
+    }
+  ],
+  "timestamp": "2026-09-07T14:12:23.468417199Z",
+  "model": "glm-5.3"
+}

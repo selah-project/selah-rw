@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 147,
+  "translation": "Ntabwo yakoreze ibyo ku mahanga yose; kandi imyanzuro ntibayizi. Nimusingize Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntabwo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku… yose"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mahanga"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "kandi imyanzuro"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bayizi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:42.382535667Z",
+  "model": "glm-5.3"
+}

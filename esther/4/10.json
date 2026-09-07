@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Esther ara-vuze iti yabwira Hataki, maze amubwira yohereje kwa Mordekayi",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ara-vuze iti"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "yabwira Hataki"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "maze amubwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yohereje kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    }
+  ],
+  "timestamp": "2026-09-07T22:32:57.546413016Z",
+  "model": "glm-5.3"
+}

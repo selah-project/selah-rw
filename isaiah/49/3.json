@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 49,
+  "translation": "Maze arabwira njye ati: Wowe ⟨ni⟩ umugaragu wanjye, Yisraeli, wowe ndizihira muri wewe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze arabwira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wewe"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ndizihira"
+    }
+  ],
+  "timestamp": "2026-09-07T15:23:57.888618933Z",
+  "model": "glm-5.3"
+}

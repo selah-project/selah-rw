@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Nevuzaradani, umutware w'abatabaji, yafashe ⟨את⟩ bo, maze ajyanye ⟨את⟩ kwa umwami wa Babuloni, i Rivila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "abo yafashe"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "w'abatabaji"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ajyanye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babuloni"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "i Rivila"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:47.952391795Z",
+  "model": "glm-5.3"
+}

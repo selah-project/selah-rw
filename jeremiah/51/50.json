@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 51,
+  "translation": "Mwahungiye icumu, mugende, ntimuhagare; munibuke kure ⟨את⟩ Yahwe, na Yerushalayimu nazamuke ku mitima yanyu.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "mwahungiye"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "icumuriro"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mugende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "muhagare"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "munibuke"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayimu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "nazamuke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mitima yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:37:37.911564953Z",
+  "model": "glm-5.3"
+}

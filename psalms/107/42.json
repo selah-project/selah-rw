@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Abahugu bazabibona bakanezerwa, kandi ubugome bwose buzifunga umunwa.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "bazabibona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abahugu"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bakanezerwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi... bwose"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubugome"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "buzifunga"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umunwa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:38.193940235Z",
+  "model": "glm-5.3"
+}

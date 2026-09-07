@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 18:2",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Ni iki mwebwe, mwebwe muvuga ⟨את⟩ uru rugero ku butaka bwa Yisraeli, ngo: Ababyeyi barya zabibu zunyu, maze amenoy'abana aratinzika?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwebwe"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "muvuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uru rugero"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "urugero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uru"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "barya"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "zabibu zunyu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "maze amenoy'"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "aratinzika"
+    }
+  ],
+  "timestamp": "2026-09-07T16:55:44.058414963Z",
+  "model": "glm-5.3"
+}

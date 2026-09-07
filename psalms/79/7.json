@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 79,
+  "translation": "Dore bariye ⟨את⟩ Yaakovu, na ⟨את⟩ urugo rwe bararimbuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "urugo rwe"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "urugo rwe"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "bararimbuye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:46.815823591Z",
+  "model": "glm-5.3"
+}

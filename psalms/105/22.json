@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Kugira ngo afate abatware be ku ngato ye, abakuru bwe na bo azigisha ubwenge.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kugira ngo afate"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "abatware be"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ku ngato ye"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "abakuru bwe"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "azigisha ubwenge"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:14.567431790Z",
+  "model": "glm-5.3"
+}

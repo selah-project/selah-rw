@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ubu ni bwo bwizingiri Shelomo yashyizeho ngo abake ⟨את⟩ inzu y'Elohimu: uburebure, mu gipima cya mbere, amaboko mirongo itandatu; ubugari, amaboko makumyabiri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ubu ni bwo"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "bwizingiri…yashyizeho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngo abake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "y'Elohimu"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "uburebure"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mu gipima"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "cya mbere"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mirongo itandatu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ubugari"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaboko"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:48:38.792231530Z",
+  "model": "glm-5.3"
+}

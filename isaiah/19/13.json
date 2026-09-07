@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Abakuru ba Tsoänu barashireye, abakuru ba Nofu barayobewe; barayobye ⟨את⟩ Mitsrayimu, impingi y'amoko yayo.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "barashireye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ba Tsoänu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "barayobewe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ba Nofu"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "barayobye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "impingi"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "y'amoko yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:09.076845786Z",
+  "model": "glm-5.3"
+}

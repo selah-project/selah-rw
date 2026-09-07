@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-chronicles 7:10",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Abahungu ba Yediaeli: Bilahani; abahungu ba Bilahani: Yeushi, na Binyamini, na Ehudi, na Kenanaha, na Zeyitani, na Tarshishi, na Ahishahari.",
+ "tokens": [
+  {
+   "surface": "ובני",
+   "gloss": "Abahungu ba"
+  },
+  {
+   "surface": "ידיעאל",
+   "gloss": "Yediaeli"
+  },
+  {
+   "surface": "בלהן",
+   "gloss": "Bilahani"
+  },
+  {
+   "surface": "ובני",
+   "gloss": "abahungu ba"
+  },
+  {
+   "surface": "בלהן",
+   "gloss": "Bilahani"
+  },
+  {
+   "surface": "יעיש",
+   "gloss": "Yeushi"
+  },
+  {
+   "surface": "ובנימן",
+   "gloss": "na Binyamini"
+  },
+  {
+   "surface": "ואהוד",
+   "gloss": "na Ehudi"
+  },
+  {
+   "surface": "וכנענה",
+   "gloss": "na Kenanaha"
+  },
+  {
+   "surface": "וזיתן",
+   "gloss": "na Zeyitani"
+  },
+  {
+   "surface": "ותרשיש",
+   "gloss": "na Tarshishi"
+  },
+  {
+   "surface": "ואחישחר",
+   "gloss": "na Ahishahari"
+  }
+ ],
+ "timestamp": "2026-09-07T20:33:25.239574500Z",
+ "model": "glm-5.3"
+}

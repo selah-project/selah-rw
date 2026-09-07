@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibisigaye n'igazamu inzige yariye, ibisigaye n'inzige iyalarake yariye, ibisigaye n'iyalarake ikasiri yariye.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ibisigaye"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "n'igazamu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "inzige"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "n'inzige"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "iyalarake"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "n'iyalarake"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ikasiri"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:02.905254501Z",
+  "model": "glm-5.3"
+}

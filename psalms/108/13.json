@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Duha ifasha mu nkomyi, kandi ubusa ⟨ni⟩ umukiro w'umuntu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Duha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ifasha"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ifasha"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mu nkomyi"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "umukiro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:40.295721179Z",
+  "model": "glm-5.3"
+}

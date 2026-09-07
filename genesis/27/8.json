@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "None ubu, umwana wanjye, umva ijambo ryanjye — ibyo njyewe ngutegeka ⟨את⟩ wowe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None ubu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umwana wanjye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ijambo ryanjye"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ngutegeka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wowe",
+      "marks": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T07:59:24.202080331Z",
+  "model": "glm-5.3"
+}

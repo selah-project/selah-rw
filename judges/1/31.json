@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Asheri nti yabirukanye ⟨את⟩ abaturiye ba Ako na ⟨את⟩ abaturiye ba Tsidoni, na ⟨את⟩ Ahalabi, na ⟨את⟩ Akzibu, na ⟨את⟩ Heluba, na ⟨את⟩ Afiki, na ⟨את⟩ Rehobu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "yabirukanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaturiye ba Ako"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abaturiye"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "ba Ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaturiye ba Tsidoni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abaturiye"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ba Tsidoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ahalabi"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Ahalabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akzibu"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akzibu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heluba"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Heluba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Afiki"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rehobu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:46.841816006Z",
+  "model": "glm-5.3"
+}

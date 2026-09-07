@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Izi ni amazina y'abahungu ba Yisraeli, abaje mu Mitsrayimu: ⟨את⟩ Yaakovu (Yakobo), umugabo n'urugo rwe, baza.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amazina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "abaje"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umugabo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "n'urugo rwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "baza"
+    }
+  ],
+  "timestamp": "2026-09-07T08:33:36.195738956Z",
+  "model": "glm-5.3"
+}

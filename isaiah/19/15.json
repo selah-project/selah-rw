@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Kandi ntibazagira icyo Mitsrayimu ikora, umutwe cyangwa umurundi, ishami rya palme cyangwa urwinyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "-zaba"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "icyo ... ikora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ikora"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "cyangwa umurundi"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ishami rya palme"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "cyangwa urwinyo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:09.077467006Z",
+  "model": "glm-5.3"
+}

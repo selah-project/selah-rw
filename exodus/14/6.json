@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Maze yateguye ⟨את⟩ imodoka ze, na ⟨את⟩ abantu be yafashe bo.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "yateguye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imodoka ze"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "imodoka ze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe bo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:29.689729794Z",
+  "model": "glm-5.3"
+}

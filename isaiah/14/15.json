@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Ariko Sheoli ni ho uzamanirwa, mu mbibi z'urwobwa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "uzamanirwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "mbibi (za)"
+    },
+    {
+      "surface": "בור",
+      "gloss": "urwobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T14:48:03.981420943Z",
+  "model": "glm-5.3"
+}

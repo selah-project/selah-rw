@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 104,
+  "translation": "Imisozi izamuka, intobo itemba — kuri uwo mwanya washyizemo ubwabyo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "izamuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "itemba"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "intobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "washyizemo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ubwabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:14.464096713Z",
+  "model": "glm-5.3"
+}

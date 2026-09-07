@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze Dawidi yarabwiye Yahwe ⟨את⟩ amagambo y'uwo murubyina, ku munsi Yahwe yamukijije ⟨את⟩ we mu biganza by'abanzibwanjye bose, no mu biganza bya Shauli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Maze yarabwiye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo y'uwo murubyina"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "y'uwo murubyina"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "yamukijije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "mu biganza by'abanzibwanjye bose"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mu biganza bya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "abanzibwanjye"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "no mu biganza bya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:21:15.671943209Z",
+  "model": "glm-5.3"
+}

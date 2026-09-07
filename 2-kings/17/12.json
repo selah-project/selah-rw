@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Bagize ibigirwamana, ibyo Yahwe yari yababwiye ati: Iki kintu ntimukore ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bagize"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ibigirwamana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yari yababwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ati ⟨kuri bo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki kintu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iki kintu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟔"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:33.594025802Z",
+  "model": "glm-5.3"
+}

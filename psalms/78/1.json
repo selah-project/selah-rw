@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Icyigisho cya Asafu. Mumenyereze amatwi, bantu banjye, Tora yanjye; tegereza amatwi yanyu ku magambo y'icanwa ryanjye.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Icyigisho"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cya Asafu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Mumenyenureze amatwi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bantu banjye"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanjye"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tegereza"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "amatwi yanyu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ku magambo ya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "icanwa ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:43.476971927Z",
+  "model": "glm-5.3"
+}

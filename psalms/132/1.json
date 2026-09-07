@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Indembo yo kuzamuka. Wibuke, Yahwe, ku ya Dawidi ⟨את⟩ ibyago bye byose.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indembo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yo kuzamuka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "wibuke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ku ya Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyago bye byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ibyago bye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:41.298601316Z",
+  "model": "glm-5.3"
+}

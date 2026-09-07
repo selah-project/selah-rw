@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Kuko mu ikibazo cyose yarankiye, no ku banzi banjye ijisho ryanjye ryarebye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu … cyose"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ikibazo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "yanjigiye"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "no ku banzi banjye"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ryarebye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ijisho ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:22:58.914034281Z",
+  "model": "glm-5.3"
+}

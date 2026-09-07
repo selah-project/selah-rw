@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Iyo ⟨ni⟩ abantu banjye bumvaga unjye, Yisraeli yagendaga mu nzira zanjye!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bumvaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "unjye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mu nzira zanjye"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yagendaga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:16.988865311Z",
+  "model": "glm-5.3"
+}

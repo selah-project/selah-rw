@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Cyangwa mukize mu ntoki z'umwanzi, cyangwa mu ntoki z'abanyankuba mungurire?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "mukize"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki za"
+    },
+    {
+      "surface": "צר",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "cyangwa mu ntoki za"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "abanyankuba"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "mungurire"
+    }
+  ],
+  "timestamp": "2026-09-07T22:00:23.328645827Z",
+  "model": "glm-5.3"
+}

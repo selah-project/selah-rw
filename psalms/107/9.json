@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Kuko yasheshe Nefeshi ihangayikishijwe no kwifuza, maze Nefeshi inzara yazuzuye ⟨na⟩ ibyiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "yasheshe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ihangayikishijwe no kwifuza"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "maze Nefeshi"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "inzara"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yazuzuye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:25.247466643Z",
+  "model": "glm-5.3"
+}

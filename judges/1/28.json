@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze habaye ko Yisraeli iyo yagize imbaraga, bashyize ⟨את⟩ Umukanaani mu kwishyura igitero, ariko kuvana ntibamuvanyeho na gato.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maze habaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yagize imbaraga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "bashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Umukanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Umukanaani"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mu kwishyura igitero"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "bamuvanyeho na gato"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:46.598364525Z",
+  "model": "glm-5.3"
+}

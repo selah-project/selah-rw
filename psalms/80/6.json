@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Wabahesheje umugati w'amarira, maze ubanweshesha mu marira ⟨igitigiri⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Wabahesheje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "w'amarira"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "maze ubanweshesha"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "mu marira"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "igitigiri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:08.748258505Z",
+  "model": "glm-5.3"
+}

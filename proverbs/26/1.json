@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Nk'urubura mu mpeshyi, nk'imvura mu gihe cy'umusaruro, ni ko icyubahiro kitikwiriye ku musazi.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "nk'urubura"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "mu mpeshyi"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "nk'imvura"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "mu gihe cy'umusaruro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kitikwiriye"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ku musazi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    }
+  ],
+  "timestamp": "2026-09-07T19:15:04.744527136Z",
+  "model": "glm-5.3"
+}

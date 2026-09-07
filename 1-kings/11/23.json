@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Elohimu yanamuhagurishije umwanzi ⟨את⟩ Rezonu mwene Eliyada, wahunguye kwa ⟨את⟩ Hadadezeri, umwami wa Tswobahu, shebuja we.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yanamuhagurishije"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "umwanzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezonu"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezonu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "we"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "wahunguye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Hadadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "wa Tswobahu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "shebuja we"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:20.593399031Z",
+  "model": "glm-5.3"
+}

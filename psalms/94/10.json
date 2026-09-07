@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Uwahana amahangu, ese ntaburira? — uwigisha umuntu ubumenyi.",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Uwahana"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahangu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ese nta-"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "burira"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "uwigisha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ubumenyi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:25.473296541Z",
+  "model": "glm-5.3"
+}

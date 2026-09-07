@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 47,
+  "translation": "Yosefu yazaniye ⟨את⟩ Yaakovu da we, maze amushyira imbere ya Paro; Yaakovu yaha umugisha ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yazaniye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovu da we"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "da we"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "amushyira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yaha umugisha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:28:46.696910721Z",
+  "model": "glm-5.3"
+}

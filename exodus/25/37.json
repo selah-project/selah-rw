@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kandi uzakora ⟨את⟩ amalambi yayo arindwi, maze azazamura ⟨את⟩ amalambi yayo, azasesengura ku ruhande rw'imbere yayo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalambi yayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amalambi yayo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "arindwi"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "azazamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalambi yayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amalambi yayo"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "azasesengura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ruhande"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "imbere yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:20.926321958Z",
+  "model": "glm-5.3"
+}

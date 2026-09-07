@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 54,
+  "translation": "Koko uwakuremye ni umugabo wawe, Yahwe Tsevaoti ⟨ni⟩ izina rye; kandi umukiza wawe, Qedoshi Yisraeli, Elohimu w'isi yose azitwa ⟨ni⟩ we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "umugabo wawe"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "uwakuremye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "kandi umukiza wawe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qedoshi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "azitwa"
+    }
+  ],
+  "timestamp": "2026-09-07T15:25:43.153087205Z",
+  "model": "glm-5.3"
+}

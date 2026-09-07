@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Yaakovu (Yakobo) yumvise ⟨את⟩ amajwi y'abahungu ba Lavani bati: Yaakovu yafashe ⟨את⟩ byose byari bye se, n'ibyari bye se yakoreye ⟨את⟩ ubutunzi ⟨bukomeye⟩ buno.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amajwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amajwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byari"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "bye se"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "n'ibyari"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "bye se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubutunzi buno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ubutunzi bukomeye"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ubutunzi bukomeye"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "buno"
+    }
+  ],
+  "timestamp": "2026-09-07T08:05:49.770712461Z",
+  "model": "glm-5.3"
+}

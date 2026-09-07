@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Kandi nanone iyo umusazi atambaje mu nzira, umutima we uba ubura; maze abwira buri wese ko ⟨ari⟩ umusazi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kandi nanone"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "uko umusazi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "atambaza"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "umutima we"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "uba ubura"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "maze abwira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "umusazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:03.708742466Z",
+  "model": "glm-5.3"
+}

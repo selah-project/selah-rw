@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Yahwe yaravuze undi ati: Narebye ⟨את⟩ aba bantu, none raba, abantu b'umutwe ikomeye ⟨ni⟩ bo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "undi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Narebye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aba bantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "none raba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ikomeye"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "b'umutwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩ bo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:23:56.350071544Z",
+  "model": "glm-5.3"
+}

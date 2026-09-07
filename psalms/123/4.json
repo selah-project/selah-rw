@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 123,
+  "translation": "Rwose nefeshi yacu yazuye cyane n'urugomo rw'aboroherwe, n'ubwishyu bw'ibigarari.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Rwose... cyane"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yazuye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨nayo⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshi yacu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "n'urugomo"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "rw'aboroherwe"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "n'ubwishyu"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "bw'ibigarari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:21.239301435Z",
+  "model": "glm-5.3"
+}

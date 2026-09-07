@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Yahwe yanagijeho impungenge ko yaremye ⟨את⟩ umuntu ku isi, maze agira agahinda mu mutima we.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yanagijeho impungenge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "maze agira agahinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mutima we"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:09.066387219Z",
+  "model": "glm-5.3"
+}

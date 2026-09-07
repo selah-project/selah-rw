@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "None rero nzamenyesha ⟨את⟩ ishema ryayo imbere y'amaso y'abo yari akunda; kandi nta muntu uzayikiza mu biganza byanjye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "none rero"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "nzamenyesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishema ryayo"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ishema ryayo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "imbere y'amaso ya"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "abo yari akunda"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nta muntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "uzayikiza"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mu biganza byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:43.540946778Z",
+  "model": "glm-5.3"
+}

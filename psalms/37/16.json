@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ni byiza umukiranutsi kugira bike, kurusha ubutunzi bwinshi bw'abanyabubi benshi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "bike"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "umukiranutsi"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ubutunzi bwinshi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abanyabubi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "benshi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:38.470113023Z",
+  "model": "glm-5.3"
+}

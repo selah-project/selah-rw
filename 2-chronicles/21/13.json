@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uko uri kugenda mu nzira y'abami b'i Yisraeli, maze ugatuma Yehuda n'abatuye i Yerushalayimu bikora ubusambanyi, nk'uko inzu ya Ahabi yagikoze; kandi n'abavandimwe bawe, inzu ya so wawe, beza kurusha wowe, wabishe.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "uko uri kugenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "y'abami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'i Yisraeli"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "maze ugatuma… bikora ubusambanyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abatuye i Yerushalayimu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "nk'uko… yagikoze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abavandimwe bawe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abavandimwe bawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya so wawe"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "beza kurusha"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kurusha wowe"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "wabishe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:57:28.139460262Z",
+  "model": "glm-5.3"
+}

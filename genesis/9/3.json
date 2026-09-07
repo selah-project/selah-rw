@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ibikoko byose birembera kandi bibaho bizaba ibiryo byanyu; nk'ibimera byiza nakuha ⟨את⟩ byose.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ibikoko birembera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bikaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bibaho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "byanyu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ibiryo"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "nk'ibimera"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nakuha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "byanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    }
+  ],
+  "timestamp": "2026-09-07T07:38:47.253397079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Uzafata na ⟨את⟩ iyo ntama y'ingabo imwe, maze Aharoni n'abahungu be bazashyira ⟨את⟩ intoki zabo ku mutwe w'iyo ntama y'ingabo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iyo ntama y'ingabo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "iyo ntama y'ingabo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzafata"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "bazashyira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "n'abahungu be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "w'iyo ntama y'ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:58.237240712Z",
+  "model": "glm-5.3"
+}

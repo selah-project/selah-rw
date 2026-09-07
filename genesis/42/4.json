@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ari na ⟨את⟩ Binyaminu umuvandimwe wa Yosefu, Yaakovu ntiyatumye hamwe na ⟨את⟩ abavandimwe be; kuko yavuze ati: bitagaragara ko icyago cyamubasira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Binyaminu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyaminu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umuvandimwe wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yatumye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abavandimwe be"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "פן",
+      "gloss": "bitagaragara ko"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "cyamubasira"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "icyago"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:51.083281137Z",
+  "model": "glm-5.3"
+}

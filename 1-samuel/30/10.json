@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Dawidi arakurikira, we n'abantu amajana ane; abantu amajana abiri barahagaze, bari bafungutse bataza kwambuka ⟨את⟩ umugezi wa Beshori.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "arakurikira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'amajana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "barahagaze"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amajana abiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "bari bafungutse"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "bataza kwambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugezi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umugezi"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "wa Beshori"
+    }
+  ],
+  "timestamp": "2026-09-07T12:51:48.913805121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ibikorwa bye bimara neza buri gihe; amategeko yawe ari hejuru, nta ho bimugezeho; abanzi be bose arabahemera.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "bimara neza"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ibikorwa bye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gihe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "nta ho bimugezeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "abanzi be"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "arahemera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:14.024520829Z",
+  "model": "glm-5.3"
+}

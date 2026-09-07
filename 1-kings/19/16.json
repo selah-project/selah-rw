@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Uzavese kandi na ⟨את⟩ Yehu mwene Nimshi ngo abe umwami hejuru ya Yisraeli (Isirayeli), na ⟨את⟩ Elisha mwene Shafati (Shafati) wo mu Aveli-mehola (Abeli-mehola) ngo abe umuhanuzi ahawe wowe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yehu mwene Nimshi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uzavese"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngo abe umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elisha mwene Shafati"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwene"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafati"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "wo mu"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Aveli-mehola (Abeli-mehola)"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uzavese"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ngo abe umuhanuzi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ahawe wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T13:59:17.504680784Z",
+  "model": "glm-5.3"
+}

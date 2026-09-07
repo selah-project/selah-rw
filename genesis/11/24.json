@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nahori yabayeho imyaka cyenda na mirongo ibiri, maze yabyara ⟨את⟩ Terah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "cyenda"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mirongo ibiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze yabyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:29.319674280Z",
+  "model": "glm-5.3"
+}

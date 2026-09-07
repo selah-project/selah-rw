@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi abakuru b'umujyi uwo bose, abo bakwegereje uwishe, bazaraba ⟨את⟩ intoki zabo hejuru y'indogori ijosi cyamenwe mu kibaya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "b'umujyi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "abo bakwegereje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "uwishe"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "bazaraba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "y'indogori"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "ijosi cyamenwe"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mu kibaya"
+    }
+  ],
+  "timestamp": "2026-09-07T21:24:48.459415492Z",
+  "model": "glm-5.3"
+}

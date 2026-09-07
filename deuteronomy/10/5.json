@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Nahindukiye, namanutse kuva ku musozi, nashyize ⟨את⟩ ibibaho mu sanduku nakoze, maze ibi bikoreraho aho, nka uko Yahwe yantegetse.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Nahindukiye"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "namanutse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuva ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibaho"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ibibaho"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mu sanduku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nakoze (aho)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze bihari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nka uko"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "yantegetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:54:04.431526928Z",
+  "model": "glm-5.3"
+}

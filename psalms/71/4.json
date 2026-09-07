@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Elohimu wanjye, unkiriza mu biganza by'inkozi y'ibibi, mu ntoki z'umwenda n'ubwangizi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "unkiriza"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "by'inkozi y'ibibi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "z'umwenda"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "n'ubwangizi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:34.038614246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Yaguriye mu Banyayisraeli abagabo b'intwari b'ingufu ibihumbi ijana (100.000), mu bikari ijana by'ifeza.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "yaguriye"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mu Banyayisraeli"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "abagabo b'intwari"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingufu"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "mu … ijana"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "bikari ⟨kikari⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "by'ifeza"
+    }
+  ],
+  "timestamp": "2026-09-07T21:00:27.043224929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze mu bikerubu habonekaga ishusho y'intoki y'umuntu, munsi y'amababa yabo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Maze habonekaga"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "mu bikerubu"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ishusho ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "intoki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "y'umuntu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi ya"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "amababa yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:48:32.415795364Z",
+  "model": "glm-5.3"
+}

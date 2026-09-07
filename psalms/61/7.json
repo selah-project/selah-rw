@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 61,
+  "translation": "Amusi uzongera ku amusi y'umwami, imyaka ye ibe nka ibisekuruza n'ibisekuruza.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Amusi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amusi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "y'umwami"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "uzongera"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "imyaka ye"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ibisekuruza"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n'ibisekuruza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:47.650322317Z",
+  "model": "glm-5.3"
+}

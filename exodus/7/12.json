@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Burya ara-hanura ⟨את⟩ inkoni ye buri wese, maze zihinduka inzoka nini; inkoni ya Aharoni isebya ⟨את⟩ inkoni zabo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Burya arahanura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "inkoni ye"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "maze zihinduka"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "inzoka nini"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "isebya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "inkoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkoni zabo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "inkoni zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:00.835845033Z",
+  "model": "glm-5.3"
+}

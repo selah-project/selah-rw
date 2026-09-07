@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "malachi 3:13",
+  "book": "malachi",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Amagambo yanyu yakomeye kuri Yahwe, Yahwe yaravuze; mwaravuze muti: «Twavuze iki ku wure?»",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "yakomeye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "amagambo yanyu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mwaravuze"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נדברנו",
+      "gloss": "twaravuze"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:05:45.577620464Z",
+  "model": "glm-5.3"
+}

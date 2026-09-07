@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Mwishime mu Yahwe, mukize, mmwe abatunganye; musekereze, mmwe bose abagororotsi b'imitima.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "mwishime"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mu Yahwe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mukize"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mmwe abatunganye"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "musekereze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "abagororotsi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "b'imitima"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:02.230799531Z",
+  "model": "glm-5.3"
+}

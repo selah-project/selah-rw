@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yatanze ⟨את⟩ ubuntu bw'abantu mu maso y'Abamisrayimu (Abanyagiputa); na we umuntu Moshe (Mose) wari umunini cyane mu gihugu cya Mitsrayimu (Egiputa), mu maso y'abagaragu ba Paro (Farawo) no mu maso y'abantu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuntu bw'abantu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bw'abantu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso y'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Abamisrayimu (Abanyagiputa)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na we"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "umunini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso y'"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Farawo)"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "no mu maso y'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:06.116669381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 115,
+  "translation": "Si twebwe, Yahwe, si twebwe, ahubwo ku izina ryawe ha icyubahiro, ku hesedi yawe ⟨na⟩ ku kuri kwawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ku izina ryawe"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩ ku"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kuri kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:41.337263376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Uwarema asho imitima yabo, uumenya ibikorwa byabo byose.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Uwarema"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "asho"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "imitima yabo"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "uumenya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ibikorwa byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:46.795797850Z",
+  "model": "glm-5.3"
+}

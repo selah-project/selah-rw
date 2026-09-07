@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Mu by'ukuri ubusa gusa nabweriye umutima wanjye, nkamesa mu nkware ibiganza byanjye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ubusa gusa"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "nabweriye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "nkamesa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "mu nkware"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ibiganza byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:46.440519537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Data wawe yagize ⟨את⟩ umuzingo wacu igikomeye; na wowe, none, koroshya umurimo wa data wawe ukomeye n'umuzingo uremereye yashyize twe, maze tuzakukorera",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Data wawe"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "igikomeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuzingo wacu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "umuzingo wacu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wowe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "koroshya"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "umurimo wa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "data wawe"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ukomeye"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "n'umuzigo uremereye"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "uremereye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "maze tuzakukorera"
+    }
+  ],
+  "timestamp": "2026-09-07T21:35:22.729865510Z",
+  "model": "glm-5.3"
+}

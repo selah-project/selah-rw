@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 63:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 63,
+ "translation": "Nuko mu cyubacyiro nakureka kureba wowe, ngo mbone ububasha bawe n'icyubahiro cyawe.",
+ "tokens": [
+  {
+   "surface": "כן",
+   "gloss": "Nuko"
+  },
+  {
+   "surface": "בקדש",
+   "gloss": "mu cyubacyiro"
+  },
+  {
+   "surface": "חזיתיך",
+   "gloss": "nakureka kureba wowe"
+  },
+  {
+   "surface": "לראות",
+   "gloss": "ngo mbone"
+  },
+  {
+   "surface": "עזך",
+   "gloss": "ububasha bawe"
+  },
+  {
+   "surface": "וכבודך",
+   "gloss": "n'icyubahiro cyawe"
+  }
+ ],
+ "timestamp": "2026-09-07T21:56:44.283569478Z",
+ "model": "glm-5.3"
+}

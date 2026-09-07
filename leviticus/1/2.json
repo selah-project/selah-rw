@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Vuga ku bana ba Yisraeli, ubabwire uti: umuntu iyo mu mwe atanga Korubani kwa Yahwe, mu bitungwa — mu nka no mu ntama — muzanire ⟨את⟩ korubani yanyu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Vuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ubabwire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "uti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "atanga"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mu mwe"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "Korubani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ibitungwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "muzanire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korubani yanyu"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "korubani yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:25:21.242785248Z",
+  "model": "glm-5.3"
+}

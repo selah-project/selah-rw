@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Ku mukuru w'umuziki, ku i Giti, ugira abana ba Korahi, zaburi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mukuru w'umuziki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "i Giti"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:26.985091614Z",
+  "model": "glm-5.3"
+}

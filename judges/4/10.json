@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Baraka arahamagara ⟨את⟩ Zebuluni na ⟨את⟩ Naftali i Kedeshe, maze azamuka mu maguru ye abantu ibihumbi cumi, nuko Devora azamuka kumwe na we.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "arahamagara"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebuluni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "i Kedeshe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "mu maguru ye"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "azamuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kumwe na we"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-09-07T11:50:34.691119830Z",
+  "model": "glm-5.3"
+}

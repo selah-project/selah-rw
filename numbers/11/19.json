@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Ntimuzarya umusi umwe, ngo iminsi ibiri, ngo itanu y'iminsi, ngo icumi y'iminsi, ngo makumi abiri y'iminsi;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umusi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "muzarya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "iminsi ibiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "y'iminsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "y'iminsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi abiri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "y'iminsi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:16:05.035080023Z",
+  "model": "glm-5.3"
+}

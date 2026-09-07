@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Kuko ibi ni icyo kwa Yahwe Elohimu wawe: buri wese ukora ibi, buri wese ukora ubuhemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:22.268451394Z",
+  "model": "glm-5.3"
+}

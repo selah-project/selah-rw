@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Abana ba Yisraeli baraguje kwa Yahwe bavuga ngo: Twayemo icyaha ku wowe, kuko twasize ⟨את⟩ Elohimu wacu, tugasigara twagarariye ⟨את⟩ Baali.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "baraguje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bavuga ngo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "twayemo icyaha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku wowe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "twasize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimu wacu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "twagarariye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baali"
+    }
+  ],
+  "timestamp": "2026-09-07T11:56:11.006004951Z",
+  "model": "glm-5.3"
+}

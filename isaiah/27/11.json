@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Mu gukuka k'umusaruro wacyo, amashami aravunitwa; abagore bazaza bashyira umuriro ⟨את⟩ ku mwe, kuko ni abantu badafite ubwenge; kubw'iyo mpamvu Uwaremye ntabababarira, n'Uwabumbiye ntazagira impuhwe.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "mu gukuka"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "k'umusaruro wacyo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "aravunitwa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "באות",
+      "gloss": "bazaza"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "bashyira umuriro"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ku mwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "badafite ubwenge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubw'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iyo mpamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "abababarira"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Uwaremye"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "n'Uwabumbiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "azagira impuhwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:00:33.609839746Z",
+  "model": "glm-5.3"
+}

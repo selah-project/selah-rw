@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze uzashyire ⟨את⟩ ikaporete hejuru y'agatabo, no mu gatabo uzashyire ⟨את⟩ ibyemejo nzaguha.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikaporete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikaporete"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "agatabo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "gatabo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzashyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyemejo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ibyemejo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nze"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nzaguha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:02:51.721848106Z",
+  "model": "glm-5.3"
+}

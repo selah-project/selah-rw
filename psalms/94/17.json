@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 94,
+  "translation": "Iyo bitaba ko Yahwe yari umufasha wanjye, umare gato Nefeshi yari kuba yararuhijwe iguma mu mwaro w'icumu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Iyo bitaba ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ubufasha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanjye"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "umare gato"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "yari kuba yararuhijwe iguma"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "mu mwaro w'icumu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:26.737090537Z",
+  "model": "glm-5.3"
+}

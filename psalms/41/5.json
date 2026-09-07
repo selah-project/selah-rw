@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Jyewe navuze ndi: Yahwe, ungaragambe impuhwe, ufure Nefeshi yanjye, kuko nakwivanzeho ibyaha.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jyewe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ungaragambe impuhwe"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ufure"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakwivanzeho ibyaha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:41.597303137Z",
+  "model": "glm-5.3"
+}

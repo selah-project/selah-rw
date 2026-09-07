@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi ndi kwigisha ivyemezo vyawe imbere y'abami, kandi ntitijwe kwibwirwa n'isoni.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "ndi kwigisha"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "ivyemezo vyawe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nijwe kwibwirwa n'isoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:49.907812043Z",
+  "model": "glm-5.3"
+}

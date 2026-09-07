@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ukwezi kw'ishyaka kwanyu n'iminsi yanyu mikuru nefeshi yanjye irayanka; byahindutse umutwaro ijanjye; nararahye kubitwara.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "ukwezi kw'ishyaka kwanyu"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "n'iminsi yanyu mikuru"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "rayanka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byahindutse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ijanjye"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "umutwaro"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "nararahye"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gutwara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:11.062694403Z",
+  "model": "glm-5.3"
+}

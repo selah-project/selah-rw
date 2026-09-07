@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Uzabashyisha nk'itanko ry'umuriro mu gihe uraboneka wowe; Yahwe mu gahinda ye azabarenga, kandi umuriro uzabarya.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "uzabashyisha"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "nk'itanko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ry'umuriro"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uraboneka wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mu gahinda ye"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "azabarenga"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "kandi azabarya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:22.862604318Z",
+  "model": "glm-5.3"
+}

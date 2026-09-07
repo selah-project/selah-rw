@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze umwami yahinduye amasoro ye ⟨את⟩, araheza aha umugisha ⟨את⟩ umuryango wose wa Yisraeli; maze umuryango wose wa Yisraeli wari uhagaze.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yahinduye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amasoro ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "amasoro ye"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "aha umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuryango wose wa Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maze umuryango wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "uhagaze"
+    }
+  ],
+  "timestamp": "2026-09-07T20:49:14.564779594Z",
+  "model": "glm-5.3"
+}

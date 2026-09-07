@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ko ndinde Eli atari Yahwe? Cyangwa ndinde urutare atari Elohimu wacu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndinde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "atari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "cyangwa ndinde"
+    },
+    {
+      "surface": "צור",
+      "gloss": "urutare"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "atari"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimu wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:23:13.187060448Z",
+  "model": "glm-5.3"
+}

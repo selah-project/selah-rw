@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Imvura y'impano wunyuriza, Elohimu; umurage wawe rwari rwananiwe, maze wawubashije.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "imvura"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "y'impano"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "wunyuriza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "umurage wawe"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "rwari rwananiwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "wawubashije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:14.518158701Z",
+  "model": "glm-5.3"
+}

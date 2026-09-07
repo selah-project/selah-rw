@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Iya Dawidi (Dawidi). Yahwe we, iwewe ndazamura nefeshi yanjye.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Iya Dawidi (Dawidi)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndazamura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:46.868747172Z",
+  "model": "glm-5.3"
+}

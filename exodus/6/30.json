@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze Moshe abwiye imbere ya Yahwe ati: Dore, jye ndi w'ibirenge ku minwa, none ni gute Paro (Farawo) yanyumva njye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maze... abwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jye"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "w'ibirenge"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ku minwa"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "none ni gute"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "yanyumva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "njye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:56.616460164Z",
+  "model": "glm-5.3"
+}

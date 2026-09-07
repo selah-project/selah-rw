@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Abaplishti bakoranye, baza barahise i Shunemu; Shauli na we yakoranye ⟨את⟩ Yisraeli yose, barahise ku Giloboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "bakoranye"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abaplishti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "barahise"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "i Shunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "yakoranye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "barahise"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "ku Giloboa"
+    }
+  ],
+  "timestamp": "2026-09-07T12:54:14.236913437Z",
+  "model": "glm-5.3"
+}

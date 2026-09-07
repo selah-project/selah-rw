@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Barashisha, ariko nta urokora; kuri Yahwe, ariko ntabashubije.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "barashisha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "urokora"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ntabashubije"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:32.641546053Z",
+  "model": "glm-5.3"
+}

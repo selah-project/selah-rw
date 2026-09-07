@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-chronicles 6:56",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ku bahungu ba Gereshomi, mu muryango w'igice kimwe c'urubyaro rwa Menashé: ⟨את⟩ Golani iri mu Bashani na ⟨את⟩ ibyanya byacyo, na ⟨את⟩ Ashtaroti na ⟨את⟩ ibyanya byacyo",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ku bahungu"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ba Gereshomi"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "mu muryango w'"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "igice kimwe c'"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "rwa Menashé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Golani"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golani"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "iri mu Bashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byacyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ibyanya byacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashtaroti"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtaroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyanya byacyo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ibyanya byacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:33:56.193560954Z",
+  "model": "glm-5.3"
+}

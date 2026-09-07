@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Kohenu raramure, arareba: iyo imiterere yacyo iri hasi kurusha uruhu, cyangwa umusatsi wacyo wahindutse icyera, kohenu arayasebura — ni ikiza ya tsaraati; ni mu gisebe yavutse.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "raramure"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "arareba ko"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "imiterere yacyo"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "iri hasi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kurusha"
+    },
+    {
+      "surface": "העור",
+      "gloss": "uruhu"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "umusatsi wacyo"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "wahindutse"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "icyera"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "arayasebura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ikiza"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ya tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "mu gisebe"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "yavutse"
+    }
+  ],
+  "timestamp": "2026-09-07T09:38:29.762873251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Azamura umukene mu cyondo, mu manda ⟨y'ibyondo⟩ azamuraho umunyagihombo.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Azamura"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "mu cyondo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "mu manda"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "azamuraho"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umunyagihombo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:42.044575685Z",
+  "model": "glm-5.3"
+}

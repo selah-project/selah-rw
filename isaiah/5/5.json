@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "None, ndabamenyesha ⟨ni⟩ Ungana ibyo nkora ku murima wanjye w'imizabibu: nzakuramo urwibazi rwaru, maze ruhabwe ⟨ni⟩ ibiribwa; nzasenyza urugo rwaru, maze ruhabwe ⟨ni⟩ igikoresho cyo kwigendera.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ndabamenyesha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ungana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo nkora ku murima wanjye w'imizabibu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nkora"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ku murima wanjye w'imizabibu"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "nzakuramo"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "urwibazi rwaru"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ruhabe"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ibiribwa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "nzasenyza"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "urugo rwaru"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ruhabe"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "igikoresho cyo kwigendera"
+    }
+  ],
+  "timestamp": "2026-09-07T14:42:19.071457853Z",
+  "model": "glm-5.3"
+}

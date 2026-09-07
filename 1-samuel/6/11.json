@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Bashyira ⟨את⟩ sanduku rya Yahwe ku igare, na ⟨את⟩ agasanduku, na ⟨את⟩ imbeba za zahabu, na ⟨את⟩ amashusho y'ibisebe byabo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Bashyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku rya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "igare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agasanduku"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "agasanduku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imbeba za zahabu"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "imbeba"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "za zahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amashusho y'ibisebe byabo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "amashusho"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "y'ibisebe byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:25:49.140480807Z",
+  "model": "glm-5.3"
+}

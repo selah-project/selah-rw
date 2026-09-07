@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "No ku buri Nefeshi y'uwapfuuye ntiyaza; kwa se no kwa nyina ntiyandura.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buryi"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "y'uwapfuuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaza"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa se"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "no kwa nyina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yandura"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:11.483268815Z",
+  "model": "glm-5.3"
+}

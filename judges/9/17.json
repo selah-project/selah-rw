@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "uko se wanjye yarwanye kuri mwe ubwanyo, maze atanyije ⟨את⟩ nefeshi ye kure, arabatabiye ⟨את⟩ mwe mu biganza ya Midiyani,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yarwanye"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuri mwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "maze atanyije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshi ye"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshi ye"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "arabatabiye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu biganza"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midiyani"
+    }
+  ],
+  "timestamp": "2026-09-07T12:00:36.943788300Z",
+  "model": "glm-5.3"
+}

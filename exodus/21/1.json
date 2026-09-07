@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kandi ibi ni amategeko wa bazashyira imbere yabo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kandi ibi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imbere yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:04.442853796Z",
+  "model": "glm-5.3"
+}

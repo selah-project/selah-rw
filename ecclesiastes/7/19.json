@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ubwenge bumugabira imbaraga umunyabwenge, kurusha abategetsi cumi bari mu mujyi.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Ubwenge"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "bumugabira imbaraga"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "umunyabwenge"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "kurusha (abategetsi) cumi"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "abategetsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:16.043226461Z",
+  "model": "glm-5.3"
+}

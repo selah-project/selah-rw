@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ibiti na byo byabwiye uruzi rwa zabibu biti: Ze wowe, ube umwami ku twe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "byabwiye"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "kuri uruzi rwa zabibu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ze"
+    },
+    {
+      "surface": "את",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ube umwami"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ku twe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:57:15.870729781Z",
+  "model": "glm-5.3"
+}

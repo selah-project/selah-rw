@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Amabwiriza yawe ni ibitangaza; ni cyo Nefeshi yanjye yaratunye.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "amabwiriza yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ni ⟨ni⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cyo"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "yaratunye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:50:11.543303839Z",
+  "model": "glm-5.3"
+}

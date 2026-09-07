@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Edomu yanze gutanga ⟨את⟩ Yisraeli ko yambuka mu mbibi ze, maze Yisraeli yaturutse kuri we.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "yanze"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gutanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ko yambuka"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "mu mbibi ze"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "maze yaturutse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuri we"
+    }
+  ],
+  "timestamp": "2026-09-07T10:23:05.370816954Z",
+  "model": "glm-5.3"
+}

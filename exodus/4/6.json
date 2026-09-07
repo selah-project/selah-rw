@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Yahwe yarabwiye iwe ongera ati: Shyiza, nk'uko ukunda, ukuboko kwawe mu gituza cyawe. Nuko yinjije ukuboko kwe mu gituza cye, arusohoye, maze abona ukuboko kwe kwayo igitsina nk'urubura.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ongera"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Shyiza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nk'uko ukunda"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "mu gituza cyawe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yinjije"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "mu gituza cye"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "arusohoye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze abona"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "kwayo igitsina"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "nk'urubura"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:17.888639678Z",
+  "model": "glm-5.3"
+}

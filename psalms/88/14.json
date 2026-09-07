@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Ariko njye, kuri wowe, Yahwe, naragize; kandi mu gitondo isengo ryanjye rizabanjirira.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ariko njye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "naragize"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "kandi mu gitondo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isengo ryanjye"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "rizabanjirira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:50.084695788Z",
+  "model": "glm-5.3"
+}

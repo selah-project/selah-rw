@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Ku barobyi uburakari bwanjye bwakokeye, no ku bimasa nzihirisha; ko Yahwe Tsevaoti yarebye ⟨את⟩ ishyamba rye, ⟨את⟩ urugo rwa Yehuda, maze ashira ⟨את⟩ ngo bame nka farashi y'icyubahiro ye mu ntambara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barobyi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bwakokeye"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "uburakari bwanjye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "bimasa"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "nzihirisha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yarebye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishyamba rye"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "ishyamba rye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugo rwa Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "urugo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maze ashira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo (farashi y'icyubahiro)"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "nka farashi"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "y'icyubahiro ye"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mu ntambara"
+    }
+  ],
+  "timestamp": "2026-09-07T21:54:31.620555407Z",
+  "model": "glm-5.3"
+}

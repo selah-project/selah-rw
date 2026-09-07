@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 113,
+  "translation": "Ashyira mu nzu ⟨umugore utavyara⟩, amugira umubyeyi w'abana yishimisha; nimusingize Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "ashyira mu nzu"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "umugore utavyara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "umubyeyi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "w'abana"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "yishimisha"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "nimusingize"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:52.417966894Z",
+  "model": "glm-5.3"
+}

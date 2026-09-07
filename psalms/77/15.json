@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Wowe, Eli, ukora ibitangaza; wamenyesheje mu bwoko bw'abantu imbaraga zawe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ibitangaza"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "wamenyesheje"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mu bwoko bw'abantu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imbaraga zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:32.800163032Z",
+  "model": "glm-5.3"
+}

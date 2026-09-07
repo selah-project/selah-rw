@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Kwa Aharoni nibyarwa ⟨את⟩ Nadabu na ⟨את⟩ Avihuwu, ⟨את⟩ Eleazari na ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nibyarwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabu"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avihuwu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihuwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eleazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eleazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-09-07T10:31:46.725210954Z",
+  "model": "glm-5.3"
+}

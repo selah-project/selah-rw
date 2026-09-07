@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Njye nk'igiti cy'ibeze kiravura mu nzu ya Elohimu; nararingiye kuri hesedi ya Elohimu, iteka ry'iteka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "nk'igiti cy'ibeze"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "kiravura"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nararingiye"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "kuri hesedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ry'iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:34.789463468Z",
+  "model": "glm-5.3"
+}

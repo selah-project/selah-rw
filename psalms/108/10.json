@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 108,
+  "translation": "Moabu ⟨ni⟩ isahani y' kwoga iyanjye; kuri Edomu nzasiba urwembe rwanjye; ku Pelesheti nzareka ijwi ⟨ry' intsindiro⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "isahani"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "y'kwoga iyanjye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nzasiba"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "urwembe rwanjye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "nzareka ijwi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:16.857474819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Yaakovu yarabyatze maze yaravuze ati: Ndurira, ndakusaba, izina ryawe. Maze yaravuze ati: Kuki uyu urabaza izina ryanjye? Maze yaramuhehesheje umugisha ⟨את⟩ we aho.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Yaakovu yarabyatse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ndurira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakusaba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yaravuze"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "urabaza"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "izina ryanjye"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yaramuhehesheje umugisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-09-07T08:07:00.659503457Z",
+  "model": "glm-5.3"
+}

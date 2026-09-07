@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yarabwiye Moshe (Mose) ati: Ngahi n'igipfu cy'indi kimwe nzazana kuri Paro (Farawo) no kuri Mitsrayimu (Egiputa); nyuma y'ibyo azohereza ⟨את⟩ mwe muri iki; iyo azohereje, uburengane azabakuramo ⟨את⟩ mwe kubakuramo muri iki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "cy'indi"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "igipfu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nzazana"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Farawo)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no kuri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "azohereza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "muri iki"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "muri iki"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "iyo azohereje"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uburengane"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "azabakuramo"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "kubakuramo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "muri iki"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "muri iki"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:06.116220823Z",
+  "model": "glm-5.3"
+}

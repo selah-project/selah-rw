@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Raba, umugaragu wanjye — nzamutsigikira; intore yanjye, umutima wanjye wayishimiye; nashyize umuhozi wanjye kuri we, kandi azazana urubanza ku mahanga.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "nzamutsigikira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨uri muri we⟩"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "intore yanjye"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "wayishimiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umutima wanjye"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nashyize"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umuhozi wanjye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ku mahanga"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "azazana"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:47.117019205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze najyana mu nzira iyindi, atyasubiye mu nzira yari yinjiye muri yo ajya i Beti-Eli.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maze najyana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iyindi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntiya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "subiye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mu nzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajya i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:32.903909962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze umuntu Moshe yari umunyantege nke cyane, kurusha abantu bose bari ku ntunguru y'isi.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "maze umuntu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "umunyantege nke"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kurusha bose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ntunguru"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "y'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:37.066752766Z",
+  "model": "glm-5.3"
+}

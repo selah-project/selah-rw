@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Azabeho, kandi azatangwaho zahabu ya Sheba; azasabirwa buri gihe, umunsi wose bazamukuza.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "azabeho"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "azatangwaho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "azasabirwa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "bazamukuza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:17.518934522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "maze zizakwisha ⟨את⟩ ijisho ry'isi, kandi ntibizashobora kureba ⟨את⟩ isi; maze zirye ⟨את⟩ ibisigaye byohungiye byasigaye muri mwe kivuye mu nkuba, kandi zirye ⟨את⟩ ibiti byose bimeze muri mwe kivuye mu murima.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "maze zizakwisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijisho ry'isi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ijisho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry'isi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntibizashobora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bizashobora"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "maze zirye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibisigaye byohungiye"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ibisigaye"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "byohungiye"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "byasigaye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kivuye"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "mu nkuba"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kandi zirye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibiti byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ibiti"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "bimeze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kivuye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mu murima"
+    }
+  ],
+  "timestamp": "2026-09-07T08:44:05.592212372Z",
+  "model": "glm-5.3"
+}

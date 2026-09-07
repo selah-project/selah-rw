@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ umunyeko wa sheshe, na ⟨את⟩ imitako myiza y'imikufuro ya sheshe, na ⟨את⟩ ibikanzi by'uruhu rwa sheshe rwe mishororo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umunyeko"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umunyeko"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imitako myiza y'imikufuro"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "imitako myiza"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "y'imikufuro"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikanzi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "ibikanzi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "uruhu rwa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rwe mishororo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:22:05.122605909Z",
+  "model": "glm-5.3"
+}

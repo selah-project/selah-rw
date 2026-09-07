@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 72,
+  "translation": "Izina rye rihe ⟨ku⟩ iteka; mbere y'izuba izina rye riramutse, kandi amahanga yose yizere umugisha muri we, amahanga yose amuzerere.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rihe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku iteka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "riramutse"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "maze yizere umugisha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "amuzerere"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:42.508607923Z",
+  "model": "glm-5.3"
+}

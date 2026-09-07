@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "n'igice cya cumi ku kibana cy'intama kimwe, ku byana by'intama cumi na kane.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "n'igice cya cumi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "cya cumi"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ku kibana cy'intama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ku kane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ibyana by'intama"
+    }
+  ],
+  "timestamp": "2026-09-07T10:34:33.318695881Z",
+  "model": "glm-5.3"
+}

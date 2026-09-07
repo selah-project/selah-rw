@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Ku uwo munsi Yahwe yakoze na Avramu ⟨את⟩ beriti, agira ati: Ku urubyaro rwawe nahaye ⟨את⟩ iki gihugu, kuva ku mugezi wa Mitsrayimu kugera ku mugezi munini, umugezi wa Perati.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agira ati"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Ku urubyaro rwawe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki gihugu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "kuva ku mugezi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ku mugezi"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "munini"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "umugezi"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "wa Perati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:12.749030088Z",
+  "model": "glm-5.3"
+}

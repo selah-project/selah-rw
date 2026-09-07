@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ku w'uyobora ⟨ni⟩ igikorwa cyo kwigisha, cya bene Korahi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku w'uyobora"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "igikorwa cyo kwigisha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cya bene"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:58.200185758Z",
+  "model": "glm-5.3"
+}

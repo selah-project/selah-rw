@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "⟨את⟩ uruyanja rumwe, na ⟨את⟩ inka cumi na zibiri muhasi yarwo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "uruyanja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rumwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "muhasi yarwo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:48:48.155369345Z",
+  "model": "glm-5.3"
+}

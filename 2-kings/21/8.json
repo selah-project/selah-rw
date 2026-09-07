@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "kandi nta nzongera kugenda ku kaguru kwa Yisraeli ku butaka nahaye abakurambere babo, gusa niba bakurikiza bakora uko byose nabategetse n'uko Tora yose ibitegetse ⟨את⟩ bo umugaragu wanjye Moshe (Mose) yategetse.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "nzongera"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "kugenda"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ku kaguru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "butaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naha"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nahaye"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "abakurambere babo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bakurikiza"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "uko byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "byo"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "nabategetse"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "n'uko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibitegetse"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umugaragu wanjye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:31:31.488407287Z",
+  "model": "glm-5.3"
+}

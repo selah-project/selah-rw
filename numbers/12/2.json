@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Baravuga bati: Ese Yahwe yavuze gusa muri Moshe? Ese ntiyavuze no muri twebwe? Yahwe ara yumva.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Baravuga bati"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "muri Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ese nti-"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "muri twebwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ara yumva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:42.636292098Z",
+  "model": "glm-5.3"
+}

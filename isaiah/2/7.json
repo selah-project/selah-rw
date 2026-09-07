@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Igihe igihugu cyabo cyuzuye ifeza n'izahabu, kandi nta mpimbibi ku bintu byabo by'agaciro; igihugu cyabo cyuzuye amafarashi, kandi nta mpimbibi ku ngingo zabo zo gutwara.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "cyuzuye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cyabo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifeza"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "n'izahabu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mpimbibi"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ku bintu byabo by'agaciro"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "cyuzuye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "igihugu cyabo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amafarashi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mpimbibi"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "ku ngingo zabo zo gutwara"
+    }
+  ],
+  "timestamp": "2026-09-07T14:37:16.118347390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Ku mutware w'umuziki, zaburi ya Dawidi. Yahwe, wasuzume kandi unazi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mutware w'umuziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "wasuzume"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "unazi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:47.243214197Z",
+  "model": "glm-5.3"
+}

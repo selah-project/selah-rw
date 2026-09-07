@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ibarura ryabo ku muryango wa Gadu: itanu na makumi ane ibihumbi, na amajana atandatu na mirongo itanu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ibarura ryabo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ku muryango wa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "itanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na makumi ane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:58:05.394742075Z",
+  "model": "glm-5.3"
+}

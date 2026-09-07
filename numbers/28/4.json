@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "⟨את⟩ intama imwe muzakora mu gitondo, na ⟨את⟩ intama ya kabiri muzakora mu gihe cy'inyanduko.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama imwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "intama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "intama ya kabiri"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "intama"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya kabiri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muzakora"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "cy'inyanduko"
+    }
+  ],
+  "timestamp": "2026-09-07T10:34:22.807466678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 44,
+  "translation": "Barihutije, buri umwe bamanuye ⟨את⟩ isakoshi ye ku hasi, maze buri umwe afunguye isakoshi ye.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "barihutije"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "bamanuye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri umwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isakoshi ye"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isakoshi ye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku hasi"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "afunguye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri umwe"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isakoshi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:15.292356991Z",
+  "model": "glm-5.3"
+}

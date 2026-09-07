@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Se abayasaruze bazayirya maze bakazengurutsa ⟨את⟩ Yahwe; n'abayanzeuye bakurikiraho bazayinywa mu mbuga z'ubutagatifu bwanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "abayasaruze"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bazayirya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "maze bakazengurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "n'abayanzeuye bakurikiraho"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "bazayinywa"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "mu mbuga za"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ubutagatifu bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:31:08.295597209Z",
+  "model": "glm-5.3"
+}

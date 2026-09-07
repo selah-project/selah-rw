@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "N'ururimi rwanjye, ku munsi cyose, ruzavuga ubutungane bwawe; kuko bareshejwe, bacaojewe, abashaka ibibi byanjye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ururimi rwanjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cyose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ruzavuga"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubutungane bwawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "bareshejwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bacaojewe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abashaka"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ibibi byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:36.993169325Z",
+  "model": "glm-5.3"
+}

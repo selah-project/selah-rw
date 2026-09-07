@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze nkaguhindura umuryango munini, nkaguha umugisha, nkagutanura izina ryawe maze ube umugisha.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "nkaguhindura"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "munini"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "nkaguha umugisha"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "nkagutanura"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze ube"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "umugisha"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:01.984824515Z",
+  "model": "glm-5.3"
+}

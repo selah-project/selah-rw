@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "We ubwe yakubise ⟨את⟩ Abanyafilisiti kugera i Azza na ⟨את⟩ imbibi zayo, kuva ku rutare rw'abarindiri kugera ku mudugudu w'umuriro.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "We ubwe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yakubise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abanyafilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abanyafilisiti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "i Azza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imbibi zayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imbibi zayo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kuva ku rutare"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "rw'abarindiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ku mudugudu"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "w'umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:25:03.721700843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 60,
+  "translation": "Kugira ngo abakundwa bawe batakwitozwe; nkiza w'ukuboko kwawe kw'iburyo, kandi utugurize.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kugira ngo"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "batakwitozwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "abakundwa bawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nkiza"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ukoboko kwawe kw'iburyo"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "kandi utugurize"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:08.601338884Z",
+  "model": "glm-5.3"
+}

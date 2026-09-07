@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Na ubu ihagare, murebe ⟨את⟩ icyo gikuru ikiri hano, uko Yahwe akoza imbere y'amaso yanyu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ihagare"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "murebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyo gikuru ikiri hano"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "icyo kintu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gikuru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki hano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akoza"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "imbere y'amaso yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:30:01.119268492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Barafata ⟨את⟩ abantu bose, baragenda kurwanya Yishmaeli umwana wa Netanyahu, maze bamubona ⟨את⟩ we ku mazi manini ari i Givoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "barafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baragenda"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwanya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanyahu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "maze bamubona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "manini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givoni"
+    }
+  ],
+  "timestamp": "2026-09-07T16:22:30.370275843Z",
+  "model": "glm-5.3"
+}

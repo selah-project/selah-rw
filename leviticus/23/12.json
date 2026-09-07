@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kandi ku munsi muzungusha ⟨את⟩ Omeru, muzatanga intama y'uruhungu idafite inenge, uw'imyaka imwe, nk'ikorubani kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "muzatanga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "muzungusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omeru"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "Omeru"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "intama y'uruhungu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "idafite inenge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "uw'"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "imyaka imwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "nk'ikorubani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:23.006379540Z",
+  "model": "glm-5.3"
+}

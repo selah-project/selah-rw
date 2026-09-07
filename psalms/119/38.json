@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Emeza ku mugaragu wawe ijambo ryawe, ryo kwitinya kwawe.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Emeza"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ku mugaragu wawe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "kwitinya kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:04.401510303Z",
+  "model": "glm-5.3"
+}

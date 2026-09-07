@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Maze yarungikiye ⟨את⟩ umuntu, maze yashyize ku burasirazuba bwa busitani ya Edeni ⟨את⟩ kerubimu na ⟨את⟩ umuriro w'urwangiti uhindukahirijeho, kugira ngo arinde ⟨את⟩ inzira y'igiti cy'ubuzima.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "maze yarungikiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "maze yashyize"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ku burasirazuba"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "bwa busitani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ya Edeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubimu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umuriro w'urwangiti"
+    },
+    {
+      "surface": "להט",
+      "gloss": "umuriro"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "w'urwangiti"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "uhindukahirijeho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kugira ngo arinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "y'igiti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "cy'ubuzima"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:51.212042399Z",
+  "model": "glm-5.3"
+}

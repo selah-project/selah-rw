@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Induru z'urwenya zirazuye, umujyi uzira induru, umujyi wishimye: abicwawe bawe ntibicwe n'icyoza, kandi ntibapfa mu rugamba.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "induru"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "zirazuye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "uzira induru"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "wishimye"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "abicwawe bawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "bicwe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n'icyoza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bapfa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mu rugamba"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:24.402508893Z",
+  "model": "glm-5.3"
+}

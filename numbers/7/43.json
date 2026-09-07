@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 7:43",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Igorwa rye: isahani imwe y'ifeza, ibiro byayo ishekeri ijana na mirongo itatu; ikombe kimwe cy'ifeza, ishekeri mirongo irindwi, mu ishekeri y'igitagatifu; byombi byuzuye ifu yavanzwe n'amavuta, ku gitambo cya mincha.",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "igikorwa rye"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "isahani imwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "y'ifeza"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na ijana"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "ibiro byayo"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "ikombe kimwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cy'ifeza"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ishekeri mirongo irindwi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ishekeri"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "mu ishekeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "y'igitagatifu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "byombi"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "byuzuye"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yavanzwe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "n'amavuta"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ku gitambo cya mincha"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:52.986563087Z",
+  "model": "glm-5.3"
+}

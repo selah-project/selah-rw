@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Amazi yarakuyeho abanzi babo; umwe muri bo nta wasigaye.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "yarakuyeho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Amazi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "abanzi babo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "wasigaye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:21.676352614Z",
+  "model": "glm-5.3"
+}

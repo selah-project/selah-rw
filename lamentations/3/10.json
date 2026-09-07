@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ni dubu ritegereza kuri njye, nk'intare mu bihisha.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "dubu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ritegereza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "nk'intare"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mu bihisha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:48:25.550576377Z",
+  "model": "glm-5.3"
+}

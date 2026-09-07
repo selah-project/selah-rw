@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Yatumiye icolonbo ku bantu be; yategetse beriti ye ⟨kuri⟩ iteka; tagatifu kandi ugutura ni izina rye.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "icolonbo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yatumiye"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ku bantu be"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beriti ye"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tagatifu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "kandi ugutura"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:46:02.099993707Z",
+  "model": "glm-5.3"
+}

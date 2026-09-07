@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 27,
+  "translation": "Kandi uzabaho ku mupanga wawe, ⟨את⟩ murumuna wawe uzamushumbya; maze iyo uriyobera, uzakuraho urunyigisho rwe ku ijosi ryawe.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "mupanga wawe"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uzabaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murumuna wawe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "murumuna wawe"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uzamushumbya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maze"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "uriyobera"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "uzakuraho"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "urunyigisho rwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ijosi ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:00:37.310829657Z",
+  "model": "glm-5.3"
+}

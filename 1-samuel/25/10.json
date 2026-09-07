@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Navali yagaboze ⟨את⟩ abagaragu ba Dawidi, aravuga ati: Ni nde Dawidi? Ni nde umwana wa Yishayi? Ubu ko abagaragu benshi baragiyeho, mu guhunga buri wese ku shebuja we?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yagaboze"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abagaragu ba Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ba Dawidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishayi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ubu ko"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "baragiyeho"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abagaragu benshi"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "mu guhunga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri wese"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "shebuja we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:10.506545430Z",
+  "model": "glm-5.3"
+}

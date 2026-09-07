@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Twayeho icyaha hamwe n'abakurambere bacu, twakoze ubuhemu, twakoze ibibi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "twayeho icyaha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "twakoze ubuhemu"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "twakoze ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:27.253177051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 5:24",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Aba ni imitwe y'amazu y'ababyeyi babo: Eferi na Yishiyi na Eliyeli na Azriyeli na Yirmeyahu na Hodavyahu na Yahidiyeli, abagabo b'ingufu zingabo, abagabo bazwi cyane, imitwe y'amazu y'ababyeyi babo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "imitwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "y'amazu"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "y'ababyeyi babo"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Eferi"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "na Yishiyi"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "na Eliyeli"
+    },
+    {
+      "surface": "ועזריאל",
+      "gloss": "na Azriyeli"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "na Yirmeyahu"
+    },
+    {
+      "surface": "והודויה",
+      "gloss": "na Hodavyahu"
+    },
+    {
+      "surface": "ויחדיאל",
+      "gloss": "na Yahidiyeli"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "b'ingufu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "zingabo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bazwi cyane"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "imitwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kw'amazu"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "y'ababyeyi babo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:32:39.050231728Z",
+  "model": "glm-5.3"
+}

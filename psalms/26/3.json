@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Koko hesedi yawe iri imbere y'amaso yanjye, kandi nagenze mu kuri kwawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iri imbere ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "kandi nagenze"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "mu kuri kwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:43.091499407Z",
+  "model": "glm-5.3"
+}

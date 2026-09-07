@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Icyo gihe uzasobanukirwa ubutoni bwa Yahwe, kandi ubumenyi bwa Elohimu uzabwongera kubwibona.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Icyo gihe"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "uzasobanukirwa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ubutoni bwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kandi ubumenyi bwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "uzabwongera kubwibona"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:00.564009112Z",
+  "model": "glm-5.3"
+}

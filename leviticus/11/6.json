@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ haranebete (uruswagire), kuko irazanura ubwatsi bw'igitigu, ariko ntibatandukanyije umunwa w'ikirenge — irafiteme ibyaha muri mwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "haranebete"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "haranebete (uruswagire)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "irazanura"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ubwatsi bw'igitigu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ariko umunwa w'ikirenge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "batandukanyije"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "irafiteme ibyaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:32:40.861681301Z",
+  "model": "glm-5.3"
+}

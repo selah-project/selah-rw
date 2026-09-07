@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yaratumye Moshe, umuja we, n'Aharoni uwo yatoranije.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Yaratumye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "umuja we"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "yatoranije"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:35.311460183Z",
+  "model": "glm-5.3"
+}

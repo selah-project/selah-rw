@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "n'ingabo ze n'ababaruwe muri bo — ibihumbi bine na mirongo ine n'itanu, n'amajana atandatu na mirongo itanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "n'ingabo ze"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "n'ababaruwe muri bo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "atanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mirongo ine"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:59:22.403791312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze habaye nimugoroba, habaye nimuze — umunsi wa gatanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nimugoroba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nimuze"
+    },
+    {
+      "surface": "יום",
+      "gloss": "umunsi"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "wa gatanu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:32:48.937637326Z",
+  "model": "glm-5.3"
+}

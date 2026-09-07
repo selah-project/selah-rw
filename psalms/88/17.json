@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Ku ntoki zanjye zanyansenye uburakari bwawe; ibyago byawe baramaze kunyica.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ku ntoki zanjye"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zanyansenye"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "uburakari bwawe"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ibyago byawe"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "baramaze kunyica"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:22.213289208Z",
+  "model": "glm-5.3"
+}

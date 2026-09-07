@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Nabaye umushumi, none nahinguye, kandi nti nabonye umutunganya arekwa, cyangwa se urubyaro rwe rusaba imigati.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "umushumi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nabaye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "none"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "nahinguye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nabonye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umutunganya"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "arekwa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "urubyaro rwe"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "rusaba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:09.059961475Z",
+  "model": "glm-5.3"
+}

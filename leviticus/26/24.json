@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "maze njye nanjye nzagenda mu mwe mu kwigomeka, maze nzakubise ⟨את⟩ mwe indwi ku byaha byanyu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "nzagenda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "mu mwe"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "mu kwigomeka"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "nzakubise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "byaha byanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:57:55.427829271Z",
+  "model": "glm-5.3"
+}

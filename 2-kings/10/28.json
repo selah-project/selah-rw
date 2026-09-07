@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Yehu yarazimu ⟨את⟩ Baali mu Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "yarazimu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mu Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:37:48.290309427Z",
+  "model": "glm-5.3"
+}

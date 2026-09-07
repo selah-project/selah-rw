@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "None rero ohereza, unakoranye iwanjye ⟨את⟩ Yisraeli yose ku musozi wa Karmeli, na ⟨את⟩ abahanuzi ba Baali, amajana ane na mirongo itanu, n'abahanuzi ba Ashera, amajana ane, bafata ku mmeza ya Izebeli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rero"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ohereza"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "unakoranye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "wa Karmeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahanuzi ba Baali"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ba Baali"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "n'abahanuzi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ba Ashera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ku mmeza"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ya Izebeli"
+    }
+  ],
+  "timestamp": "2026-09-07T13:57:17.837678188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Hiramu nagiye ava muri Tsori ajya kureba ⟨את⟩ imidugudu Shelomo yamuhaye; maze atekereza ko atari byo yari yifuza.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nagiye ava"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "muri Tsori"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ajya kureba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imidugudu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "imidugudu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yahaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maze atekereza ko atari"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "byo yari yifuza"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:16.955757641Z",
+  "model": "glm-5.3"
+}

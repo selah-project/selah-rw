@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Yehoshuwa maze yohereza ⟨את⟩ abantu, buri muntu ajya ku murage wiwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ajya ku murage wiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:45:50.340562285Z",
+  "model": "glm-5.3"
+}

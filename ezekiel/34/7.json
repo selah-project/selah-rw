@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Bityo rero, abungeri, mwumve ⟨את⟩ ijambo rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bityo rero"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abungeri"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mwumve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:11:29.665405054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Imigati ntimwayiye, n'divayi n'ibisindisha ntimwayanyoye, kugira ngo mumenye ko njye ⟨ni⟩ Yahwe, Elohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "mwayiye"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "n'divayi"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "n'ibisindisha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "mwayanyoye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mumenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T11:14:25.981448015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mitsrayimu yabyaye ⟨את⟩ Abaludayi, na ⟨את⟩ Abanamayi, na ⟨את⟩ Abalehabayi, na ⟨את⟩ Abanafutuki.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abaludayi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Abaludayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abanamayi"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Abanamayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abalehabayi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Abalehabayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abanafutuki"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Abanafutuki"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:15.756700260Z",
+  "model": "glm-5.3"
+}

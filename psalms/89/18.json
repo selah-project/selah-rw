@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Ko wowe ⟨ni⟩ icyubahiro cy'ingufu zabo, kandi mu bushake bwawe urazamura uruhembe rwacu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "cy'ingufu zabo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "kandi mu bushake bwawe"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "urazamura"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "uruhembe rwacu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:51.187232181Z",
+  "model": "glm-5.3"
+}

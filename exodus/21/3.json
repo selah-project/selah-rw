@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Iyo yinjiye wenyine, azasohoka wenyine; iyo afite umugore, umugore we azasohoka hamwe na we.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "wenyine"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "azasohoka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "afite"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨we⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "azasohoka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umugore we"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:04.443427728Z",
+  "model": "glm-5.3"
+}

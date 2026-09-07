@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "genesis 49:23",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 49,
+ "translation": "Bamubabaje, bamunaturamo, bakamwishimira — abany'inteya.",
+ "tokens": [
+  {
+   "surface": "וימררהו",
+   "gloss": "bamubabaje"
+  },
+  {
+   "surface": "ורבו",
+   "gloss": "bamunaturamo"
+  },
+  {
+   "surface": "וישטמהו",
+   "gloss": "bakamwishimira"
+  },
+  {
+   "surface": "בעלי",
+   "gloss": "abany'"
+  },
+  {
+   "surface": "חצים",
+   "gloss": "inteya"
+  }
+ ],
+ "timestamp": "2026-09-07T21:12:03.912130732Z",
+ "model": "glm-5.3"
+}

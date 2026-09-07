@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ itara ry'urumuri, na ⟨את⟩ ibikoresho byaryo, na ⟨את⟩ amatara yaryo, na ⟨את⟩ amavuta y'urumuri,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "itara ry'urumuri"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "itara"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ry'urumuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibikoresho byaryo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ibikoresho byaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amatara yaryo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amatara yaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta y'urumuri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "y'urumuri"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:15.047903209Z",
+  "model": "glm-5.3"
+}

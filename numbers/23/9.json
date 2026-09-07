@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Kuko ku ntangiriro y'amabuye ndayibona, no ku misozi ndayihangarira: dore abantu bazatatura ubwite, mu mahanga ntibazibwaho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ku ntangiriro"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "y'amabuye"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ndayibona"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "no ku misozi"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "ndayihangarira"
+    },
+    {
+      "surface": "הן",
+      "gloss": "dore"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ubwite"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bazatutura"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "bazibwaho"
+    }
+  ],
+  "timestamp": "2026-09-07T10:27:37.555083533Z",
+  "model": "glm-5.3"
+}

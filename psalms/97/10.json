@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 97,
+  "translation": "Mwakunda Yahwe, mwikundishiriza n'ibibi: ⟨uwo⟩ arinda Nefeshi z'abahesedi be, mu ntoki z'ababi arabazura.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Mwakunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "mwikundishiriza n'ibibi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "arinda"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "z'abahesedi be"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "z'ababi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "arabazura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:37.249343595Z",
+  "model": "glm-5.3"
+}

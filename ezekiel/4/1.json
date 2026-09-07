@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Na wowe, mwana w'umuntu, fata uwewe urubaho rw'urubumba, maze ushyire ⟨את⟩ imbere yawe, maze ukoreho kuwo igisagara — ⟨את⟩ Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wowe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uwewe"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "urubaho rw'urubumba"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "maze ushyire"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "urubaho rw'urubumba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "maze ukoreho"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "igisagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T16:45:02.073653977Z",
+  "model": "glm-5.3"
+}

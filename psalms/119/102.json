@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Ntabwo narekeye amategeko yawe, kuko wowe uri wantegeje.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "narekeye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "uri wantegeje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:34.736026927Z",
+  "model": "glm-5.3"
+}

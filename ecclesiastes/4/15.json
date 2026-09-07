@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Nabonye ⟨את⟩ ababyeyi bose bagenda munsi y'izuba, hamwe n'umwana wa kabiri, uko azahagarama mu mwanya we.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nabonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababyeyi bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "bagenda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "y'izuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kabiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "azahagarama"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu mwanya we"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:42.079209215Z",
+  "model": "glm-5.3"
+}

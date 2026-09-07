@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "bazazana ku wawe umurwi, bagakubise ⟨את⟩ wawe amabuye, bagakubaze n'intwaro zabo.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "bazazana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ku wawe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umurwi"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "bagakubise"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wawe amabuye"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "bagakubaze"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "n'intwaro zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T16:53:43.394049595Z",
+  "model": "glm-5.3"
+}

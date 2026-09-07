@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 41,
+  "translation": "Ibishishwa bikeya zaragize ⟨את⟩ ibishishwa birindwi binezerewe kandi bikize. Paro aramutswa, arongoraga ko ari ⟨inzozi⟩.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "zaragize"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ibishishwa"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "bikeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibishishwa birindwi binezerewe kandi bikize"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "birindwi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ibishishwa"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "binezerewe"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "kandi bikize"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "aramutswa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "arongoraga ko"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "inzozi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:12:03.145444416Z",
+  "model": "glm-5.3"
+}

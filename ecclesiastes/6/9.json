@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ibonwa ry'amaso ni byiza kurusha urugendo rw'inefeshi; n'ibi ni ubuhinyuzi n'uburibumbwe bw'umwuka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ibonwa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ry'amaso"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "urugendo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kw'inefeshi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'ibi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubuhinyuzi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "n'uburibumbwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "bw'umwuka"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:38.664476010Z",
+  "model": "glm-5.3"
+}

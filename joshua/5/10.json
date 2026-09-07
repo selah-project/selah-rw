@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abana ba Yisraeli barashiye mu Giligali, maze bakora ⟨את⟩ Pasika ku wa cumi n'ane w'ukwezi, mu gicamunsi, mu birambye bya Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "barashiye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "mu Giligali"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasika"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasika"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ku wa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "w'ukwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mu gicamunsi"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "mu birambye"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-09-07T11:22:33.270934628Z",
+  "model": "glm-5.3"
+}

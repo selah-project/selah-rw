@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ibi ni byo bavutse i Yerushalayimu: Shimea, na Shovavi, na Natani, na Shelomo ⟨Salomo⟩ — ibine, bavutse k'umukobwa wa Batu-Shuwa, umukobwa wa Amiyeli.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ibi"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "bavutse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovavi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natani"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ibine"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "k'umukobwa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Batu-Shuwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "wa Amiyeli"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:04.201702658Z",
+  "model": "glm-5.3"
+}

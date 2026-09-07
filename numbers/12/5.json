@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yamanutse mu muringa w'igicu, maze ahagara ku rugo rw'ihema, maze ahamagara Aharoni na Miriyamu, maze bombi basohoka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yamanutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mu muringa"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "w'igicu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maze ahagara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku rugo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "rw'ihema"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maze ahamagara"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miriyamu"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bombi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:15:26.162938190Z",
+  "model": "glm-5.3"
+}

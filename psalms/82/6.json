@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 82,
+  "translation": "Njye navuze ngo: mwe ⟨ni⟩ imana, kandi mwese mwise abana b'Elyoni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Njye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze ngo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "imana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "kandi mwise abana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "b'Elyoni"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "mwese"
+    }
+  ],
+  "timestamp": "2026-09-07T18:35:31.210820699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Ntaguhamagara, nta yazamura ijwi, kandi ntabwo azamenyesha hanze ijwi rye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "azaguhamagara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nta"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yazamura ijwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ntabwo"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "azamenyesha"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ijwi rye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:17:47.117548926Z",
+  "model": "glm-5.3"
+}

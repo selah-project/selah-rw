@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze Yahwe yarakubyise umuyaga munini ku nyanja, haba inkubi y'umuyaga ninini mu nyanja, kandi ubwato bwari bugiye kwangirika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "yarakubyise"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umuyaga"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "munini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "haba"
+    },
+    {
+      "surface": "סער",
+      "gloss": "inkubi y'umuyaga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ninini"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mu nyanja"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "kandi ubwato"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "bwari bugiye"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "kwangirika"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:57.530524385Z",
+  "model": "glm-5.3"
+}

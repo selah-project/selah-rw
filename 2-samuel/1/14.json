@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Dawidi na we yaramubwiye ati: Uko utatinye gutambaza ukuboko kwawe ngo ureme ⟨את⟩ Mashiyah wa Yahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "uko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "watinye"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "gutambaza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ukuboko kwawe"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ngo ureme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiyah"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiyah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:57:51.854765285Z",
+  "model": "glm-5.3"
+}

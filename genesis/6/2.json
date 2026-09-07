@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Abahungu ba Elohimu barabonye ⟨את⟩ abakobwa b'abantu ko ari beza, maze bafashe abagore muri byose ibyo bahisemo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "barabonye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ba Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakobwa b'abantu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "b'abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "beza"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bafashe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abagore"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "muri byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "bahisemo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:11.829749550Z",
+  "model": "glm-5.3"
+}

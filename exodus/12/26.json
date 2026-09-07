@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze ubabeho, abana banyu bababwira bati: Iyi mpera iyi ni iyi iki mwe?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ubabeho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "babwira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "abana banyu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "iyi mpera"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:46:33.232365702Z",
+  "model": "glm-5.3"
+}

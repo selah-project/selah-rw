@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Ubwo navuze ngo: Dore, nje; mu gihufo cy'igitabo habanditswe ibyerekeye njye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ubwo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "navuze"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nje"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "mu gihufo cya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "igitabo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "habanditswe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ibyerekeye njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:20:48.777301448Z",
+  "model": "glm-5.3"
+}

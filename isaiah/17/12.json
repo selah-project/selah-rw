@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yambi! Imvururu z'amahanga menshi zihisha nko guhisha kw'inyanja, n'urubyego rw'amahanga rurabyego nk'urubyego rw'amazi aremereye!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yambi!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Imvururu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "nko guhisha kw'"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "zihisha"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "n'urubyego"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "rw'amahanga"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "nk'urubyego"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rw'amazi"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "aremereye"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "rurabyego"
+    }
+  ],
+  "timestamp": "2026-09-07T14:53:09.366917248Z",
+  "model": "glm-5.3"
+}

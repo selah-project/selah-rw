@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 4:7",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Maze kohenu azashira mu maraso ku mahembe y'urwatiro rw'itambi ry'imvano imbere ya Yahwe, ari mu ihema ry'itumanaho; maze ⟨את⟩ amaraso yose y'urubyimba azamenesha ku musingi w'urwatiro rw'igicaniro, ari ku muryango w'ihema ry'itumanaho.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "azashira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mahembe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "y'urwatiro"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rw'itambi (ktoret)"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ry'imvano (hasamim)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ry'urubyimba"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "azamenesha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "musingi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "w'urwatiro"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "rw'igicaniro (olot)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ku muryango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "w'ihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ry'itumanaho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:29:36.290304702Z",
+  "model": "glm-5.3"
+}

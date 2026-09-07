@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Uwavuga kuri se no kuri nyina ati: Simuboneye; na ⟨את⟩ benewe ntabo yaziye, na ⟨את⟩ abana be ntabo yariye; kuko barinze ijambo ryawe, na beriti yawe bazayirinza.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Uwavuga"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kuri se"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "no kuri nyina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "simuboneye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "benewe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "benewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yaziye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abana be"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "barinze"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ijambo ryawe"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "na beriti yawe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bazayirinza"
+    }
+  ],
+  "timestamp": "2026-09-07T11:17:45.384975925Z",
+  "model": "glm-5.3"
+}

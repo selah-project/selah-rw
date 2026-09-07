@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Iyo habaye impaka hagati y'abantu, maze bakaza ku rubanza babaciraho urubanza: bagire intunganye ⟨את⟩ umutunganye, kandi bagire icaha ⟨את⟩ umunyabyaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "habaye"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "impaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati y'"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "maze bakaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "rubanza"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "babaciraho urubanza"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "bagire intunganye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutunganye"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "umutunganye"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "bagire icaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunyabyaha"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "umunyabyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:58.102005735Z",
+  "model": "glm-5.3"
+}

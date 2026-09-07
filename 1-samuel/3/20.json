@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yisraeli yose, kuva i Dani kugera i Beeri-Sheba, yamenye ko Shemuweli yemejwe ngo abe navi kuri Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "yamenye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuva i Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kugera"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "yemejwe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ngo abe navi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuri Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:24:46.994912749Z",
+  "model": "glm-5.3"
+}

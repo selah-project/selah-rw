@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Maze tumenye, turondere kumenya ⟨את⟩ Yahwe; kuva kwe ni itizwa nka ntangamuha, azaza ituzwe nk'imvura, nk'imvura y'iyoherere isuka isi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Maze tumenye"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "turondere"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "nka ntangamuha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ni itizwa"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kuva kwe"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "azaza"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "nk'imvura"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ituzwe"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "nk'imvura y'iyoherere"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "isuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:30:05.097953765Z",
+  "model": "glm-5.3"
+}

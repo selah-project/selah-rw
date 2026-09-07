@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "We yasubiye ⟨את⟩ we, arye umugati mu nzu ye, anywe amazi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "arye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mu nzu ye"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "anywe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:49:03.053816386Z",
+  "model": "glm-5.3"
+}

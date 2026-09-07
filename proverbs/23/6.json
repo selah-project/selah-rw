@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Nturirye ⟨את⟩ umugati w'amaso mabi, kandi ntushakishime ibiryo bye byiza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "urirye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umugati"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "amaso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntu-"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "shakishime"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ibiryo bye byiza"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:35.920769270Z",
+  "model": "glm-5.3"
+}

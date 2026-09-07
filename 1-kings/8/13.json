@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Kwubaka narahubakiye inzu, aho utura, umwanya wo gutulira kwawe mu iteka.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Kwubaka"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "narubakiye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "aho utura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "umwanya"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "gutulira kwawe"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "mu iteka"
+    }
+  ],
+  "timestamp": "2026-09-07T13:40:45.553590822Z",
+  "model": "glm-5.3"
+}

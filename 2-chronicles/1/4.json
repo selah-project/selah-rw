@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ariko isanduku ya Elohimu, Dawidi nazamuye i Kiryat Ye'arimu, mu gihe Dawidi yari yategetse impereza we, kuko yari yashyize agakamba kawe i Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ariko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nazamuye"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "i Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Ye'arimu"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "mu gihe... yategetse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "impereza we"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "yashyize"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kawe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "agakamba"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T20:46:09.583321185Z",
+  "model": "glm-5.3"
+}

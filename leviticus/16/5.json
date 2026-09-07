@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Kandi mu itorerano rya bene Yisraeli azafata ⟨את⟩ ibimasa babiri b'impene mu rwego rw'igicaniro cy'icyaha, n'ingabo imwe mu rwego rw'igicaniro cy'umuriro.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ mu",
+      "marks": "itorerano rya bene Yisraeli"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "itorerano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ibimasa"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "b'impene"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mu rwego rw'igicaniro cy'icyaha"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "n'ingabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "mu rwego rw'igicaniro cy'umuriro"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:18.143744413Z",
+  "model": "glm-5.3"
+}

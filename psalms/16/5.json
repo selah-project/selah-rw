@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Yahwe ⟨ni⟩ umugabane w'urugero rwanjye n'ikombe cyanjye; wowe uguma umutoro wanjye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "umugabane"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "w'urugero rwanjye"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "n'ikombe cyanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "uguma"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "umutoro wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.693142006Z",
+  "model": "glm-5.3"
+}

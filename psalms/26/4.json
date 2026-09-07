@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Sinshyize hamwe n'abantu b'ibinyoma, kandi n'abahisha ibyabo sinzinira.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "nshyize hamwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "b'ibinyoma"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "abahisha ibyabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nzinira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:14:43.091648181Z",
+  "model": "glm-5.3"
+}

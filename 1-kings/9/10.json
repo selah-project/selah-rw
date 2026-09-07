@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Hagize ku mpera y'imyaka makumyabiri aho Shelomo yubatse ⟨את⟩ amazu abiri: ⟨את⟩ inzu ya Yahwe n'⟨את⟩ inzu y'umwami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hagize"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumyabiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yubatse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazu abiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abiri"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "amazu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n'⟨את⟩",
+      "marks": "inzu y'umwami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "y'umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:35.468000768Z",
+  "model": "glm-5.3"
+}

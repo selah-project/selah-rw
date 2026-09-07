@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ abahindutse inyuma ya Yahwe, n'abidasabye ⟨את⟩ Yahwe, kandi bataramurije.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahindutse"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "abahindutse"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "inyuma ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "n'abi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "basabye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "bataramurije"
+    }
+  ],
+  "timestamp": "2026-09-07T21:53:26.194034157Z",
+  "model": "glm-5.3"
+}

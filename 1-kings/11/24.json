@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yarakoranye abagabo iwe, maze aba umutware w'umutwe w'ingabo mu gihe Dawidi yakubise ⟨את⟩; baragenda baza Damasheki, batuye muri yo, maze bagateka i Damasheki.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Yarakoranye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze aba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "w'umutwe w'ingabo"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "mu gihe … yakubise"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abagabo bapfuye"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baragenda"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheki"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "bagateka"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "i Damasheki"
+    }
+  ],
+  "timestamp": "2026-09-07T13:46:20.593671085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 121,
+  "translation": "Yahwe azakurinda ku bibi byose; azirinda ⟨את⟩ umutima wawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "azakurinda"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ku byose"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "azirinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutima wawe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umutima wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:13.716733943Z",
+  "model": "glm-5.3"
+}

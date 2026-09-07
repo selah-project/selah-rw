@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iki cyari cyiza gukorwa kandi ku murima wanjye w'imizabibu n'uko ntacyo nakozeho? Kuki nategereje ko cyatunganyaga imizabibu, maze kikora ibyatsi bibi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukorwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ku murima wanjye w'imizabibu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntacyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakozeho"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nategereje"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ko cyatunganyaga"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "imizabibu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "maze kikora"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "ibyatsi bibi"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:03.708311207Z",
+  "model": "glm-5.3"
+}

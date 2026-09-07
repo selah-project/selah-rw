@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Maze Moshe (Mose), umugaragu wa Yahwe, yarapfuye ari yo mu gihugu cya Moabu, ku bw'ijwi rya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yarapfuye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ari yo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "umugaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:21:18.756415388Z",
+  "model": "glm-5.3"
+}

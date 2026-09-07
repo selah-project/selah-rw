@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Mu kugenda kwawe izakuyobora ⟨את⟩ wowe; mu kurara kwawe izakurinda; mu kubyukaho, ni yo izakuganira.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "mu kugenda kwawe"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "izakuyobora"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "mu kurara kwawe"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "izakurinda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "mu kubyukaho"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "izakuganira"
+    }
+  ],
+  "timestamp": "2026-09-07T19:03:19.354682082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Uhaye indyishyi amahanga menshi, acekubita abami b'ingufu.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "acekubita"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amahanga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ubitse"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "abami"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "b'ingufu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:37.716186155Z",
+  "model": "glm-5.3"
+}

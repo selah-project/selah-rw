@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mwumve ibi, abakuru, maze mwikurikirane cyane, mwese batuye isi: ibi byabayeho mu minsi yanyu, cyangwa mu minsi y'abakurambere banyu?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mwumve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "abakuru"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "maze mwikurikirane cyane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mwese"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "byabayeho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "mu minsi yanyu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu minsi"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "y'abakurambere banyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:02.904993134Z",
+  "model": "glm-5.3"
+}

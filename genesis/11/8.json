@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yahwe yabatandukanyije ⟨את⟩ bo iyo hose, ku buso bw'isi yose; maze bahaguye kubaka umujyi.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "yabatandukanyije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "bo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iyo hose"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "buso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bw'isi yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "barahaguye"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kubaka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:43:18.694808009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Elohimu, wantigishije kuva mu bwana bwanjye, kandi mpaka ubu nzagaragaza ibitangaza byawe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "wantigishije"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuva mu bwana bwanjye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kandi mpaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ubu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nzagaragaza"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ibitangaza byawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:27.117658406Z",
+  "model": "glm-5.3"
+}

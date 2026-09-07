@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "isaiah 42:15",
+ "book": "isaiah",
+ "lang": "rw",
+ "chapter": 42,
+ "translation": "Nazakora ubutayu imisozi n'ibitare, kandi ibyatsi byabyo bizuma; kandi nzashyira imigezi mu birwa, n'ibiyaga bizuma.",
+ "tokens": [
+  {
+   "surface": "אחריב",
+   "gloss": "Nazakora ubutayu"
+  },
+  {
+   "surface": "הרים",
+   "gloss": "imisozi"
+  },
+  {
+   "surface": "וגבעות",
+   "gloss": "n'ibitare"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "kandi... byose"
+  },
+  {
+   "surface": "עשבם",
+   "gloss": "ibyatsi byabyo"
+  },
+  {
+   "surface": "אוביש",
+   "gloss": "bizuma"
+  },
+  {
+   "surface": "ושמתי",
+   "gloss": "kandi nzashyira"
+  },
+  {
+   "surface": "נהרות",
+   "gloss": "imigezi"
+  },
+  {
+   "surface": "לאיים",
+   "gloss": "mu birwa"
+  },
+  {
+   "surface": "ואגמים",
+   "gloss": "n'ibiyaga"
+  },
+  {
+   "surface": "אוביש",
+   "gloss": "bizuma"
+  }
+ ],
+ "timestamp": "2026-09-07T15:17:40.498857271Z",
+ "model": "glm-5.3"
+}

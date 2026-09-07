@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kuko bataryama iyo bakoze ibibi, kandi ipfu ryabo ryavanyweho iyo batagira ngo abandi bagwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bata-"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "bataryama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "batakoze"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "kandi ryavanyweho"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ipfu ryabo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bata-"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "gira ngo abandi bagwa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:00:47.373769262Z",
+  "model": "glm-5.3"
+}

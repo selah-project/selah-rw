@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 16:16",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Dore njye ndi kohereza abarobi menshi, iri jambo rya Yahwe, bazobaroba; nyuma y'ibyo nzohereza abashigi menshi, bazobashiga ku musozi koze no ku gasozi koze, no mu mfugi z'amabuye.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Dore njye ndi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kohereza"
+    },
+    {
+      "surface": "לדוגים",
+      "gloss": "abarobi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "iri jambo rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ודיגום",
+      "gloss": "bazobaroba"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y'ibyo"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nzohereza"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "menshi"
+    },
+    {
+      "surface": "צידים",
+      "gloss": "abashigi"
+    },
+    {
+      "surface": "וצדום",
+      "gloss": "bazobashiga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koze"
+    },
+    {
+      "surface": "הר",
+      "gloss": "umusozi"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koze"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "gasozi"
+    },
+    {
+      "surface": "ומנקיקי",
+      "gloss": "no mu mfugi z'"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "amabuye"
+    }
+  ],
+  "timestamp": "2026-09-07T15:57:06.771012068Z",
+  "model": "glm-5.3"
+}

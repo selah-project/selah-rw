@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Maze Chamu, seba wa Kenaani, abona ⟨את⟩ ubwencyo bwa se we, maze abwira abavandimwe be babiri bari hanze.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "seba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubwencyo bwa se"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubwencyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bwa se we"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "abwira"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "babiri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abavandimwe be"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "bare hanze"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:57.894820691Z",
+  "model": "glm-5.3"
+}

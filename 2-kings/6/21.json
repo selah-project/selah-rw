@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Umwami w'Yisraeli, iyo yabonye ⟨את⟩ bo, yaravuze agira ati Elishaya: Ndagakubita — ndagakubita — Data wanjye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaya"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "iyo yabonye"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ndagakubita"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ndagakubita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Data wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:10:27.924247314Z",
+  "model": "glm-5.3"
+}

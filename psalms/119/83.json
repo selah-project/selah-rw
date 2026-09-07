@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kuko nagenekere nk'urubahu mu mutsi; amategeko yawe sinayibagiwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nagenekere"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "nk'urubahu"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "mu mutsi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sin-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "-ayibagiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:01.700178274Z",
+  "model": "glm-5.3"
+}

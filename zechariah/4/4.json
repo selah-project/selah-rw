@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "zechariah 4:4",
+ "book": "zechariah",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Njye namwishuye, maze nibwira uwo mutumwa wavugaga nawe, nti: Ibi ni iki, shebuja wanjye?",
+ "tokens": [
+  {
+   "surface": "ואען",
+   "gloss": "namwishuye"
+  },
+  {
+   "surface": "ואמר",
+   "gloss": "nibwira"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kuri"
+  },
+  {
+   "surface": "המלאך",
+   "gloss": "uwo mutumwa"
+  },
+  {
+   "surface": "הדבר",
+   "gloss": "wavugaga"
+  },
+  {
+   "surface": "בי",
+   "gloss": "nawe"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nti"
+  },
+  {
+   "surface": "מה",
+   "gloss": "iki"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "ibi"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "shebuja wanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T17:59:06.823074163Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abimeleku yategetse ⟨את⟩ abantu bose ati: Uwagira uko akorera uyu muntu cyangwa umugore we, gupfa azapfa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Uwagira uko akorera"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "cyangwa umugore we"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gupfa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "azapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:54.222001208Z",
+  "model": "glm-5.3"
+}

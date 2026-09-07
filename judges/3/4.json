@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Byari ⟨biri⟩ ngo abeshe muri bo ⟨את⟩ Yisraeli, kugira ngo amenye niba bumva ⟨את⟩ amategeko ya Yahwe, ayo yategekanije ⟨את⟩ ababyeyi babo bikanze bwa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Byari"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ngo abeshe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muri bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kugira ngo amenye"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "niba bumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amategeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amategeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategekanije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababyeyi babo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ababyeyi babo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bikanze bwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:33.852353587Z",
+  "model": "glm-5.3"
+}

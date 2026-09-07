@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Hananyah umuhanuzi yafashe ⟨את⟩ umutwaro ku ijosi rya Yirmeyah umuhanuzi, maze yarawuvunze.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwaro"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "umutwaro"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ijosi"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "rya Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umuhanuzi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "maze yarawuvunze"
+    }
+  ],
+  "timestamp": "2026-09-07T16:09:09.017299272Z",
+  "model": "glm-5.3"
+}

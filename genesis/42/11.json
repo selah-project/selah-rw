@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Twese turi abahungu b'umugabo umwe; twe ⟨ni⟩ abadahemuka, abagaragu bawe ntibari abashakashatsi.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "twese"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "b'umugabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "turi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "abadahemuka"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "twe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abagaragu bawe"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abashakashatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:18.967587511Z",
+  "model": "glm-5.3"
+}

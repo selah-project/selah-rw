@@ -1,0 +1,127 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "joshua 7:3",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 7,
+ "translation": "Baragarutse bageze kwa Yehoshuwa, baramubwira bati: Ntizite abantu bose; abagabo nk'ibihumbu bibiri cyangwa nk'ibihumbu bitatu bazite bakubite ⟨את⟩ Ayi; abantu bose ntibagire umurimo ihari ⟨את⟩, ko ari bake cyane.",
+ "tokens": [
+  {
+   "surface": "וישבו",
+   "gloss": "Baragarutse"
+  },
+  {
+   "surface": "אל",
+   "gloss": "bageze kwa"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshuwa"
+  },
+  {
+   "surface": "ויאמרו",
+   "gloss": "baramubwira"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "bati"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Nti"
+  },
+  {
+   "surface": "יעל",
+   "gloss": "zite"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "כאלפים",
+   "gloss": "nk'ibihumbu bibiri"
+  },
+  {
+   "surface": "איש",
+   "gloss": "abagabo"
+  },
+  {
+   "surface": "או",
+   "gloss": "cyangwa"
+  },
+  {
+   "surface": "כשלשת",
+   "gloss": "nk'ibihumbu bitatu"
+  },
+  {
+   "surface": "אלפים",
+   "gloss": "abagabo"
+  },
+  {
+   "surface": "איש",
+   "gloss": "bazite bakubite"
+  },
+  {
+   "surface": "יעלו",
+   "gloss": "bazite"
+  },
+  {
+   "surface": "ויכו",
+   "gloss": "bakubite"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Ayi"
+  },
+  {
+   "surface": "העי",
+   "gloss": "Ayi"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ntibagire"
+  },
+  {
+   "surface": "תיגע",
+   "gloss": "umurimo"
+  },
+  {
+   "surface": "שמה",
+   "gloss": "ihari"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "abantu bose"
+  },
+  {
+   "surface": "כל",
+   "gloss": "bose"
+  },
+  {
+   "surface": "העם",
+   "gloss": "abantu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "מעט",
+   "gloss": "bake"
+  },
+  {
+   "surface": "המה",
+   "gloss": "cyane"
+  }
+ ],
+ "timestamp": "2026-09-07T11:31:21.505373897Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Eli wacu ⟨ni⟩ Eli w'amacungiro; kandi kwa Yahwe, Adonayi, hari amasoko y'urupfu.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuri twe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "kw'amacungiro"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "na kwa Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mu rpfu"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "amasoko"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:13.526637489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Ku wa uwo munsi Paro yategetse ⟨את⟩ abapangizi mu bantu, na ⟨את⟩ abategetsi be, ati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapangizi"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "abapangizi"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mu bantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abategetsi be"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "abategetsi be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:16.845815613Z",
+  "model": "glm-5.3"
+}

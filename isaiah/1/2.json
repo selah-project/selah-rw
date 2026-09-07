@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mumwe, ijuru, kandi wumve, isi, ko Yahwe yaravuze: abana naranabayeho maze nkuzamuza, ariko bo barigometse kuri njye.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "kandi wumve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "naranabayeho"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "maze nkuzamuza"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "barigometse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:40.599209803Z",
+  "model": "glm-5.3"
+}

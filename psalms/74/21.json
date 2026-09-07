@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Intwaro ntigasubira mu isoni; umukene n'umunyacyaro bisingize izina ryawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "igasubira"
+    },
+    {
+      "surface": "דך",
+      "gloss": "intwaro"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "mu isoni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umukene"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umunyacyaro"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bisingize"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:38.905645258Z",
+  "model": "glm-5.3"
+}

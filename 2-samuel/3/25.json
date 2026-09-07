@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Uzi ⟨את⟩ Avneru (Abuneri) umwana wa Neri ko yaje kugusesa (kuguca), no kumenya ⟨את⟩ igitsibo cyawe na ⟨את⟩ ingoto yawe, no kumenya ⟨את⟩ ibyo wowe ukora byose.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avneru"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Neri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "kugusesa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "no kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitsibo cyawe"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "igitsibo cyawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingoto yawe"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ingoto yawe"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "no kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo ukora byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukora"
+    }
+  ],
+  "timestamp": "2026-09-07T12:58:52.865443590Z",
+  "model": "glm-5.3"
+}

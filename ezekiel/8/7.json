@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yazaniniye ⟨את⟩ njye ku rwinjiriro rw'ikibuga; maze nabona, maze ndeba ko mu rukinga hari icyobo kimwe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Yazaniniye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rwinjiriro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "rw'ikibuga"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "maze nabona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "maze ndeba"
+    },
+    {
+      "surface": "חר",
+      "gloss": "icyobo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimwe"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mu rukinga"
+    }
+  ],
+  "timestamp": "2026-09-07T16:44:06.788803515Z",
+  "model": "glm-5.3"
+}

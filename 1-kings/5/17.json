@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Wowe urazi ⟨את⟩ Dawidi se wanjye, ko ntiyashoboraga kwubaka inzu ku izina rya Yahwe Elohimu wiye, kubera intambara zo zari zimuzejeho, kugeza Yahwe yatanze ⟨את⟩ hasi y'ibirenge bye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "urazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "se wanjye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti…"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "yashoboraga"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kwubaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ku izina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimu wiye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zo"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "zari zimuzejeho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "תת",
+      "gloss": "yatanze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hasi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hasi ya"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "ibirenge"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "bye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:38:08.996415472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Ariko wowe uri uwo, n'imyaka yawe ntizazashira.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uri uwo"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "n'imyaka yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta- (ntizazashira)"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "zazashira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:26.746341769Z",
+  "model": "glm-5.3"
+}

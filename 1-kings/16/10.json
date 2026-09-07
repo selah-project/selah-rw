@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Zimri yinjiye, amukubise, maze amwica, mu mwaka wa makumyabiri na karindwi w'ubwami bwa Asa umwami w'Yehudah, maze yategeka mu kibanza cya ⟨we⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yinjiye"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "amukubise"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "amwica"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mu mwaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wa makumyabiri"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na karindwi"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "w'ubwami bwa Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "w'Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yategeka"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mu kibanza cya ⟨we⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T13:52:29.941108218Z",
+  "model": "glm-5.3"
+}

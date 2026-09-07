@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Twebwe twaruriye amajyepfo ya Kereti, no ku bwa Yehudha, no ku majyepfo ya Kalebu, maze na ⟨את⟩ Tsiykelagi twaritsinze mu muriro.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "twebwe"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "twaruriye"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "amajyepfo"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ya Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bwa Yehudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no ku"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "amajyepfo"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ya Kalebu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsiykelagi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiykelagi"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "twaritsinze"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mu muriro"
+    }
+  ],
+  "timestamp": "2026-09-07T12:53:46.927595903Z",
+  "model": "glm-5.3"
+}

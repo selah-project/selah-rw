@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Moshe (Mose) yarabwiye ihuriro ati: Iki ni ⟨ijambo⟩ ryo Yahwe yategetse gukorwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ihuriro"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ryo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yategetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gukorwa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:36:07.572421232Z",
+  "model": "glm-5.3"
+}

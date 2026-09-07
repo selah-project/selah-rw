@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Yahwe yarabwiye Moshe ati: Andika ibi urwibutso mu gitabo, unshyire mu matwi Yehoshuwa, ko gusibanganza ⟨burundu⟩ ndasibanganza ⟨את⟩ urwibutso rwa Amaleki munsi y'ijuru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Andika"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "urwibutso"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "unshyire"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mu matwi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "gusibanganza"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ndasibanganza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urwibutso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "urwibutso"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "rwa Amaleki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "y'ijuru"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:29.536553276Z",
+  "model": "glm-5.3"
+}

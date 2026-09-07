@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yahwe Elohimu yarabwiye umugore ati: Ni iki ibi wakoze? Umugore aravuga ati: Inzoka yanyaranye, none ndye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "yanyaranye"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:33.847571372Z",
+  "model": "glm-5.3"
+}

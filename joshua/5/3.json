@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Yehoshuwa yarakora ibe ibyuma byo gutema byo mu rwutare, maze asunza ⟨את⟩ abana ba Yisraeli ku musozi w'imiryaso.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yarakora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ibyuma byo gutema"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "byo mu rwutare"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "asunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "musozi"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "w'imiryaso"
+    }
+  ],
+  "timestamp": "2026-09-07T11:26:21.713362424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Iha Yahwe icyubahiro ⟨את⟩ mu mitungo yawe, no mu ntangiriro y'umusaruro wawe wose.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "iha… icyubahiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "mu mitungo yawe"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "no mu ntangiriro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "y'umusaruro wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:58:42.301232096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Ibiza biri muri yo; ubukandamizi n'ubuhemu ntibiva mu mihanda yayo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ibiza"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "biri muri yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "biva"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "mu mihanda yayo"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ubukandamizi"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "n'ubuhemu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:25.312999575Z",
+  "model": "glm-5.3"
+}

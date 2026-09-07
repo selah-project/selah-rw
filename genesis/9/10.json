@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ Nefeshi zose zibaho ziri na mwe ⟨את⟩ — mu nyoni, mu matungo, no mu bikoko byose byo kw'isi biri na mwe ⟨את⟩ — muri byose byavuye mu bwato, ku bikoko byose byo kw'isi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zibaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ziri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "na mwe ⟨את⟩",
+      "marks": "Nefeshi zose zibaho"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "mu nyoni"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mu matungo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bikoko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "byo kw'isi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "na mwe ⟨את⟩",
+      "marks": "bikoko byose byo kw'isi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "muri byose"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "byavuye"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "mu bwato"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bikoko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "byo kw'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:50.095071937Z",
+  "model": "glm-5.3"
+}

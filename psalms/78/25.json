@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 78,
+  "translation": "Umuntu wese yariye umugati w'abakomeye; ibiriro Yahwe yohereje kuri bo kugira ngo bashwe ⟨kubwiroho⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "umugati"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "w'abakomeye"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yariye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu wese"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ibiriro"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kugira ngo bashwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:29.981448516Z",
+  "model": "glm-5.3"
+}

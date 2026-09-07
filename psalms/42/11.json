@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Nk'urwangwa ruri mu magufwa yanjye, abansi banjye banampaye inzigo, mu kuvuga buri munsi banjye ati: Ni hehe Elohimu wawe?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "nk'urwangwa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "mu magufwa yanjye"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "banampaye inzigo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abansi banjye"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "mu kuvuga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "banjye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ni hehe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:44.395278960Z",
+  "model": "glm-5.3"
+}

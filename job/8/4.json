@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Niba abana bawe bakoze icyaha kuri we, nuko yarabashyize mu ntoki y'ibyaha byabo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abana bawe"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "bakoze icyaha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "yarabashyize"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mu ntoki y'"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ibyaha byabo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:21:35.091519087Z",
+  "model": "glm-5.3"
+}

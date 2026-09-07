@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Yosefu yabonye imbabazi mu maso ya shebuja we, na we akamukorera ⟨את⟩; maze shebuja amushyiza umutunganyi ku nzu ye, kandi byose afite yabishiye mu biganza ye.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "imbabazi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mu maso ya we"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "akamukorera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (shebuja)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "amushyiza umutunganyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nzu ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi byose"
+    },
+    {
+      "surface": "יש",
+      "gloss": "afite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yabishiye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mu biganza ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:57.440849826Z",
+  "model": "glm-5.3"
+}

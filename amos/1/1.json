@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 1:1",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Amagambo ya Amosu, wari mu batunzi b'i Tekowa, yabonye ku byerekeye Yisraeli mu iminsi ya Uziyah, umwami wa Yehudah, no mu iminsi ya Yaravamu, umwana wa Yoashu, umwami w'Yisraeli, imyaka ibiri mbere y'umutingito w'isi.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "ya Amosu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨wari⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wari"
+    },
+    {
+      "surface": "בנקדים",
+      "gloss": "mu batunzi"
+    },
+    {
+      "surface": "מתקוע",
+      "gloss": "b'i Tekowa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨yo⟩"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "yabonye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku byerekeye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu iminsi ya"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "no mu iminsi ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "imyaka ibiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "umutingito w'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:39:42.868164675Z",
+  "model": "glm-5.3"
+}

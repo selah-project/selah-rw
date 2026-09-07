@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Yosefu (Yozefu) yaje kuri bo mu gitondo, arabareba ⟨את⟩ bo, maze arabama ko banyagiye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuri bo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu (Yozefu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "arabareba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "maze arabama ko"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "banyagiye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:17:37.076745032Z",
+  "model": "glm-5.3"
+}

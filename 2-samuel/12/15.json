@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Nathani yerekeje iye mu nzu ye, maze Yahwe yararemye ⟨את⟩ umwana w'Ishakazi w'Uriyahu yabyaye Dawidi, arwanira bikomeye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yerekeje iye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nzu ye"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "yararemye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Ishakazi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "w'Uriyahu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "arwanira bikomeye"
+    }
+  ],
+  "timestamp": "2026-09-07T22:09:54.543602749Z",
+  "model": "glm-5.3"
+}

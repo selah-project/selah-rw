@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Umuntu ⟨ni⟩ ufite tsaraati, we ⟨ni⟩ umwumvu; kohenu amenyekanisha ko ari umwumvu buri gihe; ikimenero cye kiri ku mutwe we.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ufite tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "umwumvu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ko ari umwumvu"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "amenyekanisha buri gihe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ku mutwe we"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ikimenero cye"
+    }
+  ],
+  "timestamp": "2026-09-07T09:37:19.055235757Z",
+  "model": "glm-5.3"
+}

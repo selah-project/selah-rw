@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Ndishima, kandi ndishimira muri wewe; ndahira izina ryawe, Elyoni ⟨Uri hejuru bidasanzwe⟩.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ndishima"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "kandi ndishimira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wewe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndahira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-07T18:09:10.428710376Z",
+  "model": "glm-5.3"
+}

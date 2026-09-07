@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Yahwe yakoreye ibyose kubw'itegeko rye, ndetse n'umwangavu ku munsi w'ibabi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ibyose"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yakoreye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "kubw'itegeko rye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndetse na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umwangavu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "w'ibabi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:09:13.558427337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "N'agahinga ku isi: araza abona umujinya n'umwijima, umwijima w'agahinda, n'umwijima mukaze usenywe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "n'agahinga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ku isi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "araza abona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "araza"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "umujinya"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "n'umwijima"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "w'agahinda"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "n'umwijima mukaze"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "usenywe"
+    }
+  ],
+  "timestamp": "2026-09-07T14:45:32.891050816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Noahi yacereketse kandi ⟨ni⟩ indwi andi iminsi, maze yongera kohereza ⟨את⟩ iyoni muvwuye mu rwato.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "yacereketse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andi"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yongera"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kohereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyoni"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "iyoni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uvuye"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "mu rwato"
+    }
+  ],
+  "timestamp": "2026-09-07T07:36:54.236139760Z",
+  "model": "glm-5.3"
+}

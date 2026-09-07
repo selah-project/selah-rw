@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ariko ntibumvise, ahubwo bakomeje ⟨את⟩ ijosi ryabo nk'ijosi ry'abakurambere babo, aba atabyizeye bwa Yahwe, Elohimu wabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "bakomeje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijosi ryabo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ijosi ryabo"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "nk'ijosi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ry'abakurambere babo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ata"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "abyizeye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bwa Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T14:28:31.720806904Z",
+  "model": "glm-5.3"
+}

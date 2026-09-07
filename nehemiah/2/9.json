@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Naje kuri ba pahawa b'i ruhande rwa yombi y'uruzi, maze mbaha ⟨את⟩ ibaruwa rw'umwami; umwami na we yari yohereje hamwe n'abatware b'ingabo n'abarideri.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "naje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "ba pahawa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "b'i ruhande rwa yombi"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "y'uruzi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mbaha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibaruwa rw'umwami"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "ibaruwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rw'umwami"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yari yohereje"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "hamwe nanye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingabo"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "n'abarideri"
+    }
+  ],
+  "timestamp": "2026-09-07T22:05:51.029764734Z",
+  "model": "glm-5.3"
+}

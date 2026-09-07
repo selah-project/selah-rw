@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Yahwe yarabwiye Moshe ati: Umutware umwe ku munsi, umutware umwe ku munsi, nibazani ⟨את⟩ korubani yabo mu gutangikirwa kw'igicaniro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bwiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Umutware"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "nibazani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korubani yabo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "korubani yabo"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "mu gutangikirwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kw'igicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:47.007912617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Yumviriza, Elohimu, indamutso yanjye, kandi ntihishire ibitego byanjye.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Yumviriza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "indamutso yanjye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "hishire"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ibitego byanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:24:54.796667623Z",
+  "model": "glm-5.3"
+}

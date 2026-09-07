@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Maze yazaniye ⟨את⟩ inkabi y'icyaha; Aharoni n'abana be barashyize ⟨את⟩ intoki zabo ku mutwe w'inkabi y'icyaha.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yazaniye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkabi y'icyaha"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "y'icyaha"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "barashyize"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "n'abana be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intoki zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "intoki zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "y'icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T09:36:07.432612258Z",
+  "model": "glm-5.3"
+}

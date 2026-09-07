@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Afunga amazi mu bicu bye bikomeye, kandi igicu ntikaturika munzi yabyo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "Afunga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "mu bicu bye bikomeye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi... nti-"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "katurika"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "igicu"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "munzi yabyo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:33:10.154814165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze nyuma yiwe Elonu w'i Zevuluni yacire iteka ⟨את⟩ Yisraeli, kandi yacire iteka ⟨את⟩ Yisraeli imyaka icumi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yacire iteka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yiwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elonu"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "w'i Zevuluni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "yacire iteka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T21:28:59.289041803Z",
+  "model": "glm-5.3"
+}

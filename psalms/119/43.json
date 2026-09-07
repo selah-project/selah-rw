@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Kandi ntukureho mu kanjye ijambo ry'ukuri burundu; kuko nizeye ibyemezo byawe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kandi ntuke"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ukureho"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "mu kanjye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ry'ukuri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "kw'ibyemezo byawe"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "nizeye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:49:11.142135476Z",
+  "model": "glm-5.3"
+}

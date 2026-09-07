@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Arabwira abahungu be ati: Nimufate ifashi kuri njye ⟨את⟩ indogobe. Maze bayifata ifashi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Arabwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Nimufate ifashi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indogobe"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "indogobe"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "bayifata ifashi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:35:17.368295683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Muri uwo munsi Adonayi, Yahwe Tsevaoti, yahamagaje kurira no gusegura, no kumitana, no kuzinga ishakiro.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muri uwo munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "kurira"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "no gusegura"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "no kumitana"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "no kuzinga"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ishakiro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:48.853969466Z",
+  "model": "glm-5.3"
+}

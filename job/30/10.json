@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Barananga, barakuye kure nanjye, kandi ku buso bwanjye nti bashikiriye kurakira amacandwe.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Barananga"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "barakuye kure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nanjye"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "kandi ku buso bwanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "bashikiriye ⟨kurakira⟩"
+    },
+    {
+      "surface": "רק",
+      "gloss": "amacandwe"
+    }
+  ],
+  "timestamp": "2026-09-07T19:34:46.038065460Z",
+  "model": "glm-5.3"
+}

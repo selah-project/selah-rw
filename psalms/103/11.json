@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 103,
+  "translation": "Dore, nk'uko ijuru riri hejuru y'isi, ni ko hesedi yiwe iracyera ku bamutinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dore"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "nk'uburebure"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "iracyera"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedi yiwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamutinya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:41:46.047655037Z",
+  "model": "glm-5.3"
+}

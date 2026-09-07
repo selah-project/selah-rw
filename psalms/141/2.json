@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 141,
+  "translation": "Ihatirwe isabishyo ryanjye nk'ubhumbo imbere yawe; uko kwibyaza amaboko yanjye nk'igitambo cy'igiceri.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Ihatirwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isabishyo ryanjye"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ubhumbo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "uko kwibyaza"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "amaboko yanjye"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "igitambo cya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "igiceri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:55:27.700116603Z",
+  "model": "glm-5.3"
+}

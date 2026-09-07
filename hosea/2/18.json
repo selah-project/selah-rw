@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "hosea 2:18",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Byeza bibeho ku wa uwo munsi, amajambo ya Yahwe: uzanshira izina Ishi (umugabo wanjye), kandi ntuzongera kunshira izina Baoli (shebuja wanjye).",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Byeza bibeho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "amajambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "uzanshira izina"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "Ishi (umugabo wanjye)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nt(u)-"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "kunshira izina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨n-⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kongera"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "Baoli (shebuja wanjye)"
+    }
+  ],
+  "timestamp": "2026-09-07T17:31:21.533668211Z",
+  "model": "glm-5.3"
+}

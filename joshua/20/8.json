@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi ku rindi handi rwa Yorudani, i Yeriho mu burasirazuba, bahawe ⟨את⟩ Betseri mu bugaragwa, mu bwanwa, mu gice cya Rubeni; na ⟨את⟩ Raamoti mu Giladi, mu gice cya Gadi; na ⟨את⟩ Golani mu Bashani, mu gice cya Manasse.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "Kandi ku rindi handi"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "rwa Yorudani"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "i Yeriho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "mu burasirazuba"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bahawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betseri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betseri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu bugaragwa"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "mu bwanwa"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mu gice cya"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Raamoti"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamoti"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "mu Giladi"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mu gice cya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Golani"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golani"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "mu Bashani"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mu gice cya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    }
+  ],
+  "timestamp": "2026-09-07T11:44:32.192788646Z",
+  "model": "glm-5.3"
+}

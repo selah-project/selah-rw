@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umwana wanjye, iyo abahonyi baguhamya, ntuhitamo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Umwana wanjye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "baguhamya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "abahonyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uhitamo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:59:05.400272506Z",
+  "model": "glm-5.3"
+}

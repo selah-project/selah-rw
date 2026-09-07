@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Nta cyo azagarukamo nanone ku nzu ye; nti⟨ni⟩ umuhamwe we umuzi nanone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "azagarukamo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ku nzu ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "umuhamwe we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:20:19.488667989Z",
+  "model": "glm-5.3"
+}

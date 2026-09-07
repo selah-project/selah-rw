@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 90,
+  "translation": "Iminsi y'imyaka yacu muri yo ⟨ni⟩ mirongo irindwi y'imyaka, kandi iyo ari ingufu, mirongo umunani y'imyaka; ariko ubwibone bwabo ⟨ni⟩ umurimo n'ububabaro, ko ihutira kuribwa kandi turyoha.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Iminsi y'"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "imyaka yacu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri yo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mirongo irindwi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "y'imyaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kandi iyo ari"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ingufu"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "mirongo umunani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "y'imyaka"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ubwibone bwabo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umurimo"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "n'ububabaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ihutira kuribwa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ihutira"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "kandi turyoha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:20.643478335Z",
+  "model": "glm-5.3"
+}

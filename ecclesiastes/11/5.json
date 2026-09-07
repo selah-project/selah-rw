@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Nk'uko utazi inzira y'umuyaga, cyangwa uko amagufwa yiyunganira mu nda yuzuye, niko ntiuzamenya ⟨את⟩ igikorwa cy'Elohimu, uko yakora ⟨את⟩ byose.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nk'uko"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "uta"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "-zi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "y'umuyaga"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "nk'amagufwa"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "niko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "uzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igikorwa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cy'Elohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:12.281082402Z",
+  "model": "glm-5.3"
+}

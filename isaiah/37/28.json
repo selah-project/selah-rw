@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Nazi icyaraho cyawe, n'ukuva kwawe, n'ukuza kwawe, na ⟨את⟩ kurakara kwawe kuri njye.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "icyaraho cyawe"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "n'ukuva kwawe"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "n'ukuza kwawe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Nazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurakara kwawe"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kurakara kwawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:43.025275652Z",
+  "model": "glm-5.3"
+}

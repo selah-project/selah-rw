@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Gusa uko ⟨את⟩ igisunzu na ⟨את⟩ inyamabere bibiribwa, ni ko uzarya; udasukuye n'usukuye bazarya hamwe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Gusa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bibiribwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igisunzu"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "igisunzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyamabere"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "inyamabere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni ko"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "uzarya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "udasukuye"
+    },
+    {
+      "surface": "ו הטהור",
+      "gloss": "n'usukuye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bazarya"
+    }
+  ],
+  "timestamp": "2026-09-07T10:58:18.999245292Z",
+  "model": "glm-5.3"
+}

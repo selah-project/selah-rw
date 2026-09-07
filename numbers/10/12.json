@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze abana ba Yisraeli batangiye ku nzira z'urugendo rwabo, bava mu butayu bwa Sinayi, maze igicucu cyaguye mu butayu bwa Parani.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "batangiye urugendo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ku nzira z'urugendo rwabo"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "bwa Sinayi"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "cyaguye"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "igicucu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "bwa Parani"
+    }
+  ],
+  "timestamp": "2026-09-07T10:08:39.897982354Z",
+  "model": "glm-5.3"
+}

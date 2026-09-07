@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Kwa kohenu wa Midiyani hari abakobwa irindwi; baza bazuruye amazi, bazuzuye ⟨את⟩ ibibero ngo bunyeshe intama se wabo.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kwa kohenu"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midiyani"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abakobwa"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "baza"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "bazuruye amazi"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "bazuzuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibibero"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "ibibero"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ngo bunyeshe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "se wabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:34:53.948723825Z",
+  "model": "glm-5.3"
+}

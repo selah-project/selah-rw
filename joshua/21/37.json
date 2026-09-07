@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemoti na ⟨את⟩ ubwatsi bwayo, na ⟨את⟩ Mefaati na ⟨את⟩ ubwatsi bwayo — imigi ine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwatsi bwayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ubwatsi bwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mefaati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwatsi bwayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ubwatsi bwayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "imigi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:21.068629213Z",
+  "model": "glm-5.3"
+}

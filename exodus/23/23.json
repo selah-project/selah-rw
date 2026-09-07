@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Uko umutumwa wanjiri azagenda imbere yanyu, azabazanira kuri Abemori, na Baheti, na Baperizi, na Bakeneani, Ahiwi, na Bayevusi, maze nzabazimisha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uko"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "azagenda"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "umutumwa wanjiri"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imbere yanyu"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "azabazanira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abemori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na Baheti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na Baperizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "na Bakeneani"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ahiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na Bayevusi"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "nzabazimisha"
+    }
+  ],
+  "timestamp": "2026-09-07T08:59:03.171014115Z",
+  "model": "glm-5.3"
+}

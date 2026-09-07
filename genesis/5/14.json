@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iminsi yose y'ubuzima bwa Keyinani yari imyaka cumi n'amajana cyenda, hanyuma arapfa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Iminsi y'ubuzima"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keyinani"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "n'amajana cyenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "arapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T21:08:49.440599040Z",
+  "model": "glm-5.3"
+}

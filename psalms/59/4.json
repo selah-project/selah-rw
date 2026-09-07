@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Dore barimo barindura nefeshi yanjye; ab'inkomezi barateranyirize ungaho — si umwanzuro wanjye, na si icyaha cyanjye, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "barimo"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "barindura"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "barateranyirize"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ungaho"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ab'inkomezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "umwanzuro wanjye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "icyaha cyanjye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:32.528361674Z",
+  "model": "glm-5.3"
+}

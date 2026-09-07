@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Aratera ⟨את⟩ Moabu, maze Moabu ahabwa kuba abagaragu ba Dawidi, batanga im bushye.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "aratera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "abaho"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ba Dawidi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "batanga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "imbushye"
+    }
+  ],
+  "timestamp": "2026-09-07T20:39:43.421959181Z",
+  "model": "glm-5.3"
+}

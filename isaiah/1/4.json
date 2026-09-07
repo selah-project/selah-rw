@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Yabi! igihugu cy'ibyaha, abantu barimo ibyaha bikomeye, urubyaro rw'abakora ibibi, abana barimo kurimbura: basize ⟨את⟩ Yahwe, batsiye ⟨את⟩ Utagatifu w'Yisraeli, bagiye inyuma.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Yabi!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "cy'ibyaha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "barimo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ibyaha bikomeye"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urubyaro"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "rw'abakora ibibi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "barimo kurimbura"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "basize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "batsiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utagatifu w'Yisraeli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Utagatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "w'Yisraeli"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "bagiye"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "inyuma"
+    }
+  ],
+  "timestamp": "2026-09-07T14:39:40.599611425Z",
+  "model": "glm-5.3"
+}

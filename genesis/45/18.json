@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 45,
+  "translation": "Mfate ⟨את⟩ databuja wanyu na ⟨את⟩ ingo zanyu, muziture iwanjye, maze ndabaha ⟨את⟩ ibyiza byo mu butaka bwa Mitsrayimu, mukarye ⟨את⟩ ibinani by'ubutaka.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "mfate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "databuja wanyu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "databuja wanyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ingo zanyu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ingo zanyu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "muziture"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndabaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyiza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ibyiza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bwa Mitsrayimu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mukarye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibinani"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ibinani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ubutaka"
+    }
+  ],
+  "timestamp": "2026-09-07T08:29:10.301371593Z",
+  "model": "glm-5.3"
+}

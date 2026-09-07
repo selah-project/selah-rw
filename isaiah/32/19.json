@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Kandi urubura ruzagwa mu kugwa kw'ishyamba, mu bishanga igisagara kizashyira hasi.",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "urubura ruzagwa"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "mu kugwa kw'"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ishyamba"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "mu bishanga"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "kizashyira hasi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "igisagara"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:17.129312944Z",
+  "model": "glm-5.3"
+}

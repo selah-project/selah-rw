@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Eli ntabwo ari umuntu ngo yakwirega, atari na umwana w'umuntu ngo ahindure imitekerereze ye. Yavuze — none ntitayakora? Yabwiye — none ntitabishyira mu ngiro?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "kwirega"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "hindura imitekerereze ye"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntitaba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntitaba"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "shyira mu ngiro"
+    }
+  ],
+  "timestamp": "2026-09-07T10:28:55.130312485Z",
+  "model": "glm-5.3"
+}

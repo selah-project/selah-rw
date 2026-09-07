@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Ariko wowe, Yahwe, uri hejuru mu iteka ryose.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ariko wowe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "uri hejuru"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mu iteka ryose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:56.294457603Z",
+  "model": "glm-5.3"
+}

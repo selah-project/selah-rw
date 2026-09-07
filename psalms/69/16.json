@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Ntunsibe urwunge rw'amazi, kandi ntunyamire ubujoro, ntiyufunze ku njye akanwa kayo — urwobo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ntunsibe"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "urwunge"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rw'amazi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ntunyamire"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ubujoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ntiyufunze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "באר",
+      "gloss": "urwobo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "akanwa kayo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:04.734032942Z",
+  "model": "glm-5.3"
+}

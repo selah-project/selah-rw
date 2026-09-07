@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Umupfakazi wese n'impfubyi — ntimuzugarije.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "umupfakazi"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "n'impfubyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "muzugarije"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.001366304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Igihugu cy'ingano n'ibyumbu, n'iminogezo n'ibitonzi n'indenge, igihugu cy'ibiti by'amazeti n'ubuki.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Igihugu"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "cy'ingano"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "n'ibyumbu"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "n'iminogezo"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "n'ibitonzi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "n'indenge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "זית",
+      "gloss": "cy'ibiti by'amazeti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "y'amazeti"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "n'ubuki"
+    }
+  ],
+  "timestamp": "2026-09-07T10:52:31.294858423Z",
+  "model": "glm-5.3"
+}

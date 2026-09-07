@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Kuko ndazi ko indaha zanyu ziri nyinshi, n'ibyaha byanyu bikomeye: muhunga inyangamugayo, bafata indonke, n'abakene barangiza mu munwa w'umujyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kubera ko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyinshi"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "indaha zanyu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "n'...bikomeye"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ibyaha byanyu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "muhunga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "inyangamugayo"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "indonke"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "n'abakene"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "mu munwa w'umujyi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "barangiza"
+    }
+  ],
+  "timestamp": "2026-09-07T17:41:11.988566723Z",
+  "model": "glm-5.3"
+}

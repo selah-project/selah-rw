@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Elazaru yabyaye ⟨את⟩ Pinehasu; Pinehasu yabyaye ⟨את⟩ Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaru"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehasu"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasu"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasu"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-09-07T20:31:48.471681161Z",
+  "model": "glm-5.3"
+}

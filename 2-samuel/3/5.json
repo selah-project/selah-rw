@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Na uwa gatandatu Yitreamu (Yitereamu), wa Egela (Egira) umugore wa Dawidi (Davide); aba ni bo bavutse kuri Dawidi muri Heburonu (Ebuloni).",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "na uwa gatandatu"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitreamu"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "wa Egela"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bavutse"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuri Dawidi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "muri Heburonu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:59:26.564383215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Mu maso yawe gusa ⟨ni⟩ ho uzareba, kandi uzabona igihembo cy'inkozi z'ibibi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mu maso yawe"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "uzareba"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "igihembo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cy'inkozi z'ibibi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzabona"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:59.672384701Z",
+  "model": "glm-5.3"
+}

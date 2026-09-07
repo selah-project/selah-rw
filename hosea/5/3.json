@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Jyewe narazi Efarayimu, na Isirayeli ntibanshobora kunyihisha; ko none ubu, Efarayimu, wagejeje ubusambanyi, Isirayeli yaranduye.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jyewe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "narazi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efarayimu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Isirayeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kunyihisha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri jyewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none ubu"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "wagejeje ubusambanyi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efarayimu"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "yaranduye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeli"
+    }
+  ],
+  "timestamp": "2026-09-07T21:50:47.035142371Z",
+  "model": "glm-5.3"
+}

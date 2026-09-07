@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Umuzigo w'ubutayu bw'inyanja. Nk'imiyaga ihindagurika mu Négebu igenda ihura, ivuye mu butayu, ivuye mu gihugu giteye ubwoba.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umuzigo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ubutayu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bw'inyanja"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "nk'imiyaga ihindagurika"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "mu Négebu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "igenda ihura"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ivuye mu butayu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "izana"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ivuye mu gihugu"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "giteye ubwoba"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:59.550404340Z",
+  "model": "glm-5.3"
+}

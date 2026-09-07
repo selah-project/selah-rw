@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Nimusiga ⟨את⟩ Yahwe mugakorera imana z'amahanga, we azagaruka akabakorera nabi maze azabazimiza ⟨את⟩ mwe, nyuma y'uko yabagiriye neza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nimu-"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "musiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mugakorera"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "z'amahanga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "azagaruka"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "akabakorera nabi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "azabazimiza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwe",
+      "marks": "mwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'uko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "yabagiriye neza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:47:33.084986852Z",
+  "model": "glm-5.3"
+}

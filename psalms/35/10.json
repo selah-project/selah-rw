@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Amagufwa yanjye yose azavuga ati: Yahwe, ndi ungana nawe, wakize umunyabufombo kuri umunyambaraga umurengaho, umunyabufombo n'umukene mu ruhande rw'uwibagir'ibye?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "Amagufwa yanjye"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "azavuga ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ungana nawe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wakize"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umunyabufombo"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "kuri umunyambaraga umurengaho"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uye umurenga"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "n'umunyabufombo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "n'umukene"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "mu ruhande rw'uwibagir'ibye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:16:25.887256427Z",
+  "model": "glm-5.3"
+}

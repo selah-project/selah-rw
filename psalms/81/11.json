@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Jewe ⟨ni⟩ Yahwe, Elohimu wawe, wakuzamuye mu gihugu cya Mitsrayimu (Igiputa): rangiza umunwa wawe, maze ndawuzura.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "wakuzamuye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Igiputa)"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "rangiza"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umunwa wawe"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "maze ndawuzura"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:12.023141682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Kuraho amaso yawe kuri njye, kugira ngo ndakiranuka, mbere y'uko ngenda kandi ntagihari.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Kuraho (amaso)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "kugira ngo ndakiranuka"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere y'uko"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngenda"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "kandi ntagihari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:11.438056252Z",
+  "model": "glm-5.3"
+}

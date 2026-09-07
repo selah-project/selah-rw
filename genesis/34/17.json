@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Ariko iyo mutumva, ko mudakatwa, tuzafata ⟨את⟩ umukobwa wacu maze tugenda.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mutumva"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tureba"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ko mudakatwa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "tuzafata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umukobwa wacu"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "umukobwa wacu"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "maze tugenda"
+    }
+  ],
+  "timestamp": "2026-09-07T08:12:15.794592642Z",
+  "model": "glm-5.3"
+}

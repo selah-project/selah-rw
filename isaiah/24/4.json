@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Isi irarira, irahwahwa; isi yose iragomba, irahwahwa; abo hejuru y'isi — aba rubanda b'isi — baragomba.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "irarira"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "irahwahwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "iragomba"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "irahwahwa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi yose"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "baragomba"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hejuru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aba rubanda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:02:01.768361723Z",
+  "model": "glm-5.3"
+}

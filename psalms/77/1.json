@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ku mukuru w'abazuri b'indirimbo, ku bw'a Yedutunu; indirimbo ya Asafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku mukuru w'abazuri b'indirimbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'a"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutunu"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:32:16.660555184Z",
+  "model": "glm-5.3"
+}

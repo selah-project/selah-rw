@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 119,
+  "translation": "Amategeko yawe bambwiza ubwenge kurusha abanzi banjye, kuko ari iteka kumwe nanjye.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "kurusha abanzi banjye"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "bambwiza ubwenge"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "amategeko yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumwe nanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:58.302453417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Kumenyesha hesedi ⟨urukundo rw'ubudahemuka⟩ yawe mu gitondo, n'ukudahemuka kwawe mu nijoro.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Kumenyesha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "n'ukudahemuka kwawe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mu nijoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:57.996320455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze abashyira ⟨את⟩ bo mu nzigo, mu nzu y'umutware w'abatabazi, mu nzu y'igifungo — aho Yosefu yari afungwe iyo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "abashyira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mu nzigo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umutware"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "w'abatabazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "y'igifungo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "afungwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:20:00.105745850Z",
+  "model": "glm-5.3"
+}

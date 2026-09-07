@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze Yisraeli yose yajyaga kwa Pelishtimu, kugira ngo buri muntu yongeshe ⟨את⟩ isuka ye, na ⟨את⟩ agacuro ke, na ⟨את⟩ agahembe ke, na ⟨את⟩ isuka ye nini.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Maze ... yajyaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kwa Pelishtimu"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "kugira ngo yongeshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isuka ye"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "isuka ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agacuro ke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "agacuro ke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agahembe ke"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "agahembe ke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isuka ye nini"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "isuka ye nini"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:51.667971414Z",
+  "model": "glm-5.3"
+}

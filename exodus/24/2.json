@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Maze Moshe wibwe azegera kwa Yahwe, ariko bo ntibazegera, n'abantu ntibazamuka iwe.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "azegera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wibwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "bazegera"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "n'abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bazamuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:00:26.200058681Z",
+  "model": "glm-5.3"
+}

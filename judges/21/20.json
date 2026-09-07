@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Barategetse ⟨את⟩ abahungu ba Beniyamini bati: Nimugende, mukanabira mu mirima y'imizabibu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "barategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu ba Beniyamini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ba Beniyamini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nimugende"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "mukanabira"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "mu mirima y'imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T12:17:55.846879006Z",
+  "model": "glm-5.3"
+}

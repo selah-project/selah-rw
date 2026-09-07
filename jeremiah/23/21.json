@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ntabwo nakoze ⟨את⟩ abahanuzi, ariko baracye; ntabwo nababwiye, ariko bahannye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahanuzi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "abahanuzi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "baracye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nabwiye"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ariko bo"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "bahannye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:43:07.867969845Z",
+  "model": "glm-5.3"
+}

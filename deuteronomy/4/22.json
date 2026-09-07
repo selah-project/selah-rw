@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Ko jye nzapfa mu isi iyi, nta nzareba ⟨את⟩ Yardeni; mwe muzareba mukayiture ⟨את⟩ isi nziza iyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jye"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nzapfa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu isi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nzareba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "muzareba"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mukayiture"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:49:08.618153243Z",
+  "model": "glm-5.3"
+}

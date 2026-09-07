@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Bityo rero abakora ibibi ntibazahaguruka mu itangwa, ndetse n'abanyabyaha mu itsinda ry'abagororutsi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Bityo rero ⟨kubera ibyo⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "-bazahaguruka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abakora ibibi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mu itangwa"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "n'abanyabyaha"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mu itsinda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ry'abagororutsi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:11.768371270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Ravshakehu (Rabushake) yasubiye maze abona ⟨את⟩ umwami w'Ashuru (Asiriya) arwana na Libuna; kuko yumvise ko yagiye ava i Lakishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubiye"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakehu (Rabushake)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami w'Ashuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "w'Ashuru (Asiriya)"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "arwana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yumvise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "yagiye ava"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "i Lakishi"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:43.905561768Z",
+  "model": "glm-5.3"
+}

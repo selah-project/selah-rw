@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Elohimu yabwiye Bilamu ⟨ati⟩: Ntugende na bo, kandi ntuvume ⟨את⟩ abo bantu, kuko ⟨ari⟩ bo barahirwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gende"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "vume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo bantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abo bantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "barahirwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:25:48.255636421Z",
+  "model": "glm-5.3"
+}

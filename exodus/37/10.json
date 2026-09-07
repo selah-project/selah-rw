@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Yakoze ⟨את⟩ imeza mu biti bya shitimu: uburebure bwayo ama abiri (igipimo cy'akaboko), ugari bwayo ama rimwe, ubuhagarike bwayo ama na kimwe cya kabiri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yakoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "imeza"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mu biti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ama abiri"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uburebure bwayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ugari bwayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na kimwe cya kabiri"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ubuhagarike bwayo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:18:36.633000790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 135,
+  "translation": "Wakubise ibibanza aba mbere babi Mitsrayimu, uva ku muntu kugeza ku nyamaswa.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Wakubise"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "abana ba mbere"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "uva ku muntu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ku nyamaswa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:54:02.503163729Z",
+  "model": "glm-5.3"
+}

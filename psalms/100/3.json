@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 100:3",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 100,
+ "translation": "Menyamo ko Yahwe ni we Eli; ni we waduremye, si twebwe; turi abantu be n'intama zo mu nturage ze.",
+ "tokens": [
+  {
+   "surface": "דעו",
+   "gloss": "Menyamo"
+  },
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ni we"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "ni we"
+  },
+  {
+   "surface": "עשנו",
+   "gloss": "waduremye"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "si"
+  },
+  {
+   "surface": "אנחנו",
+   "gloss": "twebwe"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "abantu be"
+  },
+  {
+   "surface": "וצאן",
+   "gloss": "n'intama"
+  },
+  {
+   "surface": "מרעיתו",
+   "gloss": "zo mu nturage ze"
+  }
+ ],
+ "timestamp": "2026-09-07T18:42:47.532144633Z",
+ "model": "glm-5.3"
+}

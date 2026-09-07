@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 10:23",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Baruka baramufata aho, ahagara imbere y'abantu bose; arebwa kurusha abantu bose kuva ku bikumu bye no hejuru y'ibyo.",
+  "tokens": [
+    {
+      "surface": "וירצו",
+      "gloss": "baruka"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "baramufata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ahagara imbere"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "arebwa kurusha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "משכמו",
+      "gloss": "kuva ku bikumu bye"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "no hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T12:28:36.221977967Z",
+  "model": "glm-5.3"
+}

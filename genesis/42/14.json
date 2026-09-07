@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 42,
+  "translation": "Yosefu nababwiye ati: Ni uwo nari mbabwiriye nti: mwe muri indiba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nababwiye"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni uwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nari mbabwiriye"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "mbabwiriye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nti"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "indiba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:21:49.220062903Z",
+  "model": "glm-5.3"
+}

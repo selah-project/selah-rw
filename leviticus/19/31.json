@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ntuvalire kuri abahumbyi b'abapfuye cyangwa kuri abafumu; ntibakenzwe mu kwibywamo icyaha iyo; njye ⟨ni⟩ Yahwe Elohimu yanyu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "valire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "abahumbyi b'abapfuye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "cyangwa kuri"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "abafumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "bakenzwe"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "mu kwibywamo icyaha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimu yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:19.835414211Z",
+  "model": "glm-5.3"
+}

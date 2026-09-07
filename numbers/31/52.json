@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Zahabu yose y'igitunganwa batunganije kwa Yahwe yari shekele ibihumbi cumi na gatandatu, amajana indwi na mirongo itanu, ivuye kwa ⟨את⟩ bayobozi b'ibihumbi no kwa ⟨את⟩ bayobozi b'amajana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "y'igitunganwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "batunganije"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "gatandatu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "indwi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itanu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ivuye kwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bayobozi"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "b'ibihumbi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "no kwa ⟨את⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bayobozi"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "b'amajana"
+    }
+  ],
+  "timestamp": "2026-09-07T10:36:59.824983580Z",
+  "model": "glm-5.3"
+}

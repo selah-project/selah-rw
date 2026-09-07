@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ababona bose banseka amaganya; basunura iminwa, bakangukanguza umutwe, bati:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ababona"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "banseka amaganya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨njye⟩"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "basunura"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "iminwa"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "bakangukanguza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:19.274519088Z",
+  "model": "glm-5.3"
+}

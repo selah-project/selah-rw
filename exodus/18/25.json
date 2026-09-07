@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Moshe (Mose) yatoranye abagabo b'ingufu mu Yisraeli (Isirayeli) yose, maze abaha kuba ⟨את⟩ abatware ku bantu: abatware b'ibihumbi, abatware b'amagana, abatware b'imirongo itanu, n'abatware b'icumi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "yatoranye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "b'ingufu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli yose"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maze abaha kuba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abatware"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware b'"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ibihumbi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware b'"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amagana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abatware b'"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "imirongo itanu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "n'abatware b'"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "icumi"
+    }
+  ],
+  "timestamp": "2026-09-07T21:14:02.001022967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Dawidi n'Yisraeli yose bajyaga i Yerushalayimu (Yerusalemu) — ni yo Yevusu (Yebusi); n'aho hari abayevusi (abayebusi), abatuye isi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bajyaga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "n'… yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yerushalayimu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni yo"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevusu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "n'aho"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "abayevusi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abatuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:36:12.555552528Z",
+  "model": "glm-5.3"
+}

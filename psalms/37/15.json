@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Umupanga wabo uzinjira mu mutima wabo, amakobwa yabo nacyo azameneka.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "umupanga wabo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "uzinjira"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mutima wabo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "amakobwa yabo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "azameneka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:38.469505843Z",
+  "model": "glm-5.3"
+}

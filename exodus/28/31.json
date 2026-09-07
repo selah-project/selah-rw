@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Uzakora ⟨את⟩ ikanzu y'efodi yose y'ubururu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikanzu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ikanzu"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "y'efodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "y'ubururu"
+    }
+  ],
+  "timestamp": "2026-09-07T09:07:54.396986336Z",
+  "model": "glm-5.3"
+}

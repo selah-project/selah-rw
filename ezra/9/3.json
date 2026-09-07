@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Iyo ndumva ⟨את⟩ ijambo riri, narasize ⟨את⟩ imyambaro yanjye n'urwanzu rwanjye, nkuye umuva wa mutwe wanjye n'iy'isake yanjye, maze naciye intebe mbangamiwe.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Iyo ndumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo riri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "riri"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "narasize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imyambaro yanjye"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "imyambaro yanjye"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "n'urwanzu rwanjye"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "nkuye"
+    },
+    {
+      "surface": "משער",
+      "gloss": "umuva"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wa mutwe wanjye"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "n'iy'isake yanjye"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "maze naciye intebe"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "mbangamiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T20:20:15.957922756Z",
+  "model": "glm-5.3"
+}

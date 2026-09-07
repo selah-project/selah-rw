@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Uzashyira aha ⟨את⟩ Sanduku ry'ubuhamya, maze uzambika hejuru y'iriya sanduku ⟨את⟩ paroketi ⟨(urwuzi)⟩.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uzashyira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanduku ry'ubuhamya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sanduku"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ry'ubuhamya"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "uzambika"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru ya"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "iriya sanduku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paroketi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroketi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:55.178414472Z",
+  "model": "glm-5.3"
+}

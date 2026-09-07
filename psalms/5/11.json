@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Bareme n'ibyaha, Elohimu; bagwe mu biganiro byabo; mu bwinshi bw'ibyaha byabo barundwe, kuko barwangiriye wowe.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Bareme n'ibyaha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bagwe"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "mu biganiro byabo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu bwinshi"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "ibyaha byabo"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "barundwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "barwangiriye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:04:29.456661580Z",
+  "model": "glm-5.3"
+}

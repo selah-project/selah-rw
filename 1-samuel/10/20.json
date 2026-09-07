@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Maze Shemuweli yegeresheje ⟨את⟩ imiryango yose ya Yisraeli, maze umuryango wa Binyamini uratorwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yegeresheje"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiryango yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "imiryango ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "uratorwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "umuryango wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    }
+  ],
+  "timestamp": "2026-09-07T12:31:40.047940620Z",
+  "model": "glm-5.3"
+}

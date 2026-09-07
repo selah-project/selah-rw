@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ariko iyo udasezerana, nta cyaha kizaba muri wowe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ariko iyo"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "udasezerana"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "isezerano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kizaba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "icyaha"
+    }
+  ],
+  "timestamp": "2026-09-07T11:08:25.386954684Z",
+  "model": "glm-5.3"
+}

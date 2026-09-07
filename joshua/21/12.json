@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Ariko ⟨את⟩ umurima w'umujyi na ⟨את⟩ uturorwo twawo bahanze Kalevu (Kalebu), muhunga wa Yefunehi (Yefuni), nk'ubutunzi bwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umurima w'umujyi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "umurima"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "w'umujyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uturorwo twawo"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "uturorwo twawo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bahanze"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalevu (Kalebu)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "muhunga wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunehi (Yefuni)"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "nk'ubutunzi bwe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:41:33.654612241Z",
+  "model": "glm-5.3"
+}

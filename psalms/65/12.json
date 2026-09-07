@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 65,
+  "translation": "Urwambika ikamba ry'ineza yawe umwaka, inzira zawe ziratobora ibinure.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Urwambika ikamba"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umwaka"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ry'ineza yawe"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "inzira zawe"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ziratobora"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ibinure"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:28.047489705Z",
+  "model": "glm-5.3"
+}

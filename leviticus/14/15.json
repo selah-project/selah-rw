@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Kohenu na we azafata mu rogi cy'amavuta, maze atse mu nkofi ya kohenu ibumoso.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "azafata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "mu rogi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "cy'amavuta"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "maze atse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כף",
+      "gloss": "nkofi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya kohenu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ibumoso"
+    }
+  ],
+  "timestamp": "2026-09-07T21:17:52.680204441Z",
+  "model": "glm-5.3"
+}

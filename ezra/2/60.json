@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Delayah, abana ba Toviyah, abana ba Nekoda — ⟨ni⟩ amajana atandatu na mirongo itanu n'abiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Delayah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviyah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Nekoda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "atandatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo itanu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "n'abiri"
+    }
+  ],
+  "timestamp": "2026-09-07T20:15:35.656021816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Hashize igihe umutumwa wa Yahwe yavugaga aya magambo ⟨את⟩ amagambo aya abana ba Yisraeli bose, abantu barazamuye ⟨את⟩ ijwi ryabo, maze bararira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Hashize"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "igihe yavugaga"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "barazamuye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi ryabo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ijwi ryabo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bararira"
+    }
+  ],
+  "timestamp": "2026-09-07T11:49:16.866786664Z",
+  "model": "glm-5.3"
+}

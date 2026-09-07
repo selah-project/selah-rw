@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Kandi icyaha cy'umukobwa w'abantu banjye cyarenze icyaha cya Sedomu ⟨Sodoma⟩, yahindutse mu kanya gato, kandi amaboko nta yagize imbaraga kuri we.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "kandi cyarenze"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icyaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umukobwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "w'abantu banjye"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "icyaha cya"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomu"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "kanya gato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "yagize imbaraga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "amaboko"
+    }
+  ],
+  "timestamp": "2026-09-07T19:49:38.525523211Z",
+  "model": "glm-5.3"
+}

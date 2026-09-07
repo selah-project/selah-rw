@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 85,
+  "translation": "Ubutabera buzagendera imbere ye, maze buzashyira inzira y'intambwe ze.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ubutabera"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "buzagendera"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "maze buzashyira"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "inzira ya"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "intambwe ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:10.420579454Z",
+  "model": "glm-5.3"
+}

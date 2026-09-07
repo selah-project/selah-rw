@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Kuko umugisha w'iteka ni wo wamushyiriye; umunezeraza mu bwishimo, ⟨את⟩ uruhanga rwawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "wamushyiriye"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "umugisha"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "w'iteka"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "umunezeraza"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mu bwishimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uruhanga rwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uruhanga rwawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:13.390327180Z",
+  "model": "glm-5.3"
+}

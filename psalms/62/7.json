@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 62,
+  "translation": "Uwe gusa ⟨ni⟩ urutare rwanjye n'ubwikiza bwanjye, uruhunde rwanjye; ntitigiswa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Uwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "urutare rwanjye"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "n'ubwikiza bwanjye"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "uruhunde rwanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ntitigiswa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:27:14.650376555Z",
+  "model": "glm-5.3"
+}

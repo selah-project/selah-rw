@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Abana ba Asinah, abana ba Meuni, abana ba Nefisi",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Asinah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meuni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nefisi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:15:38.903295474Z",
+  "model": "glm-5.3"
+}

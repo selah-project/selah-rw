@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Dawidi aravuga ati: Yahwe, Elohimu wa Yisraeli, umugaragariro wawe wumva rwose ko Shauli akeneye kujya i Kelila arimbure umujyi kuri ntumbero yanjye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wumva"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragariro wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "akeneye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kujya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "arimbure"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "kuri ntumbero yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T12:45:39.590266129Z",
+  "model": "glm-5.3"
+}

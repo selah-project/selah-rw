@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ubwibone bwa Yisraeli buhanuye mu maso bwite; ntibagarukiye kwa Yahwe, Elohimu wabo, kandi ntibamushakisha mu byose ibi.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "buhanuye"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubwibone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "mu maso bwite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "baragarukiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimu wabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "bamushakisha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:32:35.429489952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Kandi ntuzambe ku ntambwe ku rubani rwanjye, kugira ngo ibyansi byawe bitagaragare ku rwo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kandi nta-"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "uzambe"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "ku ntambwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "rubani rwanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bigaragare"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ibyansi byawe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ku rwo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:05.865349643Z",
+  "model": "glm-5.3"
+}

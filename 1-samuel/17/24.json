@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Abagabo bose b'Abayisraeli, iyo babonye ⟨את⟩ uwo muntu, barahunze bava imbere ye, maze batinye cyane.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Abayisraeli"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "iyo babonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwo muntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uwo muntu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "barahunze"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "bava imbere ye"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "batinye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    }
+  ],
+  "timestamp": "2026-09-07T12:38:34.277590700Z",
+  "model": "glm-5.3"
+}

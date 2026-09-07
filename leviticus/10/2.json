@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "leviticus 10:2",
+ "book": "leviticus",
+ "lang": "rw",
+ "chapter": 10,
+ "translation": "Umuriro wasohotse kuva imbere ya Yahwe, maze uraziriye ⟨את⟩ bo, bakapfa imbere ya Yahwe.",
+ "tokens": [
+  {
+   "surface": "ותצא",
+   "gloss": "wasohotse"
+  },
+  {
+   "surface": "אש",
+   "gloss": "Umuriro"
+  },
+  {
+   "surface": "מלפני",
+   "gloss": "kuva imbere ya"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ותאכל",
+   "gloss": "uraziriye"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ bo",
+   "marks": "bo"
+  },
+  {
+   "surface": "וימתו",
+   "gloss": "bakapfa"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "imbere ya"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-07T21:17:47.383223873Z",
+ "model": "glm-5.3"
+}

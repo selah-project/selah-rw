@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "genesis 6:22",
+ "book": "genesis",
+ "lang": "rw",
+ "chapter": 6,
+ "translation": "Noachi (Nowa) yarabikoze; uko byose Elohimu yari yamutegetse, ni ko yakoreye.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "yarabikoze"
+  },
+  {
+   "surface": "נח",
+   "gloss": "Noachi"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "uko byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "—"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "yari yamutegetse"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "Noachi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimu"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ni ko"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "yakoreye"
+  }
+ ],
+ "timestamp": "2026-09-07T07:35:49.169853800Z",
+ "model": "glm-5.3"
+}

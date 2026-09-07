@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 55,
+  "translation": "Nimugoroba, na mu gitondo, ndetse na saa sita, nzibanza kandi ndahema, maze Yahwe arumvise ijwi ryanjye.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Nimugoroba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na mu gitondo"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "na saa sita"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nzibanza"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ndahema"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "maze arumvise"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:56:19.177183479Z",
+  "model": "glm-5.3"
+}

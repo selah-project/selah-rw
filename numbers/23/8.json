@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Ndavura iki, nyamara Eli ntaravuye? Ndagaya iki, nyamara Yahwe ntagaye?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ndavura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ntaravuye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ndagaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ntagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:28:37.755678632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 52,
+  "translation": "Nzakusingiza mu iteka, ko wakoze ibi; kandi nzategereza izina ryawe, ko ⟨ni⟩ cyiza imbere y'abeshi bawe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Nzakusingiza"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mu iteka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "nzategereza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "izina ryawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cyiza"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "y'abeshi bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:23:34.791175419Z",
+  "model": "glm-5.3"
+}

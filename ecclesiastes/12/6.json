@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Kugeza aho umugozi w'ifeza utaravanutse, n'agakombe k'zahabu katarasenyutse, n'urwungu utaravunikitse ku masoko, n'uruziga utaravunitse mu gisima.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kugeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "utarakuwe"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "umugozi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "w'ifeza"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "izaravana"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "agakombe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "k'zahabu"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "izaravunitse"
+    },
+    {
+      "surface": "כד",
+      "gloss": "urwungu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "masoko"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "izaravunika"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "uruziga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "igisima"
+    }
+  ],
+  "timestamp": "2026-09-07T19:57:45.584801078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Dawidi yafashe ⟨את⟩ intama zose n'inka, baraziritse imbere y'ibyo bitungwa; baravugise bati: Uyu ⟨ni⟩ iminyago ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intama zose n'inka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "intama"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "n'inka"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "baraziritse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "y'ibitungwa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baravugise bati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Uyu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "iminyago"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-07T12:53:05.946974496Z",
+  "model": "glm-5.3"
+}

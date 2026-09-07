@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 81,
+  "translation": "Eli y'ahandi ntizaba muri wowe, kandi ntuzubamire kuri Eli y'igihugu cy'amahanga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izaba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri wowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "זר",
+      "gloss": "y'ahandi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "uzubamire"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kuri Eli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "y'igihugu cy'amahanga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:12.022946949Z",
+  "model": "glm-5.3"
+}

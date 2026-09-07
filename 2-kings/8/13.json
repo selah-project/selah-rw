@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 8:13",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Chazaeli na we yaravuze ati: Ese ni iki, umugaragu wawe ⟨ni⟩ imbwa, ko yakora iki gikorwa gikuru? Elisha na we yishuye ati: Yahwe yanyerekeye ⟨את⟩ wowe ko uzaba umwami w'Aramu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze ati"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ese"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni iki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yakora"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gikorwa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gikuru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yishuye ati"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "yanyerekeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wowe (ko uzaba umwami w'Aramu)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-07T14:13:09.187895159Z",
+  "model": "glm-5.3"
+}

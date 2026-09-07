@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ itaamba y'ingabo yacitse mu bice byayo; Moshe yakokeye mu muriro ⟨את⟩ umutwe na ⟨את⟩ ibice na ⟨את⟩ ibimemyi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "itaamba y'ingabo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "itaamba y'ingabo"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "yacitse mu bice"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "mu bice byayo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yakokeye mu muriro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umutwe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibice"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ibice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibimemyi"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ibimemyi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:35:03.725539946Z",
+  "model": "glm-5.3"
+}

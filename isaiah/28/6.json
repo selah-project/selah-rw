@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "n'umwuka w'urubanza ku umunyabitabo w'urubanza, n'imbaraga ku abahindura intambara ku irembo.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "n'umwuka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "w'urubanza"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ku umunyabitabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "urubanza"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "n'imbaraga ku"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "abahindura"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "irembo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:01:45.459548388Z",
+  "model": "glm-5.3"
+}

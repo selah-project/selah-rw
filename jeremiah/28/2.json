@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Uko ni ko Yahwe Tsevaoti, Elohimu wa Yisraeli, avuze ati: Nasembuye ⟨את⟩ igikoresho cy'izosi cy'umwami w'i Baveli.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "nasembuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igikoresho cy'izosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igikoresho cy'izosi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    }
+  ],
+  "timestamp": "2026-09-07T16:12:44.510314590Z",
+  "model": "glm-5.3"
+}

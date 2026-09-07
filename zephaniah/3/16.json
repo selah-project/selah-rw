@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Ku munsi uwo bizavugwa kuri Yerushalayimu ati: Ntutinye; Tsiyoni, amaboko yawe ntayagore.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ku munsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bizavugwa"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kuri Yerushalayimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "yagore"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "amaboko yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:54:57.721074935Z",
+  "model": "glm-5.3"
+}

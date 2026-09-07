@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kandi wowe, Yahwe, ntukere kure; Imbaraga zanjye ⟨ni⟩ Zo, ihutira kumpfasha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kandi wowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kere kure"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "Imbaraga zanjye"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kumpfasha"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ihutira"
+    }
+  ],
+  "timestamp": "2026-09-07T18:11:43.275445169Z",
+  "model": "glm-5.3"
+}

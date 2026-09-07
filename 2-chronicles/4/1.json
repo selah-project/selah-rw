@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "2-chronicles 4:1",
+ "book": "2-chronicles",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Yaremye icigwa rya muringa, amaba makumiyabiri uburebure bwawo, na amaba makumiyabiri ubugari bwawo, na amaba icumi ubuhinga bwawo.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "yaremye"
+  },
+  {
+   "surface": "מזבח",
+   "gloss": "icigwa"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "rya muringa"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "makumiyabiri"
+  },
+  {
+   "surface": "אמה",
+   "gloss": "amaba"
+  },
+  {
+   "surface": "ארכו",
+   "gloss": "uburebure bwawo"
+  },
+  {
+   "surface": "ועשרים",
+   "gloss": "na makumiyabiri"
+  },
+  {
+   "surface": "אמה",
+   "gloss": "amaba"
+  },
+  {
+   "surface": "רחבו",
+   "gloss": "ubugari bwawo"
+  },
+  {
+   "surface": "ועשר",
+   "gloss": "na icumi"
+  },
+  {
+   "surface": "אמות",
+   "gloss": "amaba"
+  },
+  {
+   "surface": "קומתו",
+   "gloss": "ubuhinga bwawo"
+  }
+ ],
+ "timestamp": "2026-09-07T22:06:51.548466179Z",
+ "model": "glm-5.3"
+}

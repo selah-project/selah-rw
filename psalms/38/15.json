@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Nagumye nk'umuntu utumva, kandi mu kanwa kwe nta mahana ahari.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nagumye"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "atumva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nta ... ahari"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mu kanwa kwe"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "amahana"
+    }
+  ],
+  "timestamp": "2026-09-07T18:19:28.628008821Z",
+  "model": "glm-5.3"
+}

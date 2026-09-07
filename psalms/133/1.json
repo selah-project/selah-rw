@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 133,
+  "translation": "Indirimbo y'Inyigiko, rya Dawidi. Dore uko byiza n'uko byishime — abavandimwe kubana bose mu bumwe!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Indirimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "y'Inyigiko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "מה",
+      "gloss": "uko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "n'uko"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "byishime"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kubana"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abavandimwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bose"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mu bumwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:59.362028884Z",
+  "model": "glm-5.3"
+}

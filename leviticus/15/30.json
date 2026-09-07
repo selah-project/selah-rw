@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kohenu azakora ⟨את⟩ imwe nk'igicaniro cy'icyaha, na ⟨את⟩ imwe nk'igicaniro cyose; kohenu azatanya ibyaha kuri iwe imbere ya Yahwe, kubera umusemba w'ukuntakuntara kwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "azakora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "igicaniro cy'icyaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "igicaniro cyose"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "azatanya ibyaha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuri iwe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "umusemba"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "w'ukuntakuntara kwe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:44:36.315789328Z",
+  "model": "glm-5.3"
+}

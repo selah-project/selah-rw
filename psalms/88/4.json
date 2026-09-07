@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Kuko nefeshi yanjye yaruzuye n'ibibi; n'ubuzima bwanjye bwaragejeje Sheoli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yaruzuye"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "n'ibibi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "n'ubuzima bwanjye"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "bwaragejeje"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:52.772537761Z",
+  "model": "glm-5.3"
+}

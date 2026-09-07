@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Arvadi, na ⟨את⟩ Tsemari, na ⟨את⟩ Hamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamati"
+    }
+  ],
+  "timestamp": "2026-09-07T20:29:07.534185332Z",
+  "model": "glm-5.3"
+}

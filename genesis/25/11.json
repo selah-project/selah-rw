@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Nyuma y'urupfu rwa Avrahamu, Elohimu yarahaye umugisha ⟨את⟩ Yitsaki umuhungu we, maze Yitsaki atuye i Beri Lahayi Royi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maze"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma y'"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urupfu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "rwa Avrahamu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yarahaye umugisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umuhungu we"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "atuye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "i"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beri"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lahayi"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Royi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:57:05.999977902Z",
+  "model": "glm-5.3"
+}

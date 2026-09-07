@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 57,
+  "translation": "Nzahamagara Elohimu Elyoni (Imana y'ibyiciro byose), Eli uzansoze ⟨ibyerekeye njye⟩.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Nzahamagara"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "uzansoze"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ibyerekeye njye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:36.863090193Z",
+  "model": "glm-5.3"
+}

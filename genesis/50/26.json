@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Yosefu yapfuye afite imyaka ijana na cumi; bamuhinze ⟨we⟩ maze bashingiza ⟨את⟩ ⟨we⟩ mu sanduku, mu Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "afite"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ijana"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na cumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "bamuhinze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨we⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "bashingiza"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "mu sanduku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:26.800938111Z",
+  "model": "glm-5.3"
+}

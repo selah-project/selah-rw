@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Mu by'ukuri none bazavuga bati: Nta mwami dufite, kuko tutatinya ⟨את⟩ Yahwe; na mwami akora iki twe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mu by'ukuri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "none"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bazavuga bati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dufite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tuta-"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "-tinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na mwami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akora"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    }
+  ],
+  "timestamp": "2026-09-07T17:35:28.403512370Z",
+  "model": "glm-5.3"
+}

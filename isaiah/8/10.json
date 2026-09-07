@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Mufate inama, izahonyoka; muvuge ijambo, ntirizahagarara; kandi Eli ari kumwe natwe.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "mufate"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "inama"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "izahonyoka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "muvuge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "rizahagarara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kandi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ari kumwe natwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-07T14:41:41.017481341Z",
+  "model": "glm-5.3"
+}

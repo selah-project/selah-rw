@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Aba ni abana ba Hamu (Kamu), ku muryango wabo, ku ndimi zabo, mu bihugu byabo, mu mahanga yabo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ba Hamu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ku ndimi zabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mu bihugu byabo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mu mahanga yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:52.288118464Z",
+  "model": "glm-5.3"
+}

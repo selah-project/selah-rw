@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 15:1",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Byabaye igitambaro cy'umuryango w'abahungu ba Yehuda, ku muryango wabo, ku ndenge y'Edomu, mu bugaragwa bwa Tsin, mu majyepfo, ku mpera y'Amajyepfo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Byabaye"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "igitambaro"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "cy'umuryango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bahungu ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "indenge"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mu bugaragwa bwa"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "mu majyepfo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku mpera"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "y'Amajyepfo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:36:03.135637210Z",
+  "model": "glm-5.3"
+}

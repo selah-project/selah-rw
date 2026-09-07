@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 86,
+  "translation": "Kuko hesedi yawe ⟨ni⟩ nkuru ku njye, maze warokoye nefeshi yanjye muri Sheoli yo hasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedi yawe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nkuru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku njye"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "maze warokoye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanjye"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "muri Sheoli"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "yo hasi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:36:46.720830630Z",
+  "model": "glm-5.3"
+}

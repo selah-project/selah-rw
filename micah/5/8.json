@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iboko ryawe rizakomekera hejuru y'abansi bawe, kandi abanzi bawe bose bazacibwaho.",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "rizakomekera hejuru"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iboko ryawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hejuru y'"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "abansi bawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kandi bose"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "abanzi bawe"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bazacibwaho"
+    }
+  ],
+  "timestamp": "2026-09-07T17:48:11.740807096Z",
+  "model": "glm-5.3"
+}

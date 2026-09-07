@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "2-samuel 15:15",
+ "book": "2-samuel",
+ "lang": "rw",
+ "chapter": 15,
+ "translation": "Abaja b'umwami baravuze bati bwa umwami: nk'ibyo byose shebuja wacu umwami azahitamo , dore abaja bawe.",
+ "tokens": [
+  {
+   "surface": "ויאמרו",
+   "gloss": "baravuze bati"
+  },
+  {
+   "surface": "עבדי",
+   "gloss": "abaja b'"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "אל",
+   "gloss": "bwa"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "ככל",
+   "gloss": "nk'ibyo byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "יבחר",
+   "gloss": "azahitamo"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "shebuja wacu"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "umwami"
+  },
+  {
+   "surface": "הנה",
+   "gloss": "dore"
+  },
+  {
+   "surface": "עבדיך",
+   "gloss": "abaja bawe"
+  }
+ ],
+ "timestamp": "2026-09-07T13:12:45.453216889Z",
+ "model": "glm-5.3"
+}

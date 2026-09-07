@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Maze ureba mu basoherwe umugore mwiza mu miterere, maze umukunda we, maze umufata kuba umugore wawe.",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "Maze ureba"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "mu basoherwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mu miterere"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "maze umukunda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "we"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "maze umufata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuba umugore wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T11:03:58.651694708Z",
+  "model": "glm-5.3"
+}

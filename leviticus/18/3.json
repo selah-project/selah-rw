@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Nka ibikorwa by'igihugu cya Mitsrayimu, aho mwari muri cyo, ntimubikore; n'ibikorwa by'igihugu cya Kenaani, aho njye ⟨את⟩ mwe nzana nko, ntimubikore; kandi mu mategeko yabo ntimugende.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "nka ibikorwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "by'igihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muri cyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bikore"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "n'ibikorwa by'igihugu cya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu cya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "njye"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nzana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bikore"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "mu mategeko yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mugende"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:37.547867865Z",
+  "model": "glm-5.3"
+}

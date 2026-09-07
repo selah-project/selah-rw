@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Umwuka wo hatse, maze uguma imbere ya Yahwe, ukavuga ati: Ni njye ndamushukisha. Yahwe aramubwira ati: Uko gute?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wo hatse"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "Umwuka"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maze uguma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ukavuga ati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni njye"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "ndamushukisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aramubwira ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aramubwira"
+    },
+    {
+      "surface": "במה",
+      "gloss": "uko gute"
+    }
+  ],
+  "timestamp": "2026-09-07T14:03:37.560405193Z",
+  "model": "glm-5.3"
+}

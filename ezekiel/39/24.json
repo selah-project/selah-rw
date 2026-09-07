@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Ku buryo bwa iskari ryabo n'ibyaha byabo ni ko nabikoze ⟨את⟩ bo, maze ngahisha amaso yanjye kuri bo.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ku buryo bwa iskari ryabo"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "n'ibyaha byabo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nabikoze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ngahisha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "amaso yanjye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T17:22:26.522409529Z",
+  "model": "glm-5.3"
+}

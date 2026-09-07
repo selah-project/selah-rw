@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Eka! Umujyi wari wuzuye abantu wicaye yonyine! Yahindutse nka umupfakazi, we wari munini mu mahanga, umwamikazi mu ntara, yarahindutse umukozi w'ikori!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Eka"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "wicaye"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yonyine"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umujyi"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "wuzuye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "nka umupfakazi"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "munini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mu mahanga"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "umwamikazi"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "mu ntara"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "למס",
+      "gloss": "umukozi w'ikori"
+    }
+  ],
+  "timestamp": "2026-09-07T19:47:42.590676660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Uwo ni Aharoni na Moshe (Mose), Yahwe yababwiye ati: Muvane ⟨את⟩ abana ba Yisraeli (Isirayeli) mu gihugu cya Mitsrayimu (Egiputa), ku ngabo zabo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Uwo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharoni"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moshe (Mose)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yababwiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Muvane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abana ba Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ingabo zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:40.099699396Z",
+  "model": "glm-5.3"
+}

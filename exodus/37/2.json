@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Maze ayihishisha zahabu yera mu ndani no hanze, akagiraho uruziga rwa zahabu ruzengurutswe ⟨ruhamye⟩.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "ayihishisha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mu ndani"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "no hanze"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akagiraho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "uruziga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "rwa zahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ruzengurutswe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:01.743489660Z",
+  "model": "glm-5.3"
+}

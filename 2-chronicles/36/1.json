@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 36,
+  "translation": "Abantu b'igihugu bafata ⟨את⟩ Yehoahazi ⟨את⟩ umwana wa Yoshiahu (Yosia), bamwizinga kuba umwami mu mwanya wa se i Yerushalayimu (Yerusalemu).",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yoshiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "bamwizinga kuba umwami"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mu mwanya wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-07T21:06:37.735467677Z",
+  "model": "glm-5.3"
+}

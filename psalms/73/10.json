@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 73,
+  "translation": "Bityo abantu be basubira hano; amazi yuzuye arakurwamo kuri bo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Bityo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "basubira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu be"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hano"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yuzuye"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "arakurwamo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuri bo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:30:53.758877625Z",
+  "model": "glm-5.3"
+}

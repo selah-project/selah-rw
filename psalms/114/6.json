@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 114,
+  "translation": "Imisozi, ko mubyinaga nk'ibimasa by'ihene, imibumba nk'ibyana by'intama?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Imisozi"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "mubyinaga"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "nk'ibimasa by'ihene"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "imibumba"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "nk'ibyana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "by'intama"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:33.937030219Z",
+  "model": "glm-5.3"
+}

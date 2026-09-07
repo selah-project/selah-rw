@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 32,
+  "translation": "Indyishyo zanjye zimanuke nk'imvura, ijambo ryanjye ryanike nk'inkwa; nk'imbura ku rubyi, no nk'imvura y'imbeho ku byatsi.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "zimanuke"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "nk'imvura"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "indyishyo zanjye"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ryanike"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "nk'inkwa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ijambo ryanjye"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "nk'imbura"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rubyi"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "no nk'imvura y'imbeho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ibyatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:19:12.553999257Z",
+  "model": "glm-5.3"
+}

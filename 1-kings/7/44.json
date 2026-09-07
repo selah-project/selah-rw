@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ inyanja imwe, na ⟨את⟩ inka cumi na zibiri munsi y'inyanja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inyanja imwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "inyanja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inka cumi na zibiri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "cumi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zibiri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "y'inyanja"
+    }
+  ],
+  "timestamp": "2026-09-07T13:35:06.075706119Z",
+  "model": "glm-5.3"
+}

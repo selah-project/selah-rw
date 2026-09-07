@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ni byiza kujya mu nzu y'agahinda kurusha kujya mu nzu y'ibirori, kuko ari yo iherezo ry'abantu bose, maze uwuriho abishyira ku mutima we.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kujya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "y'agahinda"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kurusha kujya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nzu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "y'ibirori"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari yo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "iherezo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu bose"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "maze uwuriho"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "abishyira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mutima we"
+    }
+  ],
+  "timestamp": "2026-09-07T19:55:24.050170863Z",
+  "model": "glm-5.3"
+}

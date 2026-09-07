@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Inzu yera yacu n'ubwiza bwacu, aho abakurambere bacu bakusingiye, yatsindiriwe n'urumuri; ibintu twakundaga byose yahindutse ubutayu.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "yera yacu"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "n'ubwiza bwacu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "bakusingiye"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abakurambere bacu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "yatsindiriwe n'urumuri rwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "urumuri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na byose"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "ibintu twakundaga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yahindutse"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ubutayu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:36:10.690661455Z",
+  "model": "glm-5.3"
+}

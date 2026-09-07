@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 134,
+  "translation": "Shiru Hamaloti. Dore, muhe ⟨את⟩ Yahwe umugisha, we abagaragu bose ba Yahwe, abahagaze mu nzu ya Yahwe mu majoro.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shiru"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Hamaloti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "muhe umugisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abagaragu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "abahagaze"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mu majoro"
+    }
+  ],
+  "timestamp": "2026-09-07T18:52:53.921623882Z",
+  "model": "glm-5.3"
+}

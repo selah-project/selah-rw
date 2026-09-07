@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Niba iminsi ye yagenwe, umubare w'amezi ye uri kuri wewe ⟨את⟩, umupaka we wawugeneye ⟨ni⟩ ko ntagihinda;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "yagenwe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "iminsi ye"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umubare"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "w'amezi ye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "uri kuri wewe"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "umupaka we"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wawugeneye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ntagi-"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "hinda"
+    }
+  ],
+  "timestamp": "2026-09-07T19:27:15.657490034Z",
+  "model": "glm-5.3"
+}

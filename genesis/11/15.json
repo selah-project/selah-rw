@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Shelahi yabayeho nyuma yo kubyara ⟨את⟩ Everi imyaka mirongo itatu n'amajana ane, maze abyara abahungu n'abakobwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yabayeho"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma yo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kubyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "n'ane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amajana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "maze abyara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "n'abakobwa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:25.381716788Z",
+  "model": "glm-5.3"
+}

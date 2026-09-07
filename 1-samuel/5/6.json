@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Intoki ya Yahwe nayo yaremereye ku bantu b'Ashdodi, arabagize ubutayu, arabakubita ⟨את⟩ bo ibimeme ⟨את⟩ Ashdodi na ⟨את⟩ imipaka yayo.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "nayo yaremereye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "Intoki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "abantu b'Ashdodi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "arabagize ubutayu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "arabakubita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bo"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ibimeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdodi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imipaka yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imipaka yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T12:27:22.654661844Z",
+  "model": "glm-5.3"
+}

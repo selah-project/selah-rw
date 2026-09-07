@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 66,
+  "translation": "Kuri we umunwa wanjye warwatumagaho, kandi ururemekane kiri munsi y'ururimi rwanjye.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umunwa wanjye"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "warwatumagaho"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "kandi ururemekane"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "munsi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "y'ururimi rwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:58.286407092Z",
+  "model": "glm-5.3"
+}

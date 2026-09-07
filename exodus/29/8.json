@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ abahungu be uzazegerza, maze ubambikisha ibikoti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abahungu be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uzazegerza"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "maze ubambikisha"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ibikoti"
+    }
+  ],
+  "timestamp": "2026-09-07T09:06:38.630334457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ abaHivi (abahivi), na ⟨את⟩ abaArki (aba-aruki), na ⟨את⟩ abaSini (aba-sini);",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "abaHivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaArki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "abaArki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaSini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "abaSini"
+    }
+  ],
+  "timestamp": "2026-09-07T07:40:52.282722232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Ntusanganire na ababyaha Nefeshi yanjye, kandi na abantu b'amaraso ubuzima bwanjye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ntu-"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sanganire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ababyaha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kandi na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "b'amaraso"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ubuzima bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:13:28.539005240Z",
+  "model": "glm-5.3"
+}

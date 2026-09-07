@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Adonayi, iki gihe kingana iki uzahora ureba? Garura Nefeshi yanjye mu cyorezo cyabo, mu intare ⟨ni⟩ umwe wanjye gusa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "iki gihe kingana iki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzahora ureba"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "Garura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "mu cyorezo cyabo"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "mu intare"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "umwe wanjye gusa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:13.456511843Z",
+  "model": "glm-5.3"
+}

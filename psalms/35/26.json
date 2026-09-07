@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 35:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Nibahwe kandi bagwenze hamwe, abakunda ibibi byanjye; nibahembre isoni n'ubujiji, abiyerekanaho hejuru yanjye.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bahwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "kandi bagwenze"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "abakunda"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ibibi byanjye"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "bahembre"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "n'ubujiji"
+    },
+    {
+      "surface": "המגדילים",
+      "gloss": "abiyerekanaho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hejuru yanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:26.697588495Z",
+  "model": "glm-5.3"
+}

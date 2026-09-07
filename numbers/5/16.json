@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze kohenu amuzanira ⟨את⟩ we, amushyira imbere ya Yahwe",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "maze amuzanira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (umugore)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "amushyira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:04:54.628039587Z",
+  "model": "glm-5.3"
+}

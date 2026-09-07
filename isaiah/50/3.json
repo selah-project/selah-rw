@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 50,
+  "translation": "Ndambika ijuru umwijima, kandi itipu ndashyira nkumbi yaryo.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ndambika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "umwijima"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "kandi itipu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndashyira"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "nkumbi yaryo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:26:00.979634986Z",
+  "model": "glm-5.3"
+}

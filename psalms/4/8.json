@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Washyize umunezero mu mutima wanjye ⟨kurusha⟩ igihe ibyansi byabo n'amavinyo yabo byiyongereye.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Washyize"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "umunezero"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mu mutima wanjye"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ibyansi byabo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "n'amavinyo yabo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "byiyongereye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:55:06.660586797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 74,
+  "translation": "Ariko Elohimu ni umwami wanjye wa kera, ukora ibyabakiza mu gituza cy'isi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Ariko Elohimu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umwami wanjye"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "wa kera"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ibyabakiza"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu gituza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cy'isi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:40.830340990Z",
+  "model": "glm-5.3"
+}

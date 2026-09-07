@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze afata ashira ⟨את⟩ ibyemezo mw'isanduku, ashira ⟨את⟩ imitwaro ku isanduku, ashira ⟨את⟩ ikiraka ku isanduku hejuru.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "afata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyemezo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ibyemezo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imitwaro"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "imitwaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikiraka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikiraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "isanduku"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hejuru"
+    }
+  ],
+  "timestamp": "2026-09-07T09:23:52.917153468Z",
+  "model": "glm-5.3"
+}

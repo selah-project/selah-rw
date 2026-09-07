@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ku ⟨את⟩ Wowe ihariye indyane yanjye mu muryango munini; ibyaguzo byanjye nzubaha imbere y'abatinya We.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "ku ⟨את⟩ Wowe"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ihariye indyane yanjye"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu muryango"
+    },
+    {
+      "surface": "רב",
+      "gloss": "munini"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ibyaguzo byanjye"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nzubaha"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abatinya We"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.384700738Z",
+  "model": "glm-5.3"
+}

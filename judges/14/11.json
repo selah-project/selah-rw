@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 14,
+  "translation": "Umurongo ukoreze iyo bamubonye ⟨את⟩ we, bafata inshuti mirongo itatu, baba kumwe ⟨את⟩ na we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "umurongo ukoreze"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "iyo bamubonye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (Shimshoni)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bafata"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mirongo itatu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "inshuti"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kumwe na we"
+    }
+  ],
+  "timestamp": "2026-09-07T12:09:30.068882345Z",
+  "model": "glm-5.3"
+}

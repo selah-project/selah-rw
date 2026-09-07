@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 12:7",
+ "book": "exodus",
+ "lang": "rw",
+ "chapter": 12,
+ "translation": "Banafata mu maraso maze bashyira ku nkingo z'umuryango ebyiri no ku rutare rw'hejuru, ku nzu zibaryirimo ⟨את⟩ we.",
+ "tokens": [
+  {
+   "surface": "ולקחו",
+   "gloss": "banafata"
+  },
+  {
+   "surface": "מן",
+   "gloss": "mu"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "maraso"
+  },
+  {
+   "surface": "ונתנו",
+   "gloss": "maze bashyira"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "שתי",
+   "gloss": "ebyiri"
+  },
+  {
+   "surface": "המזוזת",
+   "gloss": "nkingo z'umuryango"
+  },
+  {
+   "surface": "ועל",
+   "gloss": "no ku"
+  },
+  {
+   "surface": "המשקוף",
+   "gloss": "rutare rw'hejuru"
+  },
+  {
+   "surface": "על",
+   "gloss": "ku"
+  },
+  {
+   "surface": "הבתים",
+   "gloss": "nzu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "zi"
+  },
+  {
+   "surface": "יאכלו",
+   "gloss": "baryirimo"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we",
+   "marks": "ibaryirimo (inyama)"
+  },
+  {
+   "surface": "בהם",
+   "gloss": "mo"
+  }
+ ],
+ "timestamp": "2026-09-07T08:44:04.460173490Z",
+ "model": "glm-5.3"
+}

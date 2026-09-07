@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Muzakwita ku ⟨את⟩ umurage w'ibyatagatifu no ku ⟨את⟩ umurage w'igicaniro, maze nta wijinya uzongera ku bana ba Yisraeli (Isirayeli).",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "muzakwita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurage w'ibyatagatifu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "w'ibyatagatifu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umurage w'igicaniro"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "umurage"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maze nta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hazaba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ongera"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "umwijinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    }
+  ],
+  "timestamp": "2026-09-07T10:22:32.845694259Z",
+  "model": "glm-5.3"
+}

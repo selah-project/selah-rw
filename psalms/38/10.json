@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Adonayi, ibyifuzo byanjye byose biri imbere yawe, n'uduseke twanjye ntwihishe kuva iwawe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "imbere yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "ibyifuzo byanjye"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "n'uduseke twanjye"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuva iwawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "twihishe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:18:49.723554553Z",
+  "model": "glm-5.3"
+}

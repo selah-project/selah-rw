@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Maze yarabwiye abahungu be ati: Nimushekeshe ⟨mba⟩ indogobe. Baramushekesheje ⟨mba⟩ indogobe, maze aririndogobe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maze yarabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "nimushekeshe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "indogobe"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "barashekesheje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mba"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "indogobe"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "maze ariri-"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "-yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:34:51.219521416Z",
+  "model": "glm-5.3"
+}

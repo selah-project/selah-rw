@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Maze nzibwirira ku bikorwa byawe byose, kandi ku bikorwa bikomeye byawe nzavuganisha.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "maze nzibwirira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ku ... byose"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "bikorwa byawe"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "kandi ku bikorwa bikomeye byawe"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nzavuganisha"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:32.799374459Z",
+  "model": "glm-5.3"
+}

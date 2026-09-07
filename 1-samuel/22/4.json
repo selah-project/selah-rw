@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Maze abayobye ⟨את⟩ imbere y'umwami wa Moabu, maze batuye iwe iminsi yose Dawidi ari mu mwamba.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "abayobye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbere y'umwami wa Moabu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "imbere y'"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "batuye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mu mwamba"
+    }
+  ],
+  "timestamp": "2026-09-07T12:49:11.349969414Z",
+  "model": "glm-5.3"
+}

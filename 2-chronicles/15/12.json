@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Maze binjira mu beriti yo gushakisha ⟨את⟩ Yahwe, Elohimu wa ba sekuruza babo, ku mutima wabo wose no ku Nefeshi yabo yose.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "binjira"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "mu beriti"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "yo gushakisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wa ba sekuruza babo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ku mutima wabo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no ku … yose"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "Nefeshi yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T20:54:10.461436777Z",
+  "model": "glm-5.3"
+}

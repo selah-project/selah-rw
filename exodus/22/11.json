@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Ariko niba yibwe rwose kuri we, azishyura nyir'icyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ariko niba"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "yibwe"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "azishyura"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "nyir'icyo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:56:46.689451936Z",
+  "model": "glm-5.3"
+}

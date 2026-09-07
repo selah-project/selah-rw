@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Maze abagabo baratinya ubwoba burambuye ⟨את⟩ Yahwe, banagirira igicaniro kwa Yahwe, banemeje ibyemezo byinshi.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "baratinya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ubwoba"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "burambuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "banagirira"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "igicaniro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "banemeje"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ibyemezo byinshi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:46:18.800777685Z",
+  "model": "glm-5.3"
+}

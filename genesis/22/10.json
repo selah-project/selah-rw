@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Avrahamu yohereje ⟨את⟩ ukuboko kwe, yafashe ⟨את⟩ umupanga, ngo abagire ⟨את⟩ umwana we.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yohereje"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ukuboko kwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umupanga"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "umupanga"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ngo abagire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwana we"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "umwana we"
+    }
+  ],
+  "timestamp": "2026-09-07T21:10:09.608219720Z",
+  "model": "glm-5.3"
+}

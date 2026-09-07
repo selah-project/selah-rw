@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 137,
+  "translation": "Umukobwa wa Babulonu, w'urwangombeshi, umunezero kuri we uguhesha ⟨את⟩ ibyangombeshi byawe — ibyo wakoze twe.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Umukobwa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babulonu"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "w'urwangombeshi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "umunezero kuri we"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "uguhesha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ugu-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyangombeshi byawe"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ibyangombeshi byawe"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "twe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:55.203793416Z",
+  "model": "glm-5.3"
+}

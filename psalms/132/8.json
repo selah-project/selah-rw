@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 132,
+  "translation": "Zamuka, Yahwe, uzire mu bubiko bwawe, wowe na sanduku bw'ingufu zawe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Zamuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "uzire mu bubiko bwawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "na sanduku"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "bw'ingufu zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:45.671306743Z",
+  "model": "glm-5.3"
+}

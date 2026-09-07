@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 28,
+  "translation": "Shemuweli aravuga ati: Kandi ni kuki umbaza, ko Yahwe yayiriye kuri wowe, arahindutira umwanzi wawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kandi ni kuki"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "umbaza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yayiriye"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "arahindutira"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "umwanzi wawe"
+    }
+  ],
+  "timestamp": "2026-09-07T12:52:06.696080536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Abo baravuze bati: \"Ururumi rwacu turwugira ngufu, iminwa yacu ziri ⟨את⟩ twese — ndani ni we shebuja wacu?\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Abo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "baravuze"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ururumi rwacu"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "turwugira ngufu"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "iminwa yacu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "twese"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "shebuja"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wacu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:56.146540282Z",
+  "model": "glm-5.3"
+}

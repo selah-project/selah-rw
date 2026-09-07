@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Bat-Sheva arinjira kwa umwami mu cyumba cye; maze umwami wareze cyane; kandi Avishagu w'i Shunemu yagendereraga ⟨את⟩ umwami.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "arinjira"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mu cyumba cye"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "maze umwami"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wareze"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "kandi Avishagu"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "w'i Shunemu"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "yagendereraga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:56.022491631Z",
+  "model": "glm-5.3"
+}

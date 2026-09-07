@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "psalms 18:32",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 18,
+ "translation": "Ko nde ⟨ni⟩ Elowa uretse Yahwe? Kandi nde ⟨ni⟩ urutare uretse Elohimu wacu?",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "ko"
+  },
+  {
+   "surface": "מי",
+   "gloss": "nde"
+  },
+  {
+   "surface": "אלוה",
+   "gloss": "Elowa"
+  },
+  {
+   "surface": "מבלעדי",
+   "gloss": "uretse"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ומי",
+   "gloss": "kandi nde"
+  },
+  {
+   "surface": "צור",
+   "gloss": "urutare"
+  },
+  {
+   "surface": "זולתי",
+   "gloss": "uretse"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimu wacu"
+  }
+ ],
+ "timestamp": "2026-09-07T18:11:18.516244382Z",
+ "model": "glm-5.3"
+}

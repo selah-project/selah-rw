@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 34,
+  "translation": "Abicwe babo bazahurwa hanze, amagufwa yabo azatuma impumuro mibi izamuka, imisozi iganyuruka amaraso yabo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Abicwe babo"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "bazahurwa hanze"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "amagufwa yabo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "azatuma...izamuka"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "impumuro mibi"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "iganyuruka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imisozi"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "amaraso yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:11:43.905246687Z",
+  "model": "glm-5.3"
+}

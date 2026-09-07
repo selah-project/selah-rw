@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 88,
+  "translation": "Wanshyije mu muva wo mu bidendezi byo hasi, mu mwijima, mu ntumbi z'ibidendezi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Wanshyije"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "mu muva"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "wo mu bidendezi byo hasi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "mu mwijima"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "mu ntumbi z'ibidendezi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:38:29.044709981Z",
+  "model": "glm-5.3"
+}

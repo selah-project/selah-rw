@@ -1,0 +1,94 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "1-kings 20:23",
+ "book": "1-kings",
+ "lang": "rw",
+ "chapter": 20,
+ "translation": "Nuko abagaragu b'umwami w'Aramu baramubwiye bati: Imana y'imisozi ni yo mana yabo; ni yo mpamvu batwereye; ariko nimurwane ⟨את⟩ na bo mu kibaya — Ese ntituzaba tumaze kubakiraho ubutare?",
+ "tokens": [
+  {
+   "surface": "ועבדי",
+   "gloss": "abagaragu"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "b'umwami"
+  },
+  {
+   "surface": "ארם",
+   "gloss": "w'Aramu"
+  },
+  {
+   "surface": "אמרו",
+   "gloss": "baramubwiye bati"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "baramubwiye"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "imana"
+  },
+  {
+   "surface": "הרים",
+   "gloss": "y'imisozi"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "ni yo mana yabo"
+  },
+  {
+   "surface": "על",
+   "gloss": "ni yo mpamvu"
+  },
+  {
+   "surface": "כן",
+   "gloss": "ni yo mpamvu"
+  },
+  {
+   "surface": "חזקו",
+   "gloss": "batwereye"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "tuboneye"
+  },
+  {
+   "surface": "ואולם",
+   "gloss": "ariko"
+  },
+  {
+   "surface": "נלחם",
+   "gloss": "nimurwane"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "na bo"
+  },
+  {
+   "surface": "במישור",
+   "gloss": "mu kibaya"
+  },
+  {
+   "surface": "אם",
+   "gloss": "Ese"
+  },
+  {
+   "surface": "לא",
+   "gloss": "nti-"
+  },
+  {
+   "surface": "נחזק",
+   "gloss": "tuzaba tumaze kubakiraho ubutare"
+  },
+  {
+   "surface": "מהם",
+   "gloss": "bo"
+  }
+ ],
+ "timestamp": "2026-09-07T13:58:41.245366766Z",
+ "model": "glm-5.3"
+}

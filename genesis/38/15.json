@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Yehuda amubona, aramwibwira ko ari umukorera, kuko yari yihishije mu maso ye.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "amubona"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "aramwibwira"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "ko ari umukorera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "yari yihishije"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mu maso ye"
+    }
+  ],
+  "timestamp": "2026-09-07T08:18:17.694731305Z",
+  "model": "glm-5.3"
+}

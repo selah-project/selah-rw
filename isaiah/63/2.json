@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 63,
+  "translation": "Kubera iki impuzu zawe zisa n'utuku, kandi impuzu zawe nka zawe ukandagira mu icuma ry'imizabibu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Kubera iki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zisa n'utuku"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "impuzu zawe"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "kandi impuzu zawe"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "nka zawe ukandagira"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "mu icuma ry'imizabibu"
+    }
+  ],
+  "timestamp": "2026-09-07T15:34:09.003963237Z",
+  "model": "glm-5.3"
+}

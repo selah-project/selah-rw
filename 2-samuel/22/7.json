@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Mu bihe by'inkengo nahamagaye Yahwe, n'Elohimu wanjye ndahamagaraga; yari yumvise mu ngoro ye ijwi ryanjye, n'urwungano rwanjye rwageze mu matwi ye.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "mu bihe by'inkengo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yanjye"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nahamagaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu wanjye"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndahamagaraga"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yari yumvise"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "mu ngoro ye"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ijwi ryanjye"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "n'urwungano rwanjye"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "mu matwi ye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:20:29.691453570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Yahwe yanagije ⟨את⟩ Paro ibihano binini, na ⟨את⟩ inzu ye, kubera ikibazo cya Sarayi, umugore w'Avramu.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "yanagije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ibihano"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "binini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inzu ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "inzu ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubera"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ikibazo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    }
+  ],
+  "timestamp": "2026-09-07T07:42:58.334831674Z",
+  "model": "glm-5.3"
+}

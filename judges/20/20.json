@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Abagabo b'Abayisraeli basohoka mu ntambara n'abanyabinyamini, maze abagabo b'Abayisraeli bategura intambara ⟨את⟩ abanyabinyamini ku Gibea.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "basohoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Abayisraeli"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mu ntambara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "abanyabinyamini"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "bategura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abanyabinyamini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abagabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "b'Abayisraeli"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "intambara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-09-07T12:21:43.167006204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Maze Yoyada yarabyaye ⟨את⟩ Yonatanu, na Yonatanu yarabyaye ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Maze Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yarabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanu"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonatanu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yarabyaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-09-07T20:26:50.519666685Z",
+  "model": "glm-5.3"
+}

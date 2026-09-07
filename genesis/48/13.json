@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 48,
+  "translation": "Yosefu yafatanije ⟨את⟩ abahungu be babiri — ⟨את⟩ Efrayimu ku iburyo rye, ibumoso rya Yisraeli; na ⟨את⟩ Menashe ku ibumoso rye, iburyo rya Yisraeli — maze abegera iwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafatanije"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu be babiri"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abahungu be babiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ku iburyo rye"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "ibumoso rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "ku ibumoso rye"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "iburyo rya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "maze abegera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:30:27.721065239Z",
+  "model": "glm-5.3"
+}

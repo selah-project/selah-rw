@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "joshua 1:18",
+ "book": "joshua",
+ "lang": "rw",
+ "chapter": 1,
+ "translation": "Umuntu wese uzigomeka ku murongo w'⟨את⟩ akamwe kawe kandi ntagumvira ⟨את⟩ amagambo yawe mu byose ubitegeka, azicwa; gusa ube umunyembaraga, ube w'intware.",
+ "tokens": [
+  {
+   "surface": "כל",
+   "gloss": "Umuntu wese"
+  },
+  {
+   "surface": "איש",
+   "gloss": "umuntu"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "u-"
+  },
+  {
+   "surface": "ימרה",
+   "gloss": "azigomeka"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ku murongo w'akamwe kawe"
+  },
+  {
+   "surface": "פיך",
+   "gloss": "akamwe kawe"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "kandi nta-"
+  },
+  {
+   "surface": "ישמע",
+   "gloss": "gumvira"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amagambo yawe"
+  },
+  {
+   "surface": "דבריך",
+   "gloss": "amagambo yawe"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "mu byose"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ubi-"
+  },
+  {
+   "surface": "תצונו",
+   "gloss": "tegeka"
+  },
+  {
+   "surface": "יומת",
+   "gloss": "azicwa"
+  },
+  {
+   "surface": "רק",
+   "gloss": "gusa"
+  },
+  {
+   "surface": "חזק",
+   "gloss": "ube umunyembaraga"
+  },
+  {
+   "surface": "ואמץ",
+   "gloss": "ube w'intware"
+  }
+ ],
+ "timestamp": "2026-09-07T11:21:38.836477142Z",
+ "model": "glm-5.3"
+}

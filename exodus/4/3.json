@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Aravuga ati: Umanuke hasi. Arauwumanika hasi, maze uhihinduka inzoka, maze Moshe arahungayo imbere yayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "umanuke"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "arauwumanika"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maze uhihinduka"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "inzoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "arahungayo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "imbere yayo"
+    }
+  ],
+  "timestamp": "2026-09-07T08:37:16.316337044Z",
+  "model": "glm-5.3"
+}

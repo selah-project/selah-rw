@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Urubabi rwacu rurafuye nk'intanuru ku bw'ubushyuhe bukaze bw'inzara.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "urubabi rwacu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "nk'intanuru"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "rurafuye"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ubushyuhe bukaze"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "bw'inzara"
+    }
+  ],
+  "timestamp": "2026-09-07T19:51:30.669810737Z",
+  "model": "glm-5.3"
+}

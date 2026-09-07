@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 111,
+  "translation": "Mushimire Yah! Ndashingiye impamvu nzima — ndashimira Yahwe mu mutima wanjye wose, mu banga bw'abatungane n'itorero.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Mushimire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndashimira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … wose"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mutima wanjye"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mu banga"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abatungane"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "n'itorero"
+    }
+  ],
+  "timestamp": "2026-09-07T18:47:11.553976098Z",
+  "model": "glm-5.3"
+}

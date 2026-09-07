@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 128,
+  "translation": "Umugore wawe ⟨ni⟩ nka umuzabibu utera imyanda mu mpande z'imbere yo mu nzu yawe; abahungu be nka ibiti bya olive bazengurutse ameza yawe.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Umugore wawe"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "nka umuzabibu"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "utera imyanda"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "mu mpande z'imbere"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "yo mu nzu yawe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abahungu be"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "nka ibiti"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "bya olive"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bazengurutse"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ameza yawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:53:04.014697293Z",
+  "model": "glm-5.3"
+}

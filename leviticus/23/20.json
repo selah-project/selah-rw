@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Umuherezi ⟨kohenu⟩ azahungura ⟨את⟩ intama hamwe n'imigati y'ibyangombwa, nk'igihungurwa ⟨tenufa⟩ imbere ya Yahwe, hamwe n'intama ebyiri; bizaba ibitagatifu bya Yahwe, k'umuherezi.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "azahungura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umuherezi (kohenu)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "intama n'imigati y'ibyangombwa (ibyo bahungura)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "imigati"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "y'ibyangombwa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "nk'igihungurwa (tenufa)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "intama ebyiri"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "intama"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ibitagatifu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bizaba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "k'umuherezi"
+    }
+  ],
+  "timestamp": "2026-09-07T09:53:27.171934540Z",
+  "model": "glm-5.3"
+}

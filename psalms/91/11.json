@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 91,
+  "translation": "Kuko intumwa ze azabitegeka kuri wowe, kugira ngo akurinde mu nzira zawe zose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "intumwa ze"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "azabitegeka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "kugira ngo akurinde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... zose"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nzira zawe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:39:12.550950837Z",
+  "model": "glm-5.3"
+}

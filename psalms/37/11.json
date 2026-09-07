@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 37,
+  "translation": "Kandi abanyabugufi bazagira ubutaka, bazanezerwa ku bwinshi bwa Shalomu.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "abanyabugufi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bazagira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ubutaka"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "bazanezerwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ku bwinshi bwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomu"
+    }
+  ],
+  "timestamp": "2026-09-07T18:17:01.776761027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 59,
+  "translation": "Ku mukuru w'abayimbizi: Ntuzimangare. Zaburi ya Dawidi, Mikhtamu ⟨igihango cyanditswe⟩ — mu kohereza Shauli, barinduye ⟨את⟩ inzu ngo bamwice.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ku mukuru w'abayimbizi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "zimangare"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtamu ⟨igihango cyanditswe⟩"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mu kohereza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "barinduye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "inzu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ngo bamwice"
+    }
+  ],
+  "timestamp": "2026-09-07T18:25:32.523139422Z",
+  "model": "glm-5.3"
+}

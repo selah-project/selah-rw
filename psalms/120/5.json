@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 120,
+  "translation": "Yambi kuri jye, ko natumwe hirya y'igihe cyose i Mesheki ⟨Mesheki⟩, ko nituye mu mahembe ya Kedari ⟨Kedari⟩!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Yambi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "natumwe hirya y'igihe cyose"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mesheki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nituye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mahembe"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedari"
+    }
+  ],
+  "timestamp": "2026-09-07T18:51:05.278110343Z",
+  "model": "glm-5.3"
+}

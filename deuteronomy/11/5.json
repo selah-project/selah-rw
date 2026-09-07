@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "N'ibyo yakoze muri mwe mu butayu, kugeza mwageze kugeza aha hantu hano.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "n'ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "muri mwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mu butayu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "mwageze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hano"
+    }
+  ],
+  "timestamp": "2026-09-07T10:55:02.853173722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Mwasemie ⟨את⟩ Sikkutu, umwami wanyu, na ⟨את⟩ Kiwuni, ibishusho byanyu — inyenyeri y'imana yanyu, iyo mwakoze kubwanyu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "mwasemie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkutu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkutu"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "umwami wanyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiwuni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiwuni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "ibishusho byanyu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "inyenyeri"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "y'imana yanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "mwakoze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kubwanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T17:40:55.169355483Z",
+  "model": "glm-5.3"
+}

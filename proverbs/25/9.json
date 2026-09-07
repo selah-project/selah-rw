@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Urwanire ⟨את⟩ umurenzi wawe urubanza rwawe, kandi umubanga w'undi ntubuvugire.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "urubanza rwawe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "urwanire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umurenzi wawe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "umurenzi wawe"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "kandi umubanga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "w'undi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nta"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ubuvugire"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:02.193381895Z",
+  "model": "glm-5.3"
+}

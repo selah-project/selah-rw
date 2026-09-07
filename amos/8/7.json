@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Yahwe yarahiye ku cyubahiro cya Yaakovu ⟨ati⟩: ⟨Ni by'ukuri⟩ ntabwo nzibagirwa iteka ibyo bakora byose.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "yarahiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ku cyubahiro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ni by'ukuri⟩"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nzibagirwa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ibyo bakora"
+    }
+  ],
+  "timestamp": "2026-09-07T17:42:54.302336816Z",
+  "model": "glm-5.3"
+}

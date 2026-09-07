@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 84,
+  "translation": "Kuko Yahwe Elohimu ⟨ni⟩ izuba n'urupinga; ineza n'icyubahiro Yahwe uha; nta byiza azimbura abagenda mu budahemuka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "izuba"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "n'urupinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ineza"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "n'icyubahiro"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "azimbura"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "byiza"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "abagenda"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "mu budahemuka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:34.943262270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ abaja banyu, na ⟨את⟩ abagaragu banyu b'abagore, na ⟨את⟩ bachiri banyu beza, na ⟨את⟩ indogobe zanyu azarafata, maze azazishyira ku kazi kiwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abaja banyu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "abaja banyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abagaragu banyu b'abagore"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "abagaragu banyu b'abagore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bachiri banyu beza"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "bachiri banyu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "beza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indogobe zanyu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "indogobe zanyu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azarafata"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "maze azazishyira"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "ku kazi kiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T21:30:09.398703129Z",
+  "model": "glm-5.3"
+}

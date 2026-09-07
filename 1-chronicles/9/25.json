@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "1-chronicles 9:25",
+ "book": "1-chronicles",
+ "lang": "rw",
+ "chapter": 9,
+ "translation": "N'abavandimwe babo mu midugudu yabo baza kuja ⟨kandi⟩ mu minsi irindwi, kuva igihe kugera igihe, hamwe n'aya.",
+ "tokens": [
+  {
+   "surface": "ואחיהם",
+   "gloss": "N'abavandimwe babo"
+  },
+  {
+   "surface": "בחצריהם",
+   "gloss": "mu midugudu yabo"
+  },
+  {
+   "surface": "לבוא",
+   "gloss": "kuja"
+  },
+  {
+   "surface": "לשבעת",
+   "gloss": "⟨kandi⟩ mu"
+  },
+  {
+   "surface": "הימים",
+   "gloss": "minsi irindwi"
+  },
+  {
+   "surface": "מעת",
+   "gloss": "kuva igihe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "kugera"
+  },
+  {
+   "surface": "עת",
+   "gloss": "igihe"
+  },
+  {
+   "surface": "עם",
+   "gloss": "hamwe na"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "aya"
+  }
+ ],
+ "timestamp": "2026-09-07T22:06:51.822010786Z",
+ "model": "glm-5.3"
+}

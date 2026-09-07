@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ntugire uburakari ku bakora ibibi; ntugire umunyishyi ku bantu b'ibibi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "gire uburakari"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ku bakora ibibi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "gire umunyishyi"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "ku bantu b'ibibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:13:41.470523137Z",
+  "model": "glm-5.3"
+}

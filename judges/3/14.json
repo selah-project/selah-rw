@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Bityo abana b'a Yisraeli bagakoresha ⟨את⟩ Egloni, umwami w'i Moabu, imyaka cumi n'umunani.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bagakoresha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana b'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egloni"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Egloni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami w'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "umunani"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "imyaka"
+    }
+  ],
+  "timestamp": "2026-09-07T11:54:50.369765885Z",
+  "model": "glm-5.3"
+}

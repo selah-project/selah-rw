@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Amabwiriza ya Yahwe ari imitwe y'ukuri, ashimishije umutima; itegeko rya Yahwe rihera, rimurika amaso.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "amabwiriza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ari imitwe y'ukuri"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ashimishije"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "itegeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "rihera"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "rimurika"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amaso"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:53.323573505Z",
+  "model": "glm-5.3"
+}

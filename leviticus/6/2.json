@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Ranga ⟨את⟩ Aharoni na ⟨את⟩ ibyara be ngo: Iyi ni Tora y'ikicanwa (ha-ola); ni cyo gicanwa kigumye ku muriro ku itarataire joro ryose kugeza mu gitondo, kandi umuriro wa ku itarataire uzakomeza kuyaka muri cyo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Ranga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibyara be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ibyara be"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "y'ikicanwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni cyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gicanwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "muriro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "itarataire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ryose"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "joro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mu gitondo"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "kandi umuriro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa ku itarataire"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "uzakomeza kuyaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri cyo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:31:09.490346640Z",
+  "model": "glm-5.3"
+}

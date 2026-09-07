@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "Maze Moshe yabategeka ⟨את⟩ bo ati: Ku mpera y'imyaka irindwi, mu gihe cyagenwe, mu mwaka wo kurekura ingwate, mu munsi mukuru w'ibyumba,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Maze yabategeka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bo",
+      "marks": "abakohenu n'abakecuru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ku mpera y'"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "irindwi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "imyaka"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "mu gihe cyagenwe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "umu~ w'"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "kurekura ingwate"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "mu munsi mukuru w'"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ibyumba"
+    }
+  ],
+  "timestamp": "2026-09-07T11:18:58.617671923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 40,
+  "translation": "Maze ashira ⟨את⟩ ikirago cy'umuryango ku Mishikani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ashira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikirago"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ikirago"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "cy'umuryango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ku Mishikani"
+    }
+  ],
+  "timestamp": "2026-09-07T09:21:46.005112015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "2-samuel 3:11",
+ "book": "2-samuel",
+ "lang": "rw",
+ "chapter": 3,
+ "translation": " maze ⟨את⟩ we⟩ ntiyashoboye kwongera gusubiza ⟨את⟩ Avneru ijambo, kubera ko yamutinyaga.",
+ "tokens": [
+  {
+   "surface": "ולא",
+   "gloss": "nti"
+  },
+  {
+   "surface": "יכל",
+   "gloss": "ashoboye"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "kwongera"
+  },
+  {
+   "surface": "להשיב",
+   "gloss": "gusubiza"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Avneru"
+  },
+  {
+   "surface": "אבנר",
+   "gloss": "Avneru"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "ijambo"
+  },
+  {
+   "surface": "מיראתו",
+   "gloss": "kubera ko yamutinyaga"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ we"
+  }
+ ],
+ "timestamp": "2026-09-07T12:58:23.127198713Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Ku ishingiro hari amabuye agihambaye, amabuye manini: amabuye ya marama icumi, n'amabuye ya marama inani.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Ku ishingiro"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "agihambaye"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manini"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amabuye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "icumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ya marama"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "n'amabuye"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "inani"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ya marama"
+    }
+  ],
+  "timestamp": "2026-09-07T13:34:22.604739791Z",
+  "model": "glm-5.3"
+}

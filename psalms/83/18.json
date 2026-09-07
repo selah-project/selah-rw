@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Bamenye isoni, bakahutuka, iteka ry'iteka; bagahwanye, bakapfa;",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bamenye isoni"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "bakahutuka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "iteka ry'"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iteka"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "bagahwanye"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "bakapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:25.693664844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 145,
+  "translation": "Yahwe ari hafi y'abamuhamagara bose, y'abamuhamagara mu kuri.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ari hafi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "y'... bose"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "abamuhamagara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "y'... bose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "bamuhamagara"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mu kuri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:58:31.583486200Z",
+  "model": "glm-5.3"
+}

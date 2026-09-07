@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 13,
+  "translation": "Dawidi yarohereje i mu rugo rwa Tamari, ati: Ngaho zana mu nzu ya Amnoni murumuna wawe, umukorere ibiryo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yarohereje"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mu rugo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "zana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngaho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "murumuna wawe"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "umukore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "ibiryo"
+    }
+  ],
+  "timestamp": "2026-09-07T13:09:24.169156010Z",
+  "model": "glm-5.3"
+}

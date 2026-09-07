@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Intwari n'umugabo w'intambara, umucamanza n'umuhanuzi, umuraguzi n'umusaza.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Intwari"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "n'umugabo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "w'intambara"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "n'umuhanuzi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "umuraguzi"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "n'umusaza"
+    }
+  ],
+  "timestamp": "2026-09-07T14:40:23.207314175Z",
+  "model": "glm-5.3"
+}

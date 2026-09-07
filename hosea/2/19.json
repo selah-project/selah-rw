@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "hosea 2:19",
+ "book": "hosea",
+ "lang": "rw",
+ "chapter": 2,
+ "translation": "Kuko nzakuramo ⟨את⟩ amazina ya Baoli mu kanwa wayo, kandi ntibazongera kwibukwa amazina yabo.",
+ "tokens": [
+  {
+   "surface": "והסרתי",
+   "gloss": "nzakuramo"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "amazina ya Baoli"
+  },
+  {
+   "surface": "שמות",
+   "gloss": "amazina"
+  },
+  {
+   "surface": "הבעלים",
+   "gloss": "ya Baoli"
+  },
+  {
+   "surface": "מפיה",
+   "gloss": "mu kanwa wayo"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "kandi nt(i)-"
+  },
+  {
+   "surface": "יזכרו",
+   "gloss": "bazongera kwibukwa"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "kongera"
+  },
+  {
+   "surface": "בשמם",
+   "gloss": "amazina yabo"
+  }
+ ],
+ "timestamp": "2026-09-07T17:31:21.533796101Z",
+ "model": "glm-5.3"
+}

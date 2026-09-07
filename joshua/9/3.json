@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na bo, abatuuye i Gibeoni, bumvise ⟨את⟩ ibyo Yehoshuwa yakoze kuri Yeriko no kuri Ayi.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "abatuuye"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "i Gibeoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bumvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "kuri Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "no kuri Ayi"
+    }
+  ],
+  "timestamp": "2026-09-07T11:29:04.754805672Z",
+  "model": "glm-5.3"
+}

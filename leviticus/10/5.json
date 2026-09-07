@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 10,
+  "translation": "Baragera, barazungura imibiri yabo mu myambaro yabo, barayivana ku hanze y'ikampi, uko Moshe yabivugiye.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Baragera"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "barazungura imibiri yabo"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "mu myambaro yabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "y'ikampi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yabivugiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:33:33.876788802Z",
+  "model": "glm-5.3"
+}

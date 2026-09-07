@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ese ku iteka Adonayi arareka, kandi atazongera kwishimira na none?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Ese ku iteka"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "arareka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "azongera"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "kwishimira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na none"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:21.744548643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Ariko yarabakijije ku bw'izina rye, kugira ngo amenyeshe ⟨את⟩ imbaraga ze.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ariko yarabakijije"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "izina rye"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kugira ngo amenyeshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbaraga ze"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "imbaraga ze"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:27.253804206Z",
+  "model": "glm-5.3"
+}

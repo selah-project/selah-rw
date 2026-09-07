@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Barura ⟨את⟩ abahungu ba Levi ku nzu y'ibyara byabo, ku muryango wabo; buri mugabo kuva ku mwana w'ukwezi kimwe n'hejuru uzibarura.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Barura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahungu ba Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ba Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nzu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "y'ibyara byabo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buri"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mugabo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuva ku mwana w'"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ukwezi kimwe"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "n'hejuru"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "uzibarura"
+    }
+  ],
+  "timestamp": "2026-09-07T21:19:22.617679219Z",
+  "model": "glm-5.3"
+}

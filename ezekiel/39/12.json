@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 39,
+  "translation": "Maze inzu ya Yisraeli bazibika, ngo basukure ⟨את⟩ isi — amezi arindwi.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "bazibika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "inzu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "basukure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "arindwi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "amezi"
+    }
+  ],
+  "timestamp": "2026-09-07T17:16:55.069969364Z",
+  "model": "glm-5.3"
+}

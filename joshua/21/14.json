@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Yatiri hamwe n'imigara yacyo, na ⟨את⟩ Eshtemoa hamwe n'imigara yacyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigara yacyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigara yacyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "imigara yacyo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "imigara yacyo"
+    }
+  ],
+  "timestamp": "2026-09-07T11:42:18.726704355Z",
+  "model": "glm-5.3"
+}

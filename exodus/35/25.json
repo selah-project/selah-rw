@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 35,
+  "translation": "Kandi abagore bose b'ubwenge b'umutima, mu ntoki zabo baravura, maze bazana amahu: ⟨את⟩ ubururu bw'ijuru, na ⟨את⟩ purupuru, ⟨את⟩ shani na ⟨את⟩ isheshe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubwenge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "umutima"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "mu ntoki zabo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "baravura"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bazanye"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "amahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubururu bw'ijuru"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ubururu bw'ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "purupuru"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purupuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "indogorwa y'urwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isheshe"
+    },
+    {
+      "surface": "השש",
+      "gloss": "isheshe"
+    }
+  ],
+  "timestamp": "2026-09-07T09:16:26.418551300Z",
+  "model": "glm-5.3"
+}

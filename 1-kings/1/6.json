@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Kandi se ntiyigeze amubabaza mu minsi ye yose ati: Kuki wakoze gutya? Kandi we ubwe yari mwiza cyane mu ishusho y'igitangaza; na nyina yabyaye ⟨את⟩ we nyuma ya Avshalomu (Absalomu).",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "yigeze amubabaza"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "mu minsi ye yose"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kuki"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakoze"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we ubwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwiza"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mu ishusho y'igitangaza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cyane"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yabyaye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu (Absalomu)"
+    }
+  ],
+  "timestamp": "2026-09-07T13:26:53.054082590Z",
+  "model": "glm-5.3"
+}

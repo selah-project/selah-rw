@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 17,
+  "translation": "Ariko ntibumvise, ahubwo bakora uko bakoraga ubwa mbere.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ariko ntibumvise"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ntibumvise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ahubwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ahubwo gusa"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "uko bakoraga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ubwa mbere"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakora"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:05.860051696Z",
+  "model": "glm-5.3"
+}

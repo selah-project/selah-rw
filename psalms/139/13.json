@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 139,
+  "translation": "Kuko wowe waremye impyiko zanjye, unyuzurisha mu nda ya mama wanjye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "waremye"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "impyiko zanjye"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "unyuzurisha"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "mu nda"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama wanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T18:56:51.503587503Z",
+  "model": "glm-5.3"
+}

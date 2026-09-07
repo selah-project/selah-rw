@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "None rero, Yahwe, fata, ndagusabye, ⟨את⟩ Nefeshi yanjye kuri njye, kuko ni byiza ko urupfu rwanjye kurusha ubuzima bwanjye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "None rero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "fata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndagusabye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshi yanjye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshi yanjye"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni byiza ko"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "urupfu rwanjye"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kurusha ubuzima bwanjye"
+    }
+  ],
+  "timestamp": "2026-09-07T17:45:55.981232222Z",
+  "model": "glm-5.3"
+}

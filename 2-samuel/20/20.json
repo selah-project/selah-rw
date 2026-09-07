@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Yowavu yishuye aravuga ati: Ntibabe, ntibabe kuri jye iyo nkuye, cyangwa iyo nangiza.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yishuye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga ati"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ntibabe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ntibabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuri jye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iyo(nkuye)"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "nkuye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "cyangwa iyo(nangiza)"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nangiza"
+    }
+  ],
+  "timestamp": "2026-09-07T13:17:38.085296726Z",
+  "model": "glm-5.3"
+}

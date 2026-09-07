@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 42,
+ "ref": "numbers 32:42",
+ "book": "numbers",
+ "lang": "rw",
+ "chapter": 32,
+ "translation": "Novahi yagiye yigaruriye ⟨את⟩ Kenati na ⟨את⟩ imidugudu yayo, maze ayita yo Novahi ku izina rye.",
+ "tokens": [
+  {
+   "surface": "ונבח",
+   "gloss": "Novahi"
+  },
+  {
+   "surface": "הלך",
+   "gloss": "yagiye"
+  },
+  {
+   "surface": "וילכד",
+   "gloss": "yigaruriye"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Kenati"
+  },
+  {
+   "surface": "קנת",
+   "gloss": "Kenati"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "na ⟨את⟩",
+   "marks": "imidugudu yayo"
+  },
+  {
+   "surface": "בנתיה",
+   "gloss": "imidugudu yayo"
+  },
+  {
+   "surface": "ויקרא",
+   "gloss": "ayita"
+  },
+  {
+   "surface": "לה",
+   "gloss": "yo"
+  },
+  {
+   "surface": "נבח",
+   "gloss": "Novahi"
+  },
+  {
+   "surface": "בשמו",
+   "gloss": "ku izina rye"
+  }
+ ],
+ "timestamp": "2026-09-07T10:35:35.668975437Z",
+ "model": "glm-5.3"
+}

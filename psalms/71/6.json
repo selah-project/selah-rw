@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 71,
+  "translation": "Kuri wowe nizingiye kuva mu nda; kuva mu nda ya mama yanjye wowe waravanuye; ihumbyo ryanjye ni riwe buri gihe.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kuri wowe"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "nizingiye"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuva mu nda"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kuva mu nda"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama yanjye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wowe"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "waravanuye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ni riwe"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ihumbyo ryanjye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "buri gihe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:15.516751578Z",
+  "model": "glm-5.3"
+}

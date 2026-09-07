@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 93,
+  "translation": "Yahwe yateye ubwami, yambawe icyubahiro; Yahwe yambaye ingufu, ayishyiriyeho umushinga; kandi n'uko isi ihagaze neza, ntizazenguruka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yateye ubwami"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "icyubahiro"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yambawe"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yambaye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ingufu"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "yishyize umushinga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kandi n'uko"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ihagaze neza"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zazenguruka"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:43.968663407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 6,
+  "translation": "Aya ni amatarikira ya Noachi: Noachi, umuntu wereye, w'intunganye, yari mu miryaka ye; Noachi yaratambagaga na ⟨את⟩ Elohimu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "amatarikira"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wereye"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "w'intunganye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yari"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "mu miryaka ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "yatambagaga"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:37:11.632481395Z",
+  "model": "glm-5.3"
+}

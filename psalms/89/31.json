@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 89,
+  "translation": "Niba abana be bata Tora yanjye, kandi muri imitsi y'amategeko yanjye ntibazagenda,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niba"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "bata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abana be"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanjye"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "kandi muri imitsi y'amategeko yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "bazagenda"
+    }
+  ],
+  "timestamp": "2026-09-07T18:37:40.445551472Z",
+  "model": "glm-5.3"
+}

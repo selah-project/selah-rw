@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Imibanzi ni bibi kuwo hateseho inzira; uhakana amasengesho yaicumure azapfa.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "imibanzi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kuwo hateseho"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "uhakana"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "amasengesho yaicumure"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "azapfa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:08:41.311954738Z",
+  "model": "glm-5.3"
+}

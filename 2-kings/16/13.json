@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "rw",
+  "chapter": 16,
+  "translation": "Maze Ahazi yakubitse mu muriro ⟨את⟩ igitangwa cye na ⟨את⟩ igitanganwa cye, atonsa ⟨את⟩ inzuke ze, anaterera ⟨את⟩ amaraso y'ibitambo by'amahoro bye ku gicaniro.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "yakubitse mu muriro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igitangwa cye"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "igitangwa cye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igitanganwa cye"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "igitanganwa cye"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "atonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzuke ze"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "inzuke ze"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "anaterera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaraso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amaraso"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "y'ibitambo by'amahoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "afite"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gicaniro"
+    }
+  ],
+  "timestamp": "2026-09-07T14:24:44.919998067Z",
+  "model": "glm-5.3"
+}

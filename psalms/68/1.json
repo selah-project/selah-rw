@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 68,
+  "translation": "Ku muyobozi; rya Dawidi; umuziki; indirimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ku muyobozi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umuziki"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "indirimbo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:28:05.266021409Z",
+  "model": "glm-5.3"
+}

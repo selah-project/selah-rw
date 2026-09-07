@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ ibisingizi by'urubuga izengurutsa, na ⟨את⟩ ibisingizi by'umuryango w'urubuga, na ⟨את⟩ inshinge zose za Mishikani, na ⟨את⟩ inshinge zose z'urubuga izengurutsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibisingizi by'urubuga izengurutsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ibisingizi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "by'urubuga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "izengurutsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibisingizi by'umuryango w'urubuga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ibisingizi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "by'umuryango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "w'urubuga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inshinge zose za Mishikani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "inshinge"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "za Mishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "inshinge zose z'urubuga izengurutsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "inshinge"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "z'urubuga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "izengurutsa"
+    }
+  ],
+  "timestamp": "2026-09-07T09:20:04.277768432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 15,
+  "translation": "Kubera ko Dawidi yakoze ⟨את⟩ icyiza mu maso ya Yahwe, kandi ntiyavuye mu byose yamutegetse iminsi yose y'ubuzima bwe — uretse gusa mu rugamba rwa Uriyahi mu Hititi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kubera ko uko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icyiza"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "icyiza"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yavuye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mu byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yamutegetse (uko)"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamutegetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "y'ubuzima bwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "uretse gusa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mu rugamba"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyahi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "mu Hititi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:53:28.008924566Z",
+  "model": "glm-5.3"
+}

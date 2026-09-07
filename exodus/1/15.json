@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Umumwami? — Umwami wa Mitsrayimu yarabwiye abafasha-kubyara b'abaHeburayo, izina ry'umwe muri bo ari Shifuraha, izina rya kabiri ari Puwah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yarabwiye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "abafasha-kubyara"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "b'abaHeburayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ry'umwe muri"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ari Shifuraha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "izina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rya kabiri"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "ari Puwah"
+    }
+  ],
+  "timestamp": "2026-09-07T21:13:05.494566543Z",
+  "model": "glm-5.3"
+}

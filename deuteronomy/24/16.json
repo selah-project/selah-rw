@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 24,
+  "translation": "Ababyeyi ntibicwe ku bw'abana, n'abana ntibicwe ku bw'ababyeyi; buri muntu azicwa ku cyaha cye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bicwe"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "n'abana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bicwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku bw'"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ababyeyi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "buri muntu"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "ku cyaha cye"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "azicwa"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:21.515168185Z",
+  "model": "glm-5.3"
+}

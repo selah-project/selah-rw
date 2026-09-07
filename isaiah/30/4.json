@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Kuko ibyigi bye bari i Tsoani, n'intumwa ze zigera i Hanesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bari"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "i Tsoani"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ibyigi bye"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "n'intumwa ze"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "i Hanesi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "zigera"
+    }
+  ],
+  "timestamp": "2026-09-07T21:40:00.068368146Z",
+  "model": "glm-5.3"
+}

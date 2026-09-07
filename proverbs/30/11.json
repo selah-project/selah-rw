@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Umuryango ucurira se wawo, na ⟨את⟩ nyina ntagira umugisha.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "se wawo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ucurira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tagira umugisha"
+    }
+  ],
+  "timestamp": "2026-09-07T19:16:34.620812446Z",
+  "model": "glm-5.3"
+}

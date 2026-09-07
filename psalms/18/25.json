@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Bityo Yahwe yasubije ku bw'ubutungane bwanjye, ku bw'ubwangavu bw'ibiganza byanjye, imbere y'amaso yiwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yasubije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ku bwanjye⟩"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ku bw'ubutungane bwanjye"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ku bw'ubwangavu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "bw'ibiganza byanjye"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "imbere"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "y'amaso yiwe"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:29.734343095Z",
+  "model": "glm-5.3"
+}

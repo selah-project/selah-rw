@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Ubwo yumvaga ⟨את⟩ ijambo rino — na we n'abami bari mu mahema barinnywa — yabwiye abagaragu be ati: Nimwibashe; maze bashyira ku mujyi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ubwo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mu gihe yumvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ijambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "barinnywa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "n'abami"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "mu mahema"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yabwiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Nimwibashe"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "bashyira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mujyi"
+    }
+  ],
+  "timestamp": "2026-09-07T13:58:10.475327273Z",
+  "model": "glm-5.3"
+}

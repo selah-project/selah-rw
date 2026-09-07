@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Maze Ahiya yafashe umwambara mushya wari ku we, maze ayacitse ibice cumi na bibiri.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "umwambara"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "mushya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wari ku we"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "maze ayacitse"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "cumi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ibice"
+    }
+  ],
+  "timestamp": "2026-09-07T13:47:24.568316687Z",
+  "model": "glm-5.3"
+}

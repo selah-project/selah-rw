@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 33,
+  "translation": "Yahwe yaravuze kuri Moshe ati: Iyi nkuru nacyo wavuze nzayikora, kuko wasanze imbabazi mu maso yanjye, kandi narakumenye n'izina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nacyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi nkuru"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "iyi nkuru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wavuze"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nzayikora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wasanze"
+    },
+    {
+      "surface": "חן",
+      "gloss": "imbabazi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mu maso yanjye"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "narakumenye"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'izina"
+    }
+  ],
+  "timestamp": "2026-09-07T09:15:02.246460065Z",
+  "model": "glm-5.3"
+}

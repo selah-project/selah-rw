@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Uko Yahwe Tsevaoti yavuze: Raba, ndi nzakiza ⟨את⟩ abantu banjye, mu gihugu cy'iburasirazuba no mu gihugu cy'aho izuba rirenga.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Uko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yavuze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Raba, ndi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nzakiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu banjye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu banjye"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "cy'iburasirazuba"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "no mu gihugu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "cy'aho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izuba rirenga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:00:26.595541819Z",
+  "model": "glm-5.3"
+}

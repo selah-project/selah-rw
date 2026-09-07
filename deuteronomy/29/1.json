@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 29,
+  "translation": "Moshe (Mose) yahamagaye Yisraeli (Isirayeli) yose, maze arababwira ati: Mwe mwarebye ⟨את⟩ ibyo byose Yahwe yakoze imbere y'amaso yanyu mu gihugu cya Mitsrayimu (Egiputa), kuri Paro (Farawo), k'abagaragu be bese no mu gihugu cye cyose.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yahamagaye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mose)"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli (Isirayeli)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "arababwira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mwarebye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo byose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yakoze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "imbere y'amaso yanyu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu gihugu cya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu (Egiputa)"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuri Paro (Farawo)"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "k'abagaragu be bese"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abagaragu be"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "no mu gihugu cye cyose"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "gihugu cye"
+    }
+  ],
+  "timestamp": "2026-09-07T21:25:14.403014264Z",
+  "model": "glm-5.3"
+}

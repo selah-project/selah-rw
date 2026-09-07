@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 12,
+  "translation": "Ububeshi bavuga, umuntu na ⟨את⟩ umunyabwira we; ⟨ni⟩ iminwa idoze, mu mutima n'undi mutima bavuga.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ububeshi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bavuga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunyabwira we"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umunyabwira we"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "iminwa"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "idoze"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mutima"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "n'undi mutima"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bavuga"
+    }
+  ],
+  "timestamp": "2026-09-07T18:08:01.002400863Z",
+  "model": "glm-5.3"
+}

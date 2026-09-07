@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 107,
+  "translation": "Yarungika ijwi rye maze arabakira, arabakiza mu mvanzi zabo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "yarungika"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ijwi rye"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "maze arabakira"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "arabakiza"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "mu mvanzi zabo"
+    }
+  ],
+  "timestamp": "2026-09-07T21:57:42.599636213Z",
+  "model": "glm-5.3"
+}

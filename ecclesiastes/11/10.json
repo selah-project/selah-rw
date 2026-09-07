@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Unakureho ubunebwe mu mutima wawe, maze ukureho ibibi mu mubiri wawe; kuko ubwana n'ubusore ari ubusa.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Unakureho"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ubunebwe"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "mu mutima wawe"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "maze ukureho"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "mu mubiri wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ubwana"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "n'ubusore"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubusa"
+    }
+  ],
+  "timestamp": "2026-09-07T19:56:57.028142088Z",
+  "model": "glm-5.3"
+}

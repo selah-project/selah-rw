@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Elohimu yashize izina ku butaka bwo gumye ngo ribe isi, n'iteraniro ry'amazi rya shize izina ngo ryibe ibiyaga; Elohimu yarabonye ko ⟨ni⟩ cyiza.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yashize izina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ku butaka bwo gumye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "n'iteraniro"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ry'amazi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "rya shize izina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ibiyaga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yarabonye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cyiza"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:02.156746602Z",
+  "model": "glm-5.3"
+}

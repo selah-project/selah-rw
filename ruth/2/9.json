@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 2:9",
+  "book": "ruth",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Amaso yawe abeho ku murima aho bakuramo, maze ukurikire inyuma yabo; ebyo nti nategetse ⟨את⟩ abasore kugira ngo batagukoraho? Iyo umyenzwe, ugende kuri ibyombo maze unywe ibyo abasore baterura.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "Amaso yawe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ku murima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aho"
+    },
+    {
+      "surface": "יקצרון",
+      "gloss": "bakuramo"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "maze ukurikire"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "inyuma yabo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ebyo nti"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nategetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasore"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "abasore"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kugira ngo"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "batagukoraho"
+    },
+    {
+      "surface": "וצמת",
+      "gloss": "iyo umyenzwe"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ugende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ibyombo"
+    },
+    {
+      "surface": "ושתית",
+      "gloss": "unywe"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "ישאבון",
+      "gloss": "baterura"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "abasore"
+    }
+  ],
+  "timestamp": "2026-09-07T22:02:23.095125607Z",
+  "model": "glm-5.3"
+}

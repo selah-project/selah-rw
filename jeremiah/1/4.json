@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Ijambo rya Yahwe rigeze kuri njye ngo:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rigeze"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ijambo rya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuri njye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:39:17.643478963Z",
+  "model": "glm-5.3"
+}

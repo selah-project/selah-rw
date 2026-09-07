@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 92,
+  "translation": "Abimewe mu nzu ya Yahwe, mu mbuga z'Elohimu wacu, barazera.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Abimewe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nzu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "mu mbuga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "z'Elohimu wacu"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "barazera"
+    }
+  ],
+  "timestamp": "2026-09-07T18:40:11.611912520Z",
+  "model": "glm-5.3"
+}

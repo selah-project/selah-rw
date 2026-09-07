@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "daniel 4:1",
+ "book": "daniel",
+ "lang": "rw",
+ "chapter": 4,
+ "translation": "Jewe, Nevukadnetsari, nari mu mahoro mu nzu yanjye, kandi naravumbagaye mu ngoro yanjye.",
+ "tokens": [
+  {
+   "surface": "אנה",
+   "gloss": "Jewe"
+  },
+  {
+   "surface": "נבוכדנצר",
+   "gloss": "Nevukadnetsari"
+  },
+  {
+   "surface": "שלה",
+   "gloss": "mu mahoro"
+  },
+  {
+   "surface": "הוית",
+   "gloss": "nari"
+  },
+  {
+   "surface": "בביתי",
+   "gloss": "mu nzu yanjye"
+  },
+  {
+   "surface": "ורענן",
+   "gloss": "kandi naravumbagaye"
+  },
+  {
+   "surface": "בהיכלי",
+   "gloss": "mu ngoro yanjye"
+  }
+ ],
+ "timestamp": "2026-09-07T20:07:06.750558220Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "rw",
+  "chapter": 11,
+  "translation": "Yehoshuwa yagarutse icyo gihe, maze afata ⟨את⟩ Hatsori, na ⟨את⟩ umwami wayo amwica umumaro; kuko Hatsori kera ni wo wari umutwe w'ubwami bwa aya bwose.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yagarutse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mu gihe"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "icyo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "maze afata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsori"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "umwami wayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "umwami wayo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "amwica"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "umumaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsori"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni wo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umutwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bwose"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "ubwami"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bwa aya"
+    }
+  ],
+  "timestamp": "2026-09-07T11:33:42.543755154Z",
+  "model": "glm-5.3"
+}

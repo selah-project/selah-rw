@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Yise kuri Yahwe, aramukize; aramurokore, kuko yamukunda ⟨we⟩.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Yise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "aramukize"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "aramurokore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yamukunda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-09-07T18:10:45.405218807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 102,
+  "translation": "Mu bihe byashize washinze isi, n'amajuru ⟨ni⟩ ibikorwa by'ibiganza byawe.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Mu bihe byashize"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "washinze"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "n'ibikorwa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "by'ibiganza byawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amajuru"
+    }
+  ],
+  "timestamp": "2026-09-07T18:43:26.742221223Z",
+  "model": "glm-5.3"
+}

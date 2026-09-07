@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Byose bajya mu ahantu hamwe; byose byavuye mu ivumbi, kandi byose bisubira mu ivumbi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bajya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ahantu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "byose"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byavuye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ivumbi"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "kandi byose"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bisubira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ivumbi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:52:56.937650171Z",
+  "model": "glm-5.3"
+}

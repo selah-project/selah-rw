@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 64,
+  "translation": "Abantu bose bazatinya, bakamenyesha igikorwa cya Elohimu, bakumva neza n'icyo yakozwe.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bazatinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bose"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bakamenyesha"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "igikorwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "n'icyo yakozwe"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bakumva neza"
+    }
+  ],
+  "timestamp": "2026-09-07T18:26:10.541378972Z",
+  "model": "glm-5.3"
+}

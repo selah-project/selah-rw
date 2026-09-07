@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Kandi umugore wa mugenzi wawe ntumuhe ubusambane bwawe mu gutanga urubare, mu kwitura ubwandu uriho.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kandi ku"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wa mugenzi wawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "muhe"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ubusambane bwawe"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "mu gutanga urubare"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "mu kwitura ubwandu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uriho"
+    }
+  ],
+  "timestamp": "2026-09-07T09:43:30.966084515Z",
+  "model": "glm-5.3"
+}

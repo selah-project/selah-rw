@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Nta munyamahanga azarya ibintu byera; umuturo wa kohenu n'umukozi w'ingengo ntibarya ibintu byera.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nta munyu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "munyamahanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "azarya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ibintu byera"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "umuturo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wa kohenu"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "n'umukozi w'ingengo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "barya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ibintu byera"
+    }
+  ],
+  "timestamp": "2026-09-07T09:48:00.909181856Z",
+  "model": "glm-5.3"
+}

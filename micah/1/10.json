@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "I Gati ntimubwire, ntimure na gato; mu Beti Leafurahu ⟨ni⟩ mu itaka narikubise.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "i Gati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "bwire"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "mure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "mure"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Beti Leafurahu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mu itaka"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "narikubise"
+    }
+  ],
+  "timestamp": "2026-09-07T23:23:22.331122930Z",
+  "model": "glm-5.3"
+}

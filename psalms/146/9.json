@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 146,
+  "translation": "Yahwe arinza ⟨את⟩ abashyitsi, imfubyi n'umupfakazi arabahagurutsa, ariko inzira y'ababi ayiteza ingingo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "arinza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abashyitsi"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abashyitsi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "imfubyi"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "n'umupfakazi"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "arabahagurutsa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "inzira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "y'ababi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ayiteza ingingo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:57:11.777904582Z",
+  "model": "glm-5.3"
+}

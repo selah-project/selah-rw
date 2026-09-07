@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 53,
+  "translation": "Mu ifungwa no mu rubanza rwikuyemo na ⟨את⟩ ibisekuruza bye — ni nde uzabivuga neza? Kuko yaciwe mu gihugu cy'abaho, kubera icyaha cy'abantu banjye; iyanjwe yari iya bo.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "mu ifungwa"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "no mu rubanza"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "rwikuyemo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibisekuruza bye"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "ibisekuruza bye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nde"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "uzabivuga neza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "yaciwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu gihugu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "cy'abaho"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "kubera icyaha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cy'abantu banjye"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "iyanjwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iya bo"
+    }
+  ],
+  "timestamp": "2026-09-07T15:28:45.405011528Z",
+  "model": "glm-5.3"
+}

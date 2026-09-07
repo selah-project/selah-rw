@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Maze niba umunyabyaha aba ⟨umwana w'ibyipfuko⟩ ⟨gusobanura: akwiriye gukurwa⟩, umucamanza amugire akuwe hasi, maze bamukube imbere ye, nk'ubunini bw'icyaha cye, mu mibare.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maze haba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "w'ibyipfuko"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "umunyabyaha"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "amugire akuwe hasi"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "umucamanza"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "bamukube"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbere ye"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "nk'ubunini"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "icyaha cye"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "mu mibare"
+    }
+  ],
+  "timestamp": "2026-09-07T11:10:58.102334086Z",
+  "model": "glm-5.3"
+}

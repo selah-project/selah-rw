@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Igihe cyo kuvuka, n'igihe cyo gupfa; igihe cyo kubiba, n'igihe cyo kuribiza ibyabitswe.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "cyo kuvuka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "cyo gupfa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "igihe"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "cyo kubiba"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "n'igihe"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "cyo kuribiza"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ibyabitswe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:41.528853848Z",
+  "model": "glm-5.3"
+}

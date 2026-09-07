@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Maze isi izasubiza ⟨את⟩ imbuto, na ⟨את⟩ divai nshya na ⟨את⟩ amavuta; na ko kazasubiza ⟨את⟩ Yizireli.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Maze isi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "izasubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbuto"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "imbuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "divai nshya"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "divai nshya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amavuta"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "amavuta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na ko"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "kazasubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizireli"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizireli"
+    }
+  ],
+  "timestamp": "2026-09-07T17:29:27.421417974Z",
+  "model": "glm-5.3"
+}

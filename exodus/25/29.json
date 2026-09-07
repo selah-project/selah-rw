@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 25,
+  "translation": "Uzakora ibyansi byayo, n'ibikapo byayo, n'ibitembera byayo, n'utukopo two kwisukura, ayo bizahwitizwamo; muri zahabu yera uzakora ⟨את⟩ byose.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzakora"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "ibyansi byayo"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "n'ibikapo byayo"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "n'ibitembera byayo"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "n'utukopo two kwisukura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bizahwitizwamo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "muri byo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yera"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzakore"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "byose"
+    }
+  ],
+  "timestamp": "2026-09-07T09:04:18.028805203Z",
+  "model": "glm-5.3"
+}

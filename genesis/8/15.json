@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 8,
+  "translation": "Elohimu yaravuze na Noahi (Nuha) ati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yaravuze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi (Nuha)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-07T21:07:48.478284691Z",
+  "model": "glm-5.3"
+}

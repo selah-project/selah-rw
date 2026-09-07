@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 80,
+  "translation": "Ingurube ihuye mu gasozi irayirimbura, n'inyamaswa z'ishamba zirayisya.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "irayirimbura"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ingurube"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ihuye mu gasozi"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "n'inyamaswa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "z'ishamba"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "zirayisya"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:43.202355225Z",
+  "model": "glm-5.3"
+}

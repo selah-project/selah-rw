@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 77,
+  "translation": "Ibicu bikomeye byatsekeye amazi; ibirere bitanze ijwi; na ntondo zawe zikagenda zihindagurika.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "byatsekeye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ibicu bikomeye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijwi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bitanze"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ibirere"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "ntondo zawe"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "zikagenda zihindagurika"
+    }
+  ],
+  "timestamp": "2026-09-07T18:31:50.743565799Z",
+  "model": "glm-5.3"
+}

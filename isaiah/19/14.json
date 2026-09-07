@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Yahwe yasangiye mu kibiri cyayo umwuka w'ubuhemu, maze barayobya ⟨את⟩ Mitsrayimu mu bikorwa byawe byose, nk'uko umusazi ayoberwa mu byara bye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "yasangiye"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mu kibiri cyayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umwuka"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "w'ubuhemu"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "maze barayobya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... byose"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "mu bikorwa bye"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "nk'uko ... ayoberwa"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "umusazi"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "mu byara bye"
+    }
+  ],
+  "timestamp": "2026-09-07T14:54:09.077255369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 105,
+  "translation": "Yavuze, maze waje urubare rw'amasazi n'utunyugunyugu mu mipaka yabo yose.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yavuze"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "maze waje"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "urubare rw'amasazi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "utunyugunyugu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu ... yose"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mipaka yabo"
+    }
+  ],
+  "timestamp": "2026-09-07T18:45:11.851069948Z",
+  "model": "glm-5.3"
+}

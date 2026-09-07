@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Na we agakora icyubahiro, aravuga ati: Ni ikihe umugaragu wawe, ko wereje ku mbwa yapfuye nka njye?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "agakora icyubahiro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni ikihe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umugaragu wawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "wereje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yapfuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nka"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "nka njye"
+    }
+  ],
+  "timestamp": "2026-09-07T13:04:26.677620901Z",
+  "model": "glm-5.3"
+}

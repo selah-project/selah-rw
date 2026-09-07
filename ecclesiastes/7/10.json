@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Utivuge uti: Ni iki cyatumaga iminsi yabanjirije yari nziza kurusha iyi? koko ntabwo mu kwenge wabaze ibi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uvuge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni iki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "cyatumaga…yari"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ko iminsi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yabanjirije"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yari"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nziza"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kurusha iyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "mu kwenge"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "wabaze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ibi"
+    }
+  ],
+  "timestamp": "2026-09-07T19:54:10.110010781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 46:10",
+ "book": "psalms",
+ "lang": "rw",
+ "chapter": 46,
+ "translation": "Arangiza intambara kugeza ku mpera z'isi: umwambi arawuvuna, icimu na wo arawukorora, ingana ⟨z'intambara⟩ araziteka mu muriro.",
+ "tokens": [
+  {
+   "surface": "משבית",
+   "gloss": "Arangiza"
+  },
+  {
+   "surface": "מלחמות",
+   "gloss": "intambara"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kugeza"
+  },
+  {
+   "surface": "קצה",
+   "gloss": "ku mpera"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "z'isi"
+  },
+  {
+   "surface": "קשת",
+   "gloss": "umwambi"
+  },
+  {
+   "surface": "ישבר",
+   "gloss": "arawuvuna"
+  },
+  {
+   "surface": "וקצץ",
+   "gloss": "na wo arawukorora"
+  },
+  {
+   "surface": "חנית",
+   "gloss": "icimu"
+  },
+  {
+   "surface": "עגלות",
+   "gloss": "ingana"
+  },
+  {
+   "surface": "ישרף",
+   "gloss": "araziteka"
+  },
+  {
+   "surface": "באש",
+   "gloss": "mu muriro"
+  }
+ ],
+ "timestamp": "2026-09-07T18:21:48.450194492Z",
+ "model": "glm-5.3"
+}

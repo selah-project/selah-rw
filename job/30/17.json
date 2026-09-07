@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Mu ijoro amagufwa yanjye yaturikwa mu nda yanjye, kandi imitsi yanjye ntiburyama.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "mu ijoro"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amagufwa yanjye"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "yaturikwa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "mu nda yanjye"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "imitsi yanjye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti-"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "buryama"
+    }
+  ],
+  "timestamp": "2026-09-07T19:35:27.627363443Z",
+  "model": "glm-5.3"
+}

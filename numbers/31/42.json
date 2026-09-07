@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 31,
+  "translation": "No mu cyegere cy'abahungu ba Yisraeli, cya Moshe yatandukanyije mu bagabo b'ingabo,",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "No mu cyegere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abahungu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cya"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "yatandukanyije"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bagabo"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "b'ingabo"
+    }
+  ],
+  "timestamp": "2026-09-07T10:35:47.527679899Z",
+  "model": "glm-5.3"
+}

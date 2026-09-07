@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 106,
+  "translation": "Yarabakiza mu ntoki z'uwabatinyaga, maze arabakura mu ntoki z'umwanzi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Yarabakiza"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "z'uwabatinyaga"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "maze arabakura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mu ntoki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "z'umwanzi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:44:21.676093063Z",
+  "model": "glm-5.3"
+}

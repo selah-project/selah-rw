@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abantu barasatyagaye mu gihugu cyose cya Mitsrayimu (Egiputa), bajya korora ibyatsi byumye ngo babone ibyatsi.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "barasatyagaye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … cyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "igihugu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cya Mitsrayimu"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "bajya korora"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ibyatsi byumye"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ngo babone ibyatsi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:35:33.558359980Z",
+  "model": "glm-5.3"
+}

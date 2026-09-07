@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "rw",
+  "chapter": 19,
+  "translation": "Ntukore ikibazo ku ⟨את⟩ umunyurwanda wawe, kandi ntumurimbuze; umushahara w'umukozi ⟨את⟩ uri kuri wewe ntuzawugumishe kugeza mu gitondo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "kore ikibazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umunyurwanda wawe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "umunyurwanda wawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi ntu"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "murimbuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntu"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "zawugumishe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "umushahara"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "w'umukozi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uri kuri wewe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mu gitondo"
+    }
+  ],
+  "timestamp": "2026-09-07T09:49:53.438142383Z",
+  "model": "glm-5.3"
+}

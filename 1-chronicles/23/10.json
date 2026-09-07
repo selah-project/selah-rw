@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "rw",
+  "chapter": 23,
+  "translation": "Abana ba Shim'i: Yahati, Zina, Yeushi na Beriya; ayo ni abana ba Shim'i, bine.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ba Shim'i"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahati"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "na Beriya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abana"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ba Shim'i"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bine"
+    }
+  ],
+  "timestamp": "2026-09-07T20:42:16.494275771Z",
+  "model": "glm-5.3"
+}

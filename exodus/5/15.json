@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Abatware b'abana ba Yisraeli baza baratangara kwa Paro bati: Kuki ukora gutya ku bagaragu bawe?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "baza"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "בני",
+      "gloss": "b'abana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "baratangara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kuki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukora"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gutya"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ku bagaragu bawe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:36:16.912276307Z",
+  "model": "glm-5.3"
+}

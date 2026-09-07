@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 9,
+  "translation": "Kuko iyo nabaga ari njye nakoherereje ⟨את⟩ ukuboko kwanjye, nakubagije ⟨את⟩ wowe na ⟨את⟩ ubwoko bwawe n'icyonjo, umwe n'ubwoko bwawe byarakurwaho mu isi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kuko"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nakoherereje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuboko kwanjye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ukuboko kwanjye"
+    },
+    {
+      "surface": "ואך",
+      "gloss": ""
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wowe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubwoko bwawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ubwoko bwawe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "n'icyonjo"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "byarakurwaho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T08:41:15.198997878Z",
+  "model": "glm-5.3"
+}

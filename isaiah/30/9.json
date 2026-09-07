@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "rw",
+  "chapter": 30,
+  "translation": "Ko abantu b'umwigarari ni bo, abana b'ibinyoma, abana badashaka kumva Tora ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "b'umwigarari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni bo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "b'ibinyoma"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "badashaka"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-07T15:03:40.539358685Z",
+  "model": "glm-5.3"
+}

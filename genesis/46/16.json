@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 46,
+  "translation": "Abahungu ba Gadi: Tsifyoni, na Hagi, na Shuni, na Etseboni, Eri, na Arodi, na Areli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abahungu ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Tsifyoni"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "na Hagi"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "na Shuni"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "na Etseboni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "na Arodi"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "na Areli"
+    }
+  ],
+  "timestamp": "2026-09-07T08:26:32.844633512Z",
+  "model": "glm-5.3"
+}

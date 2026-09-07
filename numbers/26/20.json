@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 26,
+  "translation": "Abahungu ba Yehuda bobse bahindutse ku muryango wabo: kwa Shelahi umuryango wa Shelani, kwa Peretsi umuryango wa Partsi, kwa Zerahi umuryango wa Zarchi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bahindutse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abahungu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ku muryango wabo"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "kwa Shelahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "wa Shelani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "kwa Peretsi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "wa Partsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "kwa Zerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umuryango"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "wa Zarchi"
+    }
+  ],
+  "timestamp": "2026-09-07T10:29:23.922368496Z",
+  "model": "glm-5.3"
+}

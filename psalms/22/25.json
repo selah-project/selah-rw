@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Kuko ntiyashyize ku ruhande kandi ntiyakangutse ububabare bw'uwugaye, kandi ntiyahishuye uburambe bwe bimwe na We; ariko ubwo yararamuye iwe, yarumvise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti…"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "yashyize ku ruhande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti…"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "yakangutse"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ububabare"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bw'uwugaye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kandi nti…"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "yahishuye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uburambe bwe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bimwe na We"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ariko ubwo yararamuye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yarumvise"
+    }
+  ],
+  "timestamp": "2026-09-07T18:12:16.384261121Z",
+  "model": "glm-5.3"
+}

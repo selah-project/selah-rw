@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 69,
+  "translation": "Unrokore mu bijarijari, kandi ntizimire; nkurweho n'abansi banjye, no mu ndinde z'amazi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Unrokore"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mu bijarijari"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kandi nta"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ntizimire"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "nkurweho"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "n'abansi banjye"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "no mu ndinde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "z'amazi"
+    }
+  ],
+  "timestamp": "2026-09-07T18:29:04.733736511Z",
+  "model": "glm-5.3"
+}

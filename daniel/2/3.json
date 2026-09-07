@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "rw",
+  "chapter": 2,
+  "translation": "Umwami yababwiye ati: Inzozi nararotse, kandi umwuka wanjye wangijwe n'agahinda ngo nmenye ⟨את⟩ inzozi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yababwiye ati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umwami"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "inzozi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nararotse"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "wangijwe n'agahinda"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umwuka wanjye"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzozi"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "inzozi"
+    }
+  ],
+  "timestamp": "2026-09-07T20:02:41.222325745Z",
+  "model": "glm-5.3"
+}

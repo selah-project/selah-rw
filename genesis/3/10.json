@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Aravuga ati: \"Ijwi ryawe ndumvise mu busitani, ndatinya kuko mfite ubusa, maze nahisiye.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijwi ryawe"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ijwi ryawe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndumvise"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mu busitani"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ndatinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ubusa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "njyewe"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "nahisiye"
+    }
+  ],
+  "timestamp": "2026-09-07T07:31:42.402450254Z",
+  "model": "glm-5.3"
+}

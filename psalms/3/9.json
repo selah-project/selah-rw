@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Kwa Yahwe ⟨ni⟩ ubukiza; umugisha wawe ⟨uri⟩ ku bantu bawe. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ubukiza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bawe"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "umugisha wawe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T18:03:42.980973406Z",
+  "model": "glm-5.3"
+}

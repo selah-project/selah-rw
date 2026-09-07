@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Aba ni abatware bari kuri we: Azaryahu umwana wa Tsadoku, we kohenu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "abatware"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuri we"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umwana wa"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenu"
+    }
+  ],
+  "timestamp": "2026-09-07T13:31:13.039164311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 18,
+  "translation": "Yitro, umukwe wa Moshe, yafashe ⟨את⟩ Tsipora, umugore wa Moshe, nyuma yo kumwohereza.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yafashe"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umukwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umugore wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma yo"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kumwohereza"
+    }
+  ],
+  "timestamp": "2026-09-07T08:55:09.822027916Z",
+  "model": "glm-5.3"
+}

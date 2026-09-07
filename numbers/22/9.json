@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 22,
+  "translation": "Elohimu yaje kwa Bilamu maze aravuze ⟨ati⟩: Ni aba bantu bande bafitanye na wowe?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aravuze"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bande"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "aba bantu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bafitanye na wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T10:25:48.254750690Z",
+  "model": "glm-5.3"
+}

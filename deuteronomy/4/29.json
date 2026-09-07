@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "rw",
+  "chapter": 4,
+  "translation": "Muri uwo mwanya muzashakisha ⟨את⟩ Yahwe Elohimu wawe, maze muzabona, kuko muzamushakisha mu mutima wanyu wose no mu Nefeshi yanyu yose.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "muzashakisha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "muri uwo mwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimu wawe"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "maze muzabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "muzamushakisha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…wose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mutima wanyu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no mu…wose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshi yanyu"
+    }
+  ],
+  "timestamp": "2026-09-07T10:51:11.975092274Z",
+  "model": "glm-5.3"
+}

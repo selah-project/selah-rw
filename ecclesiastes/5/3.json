@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Iyo uremeye isezerano kuri Elohimu, ntutindire ku ryuzuza; koko nta gushimirwa mu bandengakamere — ⟨את⟩ ibyo uremeye, uruzuzemo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "uremeye"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isezerano"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuri Elohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntu-"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tindire"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ku ryuzuza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nta"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gushimirwa"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "mu bandengakamere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibyo uremeye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ibyo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "uremeye"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "uruzuzemo"
+    }
+  ],
+  "timestamp": "2026-09-07T19:53:39.976866179Z",
+  "model": "glm-5.3"
+}

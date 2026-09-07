@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "rw",
+  "chapter": 7,
+  "translation": "Kandi ku majambo yose bavuze, ntabwo utanga umutima wawe, ngo ntumve ⟨את⟩ umuja wawe aguca wowe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kandi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku… yose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "majambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bavuze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntabwo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utanga"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "umutima wawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuja wawe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umuja wawe"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "aguca wowe"
+    }
+  ],
+  "timestamp": "2026-09-07T22:03:18.970554029Z",
+  "model": "glm-5.3"
+}

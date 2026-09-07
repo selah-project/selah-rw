@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "rw",
+  "chapter": 83,
+  "translation": "Ihema rya Edomu na Abishimayeri, Moabu na Abahageri.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Ihema"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "rya Edomu"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "na Abishimayeri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "na Abahageri"
+    }
+  ],
+  "timestamp": "2026-09-07T18:34:59.849789745Z",
+  "model": "glm-5.3"
+}

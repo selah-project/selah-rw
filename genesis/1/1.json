@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "rw",
+  "chapter": 1,
+  "translation": "Mu ntangiriro Elohimu yaremye ⟨את⟩ ijuru na ⟨את⟩ isi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Mu ntangiriro"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaremye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ijuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-09-07T07:33:38.999034969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "rw",
+  "chapter": 3,
+  "translation": "Yabwiye iwanjye ati: Mwana w'umuntu, ⟨את⟩ amagambo yanjye yose nzakubwira, uyafate mu mutima wawe, kandi uyumve n'amatwi yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yabwiye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iwanjye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "w'umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagambo yanjye yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagambo yanjye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nzakubwira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuri wowe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "uyafate"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mu mutima wawe"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "kandi n'amatwi yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyumve"
+    }
+  ],
+  "timestamp": "2026-09-07T16:42:57.376397252Z",
+  "model": "glm-5.3"
+}

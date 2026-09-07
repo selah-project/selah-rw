@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "rw",
+  "chapter": 20,
+  "translation": "Ntimukore ⟨את⟩ imana z'ifeza n'imana za zahabu; ntimuzikore mwebwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ntimu-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kore"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "imana z'ifeza n'imana za zahabu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "imana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "z'ifeza"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "n'imana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za zahabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntimu-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zikore"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwebwe"
+    }
+  ],
+  "timestamp": "2026-09-07T08:52:26.862935126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "rw",
+  "chapter": 5,
+  "translation": "Maze umukohenu andika ⟨את⟩ izi ndyarya mu gitabo, maze ahanagura ⟨zi⟩ mu mazi akaze.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "maze andika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izi ndyarya"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "izi ndyarya"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umukohenu"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu gitabo"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "maze ahanagura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amazi"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "akaze"
+    }
+  ],
+  "timestamp": "2026-09-07T10:05:05.367529273Z",
+  "model": "glm-5.3"
+}
