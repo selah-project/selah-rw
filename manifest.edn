@@ -120,8 +120,8 @@
             {:git
              {:repo "selah-project/selah-rw",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "aaf4274f",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :rw}
