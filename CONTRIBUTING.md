@@ -65,3 +65,8 @@ not erasure — *Yahwe yaravuze*, *ijambo rya Yahwe*, *inzu ya Yahwe*,
 intact. שאול is **Sheoli**, never *ikuzimu*; supplied words only in
 ⟨⟩; no English or French words survive in the line, brackets
 included. Letter-faithfulness outranks readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
