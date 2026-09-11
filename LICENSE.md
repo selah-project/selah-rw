@@ -12,7 +12,7 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
 Ufite ubwisanzure bwo gusangiza no guhindura uyu murimo ku mpamvu
 iyo ari yo yose — harimo n'iy'ubucuruzi — igihe cyose wivuze neza
-**umushinga Selah** (https://selahproject.org), ukavuga
+**umushinga Selah** (https://selahproject.com), ukavuga
 impinduka wakoze, kandi ibyakomotseho ukabisohora ku ruhushya rumwe.
 
 Umwandiko w'Igiheburayo shingiro ni OpenScriptures Hebrew Bible
@@ -27,7 +27,7 @@ rendering of the Hebrew Bible (one rendering per verse and one gloss
 per word-unit), together with its full revision history. Published
 under **CC BY-SA 4.0**. You are free to share and adapt this work for
 any purpose, including commercially, provided you give appropriate
-credit to the **Selah project** (https://selahproject.org), state
+credit to the **Selah project** (https://selahproject.com), state
 your changes, and distribute derivatives under the same license. The
 underlying Hebrew text is the OpenScriptures Hebrew Bible (WLC), in
 the public domain; the rendering, glosses, markers and revision

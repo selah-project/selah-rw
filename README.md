@@ -170,7 +170,7 @@ y'ivugurura ni umurimo bwite w'umushinga Selah.
 
 ## Shyigikira Selah
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
