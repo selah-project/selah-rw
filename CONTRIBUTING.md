@@ -9,7 +9,7 @@ ivuga uko wadufasha.
 - Fungura **Issue** mu bubiko:
   <https://github.com/selah-project/selah-rw>
 - Cyangwa, niba ushobora kurikosora ubwawe, fungura **Pull request**.
-- Cyangwa utwandikire: <support@selahproject.com>
+- Cyangwa utwandikire: <https://s33k3r.com/learn/support>
 
 ## Ibigomba kuba muri ubwo butumwa
 
@@ -54,7 +54,7 @@ turagusaba: kizane.
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-rw>, or write to
-<support@selahproject.com>. One file = one verse; unit count equals
+<https://s33k3r.com/learn/support>. One file = one verse; unit count equals
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Yahwe, Elohimu…) never yield to a title — not *Uwiteka*, not
 *Yehova*, not *Imana* at the Name or Elohim seat. The Name takes
